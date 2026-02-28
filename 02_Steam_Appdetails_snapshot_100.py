@@ -2,7 +2,7 @@ import os, json, time, random, datetime
 import pandas as pd
 import requests
 
-INPUT_CSV = "(cozy)SteamDB_AppID,GameName_100.csv"
+INPUT_CSV = "(cozy)Steam Data\(cozy)SteamDB_AppID,GameName_100.csv"
 OUT_DIR = "(cozy)Steam Data"
 CC = "us"
 LANG = "english"
