@@ -1,0 +1,298 @@
+{
+  "3618390": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Gamblers Table",
+      "steam_appid": 3618390,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        4218840
+      ],
+      "detailed_description": "<p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/b2f8e6664ce535bfe8dd339c225af4c4.webp?t=1771280235\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/b2f8e6664ce535bfe8dd339c225af4c4.poster.avif?t=1771280235\" class=\"bb_img\" width=1170 height=171 /></picture></span></p><p class=\"bb_paragraph\" style=\"text-align: center\">Click on coins to toss and flip them - having coins land on their dollar side wins you sweet, sweet cash. Use your winnings to buy more and better coins. The more coins that you own, the more coins you can flip! Spend your money on upgrades to improve your earnings and watch your coins flood the table and your income flood your pockets. Simple, satisfying and strangely compelling ...</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/3592403217bfafe51a406481970b202c.poster.avif?t=1771280235\" width=1170 height=854 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/3592403217bfafe51a406481970b202c.webm?t=1771280235\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/3592403217bfafe51a406481970b202c.mp4?t=1771280235\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/67967330f4dd6bd119f4b5ae8dded035.webp?t=1771280235\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/67967330f4dd6bd119f4b5ae8dded035.poster.avif?t=1771280235\" class=\"bb_img\" width=1170 height=171 /></picture></span></p><p class=\"bb_paragraph\" style=\"text-align: center\">Tired of clicking? Automate the flipping by hiring little helpers that take care of all the manual labour for you. They don’t complain, and they never question. Upgrade your helpers to make them faster, stronger and smarter or just dress them up with funny hats!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/5445a0bb1c77511c293f2f0db2615afa.poster.avif?t=1771280235\" width=1170 height=664 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/5445a0bb1c77511c293f2f0db2615afa.webm?t=1771280235\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/5445a0bb1c77511c293f2f0db2615afa.mp4?t=1771280235\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/3c00531db3b7b78719d87b2fb86e5fc5.webp?t=1771280235\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/3c00531db3b7b78719d87b2fb86e5fc5.poster.avif?t=1771280235\" class=\"bb_img\" width=1170 height=171 /></picture></span></p><p class=\"bb_paragraph\" style=\"text-align: center\">Gain talents that flip your previous strategy on its head! Unlock new coin types, stronger helpers or even divine intervention! Then sacrifice it all - leaving your fortunes behind and rising to something greater. Progress feels natural ... almost guided.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/695980e234c76eaf359b7a2417b9f583.poster.avif?t=1771280235\" width=1170 height=664 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/695980e234c76eaf359b7a2417b9f583.webm?t=1771280235\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/695980e234c76eaf359b7a2417b9f583.mp4?t=1771280235\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/972d529614ca873dc4ca4b7a22762ffa.webp?t=1771280235\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/972d529614ca873dc4ca4b7a22762ffa.poster.avif?t=1771280235\" class=\"bb_img\" width=1170 height=171 /></picture></span></p><p class=\"bb_paragraph\" style=\"text-align: center\">Grow, grow and grow some more! Every incremental upgrade counts while you increase your savings from hundreds to thousands to billions. Admire your riches, lean back and watch your automated empire of flipping coins grow.. A faint sense of contentment washes over you - then slips away, leaving only the urge for more...</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/38cb2b1fdc759ca3d57422b07577cf24.poster.avif?t=1771280235\" width=1170 height=664 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/38cb2b1fdc759ca3d57422b07577cf24.webm?t=1771280235\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/38cb2b1fdc759ca3d57422b07577cf24.mp4?t=1771280235\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/4c59406288c3838940c26d920128b1e4.webp?t=1771280235\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/4c59406288c3838940c26d920128b1e4.poster.avif?t=1771280235\" class=\"bb_img\" width=1170 height=171 /></picture></span></p><p class=\"bb_paragraph\" style=\"text-align: center\">Having a coin land on its skull side sadly doesn't earn you money, but there is a silver lining: You just earned a skull token! Use them at the capsule machines to win unique customization options for your helpers. Want an fearsome army of bunny helpers? Or would you rather have them all be underwater themed? Make sure you flip coins in style! Word on the street is that there are even rare golden and rainbow hat variants.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/8bb1431e695db4f3d7c15a7b40473966.poster.avif?t=1771280235\" width=1170 height=664 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/8bb1431e695db4f3d7c15a7b40473966.webm?t=1771280235\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/8bb1431e695db4f3d7c15a7b40473966.mp4?t=1771280235\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/80622e3e6993dd788af33bec3330ae08.poster.avif?t=1771280235\" width=1170 height=224 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/80622e3e6993dd788af33bec3330ae08.webm?t=1771280235\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/80622e3e6993dd788af33bec3330ae08.mp4?t=1771280235\" type=\"video/mp4\"></video></span></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/b2f8e6664ce535bfe8dd339c225af4c4.webp?t=1771280235\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/b2f8e6664ce535bfe8dd339c225af4c4.poster.avif?t=1771280235\" class=\"bb_img\" width=1170 height=171 /></picture></span></p><p class=\"bb_paragraph\" style=\"text-align: center\">Click on coins to toss and flip them - having coins land on their dollar side wins you sweet, sweet cash. Use your winnings to buy more and better coins. The more coins that you own, the more coins you can flip! Spend your money on upgrades to improve your earnings and watch your coins flood the table and your income flood your pockets. Simple, satisfying and strangely compelling ...</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/3592403217bfafe51a406481970b202c.poster.avif?t=1771280235\" width=1170 height=854 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/3592403217bfafe51a406481970b202c.webm?t=1771280235\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/3592403217bfafe51a406481970b202c.mp4?t=1771280235\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/67967330f4dd6bd119f4b5ae8dded035.webp?t=1771280235\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/67967330f4dd6bd119f4b5ae8dded035.poster.avif?t=1771280235\" class=\"bb_img\" width=1170 height=171 /></picture></span></p><p class=\"bb_paragraph\" style=\"text-align: center\">Tired of clicking? Automate the flipping by hiring little helpers that take care of all the manual labour for you. They don’t complain, and they never question. Upgrade your helpers to make them faster, stronger and smarter or just dress them up with funny hats!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/5445a0bb1c77511c293f2f0db2615afa.poster.avif?t=1771280235\" width=1170 height=664 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/5445a0bb1c77511c293f2f0db2615afa.webm?t=1771280235\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/5445a0bb1c77511c293f2f0db2615afa.mp4?t=1771280235\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/3c00531db3b7b78719d87b2fb86e5fc5.webp?t=1771280235\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/3c00531db3b7b78719d87b2fb86e5fc5.poster.avif?t=1771280235\" class=\"bb_img\" width=1170 height=171 /></picture></span></p><p class=\"bb_paragraph\" style=\"text-align: center\">Gain talents that flip your previous strategy on its head! Unlock new coin types, stronger helpers or even divine intervention! Then sacrifice it all - leaving your fortunes behind and rising to something greater. Progress feels natural ... almost guided.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/695980e234c76eaf359b7a2417b9f583.poster.avif?t=1771280235\" width=1170 height=664 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/695980e234c76eaf359b7a2417b9f583.webm?t=1771280235\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/695980e234c76eaf359b7a2417b9f583.mp4?t=1771280235\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/972d529614ca873dc4ca4b7a22762ffa.webp?t=1771280235\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/972d529614ca873dc4ca4b7a22762ffa.poster.avif?t=1771280235\" class=\"bb_img\" width=1170 height=171 /></picture></span></p><p class=\"bb_paragraph\" style=\"text-align: center\">Grow, grow and grow some more! Every incremental upgrade counts while you increase your savings from hundreds to thousands to billions. Admire your riches, lean back and watch your automated empire of flipping coins grow.. A faint sense of contentment washes over you - then slips away, leaving only the urge for more...</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/38cb2b1fdc759ca3d57422b07577cf24.poster.avif?t=1771280235\" width=1170 height=664 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/38cb2b1fdc759ca3d57422b07577cf24.webm?t=1771280235\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/38cb2b1fdc759ca3d57422b07577cf24.mp4?t=1771280235\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/4c59406288c3838940c26d920128b1e4.webp?t=1771280235\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/4c59406288c3838940c26d920128b1e4.poster.avif?t=1771280235\" class=\"bb_img\" width=1170 height=171 /></picture></span></p><p class=\"bb_paragraph\" style=\"text-align: center\">Having a coin land on its skull side sadly doesn't earn you money, but there is a silver lining: You just earned a skull token! Use them at the capsule machines to win unique customization options for your helpers. Want an fearsome army of bunny helpers? Or would you rather have them all be underwater themed? Make sure you flip coins in style! Word on the street is that there are even rare golden and rainbow hat variants.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/8bb1431e695db4f3d7c15a7b40473966.poster.avif?t=1771280235\" width=1170 height=664 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/8bb1431e695db4f3d7c15a7b40473966.webm?t=1771280235\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/8bb1431e695db4f3d7c15a7b40473966.mp4?t=1771280235\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/80622e3e6993dd788af33bec3330ae08.poster.avif?t=1771280235\" width=1170 height=224 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/80622e3e6993dd788af33bec3330ae08.webm?t=1771280235\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/extras/80622e3e6993dd788af33bec3330ae08.mp4?t=1771280235\" type=\"video/mp4\"></video></span></p>",
+      "short_description": "Gamblers Table is an incremental game where you toss coins to earn money. Buy bigger and better coins, unlock upgrades and hire little helpers to automate the process and take care of all the busy flipping work for you. Simple. Satisfying. Strangely compelling...",
+      "supported_languages": "English, German, Spanish - Spain, Spanish - Latin America, French, Italian, Polish, Japanese, Portuguese - Brazil, Portuguese - Portugal, Turkish",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/26ef429a9baa440a27796329e6f1cbef56247471/header_alt_assets_2.jpg?t=1771280235",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/a124031054ec59b4ee9056921cfd77f28b048e03/capsule_231x87.jpg?t=1771280235",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/a124031054ec59b4ee9056921cfd77f28b048e03/capsule_184x69.jpg?t=1771280235",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 11<br></li><li><strong>Processor:</strong> x86_64 CPU with SSE4.2 instructions, with 4 physical cores or more, ARMv8 CPU<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any after distro 2020<br></li><li><strong>Graphics:</strong> Integrated graphics with full Vulkan 1.0 support<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Any after distro 2020<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "developers": [
+        "greenpixels",
+        "Bossforge"
+      ],
+      "publishers": [
+        "greenpixels",
+        "Bossforge"
+      ],
+      "demos": [
+        {
+          "appid": 3747250,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 699,
+        "final": 489,
+        "discount_percent": 30,
+        "initial_formatted": "$6.99",
+        "final_formatted": "$4.89"
+      },
+      "packages": [
+        1275769,
+        1493033
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Gamblers Table",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1275769,
+              "percent_savings_text": "-30% ",
+              "percent_savings": 0,
+              "option_text": "Gamblers Table - <span class=\"discount_original_price\">$6.99</span> $4.89",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 489
+            },
+            {
+              "packageid": 1493033,
+              "percent_savings_text": "-30% ",
+              "percent_savings": 0,
+              "option_text": "Gamblers Table - Deluxe Edition - <span class=\"discount_original_price\">$9.99</span> $6.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 699
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 66,
+          "description": "Color Alternatives"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 76,
+          "description": "Mouse Only Option"
+        },
+        {
+          "id": 79,
+          "description": "Save Anytime"
+        },
+        {
+          "id": 77,
+          "description": "Touch Only Option"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/5f13da6adcdf3a3980b8c0d7faa1880b30198f8e/ss_5f13da6adcdf3a3980b8c0d7faa1880b30198f8e.600x338.jpg?t=1771280235",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/5f13da6adcdf3a3980b8c0d7faa1880b30198f8e/ss_5f13da6adcdf3a3980b8c0d7faa1880b30198f8e.1920x1080.jpg?t=1771280235"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/53fe32ffc7ce115cd5b9d19e109ea71d3d940fbe/ss_53fe32ffc7ce115cd5b9d19e109ea71d3d940fbe.600x338.jpg?t=1771280235",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/53fe32ffc7ce115cd5b9d19e109ea71d3d940fbe/ss_53fe32ffc7ce115cd5b9d19e109ea71d3d940fbe.1920x1080.jpg?t=1771280235"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/7e5af2524b3defc23d46142db424cd9920e9a310/ss_7e5af2524b3defc23d46142db424cd9920e9a310.600x338.jpg?t=1771280235",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/7e5af2524b3defc23d46142db424cd9920e9a310/ss_7e5af2524b3defc23d46142db424cd9920e9a310.1920x1080.jpg?t=1771280235"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/4f1af7c4b28b7020c1fc5b927f4742853d3993fc/ss_4f1af7c4b28b7020c1fc5b927f4742853d3993fc.600x338.jpg?t=1771280235",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/4f1af7c4b28b7020c1fc5b927f4742853d3993fc/ss_4f1af7c4b28b7020c1fc5b927f4742853d3993fc.1920x1080.jpg?t=1771280235"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/f709468462dfb7bb2afbc58b3786a127e7a7d8e2/ss_f709468462dfb7bb2afbc58b3786a127e7a7d8e2.600x338.jpg?t=1771280235",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/f709468462dfb7bb2afbc58b3786a127e7a7d8e2/ss_f709468462dfb7bb2afbc58b3786a127e7a7d8e2.1920x1080.jpg?t=1771280235"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/f04d135643388a822a4faf5e2c73ba1fc143f568/ss_f04d135643388a822a4faf5e2c73ba1fc143f568.600x338.jpg?t=1771280235",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/f04d135643388a822a4faf5e2c73ba1fc143f568/ss_f04d135643388a822a4faf5e2c73ba1fc143f568.1920x1080.jpg?t=1771280235"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/85273cabc3df108e783aaac43f3781ca9d89207b/ss_85273cabc3df108e783aaac43f3781ca9d89207b.600x338.jpg?t=1771280235",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/85273cabc3df108e783aaac43f3781ca9d89207b/ss_85273cabc3df108e783aaac43f3781ca9d89207b.1920x1080.jpg?t=1771280235"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257249116,
+          "name": "Demo Out Now - Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257249116/6aa8ea2c25982fc485b29be8d557e117413e4330/movie_600x337.jpg?t=1765626103",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3618390/1358823446/ee174e85a1886c8a90a65199747a04af58174f9e/1765625572/dash_av1.mpd?t=1765626103",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3618390/1358823446/ee174e85a1886c8a90a65199747a04af58174f9e/1765625572/dash_h264.mpd?t=1765626103",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3618390/1358823446/ee174e85a1886c8a90a65199747a04af58174f9e/1765625572/hls_264_master.m3u8?t=1765626103",
+          "highlight": true
+        },
+        {
+          "id": 257131411,
+          "name": "Announcement Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257131411/7f91a30faac3d83ec7e9ac054d9f928bacc4022c/movie_600x337.jpg?t=1745751196",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3618390/878890/4751ce7c3dd39e9695990bfef25e4b0aea7c2610/1750454011/dash_av1.mpd?t=1745751196",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3618390/878890/4751ce7c3dd39e9695990bfef25e4b0aea7c2610/1750454011/dash_h264.mpd?t=1745751196",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3618390/878890/4751ce7c3dd39e9695990bfef25e4b0aea7c2610/1750454011/hls_264_master.m3u8?t=1745751196",
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 1676
+      },
+      "achievements": {
+        "total": 27,
+        "highlighted": [
+          {
+            "name": "One Of Many",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3618390/dfd5d662ac89482292962811b797362d5c892691.jpg"
+          },
+          {
+            "name": "Humble Beginnings",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3618390/dfd5d662ac89482292962811b797362d5c892691.jpg"
+          },
+          {
+            "name": "Gold Digger",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3618390/dfd5d662ac89482292962811b797362d5c892691.jpg"
+          },
+          {
+            "name": "Huge Investment",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3618390/ce8c53229bcb214a03f4b0dc9ce491aaa1948e13.jpg"
+          },
+          {
+            "name": "Fresh Off The Press",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3618390/ffb26758de6c7a4e0b403d3374e4f0be8a0813f1.jpg"
+          },
+          {
+            "name": "Not On My Watch!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3618390/dfd5d662ac89482292962811b797362d5c892691.jpg"
+          },
+          {
+            "name": "Offering",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3618390/dfd5d662ac89482292962811b797362d5c892691.jpg"
+          },
+          {
+            "name": "Getting Stronger",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3618390/dfd5d662ac89482292962811b797362d5c892691.jpg"
+          },
+          {
+            "name": "Stay Informed",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3618390/dfd5d662ac89482292962811b797362d5c892691.jpg"
+          },
+          {
+            "name": "Getting Started",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3618390/dfd5d662ac89482292962811b797362d5c892691.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jan 11, 2026"
+      },
+      "support_info": {
+        "url": "https://discord.gg/qe5FZbpFAE",
+        "email": ""
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3618390?t=1771280235",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618390/add15d5b4040aff7b335c9e93794eb5b5c4b0616/page_bg_raw.jpg?t=1771280235",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

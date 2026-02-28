@@ -1,0 +1,295 @@
+{
+  "2678830": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Halcyon Days at Taoyuan",
+      "steam_appid": 2678830,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        4399420,
+        4391750,
+        4327360
+      ],
+      "detailed_description": "<p class=\"bb_paragraph\" >Welcome to Taoyuan Village to heal your loneliness. </p><p class=\"bb_paragraph\" >Here, you can lead a carefree, self-sufficient life: farm, tame animals, raise livestock, fish, and build a prosperous homestead. </p><p class=\"bb_paragraph\" >Or, immerse in village life, meet kindred spirits, find love, and influence their destinies with your choices.</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/287651fdd9cd250f4b77e0992de19f28.avif?t=1771997650\" width=1560 height=304 /></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/6be31805ca3cdef50d6a85ef76cbeb5d.avif?t=1771997650\" width=1560 height=304 /></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/b49fe62e7e8538e0abb05043665e29de.avif?t=1771997650\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" >Whether it's the labor you put in or the relationships you cultivate, every drop of sweat you shed will bear fruit. In Taoyuan Village, no effort goes unrewarded.</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/abbde1ab88e41b5fcae67cc032f89e59.poster.avif?t=1771997650\" width=1138 height=640 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/abbde1ab88e41b5fcae67cc032f89e59.webm?t=1771997650\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/abbde1ab88e41b5fcae67cc032f89e59.mp4?t=1771997650\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/c84b18c0fed37f49855bc47c729d0778.webp?t=1771997650\" width=780 height=35 /></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/b48b8b12f3c87fdf9c732b13715d257f.avif?t=1771997650\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" >There are nine major occupations: farming, forestry, animal husbandry, fishing, tailoring, cooking, construction, mining, or martial arts. Which one do you want to excel in?</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/fb85515fe5a3e05538c84a97993b6571.poster.avif?t=1771997650\" width=1138 height=640 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/fb85515fe5a3e05538c84a97993b6571.webm?t=1771997650\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/fb85515fe5a3e05538c84a97993b6571.mp4?t=1771997650\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/6e0968791f36ad0a86fb067d0f0f865d.avif?t=1771997650\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" >Upgrade your house, furnish it with decorations, and create your ideal countryside compound. &quot;Where the heart finds peace is home.&quot;</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/678a0e5f184032c9d808aa245ef04474.poster.avif?t=1771997650\" width=1138 height=640 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/678a0e5f184032c9d808aa245ef04474.webm?t=1771997650\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/678a0e5f184032c9d808aa245ef04474.mp4?t=1771997650\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/c84b18c0fed37f49855bc47c729d0778.webp?t=1771997650\" width=780 height=35 /></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/1829cf567a27977d0b2fe0c0c08e552b.avif?t=1771997650\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" >Befriend wild creatures—train them as assistants or keep them as companions. The world may be frayed, but little paws mend it stitch by stitch. (And yes, those with hooves or wings count too!)</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/2a5945a2292c1987d2ad40d6f5ffb38b.poster.avif?t=1771997650\" width=1138 height=640 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/2a5945a2292c1987d2ad40d6f5ffb38b.webm?t=1771997650\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/2a5945a2292c1987d2ad40d6f5ffb38b.mp4?t=1771997650\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/c84b18c0fed37f49855bc47c729d0778.webp?t=1771997650\" width=780 height=35 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The villagers may be few, but each has a past, a story, and their own flaws and virtues—just like real people. Treat them with sincerity, and their attitudes toward you will change. You might even alter the course of their lives.</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/e4a162b46117a5c9ac987b190b9303af.avif?t=1771997650\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/b71c107932ce5c530d7abdc0d6f9a149.poster.avif?t=1771997650\" width=1138 height=640 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/b71c107932ce5c530d7abdc0d6f9a149.webm?t=1771997650\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/b71c107932ce5c530d7abdc0d6f9a149.mp4?t=1771997650\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/c84b18c0fed37f49855bc47c729d0778.webp?t=1771997650\" width=780 height=35 /></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/7553c97282a9fef2e9e82716458669d6.avif?t=1771997650\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" >Experience vibrant festivals—Spring Festival, Qingming, Dragon Boat, Mid-Autumn—along with grand Chinese-style weddings . Immerse yourself in the most traditional Chinese flavor.</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/68d0d3687a8feb713381b183d4eac472.poster.avif?t=1771997650\" width=1138 height=640 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/68d0d3687a8feb713381b183d4eac472.webm?t=1771997650\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/68d0d3687a8feb713381b183d4eac472.mp4?t=1771997650\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/c84b18c0fed37f49855bc47c729d0778.webp?t=1771997650\" width=780 height=35 /></span></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >Welcome to Taoyuan Village to heal your loneliness. </p><p class=\"bb_paragraph\" >Here, you can lead a carefree, self-sufficient life: farm, tame animals, raise livestock, fish, and build a prosperous homestead. </p><p class=\"bb_paragraph\" >Or, immerse in village life, meet kindred spirits, find love, and influence their destinies with your choices.</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/287651fdd9cd250f4b77e0992de19f28.avif?t=1771997650\" width=1560 height=304 /></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/6be31805ca3cdef50d6a85ef76cbeb5d.avif?t=1771997650\" width=1560 height=304 /></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/b49fe62e7e8538e0abb05043665e29de.avif?t=1771997650\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" >Whether it's the labor you put in or the relationships you cultivate, every drop of sweat you shed will bear fruit. In Taoyuan Village, no effort goes unrewarded.</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/abbde1ab88e41b5fcae67cc032f89e59.poster.avif?t=1771997650\" width=1138 height=640 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/abbde1ab88e41b5fcae67cc032f89e59.webm?t=1771997650\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/abbde1ab88e41b5fcae67cc032f89e59.mp4?t=1771997650\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/c84b18c0fed37f49855bc47c729d0778.webp?t=1771997650\" width=780 height=35 /></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/b48b8b12f3c87fdf9c732b13715d257f.avif?t=1771997650\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" >There are nine major occupations: farming, forestry, animal husbandry, fishing, tailoring, cooking, construction, mining, or martial arts. Which one do you want to excel in?</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/fb85515fe5a3e05538c84a97993b6571.poster.avif?t=1771997650\" width=1138 height=640 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/fb85515fe5a3e05538c84a97993b6571.webm?t=1771997650\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/fb85515fe5a3e05538c84a97993b6571.mp4?t=1771997650\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/6e0968791f36ad0a86fb067d0f0f865d.avif?t=1771997650\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" >Upgrade your house, furnish it with decorations, and create your ideal countryside compound. &quot;Where the heart finds peace is home.&quot;</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/678a0e5f184032c9d808aa245ef04474.poster.avif?t=1771997650\" width=1138 height=640 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/678a0e5f184032c9d808aa245ef04474.webm?t=1771997650\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/678a0e5f184032c9d808aa245ef04474.mp4?t=1771997650\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/c84b18c0fed37f49855bc47c729d0778.webp?t=1771997650\" width=780 height=35 /></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/1829cf567a27977d0b2fe0c0c08e552b.avif?t=1771997650\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" >Befriend wild creatures—train them as assistants or keep them as companions. The world may be frayed, but little paws mend it stitch by stitch. (And yes, those with hooves or wings count too!)</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/2a5945a2292c1987d2ad40d6f5ffb38b.poster.avif?t=1771997650\" width=1138 height=640 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/2a5945a2292c1987d2ad40d6f5ffb38b.webm?t=1771997650\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/2a5945a2292c1987d2ad40d6f5ffb38b.mp4?t=1771997650\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/c84b18c0fed37f49855bc47c729d0778.webp?t=1771997650\" width=780 height=35 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The villagers may be few, but each has a past, a story, and their own flaws and virtues—just like real people. Treat them with sincerity, and their attitudes toward you will change. You might even alter the course of their lives.</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/e4a162b46117a5c9ac987b190b9303af.avif?t=1771997650\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/b71c107932ce5c530d7abdc0d6f9a149.poster.avif?t=1771997650\" width=1138 height=640 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/b71c107932ce5c530d7abdc0d6f9a149.webm?t=1771997650\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/b71c107932ce5c530d7abdc0d6f9a149.mp4?t=1771997650\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/c84b18c0fed37f49855bc47c729d0778.webp?t=1771997650\" width=780 height=35 /></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/7553c97282a9fef2e9e82716458669d6.avif?t=1771997650\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" >Experience vibrant festivals—Spring Festival, Qingming, Dragon Boat, Mid-Autumn—along with grand Chinese-style weddings . Immerse yourself in the most traditional Chinese flavor.</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/68d0d3687a8feb713381b183d4eac472.poster.avif?t=1771997650\" width=1138 height=640 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/68d0d3687a8feb713381b183d4eac472.webm?t=1771997650\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/68d0d3687a8feb713381b183d4eac472.mp4?t=1771997650\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/extras/c84b18c0fed37f49855bc47c729d0778.webp?t=1771997650\" width=780 height=35 /></span></p>",
+      "short_description": "Welcome to Taoyuan Village to heal your loneliness. Here, you can lead a carefree, self-sufficient life: farm, tame animals, raise livestock, fish, and build a prosperous homestead. Or, immerse in village life, meet kindred spirits, find love, and influence their destinies with your choices.",
+      "supported_languages": "Simplified Chinese, English",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/e8df0c0ed103da2c1aa5ddfb02e3134b2aeb9410/header.jpg?t=1771997650",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/affdc840e5e0f514525fa561b12e7794ead0091a/capsule_231x87.jpg?t=1771997650",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/affdc840e5e0f514525fa561b12e7794ead0091a/capsule_184x69.jpg?t=1771997650",
+      "website": "https://5icube.com/taoyuan/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Vista or greater<br></li><li><strong>Processor:</strong> 2 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256 mb video memory, shader model 3.0+<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "© HANGZHOU BOTANX TECHNOLOGY CO., LTD. ALL RIGHTS RESERVED.",
+      "developers": [
+        "BotanX"
+      ],
+      "publishers": [
+        "方块游戏(CubeGame)"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1199,
+        "final": 1199,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$11.99"
+      },
+      "packages": [
+        1535882
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Halcyon Days at Taoyuan",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1535882,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Halcyon Days at Taoyuan - $11.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1199
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/7757e67aec0553b3e6afa8d5084cea4af4b0043f/ss_7757e67aec0553b3e6afa8d5084cea4af4b0043f.600x338.jpg?t=1771997650",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/7757e67aec0553b3e6afa8d5084cea4af4b0043f/ss_7757e67aec0553b3e6afa8d5084cea4af4b0043f.1920x1080.jpg?t=1771997650"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/818cedfb5424377279b1c1bc9ea11c5e4ed11697/ss_818cedfb5424377279b1c1bc9ea11c5e4ed11697.600x338.jpg?t=1771997650",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/818cedfb5424377279b1c1bc9ea11c5e4ed11697/ss_818cedfb5424377279b1c1bc9ea11c5e4ed11697.1920x1080.jpg?t=1771997650"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/b2e18dc7afb77eb5eabfe7a91040b1a4d37eb81c/ss_b2e18dc7afb77eb5eabfe7a91040b1a4d37eb81c.600x338.jpg?t=1771997650",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/b2e18dc7afb77eb5eabfe7a91040b1a4d37eb81c/ss_b2e18dc7afb77eb5eabfe7a91040b1a4d37eb81c.1920x1080.jpg?t=1771997650"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/d7f3d43415fa0c242bef5c780ee3629ec1596de6/ss_d7f3d43415fa0c242bef5c780ee3629ec1596de6.600x338.jpg?t=1771997650",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/d7f3d43415fa0c242bef5c780ee3629ec1596de6/ss_d7f3d43415fa0c242bef5c780ee3629ec1596de6.1920x1080.jpg?t=1771997650"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/70bef1daab8310ec2f0aa6f8a9d15920200c6671/ss_70bef1daab8310ec2f0aa6f8a9d15920200c6671.600x338.jpg?t=1771997650",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/70bef1daab8310ec2f0aa6f8a9d15920200c6671/ss_70bef1daab8310ec2f0aa6f8a9d15920200c6671.1920x1080.jpg?t=1771997650"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/c66189d7fe3c3fcebd8bb5c44ad4b5d7c40680b7/ss_c66189d7fe3c3fcebd8bb5c44ad4b5d7c40680b7.600x338.jpg?t=1771997650",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/c66189d7fe3c3fcebd8bb5c44ad4b5d7c40680b7/ss_c66189d7fe3c3fcebd8bb5c44ad4b5d7c40680b7.1920x1080.jpg?t=1771997650"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/021fa1f8da4f3a868f8c3ee96a8298e7e20303bc/ss_021fa1f8da4f3a868f8c3ee96a8298e7e20303bc.600x338.jpg?t=1771997650",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/021fa1f8da4f3a868f8c3ee96a8298e7e20303bc/ss_021fa1f8da4f3a868f8c3ee96a8298e7e20303bc.1920x1080.jpg?t=1771997650"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257271762,
+          "name": "PV3",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257271762/5c17cd1a29b3b426fdc3022c245e705d4dad8645/movie_600x337.jpg?t=1769239722",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2678830/542945435/ad44c91ce39814c9df71e1b817ddf3565fb1bd94/1769236349/dash_av1.mpd?t=1769239722",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2678830/542945435/ad44c91ce39814c9df71e1b817ddf3565fb1bd94/1769236349/dash_h264.mpd?t=1769239722",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2678830/542945435/ad44c91ce39814c9df71e1b817ddf3565fb1bd94/1769236349/hls_264_master.m3u8?t=1769239722",
+          "highlight": true
+        },
+        {
+          "id": 257252600,
+          "name": "PV2",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257252600/3e046e170ecb20d49e18e939a594e08f6dc3b7c4/movie_600x337.jpg?t=1766130964",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2678830/376423438/820699877937bbf6080865e0e861b78278c6e242/1766128054/dash_av1.mpd?t=1766130964",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2678830/376423438/820699877937bbf6080865e0e861b78278c6e242/1766128054/dash_h264.mpd?t=1766130964",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2678830/376423438/820699877937bbf6080865e0e861b78278c6e242/1766128054/hls_264_master.m3u8?t=1766130964",
+          "highlight": true
+        },
+        {
+          "id": 257266612,
+          "name": "Intro “Love Story”",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257266612/ecc233a8591b0775feb48ef20c211da73e15c0e5/movie_600x337.jpg?t=1769235392",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2678830/474440938/181b414caa08504901029ec4a6ae056a7249a1f5/1768630263/dash_av1.mpd?t=1769235392",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2678830/474440938/181b414caa08504901029ec4a6ae056a7249a1f5/1768630263/dash_h264.mpd?t=1769235392",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2678830/474440938/181b414caa08504901029ec4a6ae056a7249a1f5/1768630263/hls_264_master.m3u8?t=1769235392",
+          "highlight": false
+        },
+        {
+          "id": 257266607,
+          "name": "Intro “No Pains No Gains”",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257266607/9dcb5c4c24b4e621ab91beadedf0c04e04932356/movie_600x337.jpg?t=1768732593",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2678830/1405733948/f0da43aa7604c0bc11dd9b621a69bf0aec1efb66/1768628849/dash_av1.mpd?t=1768732593",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2678830/1405733948/f0da43aa7604c0bc11dd9b621a69bf0aec1efb66/1768628849/dash_h264.mpd?t=1768732593",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2678830/1405733948/f0da43aa7604c0bc11dd9b621a69bf0aec1efb66/1768628849/hls_264_master.m3u8?t=1768732593",
+          "highlight": false
+        },
+        {
+          "id": 257262921,
+          "name": "Intro “Decorating & Dressing”",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257262921/1d89fc9349ba3769403d4a3a294c315437cc0d72/movie_600x337.jpg?t=1768109437",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2678830/864968561/c90b01f782c8a0503d9bd3468e1762bb70bd34a7/1768091520/dash_av1.mpd?t=1768109437",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2678830/864968561/c90b01f782c8a0503d9bd3468e1762bb70bd34a7/1768091520/dash_h264.mpd?t=1768109437",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2678830/864968561/c90b01f782c8a0503d9bd3468e1762bb70bd34a7/1768091520/hls_264_master.m3u8?t=1768109437",
+          "highlight": false
+        },
+        {
+          "id": 257220900,
+          "name": "PV1",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257220900/3d80f2ed3e04659ef998cbef1c0cdd6732cf0e42/movie_600x337.jpg?t=1761121219",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2678830/1319804298/9a161b90e3e650d0bb5d2ddb0accd4fdb3fd4eaf/1761117984/dash_av1.mpd?t=1761121219",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2678830/1319804298/9a161b90e3e650d0bb5d2ddb0accd4fdb3fd4eaf/1761117984/dash_h264.mpd?t=1761121219",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2678830/1319804298/9a161b90e3e650d0bb5d2ddb0accd4fdb3fd4eaf/1761117984/hls_264_master.m3u8?t=1761121219",
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 702
+      },
+      "achievements": {
+        "total": 70,
+        "highlighted": [
+          {
+            "name": "Focus on Oneself",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2678830/a10cf0b9967d22bcc8d21a5255f04981a1192897.jpg"
+          },
+          {
+            "name": "First Recognition",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2678830/9504af93b55158c55c70e1cf945cda09ddbc7aaa.jpg"
+          },
+          {
+            "name": "Rising Reputation",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2678830/6e6668b830377b6ac3a63f4395980f9d44c844e8.jpg"
+          },
+          {
+            "name": "Benevolence Known Far",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2678830/d1533ed744a643206e3a5270650dddb919701f00.jpg"
+          },
+          {
+            "name": "Bring Prosperity to All",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2678830/6e834db1f0492146cb9ec17898f0900cd0c3874a.jpg"
+          },
+          {
+            "name": "A Place to Call Home",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2678830/6f2be9e9bd02e592595e70959b1837297aff0441.jpg"
+          },
+          {
+            "name": "A Mansion of One's Own",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2678830/714e3a820d86aaabd1ddcfa6435464936154d61f.jpg"
+          },
+          {
+            "name": "A Whole New Look",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2678830/66932e1e74453211ce1d7913ab697eed41f3c581.jpg"
+          },
+          {
+            "name": "Master of One Craft",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2678830/859ae4b1a41e8c1d72435c7787550755899009e9.jpg"
+          },
+          {
+            "name": "Master of All",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2678830/fb573f7644816c27bedb04bc5c2eb46fc24da72b.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jan 19, 2026"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@5icube.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2678830?t=1771997650",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678830/page_bg_raw.jpg?t=1771997650",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "cadpa": {
+          "rating": "8",
+          "use_age_gate": "true",
+          "required_age": "8"
+        },
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Drogas lÃ­citas\nViolÃªncia"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Alkohol / Tabak\nGewalt"
+        }
+      }
+    }
+  }
+}

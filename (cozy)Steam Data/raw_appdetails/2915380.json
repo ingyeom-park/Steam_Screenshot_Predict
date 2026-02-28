@@ -1,0 +1,256 @@
+{
+  "2915380": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Ways of Alchemy",
+      "steam_appid": 2915380,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<p class=\"bb_paragraph\" ><strong>Ways of Alchemy is a medieval card game and alchemist simulator</strong>. Turn a handful of weeds into deadly poison, build an alchemical empire, and outwit the Inquisition. The path from humble novice to powerful master alchemist is filled with dangers and opportunities.</p><p class=\"bb_paragraph\" >You start with nothing but a humble shack and basic knowledge of alchemy. But every potion can change everything — bring wealth or draw the wrath of authorities. In a world where alchemy balances between science and Inquisition persecution, every choice determines your fate.</p><h2 class=\"bb_tag\" ><strong>FEATURES</strong></h2><p class=\"bb_paragraph\" >🧪 Brew over 35 different potions</p><p class=\"bb_paragraph\" >🌿 Discover and utilize more than 100 unique ingredients</p><p class=\"bb_paragraph\" >🔮 Master the 5 pillars of reality — Void, Mirror, Veil, Pain and Song</p><p class=\"bb_paragraph\" >🧙‍♂️ Choose from 15 different subclasses</p><p class=\"bb_paragraph\" >🗺️ Send adventurers to 5 different regions with 24 quests</p><p class=\"bb_paragraph\" >💎 Find over 70 unique rewards and artifacts</p><p class=\"bb_paragraph\" >🔚 Experience 13 different endings based on your choices</p><p class=\"bb_paragraph\" >⚔️ Face the consequences of your ambition with the Inquisition</p><h2 class=\"bb_tag\" ><strong>CRAFT POTIONS YOUR WAY</strong></h2><p class=\"bb_paragraph\" ><strong>Experiment freely or follow traditions with a flexible potion-crafting system</strong>. Follow proven recipes from your grimoire for reliable results, or take risks with creative experimentation for potentially more powerful effects. With over 100 ingredients connected to the 5 pillars of reality, your cauldron holds the potential for dozens of unique and powerful potions.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/extras/5e8a82e44a35980db25ee26c53046572.avif?t=1770865836\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/extras_big/5e8a82e44a35980db25ee26c53046572.avif?t=1770865836 width=800 height=234 /></span></p><h2 class=\"bb_tag\" ><strong>GROW YOUR ESTATE &amp; INFLUENCE</strong></h2><p class=\"bb_paragraph\" ><strong>Work your way from an inherited shack to a thriving alchemical settlement</strong> as your reputation grows among potion buyers. Manage your estate, hire hands and balance your growing influence against the watchful eyes of local authorities. Navigate the threats of Tax Inspector and the dreaded Inquisition as your power increases.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/extras/32f9622fa207c3bc93930ead907f5baa.avif?t=1770865836\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/extras_big/32f9622fa207c3bc93930ead907f5baa.avif?t=1770865836 width=800 height=234 /></span></p><h2 class=\"bb_tag\" ><strong>EXPLORE REGIONS FOR TREASURES</strong></h2><p class=\"bb_paragraph\" ><strong>Send adventurers on perilous quests across 5 distinct regions</strong>. Equip them with your potions and artifacts before dispatching them on 24 dangerous adventures. Discover over 70 unique treasures including powerful artifacts, ancient recipes and long-lost books to fuel your ascension.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/extras/7e24ac3960648601075c821ae30d73aa.avif?t=1770865836\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/extras_big/7e24ac3960648601075c821ae30d73aa.avif?t=1770865836 width=800 height=234 /></span></p><h2 class=\"bb_tag\" ><strong>CHOOSE MULTIPLE PATHS TO ASCENSION</strong></h2><p class=\"bb_paragraph\" ><strong>Unlock 15 unique subclasses that shape your alchemical journey</strong>. Stay true to pure alchemy or venture into forbidden arts like necromancy and flesh-smiting. Every decision leads toward one of 13 possible endings as you work to complete the Great Making – the ultimate goal of any true alchemist.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/extras/dff15db3e0591740c1098396e0771f4d.avif?t=1770865836\" width=800 height=546 /></span></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" ><strong>Ways of Alchemy is a medieval card game and alchemist simulator</strong>. Turn a handful of weeds into deadly poison, build an alchemical empire, and outwit the Inquisition. The path from humble novice to powerful master alchemist is filled with dangers and opportunities.</p><p class=\"bb_paragraph\" >You start with nothing but a humble shack and basic knowledge of alchemy. But every potion can change everything — bring wealth or draw the wrath of authorities. In a world where alchemy balances between science and Inquisition persecution, every choice determines your fate.</p><h2 class=\"bb_tag\" ><strong>FEATURES</strong></h2><p class=\"bb_paragraph\" >🧪 Brew over 35 different potions</p><p class=\"bb_paragraph\" >🌿 Discover and utilize more than 100 unique ingredients</p><p class=\"bb_paragraph\" >🔮 Master the 5 pillars of reality — Void, Mirror, Veil, Pain and Song</p><p class=\"bb_paragraph\" >🧙‍♂️ Choose from 15 different subclasses</p><p class=\"bb_paragraph\" >🗺️ Send adventurers to 5 different regions with 24 quests</p><p class=\"bb_paragraph\" >💎 Find over 70 unique rewards and artifacts</p><p class=\"bb_paragraph\" >🔚 Experience 13 different endings based on your choices</p><p class=\"bb_paragraph\" >⚔️ Face the consequences of your ambition with the Inquisition</p><h2 class=\"bb_tag\" ><strong>CRAFT POTIONS YOUR WAY</strong></h2><p class=\"bb_paragraph\" ><strong>Experiment freely or follow traditions with a flexible potion-crafting system</strong>. Follow proven recipes from your grimoire for reliable results, or take risks with creative experimentation for potentially more powerful effects. With over 100 ingredients connected to the 5 pillars of reality, your cauldron holds the potential for dozens of unique and powerful potions.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/extras/5e8a82e44a35980db25ee26c53046572.avif?t=1770865836\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/extras_big/5e8a82e44a35980db25ee26c53046572.avif?t=1770865836 width=800 height=234 /></span></p><h2 class=\"bb_tag\" ><strong>GROW YOUR ESTATE &amp; INFLUENCE</strong></h2><p class=\"bb_paragraph\" ><strong>Work your way from an inherited shack to a thriving alchemical settlement</strong> as your reputation grows among potion buyers. Manage your estate, hire hands and balance your growing influence against the watchful eyes of local authorities. Navigate the threats of Tax Inspector and the dreaded Inquisition as your power increases.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/extras/32f9622fa207c3bc93930ead907f5baa.avif?t=1770865836\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/extras_big/32f9622fa207c3bc93930ead907f5baa.avif?t=1770865836 width=800 height=234 /></span></p><h2 class=\"bb_tag\" ><strong>EXPLORE REGIONS FOR TREASURES</strong></h2><p class=\"bb_paragraph\" ><strong>Send adventurers on perilous quests across 5 distinct regions</strong>. Equip them with your potions and artifacts before dispatching them on 24 dangerous adventures. Discover over 70 unique treasures including powerful artifacts, ancient recipes and long-lost books to fuel your ascension.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/extras/7e24ac3960648601075c821ae30d73aa.avif?t=1770865836\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/extras_big/7e24ac3960648601075c821ae30d73aa.avif?t=1770865836 width=800 height=234 /></span></p><h2 class=\"bb_tag\" ><strong>CHOOSE MULTIPLE PATHS TO ASCENSION</strong></h2><p class=\"bb_paragraph\" ><strong>Unlock 15 unique subclasses that shape your alchemical journey</strong>. Stay true to pure alchemy or venture into forbidden arts like necromancy and flesh-smiting. Every decision leads toward one of 13 possible endings as you work to complete the Great Making – the ultimate goal of any true alchemist.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/extras/dff15db3e0591740c1098396e0771f4d.avif?t=1770865836\" width=800 height=546 /></span></p>",
+      "short_description": "Become a medieval alchemist in this card game. Brew deadly potions, discover ancient recipes, hire adventurers, and outwit the Inquisition. Transform your humble shack into an alchemical empire. No wands are required — just knowledge and wit.",
+      "supported_languages": "English, Japanese, Simplified Chinese, Traditional Chinese, Korean, Russian",
+      "reviews": "“This is 100% something that I would easily dump 40 or 50 hours into! I like this game very much, I think it's pretty rad!”<br>Splattercat<br><br>“What a very fascinating game!”<br>InterndotGIF<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/3b11a6a00cdb6f74787052a06d9a4a16e2b1db7b/header.jpg?t=1770865836",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/37e3e27f1ad635070e8a6b471b1ff9e912a9981b/capsule_231x87.jpg?t=1770865836",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/37e3e27f1ad635070e8a6b471b1ff9e912a9981b/capsule_184x69.jpg?t=1770865836",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 or later, 64-bit<br></li><li><strong>Processor:</strong> 2GHz or better<br></li><li><strong>Memory:</strong> 8 GB RAM MB RAM<br></li><li><strong>Graphics:</strong> 4GB VRAM, integrated graphics cards will only work if post-2012<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "RocketBrush Games"
+      ],
+      "publishers": [
+        "RocketBrush Games",
+        "Gamersky Games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1799,
+        "final": 1799,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$17.99"
+      },
+      "packages": [
+        1177841
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Ways of Alchemy",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1177841,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Ways of Alchemy - $17.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1799
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 64,
+          "description": "Adjustable Text Size"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 74,
+          "description": "Playable without Timed Input"
+        },
+        {
+          "id": 79,
+          "description": "Save Anytime"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/f14b2ebced17e4637b379e0c1b001e60b9482627/ss_f14b2ebced17e4637b379e0c1b001e60b9482627.600x338.jpg?t=1770865836",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/f14b2ebced17e4637b379e0c1b001e60b9482627/ss_f14b2ebced17e4637b379e0c1b001e60b9482627.1920x1080.jpg?t=1770865836"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/d5261ad31e57fe60584478fdcabeb493ca5d034e/ss_d5261ad31e57fe60584478fdcabeb493ca5d034e.600x338.jpg?t=1770865836",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/d5261ad31e57fe60584478fdcabeb493ca5d034e/ss_d5261ad31e57fe60584478fdcabeb493ca5d034e.1920x1080.jpg?t=1770865836"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/77a9be1cf75c96eb1017c600683be39f8a101566/ss_77a9be1cf75c96eb1017c600683be39f8a101566.600x338.jpg?t=1770865836",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/77a9be1cf75c96eb1017c600683be39f8a101566/ss_77a9be1cf75c96eb1017c600683be39f8a101566.1920x1080.jpg?t=1770865836"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/014d24dfa7d965c0c70f47639b9762ee72607a87/ss_014d24dfa7d965c0c70f47639b9762ee72607a87.600x338.jpg?t=1770865836",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/014d24dfa7d965c0c70f47639b9762ee72607a87/ss_014d24dfa7d965c0c70f47639b9762ee72607a87.1920x1080.jpg?t=1770865836"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/0bc941cf56d0dc620b7c5d1059318d5c690c1f28/ss_0bc941cf56d0dc620b7c5d1059318d5c690c1f28.600x338.jpg?t=1770865836",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/0bc941cf56d0dc620b7c5d1059318d5c690c1f28/ss_0bc941cf56d0dc620b7c5d1059318d5c690c1f28.1920x1080.jpg?t=1770865836"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/8052ab2920c6c44d55c73ce0eeb804b5502bce2c/ss_8052ab2920c6c44d55c73ce0eeb804b5502bce2c.600x338.jpg?t=1770865836",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/8052ab2920c6c44d55c73ce0eeb804b5502bce2c/ss_8052ab2920c6c44d55c73ce0eeb804b5502bce2c.1920x1080.jpg?t=1770865836"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257186509,
+          "name": "WaysofAlchemy_ReleaseTrailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257186509/666577519de03f0d4f5887c13727b04065c9bbc2/movie_600x337.jpg?t=1764933727",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2915380/1201255828/f9d9141e6e3f6b5578d85f392953a99414ad82c0/1764930386/dash_av1.mpd?t=1764933727",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2915380/1201255828/f9d9141e6e3f6b5578d85f392953a99414ad82c0/1764930386/dash_h264.mpd?t=1764933727",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2915380/1201255828/f9d9141e6e3f6b5578d85f392953a99414ad82c0/1764930386/hls_264_master.m3u8?t=1764933727",
+          "highlight": true
+        },
+        {
+          "id": 257099631,
+          "name": "Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257099631/c905fabfbadf79bce22a75146fdd64f1f29e48f8/movie_600x337.jpg?t=1740390392",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2915380/831075/a2fb4978e4ff579111bdfe8b0b506f4b7929f97f/1750888617/dash_av1.mpd?t=1740390392",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2915380/831075/a2fb4978e4ff579111bdfe8b0b506f4b7929f97f/1750888617/dash_h264.mpd?t=1740390392",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2915380/831075/a2fb4978e4ff579111bdfe8b0b506f4b7929f97f/1750888617/hls_264_master.m3u8?t=1740390392",
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 612
+      },
+      "achievements": {
+        "total": 38,
+        "highlighted": [
+          {
+            "name": "A Fresh Start",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2915380/5c9f89a1eaf54ad7cd27f1a4975dd1bbb6aaaacf.jpg"
+          },
+          {
+            "name": "Turnips of Power",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2915380/2fb2ba7fd8b11e9182d0aaa2c39b4c96c7d05d69.jpg"
+          },
+          {
+            "name": "Tiny Life",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2915380/2e31d39b648d5cef7c74cc9b1cd4e2e331051a30.jpg"
+          },
+          {
+            "name": "No Other Choice",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2915380/28af98b0a097f01779925abed00cb549d6f312db.jpg"
+          },
+          {
+            "name": "Dragonslayer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2915380/224a5f777f7ce352e1eb4d4c59f0438bfcced04f.jpg"
+          },
+          {
+            "name": "Fateforged Rib",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2915380/959a8e30fbbf93fb8a3e59b0596f6dbc996429f9.jpg"
+          },
+          {
+            "name": "Criminal",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2915380/c4927013e7bdbc63044ceb195705d9fa8a8cd6ab.jpg"
+          },
+          {
+            "name": "Silver Watch",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2915380/301b13b088c3af867cc992d52b48f792fb82bcea.jpg"
+          },
+          {
+            "name": "Mastery of Pillars",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2915380/80bc3312a32a1ff14516c8977de4c53d00468c48.jpg"
+          },
+          {
+            "name": "The Way of the Recipe",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2915380/462aa58e832818c7141e0ae84bf4d4e482e82dd7.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Aug 22, 2025"
+      },
+      "support_info": {
+        "url": "https://rocketbrush.com/",
+        "email": "hello@ rocketbrush.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2915380?t=1770865836",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915380/page_bg_raw.jpg?t=1770865836",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "14",
+          "required_age": "14",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Linguagem imprópria\nViolência"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Gewalt\nDerbe Sprache"
+        }
+      }
+    }
+  }
+}

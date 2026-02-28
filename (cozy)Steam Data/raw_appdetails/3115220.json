@@ -1,0 +1,349 @@
+{
+  "3115220": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Town to City",
+      "steam_appid": 3115220,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        3829160,
+        3873380
+      ],
+      "detailed_description": "<h1>Roadmap</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/02cc8daf68fbcefed4b8b8cb2c321a2c.avif?t=1772140952\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras_big/02cc8daf68fbcefed4b8b8cb2c321a2c.webp?t=1772140952 width=1560 height=878 /></span></p></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" >Break free of the grid in Town to City: a cozy city builder that invites you to create a beautiful and bustling community.</p><p class=\"bb_paragraph\" >Freely place houses, shops, and amenities and natural elements to delight your residents and encourage new families to move in. As your population grows, so can your ambitions: create multiple towns that can grow alone or thrive together, helping the whole region develop and prosper.</p><p class=\"bb_paragraph\" >In story or sandbox mode, you're free to build at your own pace, placing each flower bed with pixel precision, or prioritise growing your economy and developing your town into a thriving city.</p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/84a739309383159042afbcffba3cf2d8.poster.avif?t=1772140952\" width=616 height=178 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/84a739309383159042afbcffba3cf2d8.webm?t=1772140952\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/84a739309383159042afbcffba3cf2d8.mp4?t=1772140952\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>Shape Your City</strong></p><p class=\"bb_paragraph\" >Truly grid-less building sets you free to lay out your town however you like. Plan out carefully ordered rows of houses and city districts, or grow outwards organically with residences, amenities, parks and plazas connected by winding streets and alleys.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/ba7a3478ba972ea4a22a63bbc891b674.poster.avif?t=1772140952\" width=616 height=178 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/ba7a3478ba972ea4a22a63bbc891b674.webm?t=1772140952\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/ba7a3478ba972ea4a22a63bbc891b674.mp4?t=1772140952\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>Unleash Your Creativity</strong></p><p class=\"bb_paragraph\" >Beautify your settlement to your heart's content with a plethora of customisation options. Set up lighting, plant flowers and wooded parks, and decorate houses and buildings to complement or contrast. With gorgeous voxel graphics as a base, it's easy to create something beautiful that you'll want to capture with the in-game photo mode.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/bba765dc7473da690a4df8dfc8804700.poster.avif?t=1772140952\" width=616 height=178 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/bba765dc7473da690a4df8dfc8804700.webm?t=1772140952\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/bba765dc7473da690a4df8dfc8804700.mp4?t=1772140952\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>Nurture Your Community</strong></p><p class=\"bb_paragraph\" >As your town flourishes, you’ll need to meet the needs of your growing population. Provide amenities that will cater for everyone – from workers to artisans and the bourgeoisie – alongside specific requests by individual residents. Get to know each person as they arrive in town and watch them settle down to form new families in the homes you built for them.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/4727f51c9672b463b3256be1974781ce.poster.avif?t=1772140952\" width=616 height=178 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/4727f51c9672b463b3256be1974781ce.webm?t=1772140952\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/4727f51c9672b463b3256be1974781ce.mp4?t=1772140952\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>Grow Your Economy</strong></p><p class=\"bb_paragraph\" >Assign workers to jobs, research new buildings and decorations, and boost your sleepy settlement into a bustling centre of commerce. As you expand beyond the bounds of your first town, you'll pursue new developments in farming and tourism by building new towns, all connected by trade and travel routes.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>Key Features</strong></p><p class=\"bb_paragraph\" >-          <strong>Full campaign and sandbox modes</strong></p><p class=\"bb_paragraph\" >-          <strong>Truly grid-less city building tools</strong></p><p class=\"bb_paragraph\" >-          <strong>Town and citizen management</strong></p><p class=\"bb_paragraph\" >-          <strong>Rich customisation</strong></p><p class=\"bb_paragraph\" >-          <strong>Research trees</strong></p><p class=\"bb_paragraph\" >-          <strong>Photo mode</strong></p><p class=\"bb_paragraph\" >-          <strong>Beautiful voxel art style</strong></p><p class=\"bb_paragraph\" ><strong>-          Relaxing soundtrack</strong></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >Break free of the grid in Town to City: a cozy city builder that invites you to create a beautiful and bustling community.</p><p class=\"bb_paragraph\" >Freely place houses, shops, and amenities and natural elements to delight your residents and encourage new families to move in. As your population grows, so can your ambitions: create multiple towns that can grow alone or thrive together, helping the whole region develop and prosper.</p><p class=\"bb_paragraph\" >In story or sandbox mode, you're free to build at your own pace, placing each flower bed with pixel precision, or prioritise growing your economy and developing your town into a thriving city.</p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/84a739309383159042afbcffba3cf2d8.poster.avif?t=1772140952\" width=616 height=178 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/84a739309383159042afbcffba3cf2d8.webm?t=1772140952\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/84a739309383159042afbcffba3cf2d8.mp4?t=1772140952\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>Shape Your City</strong></p><p class=\"bb_paragraph\" >Truly grid-less building sets you free to lay out your town however you like. Plan out carefully ordered rows of houses and city districts, or grow outwards organically with residences, amenities, parks and plazas connected by winding streets and alleys.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/ba7a3478ba972ea4a22a63bbc891b674.poster.avif?t=1772140952\" width=616 height=178 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/ba7a3478ba972ea4a22a63bbc891b674.webm?t=1772140952\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/ba7a3478ba972ea4a22a63bbc891b674.mp4?t=1772140952\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>Unleash Your Creativity</strong></p><p class=\"bb_paragraph\" >Beautify your settlement to your heart's content with a plethora of customisation options. Set up lighting, plant flowers and wooded parks, and decorate houses and buildings to complement or contrast. With gorgeous voxel graphics as a base, it's easy to create something beautiful that you'll want to capture with the in-game photo mode.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/bba765dc7473da690a4df8dfc8804700.poster.avif?t=1772140952\" width=616 height=178 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/bba765dc7473da690a4df8dfc8804700.webm?t=1772140952\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/bba765dc7473da690a4df8dfc8804700.mp4?t=1772140952\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>Nurture Your Community</strong></p><p class=\"bb_paragraph\" >As your town flourishes, you’ll need to meet the needs of your growing population. Provide amenities that will cater for everyone – from workers to artisans and the bourgeoisie – alongside specific requests by individual residents. Get to know each person as they arrive in town and watch them settle down to form new families in the homes you built for them.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/4727f51c9672b463b3256be1974781ce.poster.avif?t=1772140952\" width=616 height=178 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/4727f51c9672b463b3256be1974781ce.webm?t=1772140952\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/extras/4727f51c9672b463b3256be1974781ce.mp4?t=1772140952\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><strong>Grow Your Economy</strong></p><p class=\"bb_paragraph\" >Assign workers to jobs, research new buildings and decorations, and boost your sleepy settlement into a bustling centre of commerce. As you expand beyond the bounds of your first town, you'll pursue new developments in farming and tourism by building new towns, all connected by trade and travel routes.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>Key Features</strong></p><p class=\"bb_paragraph\" >-          <strong>Full campaign and sandbox modes</strong></p><p class=\"bb_paragraph\" >-          <strong>Truly grid-less city building tools</strong></p><p class=\"bb_paragraph\" >-          <strong>Town and citizen management</strong></p><p class=\"bb_paragraph\" >-          <strong>Rich customisation</strong></p><p class=\"bb_paragraph\" >-          <strong>Research trees</strong></p><p class=\"bb_paragraph\" >-          <strong>Photo mode</strong></p><p class=\"bb_paragraph\" >-          <strong>Beautiful voxel art style</strong></p><p class=\"bb_paragraph\" ><strong>-          Relaxing soundtrack</strong></p>",
+      "short_description": "Build an idyllic 19th century Mediterranean town and help it flourish into a prosperous city. Freely place and customise each element to create the perfect home for your growing population in this cozy city builder from the creators of Station to Station.",
+      "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Polish<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/header.jpg?t=1772140952",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/afb81e9e9cd4cc5d942d9b50e3f4d99b541bca84/capsule_231x87.jpg?t=1772140952",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/afb81e9e9cd4cc5d942d9b50e3f4d99b541bca84/capsule_184x69.jpg?t=1772140952",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit <br></li><li><strong>Processor:</strong> Intel Core i5-10600K / AMD Ryzen 5 3600X<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 960 / AMD Radeon RX 570<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit <br></li><li><strong>Processor:</strong> Intel Core i7-11700K / AMD Ryzen 7 5700<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce RTX 2060 / AMD Radeon RX 5700 XT<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "Town to City © 2025 Galaxy Grove. All rights reserved. Developed by Galaxy Grove, and exclusively licensed to Kwalee Ltd. Kwalee is a trademark of Kwalee Ltd. All other trademarks and logos are the property of their respective owners.",
+      "developers": [
+        "Galaxy Grove"
+      ],
+      "publishers": [
+        "Kwalee"
+      ],
+      "demos": [
+        {
+          "appid": 3653800,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        1106352
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Town to City",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1106352,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Town To City - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 64,
+          "description": "Adjustable Text Size"
+        },
+        {
+          "id": 67,
+          "description": "Camera Comfort"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 74,
+          "description": "Playable without Timed Input"
+        },
+        {
+          "id": 79,
+          "description": "Save Anytime"
+        },
+        {
+          "id": 69,
+          "description": "Stereo Sound"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/6a6d42382046292a5172fce0a580652f6dea624f/ss_6a6d42382046292a5172fce0a580652f6dea624f.600x338.jpg?t=1772140952",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/6a6d42382046292a5172fce0a580652f6dea624f/ss_6a6d42382046292a5172fce0a580652f6dea624f.1920x1080.jpg?t=1772140952"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/1cc5fcad2ae58edbc9a42a7b26396d4eec80479a/ss_1cc5fcad2ae58edbc9a42a7b26396d4eec80479a.600x338.jpg?t=1772140952",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/1cc5fcad2ae58edbc9a42a7b26396d4eec80479a/ss_1cc5fcad2ae58edbc9a42a7b26396d4eec80479a.1920x1080.jpg?t=1772140952"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/ss_76ed37d200063ff3a3a798070c705a761b6fbca8.600x338.jpg?t=1772140952",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/ss_76ed37d200063ff3a3a798070c705a761b6fbca8.1920x1080.jpg?t=1772140952"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/7e2f4ef0bd99b54fd8afd2da2bd04ea1c1e5da62/ss_7e2f4ef0bd99b54fd8afd2da2bd04ea1c1e5da62.600x338.jpg?t=1772140952",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/7e2f4ef0bd99b54fd8afd2da2bd04ea1c1e5da62/ss_7e2f4ef0bd99b54fd8afd2da2bd04ea1c1e5da62.1920x1080.jpg?t=1772140952"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/ss_6856bf24ab5a2565908d9dd1a519126f0bc3a816.600x338.jpg?t=1772140952",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/ss_6856bf24ab5a2565908d9dd1a519126f0bc3a816.1920x1080.jpg?t=1772140952"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/8ceefaff1d8c10ab146274bda17ec8cc09cf6cbf/ss_8ceefaff1d8c10ab146274bda17ec8cc09cf6cbf.600x338.jpg?t=1772140952",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/8ceefaff1d8c10ab146274bda17ec8cc09cf6cbf/ss_8ceefaff1d8c10ab146274bda17ec8cc09cf6cbf.1920x1080.jpg?t=1772140952"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/ss_1070107ee0efba5fb0b2f6b8f7dfce92a160eeff.600x338.jpg?t=1772140952",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/ss_1070107ee0efba5fb0b2f6b8f7dfce92a160eeff.1920x1080.jpg?t=1772140952"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/ss_4c09ac7c9497eec340a07e9bb95e2811c5b9501b.600x338.jpg?t=1772140952",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/ss_4c09ac7c9497eec340a07e9bb95e2811c5b9501b.1920x1080.jpg?t=1772140952"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/ss_a628a072efc84fb901660445c54b6700174678e5.600x338.jpg?t=1772140952",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/ss_a628a072efc84fb901660445c54b6700174678e5.1920x1080.jpg?t=1772140952"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/1884cce54b44d2707b28be13b286279cee56e53e/ss_1884cce54b44d2707b28be13b286279cee56e53e.600x338.jpg?t=1772140952",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/1884cce54b44d2707b28be13b286279cee56e53e/ss_1884cce54b44d2707b28be13b286279cee56e53e.1920x1080.jpg?t=1772140952"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/133c75635b25ca3fefff2582e55d38552efabe71/ss_133c75635b25ca3fefff2582e55d38552efabe71.600x338.jpg?t=1772140952",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/133c75635b25ca3fefff2582e55d38552efabe71/ss_133c75635b25ca3fefff2582e55d38552efabe71.1920x1080.jpg?t=1772140952"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/e2c5b9bbe5a2103bdd938b387552c973383a1bef/ss_e2c5b9bbe5a2103bdd938b387552c973383a1bef.600x338.jpg?t=1772140952",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/e2c5b9bbe5a2103bdd938b387552c973383a1bef/ss_e2c5b9bbe5a2103bdd938b387552c973383a1bef.1920x1080.jpg?t=1772140952"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257294802,
+          "name": "Terraforming Update Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257294802/1035216e970f347dd6c212a554e5e05a7505c9a9/movie_600x337.jpg?t=1772140946",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3115220/1929536739/6df894ec504d7c984bedb068327fb027df1e9a95/1772101713/dash_av1.mpd?t=1772140946",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3115220/1929536739/6df894ec504d7c984bedb068327fb027df1e9a95/1772101713/dash_h264.mpd?t=1772140946",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3115220/1929536739/6df894ec504d7c984bedb068327fb027df1e9a95/1772101713/hls_264_master.m3u8?t=1772140946",
+          "highlight": true
+        },
+        {
+          "id": 257222041,
+          "name": "Animals Update Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257222041/af55e46daa0cff5bde00ff2e0593590efb5bcbef/movie_600x337.jpg?t=1761296396",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3115220/2035401875/28e9a1b455df27d194c78b2a982ba41f8e1b8739/1761293028/dash_av1.mpd?t=1761296396",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3115220/2035401875/28e9a1b455df27d194c78b2a982ba41f8e1b8739/1761293028/dash_h264.mpd?t=1761296396",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3115220/2035401875/28e9a1b455df27d194c78b2a982ba41f8e1b8739/1761293028/hls_264_master.m3u8?t=1761296396",
+          "highlight": true
+        },
+        {
+          "id": 257199023,
+          "name": "Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257199023/6869370198f46feb4569b4a4cf954852148ea34f/movie_600x337.jpg?t=1758092764",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3115220/307518250/ca6ca083ac4caba20eef75896271274ac4b8523b/1758066790/dash_av1.mpd?t=1758092764",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3115220/307518250/ca6ca083ac4caba20eef75896271274ac4b8523b/1758066790/dash_h264.mpd?t=1758092764",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3115220/307518250/ca6ca083ac4caba20eef75896271274ac4b8523b/1758066790/hls_264_master.m3u8?t=1758092764",
+          "highlight": true
+        },
+        {
+          "id": 257187160,
+          "name": "Release Date Reveal Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257187160/0c89dfcfb0485d6bc1cd18ecba60e6fd94fe8298/movie_600x337.jpg?t=1755863890",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3115220/2087806854/c86d36dc3edda0c66a454479fe3203f3bb71f392/1755862013/dash_av1.mpd?t=1755863890",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3115220/2087806854/c86d36dc3edda0c66a454479fe3203f3bb71f392/1755862013/dash_h264.mpd?t=1755863890",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3115220/2087806854/c86d36dc3edda0c66a454479fe3203f3bb71f392/1755862013/hls_264_master.m3u8?t=1755863890",
+          "highlight": true
+        },
+        {
+          "id": 257153958,
+          "name": "Wholesome Direct Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257153958/73780b15f8f9170211d1d843cc9ee4f0ebbb1e33/movie_600x337.jpg?t=1755865214",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3115220/1197044048/0890ad34de5c29a50dac125dce4b43512804417c/1750872035/dash_av1.mpd?t=1755865214",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3115220/1197044048/0890ad34de5c29a50dac125dce4b43512804417c/1750872035/dash_h264.mpd?t=1755865214",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3115220/1197044048/0890ad34de5c29a50dac125dce4b43512804417c/1750872035/hls_264_master.m3u8?t=1755865214",
+          "highlight": true
+        },
+        {
+          "id": 257118313,
+          "name": "Gameplay Trailer #1",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257118313/cc122b1ef3c6baef02e95a11b13c7e74dc31b2df/movie_600x337.jpg?t=1755861394",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3115220/857389/43d305218acc77a72a9bd690aba57c671a490cda/1750872035/dash_av1.mpd?t=1755861394",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3115220/857389/43d305218acc77a72a9bd690aba57c671a490cda/1750872035/dash_h264.mpd?t=1755861394",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3115220/857389/43d305218acc77a72a9bd690aba57c671a490cda/1750872035/hls_264_master.m3u8?t=1755861394",
+          "highlight": true
+        },
+        {
+          "id": 257093071,
+          "name": "Announcement Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257093071/f3313af1c0a06731f15534fd4dc73d123d697fbe/movie_600x337.jpg?t=1755863892",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3115220/820025/310b5624c95495cd8d73c5272e8f686d570d7cf5/1750872034/dash_av1.mpd?t=1755863892",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3115220/820025/310b5624c95495cd8d73c5272e8f686d570d7cf5/1750872034/dash_h264.mpd?t=1755863892",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3115220/820025/310b5624c95495cd8d73c5272e8f686d570d7cf5/1750872034/hls_264_master.m3u8?t=1755863892",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 4829
+      },
+      "achievements": {
+        "total": 35,
+        "highlighted": [
+          {
+            "name": "Home sweet home",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3115220/c6070fa3a5b6b2ab3f2aaf7ba23a92c8f15bde34.jpg"
+          },
+          {
+            "name": "No more hunger",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3115220/79060b5edd5bf6e569a4c59e8d9683caab9f83f2.jpg"
+          },
+          {
+            "name": "Fashion!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3115220/295b15f72a9f39fa55a8476e4bac2f8d5eac4bde.jpg"
+          },
+          {
+            "name": "I’m so entertained",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3115220/006041771e8f1e7501c4c64c4309119634b7ff9c.jpg"
+          },
+          {
+            "name": "House where?",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3115220/b8002e5861188d57836fe979e3439c737a7e3bce.jpg"
+          },
+          {
+            "name": "Public service",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3115220/2e1e6a7145ad254436009734cba464be32404b3f.jpg"
+          },
+          {
+            "name": "Farmtastic",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3115220/b338dc1f8a1b457d2937e0b33745ee9c35095c54.jpg"
+          },
+          {
+            "name": "Expansion!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3115220/25534b9a029dce80d82348b5d6753146720e7219.jpg"
+          },
+          {
+            "name": "Helping hand",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3115220/f37185b3c654c70588f1af45acccc620d9013655.jpg"
+          },
+          {
+            "name": "People pleaser",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3115220/d3baeda936c8f0932689682d3e7747c2a23b6d0b.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 16, 2025"
+      },
+      "support_info": {
+        "url": "https://www.kwalee.com/game-support/",
+        "email": "towntocityhelp@kwalee.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3115220?t=1772140952",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3115220/page_bg_raw.jpg?t=1772140952",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

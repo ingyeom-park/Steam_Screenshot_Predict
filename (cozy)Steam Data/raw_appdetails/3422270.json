@@ -1,0 +1,220 @@
+{
+  "3422270": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Terra Firma 2",
+      "steam_appid": 3422270,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<p class=\"bb_paragraph\" >Terra Firma 2 is a powerful simulation of natural forces, giving you the creative freedom to sculpt entire worlds to your liking. Use intuitive tools to alter terrain, adjust rainfall, change temperatures, and tweak tectonic activity. </p><p class=\"bb_paragraph\" >Your changes set the stage, but the simulation takes over—generating lifelike rivers, eroding mountains, growing forests, and populating ecosystems down to individual plants and animals.</p><p class=\"bb_paragraph\" >Harnessing the full power of modern GPUs, Terra Firma 2 simulates worlds at an unprecedented scale. Maps can span up to 16,000 km², simulating centuries of natural evolution in seconds, all while allowing you to zoom in to observe wildlife and terrain changes in real time.</p><h2 class=\"bb_tag\" >Raise and Lower Tectonic Plates</h2><p class=\"bb_paragraph\" >Simulate the slow but powerful forces that shape continents. With full tectonic modeling, you can create convergent boundaries that build towering mountain ranges, divergent ones that split the land into rift valleys, and transform boundaries shift massive landmasses.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/46fa592dc9c60c3b5ebfebc706f1e659.poster.avif?t=1768175958\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/46fa592dc9c60c3b5ebfebc706f1e659.webm?t=1768175958\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/46fa592dc9c60c3b5ebfebc706f1e659.mp4?t=1768175958\" type=\"video/mp4\"></video></span> </p><h2 class=\"bb_tag\" >Experiment with Dynamic Ecosystems</h2><p class=\"bb_paragraph\" >Life in Terra Firma 2 emerges organically based on the world you create. Plants and animals respond to local conditions such as moisture, temperature, and elevation, resulting in rich ecosystems that feel alive. From boreal forests to mangroves, deserts to alpine tundra, the variety is shaped entirely by your choices.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/4396ae7e7e08eb6c92fc24b673a21edd.poster.avif?t=1768175958\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/4396ae7e7e08eb6c92fc24b673a21edd.webm?t=1768175958\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/4396ae7e7e08eb6c92fc24b673a21edd.mp4?t=1768175958\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Alter the Environment with Complete Climate Control</h2><p class=\"bb_paragraph\" >Take command of world’s climate with the ability to modify rainfall and temperature to create seasonal variations. Melt the snowcaps off the tallest mountain and watch the water flow down to raise the water level, or change the rainfall to see different biomes flourish.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/0f21c7f3c5bbd66159ad0490b2f49ef6.poster.avif?t=1768175958\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/0f21c7f3c5bbd66159ad0490b2f49ef6.webm?t=1768175958\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/0f21c7f3c5bbd66159ad0490b2f49ef6.mp4?t=1768175958\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>Worlds created in Terra Firma 2 are able to be saved, loaded, and exported to other systems, either as heightmaps or via an exporter to your favourite voxel based game.</strong></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >Terra Firma 2 is a powerful simulation of natural forces, giving you the creative freedom to sculpt entire worlds to your liking. Use intuitive tools to alter terrain, adjust rainfall, change temperatures, and tweak tectonic activity. </p><p class=\"bb_paragraph\" >Your changes set the stage, but the simulation takes over—generating lifelike rivers, eroding mountains, growing forests, and populating ecosystems down to individual plants and animals.</p><p class=\"bb_paragraph\" >Harnessing the full power of modern GPUs, Terra Firma 2 simulates worlds at an unprecedented scale. Maps can span up to 16,000 km², simulating centuries of natural evolution in seconds, all while allowing you to zoom in to observe wildlife and terrain changes in real time.</p><h2 class=\"bb_tag\" >Raise and Lower Tectonic Plates</h2><p class=\"bb_paragraph\" >Simulate the slow but powerful forces that shape continents. With full tectonic modeling, you can create convergent boundaries that build towering mountain ranges, divergent ones that split the land into rift valleys, and transform boundaries shift massive landmasses.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/46fa592dc9c60c3b5ebfebc706f1e659.poster.avif?t=1768175958\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/46fa592dc9c60c3b5ebfebc706f1e659.webm?t=1768175958\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/46fa592dc9c60c3b5ebfebc706f1e659.mp4?t=1768175958\" type=\"video/mp4\"></video></span> </p><h2 class=\"bb_tag\" >Experiment with Dynamic Ecosystems</h2><p class=\"bb_paragraph\" >Life in Terra Firma 2 emerges organically based on the world you create. Plants and animals respond to local conditions such as moisture, temperature, and elevation, resulting in rich ecosystems that feel alive. From boreal forests to mangroves, deserts to alpine tundra, the variety is shaped entirely by your choices.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/4396ae7e7e08eb6c92fc24b673a21edd.poster.avif?t=1768175958\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/4396ae7e7e08eb6c92fc24b673a21edd.webm?t=1768175958\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/4396ae7e7e08eb6c92fc24b673a21edd.mp4?t=1768175958\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Alter the Environment with Complete Climate Control</h2><p class=\"bb_paragraph\" >Take command of world’s climate with the ability to modify rainfall and temperature to create seasonal variations. Melt the snowcaps off the tallest mountain and watch the water flow down to raise the water level, or change the rainfall to see different biomes flourish.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/0f21c7f3c5bbd66159ad0490b2f49ef6.poster.avif?t=1768175958\" width=616 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/0f21c7f3c5bbd66159ad0490b2f49ef6.webm?t=1768175958\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/extras/0f21c7f3c5bbd66159ad0490b2f49ef6.mp4?t=1768175958\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>Worlds created in Terra Firma 2 are able to be saved, loaded, and exported to other systems, either as heightmaps or via an exporter to your favourite voxel based game.</strong></p>",
+      "short_description": "Shape breathtaking worlds in Terra Firma 2, a vast simulation where your creations evolve through the forces of nature. Sculpt the land, then watch as weather, erosion, and life itself transform your world into a dynamic, living ecosystem- right down to every plant and creature.",
+      "supported_languages": "English, Japanese, French, Italian, German, Spanish - Spain, Simplified Chinese, Polish, Portuguese - Brazil, Russian, Arabic, Spanish - Latin America",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/header.jpg?t=1768175958",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/436e25c99c4eea84a31bd4ba318c873b74c47a70/capsule_231x87.jpg?t=1768175958",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/436e25c99c4eea84a31bd4ba318c873b74c47a70/capsule_184x69.jpg?t=1768175958",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7+<br></li><li><strong>Processor:</strong> Intel Core i5-6600K @ 3.50GHz or AMD Ryzen 5 1600 @ 3.2 GHZ<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> Dedicated Graphics Card with 3GB VRAM</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7+<br></li><li><strong>Processor:</strong> Intel Core i7-6700 @ 3.40GHz or AMD Ryzen 7 2700X @ 3.7 GHZ<br></li><li><strong>Memory:</strong> 8192 MB RAM<br></li><li><strong>Graphics:</strong> Dedicated Graphics Card with 6GB VRAM</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Working as Intended"
+      ],
+      "publishers": [
+        "Working as Intended"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        1210287
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Terra Firma 2",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1210287,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Terra Firma - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/27207977b5185133fb5bf163dd4f50af0f620fec/ss_27207977b5185133fb5bf163dd4f50af0f620fec.600x338.jpg?t=1768175958",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/27207977b5185133fb5bf163dd4f50af0f620fec/ss_27207977b5185133fb5bf163dd4f50af0f620fec.1920x1080.jpg?t=1768175958"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/3788f14f909eb7c3e807b97083208597e0d2dd55/ss_3788f14f909eb7c3e807b97083208597e0d2dd55.600x338.jpg?t=1768175958",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/3788f14f909eb7c3e807b97083208597e0d2dd55/ss_3788f14f909eb7c3e807b97083208597e0d2dd55.1920x1080.jpg?t=1768175958"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/b310967da5583efab66230135fe57af71137c61a/ss_b310967da5583efab66230135fe57af71137c61a.600x338.jpg?t=1768175958",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/b310967da5583efab66230135fe57af71137c61a/ss_b310967da5583efab66230135fe57af71137c61a.1920x1080.jpg?t=1768175958"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/0ff3b6f58014fa417e6cd1fec620ac303551763c/ss_0ff3b6f58014fa417e6cd1fec620ac303551763c.600x338.jpg?t=1768175958",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/0ff3b6f58014fa417e6cd1fec620ac303551763c/ss_0ff3b6f58014fa417e6cd1fec620ac303551763c.1920x1080.jpg?t=1768175958"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/6d458b23aba19ba51ffdaa0fcaae4dae3874f50a/ss_6d458b23aba19ba51ffdaa0fcaae4dae3874f50a.600x338.jpg?t=1768175958",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/6d458b23aba19ba51ffdaa0fcaae4dae3874f50a/ss_6d458b23aba19ba51ffdaa0fcaae4dae3874f50a.1920x1080.jpg?t=1768175958"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/3f54e2a9da16cc6e6b4e9dc2b477e6457ee4cfb7/ss_3f54e2a9da16cc6e6b4e9dc2b477e6457ee4cfb7.600x338.jpg?t=1768175958",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/3f54e2a9da16cc6e6b4e9dc2b477e6457ee4cfb7/ss_3f54e2a9da16cc6e6b4e9dc2b477e6457ee4cfb7.1920x1080.jpg?t=1768175958"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/156fd10857e7da90f2d9df7bf0e83ca7f50131f1/ss_156fd10857e7da90f2d9df7bf0e83ca7f50131f1.600x338.jpg?t=1768175958",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/156fd10857e7da90f2d9df7bf0e83ca7f50131f1/ss_156fd10857e7da90f2d9df7bf0e83ca7f50131f1.1920x1080.jpg?t=1768175958"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/ab8c0a963128fdbe1156623239c3fc16a7ab1517/ss_ab8c0a963128fdbe1156623239c3fc16a7ab1517.600x338.jpg?t=1768175958",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/ab8c0a963128fdbe1156623239c3fc16a7ab1517/ss_ab8c0a963128fdbe1156623239c3fc16a7ab1517.1920x1080.jpg?t=1768175958"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/369d7d2c292ad116655f5131f01ff3c8685de421/ss_369d7d2c292ad116655f5131f01ff3c8685de421.600x338.jpg?t=1768175958",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/369d7d2c292ad116655f5131f01ff3c8685de421/ss_369d7d2c292ad116655f5131f01ff3c8685de421.1920x1080.jpg?t=1768175958"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/6986324ebe2f1b043f472478e63103eeda7c692b/ss_6986324ebe2f1b043f472478e63103eeda7c692b.600x338.jpg?t=1768175958",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/6986324ebe2f1b043f472478e63103eeda7c692b/ss_6986324ebe2f1b043f472478e63103eeda7c692b.1920x1080.jpg?t=1768175958"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/f4e2b5aab788f28d4d400bee34d36cabc61f7d0a/ss_f4e2b5aab788f28d4d400bee34d36cabc61f7d0a.600x338.jpg?t=1768175958",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/f4e2b5aab788f28d4d400bee34d36cabc61f7d0a/ss_f4e2b5aab788f28d4d400bee34d36cabc61f7d0a.1920x1080.jpg?t=1768175958"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/ee0de278d8ab7c60ae32b806fe07529bcdb95a77/ss_ee0de278d8ab7c60ae32b806fe07529bcdb95a77.600x338.jpg?t=1768175958",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/ee0de278d8ab7c60ae32b806fe07529bcdb95a77/ss_ee0de278d8ab7c60ae32b806fe07529bcdb95a77.1920x1080.jpg?t=1768175958"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/a507b1cfa2258473890d76caefaae0d05159bfdd/ss_a507b1cfa2258473890d76caefaae0d05159bfdd.600x338.jpg?t=1768175958",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/a507b1cfa2258473890d76caefaae0d05159bfdd/ss_a507b1cfa2258473890d76caefaae0d05159bfdd.1920x1080.jpg?t=1768175958"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/3cadb7d9e3c4e694f3f4ed98bae2f25ab12d13d4/ss_3cadb7d9e3c4e694f3f4ed98bae2f25ab12d13d4.600x338.jpg?t=1768175958",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/3cadb7d9e3c4e694f3f4ed98bae2f25ab12d13d4/ss_3cadb7d9e3c4e694f3f4ed98bae2f25ab12d13d4.1920x1080.jpg?t=1768175958"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257201231,
+          "name": "Full Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257201231/6400e7657fbb2e5942e3726ab6c251bc66036b98/movie_600x337.jpg?t=1761617606",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3422270/1158806509/1c47da4030dbf51b2c5ceb741c8af1934f92f66f/1758202806/dash_av1.mpd?t=1761617606",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3422270/1158806509/1c47da4030dbf51b2c5ceb741c8af1934f92f66f/1758202806/dash_h264.mpd?t=1761617606",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3422270/1158806509/1c47da4030dbf51b2c5ceb741c8af1934f92f66f/1758202806/hls_264_master.m3u8?t=1761617606",
+          "highlight": true
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 27, 2025"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@workingasintended.com.au"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3422270?t=1768175958",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422270/page_bg_raw.jpg?t=1768175958",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

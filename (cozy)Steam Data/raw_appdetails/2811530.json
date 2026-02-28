@@ -1,0 +1,310 @@
+{
+  "2811530": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Candy Shop Simulator",
+      "steam_appid": 2811530,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h2 class=\"bb_tag\" ><strong>OPEN YOUR CANDY SHOP!</strong></h2>Embark on a sweet adventure as you step into the world of confectionery entrepreneurship. Open your own candy shop and dive into the delicious realm of candies, chocolates, and sugary delights.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/3734361970c121613070bab6ab0b5dd7.poster.avif?t=1761210482\" width=600 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/3734361970c121613070bab6ab0b5dd7.webm?t=1761210482\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/3734361970c121613070bab6ab0b5dd7.mp4?t=1761210482\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" ><strong>MAKE YOUR OWN PASTRIES</strong></h2>Unleash your creativity in the kitchen and craft mouthwatering pastries that will tantalize taste buds. From delectable chocolates to irresistible gummies, experiment with flavors and designs to create a signature collection that sets your candy shop apart.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/2a16e7df38ac91d34f2be541447090dc.poster.avif?t=1761210482\" width=600 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/2a16e7df38ac91d34f2be541447090dc.webm?t=1761210482\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/2a16e7df38ac91d34f2be541447090dc.mp4?t=1761210482\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" ><strong>SELL YOUR PRODUCTS</strong></h2>Showcase your sugary masterpieces to the world! Set up your candy shop for eager customers and watch as the aroma of sweetness attracts a bustling crowd. Manage sales, interact with customers, and ensure that every delightful treat finds its way into the hands of happy patrons.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/3d00e4bed85f92c1e8b80e3dba9a6c22.poster.avif?t=1761210482\" width=600 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/3d00e4bed85f92c1e8b80e3dba9a6c22.webm?t=1761210482\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/3d00e4bed85f92c1e8b80e3dba9a6c22.mp4?t=1761210482\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" ><strong>MANAGE AND EXPAND YOUR CANDY SHOP</strong></h2>Become the ultimate candy tycoon by managing every aspect of your candy shop. From inventory and pricing to marketing strategies, make wise business decisions to maximize profits. Expand your shop, unlock new recipes, and discover exciting ways to keep your customers coming back for more.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/de96bca0b9f00cc3410dca1daf34204b.poster.avif?t=1761210482\" width=600 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/de96bca0b9f00cc3410dca1daf34204b.webm?t=1761210482\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/de96bca0b9f00cc3410dca1daf34204b.mp4?t=1761210482\" type=\"video/mp4\"></video></span>",
+      "about_the_game": "<h2 class=\"bb_tag\" ><strong>OPEN YOUR CANDY SHOP!</strong></h2>Embark on a sweet adventure as you step into the world of confectionery entrepreneurship. Open your own candy shop and dive into the delicious realm of candies, chocolates, and sugary delights.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/3734361970c121613070bab6ab0b5dd7.poster.avif?t=1761210482\" width=600 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/3734361970c121613070bab6ab0b5dd7.webm?t=1761210482\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/3734361970c121613070bab6ab0b5dd7.mp4?t=1761210482\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" ><strong>MAKE YOUR OWN PASTRIES</strong></h2>Unleash your creativity in the kitchen and craft mouthwatering pastries that will tantalize taste buds. From delectable chocolates to irresistible gummies, experiment with flavors and designs to create a signature collection that sets your candy shop apart.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/2a16e7df38ac91d34f2be541447090dc.poster.avif?t=1761210482\" width=600 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/2a16e7df38ac91d34f2be541447090dc.webm?t=1761210482\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/2a16e7df38ac91d34f2be541447090dc.mp4?t=1761210482\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" ><strong>SELL YOUR PRODUCTS</strong></h2>Showcase your sugary masterpieces to the world! Set up your candy shop for eager customers and watch as the aroma of sweetness attracts a bustling crowd. Manage sales, interact with customers, and ensure that every delightful treat finds its way into the hands of happy patrons.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/3d00e4bed85f92c1e8b80e3dba9a6c22.poster.avif?t=1761210482\" width=600 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/3d00e4bed85f92c1e8b80e3dba9a6c22.webm?t=1761210482\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/3d00e4bed85f92c1e8b80e3dba9a6c22.mp4?t=1761210482\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" ><strong>MANAGE AND EXPAND YOUR CANDY SHOP</strong></h2>Become the ultimate candy tycoon by managing every aspect of your candy shop. From inventory and pricing to marketing strategies, make wise business decisions to maximize profits. Expand your shop, unlock new recipes, and discover exciting ways to keep your customers coming back for more.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/de96bca0b9f00cc3410dca1daf34204b.poster.avif?t=1761210482\" width=600 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/de96bca0b9f00cc3410dca1daf34204b.webm?t=1761210482\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/extras/de96bca0b9f00cc3410dca1daf34204b.mp4?t=1761210482\" type=\"video/mp4\"></video></span>",
+      "short_description": "Dive into a sugary world of sweetness in Candy Shop Simulator! Open your shop, create delectable pastries, manage sales, and expand your candy empire. Satisfy your sweet tooth and build your confectionery legacy now!",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/09ca01ab402f3d178ef72d9cdac7ec79bb36707f/header.jpg?t=1761210482",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/580554a601f8f57a514d67cd05574f0a5e1f4e06/capsule_231x87.jpg?t=1761210482",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/580554a601f8f57a514d67cd05574f0a5e1f4e06/capsule_184x69.jpg?t=1761210482",
+      "website": "https://games-i.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64 Bit<br></li><li><strong>Processor:</strong> Intel Core i5 3.0 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVidia GeForce GTX 780<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>Additional Notes:</strong> Recommend installation on an SSD drive</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64 Bit<br></li><li><strong>Processor:</strong> Intel Core i7 3.0 GHz<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVidia GeForce GTX 970<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 12 GB available space<br></li><li><strong>Additional Notes:</strong> Recommend installation on an SSD drive</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "Games Incubator"
+      ],
+      "publishers": [
+        "Games Incubator",
+        "PlayWay S.A."
+      ],
+      "demos": [
+        {
+          "appid": 2811560,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1299,
+        "final": 1299,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$12.99"
+      },
+      "packages": [
+        1003908
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Candy Shop Simulator",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1003908,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Candy Shop Simulator - $12.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1299
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/51dba5de31db70088ad5656a3ef4bd194f3d75d9/ss_51dba5de31db70088ad5656a3ef4bd194f3d75d9.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/51dba5de31db70088ad5656a3ef4bd194f3d75d9/ss_51dba5de31db70088ad5656a3ef4bd194f3d75d9.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/ss_39774136d23f7f87fca30e3f50601df02576ba06.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/ss_39774136d23f7f87fca30e3f50601df02576ba06.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/3ab568c51ceaf392dade8e939cc77ee9535b8378/ss_3ab568c51ceaf392dade8e939cc77ee9535b8378.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/3ab568c51ceaf392dade8e939cc77ee9535b8378/ss_3ab568c51ceaf392dade8e939cc77ee9535b8378.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/ss_fe6413ceaf930aeca1389dc1823ee577b9a9c374.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/ss_fe6413ceaf930aeca1389dc1823ee577b9a9c374.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/ss_b2da3d261faa08758692525d8c295564e86d8932.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/ss_b2da3d261faa08758692525d8c295564e86d8932.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/ss_dbac296a13f5497616538a5848ba40931ff2e34e.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/ss_dbac296a13f5497616538a5848ba40931ff2e34e.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/f5005e95fc7f832a0e0bf807111400ed9550951f/ss_f5005e95fc7f832a0e0bf807111400ed9550951f.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/f5005e95fc7f832a0e0bf807111400ed9550951f/ss_f5005e95fc7f832a0e0bf807111400ed9550951f.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/4c72992efbdd52a93667a687249a7d8b760dadea/ss_4c72992efbdd52a93667a687249a7d8b760dadea.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/4c72992efbdd52a93667a687249a7d8b760dadea/ss_4c72992efbdd52a93667a687249a7d8b760dadea.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/ss_8f4947f6ec8a9e78f7d229776af41e838168adbf.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/ss_8f4947f6ec8a9e78f7d229776af41e838168adbf.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/4089b01c8a998120cfef8d2a21560e48f1e02015/ss_4089b01c8a998120cfef8d2a21560e48f1e02015.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/4089b01c8a998120cfef8d2a21560e48f1e02015/ss_4089b01c8a998120cfef8d2a21560e48f1e02015.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/ss_ec8969c0e2b63af9303c974ad178a115db656f61.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/ss_ec8969c0e2b63af9303c974ad178a115db656f61.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/031e28667af1365ec09b88a410e53acda81b5597/ss_031e28667af1365ec09b88a410e53acda81b5597.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/031e28667af1365ec09b88a410e53acda81b5597/ss_031e28667af1365ec09b88a410e53acda81b5597.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/bd177daadf4b43dcac2c2093636ddd36e7a1a16f/ss_bd177daadf4b43dcac2c2093636ddd36e7a1a16f.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/bd177daadf4b43dcac2c2093636ddd36e7a1a16f/ss_bd177daadf4b43dcac2c2093636ddd36e7a1a16f.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/6d7da5264fd659a873a995502558e2cab063fe56/ss_6d7da5264fd659a873a995502558e2cab063fe56.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/6d7da5264fd659a873a995502558e2cab063fe56/ss_6d7da5264fd659a873a995502558e2cab063fe56.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/636a69a4701f627f706a20bb1b1b10ae036e6363/ss_636a69a4701f627f706a20bb1b1b10ae036e6363.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/636a69a4701f627f706a20bb1b1b10ae036e6363/ss_636a69a4701f627f706a20bb1b1b10ae036e6363.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/a5d9acad47b4ceea9f6b1603c80838d0bec048f5/ss_a5d9acad47b4ceea9f6b1603c80838d0bec048f5.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/a5d9acad47b4ceea9f6b1603c80838d0bec048f5/ss_a5d9acad47b4ceea9f6b1603c80838d0bec048f5.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/520f6f52a40a0470df5d402ea43834558575e632/ss_520f6f52a40a0470df5d402ea43834558575e632.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/520f6f52a40a0470df5d402ea43834558575e632/ss_520f6f52a40a0470df5d402ea43834558575e632.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/4af3cba0926207331fa773cf00d3f36098f4b5a0/ss_4af3cba0926207331fa773cf00d3f36098f4b5a0.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/4af3cba0926207331fa773cf00d3f36098f4b5a0/ss_4af3cba0926207331fa773cf00d3f36098f4b5a0.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 18,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/351354e6c068b912eab6781fb9c1fa987f10d2e6/ss_351354e6c068b912eab6781fb9c1fa987f10d2e6.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/351354e6c068b912eab6781fb9c1fa987f10d2e6/ss_351354e6c068b912eab6781fb9c1fa987f10d2e6.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 19,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/85d95e249a320786569135ab5da5d4b3a0fcad61/ss_85d95e249a320786569135ab5da5d4b3a0fcad61.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/85d95e249a320786569135ab5da5d4b3a0fcad61/ss_85d95e249a320786569135ab5da5d4b3a0fcad61.1920x1080.jpg?t=1761210482"
+        },
+        {
+          "id": 20,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/5e76d2d42b9641aa34b38bfc01070f55016aa769/ss_5e76d2d42b9641aa34b38bfc01070f55016aa769.600x338.jpg?t=1761210482",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/5e76d2d42b9641aa34b38bfc01070f55016aa769/ss_5e76d2d42b9641aa34b38bfc01070f55016aa769.1920x1080.jpg?t=1761210482"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257195055,
+          "name": "Candy Shop Simulator - Release Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257195055/d79b810cdecd92e1cc9596ab314414910c327c95/movie_600x337.jpg?t=1761210477",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2811530/1561013344/a638ddc1d22de529af1d8eabe7638025751aee23/1757423567/dash_av1.mpd?t=1761210477",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2811530/1561013344/a638ddc1d22de529af1d8eabe7638025751aee23/1757423567/dash_h264.mpd?t=1761210477",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2811530/1561013344/a638ddc1d22de529af1d8eabe7638025751aee23/1757423567/hls_264_master.m3u8?t=1761210477",
+          "highlight": true
+        },
+        {
+          "id": 257188373,
+          "name": "Candy Shop Simulator - Gamepaly Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257188373/d79b810cdecd92e1cc9596ab314414910c327c95/movie_600x337.jpg?t=1761210479",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2811530/540967299/ccde6c17d8e015d1ac2cb8735cfbbcd7c7b215b7/1756116572/dash_av1.mpd?t=1761210479",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2811530/540967299/ccde6c17d8e015d1ac2cb8735cfbbcd7c7b215b7/1756116572/dash_h264.mpd?t=1761210479",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2811530/540967299/ccde6c17d8e015d1ac2cb8735cfbbcd7c7b215b7/1756116572/hls_264_master.m3u8?t=1761210479",
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 16,
+        "highlighted": [
+          {
+            "name": "First Steps",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2811530/df864963844c700d0c026f35b8c83576a00c277b.jpg"
+          },
+          {
+            "name": "Served!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2811530/9393566b24982cbf2c27d7c72aa886653ddfd5a9.jpg"
+          },
+          {
+            "name": "Clean Freak",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2811530/ca048036e709f4e89992ec6fc7729d117e63d8c1.jpg"
+          },
+          {
+            "name": "Lollipop Master",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2811530/94129398ba324ced52cf1ab172776b8f4b0cbce0.jpg"
+          },
+          {
+            "name": "First Cake Sale",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2811530/7b88a1d656f9f93e39abfa9edc0ed22c8f4efc61.jpg"
+          },
+          {
+            "name": "Fully Loaded",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2811530/6864ba922c23fca3f9855d2952605ef684f3efd5.jpg"
+          },
+          {
+            "name": "Delivery Pro",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2811530/78369c7f1d1663f879d76d3658859e747a92460c.jpg"
+          },
+          {
+            "name": "Cake Architect",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2811530/d68501b232c6d2d421411639648f92ecee0b8f74.jpg"
+          },
+          {
+            "name": "Land Baron",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2811530/bfbfb67cf4ee42db84b095d6d367dc8678df2f48.jpg"
+          },
+          {
+            "name": "Berry Picker",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2811530/b5e38311d24abe4396cf1347a6a5a83b9d0e604b.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 9, 2025"
+      },
+      "support_info": {
+        "url": "https://games-i.com",
+        "email": "pr@games-i.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2811530?t=1761210482",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2811530/6e8e12b0fbb870daada095bbee1c4432cf2754b7/page_bg_raw.jpg?t=1761210482",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

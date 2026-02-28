@@ -1,0 +1,268 @@
+{
+  "2918500": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Cozy Island",
+      "steam_appid": 2918500,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "detailed_description": "<p class=\"bb_paragraph\" >Explore a charming island full of surprises and create your very own secret base!</p><p class=\"bb_paragraph\" >Wander freely through the island, meet adorable animals, join fun mini games, collect unique toys and furniture, and enjoy carefree, happy days under the sun.</p><p class=\"bb_paragraph\" >You can also invite your friends — play, laugh, and make wonderful memories together!</p><p class=\"bb_paragraph\" ><strong>Grow vegetables</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/af25776b2e11218e5bfcc5b4b0b036f8.poster.avif?t=1766064146\" width=400 height=224 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/af25776b2e11218e5bfcc5b4b0b036f8.webm?t=1766064146\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/af25776b2e11218e5bfcc5b4b0b036f8.mp4?t=1766064146\" type=\"video/mp4\"></video></span><br><br><strong>Ride your bike</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/19930fa23a34d991385ebdb5ebe67d03.poster.avif?t=1766064146\" width=400 height=224 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/19930fa23a34d991385ebdb5ebe67d03.webm?t=1766064146\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/19930fa23a34d991385ebdb5ebe67d03.mp4?t=1766064146\" type=\"video/mp4\"></video></span><br> <br><strong>Quirky items</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/80b01ce1dd809639d8806730fb3b60b5.poster.avif?t=1766064146\" width=480 height=270 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/80b01ce1dd809639d8806730fb3b60b5.webm?t=1766064146\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/80b01ce1dd809639d8806730fb3b60b5.mp4?t=1766064146\" type=\"video/mp4\"></video></span><br><br>Play with friends<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/111af5146f65468ff7c1ab5a5ae4abed.poster.avif?t=1766064146\" width=400 height=224 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/111af5146f65468ff7c1ab5a5ae4abed.webm?t=1766064146\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/111af5146f65468ff7c1ab5a5ae4abed.mp4?t=1766064146\" type=\"video/mp4\"></video></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/31148cf0cccf2513cdaef42db2c439e2.poster.avif?t=1766064146\" width=400 height=224 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/31148cf0cccf2513cdaef42db2c439e2.webm?t=1766064146\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/31148cf0cccf2513cdaef42db2c439e2.mp4?t=1766064146\" type=\"video/mp4\"></video></span></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >Explore a charming island full of surprises and create your very own secret base!</p><p class=\"bb_paragraph\" >Wander freely through the island, meet adorable animals, join fun mini games, collect unique toys and furniture, and enjoy carefree, happy days under the sun.</p><p class=\"bb_paragraph\" >You can also invite your friends — play, laugh, and make wonderful memories together!</p><p class=\"bb_paragraph\" ><strong>Grow vegetables</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/af25776b2e11218e5bfcc5b4b0b036f8.poster.avif?t=1766064146\" width=400 height=224 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/af25776b2e11218e5bfcc5b4b0b036f8.webm?t=1766064146\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/af25776b2e11218e5bfcc5b4b0b036f8.mp4?t=1766064146\" type=\"video/mp4\"></video></span><br><br><strong>Ride your bike</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/19930fa23a34d991385ebdb5ebe67d03.poster.avif?t=1766064146\" width=400 height=224 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/19930fa23a34d991385ebdb5ebe67d03.webm?t=1766064146\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/19930fa23a34d991385ebdb5ebe67d03.mp4?t=1766064146\" type=\"video/mp4\"></video></span><br> <br><strong>Quirky items</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/80b01ce1dd809639d8806730fb3b60b5.poster.avif?t=1766064146\" width=480 height=270 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/80b01ce1dd809639d8806730fb3b60b5.webm?t=1766064146\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/80b01ce1dd809639d8806730fb3b60b5.mp4?t=1766064146\" type=\"video/mp4\"></video></span><br><br>Play with friends<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/111af5146f65468ff7c1ab5a5ae4abed.poster.avif?t=1766064146\" width=400 height=224 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/111af5146f65468ff7c1ab5a5ae4abed.webm?t=1766064146\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/111af5146f65468ff7c1ab5a5ae4abed.mp4?t=1766064146\" type=\"video/mp4\"></video></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/31148cf0cccf2513cdaef42db2c439e2.poster.avif?t=1766064146\" width=400 height=224 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/31148cf0cccf2513cdaef42db2c439e2.webm?t=1766064146\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/extras/31148cf0cccf2513cdaef42db2c439e2.mp4?t=1766064146\" type=\"video/mp4\"></video></span></p>",
+      "short_description": "Grow veggies, go fishing, and meet cute animals! On this relaxing and lovely island, you can walk around and explore freely, unlock quirky and fun items, build your own secret base, and enjoy carefree, joy-filled days at your own pace.",
+      "supported_languages": "English, Simplified Chinese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/99d4baf423147e3f414b4e946e610a9ebda7d39c/header.jpg?t=1766064146",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/d61fdac5a5ef629e2d75ab42f8d0ac18009c02ff/capsule_231x87.jpg?t=1766064146",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/d61fdac5a5ef629e2d75ab42f8d0ac18009c02ff/capsule_184x69.jpg?t=1766064146",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-10400 / AMD Ryzen 3 4100<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 960 4GB / AMD Radeon R9 380 4GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-12400 / AMD Ryzen 5 5600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1060 6GB / AMD Radeon RX 580 8GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10.7 or newer<br></li><li><strong>Processor:</strong> Intel i5 (2019) / Apple M1<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon Pro 560X / Apple M1 GPU<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10.7 or newer<br></li><li><strong>Processor:</strong> Apple M2<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Apple M2 GPU<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "LazyFish Studio"
+      ],
+      "publishers": [
+        "LazyFish Studio"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 899,
+        "final": 899,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$8.99"
+      },
+      "packages": [
+        1039835
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Cozy Island",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1039835,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Cozy Island - $8.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 899
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/d192de9fd670d37881c9a2302a4d0cadf7f103cd/ss_d192de9fd670d37881c9a2302a4d0cadf7f103cd.600x338.jpg?t=1766064146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/d192de9fd670d37881c9a2302a4d0cadf7f103cd/ss_d192de9fd670d37881c9a2302a4d0cadf7f103cd.1920x1080.jpg?t=1766064146"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/bf4285809c9407b5b52d6a2d6f6b02f125cec9bc/ss_bf4285809c9407b5b52d6a2d6f6b02f125cec9bc.600x338.jpg?t=1766064146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/bf4285809c9407b5b52d6a2d6f6b02f125cec9bc/ss_bf4285809c9407b5b52d6a2d6f6b02f125cec9bc.1920x1080.jpg?t=1766064146"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/945ede92ed7b27ac8d2957e19cdb7f1871c31ee0/ss_945ede92ed7b27ac8d2957e19cdb7f1871c31ee0.600x338.jpg?t=1766064146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/945ede92ed7b27ac8d2957e19cdb7f1871c31ee0/ss_945ede92ed7b27ac8d2957e19cdb7f1871c31ee0.1920x1080.jpg?t=1766064146"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/ca8e40996c45307570996c3cb88490e847597b41/ss_ca8e40996c45307570996c3cb88490e847597b41.600x338.jpg?t=1766064146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/ca8e40996c45307570996c3cb88490e847597b41/ss_ca8e40996c45307570996c3cb88490e847597b41.1920x1080.jpg?t=1766064146"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/b47e7d7c8cb89562771c254737013aab0f3cea42/ss_b47e7d7c8cb89562771c254737013aab0f3cea42.600x338.jpg?t=1766064146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/b47e7d7c8cb89562771c254737013aab0f3cea42/ss_b47e7d7c8cb89562771c254737013aab0f3cea42.1920x1080.jpg?t=1766064146"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/ff1d2aeceb90428d6af3dbdbe8f049b91cd0e209/ss_ff1d2aeceb90428d6af3dbdbe8f049b91cd0e209.600x338.jpg?t=1766064146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/ff1d2aeceb90428d6af3dbdbe8f049b91cd0e209/ss_ff1d2aeceb90428d6af3dbdbe8f049b91cd0e209.1920x1080.jpg?t=1766064146"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/d448add5d233e10132ff865a234d3e99075538f6/ss_d448add5d233e10132ff865a234d3e99075538f6.600x338.jpg?t=1766064146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/d448add5d233e10132ff865a234d3e99075538f6/ss_d448add5d233e10132ff865a234d3e99075538f6.1920x1080.jpg?t=1766064146"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/2e4bfea51842cde2f5bb18c3e5a7240293b71b16/ss_2e4bfea51842cde2f5bb18c3e5a7240293b71b16.600x338.jpg?t=1766064146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918500/2e4bfea51842cde2f5bb18c3e5a7240293b71b16/ss_2e4bfea51842cde2f5bb18c3e5a7240293b71b16.1920x1080.jpg?t=1766064146"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257031457,
+          "name": "pv1",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257031457/movie.293x165.jpg?t=1761399872",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2918500/714302/2143f568fb19445f4d2f75efa830d73235b6d9a4/1750889484/dash_av1.mpd?t=1761399872",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2918500/714302/2143f568fb19445f4d2f75efa830d73235b6d9a4/1750889484/dash_h264.mpd?t=1761399872",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2918500/714302/2143f568fb19445f4d2f75efa830d73235b6d9a4/1750889484/hls_264_master.m3u8?t=1761399872",
+          "highlight": true
+        },
+        {
+          "id": 257197637,
+          "name": "pv2",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257197637/8985a9f5b1ecac3928d7041628926f19b44b704a/movie_600x337.jpg?t=1758496036",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2918500/263974506/8e4d43d967ccf0981f7cb902a6f67ee0806c8375/1758494459/dash_av1.mpd?t=1758496036",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2918500/263974506/8e4d43d967ccf0981f7cb902a6f67ee0806c8375/1758494459/dash_h264.mpd?t=1758496036",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2918500/263974506/8e4d43d967ccf0981f7cb902a6f67ee0806c8375/1758494459/hls_264_master.m3u8?t=1758496036",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 2115
+      },
+      "achievements": {
+        "total": 30,
+        "highlighted": [
+          {
+            "name": "King of Spiky",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2918500/6533b250023d4a859e0f7074177bc5c44e132c9c.jpg"
+          },
+          {
+            "name": "Great Harvest",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2918500/eb73e0efcb7f72523bd775d1e7eb06f7680ec817.jpg"
+          },
+          {
+            "name": "Bottomless Stomach",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2918500/cf8c806e66b81fbaf463a8ec2398ba12cae6ea7f.jpg"
+          },
+          {
+            "name": "Fishing Master",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2918500/04f0fb15223a48d7e2ec1cc9fa1b7c8b71064688.jpg"
+          },
+          {
+            "name": "Animal Buddy",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2918500/2fe338f0dfee3a3bd5f3a56ecdeb66fb6412e9d5.jpg"
+          },
+          {
+            "name": "Hatch an Egg",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2918500/36359aefccf029ea91d68d71526fa4889c2240ce.jpg"
+          },
+          {
+            "name": "Bush Cleaner",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2918500/265c72c65525c2d8eacc09a56a2ca8d949fe9933.jpg"
+          },
+          {
+            "name": "Burger King",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2918500/b02942530db07f06c15389ddc8068037c5c2b94e.jpg"
+          },
+          {
+            "name": "Red-Hat Worm Photographer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2918500/431d68eb7dd8610b951d58d8e344ed965d03dcb2.jpg"
+          },
+          {
+            "name": "Swordfish Legend",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2918500/0873f0c83b96a6de83b7271d18bf434cdc8b9e16.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 21, 2025"
+      },
+      "support_info": {
+        "url": "",
+        "email": "steamooz@outlook.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2918500?t=1766064146",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2918500?t=1766064146",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "10",
+          "required_age": "10",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Gewalt"
+        }
+      }
+    }
+  }
+}

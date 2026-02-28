@@ -1,0 +1,300 @@
+{
+  "3355800": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Bank Simulator",
+      "steam_appid": 3355800,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h2 class=\"bb_tag\" ><strong>Teller Office &amp; Customer Service: Stay Alert</strong></h2><p class=\"bb_paragraph\" >Manage deposits, withdrawals, and account openings while staying vigilant. Watch out for counterfeit money, customers requesting more than their account balance, and other suspicious transactions. Verify information carefully and make smart decisions to protect your bank from fraud and losses.</p><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/be11023d70b36e5d45dc424810bf9ad0.poster.avif?t=1771790904\" width=564 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/be11023d70b36e5d45dc424810bf9ad0.webm?t=1771790904\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/be11023d70b36e5d45dc424810bf9ad0.mp4?t=1771790904\" type=\"video/mp4\"></video></span><br><br><strong>Hiring System: Build Your Team</strong></h2><p class=\"bb_paragraph\" >Interview candidates with varying salary requests and skill levels. Some Experts come cheap, some Novices ask for premium pay, it's your job to evaluate if they're worth it. Experience (Novice, Qualified, Expert) directly affects performance across all roles: Tellers, Bond Analysts, and Marketing Analysts. Choose carefully and build a cost-effective workforce.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/1bea38d656339e1b0c89d6282a45647f.poster.avif?t=1771790904\" width=564 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/1bea38d656339e1b0c89d6282a45647f.webm?t=1771790904\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/1bea38d656339e1b0c89d6282a45647f.mp4?t=1771790904\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Bonds: Investment &amp; Risk Management</strong></h2><p class=\"bb_paragraph\" >Make strategic bond investments in a dynamic market affected by real-time economic news. Assign employees to analyze bonds and discover hidden information, legal issues, financial problems, etc. Earn through coupon payments or sell bonds early for profit, or hold until maturity for face value. Balance safe low-yield bonds against risky high-return options, and watch out for defaults that could cost you. Track your performance with ranking and history systems as you develop your investment strategy.  <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/53519f416dd133bf70a63c650b67bf88.poster.avif?t=1771790904\" width=564 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/53519f416dd133bf70a63c650b67bf88.webm?t=1771790904\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/53519f416dd133bf70a63c650b67bf88.mp4?t=1771790904\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Loans: Risk Assessment &amp; Interest Management</strong></h2><p class=\"bb_paragraph\" >Carefully review loan requests and verify applicant information to prevent defaults. Set interest rates strategically. Make informed decisions to protect your bank from financial losses. <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/6e1db183363942c8f6588ba06b31c4fd.poster.avif?t=1771790904\" width=564 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/6e1db183363942c8f6588ba06b31c4fd.webm?t=1771790904\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/6e1db183363942c8f6588ba06b31c4fd.mp4?t=1771790904\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Marketing: Grow Your Customer Base</strong></h2><p class=\"bb_paragraph\" >Hire Marketing Analysts to create and analyze advertising campaigns. As the manager, review and approve their proposed campaigns to attract new customers and grow your bank's client base. <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/178e0e4d5bf192bb2aa22c3fd20111b1.poster.avif?t=1771790904\" width=564 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/178e0e4d5bf192bb2aa22c3fd20111b1.webm?t=1771790904\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/178e0e4d5bf192bb2aa22c3fd20111b1.mp4?t=1771790904\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Armored Car: Expand Your Empire</strong></h2><p class=\"bb_paragraph\" >Transport ATMs across the city and deploy them in different locations to grow your banking network. Use the armored car to expand beyond your office and generate passive income. Exciting new features and strategic mechanics coming in future updates.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/89b59002e84c061522a42989bbd62b49.poster.avif?t=1771790904\" width=564 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/89b59002e84c061522a42989bbd62b49.webm?t=1771790904\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/89b59002e84c061522a42989bbd62b49.mp4?t=1771790904\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Tools: Money Handbag, Trash Basket &amp; Cleaning Brush</strong></h2><p class=\"bb_paragraph\" >Use the handbag to fill or empty items, the trash basket to collect garbage, and the cleaning brush to clean dirty walls.<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/ab75ecec60d4907f702e5adc734cc14f.poster.avif?t=1771790904\" width=564 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/ab75ecec60d4907f702e5adc734cc14f.webm?t=1771790904\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/ab75ecec60d4907f702e5adc734cc14f.mp4?t=1771790904\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Customizations: Build Your Brand</strong></h2><p class=\"bb_paragraph\" >Personalize your bank with custom furniture, flooring, colors, and layout changes. Choose your own bank name and design every detail to match your unique style and vision.<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/103cb63721c1b6bed1157aef046d4915.poster.avif?t=1771790904\" width=564 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/103cb63721c1b6bed1157aef046d4915.webm?t=1771790904\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/103cb63721c1b6bed1157aef046d4915.mp4?t=1771790904\" type=\"video/mp4\"></video></span></p>",
+      "about_the_game": "<h2 class=\"bb_tag\" ><strong>Teller Office &amp; Customer Service: Stay Alert</strong></h2><p class=\"bb_paragraph\" >Manage deposits, withdrawals, and account openings while staying vigilant. Watch out for counterfeit money, customers requesting more than their account balance, and other suspicious transactions. Verify information carefully and make smart decisions to protect your bank from fraud and losses.</p><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/be11023d70b36e5d45dc424810bf9ad0.poster.avif?t=1771790904\" width=564 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/be11023d70b36e5d45dc424810bf9ad0.webm?t=1771790904\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/be11023d70b36e5d45dc424810bf9ad0.mp4?t=1771790904\" type=\"video/mp4\"></video></span><br><br><strong>Hiring System: Build Your Team</strong></h2><p class=\"bb_paragraph\" >Interview candidates with varying salary requests and skill levels. Some Experts come cheap, some Novices ask for premium pay, it's your job to evaluate if they're worth it. Experience (Novice, Qualified, Expert) directly affects performance across all roles: Tellers, Bond Analysts, and Marketing Analysts. Choose carefully and build a cost-effective workforce.<br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/1bea38d656339e1b0c89d6282a45647f.poster.avif?t=1771790904\" width=564 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/1bea38d656339e1b0c89d6282a45647f.webm?t=1771790904\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/1bea38d656339e1b0c89d6282a45647f.mp4?t=1771790904\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Bonds: Investment &amp; Risk Management</strong></h2><p class=\"bb_paragraph\" >Make strategic bond investments in a dynamic market affected by real-time economic news. Assign employees to analyze bonds and discover hidden information, legal issues, financial problems, etc. Earn through coupon payments or sell bonds early for profit, or hold until maturity for face value. Balance safe low-yield bonds against risky high-return options, and watch out for defaults that could cost you. Track your performance with ranking and history systems as you develop your investment strategy.  <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/53519f416dd133bf70a63c650b67bf88.poster.avif?t=1771790904\" width=564 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/53519f416dd133bf70a63c650b67bf88.webm?t=1771790904\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/53519f416dd133bf70a63c650b67bf88.mp4?t=1771790904\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Loans: Risk Assessment &amp; Interest Management</strong></h2><p class=\"bb_paragraph\" >Carefully review loan requests and verify applicant information to prevent defaults. Set interest rates strategically. Make informed decisions to protect your bank from financial losses. <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/6e1db183363942c8f6588ba06b31c4fd.poster.avif?t=1771790904\" width=564 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/6e1db183363942c8f6588ba06b31c4fd.webm?t=1771790904\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/6e1db183363942c8f6588ba06b31c4fd.mp4?t=1771790904\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Marketing: Grow Your Customer Base</strong></h2><p class=\"bb_paragraph\" >Hire Marketing Analysts to create and analyze advertising campaigns. As the manager, review and approve their proposed campaigns to attract new customers and grow your bank's client base. <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/178e0e4d5bf192bb2aa22c3fd20111b1.poster.avif?t=1771790904\" width=564 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/178e0e4d5bf192bb2aa22c3fd20111b1.webm?t=1771790904\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/178e0e4d5bf192bb2aa22c3fd20111b1.mp4?t=1771790904\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Armored Car: Expand Your Empire</strong></h2><p class=\"bb_paragraph\" >Transport ATMs across the city and deploy them in different locations to grow your banking network. Use the armored car to expand beyond your office and generate passive income. Exciting new features and strategic mechanics coming in future updates.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/89b59002e84c061522a42989bbd62b49.poster.avif?t=1771790904\" width=564 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/89b59002e84c061522a42989bbd62b49.webm?t=1771790904\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/89b59002e84c061522a42989bbd62b49.mp4?t=1771790904\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Tools: Money Handbag, Trash Basket &amp; Cleaning Brush</strong></h2><p class=\"bb_paragraph\" >Use the handbag to fill or empty items, the trash basket to collect garbage, and the cleaning brush to clean dirty walls.<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/ab75ecec60d4907f702e5adc734cc14f.poster.avif?t=1771790904\" width=564 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/ab75ecec60d4907f702e5adc734cc14f.webm?t=1771790904\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/ab75ecec60d4907f702e5adc734cc14f.mp4?t=1771790904\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Customizations: Build Your Brand</strong></h2><p class=\"bb_paragraph\" >Personalize your bank with custom furniture, flooring, colors, and layout changes. Choose your own bank name and design every detail to match your unique style and vision.<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/103cb63721c1b6bed1157aef046d4915.poster.avif?t=1771790904\" width=564 height=240 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/103cb63721c1b6bed1157aef046d4915.webm?t=1771790904\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/extras/103cb63721c1b6bed1157aef046d4915.mp4?t=1771790904\" type=\"video/mp4\"></video></span></p>",
+      "short_description": "Build and manage your financial empire from a small bank to a global powerhouse. Approve loans, trade bonds, hire staff, and master the market in Bank Simulator a business management sim and banking tycoon where every economic decision impacts your bottom line",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Dutch, Japanese, Korean, Russian, Simplified Chinese, Turkish, Hungarian, Polish, Portuguese - Brazil",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/b3c1cb2663feb3308944ba29ed148b0cce595552/header_alt_assets_0.jpg?t=1771790904",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/1d39b6eab2f697b6034e3f809b079467afbd43bc/capsule_231x87_alt_assets_0.jpg?t=1771790904",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/1d39b6eab2f697b6034e3f809b079467afbd43bc/capsule_184x69_alt_assets_0.jpg?t=1771790904",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows (64-bit) 10<br></li><li><strong>Processor:</strong> i5 3550 / RYZEN 5 2500X<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1050 / AMD R9 270X<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows (64-bit) 10<br></li><li><strong>Processor:</strong> i5 7600K / Ryzen 5 2600x<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1060 / AMD RX 480<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Strong Bow Games"
+      ],
+      "publishers": [
+        "Strong Bow Games"
+      ],
+      "demos": [
+        {
+          "appid": 3408280,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        1187751
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Bank Simulator",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1187751,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Bank Simulator - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 67,
+          "description": "Camera Comfort"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/fb6452cca3e7e1c2281436cbcb4ffabe243ad499/ss_fb6452cca3e7e1c2281436cbcb4ffabe243ad499.600x338.jpg?t=1771790904",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/fb6452cca3e7e1c2281436cbcb4ffabe243ad499/ss_fb6452cca3e7e1c2281436cbcb4ffabe243ad499.1920x1080.jpg?t=1771790904"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/9011478904385b7b0cd4f343b9e184c30c788a5d/ss_9011478904385b7b0cd4f343b9e184c30c788a5d.600x338.jpg?t=1771790904",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/9011478904385b7b0cd4f343b9e184c30c788a5d/ss_9011478904385b7b0cd4f343b9e184c30c788a5d.1920x1080.jpg?t=1771790904"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/01da7da738b6618527e1e873438ddb64e8255f2d/ss_01da7da738b6618527e1e873438ddb64e8255f2d.600x338.jpg?t=1771790904",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/01da7da738b6618527e1e873438ddb64e8255f2d/ss_01da7da738b6618527e1e873438ddb64e8255f2d.1920x1080.jpg?t=1771790904"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/a0eae4e2be6fd19cc9accd26b737037456124ef7/ss_a0eae4e2be6fd19cc9accd26b737037456124ef7.600x338.jpg?t=1771790904",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/a0eae4e2be6fd19cc9accd26b737037456124ef7/ss_a0eae4e2be6fd19cc9accd26b737037456124ef7.1920x1080.jpg?t=1771790904"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/4dd813b9256208f1173b22fd651b9395b37f62ee/ss_4dd813b9256208f1173b22fd651b9395b37f62ee.600x338.jpg?t=1771790904",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/4dd813b9256208f1173b22fd651b9395b37f62ee/ss_4dd813b9256208f1173b22fd651b9395b37f62ee.1920x1080.jpg?t=1771790904"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/91b2ebe911396d58620545f7858974400d91162b/ss_91b2ebe911396d58620545f7858974400d91162b.600x338.jpg?t=1771790904",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/91b2ebe911396d58620545f7858974400d91162b/ss_91b2ebe911396d58620545f7858974400d91162b.1920x1080.jpg?t=1771790904"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/dd423f6d42ce282f2493f80fd1cf531898ebd928/ss_dd423f6d42ce282f2493f80fd1cf531898ebd928.600x338.jpg?t=1771790904",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/dd423f6d42ce282f2493f80fd1cf531898ebd928/ss_dd423f6d42ce282f2493f80fd1cf531898ebd928.1920x1080.jpg?t=1771790904"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/6eda687c07ef1e4e5a5266894b9dce8c0fce73d8/ss_6eda687c07ef1e4e5a5266894b9dce8c0fce73d8.600x338.jpg?t=1771790904",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/6eda687c07ef1e4e5a5266894b9dce8c0fce73d8/ss_6eda687c07ef1e4e5a5266894b9dce8c0fce73d8.1920x1080.jpg?t=1771790904"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/4f2e44c52a707333eafafae5e1d90f063ced0b33/ss_4f2e44c52a707333eafafae5e1d90f063ced0b33.600x338.jpg?t=1771790904",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/4f2e44c52a707333eafafae5e1d90f063ced0b33/ss_4f2e44c52a707333eafafae5e1d90f063ced0b33.1920x1080.jpg?t=1771790904"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/d5a3bbf07c84153264fbd2750c974e9e5dfb95e7/ss_d5a3bbf07c84153264fbd2750c974e9e5dfb95e7.600x338.jpg?t=1771790904",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/d5a3bbf07c84153264fbd2750c974e9e5dfb95e7/ss_d5a3bbf07c84153264fbd2750c974e9e5dfb95e7.1920x1080.jpg?t=1771790904"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/6241d444d39a6b0ae7ac3d538348bc01137cce71/ss_6241d444d39a6b0ae7ac3d538348bc01137cce71.600x338.jpg?t=1771790904",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/6241d444d39a6b0ae7ac3d538348bc01137cce71/ss_6241d444d39a6b0ae7ac3d538348bc01137cce71.1920x1080.jpg?t=1771790904"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/674f66a9dc2beee7854f5bdbce14783d85425952/ss_674f66a9dc2beee7854f5bdbce14783d85425952.600x338.jpg?t=1771790904",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/674f66a9dc2beee7854f5bdbce14783d85425952/ss_674f66a9dc2beee7854f5bdbce14783d85425952.1920x1080.jpg?t=1771790904"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/e48a66f2e84c5e16aa42c9f6027711103a3655e1/ss_e48a66f2e84c5e16aa42c9f6027711103a3655e1.600x338.jpg?t=1771790904",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/e48a66f2e84c5e16aa42c9f6027711103a3655e1/ss_e48a66f2e84c5e16aa42c9f6027711103a3655e1.1920x1080.jpg?t=1771790904"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/f7d1d1397d4d1361cbf30dee0b47f4966fccf345/ss_f7d1d1397d4d1361cbf30dee0b47f4966fccf345.600x338.jpg?t=1771790904",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/f7d1d1397d4d1361cbf30dee0b47f4966fccf345/ss_f7d1d1397d4d1361cbf30dee0b47f4966fccf345.1920x1080.jpg?t=1771790904"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/885e30b023c1d11d0691d083533fba89661c86ef/ss_885e30b023c1d11d0691d083533fba89661c86ef.600x338.jpg?t=1771790904",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/885e30b023c1d11d0691d083533fba89661c86ef/ss_885e30b023c1d11d0691d083533fba89661c86ef.1920x1080.jpg?t=1771790904"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/810fb35d49e58505a5b3bc931a92042f0fccde5d/ss_810fb35d49e58505a5b3bc931a92042f0fccde5d.600x338.jpg?t=1771790904",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/810fb35d49e58505a5b3bc931a92042f0fccde5d/ss_810fb35d49e58505a5b3bc931a92042f0fccde5d.1920x1080.jpg?t=1771790904"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257272676,
+          "name": "Bank Simulator Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257272676/a3ba8267580cffa1ed5d66f96047bd580edc3e60/movie_600x337.jpg?t=1771790901",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3355800/1565329061/d58d4b376fb5b35f2a54bf67f58607f209dd0091/1771790103/dash_av1.mpd?t=1771790901",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3355800/1565329061/d58d4b376fb5b35f2a54bf67f58607f209dd0091/1771790103/dash_h264.mpd?t=1771790901",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3355800/1565329061/d58d4b376fb5b35f2a54bf67f58607f209dd0091/1771790103/hls_264_master.m3u8?t=1771790901",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 306
+      },
+      "achievements": {
+        "total": 83,
+        "highlighted": [
+          {
+            "name": "Swift Service",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3355800/bcbff2a01354eccb3537639f0ac6444263a1e18f.jpg"
+          },
+          {
+            "name": "Loan Strategist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3355800/6da2b4cba5b7a2a7db9cd3fc2a8c0edea820e775.jpg"
+          },
+          {
+            "name": "Bond Manager",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3355800/99cc155b121396fca9a33be5bda90266d8aef6c1.jpg"
+          },
+          {
+            "name": "Bank Sentinel",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3355800/f49e6175c23f742162a5e7907db62fe6f21c4ced.jpg"
+          },
+          {
+            "name": "Bank Guardian",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3355800/9211b09aff333735d6a13e7614339ed4523acc1f.jpg"
+          },
+          {
+            "name": "Bank Protector",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3355800/edf68c691a141a7523bde1a29d52cd79a283f11c.jpg"
+          },
+          {
+            "name": "Bank Champion",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3355800/46359f0a66d839be29bded09ba46200cb56d6f81.jpg"
+          },
+          {
+            "name": "Robber Catcher",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3355800/cde8d4e5036b12066d38848f2af6a74bb51d0a58.jpg"
+          },
+          {
+            "name": "First Bond",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3355800/f2f6c4bf7b3d79308e21a682dbaa2e93471329b1.jpg"
+          },
+          {
+            "name": "Bond Collector",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3355800/db1b308f630a41968d049330ae1901ba24798fff.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 6, 2025"
+      },
+      "support_info": {
+        "url": "",
+        "email": "strongbowstudio.info@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3355800?t=1771790904",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355800/4f1c944a66e9752314d562c371bb32dbaff3b9ac/page_bg_raw.jpg?t=1771790904",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

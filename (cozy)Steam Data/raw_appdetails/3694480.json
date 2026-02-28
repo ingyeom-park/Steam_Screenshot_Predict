@@ -1,0 +1,272 @@
+{
+  "3694480": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "A Game About Feeding A Black Hole",
+      "steam_appid": 3694480,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "detailed_description": "<p class=\"bb_paragraph\" ><strong>A short incremental game about feeding a Black Hole matter by destroying Asteroids, Planets, and Stars. </strong></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Destroy Asteroids, Planets, and Stars </strong><br> <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/3dda3c47662429b101a277f1e3c908df.poster.avif?t=1771816189\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/3dda3c47662429b101a277f1e3c908df.webm?t=1771816189\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/3dda3c47662429b101a277f1e3c908df.mp4?t=1771816189\" type=\"video/mp4\"></video></span></h2><h2 class=\"bb_tag\" ><strong>Play Additional Game Modes </strong><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/826e7d5a1e458942fe62b65fff24c2c0.poster.avif?t=1771816189\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/826e7d5a1e458942fe62b65fff24c2c0.webm?t=1771816189\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/826e7d5a1e458942fe62b65fff24c2c0.mp4?t=1771816189\" type=\"video/mp4\"></video></span></h2><h2 class=\"bb_tag\" >Use Dark Mode</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/32fce94e33db267b687a84ed076f35f0.poster.avif?t=1771816189\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/32fce94e33db267b687a84ed076f35f0.webm?t=1771816189\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/32fce94e33db267b687a84ed076f35f0.mp4?t=1771816189\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Buy Upgrades</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/00c31a22dfd00835646a32f62768b61b.poster.avif?t=1771816189\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/00c31a22dfd00835646a32f62768b61b.webm?t=1771816189\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/00c31a22dfd00835646a32f62768b61b.mp4?t=1771816189\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ></h2>",
+      "about_the_game": "<p class=\"bb_paragraph\" ><strong>A short incremental game about feeding a Black Hole matter by destroying Asteroids, Planets, and Stars. </strong></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>Destroy Asteroids, Planets, and Stars </strong><br> <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/3dda3c47662429b101a277f1e3c908df.poster.avif?t=1771816189\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/3dda3c47662429b101a277f1e3c908df.webm?t=1771816189\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/3dda3c47662429b101a277f1e3c908df.mp4?t=1771816189\" type=\"video/mp4\"></video></span></h2><h2 class=\"bb_tag\" ><strong>Play Additional Game Modes </strong><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/826e7d5a1e458942fe62b65fff24c2c0.poster.avif?t=1771816189\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/826e7d5a1e458942fe62b65fff24c2c0.webm?t=1771816189\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/826e7d5a1e458942fe62b65fff24c2c0.mp4?t=1771816189\" type=\"video/mp4\"></video></span></h2><h2 class=\"bb_tag\" >Use Dark Mode</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/32fce94e33db267b687a84ed076f35f0.poster.avif?t=1771816189\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/32fce94e33db267b687a84ed076f35f0.webm?t=1771816189\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/32fce94e33db267b687a84ed076f35f0.mp4?t=1771816189\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ><strong>Buy Upgrades</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/00c31a22dfd00835646a32f62768b61b.poster.avif?t=1771816189\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/00c31a22dfd00835646a32f62768b61b.webm?t=1771816189\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/extras/00c31a22dfd00835646a32f62768b61b.mp4?t=1771816189\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" ></h2>",
+      "short_description": "A short incremental game about feeding a Black Hole matter by destroying Asteroids, Planets, and Stars.",
+      "supported_languages": "English, French, German, Italian, Japanese, Korean, Simplified Chinese, Czech, Indonesian, Polish, Russian, Thai, Turkish, Vietnamese, Catalan, Spanish - Spain, Portuguese - Brazil, Portuguese - Portugal, Spanish - Latin America",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/eb2bc9581341ce206ef001f3e0700d08c513b24f/header.jpg?t=1771816189",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/1f36c4af76ec3bce175e9f2ec8941742e3a9a838/capsule_231x87.jpg?t=1771816189",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/1f36c4af76ec3bce175e9f2ec8941742e3a9a838/capsule_184x69.jpg?t=1771816189",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or newer<br></li><li><strong>Processor:</strong> 2.5Ghz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 4 GB RAM</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2.5Ghz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Support for OpenGL 3.3<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> Supports Intel x86 hardware and M1 &amp; M2 chipsets</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 4 GB RAM</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Linux/X11<br></li><li><strong>Processor:</strong> 2.5Ghz or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Support for OpenGL 3.3<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 4 GB RAM</li></ul>"
+      },
+      "legal_notice": "© Copyright 2025 Aarimous Studios LLC. Developed by Aarimous Studios LLC. Published by Aarimous Studios LLC. All Rights Reserved.",
+      "developers": [
+        "Aarimous",
+        "Thornityco"
+      ],
+      "publishers": [
+        "Aarimous",
+        "Thornityco"
+      ],
+      "demos": [
+        {
+          "appid": 4041100,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 699,
+        "final": 699,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$6.99"
+      },
+      "packages": [
+        1300980
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy A Game About Feeding A Black Hole",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1300980,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "A Game About Feeding A Black Hole - $6.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 699
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 64,
+          "description": "Adjustable Text Size"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 75,
+          "description": "Keyboard Only Option"
+        },
+        {
+          "id": 76,
+          "description": "Mouse Only Option"
+        },
+        {
+          "id": 77,
+          "description": "Touch Only Option"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/2e650712f557e05e222fa2489a61a4459bf6e6a2/ss_2e650712f557e05e222fa2489a61a4459bf6e6a2.600x338.jpg?t=1771816189",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/2e650712f557e05e222fa2489a61a4459bf6e6a2/ss_2e650712f557e05e222fa2489a61a4459bf6e6a2.1920x1080.jpg?t=1771816189"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/fce9e26cda2615abdca8617d2d203c7a98da5098/ss_fce9e26cda2615abdca8617d2d203c7a98da5098.600x338.jpg?t=1771816189",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/fce9e26cda2615abdca8617d2d203c7a98da5098/ss_fce9e26cda2615abdca8617d2d203c7a98da5098.1920x1080.jpg?t=1771816189"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/8694bc93ba0ff05cdc8d4a78e4af78470d554dac/ss_8694bc93ba0ff05cdc8d4a78e4af78470d554dac.600x338.jpg?t=1771816189",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/8694bc93ba0ff05cdc8d4a78e4af78470d554dac/ss_8694bc93ba0ff05cdc8d4a78e4af78470d554dac.1920x1080.jpg?t=1771816189"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/b3d9d5db9b470f57c497410a5bf343e25fe66fa3/ss_b3d9d5db9b470f57c497410a5bf343e25fe66fa3.600x338.jpg?t=1771816189",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/b3d9d5db9b470f57c497410a5bf343e25fe66fa3/ss_b3d9d5db9b470f57c497410a5bf343e25fe66fa3.1920x1080.jpg?t=1771816189"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/1f40d8724725083e149348e3f8a7094068eb8118/ss_1f40d8724725083e149348e3f8a7094068eb8118.600x338.jpg?t=1771816189",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/1f40d8724725083e149348e3f8a7094068eb8118/ss_1f40d8724725083e149348e3f8a7094068eb8118.1920x1080.jpg?t=1771816189"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/d69db06f0daf2349d66c7296b5279c9b093a185e/ss_d69db06f0daf2349d66c7296b5279c9b093a185e.600x338.jpg?t=1771816189",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/d69db06f0daf2349d66c7296b5279c9b093a185e/ss_d69db06f0daf2349d66c7296b5279c9b093a185e.1920x1080.jpg?t=1771816189"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/b9a2817df53c9d12c2f8e7cce9a5ed94cdf43504/ss_b9a2817df53c9d12c2f8e7cce9a5ed94cdf43504.600x338.jpg?t=1771816189",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/b9a2817df53c9d12c2f8e7cce9a5ed94cdf43504/ss_b9a2817df53c9d12c2f8e7cce9a5ed94cdf43504.1920x1080.jpg?t=1771816189"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/ab97c1c9715c0a4245523d36b080ae2e6a9e87c2/ss_ab97c1c9715c0a4245523d36b080ae2e6a9e87c2.600x338.jpg?t=1771816189",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3694480/ab97c1c9715c0a4245523d36b080ae2e6a9e87c2/ss_ab97c1c9715c0a4245523d36b080ae2e6a9e87c2.1920x1080.jpg?t=1771816189"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257246710,
+          "name": "Release Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257246710/2b8f33e3c656a1392889bc04d26db6170712758d/movie_600x337.jpg?t=1765386820",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3694480/894397241/c0b956ec47e89fb897aaf6f8040434c70948bc33/1765386459/dash_av1.mpd?t=1765386820",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3694480/894397241/c0b956ec47e89fb897aaf6f8040434c70948bc33/1765386459/dash_h264.mpd?t=1765386820",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3694480/894397241/c0b956ec47e89fb897aaf6f8040434c70948bc33/1765386459/hls_264_master.m3u8?t=1765386820",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 2299
+      },
+      "achievements": {
+        "total": 33,
+        "highlighted": [
+          {
+            "name": "The Black Hole Must Grow",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3694480/7198d38c407d9fad591073a85ad666443b408636.jpg"
+          },
+          {
+            "name": "Time to Go Upgrade",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3694480/dc9bb5686fc2f1d16b34652da42215341210ed33.jpg"
+          },
+          {
+            "name": "Miniature Milestone",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3694480/68b3d6ee600430892f1f13cb79f19fc59410829c.jpg"
+          },
+          {
+            "name": "More Asteroids!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3694480/6ae627a02b8f95f2c17d5058f4d6bce34030d468.jpg"
+          },
+          {
+            "name": "Double Dash",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3694480/0500f0209180ed2adb686ac824d8a97add7e9038.jpg"
+          },
+          {
+            "name": "A Well Fed Black Hole",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3694480/01bf43233b78ee48a36d957e9a32a656b4ba8501.jpg"
+          },
+          {
+            "name": "Was that Earth?",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3694480/1356bd6ab73dc972590e3fdf042e43562fa2e0e4.jpg"
+          },
+          {
+            "name": "Shine Bright",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3694480/e0cbd039080a6f1c7034e003913d5b7bff0db3c2.jpg"
+          },
+          {
+            "name": "Numbers Go Up",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3694480/cb09821783e6adda7b7b9e30f44de03367d069c5.jpg"
+          },
+          {
+            "name": "I Didn't Think You’d Get This Far",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3694480/40183215929c20f0897066229d4619bf0a659502.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Dec 15, 2025"
+      },
+      "support_info": {
+        "url": "",
+        "email": "a.game.about.feeding.a.black.hole@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3694480?t=1771816189",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3694480?t=1771816189",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

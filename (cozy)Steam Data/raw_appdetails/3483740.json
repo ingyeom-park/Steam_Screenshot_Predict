@@ -1,0 +1,375 @@
+{
+  "3483740": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Cast n Chill",
+      "steam_appid": 3483740,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        4001650,
+        3817870
+      ],
+      "detailed_description": "<p class=\"bb_paragraph\" >Cast n Chill's a laid-back fishin’ game for folks who’d rather wet a line than break a sweat. Whether yer driftin’ on a lazy lake, pokin’ 'round a winding river, or droppin’ lines in salty blue water, this here’s a game where you set the pace.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/fd1adf09d522b107d477258a462ad9f2.poster.avif?t=1770355191\" width=640 height=324 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/fd1adf09d522b107d477258a462ad9f2.webm?t=1770355191\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/fd1adf09d522b107d477258a462ad9f2.mp4?t=1770355191\" type=\"video/mp4\"></video></span> </p><h2 class=\"bb_tag\" >Upgrade Yer Gear</h2><p class=\"bb_paragraph\" >Start with the basics, catch whatever bites, sell your haul, and put those coins toward better rods, reels, and upgrades. Before ya know it, you’ll be wranglin’ <strong>rare species</strong> that’d make any angler green with envy.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/49919d8d3ad4d4a66630bbc5c3508f14.avif?t=1770355191\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras_big/49919d8d3ad4d4a66630bbc5c3508f14.avif?t=1770355191 width=800 height=450 /></span></p><h2 class=\"bb_tag\" >Explore New Waters</h2><p class=\"bb_paragraph\" >Find yer favourite fishin’ hole or keep wanderin’. There’s <strong>16 peaceful spots to discover</strong>, each with its own critters swimmin’ 'round, just waitin’ to bite.</p><p class=\"bb_paragraph\" > </p><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/1a026253a1e34bde42b3ee120d426a9a.avif?t=1770355191\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras_big/1a026253a1e34bde42b3ee120d426a9a.avif?t=1770355191 width=800 height=450 /></span></h2><h2 class=\"bb_tag\" >Pick Your Pace</h2><p class=\"bb_paragraph\" >In <i><strong>Active Mode</strong></i>, you’re in the thick of it - castin’, reelin’, and keepin’ busy like a loon at nesting time.</p><p class=\"bb_paragraph\" >Switch to <i><strong>Passive Mode</strong></i> if you’d rather let the game do the work while you’re off choppin’ wood. </p><p class=\"bb_paragraph\" >Set it up on a <strong>second monitor</strong> or <strong>tuck it in the corner</strong> - come back later and see what kind o’ haul the fish gods left ya.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/160d52ebb03f9b4f1ac3d674f4fb3e68.poster.avif?t=1770355191\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/160d52ebb03f9b4f1ac3d674f4fb3e68.webm?t=1770355191\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/160d52ebb03f9b4f1ac3d674f4fb3e68.mp4?t=1770355191\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Collect 'Em All</h2><p class=\"bb_paragraph\" >There’s  <strong>50+ fish to discover</strong> - some you’ll recognize, some you’ll squint at and go “what in the heck is <i>that</i>?” From scrappy little sunfish to big ol’ deepwater beasts, they’re all in the logbook waitin’ for your name.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/c23ed356276e2c45ee7837b1eb68971a.avif?t=1770355191\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras_big/c23ed356276e2c45ee7837b1eb68971a.avif?t=1770355191 width=800 height=450 /></span></p><h2 class=\"bb_tag\" >Legendary Catches</h2><p class=\"bb_paragraph\" >There’s 16 fish out there that still get folks jabberin’ at ol' Rusty's bait shop like they saw Bigfoot ride a moose. Land one, and you'll be part o' the legend.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/5014d53e1f91ce8c94ed6e7f5b102ea8.poster.avif?t=1770355191\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/5014d53e1f91ce8c94ed6e7f5b102ea8.webm?t=1770355191\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/5014d53e1f91ce8c94ed6e7f5b102ea8.mp4?t=1770355191\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Boat Buddies</h2><p class=\"bb_paragraph\" >Grab your rod and call a buddy, Cast 'n Chill now has co-op! Whether you’re lookin’ to kick back and fish side-by-side or stir up a bit of friendly competition, it’s all better with company.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/54fbc8466678f95f94b22702cf197b70.avif?t=1770355191\" width=800 height=450 /></span></p><h2 class=\"bb_tag\" >Trusty Companion</h2><p class=\"bb_paragraph\" >Nothin’ beats a day on the lake with a four-legged friend. They might not know a spinnerbait from a spoon, but they’ll help you spot a fish - if only 'cause they’re hopin’ for a bite themselves.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/51f1ebae0862210017874b5d5633e81b.avif?t=1770355191\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras_big/51f1ebae0862210017874b5d5633e81b.avif?t=1770355191 width=800 height=450 /></span></p><p class=\"bb_paragraph\" ></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >Cast n Chill's a laid-back fishin’ game for folks who’d rather wet a line than break a sweat. Whether yer driftin’ on a lazy lake, pokin’ 'round a winding river, or droppin’ lines in salty blue water, this here’s a game where you set the pace.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/fd1adf09d522b107d477258a462ad9f2.poster.avif?t=1770355191\" width=640 height=324 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/fd1adf09d522b107d477258a462ad9f2.webm?t=1770355191\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/fd1adf09d522b107d477258a462ad9f2.mp4?t=1770355191\" type=\"video/mp4\"></video></span> </p><h2 class=\"bb_tag\" >Upgrade Yer Gear</h2><p class=\"bb_paragraph\" >Start with the basics, catch whatever bites, sell your haul, and put those coins toward better rods, reels, and upgrades. Before ya know it, you’ll be wranglin’ <strong>rare species</strong> that’d make any angler green with envy.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/49919d8d3ad4d4a66630bbc5c3508f14.avif?t=1770355191\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras_big/49919d8d3ad4d4a66630bbc5c3508f14.avif?t=1770355191 width=800 height=450 /></span></p><h2 class=\"bb_tag\" >Explore New Waters</h2><p class=\"bb_paragraph\" >Find yer favourite fishin’ hole or keep wanderin’. There’s <strong>16 peaceful spots to discover</strong>, each with its own critters swimmin’ 'round, just waitin’ to bite.</p><p class=\"bb_paragraph\" > </p><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/1a026253a1e34bde42b3ee120d426a9a.avif?t=1770355191\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras_big/1a026253a1e34bde42b3ee120d426a9a.avif?t=1770355191 width=800 height=450 /></span></h2><h2 class=\"bb_tag\" >Pick Your Pace</h2><p class=\"bb_paragraph\" >In <i><strong>Active Mode</strong></i>, you’re in the thick of it - castin’, reelin’, and keepin’ busy like a loon at nesting time.</p><p class=\"bb_paragraph\" >Switch to <i><strong>Passive Mode</strong></i> if you’d rather let the game do the work while you’re off choppin’ wood. </p><p class=\"bb_paragraph\" >Set it up on a <strong>second monitor</strong> or <strong>tuck it in the corner</strong> - come back later and see what kind o’ haul the fish gods left ya.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/160d52ebb03f9b4f1ac3d674f4fb3e68.poster.avif?t=1770355191\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/160d52ebb03f9b4f1ac3d674f4fb3e68.webm?t=1770355191\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/160d52ebb03f9b4f1ac3d674f4fb3e68.mp4?t=1770355191\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Collect 'Em All</h2><p class=\"bb_paragraph\" >There’s  <strong>50+ fish to discover</strong> - some you’ll recognize, some you’ll squint at and go “what in the heck is <i>that</i>?” From scrappy little sunfish to big ol’ deepwater beasts, they’re all in the logbook waitin’ for your name.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/c23ed356276e2c45ee7837b1eb68971a.avif?t=1770355191\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras_big/c23ed356276e2c45ee7837b1eb68971a.avif?t=1770355191 width=800 height=450 /></span></p><h2 class=\"bb_tag\" >Legendary Catches</h2><p class=\"bb_paragraph\" >There’s 16 fish out there that still get folks jabberin’ at ol' Rusty's bait shop like they saw Bigfoot ride a moose. Land one, and you'll be part o' the legend.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/5014d53e1f91ce8c94ed6e7f5b102ea8.poster.avif?t=1770355191\" width=640 height=360 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/5014d53e1f91ce8c94ed6e7f5b102ea8.webm?t=1770355191\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/5014d53e1f91ce8c94ed6e7f5b102ea8.mp4?t=1770355191\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Boat Buddies</h2><p class=\"bb_paragraph\" >Grab your rod and call a buddy, Cast 'n Chill now has co-op! Whether you’re lookin’ to kick back and fish side-by-side or stir up a bit of friendly competition, it’s all better with company.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/54fbc8466678f95f94b22702cf197b70.avif?t=1770355191\" width=800 height=450 /></span></p><h2 class=\"bb_tag\" >Trusty Companion</h2><p class=\"bb_paragraph\" >Nothin’ beats a day on the lake with a four-legged friend. They might not know a spinnerbait from a spoon, but they’ll help you spot a fish - if only 'cause they’re hopin’ for a bite themselves.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras/51f1ebae0862210017874b5d5633e81b.avif?t=1770355191\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/extras_big/51f1ebae0862210017874b5d5633e81b.avif?t=1770355191 width=800 height=450 /></span></p><p class=\"bb_paragraph\" ></p>",
+      "short_description": "Cast n Chill is a relaxing fishing game where you explore serene lakes, rivers, and oceans. Catch rare fish, upgrade your gear and reel in legendary catches - all with your loyal companion by your side.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Simplified Chinese, Traditional Chinese, Portuguese - Brazil, Russian, Turkish",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/b3861b297ccb9284cd066c91f57b8b97b8e9fa91/header_alt_assets_4.jpg?t=1770355191",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/69a88dc7c3311e0db03d43816ceb585f49295113/capsule_231x87_alt_assets_4.jpg?t=1770355191",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/69a88dc7c3311e0db03d43816ceb585f49295113/capsule_184x69_alt_assets_4.jpg?t=1770355191",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel® Core™ i3 @ 3.2 GHZ<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX9<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.9+<br></li><li><strong>Processor:</strong> 2,6 GHz Intel Core i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card with DX9<br></li><li><strong>Storage:</strong> 256 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "© Wombat Brawler 2025",
+      "developers": [
+        "Wombat Brawler"
+      ],
+      "publishers": [
+        "Wombat Brawler"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1124,
+        "discount_percent": 25,
+        "initial_formatted": "$14.99",
+        "final_formatted": "$11.24"
+      },
+      "packages": [
+        1230395
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Cast n Chill",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1230395,
+              "percent_savings_text": "-25% ",
+              "percent_savings": 0,
+              "option_text": "Cast n Chill - <span class=\"discount_original_price\">$14.99</span> $11.24",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1124
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 39,
+          "description": "Shared/Split Screen Co-op"
+        },
+        {
+          "id": 24,
+          "description": "Shared/Split Screen"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 67,
+          "description": "Camera Comfort"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 75,
+          "description": "Keyboard Only Option"
+        },
+        {
+          "id": 76,
+          "description": "Mouse Only Option"
+        },
+        {
+          "id": 74,
+          "description": "Playable without Timed Input"
+        },
+        {
+          "id": 79,
+          "description": "Save Anytime"
+        },
+        {
+          "id": 69,
+          "description": "Stereo Sound"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 43,
+          "description": "Remote Play on TV"
+        },
+        {
+          "id": 44,
+          "description": "Remote Play Together"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/4b30a8cd1d2ff31bc61c3961cd4a146f8e410034/ss_4b30a8cd1d2ff31bc61c3961cd4a146f8e410034.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/4b30a8cd1d2ff31bc61c3961cd4a146f8e410034/ss_4b30a8cd1d2ff31bc61c3961cd4a146f8e410034.1920x1080.jpg?t=1770355191"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/85b7cce2701886954bb348bcff6abd94c0c6469d/ss_85b7cce2701886954bb348bcff6abd94c0c6469d.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/85b7cce2701886954bb348bcff6abd94c0c6469d/ss_85b7cce2701886954bb348bcff6abd94c0c6469d.1920x1080.jpg?t=1770355191"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/5ad3f1fa2033c66e7c3fdbf542bc31881fa0d5f3/ss_5ad3f1fa2033c66e7c3fdbf542bc31881fa0d5f3.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/5ad3f1fa2033c66e7c3fdbf542bc31881fa0d5f3/ss_5ad3f1fa2033c66e7c3fdbf542bc31881fa0d5f3.1920x1080.jpg?t=1770355191"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/acda5f40b3321c06b41b2c03f748d2910cae8709/ss_acda5f40b3321c06b41b2c03f748d2910cae8709.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/acda5f40b3321c06b41b2c03f748d2910cae8709/ss_acda5f40b3321c06b41b2c03f748d2910cae8709.1920x1080.jpg?t=1770355191"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/bd78f5cae09561612ea23ca6954f0ccb01c82182/ss_bd78f5cae09561612ea23ca6954f0ccb01c82182.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/bd78f5cae09561612ea23ca6954f0ccb01c82182/ss_bd78f5cae09561612ea23ca6954f0ccb01c82182.1920x1080.jpg?t=1770355191"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/6257371bd908621e9b8bab675e534346a969af49/ss_6257371bd908621e9b8bab675e534346a969af49.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/6257371bd908621e9b8bab675e534346a969af49/ss_6257371bd908621e9b8bab675e534346a969af49.1920x1080.jpg?t=1770355191"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/60c4260e619056a78e1f7aca127220af929ec223/ss_60c4260e619056a78e1f7aca127220af929ec223.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/60c4260e619056a78e1f7aca127220af929ec223/ss_60c4260e619056a78e1f7aca127220af929ec223.1920x1080.jpg?t=1770355191"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/09f89bd70b555d1fb0ad6e29312316844345e7d9/ss_09f89bd70b555d1fb0ad6e29312316844345e7d9.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/09f89bd70b555d1fb0ad6e29312316844345e7d9/ss_09f89bd70b555d1fb0ad6e29312316844345e7d9.1920x1080.jpg?t=1770355191"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/24caddf5fecb7842143d707629f49ca619e74dbc/ss_24caddf5fecb7842143d707629f49ca619e74dbc.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/24caddf5fecb7842143d707629f49ca619e74dbc/ss_24caddf5fecb7842143d707629f49ca619e74dbc.1920x1080.jpg?t=1770355191"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/963fb16db05cb40fa4e6084fb8b2b325108aac04/ss_963fb16db05cb40fa4e6084fb8b2b325108aac04.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/963fb16db05cb40fa4e6084fb8b2b325108aac04/ss_963fb16db05cb40fa4e6084fb8b2b325108aac04.1920x1080.jpg?t=1770355191"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/294298a9a53c7f887afbc3e4cbeaa0cb57e24b22/ss_294298a9a53c7f887afbc3e4cbeaa0cb57e24b22.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/294298a9a53c7f887afbc3e4cbeaa0cb57e24b22/ss_294298a9a53c7f887afbc3e4cbeaa0cb57e24b22.1920x1080.jpg?t=1770355191"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/00f7dd5cbb46d4e6e3c56f96160ee83ca2bc6279/ss_00f7dd5cbb46d4e6e3c56f96160ee83ca2bc6279.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/00f7dd5cbb46d4e6e3c56f96160ee83ca2bc6279/ss_00f7dd5cbb46d4e6e3c56f96160ee83ca2bc6279.1920x1080.jpg?t=1770355191"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/cc5f4684c1f04bbd7f2ea10c06898ed6407f3b9a/ss_cc5f4684c1f04bbd7f2ea10c06898ed6407f3b9a.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/cc5f4684c1f04bbd7f2ea10c06898ed6407f3b9a/ss_cc5f4684c1f04bbd7f2ea10c06898ed6407f3b9a.1920x1080.jpg?t=1770355191"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/f5c982436c188cddcb6d2dbc734dc442aa5518b2/ss_f5c982436c188cddcb6d2dbc734dc442aa5518b2.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/f5c982436c188cddcb6d2dbc734dc442aa5518b2/ss_f5c982436c188cddcb6d2dbc734dc442aa5518b2.1920x1080.jpg?t=1770355191"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/f6180893a83578c91e617987670ddca705bc4662/ss_f6180893a83578c91e617987670ddca705bc4662.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/f6180893a83578c91e617987670ddca705bc4662/ss_f6180893a83578c91e617987670ddca705bc4662.1920x1080.jpg?t=1770355191"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/d661994988135c5215b21bfae5d7aa3145d3f094/ss_d661994988135c5215b21bfae5d7aa3145d3f094.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/d661994988135c5215b21bfae5d7aa3145d3f094/ss_d661994988135c5215b21bfae5d7aa3145d3f094.1920x1080.jpg?t=1770355191"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/26a246bc33b63722dc611e84860c1c43357741af/ss_26a246bc33b63722dc611e84860c1c43357741af.600x338.jpg?t=1770355191",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483740/26a246bc33b63722dc611e84860c1c43357741af/ss_26a246bc33b63722dc611e84860c1c43357741af.1920x1080.jpg?t=1770355191"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257157449,
+          "name": "Official Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257157449/ed267772da2cb0348b4b754f4f48168b0ff5fbdc/movie_600x337.jpg?t=1750089746",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3483740/240568674/d940c681835364d44194d4f17fc0f439a63f1dfa/1750315702/dash_av1.mpd?t=1750089746",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3483740/240568674/d940c681835364d44194d4f17fc0f439a63f1dfa/1750315702/dash_h264.mpd?t=1750089746",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3483740/240568674/d940c681835364d44194d4f17fc0f439a63f1dfa/1750315702/hls_264_master.m3u8?t=1750089746",
+          "highlight": true
+        },
+        {
+          "id": 257152627,
+          "name": "Lake Hunkerdown Update",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257152627/67ed0f52f28c0e17a6e2a2a190f738e47100c290/movie_600x337.jpg?t=1764550772",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3483740/704835029/2a32bdfa56f04ea949ede7dd12d5de168ab8af8f/1764549871/dash_av1.mpd?t=1764550772",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3483740/704835029/2a32bdfa56f04ea949ede7dd12d5de168ab8af8f/1764549871/dash_h264.mpd?t=1764550772",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3483740/704835029/2a32bdfa56f04ea949ede7dd12d5de168ab8af8f/1764549871/hls_264_master.m3u8?t=1764550772",
+          "highlight": true
+        },
+        {
+          "id": 257193430,
+          "name": "Autumnwood Lake Update",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257193430/db59ed36abb4b43c9eeaa267415e1a9d72b67254/movie_600x337.jpg?t=1757549617",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3483740/1909447617/0868b9417a7e6070ef7808050cea978df2fb10b1/1757032451/dash_av1.mpd?t=1757549617",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3483740/1909447617/0868b9417a7e6070ef7808050cea978df2fb10b1/1757032451/dash_h264.mpd?t=1757549617",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3483740/1909447617/0868b9417a7e6070ef7808050cea978df2fb10b1/1757032451/hls_264_master.m3u8?t=1757549617",
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 6497
+      },
+      "achievements": {
+        "total": 33,
+        "highlighted": [
+          {
+            "name": "Gone Fishin'",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3483740/88065e8dd7db352cec857845ca37355860f34526.jpg"
+          },
+          {
+            "name": "Rusty's No.1 Customer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3483740/a70e061bb8851141e4af7fc85626934cca9f25bd.jpg"
+          },
+          {
+            "name": "Fish Finder",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3483740/ceb758d6dabe72c47d85f3acccecf03b00320fa5.jpg"
+          },
+          {
+            "name": "Fish Whisperer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3483740/c7591a42a37e9c723dcf58fa5be1128cfd8e8c6c.jpg"
+          },
+          {
+            "name": "Good Friends",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3483740/fb963550e3c53b5d2ce17756809fa3675bd651ee.jpg"
+          },
+          {
+            "name": "Nap Time",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3483740/00ac24dbf3ee663b6979331dd3836fe5fb431d27.jpg"
+          },
+          {
+            "name": "Feeding Frenzy",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3483740/627203bbfd00021abf938b17248f8d3a7253e4d2.jpg"
+          },
+          {
+            "name": "Above Board",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3483740/90c01fce94a30f45544e021053100918f8e5b8ae.jpg"
+          },
+          {
+            "name": "Over Achiever",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3483740/b981bd5260ca3debd079bd0ab475f414432d87d5.jpg"
+          },
+          {
+            "name": "Whoa, Nelly",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3483740/9b63a85a9cf0b3f5b178331dbb88ee620aee21c5.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 16, 2025"
+      },
+      "support_info": {
+        "url": "wombatbrawler.com",
+        "email": "support@wombatbrawler.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3483740?t=1770355191",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3483740?t=1770355191",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

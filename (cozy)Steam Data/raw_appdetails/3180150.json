@@ -1,0 +1,284 @@
+{
+  "3180150": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Mall Simulator",
+      "steam_appid": 3180150,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>ROADMAP</h1><p><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/6c756c882ab94a9d4393a3aeafb33c25.avif?t=1772059192\" width=1560 height=718 /></span></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" ><strong>Mall Simulator is a chill first-person simulation where you will experience a giant mall tycoon with various stores that you run yourself:</strong>  <br><br><strong>👕 Clothing ⚽ Sports 💻 Tech 🧸 Toys 🛒 Supermarket 💄 Cosmetics  <br>🎬 Cinema 🍔 Burger Shop 🕹️ Arcade 🏠 Home Goods 🎮 Game Store  <br>🥐 Bakery 💍 Jewelry 🌸 Florist 🍣 Sushi Bar 🥤 Vending Machines 💵 ATMs</strong><br><br><strong>…and so much more to explore in your mega mall!</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/55ba77c14eb894118b5f2190b70f3dc7.avif?t=1772059192\" width=800 height=101 /></span>Design matters! Create the best design for your mall and manage your stores. Showcase your best-seller stores and create the perfect mall for your customers.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/37eeae65d6b3464ec5efc16593df5b7b.poster.avif?t=1772059192\" width=748 height=420 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/37eeae65d6b3464ec5efc16593df5b7b.webm?t=1772059192\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/37eeae65d6b3464ec5efc16593df5b7b.mp4?t=1772059192\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/c84ee29304b617e78002eae935b2c663.avif?t=1772059192\" width=800 height=101 /></span>Zero to hero! Open new stores of the most famous brands and sell their products in your mall. Expand your stores in the mall from a grocery to a jewellery.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/55ddfd6444237d33b76b3d415003d410.poster.avif?t=1772059192\" width=748 height=420 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/55ddfd6444237d33b76b3d415003d410.webm?t=1772059192\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/55ddfd6444237d33b76b3d415003d410.mp4?t=1772059192\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/bf40307ad0470cd44fbdd0ded1d71dc3.avif?t=1772059192\" width=800 height=101 /></span>Out of stock? Always supply new products and follow new trends to keep your customers in your mall.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/4c48eed1f6dfcb1bee595b64abbd9c0b.poster.avif?t=1772059192\" width=748 height=420 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/4c48eed1f6dfcb1bee595b64abbd9c0b.webm?t=1772059192\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/4c48eed1f6dfcb1bee595b64abbd9c0b.mp4?t=1772059192\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/901305078b85f939c03151299710952e.avif?t=1772059192\" width=800 height=101 /></span>Time is money! Your mall may be busy, take payments and hire new workers so you don't keep your customers waiting. <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/50443e9f5c79e6ca22e7a85350f1c979.poster.avif?t=1772059192\" width=750 height=422 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/50443e9f5c79e6ca22e7a85350f1c979.webm?t=1772059192\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/50443e9f5c79e6ca22e7a85350f1c979.mp4?t=1772059192\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/db5b77a23c56af0517d4dbe287465d82.avif?t=1772059192\" width=800 height=101 /></span>Smash the walls! Open up new spaces and make room for more stores and brands in your mall. <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/bf17e6d5350077822e76a5fe2be47b82.poster.avif?t=1772059192\" width=744 height=418 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/bf17e6d5350077822e76a5fe2be47b82.webm?t=1772059192\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/bf17e6d5350077822e76a5fe2be47b82.mp4?t=1772059192\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>In Mall Simulator, customer satisfaction is neccesary. You have to keep up with trends, build new stores, set smart prices and grow your mall to avoid going bankrupt.</strong></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" ><strong>Mall Simulator is a chill first-person simulation where you will experience a giant mall tycoon with various stores that you run yourself:</strong>  <br><br><strong>👕 Clothing ⚽ Sports 💻 Tech 🧸 Toys 🛒 Supermarket 💄 Cosmetics  <br>🎬 Cinema 🍔 Burger Shop 🕹️ Arcade 🏠 Home Goods 🎮 Game Store  <br>🥐 Bakery 💍 Jewelry 🌸 Florist 🍣 Sushi Bar 🥤 Vending Machines 💵 ATMs</strong><br><br><strong>…and so much more to explore in your mega mall!</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/55ba77c14eb894118b5f2190b70f3dc7.avif?t=1772059192\" width=800 height=101 /></span>Design matters! Create the best design for your mall and manage your stores. Showcase your best-seller stores and create the perfect mall for your customers.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/37eeae65d6b3464ec5efc16593df5b7b.poster.avif?t=1772059192\" width=748 height=420 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/37eeae65d6b3464ec5efc16593df5b7b.webm?t=1772059192\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/37eeae65d6b3464ec5efc16593df5b7b.mp4?t=1772059192\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/c84ee29304b617e78002eae935b2c663.avif?t=1772059192\" width=800 height=101 /></span>Zero to hero! Open new stores of the most famous brands and sell their products in your mall. Expand your stores in the mall from a grocery to a jewellery.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/55ddfd6444237d33b76b3d415003d410.poster.avif?t=1772059192\" width=748 height=420 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/55ddfd6444237d33b76b3d415003d410.webm?t=1772059192\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/55ddfd6444237d33b76b3d415003d410.mp4?t=1772059192\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/bf40307ad0470cd44fbdd0ded1d71dc3.avif?t=1772059192\" width=800 height=101 /></span>Out of stock? Always supply new products and follow new trends to keep your customers in your mall.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/4c48eed1f6dfcb1bee595b64abbd9c0b.poster.avif?t=1772059192\" width=748 height=420 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/4c48eed1f6dfcb1bee595b64abbd9c0b.webm?t=1772059192\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/4c48eed1f6dfcb1bee595b64abbd9c0b.mp4?t=1772059192\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/901305078b85f939c03151299710952e.avif?t=1772059192\" width=800 height=101 /></span>Time is money! Your mall may be busy, take payments and hire new workers so you don't keep your customers waiting. <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/50443e9f5c79e6ca22e7a85350f1c979.poster.avif?t=1772059192\" width=750 height=422 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/50443e9f5c79e6ca22e7a85350f1c979.webm?t=1772059192\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/50443e9f5c79e6ca22e7a85350f1c979.mp4?t=1772059192\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/db5b77a23c56af0517d4dbe287465d82.avif?t=1772059192\" width=800 height=101 /></span>Smash the walls! Open up new spaces and make room for more stores and brands in your mall. <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/bf17e6d5350077822e76a5fe2be47b82.poster.avif?t=1772059192\" width=744 height=418 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/bf17e6d5350077822e76a5fe2be47b82.webm?t=1772059192\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/extras/bf17e6d5350077822e76a5fe2be47b82.mp4?t=1772059192\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>In Mall Simulator, customer satisfaction is neccesary. You have to keep up with trends, build new stores, set smart prices and grow your mall to avoid going bankrupt.</strong></p>",
+      "short_description": "Turn your building from a small shopping center into a huge city mall! To avoid going bankrupt, you’ll need to build new stores and restaurants, set smart prices, and keep up with trends. 15+ stores, dozens of machines &amp; services, and hundreds of brands waiting for you!",
+      "supported_languages": "English, French, Italian, German, Simplified Chinese, Japanese, Korean, Portuguese - Portugal, Russian, Thai, Turkish, Ukrainian, Greek, Spanish - Spain, Dutch, Arabic, Polish, Portuguese - Brazil, Spanish - Latin America, Traditional Chinese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/23bfd0f0136ae49c12b1221a3cd8a057f80654ce/header.jpg?t=1772059192",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/04788c2d2771d9d5c5bf7090bb6e805b00767e36/capsule_231x87.jpg?t=1772059192",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/04788c2d2771d9d5c5bf7090bb6e805b00767e36/capsule_184x69.jpg?t=1772059192",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows (64-bit) 10<br></li><li><strong>Processor:</strong> Intel Core i5-2500 @ 3,3 GHz (4 CPUs)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVidia GeForce GTX 1050<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows (64-bit) 10<br></li><li><strong>Processor:</strong> Intel Core i7-11700K or AMD Ryzen 7 5800X<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1660S, 6 GB or AMD Radeon RX 5600 XT, 6 GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "F13 Games"
+      ],
+      "publishers": [
+        "F13 Games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1399,
+        "final": 1399,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$13.99"
+      },
+      "packages": [
+        1128221
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Mall Simulator",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1128221,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Mall Simulator - $13.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1399
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 67,
+          "description": "Camera Comfort"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 74,
+          "description": "Playable without Timed Input"
+        },
+        {
+          "id": 79,
+          "description": "Save Anytime"
+        },
+        {
+          "id": 69,
+          "description": "Stereo Sound"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "70",
+          "description": "Early Access"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/ss_5c1eb5f0dd28f40e8b40276aceb817259a54ea1c.600x338.jpg?t=1772059192",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/ss_5c1eb5f0dd28f40e8b40276aceb817259a54ea1c.1920x1080.jpg?t=1772059192"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/ss_cbacb0c5db9f352c4c1e7db4801c5e1525807651.600x338.jpg?t=1772059192",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/ss_cbacb0c5db9f352c4c1e7db4801c5e1525807651.1920x1080.jpg?t=1772059192"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/ss_cbd2ac7277e458fff4317e86cdc73cbaf90027c4.600x338.jpg?t=1772059192",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/ss_cbd2ac7277e458fff4317e86cdc73cbaf90027c4.1920x1080.jpg?t=1772059192"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/ss_6a9a1a914f001b1f55d3172d29ee2b7ac836f538.600x338.jpg?t=1772059192",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/ss_6a9a1a914f001b1f55d3172d29ee2b7ac836f538.1920x1080.jpg?t=1772059192"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/effc2a75e61963c40a52d1adb11e48dd1d12b6b2/ss_effc2a75e61963c40a52d1adb11e48dd1d12b6b2.600x338.jpg?t=1772059192",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/effc2a75e61963c40a52d1adb11e48dd1d12b6b2/ss_effc2a75e61963c40a52d1adb11e48dd1d12b6b2.1920x1080.jpg?t=1772059192"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/ss_43823d01624cbf58d95668e8be06e76f66df383c.600x338.jpg?t=1772059192",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/ss_43823d01624cbf58d95668e8be06e76f66df383c.1920x1080.jpg?t=1772059192"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/5e96cbb651a7a215e2bb56de19d355e18057526c/ss_5e96cbb651a7a215e2bb56de19d355e18057526c.600x338.jpg?t=1772059192",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/5e96cbb651a7a215e2bb56de19d355e18057526c/ss_5e96cbb651a7a215e2bb56de19d355e18057526c.1920x1080.jpg?t=1772059192"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/ss_98ea67a06aca1cd8e4a120160509f477b21db29e.600x338.jpg?t=1772059192",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/ss_98ea67a06aca1cd8e4a120160509f477b21db29e.1920x1080.jpg?t=1772059192"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/1a2e3404e40ee0193d5efb3d061cd07d80365a1e/ss_1a2e3404e40ee0193d5efb3d061cd07d80365a1e.600x338.jpg?t=1772059192",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/1a2e3404e40ee0193d5efb3d061cd07d80365a1e/ss_1a2e3404e40ee0193d5efb3d061cd07d80365a1e.1920x1080.jpg?t=1772059192"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/6cc6b92bc2a027618f66034373b7e292141beffc/ss_6cc6b92bc2a027618f66034373b7e292141beffc.600x338.jpg?t=1772059192",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/6cc6b92bc2a027618f66034373b7e292141beffc/ss_6cc6b92bc2a027618f66034373b7e292141beffc.1920x1080.jpg?t=1772059192"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/a5d86974fb954e82066975190736601b52d6206d/ss_a5d86974fb954e82066975190736601b52d6206d.600x338.jpg?t=1772059192",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/a5d86974fb954e82066975190736601b52d6206d/ss_a5d86974fb954e82066975190736601b52d6206d.1920x1080.jpg?t=1772059192"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/20b5857a5de4e3da562cdaaf97c328fe84282109/ss_20b5857a5de4e3da562cdaaf97c328fe84282109.600x338.jpg?t=1772059192",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3180150/20b5857a5de4e3da562cdaaf97c328fe84282109/ss_20b5857a5de4e3da562cdaaf97c328fe84282109.1920x1080.jpg?t=1772059192"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257099100,
+          "name": "Mall Simulator Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257099100/da944fcb70ab13c3296754c39d68ef5b7b287968/movie_600x337.jpg?t=1761837708",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3180150/460342044/5776ce1293e45edbeea74992b011c67748d88d7d/1761836449/dash_av1.mpd?t=1761837708",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3180150/460342044/5776ce1293e45edbeea74992b011c67748d88d7d/1761836449/dash_h264.mpd?t=1761837708",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3180150/460342044/5776ce1293e45edbeea74992b011c67748d88d7d/1761836449/hls_264_master.m3u8?t=1761837708",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 2367
+      },
+      "achievements": {
+        "total": 70,
+        "highlighted": [
+          {
+            "name": "Mall Opening",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3180150/d58b01cd30e71888260e33ce89d8f859297ffb9e.jpg"
+          },
+          {
+            "name": "10th Receipt",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3180150/b9125cce339586c6fe0a875128ac0b86140b224d.jpg"
+          },
+          {
+            "name": "Leveled up!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3180150/49fd858ab442e3bdbba35fe130ff5e66ff715b5a.jpg"
+          },
+          {
+            "name": "Store No. 2",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3180150/a7af7d9a64ea3af51957eff423e2831b418697d6.jpg"
+          },
+          {
+            "name": "Brand New Deal",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3180150/c71fcc6baf3002c9d690c3d83c2785f6124c70f3.jpg"
+          },
+          {
+            "name": "Foot in the Door",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3180150/e308b4d5c16df52777850c86fd0062ff05ccebaf.jpg"
+          },
+          {
+            "name": "Pocket Change",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3180150/f7b933719d3aa66111a3212b9333e7f84ecabcd0.jpg"
+          },
+          {
+            "name": "Level 3 Luster",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3180150/0a9ca28754253a7271cc4796345ff3a9af58f144.jpg"
+          },
+          {
+            "name": "Crowded Halls",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3180150/d9159ddb140b4190ffc63e92c485739194cd8988.jpg"
+          },
+          {
+            "name": "Growth Spurt",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3180150/bd107783ba7b432e9a2b931e0c0d9b0b036b2947.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Nov 3, 2025"
+      },
+      "support_info": {
+        "url": "",
+        "email": "f13games34@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3180150?t=1772059192",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3180150?t=1772059192",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

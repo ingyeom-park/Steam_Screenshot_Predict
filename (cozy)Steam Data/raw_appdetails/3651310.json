@@ -1,0 +1,281 @@
+{
+  "3651310": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Little Corners",
+      "steam_appid": 3651310,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        4146160
+      ],
+      "detailed_description": "<h1>Share your creations!</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/6650a9205aedaaee98d4745904fe931f.avif?t=1771902602\" width=1170 height=300 /></span></p><p class=\"bb_paragraph\" >Did you know that Little Corners has an official Discord group where players can discuss the game, share their creations, and get involved in steering the future of development? You can find the link to join on the right-hand side of our Store Page, alongside links to our socials.</p></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/c37624792d31aa30c99141740d61bf36.poster.avif?t=1771902602\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/c37624792d31aa30c99141740d61bf36.webm?t=1771902602\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/c37624792d31aa30c99141740d61bf36.mp4?t=1771902602\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In <strong><i>little corners</i></strong>, we’ve tried to capture the magic and satisfaction of sticker books. You’ll be able to build endless tiny worlds from the ground up using just your imagination, and thousands of stickers. We hope you enjoy peeling, placing and discovering all our little game has to offer.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/8940862638080ff2a5c9ce5c325a1795.avif?t=1771902602\" width=1170 height=300 /></span></p><p class=\"bb_paragraph\" >Begin with a blank space and let your creativity bloom as you bring these corners to life. Chill out to lofi beats as you satisfyingly place furniture, trinkets and fluffy animals around the room.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/4a5f37318b7a2378331497869a88274b.avif?t=1771902602\" width=1170 height=300 /></span></p><p class=\"bb_paragraph\" >Discover 8 little corners of fantastical worlds to get lost in, including a boisterous adventurer’s tavern, a mystical alchemist’s tower and the quarters of a ruthless sea captain. Each room features hidden stickers for you to discover, try some different combinations, who knows what you might find?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/8109eaea039ac0f4858589b1d1bc5bb5.avif?t=1771902602\" width=1170 height=300 /></span></p><p class=\"bb_paragraph\" >We’ve included a range of customisation options including cursor size and transparency, audio settings and you can even customise your workspace with a range of backgrounds and mats. Once you’re happy with your design, use the in-game screenshot feature to share your creations with the community and get inspired for your next creation.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/ebe5e1064d2eb1de3c85c81a1c9d3af0.poster.avif?t=1771902602\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/ebe5e1064d2eb1de3c85c81a1c9d3af0.webm?t=1771902602\" type=\"video/webm; codecs=vp9\"></video></span></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/c37624792d31aa30c99141740d61bf36.poster.avif?t=1771902602\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/c37624792d31aa30c99141740d61bf36.webm?t=1771902602\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/c37624792d31aa30c99141740d61bf36.mp4?t=1771902602\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In <strong><i>little corners</i></strong>, we’ve tried to capture the magic and satisfaction of sticker books. You’ll be able to build endless tiny worlds from the ground up using just your imagination, and thousands of stickers. We hope you enjoy peeling, placing and discovering all our little game has to offer.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/8940862638080ff2a5c9ce5c325a1795.avif?t=1771902602\" width=1170 height=300 /></span></p><p class=\"bb_paragraph\" >Begin with a blank space and let your creativity bloom as you bring these corners to life. Chill out to lofi beats as you satisfyingly place furniture, trinkets and fluffy animals around the room.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/4a5f37318b7a2378331497869a88274b.avif?t=1771902602\" width=1170 height=300 /></span></p><p class=\"bb_paragraph\" >Discover 8 little corners of fantastical worlds to get lost in, including a boisterous adventurer’s tavern, a mystical alchemist’s tower and the quarters of a ruthless sea captain. Each room features hidden stickers for you to discover, try some different combinations, who knows what you might find?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/8109eaea039ac0f4858589b1d1bc5bb5.avif?t=1771902602\" width=1170 height=300 /></span></p><p class=\"bb_paragraph\" >We’ve included a range of customisation options including cursor size and transparency, audio settings and you can even customise your workspace with a range of backgrounds and mats. Once you’re happy with your design, use the in-game screenshot feature to share your creations with the community and get inspired for your next creation.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/ebe5e1064d2eb1de3c85c81a1c9d3af0.poster.avif?t=1771902602\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/extras/ebe5e1064d2eb1de3c85c81a1c9d3af0.webm?t=1771902602\" type=\"video/webm; codecs=vp9\"></video></span></p>",
+      "short_description": "Peel, place, and arrange stickers across tiny windows into different worlds. Relax and unwind to lofi beats, collect unique stickers and share your cozy creations with the world.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Simplified Chinese<strong>*</strong>, Thai<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "reviews": "“Not every game needs to be a massive adventure to suck a player in and grab their attention. Little Corners is the perfect example of that. It’s a game I could spend 10 minutes with, or 10 hours.”<br>Vice<br><br>“Little Corners sticks out as an absolutely adorable peel-and-present sticker-centric sandbox game that feels incredibly satisfying to fill out and captivating to explore.”<br>8.5 – Gaming<br><br>“This is the perfect game to play on a cold winter’s day inside under a nice warm blanky.”<br>8.5 – Game Tyrant<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/e48142fac9a85480a0d0e28f0e7e97d95817aabc/header.jpg?t=1771902602",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/90226b451a039a7c3a4dfb1293d340f2a997ac16/capsule_231x87.jpg?t=1771902602",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/90226b451a039a7c3a4dfb1293d340f2a997ac16/capsule_184x69.jpg?t=1771902602",
+      "website": "https://www.littlecorners.fun/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 11<br></li><li><strong>Processor:</strong> 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz   2.42 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Intel Iris Xe Graphics integrated graphics chip<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Meteor Pixel"
+      ],
+      "publishers": [
+        "SECRET SAUCE",
+        "Gamersky Games"
+      ],
+      "demos": [
+        {
+          "appid": 3892990,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 699,
+        "final": 699,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$6.99"
+      },
+      "packages": [
+        1286668
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Little Corners",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1286668,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Little Corners - $6.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 699
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 67,
+          "description": "Camera Comfort"
+        },
+        {
+          "id": 66,
+          "description": "Color Alternatives"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 76,
+          "description": "Mouse Only Option"
+        },
+        {
+          "id": 74,
+          "description": "Playable without Timed Input"
+        },
+        {
+          "id": 79,
+          "description": "Save Anytime"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/7047355269eeef724754f1a68fb05846d8cec2b4/ss_7047355269eeef724754f1a68fb05846d8cec2b4.600x338.jpg?t=1771902602",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/7047355269eeef724754f1a68fb05846d8cec2b4/ss_7047355269eeef724754f1a68fb05846d8cec2b4.1920x1080.jpg?t=1771902602"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/3a89b663552394a682b118c18dff1e0e3ad4bfe2/ss_3a89b663552394a682b118c18dff1e0e3ad4bfe2.600x338.jpg?t=1771902602",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/3a89b663552394a682b118c18dff1e0e3ad4bfe2/ss_3a89b663552394a682b118c18dff1e0e3ad4bfe2.1920x1080.jpg?t=1771902602"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/142864a035630c68c66291ead02533ebb61b9e61/ss_142864a035630c68c66291ead02533ebb61b9e61.600x338.jpg?t=1771902602",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/142864a035630c68c66291ead02533ebb61b9e61/ss_142864a035630c68c66291ead02533ebb61b9e61.1920x1080.jpg?t=1771902602"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/5886dcff5f24e299e89f229b7e7a1d488b9dfcfd/ss_5886dcff5f24e299e89f229b7e7a1d488b9dfcfd.600x338.jpg?t=1771902602",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/5886dcff5f24e299e89f229b7e7a1d488b9dfcfd/ss_5886dcff5f24e299e89f229b7e7a1d488b9dfcfd.1920x1080.jpg?t=1771902602"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/2e9239ac2a7011a741620107d08e06cfab481b59/ss_2e9239ac2a7011a741620107d08e06cfab481b59.600x338.jpg?t=1771902602",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/2e9239ac2a7011a741620107d08e06cfab481b59/ss_2e9239ac2a7011a741620107d08e06cfab481b59.1920x1080.jpg?t=1771902602"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/1fd85c08df489e10b33c59ed60c1ba0bd9a519b3/ss_1fd85c08df489e10b33c59ed60c1ba0bd9a519b3.600x338.jpg?t=1771902602",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/1fd85c08df489e10b33c59ed60c1ba0bd9a519b3/ss_1fd85c08df489e10b33c59ed60c1ba0bd9a519b3.1920x1080.jpg?t=1771902602"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/ca5faa496f887163d4f48ab8df006f6eb1e7d674/ss_ca5faa496f887163d4f48ab8df006f6eb1e7d674.600x338.jpg?t=1771902602",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/ca5faa496f887163d4f48ab8df006f6eb1e7d674/ss_ca5faa496f887163d4f48ab8df006f6eb1e7d674.1920x1080.jpg?t=1771902602"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257230670,
+          "name": "Out Now!",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257230670/d043ae2698278cc46fa7a09c3307d3267d617ccb/movie_600x337.jpg?t=1763029300",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3651310/1002757570/59b5c7cb9c9c7b0436dbd3dfb0d6fa15327a4b67/1763028526/dash_av1.mpd?t=1763029300",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3651310/1002757570/59b5c7cb9c9c7b0436dbd3dfb0d6fa15327a4b67/1763028526/dash_h264.mpd?t=1763029300",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3651310/1002757570/59b5c7cb9c9c7b0436dbd3dfb0d6fa15327a4b67/1763028526/hls_264_master.m3u8?t=1763029300",
+          "highlight": true
+        },
+        {
+          "id": 257173420,
+          "name": "Little Corners | Gameplay Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257173420/150d0f464e5a7bb41e5c56328e7c585904784a72/movie_600x337.jpg?t=1753369209",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3651310/1830013225/0388ebc9553eec437ebdb23819c2f7caf9702a29/1753368043/dash_av1.mpd?t=1753369209",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3651310/1830013225/0388ebc9553eec437ebdb23819c2f7caf9702a29/1753368043/dash_h264.mpd?t=1753369209",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3651310/1830013225/0388ebc9553eec437ebdb23819c2f7caf9702a29/1753368043/hls_264_master.m3u8?t=1753369209",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 222
+      },
+      "achievements": {
+        "total": 45,
+        "highlighted": [
+          {
+            "name": "Happy Mouse",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3651310/e9b44234440a481735f2b9a59d7ff9edbf7aca0c.jpg"
+          },
+          {
+            "name": "Lit Fireplace",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3651310/add8d938e55959e1c24ed6ec31dd0e8c31fa557d.jpg"
+          },
+          {
+            "name": "Poison Bottle",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3651310/17c8018780de80df4c87b2660fbc7e37ffdb374c.jpg"
+          },
+          {
+            "name": "Calculated Chalkboard",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3651310/d835a7d1b96d7ac16be9bd4d112d5d75ecf73c33.jpg"
+          },
+          {
+            "name": "Stargazer ",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3651310/e41f08ff1383120e6c31d7c9a1d4c97b57c49bbc.jpg"
+          },
+          {
+            "name": "Big Stretch",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3651310/52736a0e3710ec869ecaa2527adaa5c76d267739.jpg"
+          },
+          {
+            "name": "Happy Dog",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3651310/e6d2d78d65f0bc2240defa498598678138eac2ca.jpg"
+          },
+          {
+            "name": "Dragon Trophy",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3651310/23b367463162930d98d2973c2f6e5a8a88daf488.jpg"
+          },
+          {
+            "name": "Quest Board",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3651310/a33cf5fdcb79d6f39fc69be9aa5788d0b25bbb7d.jpg"
+          },
+          {
+            "name": "Fan",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3651310/69109e692fb983290c35c65d16fab0f009e14be0.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Nov 13, 2025"
+      },
+      "support_info": {
+        "url": "www.meteorpixel.co.uk",
+        "email": "info@meteorpixel.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3651310?t=1771902602",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3651310/7bdcc0f564da65e362294ced40d23dfbe49997f6/page_bg_raw.jpg?t=1771902602",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}
