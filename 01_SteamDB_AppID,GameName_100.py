@@ -15,21 +15,22 @@ time.sleep(5)
 status_code = driver.execute_script("return window.performance.getEntries()[0].responseStatus")
 
 # 봇탐지 회피 및 웹사이트가 정상임을 확인한 후 크롤링 시작
-if status_code == 200:
-	soup = bs(driver.page_source, "html.parser")
-	game_rows = soup.select('#DataTables_Table_0 tbody tr')
-	extracted_data = []
+if status_code != 200:
+    print(f"status code: {status_code}")
+    driver.quit()
 
-	for i in game_rows:
-		app_id = i.get('data-appid')
-		name_tag = i.select_one('td:nth-of-type(3) a')
-		
-		if app_id and name_tag:
-			extracted_data.append([app_id, name_tag.text.strip()])
-
-	df = pd.DataFrame(extracted_data, columns = ['AppID', 'GameName'])
-	df.to_csv('(cozy)SteamDB_AppID,GameName_100.csv', index=False, encoding='utf-8-sig')
-
-	driver.quit()
 else:
-	print(f"status code: {status_code}") 
+    soup = bs(driver.page_source, "html.parser")
+    game_rows = soup.select('#DataTables_Table_0 tbody tr')
+    data = []
+
+    for row in game_rows:
+        app_id = row.get('data-appid')
+        name = row.select_one('td:nth-of-type(3) a')
+
+        if app_id and name:
+            data.append([app_id, name.text.strip()])
+
+    df = pd.DataFrame(data, columns=['AppID', 'GameName'])
+    df.to_csv(r'(cozy)Steam Data\01_SteamDB_AppID,GameName\01_SteamDB_AppID,GameName.csv', index=False, encoding='utf-8-sig')
+    driver.quit()

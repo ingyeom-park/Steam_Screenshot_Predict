@@ -1,0 +1,311 @@
+{
+  "3097300": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Creature Kitchen",
+      "steam_appid": 3097300,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        4120370
+      ],
+      "detailed_description": "Creaking footsteps in vacant rooms... Voices whispering beyond the trees...<br><br>Befriend your local wildlife and feed them their favorite snacks in this creepy-cozy cooking simulator! There's a strange house to search, a forest to explore, and plenty of stomachs to fill. Go ahead and set the radio to play some tunes and get comfy, the witching hour has begun.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/b4a3e92178176bbd25d4017356321eae.poster.avif?t=1770407965\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/b4a3e92178176bbd25d4017356321eae.webm?t=1770407965\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >MEET NEW FRIENDS</h2><strong>Find and feed creatures of all shapes and sizes.</strong> Some will take food right out of your hands! Others may need some encouragement...<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/e5aae48a0f1cf3fb4634184287ef2de5.poster.avif?t=1770407965\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/e5aae48a0f1cf3fb4634184287ef2de5.webm?t=1770407965\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >BECOME A SNACK MASTER</h2><strong>Chop, mix, and fry ingredients to create over 40 unique recipes.</strong> Get creative to suit each critter's tastes.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/ac2c116ea0d4c36c4d6193b895af17cc.poster.avif?t=1770407965\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/ac2c116ea0d4c36c4d6193b895af17cc.webm?t=1770407965\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >TAKE A LOOK AROUND</h2><strong>Explore a mysterious house and woods to uncover their secrets.</strong> Check every nook and cranny for ingredients and recipes to expand your culinary skills.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/bbbe0d1ceb0e9f4987c34455f8711061.poster.avif?t=1770407965\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/bbbe0d1ceb0e9f4987c34455f8711061.webm?t=1770407965\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >SAY CHEESE</h2><p class=\"bb_paragraph\" ><strong>Snap photos of your friends.</strong> Fill out a photo album and make good memories.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/d56271f59b0df4e3e2dc3d4a2b9af205.poster.avif?t=1770407965\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/d56271f59b0df4e3e2dc3d4a2b9af205.webm?t=1770407965\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >WELCOME BACK, 2000s</h2><strong><i>Creature Kitchen</i> is a snack-sized atmospheric experience</strong>. Get immersed in early 2000s graphics while vibing to an original soundtrack.</p>",
+      "about_the_game": "Creaking footsteps in vacant rooms... Voices whispering beyond the trees...<br><br>Befriend your local wildlife and feed them their favorite snacks in this creepy-cozy cooking simulator! There's a strange house to search, a forest to explore, and plenty of stomachs to fill. Go ahead and set the radio to play some tunes and get comfy, the witching hour has begun.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/b4a3e92178176bbd25d4017356321eae.poster.avif?t=1770407965\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/b4a3e92178176bbd25d4017356321eae.webm?t=1770407965\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >MEET NEW FRIENDS</h2><strong>Find and feed creatures of all shapes and sizes.</strong> Some will take food right out of your hands! Others may need some encouragement...<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/e5aae48a0f1cf3fb4634184287ef2de5.poster.avif?t=1770407965\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/e5aae48a0f1cf3fb4634184287ef2de5.webm?t=1770407965\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >BECOME A SNACK MASTER</h2><strong>Chop, mix, and fry ingredients to create over 40 unique recipes.</strong> Get creative to suit each critter's tastes.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/ac2c116ea0d4c36c4d6193b895af17cc.poster.avif?t=1770407965\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/ac2c116ea0d4c36c4d6193b895af17cc.webm?t=1770407965\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >TAKE A LOOK AROUND</h2><strong>Explore a mysterious house and woods to uncover their secrets.</strong> Check every nook and cranny for ingredients and recipes to expand your culinary skills.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/bbbe0d1ceb0e9f4987c34455f8711061.poster.avif?t=1770407965\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/bbbe0d1ceb0e9f4987c34455f8711061.webm?t=1770407965\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >SAY CHEESE</h2><p class=\"bb_paragraph\" ><strong>Snap photos of your friends.</strong> Fill out a photo album and make good memories.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/d56271f59b0df4e3e2dc3d4a2b9af205.poster.avif?t=1770407965\" width=600 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/extras/d56271f59b0df4e3e2dc3d4a2b9af205.webm?t=1770407965\" type=\"video/webm; codecs=vp9\"></video></span><h2 class=\"bb_tag\" >WELCOME BACK, 2000s</h2><strong><i>Creature Kitchen</i> is a snack-sized atmospheric experience</strong>. Get immersed in early 2000s graphics while vibing to an original soundtrack.</p>",
+      "short_description": "A creepy-cozy cooking simulator where you befriend local wildlife and feed them their favorite snacks! With a strange house to search and forest to explore, the witching hour has only begun.",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/6017a90ffb283f5ce167026d307420dc09b363ea/header.jpg?t=1770407965",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/3386418d1f2846730b7456c6cd4721df42597848/capsule_231x87.jpg?t=1770407965",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/3386418d1f2846730b7456c6cd4721df42597848/capsule_184x69.jpg?t=1770407965",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> Intel Core i7-4790<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 960<br></li><li><strong>Storage:</strong> 920 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> Intel Core i7-7700<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 1060<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "The Rat Zone"
+      ],
+      "publishers": [
+        "The Rat Zone"
+      ],
+      "demos": [
+        {
+          "appid": 4116110,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 799,
+        "final": 799,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$7.99"
+      },
+      "packages": [
+        1100229
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Creature Kitchen",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1100229,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Creature Kitchen - $7.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 799
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 13,
+          "description": "Captions available"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 67,
+          "description": "Camera Comfort"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 74,
+          "description": "Playable without Timed Input"
+        },
+        {
+          "id": 69,
+          "description": "Stereo Sound"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 15,
+          "description": "Stats"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 43,
+          "description": "Remote Play on TV"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/239ccaf955fa9ba9e9ecb34dfe8d1a9168e5f5e7/ss_239ccaf955fa9ba9e9ecb34dfe8d1a9168e5f5e7.600x338.jpg?t=1770407965",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/239ccaf955fa9ba9e9ecb34dfe8d1a9168e5f5e7/ss_239ccaf955fa9ba9e9ecb34dfe8d1a9168e5f5e7.1920x1080.jpg?t=1770407965"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/701002f3dce1c0eb4f4f9561172579f7ae6792ea/ss_701002f3dce1c0eb4f4f9561172579f7ae6792ea.600x338.jpg?t=1770407965",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/701002f3dce1c0eb4f4f9561172579f7ae6792ea/ss_701002f3dce1c0eb4f4f9561172579f7ae6792ea.1920x1080.jpg?t=1770407965"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/192fee8f8bc74e00971fb2d148810a65783c6d23/ss_192fee8f8bc74e00971fb2d148810a65783c6d23.600x338.jpg?t=1770407965",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/192fee8f8bc74e00971fb2d148810a65783c6d23/ss_192fee8f8bc74e00971fb2d148810a65783c6d23.1920x1080.jpg?t=1770407965"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/5a62a198dcd9d65edd149d2bffe899856f0ea506/ss_5a62a198dcd9d65edd149d2bffe899856f0ea506.600x338.jpg?t=1770407965",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/5a62a198dcd9d65edd149d2bffe899856f0ea506/ss_5a62a198dcd9d65edd149d2bffe899856f0ea506.1920x1080.jpg?t=1770407965"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/e6496563c1cc632f8956eda04e2408b4d2d79011/ss_e6496563c1cc632f8956eda04e2408b4d2d79011.600x338.jpg?t=1770407965",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/e6496563c1cc632f8956eda04e2408b4d2d79011/ss_e6496563c1cc632f8956eda04e2408b4d2d79011.1920x1080.jpg?t=1770407965"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/1cb6024d78c7a30d56eb7971c39499859a763406/ss_1cb6024d78c7a30d56eb7971c39499859a763406.600x338.jpg?t=1770407965",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/1cb6024d78c7a30d56eb7971c39499859a763406/ss_1cb6024d78c7a30d56eb7971c39499859a763406.1920x1080.jpg?t=1770407965"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/30a8112a8c55c90bba5efdd80679b4bf06b8dff4/ss_30a8112a8c55c90bba5efdd80679b4bf06b8dff4.600x338.jpg?t=1770407965",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/30a8112a8c55c90bba5efdd80679b4bf06b8dff4/ss_30a8112a8c55c90bba5efdd80679b4bf06b8dff4.1920x1080.jpg?t=1770407965"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/92a042999c317ab192fdac0d109153d7284c2b04/ss_92a042999c317ab192fdac0d109153d7284c2b04.600x338.jpg?t=1770407965",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/92a042999c317ab192fdac0d109153d7284c2b04/ss_92a042999c317ab192fdac0d109153d7284c2b04.1920x1080.jpg?t=1770407965"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/3a8c7ca370972aa02bc367c6af3ad561d0276b96/ss_3a8c7ca370972aa02bc367c6af3ad561d0276b96.600x338.jpg?t=1770407965",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/3a8c7ca370972aa02bc367c6af3ad561d0276b96/ss_3a8c7ca370972aa02bc367c6af3ad561d0276b96.1920x1080.jpg?t=1770407965"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/ca363ecd64f5a515276b560a0f6aa9e517fc3c6e/ss_ca363ecd64f5a515276b560a0f6aa9e517fc3c6e.600x338.jpg?t=1770407965",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/ca363ecd64f5a515276b560a0f6aa9e517fc3c6e/ss_ca363ecd64f5a515276b560a0f6aa9e517fc3c6e.1920x1080.jpg?t=1770407965"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257243768,
+          "name": "Game Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257243768/c8828fb49842e84f6d30773f1bbb61a9e8dffb48/movie_600x337.jpg?t=1764886494",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3097300/1675808453/d4b2fdd546d136266ba3cb13f9dab1656fbde475/1764884704/dash_av1.mpd?t=1764886494",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3097300/1675808453/d4b2fdd546d136266ba3cb13f9dab1656fbde475/1764884704/dash_h264.mpd?t=1764886494",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3097300/1675808453/d4b2fdd546d136266ba3cb13f9dab1656fbde475/1764884704/hls_264_master.m3u8?t=1764886494",
+          "highlight": true
+        },
+        {
+          "id": 257077834,
+          "name": "Steam Teaser",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257077834/c8828fb49842e84f6d30773f1bbb61a9e8dffb48/movie_600x337.jpg?t=1763710169",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3097300/793150/14763451ed69361a9285c6f7ade0d72b3de8e955/1750974490/dash_av1.mpd?t=1763710169",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3097300/793150/14763451ed69361a9285c6f7ade0d72b3de8e955/1750974490/dash_h264.mpd?t=1763710169",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3097300/793150/14763451ed69361a9285c6f7ade0d72b3de8e955/1750974490/hls_264_master.m3u8?t=1763710169",
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 2351
+      },
+      "achievements": {
+        "total": 15,
+        "highlighted": [
+          {
+            "name": "Midnight Snack",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3097300/8c3d9bf65f70818b4dfbb02cc00b0658e3bdc962.jpg"
+          },
+          {
+            "name": "Backyard Bonanza",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3097300/d1de72ebcb27ddbd9bbb8330489603522e8e4680.jpg"
+          },
+          {
+            "name": "Cryptozoologist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3097300/f1ca68d4d05f19ab6d190b8f05e8cc75e338332d.jpg"
+          },
+          {
+            "name": "Master Chef",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3097300/a0ebd4ce098f1a4f859620eb50333eb7dbdba162.jpg"
+          },
+          {
+            "name": "Afraid of the Dark",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3097300/6cbfd77e59d1ce3e0d88d8cf42f3d66f0671c68c.jpg"
+          },
+          {
+            "name": "Fully Stocked",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3097300/c8d0bc7bdd0ddbf78be077d49400672367e2af4b.jpg"
+          },
+          {
+            "name": "Friend Shaped Entity",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3097300/46ade79b5e96f096e6ab993f38afb8ca296a71ab.jpg"
+          },
+          {
+            "name": "Junk Food",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3097300/1efb500f13ed7d3c451cf64e7249d2083f7dc86e.jpg"
+          },
+          {
+            "name": "Biohazard",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3097300/e51d36572e192c952290bba838c8856486a39362.jpg"
+          },
+          {
+            "name": "Basic Safety",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3097300/419536780315eb95f3bc20390afecf92fa24fd78.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Feb 6, 2026"
+      },
+      "support_info": {
+        "url": "https://therat.zone/",
+        "email": "support@therat.zone"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3097300?t=1770407965",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3097300/page_bg_raw.jpg?t=1770407965",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

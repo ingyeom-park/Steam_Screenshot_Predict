@@ -24,8 +24,8 @@ from pathlib import Path
 # ──────────────────────────────────────────────
 # 설정
 # ──────────────────────────────────────────────
-INPUT_CSV = r"(cozy)Steam Data\derived\appdetails_flat_20260301.csv" # appid 열이 있는 CSV
-OUTPUT_CSV = r"(cozy)Steam Data\review\steamdb_reviews_daily.csv"
+INPUT_CSV = r"(cozy)Steam Data\01_SteamDB_AppID,GameName\01_SteamDB_AppID,GameName.csv" # appid 열이 있는 CSV
+OUTPUT_CSV = r"(cozy)Steam Data\05_SteamDB_Review(accumulate)\05_SteamDB_Review(accumulate).csv"
 
 COOKIE = (
 	"__Host-cc=us; "

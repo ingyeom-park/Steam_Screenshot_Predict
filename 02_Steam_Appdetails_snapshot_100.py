@@ -1,70 +1,71 @@
-import os, json, time, random, datetime
+import os, json, time, random
 import pandas as pd
 import requests
 
-INPUT_CSV = "(cozy)Steam Data\(cozy)SteamDB_AppID,GameName_100.csv"
-OUT_DIR = "(cozy)Steam Data"
-CC = "us"
-LANG = "english"
+INPUT_CSV = r"(cozy)Steam Data\01_SteamDB_AppID,GameName\01_SteamDB_AppID,GameName.csv"
+OUT_DIR   = r"(cozy)Steam Data\02_Steam_Appdetails_snapshot"
+CC        = "us"
+LANG      = "english"
 
-df = pd.read_csv(INPUT_CSV)
+df     = pd.read_csv(INPUT_CSV)
 appids = df["AppID"].dropna().astype(int).tolist()
 
-today = datetime.datetime.now().strftime("%Y%m%d")
-raw_dir = f"{OUT_DIR}/raw_appdetails_{today}"
+raw_dir = f"{OUT_DIR}\\02_Steam_Appdetails_snapshot_raw"
 os.makedirs(raw_dir, exist_ok=True)
-os.makedirs(f"{OUT_DIR}/derived", exist_ok=True)
 
 session = requests.Session()
-rows = []
+rows    = []
 
 for i, appid in enumerate(appids, 1):
-    raw_path = f"{raw_dir}/{appid}.json"
+    raw_path = f"{raw_dir}\\{appid}.json"
 
     if os.path.exists(raw_path):
-        payload = json.load(open(raw_path, encoding="utf-8"))
+        with open(raw_path, encoding="utf-8") as f:
+            payload = json.load(f)
     else:
         payload = None
         for attempt in range(5):
-            r = session.get(
+            resp = session.get(
                 "https://store.steampowered.com/api/appdetails",
                 params={"appids": appid, "cc": CC, "l": LANG},
                 timeout=20
             )
-            if r.status_code in (429, 500, 502, 503, 504):
+            if resp.status_code in (429, 500, 502, 503, 504):
                 time.sleep(2 ** attempt + random.random())
                 continue
-            if not r.text.strip().startswith("{"):
+            if not resp.text.strip().startswith("{"):
                 time.sleep(2 ** attempt + random.random())
                 continue
-            payload = r.json()
+            payload = resp.json()
             break
 
         if payload is None:
-            json.dump({"appid": appid, "success": False}, open(raw_path, "w", encoding="utf-8"), ensure_ascii=False)
-            rows.append({"snapshot_date": today, "appid": appid, "success": False})
+            with open(raw_path, "w", encoding="utf-8") as f:
+                json.dump({"appid": appid, "success": False}, f, ensure_ascii=False)
+            rows.append({"appid": appid, "success": False})
             time.sleep(0.9 + random.random() * 0.6)
             continue
 
-        json.dump(payload, open(raw_path, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+        with open(raw_path, "w", encoding="utf-8") as f:
+            json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    root = payload.get(str(appid), {})
-    if not root.get("success"):
-        rows.append({"snapshot_date": today, "appid": appid, "success": False})
+    app = payload.get(str(appid), {})
+    if not app.get("success"):
+        rows.append({"appid": appid, "success": False})
         time.sleep(0.9 + random.random() * 0.6)
         continue
 
-    d = root["data"]
-    price = d.get("price_overview") or {}
-    plat  = d.get("platforms") or {}
-    rel   = d.get("release_date") or {}
-    pcreq = d.get("pc_requirements") or {}
+    data  = app["data"]
+    price = data.get("price_overview") or {}
+    plat  = data.get("platforms")      or {}
+    rel   = data.get("release_date")   or {}
+    pcreq = data.get("pc_requirements") or {}
 
     rows.append({
         "appid":                appid,
-        "type":                 d.get("type"),
-        "name":                 d.get("name"),
-        "is_free":              d.get("is_free"),
+        "type":                 data.get("type"),
+        "name":                 data.get("name"),
+        "is_free":              data.get("is_free"),
         "release_coming_soon":  rel.get("coming_soon"),
         "release_date_text":    rel.get("date"),
         "price_currency":       price.get("currency"),
@@ -74,20 +75,20 @@ for i, appid in enumerate(appids, 1):
         "platform_windows":     plat.get("windows"),
         "platform_mac":         plat.get("mac"),
         "platform_linux":       plat.get("linux"),
-        "categories":           "|".join(c["description"] for c in (d.get("categories") or []) if "description" in c),
-        "genres":               "|".join(g["description"] for g in (d.get("genres") or []) if "description" in g),
-        "supported_languages":  d.get("supported_languages"),
+        "categories":           "|".join(c["description"] for c in (data.get("categories") or []) if "description" in c),
+        "genres":               "|".join(g["description"] for g in (data.get("genres")     or []) if "description" in g),
+        "supported_languages":  data.get("supported_languages"),
         "pc_minimum":           pcreq.get("minimum"),
         "pc_recommended":       pcreq.get("recommended"),
-        "header_image":         d.get("header_image"),
-        "screenshots_count":    len(d.get("screenshots") or []),
-        "movies_count":         len(d.get("movies") or []),
+        "header_image":         data.get("header_image"),
+        "screenshots_count":    len(data.get("screenshots") or []),
+        "movies_count":         len(data.get("movies")      or []),
     })
 
     time.sleep(0.9 + random.random() * 0.6)
     if i % 10 == 0:
         print(f"{i}/{len(appids)}")
 
-out = f"{OUT_DIR}/derived/appdetails.csv"
+out = f"{OUT_DIR}\\02_Steam_Appdetails_summary.csv"
 pd.DataFrame(rows).to_csv(out, index=False, encoding="utf-8-sig")
 print("done ->", out)
