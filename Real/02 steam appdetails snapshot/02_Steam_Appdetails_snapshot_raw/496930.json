@@ -1,0 +1,280 @@
+{
+  "496930": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Sumeru",
+      "steam_appid": 496930,
+      "required_age": "6",
+      "is_free": false,
+      "dlc": [
+        509300
+      ],
+      "detailed_description": "Brief Introduction：<br />\r\n--This Is A 2d Physical Game.<br />\r\n--You can help “Yun”  to escape from Sumerian World by drawing a bridge across the cliff , a high-climbing stairs, a hammer to break the door , etc. <br />\r\n--There are six levels namely “dreamland”,” forest”, “ice”, “city”, “mountain” and “last task”, and all together 43 scenes in this game.<br />\r\n--The game duration is about 6-10 hours<br />\r\n<br />\r\nStory：<br />\r\n    A traveler called “Yun” picked up a gem on his way home. But just when he appreciating the fascinating gem, he was sucked in to the “Sumerian World”. “Yun” has to overcome all the difficulties and ordeals, then he can go back to his world. An adventures begins…",
+      "about_the_game": "Brief Introduction：<br />\r\n--This Is A 2d Physical Game.<br />\r\n--You can help “Yun”  to escape from Sumerian World by drawing a bridge across the cliff , a high-climbing stairs, a hammer to break the door , etc. <br />\r\n--There are six levels namely “dreamland”,” forest”, “ice”, “city”, “mountain” and “last task”, and all together 43 scenes in this game.<br />\r\n--The game duration is about 6-10 hours<br />\r\n<br />\r\nStory：<br />\r\n    A traveler called “Yun” picked up a gem on his way home. But just when he appreciating the fascinating gem, he was sucked in to the “Sumerian World”. “Yun” has to overcome all the difficulties and ordeals, then he can go back to his world. An adventures begins…",
+      "short_description": "This is a 2D physical game. You can help hero to escape from Sumerian World by drawing a bridge across the cliff , a high-climbing stairs, a hammer to break the door , etc.  There are six levels namely “dreamland”,” forest”, “ice”, “city”, “mountain” and “last task”, and all together 43 scenes in this game.",
+      "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Danish<strong>*</strong>, Ukrainian<strong>*</strong>, Russian<strong>*</strong>, Bulgarian<strong>*</strong>, Hungarian<strong>*</strong>, Turkish<strong>*</strong>, Greek<strong>*</strong>, Norwegian<strong>*</strong>, Czech<strong>*</strong>, Polish<strong>*</strong>, Swedish<strong>*</strong>, Romanian<strong>*</strong>, Finnish<strong>*</strong>, Dutch<strong>*</strong>, Portuguese - Portugal<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "reviews": "“《须弥域》图文评测：你这个磨人的小妖精~”<br>7.5 – 游侠网<br><br>“Best Indie Game Awards”<br>Best Indie Game – IMGA China<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496930/header.jpg?t=1487261411",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496930/capsule_231x87.jpg?t=1487261411",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496930/capsule_184x69.jpg?t=1487261411",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Xp，Vista, 7<br></li><li><strong>Processor:</strong> 1.6 GHz Intel Core i3<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 256MB Video Memory, capable of OpenGL 2.0/DX9(Shader 2.0) support<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7, 8/8.1, 10<br></li><li><strong>Processor:</strong> 2.5 GHz Intel Core i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512MB Video Memory, capable of OpenGL 2.0/DX9(Shader 2.0) support<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.8<br></li><li><strong>Processor:</strong> 1.6 GHz Intel Core i3<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256MB Video Memory, capable of OpenGL 2.0 support<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.9.5, 10.10<br></li><li><strong>Processor:</strong> 2.5 GHz Intel Core i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 512MB Video Memory, capable of OpenGL 2.0support<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04, SteamOS<br></li><li><strong>Processor:</strong> 1.6 GHz Intel Core i3<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 256MB Video Memory, capable of OpenGL 2.0 support<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04, SteamOS<br></li><li><strong>Processor:</strong> 2.5 GHz Intel Core i5<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512MB Video Memory, capable of OpenGL 2.0 support<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>"
+      },
+      "legal_notice": "Copyright © 2010 - 2016 BigCheeseGames. All Rights Reserved",
+      "developers": [
+        "BigCheeseGames"
+      ],
+      "publishers": [
+        "BigCheeseGames"
+      ],
+      "demos": [
+        {
+          "appid": 530050,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 399,
+        "final": 399,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$3.99"
+      },
+      "packages": [
+        113439
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Sumeru",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 113439,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Sumeru - $3.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 399
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496930/ss_ee383750fbe3f7d3d6d225310cb68579d88af663.600x338.jpg?t=1487261411",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496930/ss_ee383750fbe3f7d3d6d225310cb68579d88af663.1920x1080.jpg?t=1487261411"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496930/ss_ab247c9a63257a079723d84d3bc09ddf2d6ed1ce.600x338.jpg?t=1487261411",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496930/ss_ab247c9a63257a079723d84d3bc09ddf2d6ed1ce.1920x1080.jpg?t=1487261411"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496930/ss_18135c84da879db133281fed435613a60a258682.600x338.jpg?t=1487261411",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496930/ss_18135c84da879db133281fed435613a60a258682.1920x1080.jpg?t=1487261411"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496930/ss_c8c039df96362786dad5400ea39ce64698c0b851.600x338.jpg?t=1487261411",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496930/ss_c8c039df96362786dad5400ea39ce64698c0b851.1920x1080.jpg?t=1487261411"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496930/ss_06594259a3d34a321381e9ca54a1e956beeb2970.600x338.jpg?t=1487261411",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496930/ss_06594259a3d34a321381e9ca54a1e956beeb2970.1920x1080.jpg?t=1487261411"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256666474,
+          "name": "Sumeru Preview",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256666474/movie.293x165.jpg?t=1474340720",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/496930/63969/1847610247772da1e1d373d22436bc86f10b908f/1751293062/dash_av1.mpd?t=1474340720",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/496930/63969/1847610247772da1e1d373d22436bc86f10b908f/1751293062/dash_h264.mpd?t=1474340720",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/496930/63969/1847610247772da1e1d373d22436bc86f10b908f/1751293062/hls_264_master.m3u8?t=1474340720",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 134
+      },
+      "achievements": {
+        "total": 25,
+        "highlighted": [
+          {
+            "name": "Red Stone",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/496930/e93710667740f157af92a8aef7d9a98ff77f1b80.jpg"
+          },
+          {
+            "name": "Huge Hat",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/496930/393f8b4a4345ad49f57a964525fddb44d759f7e5.jpg"
+          },
+          {
+            "name": "Balance",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/496930/5460d5159ffb5f04801e7bd95c87c99a3f5a30ab.jpg"
+          },
+          {
+            "name": "Crystal",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/496930/dd8c05abec1a156c59defdcf561db13fab969aa8.jpg"
+          },
+          {
+            "name": "Stone Beast",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/496930/cef9caa77f36c9aeac49336006209d7e7ab6b9c6.jpg"
+          },
+          {
+            "name": "Mouth",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/496930/62920b8f4e610fdaa7d5f8dcd7a69c747add1603.jpg"
+          },
+          {
+            "name": "Fly",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/496930/1e5a44891243602cf467af48a3edd93af801550e.jpg"
+          },
+          {
+            "name": "Vine",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/496930/f7b6c5b85b6c287e00fc3af18f73da08ddf2152a.jpg"
+          },
+          {
+            "name": "Remains Pieces",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/496930/5250a2ca19857b2ba26bde4614206af389167544.jpg"
+          },
+          {
+            "name": "Skull ball",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/496930/31d58a7476ceafc3b21077a64080d4c6ec613829.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 21, 2016"
+      },
+      "support_info": {
+        "url": "http://weibo.com/BigCheeseGames",
+        "email": "65558251@qq.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/496930?t=1487261411",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496930/page_bg_raw.jpg?t=1487261411",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "esrb": {
+          "rating": "e",
+          "required_age": "6",
+          "display_online_notice": "true",
+          "use_age_gate": "true"
+        },
+        "pegi": {
+          "rating": "6",
+          "required_age": "6"
+        },
+        "bbfc": {
+          "rating": "12",
+          "required_age": "6"
+        },
+        "usk": {
+          "rating": "6",
+          "required_age": "6"
+        },
+        "oflc": {
+          "rating": "g",
+          "required_age": "6"
+        },
+        "nzoflc": {
+          "rating": "g",
+          "required_age": "6"
+        },
+        "cero": {
+          "rating": "a",
+          "required_age": "6"
+        },
+        "kgrb": {
+          "rating": "all",
+          "required_age": "6"
+        },
+        "dejus": {
+          "rating": "l",
+          "required_age": "6"
+        },
+        "mda": {
+          "rating": "AA16",
+          "required_age": "6"
+        },
+        "fpb": {
+          "rating": "A",
+          "required_age": "6"
+        },
+        "csrr": {
+          "rating": "P6",
+          "required_age": "6"
+        },
+        "crl": {
+          "rating": "0",
+          "required_age": "6"
+        }
+      }
+    }
+  }
+}

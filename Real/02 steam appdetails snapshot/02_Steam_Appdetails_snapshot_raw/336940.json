@@ -1,0 +1,331 @@
+{
+  "336940": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Welcome to Basingstoke",
+      "steam_appid": 336940,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "detailed_description": "<p class=\"bb_paragraph\" >Welcome to Basingstoke is a <strong>tense roguelike</strong> that mixes <strong>stealth and arcade action</strong>. Explore the smouldering ruins of apocalyptic Basingstoke, UK, a world of <strong>extreme peril</strong> where reanimated undead and ferocious alien monsters roam!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/1d22aaa14e0d2c0732828ca17a15342c.poster.avif?t=1761774901\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/1d22aaa14e0d2c0732828ca17a15342c.webm?t=1761774901\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/1d22aaa14e0d2c0732828ca17a15342c.mp4?t=1761774901\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Scavenge and Craft</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Loot and craft as you explore. <strong>Lob</strong> a tasty sausage roll as a diversion, or <strong>poison</strong> a kebab for bait. <strong>Sneak</strong> up and knock a monster out with a <strong>whack</strong> from a cricket bat, or <strong>slice</strong> them up with a chainsaw. <strong>Tranquillize</strong> them with a dart fired from a homemade blowpipe, or <strong>set them alight</strong> with a DIY flamethrower. There's over a hundred useable items to loot or craft!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/9e5ab80f6572507b49b4470339c55848.avif?t=1761774901\" width=616 height=138 /></span></p><h2 class=\"bb_tag\" >No Second Chances</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Use stealth to <strong>sneak</strong>, leftover food to <strong>distract, </strong>weapons to <strong>attack</strong>, or if all else fails, <strong>run!</strong> But be very careful - one bite and you'll be <strong>ripped apart</strong> to become a tasty snack for monsters! Violence is your last resort. <strong>Sneaking</strong>, <strong>skullduggery</strong>, and <strong>ambush</strong> are your tactics.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/21780c4100e37f27441e2bb6efc191d6.poster.avif?t=1761774901\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/21780c4100e37f27441e2bb6efc191d6.webm?t=1761774901\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/21780c4100e37f27441e2bb6efc191d6.mp4?t=1761774901\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >What is Basingstoke?</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Basingstoke is a town in England, renowned for its charming mix of hand crafted and procedurally generated features and delightful nightlife. Explore, above and below ground, and enjoy its many attractions. <strong>Rob</strong> a parking ticket machine, <strong>vandalise</strong> a keep left sign, go <strong>shopping</strong> at the OMNImart24/7... or if things get a bit much, <strong>hide</strong> in a wheelie bin and contemplate your life's choices.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/1c31dc54c6c0e47271a51065149aa15c.poster.avif?t=1761774901\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/1c31dc54c6c0e47271a51065149aa15c.webm?t=1761774901\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/1c31dc54c6c0e47271a51065149aa15c.mp4?t=1761774901\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Unlockable Characters</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >As you progress you'll unlock <strong>new characters</strong>. Start as a <strong>Tourist</strong> and capture those special moments with your <strong>selfie stick</strong> or splurge at the shops with your OmniBank <strong>GoldCard</strong>. Play as the <strong>Thief</strong> and use your <strong>Locksmith</strong> gadget to crack security panels and break safes. Each character has specialist equipment, unique crafting recipes... and <strong>hats</strong>!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/82123d9caa72072cfce0422a048d8c8c.avif?t=1761774901\" width=613 height=205 /></span></p><h2 class=\"bb_tag\" >Achievements and Trading Cards</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The Royal Mint have issued a special commemorative set of <strong>Basingstoke themed coins</strong> to celebrate The Apocalypse. 1p, 2p, 10p, 20p and 50p coins can be yours, as well as an especially shiny pound coin. Collect them all, and a full range of <strong>achievements, trading cards, profile backgrounds</strong> and <strong>emoticons</strong>! Unfortunately we're not allowed to show you a picture in the store, you'll have to earn them by playing :)</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Welcome to Basingstoke!</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/a630e01397aaac74bb8b1a8b0902860c.avif?t=1761774901\" width=600 height=200 /></span></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >Welcome to Basingstoke is a <strong>tense roguelike</strong> that mixes <strong>stealth and arcade action</strong>. Explore the smouldering ruins of apocalyptic Basingstoke, UK, a world of <strong>extreme peril</strong> where reanimated undead and ferocious alien monsters roam!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/1d22aaa14e0d2c0732828ca17a15342c.poster.avif?t=1761774901\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/1d22aaa14e0d2c0732828ca17a15342c.webm?t=1761774901\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/1d22aaa14e0d2c0732828ca17a15342c.mp4?t=1761774901\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Scavenge and Craft</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Loot and craft as you explore. <strong>Lob</strong> a tasty sausage roll as a diversion, or <strong>poison</strong> a kebab for bait. <strong>Sneak</strong> up and knock a monster out with a <strong>whack</strong> from a cricket bat, or <strong>slice</strong> them up with a chainsaw. <strong>Tranquillize</strong> them with a dart fired from a homemade blowpipe, or <strong>set them alight</strong> with a DIY flamethrower. There's over a hundred useable items to loot or craft!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/9e5ab80f6572507b49b4470339c55848.avif?t=1761774901\" width=616 height=138 /></span></p><h2 class=\"bb_tag\" >No Second Chances</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Use stealth to <strong>sneak</strong>, leftover food to <strong>distract, </strong>weapons to <strong>attack</strong>, or if all else fails, <strong>run!</strong> But be very careful - one bite and you'll be <strong>ripped apart</strong> to become a tasty snack for monsters! Violence is your last resort. <strong>Sneaking</strong>, <strong>skullduggery</strong>, and <strong>ambush</strong> are your tactics.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/21780c4100e37f27441e2bb6efc191d6.poster.avif?t=1761774901\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/21780c4100e37f27441e2bb6efc191d6.webm?t=1761774901\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/21780c4100e37f27441e2bb6efc191d6.mp4?t=1761774901\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >What is Basingstoke?</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Basingstoke is a town in England, renowned for its charming mix of hand crafted and procedurally generated features and delightful nightlife. Explore, above and below ground, and enjoy its many attractions. <strong>Rob</strong> a parking ticket machine, <strong>vandalise</strong> a keep left sign, go <strong>shopping</strong> at the OMNImart24/7... or if things get a bit much, <strong>hide</strong> in a wheelie bin and contemplate your life's choices.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/1c31dc54c6c0e47271a51065149aa15c.poster.avif?t=1761774901\" width=600 height=200 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/1c31dc54c6c0e47271a51065149aa15c.webm?t=1761774901\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/1c31dc54c6c0e47271a51065149aa15c.mp4?t=1761774901\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Unlockable Characters</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >As you progress you'll unlock <strong>new characters</strong>. Start as a <strong>Tourist</strong> and capture those special moments with your <strong>selfie stick</strong> or splurge at the shops with your OmniBank <strong>GoldCard</strong>. Play as the <strong>Thief</strong> and use your <strong>Locksmith</strong> gadget to crack security panels and break safes. Each character has specialist equipment, unique crafting recipes... and <strong>hats</strong>!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/82123d9caa72072cfce0422a048d8c8c.avif?t=1761774901\" width=613 height=205 /></span></p><h2 class=\"bb_tag\" >Achievements and Trading Cards</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The Royal Mint have issued a special commemorative set of <strong>Basingstoke themed coins</strong> to celebrate The Apocalypse. 1p, 2p, 10p, 20p and 50p coins can be yours, as well as an especially shiny pound coin. Collect them all, and a full range of <strong>achievements, trading cards, profile backgrounds</strong> and <strong>emoticons</strong>! Unfortunately we're not allowed to show you a picture in the store, you'll have to earn them by playing :)</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Welcome to Basingstoke!</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/extras/a630e01397aaac74bb8b1a8b0902860c.avif?t=1761774901\" width=600 height=200 /></span></p>",
+      "short_description": "Basingstoke is a tense rogue-like that mixes stealth and arcade action. Explore the smouldering ruins of Basingstoke, a world of reanimated undead and ferocious alien monsters. Scavenge as you go, crafting equipment to help you in your mission: escape Basingstoke!",
+      "supported_languages": "English",
+      "reviews": "“PC Gamer Weekender 2018 Game of the Show - beautiful, charming, and wonderfully fun”<br>Stoned Monkey Radio<br><br>“Basingstoke may look sweet but the action is serious... a cute and surprisingly solid survival action game”<br>Kotaku<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/3e0894e29c3503edd5574469d4ddb7a70da4bb38/header.jpg?t=1761774901",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/24c2b32182e4b1efb4edae72ba9864dfc860a6ca/capsule_231x87.jpg?t=1761774901",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/24c2b32182e4b1efb4edae72ba9864dfc860a6ca/capsule_184x69.jpg?t=1761774901",
+      "website": "https://www.puppygames.net/basingstoke",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 or newer<br></li><li><strong>Processor:</strong> Intel Core i3 2.00 GHz or AMD equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 550 or higher with 2GB Memory<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.9 or newer<br></li><li><strong>Processor:</strong> Apple Silicon or Intel<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia or ATi GPU with 2GB Memory<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 or newer<br></li><li><strong>Processor:</strong> Intel Core i3 2.00 GHz or AMD equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 550 or higher with 2GB Memory<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Puppygames"
+      ],
+      "publishers": [
+        "Puppygames"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        55928
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Welcome to Basingstoke",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 55928,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Basingstoke - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 15,
+          "description": "Stats"
+        },
+        {
+          "id": 43,
+          "description": "Remote Play on TV"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_c751004aad9c78c2e34bf576b0051287d7405a4d.600x338.jpg?t=1761774901",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_c751004aad9c78c2e34bf576b0051287d7405a4d.1920x1080.jpg?t=1761774901"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_9bde3ad15a6a7dc036250d11e4b87aaa649ee91c.600x338.jpg?t=1761774901",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_9bde3ad15a6a7dc036250d11e4b87aaa649ee91c.1920x1080.jpg?t=1761774901"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_5be0734dbf33e262b03ae3dc3d92c605e9430527.600x338.jpg?t=1761774901",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_5be0734dbf33e262b03ae3dc3d92c605e9430527.1920x1080.jpg?t=1761774901"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_4aeaa21b0429acb2cdab441793a76bf6fe654a72.600x338.jpg?t=1761774901",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_4aeaa21b0429acb2cdab441793a76bf6fe654a72.1920x1080.jpg?t=1761774901"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_ddc1a00f68b9561fbb5ec0fa5f793ee3c957cd6c.600x338.jpg?t=1761774901",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_ddc1a00f68b9561fbb5ec0fa5f793ee3c957cd6c.1920x1080.jpg?t=1761774901"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_977916158a0f04668b923de4fa89f5a0395baccb.600x338.jpg?t=1761774901",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_977916158a0f04668b923de4fa89f5a0395baccb.1920x1080.jpg?t=1761774901"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_bb48041f254c6c64a1dfca1a3fa17f4a9524a8a5.600x338.jpg?t=1761774901",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_bb48041f254c6c64a1dfca1a3fa17f4a9524a8a5.1920x1080.jpg?t=1761774901"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_4d4c91eafd8ebc091d62d020e7b8bb8d95947a62.600x338.jpg?t=1761774901",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_4d4c91eafd8ebc091d62d020e7b8bb8d95947a62.1920x1080.jpg?t=1761774901"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_0ae11e27f8c69ad7e32bff3fe98ef441fd59eda7.600x338.jpg?t=1761774901",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_0ae11e27f8c69ad7e32bff3fe98ef441fd59eda7.1920x1080.jpg?t=1761774901"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_d361392e741287111db2790856aaf5dfe799170e.600x338.jpg?t=1761774901",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_d361392e741287111db2790856aaf5dfe799170e.1920x1080.jpg?t=1761774901"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_fd6059f2d4e455e373fdb44f96331d52ccc5b638.600x338.jpg?t=1761774901",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_fd6059f2d4e455e373fdb44f96331d52ccc5b638.1920x1080.jpg?t=1761774901"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_9ad831948fa9a7b1cd153898b2bd68a9579468c6.600x338.jpg?t=1761774901",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_9ad831948fa9a7b1cd153898b2bd68a9579468c6.1920x1080.jpg?t=1761774901"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_7fd25c5412f36e92e1633b31bd7c50350c848932.600x338.jpg?t=1761774901",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_7fd25c5412f36e92e1633b31bd7c50350c848932.1920x1080.jpg?t=1761774901"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_2b03eb9619544b61d361c17c541bab9b3e82e6fc.600x338.jpg?t=1761774901",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_2b03eb9619544b61d361c17c541bab9b3e82e6fc.1920x1080.jpg?t=1761774901"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_1fb71c7ec01899965c4de627f1851590e11969b6.600x338.jpg?t=1761774901",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336940/ss_1fb71c7ec01899965c4de627f1851590e11969b6.1920x1080.jpg?t=1761774901"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256715468,
+          "name": "Release Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256715468/2ebb6aa29e05b820955b61b4e5c373a688e418f1/movie_600x337.jpg?t=1761684591",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/336940/804922934/75ea96be59930bb678614767da7454974038bcf7/1761669831/dash_av1.mpd?t=1761684591",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/336940/804922934/75ea96be59930bb678614767da7454974038bcf7/1761669831/dash_h264.mpd?t=1761684591",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/336940/804922934/75ea96be59930bb678614767da7454974038bcf7/1761669831/hls_264_master.m3u8?t=1761684591",
+          "highlight": true
+        },
+        {
+          "id": 257224358,
+          "name": "Gameplay",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257224358/a05531242567f4bf3e8508cdb32a89658030561b/movie_600x337.jpg?t=1761774899",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/336940/164070399/645a3256a3f50cbbda9e6ba60fce52da5f9fa2e9/1761773654/dash_av1.mpd?t=1761774899",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/336940/164070399/645a3256a3f50cbbda9e6ba60fce52da5f9fa2e9/1761773654/dash_h264.mpd?t=1761774899",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/336940/164070399/645a3256a3f50cbbda9e6ba60fce52da5f9fa2e9/1761773654/hls_264_master.m3u8?t=1761774899",
+          "highlight": true
+        },
+        {
+          "id": 257223824,
+          "name": "The Disaster",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257223824/dc4568c7fb6a345aa0f0e7aad6667f3d4345e695/movie_600x337.jpg?t=1761684593",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/336940/745435614/4afd1189ac4d45d77a7fa665d403439a1d55fa26/1761681728/dash_av1.mpd?t=1761684593",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/336940/745435614/4afd1189ac4d45d77a7fa665d403439a1d55fa26/1761681728/dash_h264.mpd?t=1761684593",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/336940/745435614/4afd1189ac4d45d77a7fa665d403439a1d55fa26/1761681728/hls_264_master.m3u8?t=1761684593",
+          "highlight": true
+        },
+        {
+          "id": 257223830,
+          "name": "Gameplay Level 2",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257223830/cd1ef0f67680f25594bcdc4fd506831d9fdd119c/movie_600x337.jpg?t=1761684591",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/336940/1144537047/adb0765c1f79e0a90e69b494e7b2ba6e66b68610/1761682657/dash_av1.mpd?t=1761684591",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/336940/1144537047/adb0765c1f79e0a90e69b494e7b2ba6e66b68610/1761682657/dash_h264.mpd?t=1761684591",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/336940/1144537047/adb0765c1f79e0a90e69b494e7b2ba6e66b68610/1761682657/hls_264_master.m3u8?t=1761684591",
+          "highlight": true
+        },
+        {
+          "id": 257223835,
+          "name": "Gameplay Level 3 Police Station",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257223835/1b757e68b8354922dc9ea27d57422dee24d08162/movie_600x337.jpg?t=1761684595",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/336940/1481310030/184596401187a8fc891efd2fef12bf4915078ce5/1761683768/dash_av1.mpd?t=1761684595",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/336940/1481310030/184596401187a8fc891efd2fef12bf4915078ce5/1761683768/dash_h264.mpd?t=1761684595",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/336940/1481310030/184596401187a8fc891efd2fef12bf4915078ce5/1761683768/hls_264_master.m3u8?t=1761684595",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 247
+      },
+      "achievements": {
+        "total": 41,
+        "highlighted": [
+          {
+            "name": "Try Try Again",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/336940/c7ee23478fa9a0849facb1208aefb8dd089e2f16.jpg"
+          },
+          {
+            "name": "Try Try Try Again",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/336940/7f7459bbd4ea248c7de6a6e3bcf9e7d4d744aa77.jpg"
+          },
+          {
+            "name": "Just Keep Trying Already",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/336940/8417a638bc90398c8e16dcdb7bcb99a823d0432f.jpg"
+          },
+          {
+            "name": "Blasted",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/336940/df9f851166942e6752724c33381af24e8cdf10db.jpg"
+          },
+          {
+            "name": "Zapped",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/336940/31f03e12666aa093bc91174423bf34e6e6a54fbb.jpg"
+          },
+          {
+            "name": "Toasted",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/336940/7cf5e0c54025f20d99685072f0665fed6c804fa7.jpg"
+          },
+          {
+            "name": "Lock in!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/336940/f69eb8524d7bdc4a25be2a925c14602d4723e1f0.jpg"
+          },
+          {
+            "name": "Hot Fuzz",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/336940/c174591cd9be3bc3e58578e225342b8ed6cc9e1c.jpg"
+          },
+          {
+            "name": "Going Underground",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/336940/f9f87a8f3878691ff9463f5b391ae4232984d56d.jpg"
+          },
+          {
+            "name": "Underground Overground",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/336940/e84e27c8022d7d7b9defab4b0b1f26fbde80c8fb.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Apr 27, 2018"
+      },
+      "support_info": {
+        "url": "https://www.puppygames.net/contact/?subject=basingstoke",
+        "email": "support@puppygames.net"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/336940?t=1761774901",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/336940?t=1761774901",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "14",
+          "required_age": "14",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência\nDrogas lícitas"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "16",
+          "required_age": "16",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Drastische Gewalt\nAlkohol / Tabak"
+        }
+      }
+    }
+  }
+}

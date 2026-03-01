@@ -1,0 +1,312 @@
+{
+  "761830": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Mr. Prepper",
+      "steam_appid": 761830,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        3864310,
+        1882510,
+        1557320
+      ],
+      "detailed_description": "<strong>Mr. Prepper</strong> is about being prepared. You know something is wrong. The risk of a nuclear war is in the air and you need to get ready for what's coming. Struggle for your freedom and deal with the authoritarian government in this survival crafting game.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/42125d7a7de48e6b31edbb59551e9388.poster.avif?t=1767865337\" width=616 height=210 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/42125d7a7de48e6b31edbb59551e9388.webm?t=1767865337\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/42125d7a7de48e6b31edbb59551e9388.mp4?t=1767865337\" type=\"video/mp4\"></video></span><br><br>- <strong>Build </strong>an underground <strong>shelter</strong>;<br>- <strong>Craft</strong> machines and facilities that can keep you alive: farms, greenhouses, tools, vehicles, etc.;<br>- <strong>Trade</strong> with neighbors, give them what they need, get what is useful to you;<br>- <strong>Explore</strong> atmospheric locations, scavenge materials and items you could use; <br>- Make a <strong>plan</strong> – something radical needs to be done;<br>- Meet other rebellious characters, complete <strong>quests</strong> for them and help each other in the opposition to the regime;<br>- Outsmart the <strong>secret police</strong> – they don't want you to be prepared, they want you to stay controlled.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/963c361fff45f6c5a268676954e52eb3.poster.avif?t=1767865337\" width=616 height=290 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/963c361fff45f6c5a268676954e52eb3.webm?t=1767865337\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/963c361fff45f6c5a268676954e52eb3.mp4?t=1767865337\" type=\"video/mp4\"></video></span><br><br><strong>Mr. Prepper</strong> is a guy living in a country which once had been the land of the free, but its new government has changed everything. Obey, stay in your lane, and love the President – otherwise, the secretive and all-powerful Agency will take interest in you. Mr. Prepper has decided to defy this and get out of this delusion of life. The only way for him to hide his plans and doings is to build an underground shelter and construct a machine that will help him get out. But for that, he will need materials, time, and secrecy. Help him succeed and break the status quo.<br><br><strong><ul class=\"bb_ul\"><li>Craft<br></li><li>Trade<br></li><li>Explore and scavenge<br></li><li>Complete quests<br></li><li>Survive<br></li><li>Defy the government</li></ul></strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/fec4510328a5d7e0a30943b3cd9707d8.poster.avif?t=1767865337\" width=616 height=210 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/fec4510328a5d7e0a30943b3cd9707d8.webm?t=1767865337\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/fec4510328a5d7e0a30943b3cd9707d8.mp4?t=1767865337\" type=\"video/mp4\"></video></span>",
+      "about_the_game": "<strong>Mr. Prepper</strong> is about being prepared. You know something is wrong. The risk of a nuclear war is in the air and you need to get ready for what's coming. Struggle for your freedom and deal with the authoritarian government in this survival crafting game.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/42125d7a7de48e6b31edbb59551e9388.poster.avif?t=1767865337\" width=616 height=210 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/42125d7a7de48e6b31edbb59551e9388.webm?t=1767865337\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/42125d7a7de48e6b31edbb59551e9388.mp4?t=1767865337\" type=\"video/mp4\"></video></span><br><br>- <strong>Build </strong>an underground <strong>shelter</strong>;<br>- <strong>Craft</strong> machines and facilities that can keep you alive: farms, greenhouses, tools, vehicles, etc.;<br>- <strong>Trade</strong> with neighbors, give them what they need, get what is useful to you;<br>- <strong>Explore</strong> atmospheric locations, scavenge materials and items you could use; <br>- Make a <strong>plan</strong> – something radical needs to be done;<br>- Meet other rebellious characters, complete <strong>quests</strong> for them and help each other in the opposition to the regime;<br>- Outsmart the <strong>secret police</strong> – they don't want you to be prepared, they want you to stay controlled.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/963c361fff45f6c5a268676954e52eb3.poster.avif?t=1767865337\" width=616 height=290 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/963c361fff45f6c5a268676954e52eb3.webm?t=1767865337\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/963c361fff45f6c5a268676954e52eb3.mp4?t=1767865337\" type=\"video/mp4\"></video></span><br><br><strong>Mr. Prepper</strong> is a guy living in a country which once had been the land of the free, but its new government has changed everything. Obey, stay in your lane, and love the President – otherwise, the secretive and all-powerful Agency will take interest in you. Mr. Prepper has decided to defy this and get out of this delusion of life. The only way for him to hide his plans and doings is to build an underground shelter and construct a machine that will help him get out. But for that, he will need materials, time, and secrecy. Help him succeed and break the status quo.<br><br><strong><ul class=\"bb_ul\"><li>Craft<br></li><li>Trade<br></li><li>Explore and scavenge<br></li><li>Complete quests<br></li><li>Survive<br></li><li>Defy the government</li></ul></strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/fec4510328a5d7e0a30943b3cd9707d8.poster.avif?t=1767865337\" width=616 height=210 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/fec4510328a5d7e0a30943b3cd9707d8.webm?t=1767865337\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/extras/fec4510328a5d7e0a30943b3cd9707d8.mp4?t=1767865337\" type=\"video/mp4\"></video></span>",
+      "short_description": "Mr. Prepper is about being prepared. You know something is wrong. The risk of a nuclear war is in the air and you need to get ready for what's coming.",
+      "supported_languages": "English<strong>*</strong>, Polish, French, German, Russian, Spanish - Spain, Turkish, Simplified Chinese, Dutch, Japanese, Italian, Portuguese - Brazil, Korean, Czech<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/500622b10e11a31f4d758c9761a4feb97a1affc0/header.jpg?t=1767865337",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/c321f24ab8facfafd951fdb63339822b664319c2/capsule_231x87.jpg?t=1767865337",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/c321f24ab8facfafd951fdb63339822b664319c2/capsule_184x69.jpg?t=1767865337",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows ® 8/7/Vista/XP<br></li><li><strong>Processor:</strong> 3.2 GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce 520M or Intel HD 4000<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 64-bit or newer<br></li><li><strong>Processor:</strong> 3.2 GHz Quad Core Processor<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 970, Radeon RX 580 or equivalent with 4GB of video RAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10.13<br></li><li><strong>Processor:</strong> i5 8259U 2.3 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GTX 775M, 2 GB , AMD Radeon 555, 2 GB, Intel Iris Plus 655<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10.13<br></li><li><strong>Processor:</strong> i5 3.4 Ghz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Radeon Pro 570<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+      },
+      "linux_requirements": [],
+      "developers": [
+        "Rejected Games"
+      ],
+      "publishers": [
+        "PlayWay S.A.",
+        "Rejected Games"
+      ],
+      "demos": [
+        {
+          "appid": 1322840,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 379,
+        "discount_percent": 81,
+        "initial_formatted": "$19.99",
+        "final_formatted": "$3.79"
+      },
+      "packages": [
+        225096
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Mr. Prepper",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 225096,
+              "percent_savings_text": "-81% ",
+              "percent_savings": 0,
+              "option_text": "Mr. Prepper - <span class=\"discount_original_price\">$19.99</span> $3.79",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 379
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 13,
+          "description": "Captions available"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 15,
+          "description": "Stats"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        },
+        {
+          "id": 42,
+          "description": "Remote Play on Tablet"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_f4a41a6ad49f4397d079fa0ba64576b91882313d.600x338.jpg?t=1767865337",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_f4a41a6ad49f4397d079fa0ba64576b91882313d.1920x1080.jpg?t=1767865337"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_226ee01a2f811c41de81a79c22ded1753c4adaf6.600x338.jpg?t=1767865337",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_226ee01a2f811c41de81a79c22ded1753c4adaf6.1920x1080.jpg?t=1767865337"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_d7d4246301813c4caa0e947b72497340b7158973.600x338.jpg?t=1767865337",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_d7d4246301813c4caa0e947b72497340b7158973.1920x1080.jpg?t=1767865337"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_68505c455343c583d5c6da450c5eed61ae415f85.600x338.jpg?t=1767865337",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_68505c455343c583d5c6da450c5eed61ae415f85.1920x1080.jpg?t=1767865337"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_245fa852d4380bb8e143599e098554e9247a6b37.600x338.jpg?t=1767865337",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_245fa852d4380bb8e143599e098554e9247a6b37.1920x1080.jpg?t=1767865337"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_e868ac2a62c11aa233a7d5dc05bcc7d2fac10ed0.600x338.jpg?t=1767865337",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_e868ac2a62c11aa233a7d5dc05bcc7d2fac10ed0.1920x1080.jpg?t=1767865337"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_4ba6c704f14fb13f1baf8b907f03833592b2bc4f.600x338.jpg?t=1767865337",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_4ba6c704f14fb13f1baf8b907f03833592b2bc4f.1920x1080.jpg?t=1767865337"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_7bb33d2969d3db60b3d74a25a1a3f35c0628c914.600x338.jpg?t=1767865337",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_7bb33d2969d3db60b3d74a25a1a3f35c0628c914.1920x1080.jpg?t=1767865337"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_8f2bdaa8ffd84fa7e27640b5d6b59df9179e47ad.600x338.jpg?t=1767865337",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_8f2bdaa8ffd84fa7e27640b5d6b59df9179e47ad.1920x1080.jpg?t=1767865337"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_69f273404708108be12567310fd7da43f5ba7a32.600x338.jpg?t=1767865337",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_69f273404708108be12567310fd7da43f5ba7a32.1920x1080.jpg?t=1767865337"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_40efd68e46b64f5425c10238a08d11a21a72e9d5.600x338.jpg?t=1767865337",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/ss_40efd68e46b64f5425c10238a08d11a21a72e9d5.1920x1080.jpg?t=1767865337"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256750533,
+          "name": "Mr. Prepper - Official Teaser 2",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256750533/movie.293x165.jpg?t=1683704288",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/761830/222851/308ddbdd0becc0ed5eb4201e310c3a708354e876/1750580820/dash_av1.mpd?t=1683704288",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/761830/222851/308ddbdd0becc0ed5eb4201e310c3a708354e876/1750580820/dash_h264.mpd?t=1683704288",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/761830/222851/308ddbdd0becc0ed5eb4201e310c3a708354e876/1750580820/hls_264_master.m3u8?t=1683704288",
+          "highlight": true
+        },
+        {
+          "id": 256819355,
+          "name": "Mr. Prepper - Release Date Reveal Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256819355/movie.293x165.jpg?t=1683704292",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/761830/342660/333cfe58b3677c2dd3e2891763487a799284323b/1750580839/dash_av1.mpd?t=1683704292",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/761830/342660/333cfe58b3677c2dd3e2891763487a799284323b/1750580839/dash_h264.mpd?t=1683704292",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/761830/342660/333cfe58b3677c2dd3e2891763487a799284323b/1750580839/hls_264_master.m3u8?t=1683704292",
+          "highlight": true
+        },
+        {
+          "id": 256816117,
+          "name": "Mr. Prepper - Official Teaser_corrected",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256816117/movie.293x165.jpg?t=1683619648",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/761830/336637/ce1890b02f37077e85bbe57f9470bfed9c63a9e6/1750580822/dash_av1.mpd?t=1683619648",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/761830/336637/ce1890b02f37077e85bbe57f9470bfed9c63a9e6/1750580822/dash_h264.mpd?t=1683619648",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/761830/336637/ce1890b02f37077e85bbe57f9470bfed9c63a9e6/1750580822/hls_264_master.m3u8?t=1683619648",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 4641
+      },
+      "achievements": {
+        "total": 103,
+        "highlighted": [
+          {
+            "name": "Mr. Prepper's Path",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/761830/b7460771771637a405009e9cafa45dd2c703a4ff.jpg"
+          },
+          {
+            "name": "Obvious from the beginning",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/761830/bf278e46f8fe709c6d7c66ed3f82377d2792ce7b.jpg"
+          },
+          {
+            "name": "Little Prepp Riding Hood",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/761830/ba54d054ca9ab8fbbf0ac9704525bff0957dcd4f.jpg"
+          },
+          {
+            "name": "Atlas",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/761830/cd8869b7adeea9c6d6422bb4acb70c71d0cce5fd.jpg"
+          },
+          {
+            "name": "It's just a start!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/761830/8a7eef83238f3eddee2a7adc5f9aadbe0ea84d56.jpg"
+          },
+          {
+            "name": "Prepp's Kitchen",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/761830/1f540c82272b14cecf42ab2f70dc7f50863d8aa6.jpg"
+          },
+          {
+            "name": "Extreme Shelter Makeover",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/761830/082943407332067e7a3218dca562934ee0e10be7.jpg"
+          },
+          {
+            "name": "Old McDonald Had a Ranch House...",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/761830/216b03cebe69e7da7c932379ce4eba6dd9bd5ece.jpg"
+          },
+          {
+            "name": "Expander",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/761830/5d43e977334b6a4ceecf17f99535acba5411b263.jpg"
+          },
+          {
+            "name": "If I Were a Rich Man",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/761830/98dd4e42ee25d87804c2a5286423bdb713b50f0d.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Mar 18, 2021"
+      },
+      "support_info": {
+        "url": "",
+        "email": "info@rejectedgames.pl"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/761830?t=1767865337",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761830/page_bg_raw.jpg?t=1767865337",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "l",
+          "descriptors": "Violência fantasiosa"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "6",
+          "required_age": "6",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Fantasy-Gewalt"
+        }
+      }
+    }
+  }
+}

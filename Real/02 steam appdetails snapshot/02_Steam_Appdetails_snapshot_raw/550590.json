@@ -1,0 +1,363 @@
+{
+  "550590": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Archaica: The Path of Light",
+      "steam_appid": 550590,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<strong>Archaica: The Path Of Light</strong> is an atmospheric puzzler with lasers and mirrors, that introduces a mystical and ancient world, full of challenging puzzles. In this game, we become the Light Bearer who is sent on a quest to walk the legendary Path of Light and save the world from impending disaster. We revive mysterious artifacts, explore secrets of an alien civilization, and discover the true destiny of The Path along the way through extraordinary realms.<h2 class=\"bb_tag\" > </h2><h2 class=\"bb_tag\" >KEY FEATURES:</h2><ul class=\"bb_ul\"><li>Beautiful aesthetic and an extraordinary atmosphere of an ancient and unknown civilization<br>We have put a lot of work to make Archaica’s world a beautiful and remarkable place. Every single place has its unique atmosphere and encourages further exploration.<br></li><li>Interesting and unique puzzles<br>We have prototyped hundreds of puzzles, but selected only a few of them for the game, ensuring that each puzzle is unique and based on a separate idea.<br></li><li>Intriguing narrative<br>Revealing the storyline is optional, yet it is available to players who would like to delve into the game’s world. Individual themes are being excerpted to a player piece by piece, while uncovering hieroglyphs scattered on the board. Some themes will be discovered only on completion of the challenging levels.</li></ul>",
+      "about_the_game": "<strong>Archaica: The Path Of Light</strong> is an atmospheric puzzler with lasers and mirrors, that introduces a mystical and ancient world, full of challenging puzzles. In this game, we become the Light Bearer who is sent on a quest to walk the legendary Path of Light and save the world from impending disaster. We revive mysterious artifacts, explore secrets of an alien civilization, and discover the true destiny of The Path along the way through extraordinary realms.<h2 class=\"bb_tag\" > </h2><h2 class=\"bb_tag\" >KEY FEATURES:</h2><ul class=\"bb_ul\"><li>Beautiful aesthetic and an extraordinary atmosphere of an ancient and unknown civilization<br>We have put a lot of work to make Archaica’s world a beautiful and remarkable place. Every single place has its unique atmosphere and encourages further exploration.<br></li><li>Interesting and unique puzzles<br>We have prototyped hundreds of puzzles, but selected only a few of them for the game, ensuring that each puzzle is unique and based on a separate idea.<br></li><li>Intriguing narrative<br>Revealing the storyline is optional, yet it is available to players who would like to delve into the game’s world. Individual themes are being excerpted to a player piece by piece, while uncovering hieroglyphs scattered on the board. Some themes will be discovered only on completion of the challenging levels.</li></ul>",
+      "short_description": "Archaica is an atmospheric puzzler with lasers and mirrors, that introduces a mystical and ancient world, full of challenging puzzles. In this game, we become the Light Bearer who is sent on a quest to walk the legendary Path of Light and save the world from impending disaster.",
+      "supported_languages": "English, Polish, Simplified Chinese, Russian, Ukrainian, French, Czech, Spanish - Spain",
+      "reviews": "“Archaica is a really fun puzzle game, and very beautiful. Great job, guys!”<br>John Romero<br><br>“《Archaica: The Path Of Light》是一款解谜游戏。玩家将操纵场景中的镜子、有色玻璃等各种元件，通过反射来引导光线，照亮全部水晶以完成关卡。本作的提示系统有针对性且实用，关卡有一定收集要素，伴随着游戏进程的发展与收集品的完善，游戏也将逐步揭示它的剧情与背景故事。—— 来自 细拉”<br>4/5 – CowLevel<br><br>“It has very accessible puzzles for beginners, really tough puzzles for veterans, and every middling difficulty for everyone in between.  For a first game, I think it's really impressive.  Good job, Two Mammoths.”<br>8.2/10 – KEEN Gamer<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/header.jpg?t=1739824314",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/capsule_231x87.jpg?t=1739824314",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/capsule_184x69.jpg?t=1739824314",
+      "website": "http://twomammoths.com/archaica-the-path-of-light/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 Duo<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 560<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 760<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "Two Mammoths"
+      ],
+      "publishers": [
+        "Two Mammoths"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 749,
+        "discount_percent": 50,
+        "initial_formatted": "$14.99",
+        "final_formatted": "$7.49"
+      },
+      "packages": [
+        136395
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Archaica: The Path of Light",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 136395,
+              "percent_savings_text": "-50% ",
+              "percent_savings": 0,
+              "option_text": "Archaica: The Path Of Light - <span class=\"discount_original_price\">$14.99</span> $7.49",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 749
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_8339d70dbc3d64c26400b4290d5fded1673829da.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_8339d70dbc3d64c26400b4290d5fded1673829da.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_cd65e3ab0c80eed1a918bbd2c8341cc6042b8c59.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_cd65e3ab0c80eed1a918bbd2c8341cc6042b8c59.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_51e217574bac5ca6bc0a584ceda280e40d637371.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_51e217574bac5ca6bc0a584ceda280e40d637371.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_d08bbefba9e1e95974cbe174f5869871f5d9a942.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_d08bbefba9e1e95974cbe174f5869871f5d9a942.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_3e2ebce040872a047714f4608dd85d42bcc8f182.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_3e2ebce040872a047714f4608dd85d42bcc8f182.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_47f55e81e56e2bf88b9d3d794d7306ab9e1fa77d.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_47f55e81e56e2bf88b9d3d794d7306ab9e1fa77d.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_919685ca6527875cd71eea44a00a71f97586f957.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_919685ca6527875cd71eea44a00a71f97586f957.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_5912c31313524052a61f30690716b28cbdab9780.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_5912c31313524052a61f30690716b28cbdab9780.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_08b7313876b477e0f8d86b7896bffb354ba7ec06.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_08b7313876b477e0f8d86b7896bffb354ba7ec06.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_d9071f8cc859a8b6f08c7414c5684e9c58a452c7.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_d9071f8cc859a8b6f08c7414c5684e9c58a452c7.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_87dd1cde2fda820c7f2a2f92e7fd5050837d3736.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_87dd1cde2fda820c7f2a2f92e7fd5050837d3736.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_b3c7bc772bbdc87500271bd716e45be3ee0b9ab7.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_b3c7bc772bbdc87500271bd716e45be3ee0b9ab7.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_93c9368b2097e5dde3175104c31ae783f82c54b7.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_93c9368b2097e5dde3175104c31ae783f82c54b7.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_b45595677ff4fde37121ae6fade1c028266d03b2.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_b45595677ff4fde37121ae6fade1c028266d03b2.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_c6f588609267f487cc1b705bf221c205684bfe37.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_c6f588609267f487cc1b705bf221c205684bfe37.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_4aa70ea11fb28fe49b5a621df31ee29f94ca9ff5.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_4aa70ea11fb28fe49b5a621df31ee29f94ca9ff5.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_2a7e0081de69e2e17da0204d89041b9e5a959245.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_2a7e0081de69e2e17da0204d89041b9e5a959245.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_fe02fcf66c64e4e2ece220983b6544fd961bbe46.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_fe02fcf66c64e4e2ece220983b6544fd961bbe46.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 18,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_13f29031ac1607ef000303d0d0561251c9f5ef6e.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_13f29031ac1607ef000303d0d0561251c9f5ef6e.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 19,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_feee53aa33795a109c3db5901926b129c4c6d072.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_feee53aa33795a109c3db5901926b129c4c6d072.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 20,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_d3ea253d6b9368ac7457d04f6e2dba077552b129.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_d3ea253d6b9368ac7457d04f6e2dba077552b129.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 21,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_d871b37b8608ef3297d35735f074f0efe593847c.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_d871b37b8608ef3297d35735f074f0efe593847c.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 22,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_a4956e61ffe6c7815db6bb3b7505f3fa5d34e86a.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_a4956e61ffe6c7815db6bb3b7505f3fa5d34e86a.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 23,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_695abb85cb450c92e461da3fe50f968995cf8921.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_695abb85cb450c92e461da3fe50f968995cf8921.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 24,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_c63784048e56e213f15c20adb1e83bf13377aff4.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_c63784048e56e213f15c20adb1e83bf13377aff4.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 25,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_97eed4613cfc339d3190f94ac26918e26ae317b0.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_97eed4613cfc339d3190f94ac26918e26ae317b0.1920x1080.jpg?t=1739824314"
+        },
+        {
+          "id": 26,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_9f6e6b35d0de29d3a2ef6aa54dc3d8cc18b0cb57.600x338.jpg?t=1739824314",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/ss_9f6e6b35d0de29d3a2ef6aa54dc3d8cc18b0cb57.1920x1080.jpg?t=1739824314"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256674220,
+          "name": "Archaica: The Path Of Light - 2016 Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256674220/movie.293x165.jpg?t=1502654521",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/550590/79610/24374d9ca4ab8db37a3d361e00e7a53e1295e4d6/1751300697/dash_av1.mpd?t=1502654521",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/550590/79610/24374d9ca4ab8db37a3d361e00e7a53e1295e4d6/1751300697/dash_h264.mpd?t=1502654521",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/550590/79610/24374d9ca4ab8db37a3d361e00e7a53e1295e4d6/1751300697/hls_264_master.m3u8?t=1502654521",
+          "highlight": true
+        },
+        {
+          "id": 256692741,
+          "name": "Archaica: The Path Of Light - Launch Trailer I",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256692741/movie.293x165.jpg?t=1504390001",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/550590/118066/66f2658a76fc1473487bdab6aacffb01395594fb/1751300697/dash_av1.mpd?t=1504390001",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/550590/118066/66f2658a76fc1473487bdab6aacffb01395594fb/1751300697/dash_h264.mpd?t=1504390001",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/550590/118066/66f2658a76fc1473487bdab6aacffb01395594fb/1751300697/hls_264_master.m3u8?t=1504390001",
+          "highlight": true
+        },
+        {
+          "id": 256694400,
+          "name": "Archaica: The Path Of Light - Launch Trailer II",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256694400/movie.293x165.jpg?t=1504886537",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/550590/121159/b59f057fb407117fd4188eaad7bd74d5bb41ee7e/1751300699/dash_av1.mpd?t=1504886537",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/550590/121159/b59f057fb407117fd4188eaad7bd74d5bb41ee7e/1751300699/dash_h264.mpd?t=1504886537",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/550590/121159/b59f057fb407117fd4188eaad7bd74d5bb41ee7e/1751300699/hls_264_master.m3u8?t=1504886537",
+          "highlight": false
+        },
+        {
+          "id": 256694364,
+          "name": "Archaica: The Path of Light - Gameplay I",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256694364/movie.293x165.jpg?t=1504373975",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/550590/121100/8a17ee67bf5adeeb41462da665b6a7cebac3359b/1751300699/dash_av1.mpd?t=1504373975",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/550590/121100/8a17ee67bf5adeeb41462da665b6a7cebac3359b/1751300699/dash_h264.mpd?t=1504373975",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/550590/121100/8a17ee67bf5adeeb41462da665b6a7cebac3359b/1751300699/hls_264_master.m3u8?t=1504373975",
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 214
+      },
+      "achievements": {
+        "total": 12,
+        "highlighted": [
+          {
+            "name": "Divine Aid",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/550590/82e499891ba9fe7c0c1e7d210fcc34fe5496f47b.jpg"
+          },
+          {
+            "name": "Chosen one",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/550590/f5669026875818e5d3f6307767329b99ae6f5b15.jpg"
+          },
+          {
+            "name": "Forgotten wells",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/550590/752afb406eb81d07da213d77c69e9aa48f64c96c.jpg"
+          },
+          {
+            "name": "Explorer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/550590/134ca21ccfe6f02e37287b1f55ed987d4a8947b2.jpg"
+          },
+          {
+            "name": "Enlightened",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/550590/ee566f59fd68b0d3978145af4c46c14c2892a6b1.jpg"
+          },
+          {
+            "name": "Dedicated wanderer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/550590/b090d9c4d5c66a9553f09b478aa158999b5069fc.jpg"
+          },
+          {
+            "name": "Wise Man",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/550590/9446aab9fa47b72f5484acf376f8177d41015beb.jpg"
+          },
+          {
+            "name": "Dying Light",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/550590/f5cbe537cb002eba8d47ffcaa379275ab8e19bb4.jpg"
+          },
+          {
+            "name": "Deep sleep",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/550590/d8f208d05d1894c16598524104945da7f5639e2c.jpg"
+          },
+          {
+            "name": "In the footsteps of the Path builders",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/550590/aff986b0d6162815e4e2fc56db4176431b72d4b4.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 8, 2017"
+      },
+      "support_info": {
+        "url": "www.twomammoths.com",
+        "email": "info@twomammoths.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/550590?t=1739824314",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550590/page_bg_raw.jpg?t=1739824314",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

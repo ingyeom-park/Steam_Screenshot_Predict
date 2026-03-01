@@ -1,0 +1,474 @@
+{
+  "885000": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Synth Riders",
+      "steam_appid": 885000,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        4281570,
+        4208250,
+        4208260,
+        4208230,
+        4208240,
+        4208270,
+        4208280,
+        4208290,
+        4208300,
+        4208310,
+        4208320,
+        1387104,
+        3937980,
+        3884980,
+        3884990,
+        3885000,
+        3800410,
+        3670830,
+        3670840,
+        3670860,
+        3670850,
+        3670870,
+        3516040,
+        3516050,
+        3516020,
+        3516060,
+        3516030,
+        3392370,
+        3392310,
+        3392320,
+        3392330,
+        3392340,
+        3392360,
+        3392350,
+        3370670,
+        2861300,
+        2861310,
+        2861320,
+        2861330,
+        2861340,
+        2099700,
+        2099701,
+        2099702,
+        2099703,
+        2099704,
+        1947311,
+        1947312,
+        1947313,
+        1947314,
+        1947310,
+        1730420,
+        1730421,
+        1730422,
+        1730423,
+        1730424,
+        1664030,
+        1664031,
+        1664032,
+        1664033,
+        1664034,
+        1560980,
+        1560981,
+        1515480,
+        1515481,
+        1560983,
+        1560982,
+        1560984,
+        1515484,
+        1515482,
+        1515483,
+        1290910,
+        1290890,
+        1290911,
+        1290913,
+        1290914,
+        1390211,
+        1390212,
+        1390213,
+        1390214,
+        1390210,
+        2221470,
+        2221471,
+        2221472,
+        2221473,
+        2221474,
+        2295760,
+        2295761,
+        2295762,
+        2295763,
+        2295764,
+        2295765,
+        2295766,
+        2484740,
+        2484741,
+        2484742,
+        2484743,
+        2484744,
+        2678000,
+        2678010,
+        2678020,
+        2678030,
+        2678040
+      ],
+      "detailed_description": "<h1>EXPLORE THE MUSIC PACKS</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/c00ab9f6b21fceffbeaa9b85144f8fe5.avif?t=1769692304\" width=1248 height=240 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/cfe7e2fb3de9c939cf294f10d830164e.avif?t=1769692304\" width=1248 height=240 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/bb84fa0c3f7858bbc9c55536ab2845b4.avif?t=1769692304\" width=1248 height=240 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/73451919f8333a97b23c71e93ba865f8.avif?t=1769692304\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras_big/73451919f8333a97b23c71e93ba865f8.avif?t=1769692304 width=800 height=154 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/36665830685fe3db0dbd0ac3325aa98d.avif?t=1769692304\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras_big/36665830685fe3db0dbd0ac3325aa98d.avif?t=1769692304 width=800 height=154 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/026ada962f16eb2f89e2ad4ecdcf8378.avif?t=1769692304\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras_big/026ada962f16eb2f89e2ad4ecdcf8378.avif?t=1769692304 width=800 height=154 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/428f8b683f3f950c4959e910b2c652e0.avif?t=1769692304\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras_big/428f8b683f3f950c4959e910b2c652e0.avif?t=1769692304 width=800 height=154 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/9bdac740d2386ccba3329461bc1fff1f.avif?t=1769692304\" width=624 height=120 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/daf69b1101ee037b93de08ef7cc41c01.avif?t=1769692304\" width=624 height=120 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/d949b340fb89c2d463633956db1d517f.avif?t=1769692304\" width=624 height=120 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/2e5ff12f7c488ab2734ff4247befbfc0.avif?t=1769692304\" width=624 height=120 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/17086c60e1a7a14110fb57205ea3f46c.avif?t=1769692304\" width=624 height=120 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/c2cf290725aa0812a97584bdcde87013.avif?t=1769692304\" width=624 height=120 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/abf8f37990e2940ab9d068964f3f2bd6.avif?t=1769692304\" width=624 height=120 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/5476be65e8978b2cd0f2c3883bebd167.avif?t=1769692304\" width=624 height=120 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/bc9977269fe74c01266fa6e300149cae.avif?t=1769692304\" width=624 height=120 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/6bc518347dc28e6b6293da7e5379fceb.avif?t=1769692304\" width=624 height=121 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/53694ff044bb7a593fe57f5b17d97e21.avif?t=1769692304\" width=624 height=121 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/ba1346261f5c6b93ee27db307adad871.avif?t=1769692304\" width=624 height=120 /></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/432851c442a7df4cd713921d527d2856.avif?t=1769692304\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras_big/432851c442a7df4cd713921d527d2856.avif?t=1769692304 width=800 height=154 /></span></p></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" ><strong>A FREESTYLE-DANCE RHYTHM GAME</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Let the music move you as you catch notes, ride the rails, and dodge obstacles in a unique combination of freestyle dancing and fitness workout that’ll allow you to burn calories while having tons of fun at the same time.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>CUSTOM SONGS</strong> officially supported - create your own beatmaps using the free editor today!</p><p class=\"bb_paragraph\" ><strong>BURN CALORIES</strong> in a unique combination of freestyle dance &amp; fitness!</p><p class=\"bb_paragraph\" ><strong>MUSIC FOR EVERYONE</strong> with over 80 free songs and 102 optional paid DLC tracks feat. Lady Gaga, Gorillaz, Bruno Mars, Queen, Lindsey Stirling, Muse and more... </p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Meet 10 friends in cross-platform Multiplayer</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Play your way with huge variety of gameplay modifiers &amp; styles including Spin &amp; Spiral</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Incredibly customizable player experience with many great features out of the box including &quot;custom songs&quot;</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/02910c50e62c5cbdd80b59e5352851ce.poster.avif?t=1769692304\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/02910c50e62c5cbdd80b59e5352851ce.webm?t=1769692304\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/02910c50e62c5cbdd80b59e5352851ce.mp4?t=1769692304\" type=\"video/mp4\"></video></span></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" ><strong>A FREESTYLE-DANCE RHYTHM GAME</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Let the music move you as you catch notes, ride the rails, and dodge obstacles in a unique combination of freestyle dancing and fitness workout that’ll allow you to burn calories while having tons of fun at the same time.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>CUSTOM SONGS</strong> officially supported - create your own beatmaps using the free editor today!</p><p class=\"bb_paragraph\" ><strong>BURN CALORIES</strong> in a unique combination of freestyle dance &amp; fitness!</p><p class=\"bb_paragraph\" ><strong>MUSIC FOR EVERYONE</strong> with over 80 free songs and 102 optional paid DLC tracks feat. Lady Gaga, Gorillaz, Bruno Mars, Queen, Lindsey Stirling, Muse and more... </p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Meet 10 friends in cross-platform Multiplayer</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Play your way with huge variety of gameplay modifiers &amp; styles including Spin &amp; Spiral</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Incredibly customizable player experience with many great features out of the box including &quot;custom songs&quot;</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/02910c50e62c5cbdd80b59e5352851ce.poster.avif?t=1769692304\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/02910c50e62c5cbdd80b59e5352851ce.webm?t=1769692304\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/extras/02910c50e62c5cbdd80b59e5352851ce.mp4?t=1769692304\" type=\"video/mp4\"></video></span></p>",
+      "short_description": "Let the music move you in Synth Riders, a dance-action VR rhythm game with custom song support and a thriving multiplayer community!",
+      "supported_languages": "English, French, German, Spanish - Spain, Japanese, Korean, Simplified Chinese",
+      "reviews": "“An amazing physical experience that involves the entire body.”<br>VR Fitness Insider<br><br>“The closest thing to a perfect video game that I’ve ever played.”<br>10/10 – Pure PlayStation<br><br>“Incredibly fun and addicting right from the start.”<br>10/10 – Game Chronicles<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/8757926ebcfc60372fddb780a2c89a9ea8156380/header.jpg?t=1769692304",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/3703b8676c4361eee97d80cc5ae695701950b6c4/capsule_231x87.jpg?t=1769692304",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/3703b8676c4361eee97d80cc5ae695701950b6c4/capsule_184x69.jpg?t=1769692304",
+      "website": "http://synthridersvr.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8.1/10 (64bit)<br></li><li><strong>Processor:</strong> Intel Core i5 Sandy Bridge or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 960 or equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3000 MB available space<br></li><li><strong>VR Support:</strong> OpenXR on SteamVR headsets, OpenXR on Meta with Meta headsets.  Requires motion controllers. Standing Only</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8.1/10 (64bit)<br></li><li><strong>Processor:</strong> Intel Core i7 Skylake or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 1060 or equivalent<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 3000 MB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "Kluge Interactive"
+      ],
+      "publishers": [
+        "Kluge Interactive"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        281301,
+        503602
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Synth Riders",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 281301,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Synth Riders - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        },
+        {
+          "name": "subscriptions",
+          "title": "Subscribe to Synth Riders",
+          "description": "To be billed on a recurring basis.",
+          "selection_text": "Starting at $24.99 / month",
+          "save_text": "",
+          "display_type": "1",
+          "is_recurring_subscription": "true",
+          "subs": [
+            {
+              "packageid": 503602,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "$24.99 / month",
+              "option_description": "<p class=\"game_purchase_subscription\">$24.99 at checkout, auto-renewed every 1 month(s) at $24.99.</p>",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": {
+        "score": 83,
+        "url": "https://www.metacritic.com/game/pc/synth-riders?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 52,
+          "description": "Tracked Controller Support"
+        },
+        {
+          "id": 54,
+          "description": "VR Only"
+        },
+        {
+          "id": 35,
+          "description": "In-App Purchases"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/ss_3c768af1311a6edc6a944179406489a76d35da75.600x338.jpg?t=1769692304",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/ss_3c768af1311a6edc6a944179406489a76d35da75.1920x1080.jpg?t=1769692304"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/619fe47a0cbe2618cf9a502643b4cd0ea6afc622/ss_619fe47a0cbe2618cf9a502643b4cd0ea6afc622.600x338.jpg?t=1769692304",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/619fe47a0cbe2618cf9a502643b4cd0ea6afc622/ss_619fe47a0cbe2618cf9a502643b4cd0ea6afc622.1920x1080.jpg?t=1769692304"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/ss_b947150beae93b5c0d5ab435c43491d42a235303.600x338.jpg?t=1769692304",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/ss_b947150beae93b5c0d5ab435c43491d42a235303.1920x1080.jpg?t=1769692304"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/ss_f50c3af6a5d63f4c8263a85426248b0846cf6131.600x338.jpg?t=1769692304",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/ss_f50c3af6a5d63f4c8263a85426248b0846cf6131.1920x1080.jpg?t=1769692304"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/ss_b295bb7088d59d1261abeaa89ceaffa70c5212ae.600x338.jpg?t=1769692304",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/ss_b295bb7088d59d1261abeaa89ceaffa70c5212ae.1920x1080.jpg?t=1769692304"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/ss_9eab298934d6fd4b5925ccca6cbd766bc0ad0277.600x338.jpg?t=1769692304",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/ss_9eab298934d6fd4b5925ccca6cbd766bc0ad0277.1920x1080.jpg?t=1769692304"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257274972,
+          "name": "Queen - \"We Are The Champions\"",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257274972/1f2615a7c02a5dae632eff04b36667ee497fb47f/movie_600x337.jpg?t=1769692302",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/885000/1094597488/25ec801f47fca797d48929a71331258e7f4c0eeb/1769651509/dash_av1.mpd?t=1769692302",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/1094597488/25ec801f47fca797d48929a71331258e7f4c0eeb/1769651509/dash_h264.mpd?t=1769692302",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/1094597488/25ec801f47fca797d48929a71331258e7f4c0eeb/1769651509/hls_264_master.m3u8?t=1769692302",
+          "highlight": true
+        },
+        {
+          "id": 257251801,
+          "name": "Lady Gaga Music Pack",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257251801/62833e203c8e8f1af67cf232ca6ce0163789c0a9/movie_600x337.jpg?t=1766073080",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/885000/1959568262/8739227e56ec645e1bb3562803605021bc9db726/1766017665/dash_av1.mpd?t=1766073080",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/1959568262/8739227e56ec645e1bb3562803605021bc9db726/1766017665/dash_h264.mpd?t=1766073080",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/1959568262/8739227e56ec645e1bb3562803605021bc9db726/1766017665/hls_264_master.m3u8?t=1766073080",
+          "highlight": false
+        },
+        {
+          "id": 257086291,
+          "name": "80s Mixtape - Side B",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257086291/4df331622b9b9b339b93bca789063dbb826c88f0/movie_600x337.jpg?t=1766073081",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/885000/807441/a909ad4c11f5557f20adbdd741757217729f2863/1750593536/dash_av1.mpd?t=1766073081",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/807441/a909ad4c11f5557f20adbdd741757217729f2863/1750593536/dash_h264.mpd?t=1766073081",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/807441/a909ad4c11f5557f20adbdd741757217729f2863/1750593536/hls_264_master.m3u8?t=1766073081",
+          "highlight": false
+        },
+        {
+          "id": 257191856,
+          "name": "Humble.",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257191856/459d3a53cdc179c95505b6f459cb044a84b07961/movie_600x337.jpg?t=1766073082",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/885000/786621103/3f22747e6e553d9d48a1f8a176852ecb13197784/1756752645/dash_av1.mpd?t=1766073082",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/786621103/3f22747e6e553d9d48a1f8a176852ecb13197784/1756752645/dash_h264.mpd?t=1766073082",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/786621103/3f22747e6e553d9d48a1f8a176852ecb13197784/1756752645/hls_264_master.m3u8?t=1766073082",
+          "highlight": false
+        },
+        {
+          "id": 257139320,
+          "name": "90s Rock Music Pack",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257139320/b1e7f8135ec636c1bcdec8b820b5b9a213b6c166/movie_600x337.jpg?t=1766073083",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/885000/228486169/6ddcde64818e1f579c13683baa2adbaca63e9d90/1750593551/dash_av1.mpd?t=1766073083",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/228486169/6ddcde64818e1f579c13683baa2adbaca63e9d90/1750593551/dash_h264.mpd?t=1766073083",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/228486169/6ddcde64818e1f579c13683baa2adbaca63e9d90/1750593551/hls_264_master.m3u8?t=1766073083",
+          "highlight": false
+        },
+        {
+          "id": 257111302,
+          "name": "Current Waves",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257111302/bcbfc245ec0c14f9bec713b6b85856fca2f3f375/movie_600x337.jpg?t=1744580265",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/885000/846354/d3be961bb6ccee895a252008a209601037dd9371/1750593544/dash_av1.mpd?t=1744580265",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/846354/d3be961bb6ccee895a252008a209601037dd9371/1750593544/dash_h264.mpd?t=1744580265",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/846354/d3be961bb6ccee895a252008a209601037dd9371/1750593544/hls_264_master.m3u8?t=1744580265",
+          "highlight": false
+        },
+        {
+          "id": 257078509,
+          "name": "Synth Riders Experience™ – Barbie™ Dance 'n Dream",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257078509/9802e163652a793d7a0371257ab957a345a550dd/movie_600x337.jpg?t=1766073085",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/885000/794377/ef2a1437c0d292095383ec99f68288f4c7594362/1750593519/dash_av1.mpd?t=1766073085",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/794377/ef2a1437c0d292095383ec99f68288f4c7594362/1750593519/dash_h264.mpd?t=1766073085",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/794377/ef2a1437c0d292095383ec99f68288f4c7594362/1750593519/hls_264_master.m3u8?t=1766073085",
+          "highlight": false
+        },
+        {
+          "id": 256993242,
+          "name": "Electro Swing 2",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256993242/movie.293x165.jpg?t=1766073086",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/885000/648570/be151fb049305032cea33e9196de070aa51505a8/1750593510/dash_av1.mpd?t=1766073086",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/648570/be151fb049305032cea33e9196de070aa51505a8/1750593510/dash_h264.mpd?t=1766073086",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/648570/be151fb049305032cea33e9196de070aa51505a8/1750593510/hls_264_master.m3u8?t=1766073086",
+          "highlight": false
+        },
+        {
+          "id": 256932329,
+          "name": "Gorillaz Music Pack",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256932329/8db6b9b1a26d0151a523eda4523013110a2ba2d9/movie_600x337.jpg?t=1766073087",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/885000/542077/8b28c1b8e08e3e41edb371b385ee00514eed5615/1750593776/dash_av1.mpd?t=1766073087",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/542077/8b28c1b8e08e3e41edb371b385ee00514eed5615/1750593776/dash_h264.mpd?t=1766073087",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/542077/8b28c1b8e08e3e41edb371b385ee00514eed5615/1750593776/hls_264_master.m3u8?t=1766073087",
+          "highlight": false
+        },
+        {
+          "id": 256921464,
+          "name": "Groovin",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256921464/a1fb7d3c9b35be69a15b16eb318844f79b450e72/movie_600x337.jpg?t=1766073088",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/885000/522673/c8ffcd7d89b968d1d888b80d919e3dd3f317a122/1750593472/dash_av1.mpd?t=1766073088",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/522673/c8ffcd7d89b968d1d888b80d919e3dd3f317a122/1750593472/dash_h264.mpd?t=1766073088",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/522673/c8ffcd7d89b968d1d888b80d919e3dd3f317a122/1750593472/hls_264_master.m3u8?t=1766073088",
+          "highlight": false
+        },
+        {
+          "id": 256882214,
+          "name": "Lindsey Stirling",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256882214/movie.293x165.jpg?t=1725120191",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/885000/455321/c41a14b8f2966a678b4800444d5b5d4b35bfd70e/1750593455/dash_av1.mpd?t=1725120191",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/455321/c41a14b8f2966a678b4800444d5b5d4b35bfd70e/1750593455/dash_h264.mpd?t=1725120191",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/455321/c41a14b8f2966a678b4800444d5b5d4b35bfd70e/1750593455/hls_264_master.m3u8?t=1725120191",
+          "highlight": false
+        },
+        {
+          "id": 256901559,
+          "name": "League Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256901559/movie.293x165.jpg?t=1725120199",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/885000/488967/1b90f6fe409a8dc81ca48668ab6d5691b0494ae3/1750593470/dash_av1.mpd?t=1725120199",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/488967/1b90f6fe409a8dc81ca48668ab6d5691b0494ae3/1750593470/dash_h264.mpd?t=1725120199",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/488967/1b90f6fe409a8dc81ca48668ab6d5691b0494ae3/1750593470/hls_264_master.m3u8?t=1725120199",
+          "highlight": false
+        },
+        {
+          "id": 256851787,
+          "name": "Muse Music Pack",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256851787/movie.293x165.jpg?t=1766073090",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/885000/401704/65f38e5635f90062e72eb7f32419e9f8b41a8b31/1750593326/dash_av1.mpd?t=1766073090",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/401704/65f38e5635f90062e72eb7f32419e9f8b41a8b31/1750593326/dash_h264.mpd?t=1766073090",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/401704/65f38e5635f90062e72eb7f32419e9f8b41a8b31/1750593326/hls_264_master.m3u8?t=1766073090",
+          "highlight": false
+        },
+        {
+          "id": 256833711,
+          "name": "Adrenaline",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256833711/movie.293x165.jpg?t=1766073091",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/885000/367828/e3f0e4b9e95b15b7c39a92b427a0787b12afced2/1750593312/dash_av1.mpd?t=1766073091",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/367828/e3f0e4b9e95b15b7c39a92b427a0787b12afced2/1750593312/dash_h264.mpd?t=1766073091",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/367828/e3f0e4b9e95b15b7c39a92b427a0787b12afced2/1750593312/hls_264_master.m3u8?t=1766073091",
+          "highlight": false
+        },
+        {
+          "id": 256796108,
+          "name": "Cyberpunk Essentials",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256796108/movie.293x165.jpg?t=1766073092",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/885000/303994/932642da512e665fa162725da8fca0b62b92a39b/1750593300/dash_av1.mpd?t=1766073092",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/303994/932642da512e665fa162725da8fca0b62b92a39b/1750593300/dash_h264.mpd?t=1766073092",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/303994/932642da512e665fa162725da8fca0b62b92a39b/1750593300/hls_264_master.m3u8?t=1766073092",
+          "highlight": false
+        },
+        {
+          "id": 256782923,
+          "name": "Electro Swing Pack",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256782923/movie.293x165.jpg?t=1766073093",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/885000/280688/5b93a2edf448a8d01bebd77b321711300eac673c/1750593285/dash_av1.mpd?t=1766073093",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/280688/5b93a2edf448a8d01bebd77b321711300eac673c/1750593285/dash_h264.mpd?t=1766073093",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/885000/280688/5b93a2edf448a8d01bebd77b321711300eac673c/1750593285/hls_264_master.m3u8?t=1766073093",
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 1302
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 31, 2019"
+      },
+      "support_info": {
+        "url": "http://www.synthridersvr.com/",
+        "email": "contact@klugeinteractive.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/885000?t=1769692304",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885000/page_bg_raw.jpg?t=1769692304",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "l"
+        },
+        "pegi": {
+          "rating": "12",
+          "descriptors": "Language"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Schimpfwörte"
+        }
+      }
+    }
+  }
+}

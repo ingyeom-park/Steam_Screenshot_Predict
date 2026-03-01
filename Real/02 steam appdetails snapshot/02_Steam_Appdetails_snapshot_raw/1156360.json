@@ -1,0 +1,259 @@
+{
+  "1156360": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Peaceful Days",
+      "steam_appid": 1156360,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        4175640
+      ],
+      "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/extras/ac7445eaf52ac6e3c00e85df62355faa.poster.avif?t=1766068460\" width=1170 height=412 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/extras/ac7445eaf52ac6e3c00e85df62355faa.webm?t=1766068460\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/extras/ac7445eaf52ac6e3c00e85df62355faa.mp4?t=1766068460\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Welcome to the peaceful town of Aurora, a quiet place where you can build the life you’ve always dreamed of. Grow your farm, make new friends, and take part in the flow of the seasons. Help restore the Aurora town to its former glory and bring peace back to the land! <br> <br>What do you can experience in this game:</p><p class=\"bb_paragraph\" >🏡 <strong>Build and expand</strong> your farm with crops, animals, and decorations. <br>💞 <strong>Connect with the townsfolk</strong> through meaningful relationships.<br>🎣 <strong>Enjoy relaxing activities</strong> like fishing, mining, cooking, and crafting. <br>🎉 <strong>Celebrate festivals</strong>, take on part-time jobs, and help shape Aurora’s future. <br>🌿<strong> Reveal the secrets behind Aurora town.</strong><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/extras/704af694b0a716bc844b4407eb770b9a.poster.avif?t=1766068460\" width=1170 height=730 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/extras/704af694b0a716bc844b4407eb770b9a.webm?t=1766068460\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/extras/704af694b0a716bc844b4407eb770b9a.mp4?t=1766068460\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/extras/ac7445eaf52ac6e3c00e85df62355faa.poster.avif?t=1766068460\" width=1170 height=412 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/extras/ac7445eaf52ac6e3c00e85df62355faa.webm?t=1766068460\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/extras/ac7445eaf52ac6e3c00e85df62355faa.mp4?t=1766068460\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Welcome to the peaceful town of Aurora, a quiet place where you can build the life you’ve always dreamed of. Grow your farm, make new friends, and take part in the flow of the seasons. Help restore the Aurora town to its former glory and bring peace back to the land! <br> <br>What do you can experience in this game:</p><p class=\"bb_paragraph\" >🏡 <strong>Build and expand</strong> your farm with crops, animals, and decorations. <br>💞 <strong>Connect with the townsfolk</strong> through meaningful relationships.<br>🎣 <strong>Enjoy relaxing activities</strong> like fishing, mining, cooking, and crafting. <br>🎉 <strong>Celebrate festivals</strong>, take on part-time jobs, and help shape Aurora’s future. <br>🌿<strong> Reveal the secrets behind Aurora town.</strong><br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/extras/704af694b0a716bc844b4407eb770b9a.poster.avif?t=1766068460\" width=1170 height=730 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/extras/704af694b0a716bc844b4407eb770b9a.webm?t=1766068460\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/extras/704af694b0a716bc844b4407eb770b9a.mp4?t=1766068460\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p>",
+      "short_description": "Take over a cozy local farm in the charming seaside town of Aurora, meet friendly locals, reveal the secrets and enjoy your new peaceful life!",
+      "supported_languages": "English, Vietnamese, French, Portuguese - Brazil",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/52b7d56b8166785bc17a094ce5ef4e8aa70b128e/header.jpg?t=1766068460",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/e70364f513cb2548fda75490e5abcc4500a1d9c3/capsule_231x87.jpg?t=1766068460",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/e70364f513cb2548fda75490e5abcc4500a1d9c3/capsule_184x69.jpg?t=1766068460",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 or Later<br></li><li><strong>Processor:</strong> Intel Core i3 10th or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 11<br></li><li><strong>Processor:</strong> Intel Core i5 12th or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1660 Super or equivalent<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 20.04 or later<br></li><li><strong>Processor:</strong> Intel Core i3 10th or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 22.04 or later<br></li><li><strong>Processor:</strong> Intel Core i5 12th or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1660 Super or equivalent<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "developers": [
+        "Nhat Nguyen"
+      ],
+      "publishers": [
+        "Nhat Nguyen"
+      ],
+      "demos": [
+        {
+          "appid": 3912930,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1699,
+        "final": 1699,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$16.99"
+      },
+      "packages": [
+        394359
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Peaceful Days",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 394359,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Peaceful Days - $16.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1699
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 43,
+          "description": "Remote Play on TV"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/ac23660575a64852c99729edb5f4725837a7a091/ss_ac23660575a64852c99729edb5f4725837a7a091.600x338.jpg?t=1766068460",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/ac23660575a64852c99729edb5f4725837a7a091/ss_ac23660575a64852c99729edb5f4725837a7a091.1920x1080.jpg?t=1766068460"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/095cf453e978e2defaff0ed2e53bc9bfc55a9316/ss_095cf453e978e2defaff0ed2e53bc9bfc55a9316.600x338.jpg?t=1766068460",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/095cf453e978e2defaff0ed2e53bc9bfc55a9316/ss_095cf453e978e2defaff0ed2e53bc9bfc55a9316.1920x1080.jpg?t=1766068460"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/911348644bcbad27d2c70895cc0e5324175cde7a/ss_911348644bcbad27d2c70895cc0e5324175cde7a.600x338.jpg?t=1766068460",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/911348644bcbad27d2c70895cc0e5324175cde7a/ss_911348644bcbad27d2c70895cc0e5324175cde7a.1920x1080.jpg?t=1766068460"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/6722831d79ac490340a298d00640a99ea0631e82/ss_6722831d79ac490340a298d00640a99ea0631e82.600x338.jpg?t=1766068460",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/6722831d79ac490340a298d00640a99ea0631e82/ss_6722831d79ac490340a298d00640a99ea0631e82.1920x1080.jpg?t=1766068460"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/81dc0914000759c0b3f101d4120ac8e41608a9d4/ss_81dc0914000759c0b3f101d4120ac8e41608a9d4.600x338.jpg?t=1766068460",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/81dc0914000759c0b3f101d4120ac8e41608a9d4/ss_81dc0914000759c0b3f101d4120ac8e41608a9d4.1920x1080.jpg?t=1766068460"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/5b6284be52664b99449dd951fa022205d2307816/ss_5b6284be52664b99449dd951fa022205d2307816.600x338.jpg?t=1766068460",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/5b6284be52664b99449dd951fa022205d2307816/ss_5b6284be52664b99449dd951fa022205d2307816.1920x1080.jpg?t=1766068460"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/7b5305209e17f9fdbf128df85b4f1054cf850816/ss_7b5305209e17f9fdbf128df85b4f1054cf850816.600x338.jpg?t=1766068460",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/7b5305209e17f9fdbf128df85b4f1054cf850816/ss_7b5305209e17f9fdbf128df85b4f1054cf850816.1920x1080.jpg?t=1766068460"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/0330962079a2363a7742de40a362a0209f248509/ss_0330962079a2363a7742de40a362a0209f248509.600x338.jpg?t=1766068460",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1156360/0330962079a2363a7742de40a362a0209f248509/ss_0330962079a2363a7742de40a362a0209f248509.1920x1080.jpg?t=1766068460"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257226962,
+          "name": "Peaceful Days (2025)",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257226962/1feecc727f77cdab39ca1a67d2004d71eb741b5e/movie_600x337.jpg?t=1762402313",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1156360/1882782606/178ab3dc8f2fed1fea762ae812fa97ead7ab7715/1762313394/dash_av1.mpd?t=1762402313",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1156360/1882782606/178ab3dc8f2fed1fea762ae812fa97ead7ab7715/1762313394/dash_h264.mpd?t=1762402313",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1156360/1882782606/178ab3dc8f2fed1fea762ae812fa97ead7ab7715/1762313394/hls_264_master.m3u8?t=1762402313",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 231
+      },
+      "achievements": {
+        "total": 48,
+        "highlighted": [
+          {
+            "name": "Good Start",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156360/3b5c2d70a254cc3c96e836b3266455857bc00f24.jpg"
+          },
+          {
+            "name": "Financial Stability",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156360/e0ec812d8e5a8f8b0bae9a045491cfe5a6c96bf2.jpg"
+          },
+          {
+            "name": "Becoming Rich",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156360/6220908b2faccf5d2872b989e47268fff0a79b30.jpg"
+          },
+          {
+            "name": "Millionaire",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156360/84f402b36631f4c300bb87ebc4da0b57c6173ca3.jpg"
+          },
+          {
+            "name": "Beginner Angler",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156360/ee98da301fd34cf5de39c561d06328dca85cce68.jpg"
+          },
+          {
+            "name": "Amateur Angler",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156360/32abd3e5e500469cbed539ebd79ecf92072ab180.jpg"
+          },
+          {
+            "name": "Talented Angler",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156360/febb958cb592e29e7085a60d145fbf6a2852304b.jpg"
+          },
+          {
+            "name": "Certified Angler",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156360/9a5d3e192e16a574a20aaa926b19efce8841fe13.jpg"
+          },
+          {
+            "name": "Beginner Forager",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156360/72a5c3a4f2b8c7de7a3018ba112265387f6c219d.jpg"
+          },
+          {
+            "name": "Amateur Forager",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1156360/e5e4301e1b6c4d1f1d4ebb2d69e95cfbc5ed9fa6.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Nov 6, 2025"
+      },
+      "support_info": {
+        "url": "https://x.com/peacefuldaysrpg",
+        "email": "sirogames.dev@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1156360?t=1766068460",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1156360?t=1766068460",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "l"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

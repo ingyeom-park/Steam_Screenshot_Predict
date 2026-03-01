@@ -1,0 +1,346 @@
+{
+  "1606180": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "下一站江湖Ⅱ",
+      "steam_appid": 1606180,
+      "required_age": "13",
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        4330480,
+        4276540,
+        4110930,
+        3978160,
+        3759070,
+        3627630,
+        3552810,
+        3402520,
+        3386320,
+        3349590,
+        3255940,
+        3169410,
+        3137140,
+        2998780,
+        3007440,
+        4330490,
+        3636310,
+        3422810,
+        3099590,
+        3323010,
+        2905470
+      ],
+      "detailed_description": "<h2 class=\"bb_tag\" ><strong>当前版本已完成的优化和修复：</strong></h2><p class=\"bb_paragraph\" >➤ 1、移动端适配已完成：现已完成所有苹果4G运存与6G运存手机的适配！从iPhone11至17都能流畅游戏！</p><p class=\"bb_paragraph\" >➤ 2、PC端性能优化已经完成：更新优化了运行内存占用、对显卡的性能消耗，1050TI显卡设备现在可以流畅体验了！</p><p class=\"bb_paragraph\" >➤ 3、BUG修复：已修复完老版本百分之九十的BUG（(如有遗漏还望大家及时联系我们)</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >【游戏简介】</h2><p class=\"bb_paragraph\" >（“创新工坊”现已推出，当前已更新14个免费玩法资料片）《下一站江湖Ⅱ》是白玉京工作室研发的第二款3D单机武侠游戏，是一款包含了沙盒式的剧情主角养成、无缝大地图任意采集建造模拟经营、骑砍Like式门派霸图玩法的开放世界游戏，无内购、可离网游玩！</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >在《下一站江湖Ⅱ》里，各位大侠可以自由闯荡江湖：</h2><p class=\"bb_paragraph\" >1. 角色扮演（RPG）：</p><p class=\"bb_paragraph\" >(1) 体验不同主角全新独立的百万字剧情及几十种结局；</p><p class=\"bb_paragraph\" >(2) 还可以开启数十种市井身份及不同身份独有剧情、规则玩法；</p><p class=\"bb_paragraph\" >(3) 数百种神功绝学等待收集与搭配，甚至能手搓十八式降龙等</p><p class=\"bb_paragraph\" >2. 模拟经营（Sect Builder+SLG）：开启江湖霸图体验不同门派的恩怨情仇、武学套路，模拟经营门派势力城镇矿山药田青楼赌坊等，在大世界一砖一瓦建设起独属于你自己的<strong>天下会、无双城</strong>；</p><p class=\"bb_paragraph\" >3. 大型战争（Large-scale wars）体验骑砍like式的门派霸图、武林争霸； </p><h2 class=\"bb_tag\" ><strong>未来版本规划</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/0d2679f3a5d5a640544ec7641775edf2.avif?t=1770964110\" width=1200 height=5204 /></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/a2ba10050afaee772f908d9a0ac27786.avif?t=1770964110\" width=882 height=2222 /></span></p><h2 class=\"bb_tag\" ><strong>已完成的版本更新：</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/48143b44726909b40ce3b5d713fc455d.avif?t=1770964110\" width=876 height=5488 /></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/8c88b5441895d0228d1752c422fd5d1c.avif?t=1770964110\" width=876 height=4552 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>【游戏背景】</strong></h2><p class=\"bb_paragraph\" >千年前，从七国争雄，再到三国鼎立。经过数百年和平之后，各国出现不同的问题，夏国兴盛，周国弱小，晋国稳定但无法发展。二十年前，周国皇子宗瑞改革，而晋国章武帝被囚禁。此时，掉阖谷一脉察觉到天下大乱的征兆，夏晋周之间的小型冲突逐渐升级，涉及到信仰归属。最终，以太初剑宗为首的道教、以嵩室山为首的佛教、以砚溪山庄为首的儒教，约定于雁门关论教，预示着天下大变的开始。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>【主角身份】</strong></h2><p class=\"bb_paragraph\" >非固定开局，你可以选择向往江湖的将门大少爷、寒窗十年的木讷书生、踏月留香的江湖浪子，逃婚出走的懵懂大小姐...</p><p class=\"bb_paragraph\" > </p><h2 class=\"bb_tag\" ><strong>【游戏特色】</strong></h2><p class=\"bb_paragraph\" ><strong>玩家可以自由选择不同出生，以不一样的人生去体验这百年盛世！每个出生都是完整独立的全新数十万字剧情</strong></p><p class=\"bb_paragraph\" >  <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/fdce4fad67d565cb204533084b19522a.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/fdce4fad67d565cb204533084b19522a.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/fdce4fad67d565cb204533084b19522a.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>玩家可使用轻功，草上飞、水上漂、踏浪行波、飞檐走壁。在江湖世界的各个角落尽情探索</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/420ea3a6d35200b70a10082b47f8d96c.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/420ea3a6d35200b70a10082b47f8d96c.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/420ea3a6d35200b70a10082b47f8d96c.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >玩家也可以游走在主线剧情之外，可自由拜入数十个门派，体验不同门派独有的剧情路线、恩怨情仇、武学流派、规则特色</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>玩家可在大世界里自由收集建造自己的建筑</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/88c9a2fb99ffd96793b58d549641ba9d.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/88c9a2fb99ffd96793b58d549641ba9d.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/88c9a2fb99ffd96793b58d549641ba9d.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>玩家可以骑砍like的形式争霸江湖</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/36aa200b33c5fde6eab900557880ae73.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/36aa200b33c5fde6eab900557880ae73.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/36aa200b33c5fde6eab900557880ae73.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>玩家还能再江湖里选择数十个不同的市井身份，体验各具特色的身份RPG剧情玩法和规则，以不同的角度笑傲江湖</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/a0ba2f83a5fff0c3354c5953f874a55c.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/a0ba2f83a5fff0c3354c5953f874a55c.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/a0ba2f83a5fff0c3354c5953f874a55c.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>江湖百业：青楼赌坊、朝堂黑市，模拟经营</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/212d99d6ab6acd69da4a4e7100fd9973.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/212d99d6ab6acd69da4a4e7100fd9973.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/212d99d6ab6acd69da4a4e7100fd9973.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>最真实的江湖武学修炼：经脉到功法、招式到内功周天运营，最畅快的武侠养成反馈；天、地、人三界绝学，不入流到一流的各种功法，数千种搭配路线，走出独一无二的大侠之路，并在华山论剑中天下扬名</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/3b760b0a0d5f196fb9285d7dce584e59.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/3b760b0a0d5f196fb9285d7dce584e59.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/3b760b0a0d5f196fb9285d7dce584e59.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/43247b740f0a1380c4f341419aaa9745.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/43247b740f0a1380c4f341419aaa9745.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/43247b740f0a1380c4f341419aaa9745.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>多种挑战模式：</strong></p><p class=\"bb_paragraph\" >真实江湖、险恶江湖、爽文江湖：从武学到词条，满足不同大侠的追求</p><p class=\"bb_paragraph\" >从江湖虾米到独步天下：解锁传奇之路</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/73959beab7ba98abcc97903f9b019c80.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/73959beab7ba98abcc97903f9b019c80.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/73959beab7ba98abcc97903f9b019c80.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >MOD编辑器，创新工坊：我们提供这个开放大世界舞台，与大侠们一起打造首款老滚5like的武侠大世界</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/ec44a15e975924497f9b6c705916b63f.poster.avif?t=1770964110\" width=572 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/ec44a15e975924497f9b6c705916b63f.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/ec44a15e975924497f9b6c705916b63f.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >庞大内容、及时更新：上线迄今已超过百更、八部大型玩法资料片！2025年我们将继续砥砺前行，用更多更好玩的内容来填充这个江湖大世界！</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >最后，白玉京工作室的所有小伙伴祝大家春节快乐！愿江湖伴你一路！</p><p class=\"bb_paragraph\" > </p><h2 class=\"bb_tag\" ><strong>【关注我们】</strong></h2><p class=\"bb_paragraph\" >官方微信好友（也可通过它加入下一站江湖II之华山论剑微信群） </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/2d2a84f45d00b8bfb934de997113f2e3.avif?t=1770964110\" width=298 height=298 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >关注bilibili: </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/fb0d94e9ebf92eca40befa77ab356c97.avif?t=1770964110\" width=299 height=299 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >——说武、说义、说英雄；谁是英雄？下一站江湖！                   </p><p class=\"bb_paragraph\" >  </p><p class=\"bb_paragraph\" >白玉京工作室 拜上</p>",
+      "about_the_game": "<h2 class=\"bb_tag\" ><strong>当前版本已完成的优化和修复：</strong></h2><p class=\"bb_paragraph\" >➤ 1、移动端适配已完成：现已完成所有苹果4G运存与6G运存手机的适配！从iPhone11至17都能流畅游戏！</p><p class=\"bb_paragraph\" >➤ 2、PC端性能优化已经完成：更新优化了运行内存占用、对显卡的性能消耗，1050TI显卡设备现在可以流畅体验了！</p><p class=\"bb_paragraph\" >➤ 3、BUG修复：已修复完老版本百分之九十的BUG（(如有遗漏还望大家及时联系我们)</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >【游戏简介】</h2><p class=\"bb_paragraph\" >（“创新工坊”现已推出，当前已更新14个免费玩法资料片）《下一站江湖Ⅱ》是白玉京工作室研发的第二款3D单机武侠游戏，是一款包含了沙盒式的剧情主角养成、无缝大地图任意采集建造模拟经营、骑砍Like式门派霸图玩法的开放世界游戏，无内购、可离网游玩！</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >在《下一站江湖Ⅱ》里，各位大侠可以自由闯荡江湖：</h2><p class=\"bb_paragraph\" >1. 角色扮演（RPG）：</p><p class=\"bb_paragraph\" >(1) 体验不同主角全新独立的百万字剧情及几十种结局；</p><p class=\"bb_paragraph\" >(2) 还可以开启数十种市井身份及不同身份独有剧情、规则玩法；</p><p class=\"bb_paragraph\" >(3) 数百种神功绝学等待收集与搭配，甚至能手搓十八式降龙等</p><p class=\"bb_paragraph\" >2. 模拟经营（Sect Builder+SLG）：开启江湖霸图体验不同门派的恩怨情仇、武学套路，模拟经营门派势力城镇矿山药田青楼赌坊等，在大世界一砖一瓦建设起独属于你自己的<strong>天下会、无双城</strong>；</p><p class=\"bb_paragraph\" >3. 大型战争（Large-scale wars）体验骑砍like式的门派霸图、武林争霸； </p><h2 class=\"bb_tag\" ><strong>未来版本规划</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/0d2679f3a5d5a640544ec7641775edf2.avif?t=1770964110\" width=1200 height=5204 /></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/a2ba10050afaee772f908d9a0ac27786.avif?t=1770964110\" width=882 height=2222 /></span></p><h2 class=\"bb_tag\" ><strong>已完成的版本更新：</strong></h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/48143b44726909b40ce3b5d713fc455d.avif?t=1770964110\" width=876 height=5488 /></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/8c88b5441895d0228d1752c422fd5d1c.avif?t=1770964110\" width=876 height=4552 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>【游戏背景】</strong></h2><p class=\"bb_paragraph\" >千年前，从七国争雄，再到三国鼎立。经过数百年和平之后，各国出现不同的问题，夏国兴盛，周国弱小，晋国稳定但无法发展。二十年前，周国皇子宗瑞改革，而晋国章武帝被囚禁。此时，掉阖谷一脉察觉到天下大乱的征兆，夏晋周之间的小型冲突逐渐升级，涉及到信仰归属。最终，以太初剑宗为首的道教、以嵩室山为首的佛教、以砚溪山庄为首的儒教，约定于雁门关论教，预示着天下大变的开始。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>【主角身份】</strong></h2><p class=\"bb_paragraph\" >非固定开局，你可以选择向往江湖的将门大少爷、寒窗十年的木讷书生、踏月留香的江湖浪子，逃婚出走的懵懂大小姐...</p><p class=\"bb_paragraph\" > </p><h2 class=\"bb_tag\" ><strong>【游戏特色】</strong></h2><p class=\"bb_paragraph\" ><strong>玩家可以自由选择不同出生，以不一样的人生去体验这百年盛世！每个出生都是完整独立的全新数十万字剧情</strong></p><p class=\"bb_paragraph\" >  <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/fdce4fad67d565cb204533084b19522a.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/fdce4fad67d565cb204533084b19522a.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/fdce4fad67d565cb204533084b19522a.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>玩家可使用轻功，草上飞、水上漂、踏浪行波、飞檐走壁。在江湖世界的各个角落尽情探索</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/420ea3a6d35200b70a10082b47f8d96c.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/420ea3a6d35200b70a10082b47f8d96c.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/420ea3a6d35200b70a10082b47f8d96c.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >玩家也可以游走在主线剧情之外，可自由拜入数十个门派，体验不同门派独有的剧情路线、恩怨情仇、武学流派、规则特色</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>玩家可在大世界里自由收集建造自己的建筑</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/88c9a2fb99ffd96793b58d549641ba9d.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/88c9a2fb99ffd96793b58d549641ba9d.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/88c9a2fb99ffd96793b58d549641ba9d.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>玩家可以骑砍like的形式争霸江湖</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/36aa200b33c5fde6eab900557880ae73.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/36aa200b33c5fde6eab900557880ae73.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/36aa200b33c5fde6eab900557880ae73.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>玩家还能再江湖里选择数十个不同的市井身份，体验各具特色的身份RPG剧情玩法和规则，以不同的角度笑傲江湖</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/a0ba2f83a5fff0c3354c5953f874a55c.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/a0ba2f83a5fff0c3354c5953f874a55c.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/a0ba2f83a5fff0c3354c5953f874a55c.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>江湖百业：青楼赌坊、朝堂黑市，模拟经营</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/212d99d6ab6acd69da4a4e7100fd9973.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/212d99d6ab6acd69da4a4e7100fd9973.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/212d99d6ab6acd69da4a4e7100fd9973.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>最真实的江湖武学修炼：经脉到功法、招式到内功周天运营，最畅快的武侠养成反馈；天、地、人三界绝学，不入流到一流的各种功法，数千种搭配路线，走出独一无二的大侠之路，并在华山论剑中天下扬名</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/3b760b0a0d5f196fb9285d7dce584e59.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/3b760b0a0d5f196fb9285d7dce584e59.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/3b760b0a0d5f196fb9285d7dce584e59.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/43247b740f0a1380c4f341419aaa9745.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/43247b740f0a1380c4f341419aaa9745.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/43247b740f0a1380c4f341419aaa9745.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>多种挑战模式：</strong></p><p class=\"bb_paragraph\" >真实江湖、险恶江湖、爽文江湖：从武学到词条，满足不同大侠的追求</p><p class=\"bb_paragraph\" >从江湖虾米到独步天下：解锁传奇之路</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/73959beab7ba98abcc97903f9b019c80.poster.avif?t=1770964110\" width=568 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/73959beab7ba98abcc97903f9b019c80.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/73959beab7ba98abcc97903f9b019c80.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >MOD编辑器，创新工坊：我们提供这个开放大世界舞台，与大侠们一起打造首款老滚5like的武侠大世界</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/ec44a15e975924497f9b6c705916b63f.poster.avif?t=1770964110\" width=572 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/ec44a15e975924497f9b6c705916b63f.webm?t=1770964110\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/ec44a15e975924497f9b6c705916b63f.mp4?t=1770964110\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >庞大内容、及时更新：上线迄今已超过百更、八部大型玩法资料片！2025年我们将继续砥砺前行，用更多更好玩的内容来填充这个江湖大世界！</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >最后，白玉京工作室的所有小伙伴祝大家春节快乐！愿江湖伴你一路！</p><p class=\"bb_paragraph\" > </p><h2 class=\"bb_tag\" ><strong>【关注我们】</strong></h2><p class=\"bb_paragraph\" >官方微信好友（也可通过它加入下一站江湖II之华山论剑微信群） </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/2d2a84f45d00b8bfb934de997113f2e3.avif?t=1770964110\" width=298 height=298 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >关注bilibili: </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/extras/fb0d94e9ebf92eca40befa77ab356c97.avif?t=1770964110\" width=299 height=299 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >——说武、说义、说英雄；谁是英雄？下一站江湖！                   </p><p class=\"bb_paragraph\" >  </p><p class=\"bb_paragraph\" >白玉京工作室 拜上</p>",
+      "short_description": "（“Steam成就”现已推出，当前已更新15个免费玩法资料片）《下一站江湖Ⅱ》是白玉京工作室研发的第二款3D单机武侠游戏，是一款包含了沙盒式的剧情主角养成、无缝大地图任意采集建造模拟经营、骑砍Like式门派霸图玩法的开放世界游戏，无内购、可离网游玩！",
+      "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/bcfd7067298104bc11465fea1d1f0ff19721ef15/header_alt_assets_7.jpg?t=1770964110",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/7f37a13fdd1146d24d3250577ab77bb0cf520371/capsule_231x87_alt_assets_7.jpg?t=1770964110",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/7f37a13fdd1146d24d3250577ab77bb0cf520371/capsule_184x69_alt_assets_7.jpg?t=1770964110",
+      "website": "http://jh.inmotiongame.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 需要 64 位处理器和操作系统<br></li><li><strong>Processor:</strong> i7-6700以上或同性能<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX1050Ti或同性能<br></li><li><strong>Storage:</strong> 40 GB available space<br></li><li><strong>Sound Card:</strong> Direct Sound 兼容之声卡</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 需要 64 位处理器和操作系统<br></li><li><strong>Processor:</strong> i5-12500或同性能以上<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX2060或同性能以上<br></li><li><strong>Storage:</strong> 40 GB available space<br></li><li><strong>Sound Card:</strong> Direct Sound 兼容之声卡</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "白玉京工作室"
+      ],
+      "publishers": [
+        "白玉京工作室"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        569567
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 下一站江湖Ⅱ",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 569567,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "下一站江湖Ⅱ - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 51,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/45a3964a266c20567542441944c5675fd56f5023/ss_45a3964a266c20567542441944c5675fd56f5023.600x338.jpg?t=1770964110",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/45a3964a266c20567542441944c5675fd56f5023/ss_45a3964a266c20567542441944c5675fd56f5023.1920x1080.jpg?t=1770964110"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/80e0e55fbe970ed8e55810caa8c007b91962e784/ss_80e0e55fbe970ed8e55810caa8c007b91962e784.600x338.jpg?t=1770964110",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/80e0e55fbe970ed8e55810caa8c007b91962e784/ss_80e0e55fbe970ed8e55810caa8c007b91962e784.1920x1080.jpg?t=1770964110"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/cc6c3cfaa52058dd856b20f8b59a43bd15b9cb6a/ss_cc6c3cfaa52058dd856b20f8b59a43bd15b9cb6a.600x338.jpg?t=1770964110",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/cc6c3cfaa52058dd856b20f8b59a43bd15b9cb6a/ss_cc6c3cfaa52058dd856b20f8b59a43bd15b9cb6a.1920x1080.jpg?t=1770964110"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/01d2cb0fa9c6f5c5ce5f7ca3a09a2a73fe803fa6/ss_01d2cb0fa9c6f5c5ce5f7ca3a09a2a73fe803fa6.600x338.jpg?t=1770964110",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/01d2cb0fa9c6f5c5ce5f7ca3a09a2a73fe803fa6/ss_01d2cb0fa9c6f5c5ce5f7ca3a09a2a73fe803fa6.1920x1080.jpg?t=1770964110"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/d6467120b871ae17bfe13aab2e509d49ab47ec4a/ss_d6467120b871ae17bfe13aab2e509d49ab47ec4a.600x338.jpg?t=1770964110",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/d6467120b871ae17bfe13aab2e509d49ab47ec4a/ss_d6467120b871ae17bfe13aab2e509d49ab47ec4a.1920x1080.jpg?t=1770964110"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257016256,
+          "name": "《下一站江湖Ⅱ》宣传",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257016256/bfd9c84b7f69c262733bd978037cdf8b97aab326/movie_600x337.jpg?t=1768905867",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1606180/634431811/771c48781c5a5a5cbabdffdd6c139106cddc9ede/1768901600/dash_av1.mpd?t=1768905867",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1606180/634431811/771c48781c5a5a5cbabdffdd6c139106cddc9ede/1768901600/dash_h264.mpd?t=1768905867",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1606180/634431811/771c48781c5a5a5cbabdffdd6c139106cddc9ede/1768901600/hls_264_master.m3u8?t=1768905867",
+          "highlight": true
+        },
+        {
+          "id": 257136291,
+          "name": "《下一站江湖Ⅱ》宣传片",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257136291/128a9949d543fc1d8ea2f5ae17b842ddf88c71f5/movie_600x337.jpg?t=1746612748",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1606180/1395042729/5ff92022dbebe358aa3abb98987d63a3beaf2a6a/1751009171/dash_av1.mpd?t=1746612748",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1606180/1395042729/5ff92022dbebe358aa3abb98987d63a3beaf2a6a/1751009171/dash_h264.mpd?t=1746612748",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1606180/1395042729/5ff92022dbebe358aa3abb98987d63a3beaf2a6a/1751009171/hls_264_master.m3u8?t=1746612748",
+          "highlight": true
+        },
+        {
+          "id": 257016265,
+          "name": "《下一站江湖Ⅱ》宣传",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257016265/bfd9c84b7f69c262733bd978037cdf8b97aab326/movie_600x337.jpg?t=1768905868",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1606180/1376789294/771c48781c5a5a5cbabdffdd6c139106cddc9ede/1768903746/dash_av1.mpd?t=1768905868",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1606180/1376789294/771c48781c5a5a5cbabdffdd6c139106cddc9ede/1768903746/dash_h264.mpd?t=1768905868",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1606180/1376789294/771c48781c5a5a5cbabdffdd6c139106cddc9ede/1768903746/hls_264_master.m3u8?t=1768905868",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 8058
+      },
+      "achievements": {
+        "total": 111,
+        "highlighted": [
+          {
+            "name": "Convoy Leader · Chief Convoy Master",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606180/1d36876dd9aad0dc4bef34504d40924c17b62f13.jpg"
+          },
+          {
+            "name": "Martial Arts of the Military Strategist    ",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606180/42e21f22f467016f26c3390869d1302d9d3de6ad.jpg"
+          },
+          {
+            "name": "Bounty Hunter · Divine Catcher    ",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606180/b03717114260e809756957b488afaa2fbf7d2df8.jpg"
+          },
+          {
+            "name": "Unwavering Resilience    ",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606180/875f167a1e336e9184886e2909565e951a3e6bb5.jpg"
+          },
+          {
+            "name": "Talented and Cultured    ",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606180/2fd9cf5c91b990606617c90525e14a9d622f9582.jpg"
+          },
+          {
+            "name": "Emerald-Drenched   ",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606180/78dff51e48206999f75e93a44f31dc177eec8e73.jpg"
+          },
+          {
+            "name": "Court Noble    ",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606180/bb3fffca750a6316d2c0294af67fc267f901bf5a.jpg"
+          },
+          {
+            "name": "Scarlet-Flamed    ",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606180/6f86754f37929c4b21f775db1afa51c76ca67b98.jpg"
+          },
+          {
+            "name": "The Mystery of Chongwu    ",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606180/612ebd64056c3c67fc527c2c361b3f696925216f.jpg"
+          },
+          {
+            "name": "Witty and Eloquent    ",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1606180/0e38b310dd47b70d3597874de525cb865f52f9bf.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Apr 17, 2024"
+      },
+      "support_info": {
+        "url": "jh.inmotiongame.com",
+        "email": "inmotiongame@inmotiongame.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1606180?t=1770964110",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1606180/page_bg_raw.jpg?t=1770964110",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "cadpa": {
+          "rating": "16",
+          "required_age": "16",
+          "use_age_gate": "true"
+        },
+        "esrb": {
+          "rating": "t",
+          "use_age_gate": "true",
+          "required_age": "13"
+        },
+        "pegi": {
+          "rating": "12",
+          "use_age_gate": "true",
+          "required_age": "12"
+        },
+        "bbfc": {
+          "rating": "12",
+          "use_age_gate": "true",
+          "required_age": "12"
+        },
+        "usk": {
+          "rating": "12",
+          "use_age_gate": "true",
+          "required_age": "12"
+        },
+        "oflc": {
+          "rating": "ma15",
+          "use_age_gate": "true",
+          "required_age": "15"
+        },
+        "nzoflc": {
+          "rating": "r13",
+          "use_age_gate": "true",
+          "required_age": "13"
+        },
+        "cero": {
+          "rating": "b",
+          "use_age_gate": "true",
+          "required_age": "12"
+        },
+        "kgrb": {
+          "rating": "12",
+          "use_age_gate": "true",
+          "required_age": "12"
+        },
+        "dejus": {
+          "rating": "12",
+          "use_age_gate": "true",
+          "required_age": "12"
+        },
+        "mda": {
+          "rating": "AA16",
+          "use_age_gate": "true",
+          "required_age": "16"
+        },
+        "fpb": {
+          "rating": "13",
+          "use_age_gate": "true",
+          "required_age": "13"
+        },
+        "csrr": {
+          "rating": "C12",
+          "use_age_gate": "true",
+          "required_age": "12"
+        },
+        "crl": {
+          "rating": "12",
+          "use_age_gate": "true",
+          "required_age": "12"
+        },
+        "agcom": {
+          "rating": "12",
+          "use_age_gate": "true",
+          "required_age": "12"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

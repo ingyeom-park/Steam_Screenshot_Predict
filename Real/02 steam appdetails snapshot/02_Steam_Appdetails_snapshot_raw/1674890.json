@@ -1,0 +1,318 @@
+{
+  "1674890": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "👑 Idle Calibur 👑（选王之剑）",
+      "steam_appid": 1674890,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1701860,
+        1701861,
+        1701862
+      ],
+      "detailed_description": "<h1>Need know</h1><p><strong>I'm trying to transform the English version independently，It may not be ideal now， Please consider it carefully before buying！！</strong><br><br>You can also view the teaching through the MENU<br>Tip: use automatic save and cloud save<br>save location is /www/save，backups save is config(back)</p><br><h1>About the Game</h1><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >《Idle Calibur》is A <strong>Pixel Rogue</strong> + <strong>RealTime War</strong> + <strong>Idle Play</strong> + <strong>Open World</strong> + <strong>RPG strategy</strong> Animation cute game 。 </p><p class=\"bb_paragraph\" >（ps. This game is bought out！Top up money is not required。）</p><p class=\"bb_paragraph\" >（Have Japanese dubbing and defeat pictures，Cloud save、WorkShop）</p><p class=\"bb_paragraph\" >（Idle Battle，can be automatic or manual，Whatever you like）</p><p class=\"bb_paragraph\" >（Swimsuit 、Furry、Extra DLC hero ，Please go to the Pub Get  DLC hero）</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >·Heroes with their own characteristics，Enjoy Gacha，And the marriage system。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >·Random events, hundreds of relics, millions of random equip, always surprises！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >·Build city, recruit heroes, attack the city, challenge the boss</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >·Futures trading, endless tower，Skill tree，</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/47e65433ab8e36b0c51fe8c20a089c3e.poster.avif?t=1767351732\" width=402 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/47e65433ab8e36b0c51fe8c20a089c3e.webm?t=1767351732\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/47e65433ab8e36b0c51fe8c20a089c3e.mp4?t=1767351732\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/09ce28e9662d5f8032d39769741e3346.poster.avif?t=1767351732\" width=476 height=266 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/09ce28e9662d5f8032d39769741e3346.webm?t=1767351732\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/09ce28e9662d5f8032d39769741e3346.mp4?t=1767351732\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/49305067e0421abf44fc082ad7edfac6.poster.avif?t=1767351732\" width=434 height=234 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/49305067e0421abf44fc082ad7edfac6.webm?t=1767351732\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/49305067e0421abf44fc082ad7edfac6.mp4?t=1767351732\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >My Email <a href=\"mailto:【623414226@qq.com】\">【623414226@qq.com】</a></p><p class=\"bb_paragraph\" >（This game is completed by me alone!）</p><p class=\"bb_paragraph\" >（I hope you like it! If you have any questions, please forgive me and give feedback）</p>",
+      "about_the_game": "<p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >《Idle Calibur》is A <strong>Pixel Rogue</strong> + <strong>RealTime War</strong> + <strong>Idle Play</strong> + <strong>Open World</strong> + <strong>RPG strategy</strong> Animation cute game 。 </p><p class=\"bb_paragraph\" >（ps. This game is bought out！Top up money is not required。）</p><p class=\"bb_paragraph\" >（Have Japanese dubbing and defeat pictures，Cloud save、WorkShop）</p><p class=\"bb_paragraph\" >（Idle Battle，can be automatic or manual，Whatever you like）</p><p class=\"bb_paragraph\" >（Swimsuit 、Furry、Extra DLC hero ，Please go to the Pub Get  DLC hero）</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >·Heroes with their own characteristics，Enjoy Gacha，And the marriage system。</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >·Random events, hundreds of relics, millions of random equip, always surprises！</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >·Build city, recruit heroes, attack the city, challenge the boss</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >·Futures trading, endless tower，Skill tree，</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/47e65433ab8e36b0c51fe8c20a089c3e.poster.avif?t=1767351732\" width=402 height=220 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/47e65433ab8e36b0c51fe8c20a089c3e.webm?t=1767351732\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/47e65433ab8e36b0c51fe8c20a089c3e.mp4?t=1767351732\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/09ce28e9662d5f8032d39769741e3346.poster.avif?t=1767351732\" width=476 height=266 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/09ce28e9662d5f8032d39769741e3346.webm?t=1767351732\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/09ce28e9662d5f8032d39769741e3346.mp4?t=1767351732\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/49305067e0421abf44fc082ad7edfac6.poster.avif?t=1767351732\" width=434 height=234 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/49305067e0421abf44fc082ad7edfac6.webm?t=1767351732\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/extras/49305067e0421abf44fc082ad7edfac6.mp4?t=1767351732\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >My Email <a href=\"mailto:【623414226@qq.com】\">【623414226@qq.com】</a></p><p class=\"bb_paragraph\" >（This game is completed by me alone!）</p><p class=\"bb_paragraph\" >（I hope you like it! If you have any questions, please forgive me and give feedback）</p>",
+      "short_description": "《Idle Calibur》is A Pixel Rogue + RealTime War + Idle Play + Open World + RPG strategy Animation cute game 。 （Idle Battle，Whatever you like） Only one developer! Please consider it carefully before buying",
+      "supported_languages": "Simplified Chinese, English",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/header.jpg?t=1767351732",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/capsule_231x87.jpg?t=1767351732",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/capsule_184x69.jpg?t=1767351732",
+      "website": "https://space.bilibili.com/4296645",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> <br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Additional Notes:</strong> can change the battle size in the options， display question please Option LightEffect is OFF，The black screen flashes. Please wait a little longer ，There are still problems. Try win7 compatibility mode</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "绝汪"
+      ],
+      "publishers": [
+        "绝汪",
+        "Mecrew Games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 799,
+        "final": 799,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$7.99"
+      },
+      "packages": [
+        595481
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 👑 Idle Calibur 👑（选王之剑）",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 595481,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "选王之剑 - $7.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 799
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 51,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 14,
+          "description": "Commentary available"
+        },
+        {
+          "id": 41,
+          "description": "Remote Play on Phone"
+        },
+        {
+          "id": 42,
+          "description": "Remote Play on Tablet"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_55708523060c7ed5efbdbc39eae601e8552a9c7d.600x338.jpg?t=1767351732",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_55708523060c7ed5efbdbc39eae601e8552a9c7d.1920x1080.jpg?t=1767351732"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_5030b4a441fe922aa390b323d3f519c00d0acf09.600x338.jpg?t=1767351732",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_5030b4a441fe922aa390b323d3f519c00d0acf09.1920x1080.jpg?t=1767351732"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_5e15ccd50f8ed48343c4a8660eb4fd643e79470b.600x338.jpg?t=1767351732",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_5e15ccd50f8ed48343c4a8660eb4fd643e79470b.1920x1080.jpg?t=1767351732"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_0cc137407f652b502d725936c7758d2f246a50bf.600x338.jpg?t=1767351732",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_0cc137407f652b502d725936c7758d2f246a50bf.1920x1080.jpg?t=1767351732"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_2c8609a8e9269864f67b4c5f533630db57abba7a.600x338.jpg?t=1767351732",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_2c8609a8e9269864f67b4c5f533630db57abba7a.1920x1080.jpg?t=1767351732"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_75d5e654db34f0e0b27fa9c473aa71cae68601a2.600x338.jpg?t=1767351732",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_75d5e654db34f0e0b27fa9c473aa71cae68601a2.1920x1080.jpg?t=1767351732"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_12a2e85a7db6f9cdbe75b0348ddc637d247124a6.600x338.jpg?t=1767351732",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_12a2e85a7db6f9cdbe75b0348ddc637d247124a6.1920x1080.jpg?t=1767351732"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_6df2bb9d331920f186aac00887fab550abc0257c.600x338.jpg?t=1767351732",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_6df2bb9d331920f186aac00887fab550abc0257c.1920x1080.jpg?t=1767351732"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_66663a5dc51173f533f37777368008278e3b8579.600x338.jpg?t=1767351732",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_66663a5dc51173f533f37777368008278e3b8579.1920x1080.jpg?t=1767351732"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_82804399694af2808d8ca7b816a585af89370c46.600x338.jpg?t=1767351732",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_82804399694af2808d8ca7b816a585af89370c46.1920x1080.jpg?t=1767351732"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_0fd62f93e3c0657d089cd38d9ae0d871e98a4b1b.600x338.jpg?t=1767351732",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_0fd62f93e3c0657d089cd38d9ae0d871e98a4b1b.1920x1080.jpg?t=1767351732"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_ff569304df734e70b052c6f5a24a8e4b67e02874.600x338.jpg?t=1767351732",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_ff569304df734e70b052c6f5a24a8e4b67e02874.1920x1080.jpg?t=1767351732"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_a1b6b07ef8027831bce5a911c617037045fa6280.600x338.jpg?t=1767351732",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1674890/ss_a1b6b07ef8027831bce5a911c617037045fa6280.1920x1080.jpg?t=1767351732"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256868555,
+          "name": "1.0EN",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256868555/movie.293x165.jpg?t=1641884837",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1674890/430731/5d873ca249e8a1eaf0532a1d4963d2e09c932fef/1751018061/dash_av1.mpd?t=1641884837",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1674890/430731/5d873ca249e8a1eaf0532a1d4963d2e09c932fef/1751018061/dash_h264.mpd?t=1641884837",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1674890/430731/5d873ca249e8a1eaf0532a1d4963d2e09c932fef/1751018061/hls_264_master.m3u8?t=1641884837",
+          "highlight": true
+        },
+        {
+          "id": 256840647,
+          "name": "PV",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256840647/movie.293x165.jpg?t=1637722582",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1674890/380324/8ef00b382bb941d5303c3a10043e3b4c92a39e84/1751018056/dash_av1.mpd?t=1637722582",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1674890/380324/8ef00b382bb941d5303c3a10043e3b4c92a39e84/1751018056/dash_h264.mpd?t=1637722582",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1674890/380324/8ef00b382bb941d5303c3a10043e3b4c92a39e84/1751018056/hls_264_master.m3u8?t=1637722582",
+          "highlight": true
+        },
+        {
+          "id": 256854593,
+          "name": "PV2",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256854593/movie.293x165.jpg?t=1633444473",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1674890/406755/40368a54acbd88fca92b45aff0f0f1d7e1900994/1751018060/dash_av1.mpd?t=1633444473",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1674890/406755/40368a54acbd88fca92b45aff0f0f1d7e1900994/1751018060/dash_h264.mpd?t=1633444473",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1674890/406755/40368a54acbd88fca92b45aff0f0f1d7e1900994/1751018060/hls_264_master.m3u8?t=1633444473",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 1234
+      },
+      "achievements": {
+        "total": 24,
+        "highlighted": [
+          {
+            "name": "愚者",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1674890/3f0a0e1d48b3cc12a8d0bc3990aac22ae120eb16.jpg"
+          },
+          {
+            "name": "魔术师",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1674890/010ce1a2f832d2429c98fc656eb82924a0315f10.jpg"
+          },
+          {
+            "name": "女祭司",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1674890/b2ae8f6319656fe5e50b911679bace866d4adfb2.jpg"
+          },
+          {
+            "name": "女皇",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1674890/30cae741fde7008a595f370e29b271b8ac411e47.jpg"
+          },
+          {
+            "name": "皇帝",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1674890/457314272cae7ad6df974a2fa35026abbb117160.jpg"
+          },
+          {
+            "name": "教皇",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1674890/5dbb79f6f9d9395d16cf957409756e302d57ca27.jpg"
+          },
+          {
+            "name": "恋人",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1674890/d7445652b42d49d87e0d1e04691063a4930ab9a2.jpg"
+          },
+          {
+            "name": "战车",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1674890/1ef7b7676af6763b12687dbec3f588fb702564e2.jpg"
+          },
+          {
+            "name": "正义",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1674890/7a4c30b26d7ce8720f2a4117a525449668ef24d1.jpg"
+          },
+          {
+            "name": "隐者",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1674890/9ca24c9a03e1221d5913f97a7823ea74340a424f.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jan 14, 2022"
+      },
+      "support_info": {
+        "url": "",
+        "email": "623414226@qq.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1674890?t=1767351732",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1674890?t=1767351732",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "l"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

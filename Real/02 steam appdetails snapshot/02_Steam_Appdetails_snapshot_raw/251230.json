@@ -1,0 +1,315 @@
+{
+  "251230": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Livelock",
+      "steam_appid": 251230,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        518370
+      ],
+      "detailed_description": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/extras/337154be3d61cc53b0b98ffc2863ba5e.poster.avif?t=1712608261\" width=608 height=342 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/extras/337154be3d61cc53b0b98ffc2863ba5e.webm?t=1712608261\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/extras/337154be3d61cc53b0b98ffc2863ba5e.mp4?t=1712608261\" type=\"video/mp4\"></video></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/extras/679853f46a4ef97f0e8ab6e288ba96a4.avif?t=1712608261\" width=608 height=1322 /></span>",
+      "about_the_game": "<span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/extras/337154be3d61cc53b0b98ffc2863ba5e.poster.avif?t=1712608261\" width=608 height=342 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/extras/337154be3d61cc53b0b98ffc2863ba5e.webm?t=1712608261\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/extras/337154be3d61cc53b0b98ffc2863ba5e.mp4?t=1712608261\" type=\"video/mp4\"></video></span><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/extras/679853f46a4ef97f0e8ab6e288ba96a4.avif?t=1712608261\" width=608 height=1322 /></span>",
+      "short_description": "Livelock is a co-operative top-down shooter where you play solo or with up to two allies to break the cycle of infinite war between machines. As one of the remaining Capital Intellects, your role is to unlock Eden and revive humanity.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "reviews": "“Easily one of the top five games I’ve played this year and quite possibly the best top-down shooter I’ve ever played.”<br>90 – Brash Games<br><br>“The game is quick and easy to get into, and the action is non-stop and fun as hell.”<br>Thumbs Up – MMO Play<br><br>“An energetic shooter with a lot of charm. We thoroughly enjoyed it!”<br>8.5 – Game Insider<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/header.jpg?t=1712608261",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/capsule_231x87.jpg?t=1712608261",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/capsule_184x69.jpg?t=1712608261",
+      "website": "http://www.playlivelock.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Vista 64bit, Window 7 64bit, Windows 8 64bit, Windows 10 64bit (32bit OS not supported)<br></li><li><strong>Processor:</strong> AMD/INTEL Dual-Core 2.4 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 650 / AMD Radeon HD 7800 or equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Window 7 64bit, Windows 8 64bit, Windows 10 64bit (32bit OS not supported)<br></li><li><strong>Processor:</strong> Intel Core i5-2500K @ 3.3 GHz or AMD FX-8350 @ 4.0 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 670 / AMD Radeon HD 7870 or equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 8 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "© 2017 Perfect World Entertainment Inc. All rights reserved. Developed by Tuque Games. Published by Perfect World Entertainment.",
+      "developers": [
+        "Tuque Games"
+      ],
+      "publishers": [
+        "Arc Games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        30689
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Livelock",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 30689,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Livelock - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": {
+        "score": 73,
+        "url": "https://www.metacritic.com/game/pc/livelock?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 43,
+          "description": "Remote Play on TV"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_f144887a9a446105b79a4b3a513e2e4bc51adb65.600x338.jpg?t=1712608261",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_f144887a9a446105b79a4b3a513e2e4bc51adb65.1920x1080.jpg?t=1712608261"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_b6957015573b0f0072ee0a8897bee42ca5de7c02.600x338.jpg?t=1712608261",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_b6957015573b0f0072ee0a8897bee42ca5de7c02.1920x1080.jpg?t=1712608261"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_98ff9f80fe0b164553de76d536534ed0f8552ae0.600x338.jpg?t=1712608261",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_98ff9f80fe0b164553de76d536534ed0f8552ae0.1920x1080.jpg?t=1712608261"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_29918f3712f03c3c3b00dae5519a79bba2954733.600x338.jpg?t=1712608261",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_29918f3712f03c3c3b00dae5519a79bba2954733.1920x1080.jpg?t=1712608261"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_946d84dad854d75cbe59afb94f4444bea353dd9a.600x338.jpg?t=1712608261",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_946d84dad854d75cbe59afb94f4444bea353dd9a.1920x1080.jpg?t=1712608261"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_6b739d2424bb1367f9145b7bbb8d01b82b4641cb.600x338.jpg?t=1712608261",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_6b739d2424bb1367f9145b7bbb8d01b82b4641cb.1920x1080.jpg?t=1712608261"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_59c95aff8124f47126121d949825e75483ecbaa1.600x338.jpg?t=1712608261",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_59c95aff8124f47126121d949825e75483ecbaa1.1920x1080.jpg?t=1712608261"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_4ce5b009fd20f218ace2112b8ed4a8ec60482c85.600x338.jpg?t=1712608261",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_4ce5b009fd20f218ace2112b8ed4a8ec60482c85.1920x1080.jpg?t=1712608261"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_c993908aa405213cad0281401f41da6c92c6632f.600x338.jpg?t=1712608261",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_c993908aa405213cad0281401f41da6c92c6632f.1920x1080.jpg?t=1712608261"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_10368124c95598d8c9de6e53d99cdd0bb783a1a3.600x338.jpg?t=1712608261",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/ss_10368124c95598d8c9de6e53d99cdd0bb783a1a3.1920x1080.jpg?t=1712608261"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256686075,
+          "name": "Livelock - Official Accolades Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256686075/movie.293x165.jpg?t=1496186529",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/251230/105392/1531a2840376714694f5056d16532a3661ea7b23/1751251056/dash_av1.mpd?t=1496186529",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/251230/105392/1531a2840376714694f5056d16532a3661ea7b23/1751251056/dash_h264.mpd?t=1496186529",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/251230/105392/1531a2840376714694f5056d16532a3661ea7b23/1751251056/hls_264_master.m3u8?t=1496186529",
+          "highlight": true
+        },
+        {
+          "id": 256669343,
+          "name": "Livelock - Official Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256669343/movie.293x165.jpg?t=1472598599",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/251230/69842/8ce1a7e2a9de117215612b571bfff0b90c636bbf/1751251055/dash_av1.mpd?t=1472598599",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/251230/69842/8ce1a7e2a9de117215612b571bfff0b90c636bbf/1751251055/dash_h264.mpd?t=1472598599",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/251230/69842/8ce1a7e2a9de117215612b571bfff0b90c636bbf/1751251055/hls_264_master.m3u8?t=1472598599",
+          "highlight": true
+        },
+        {
+          "id": 2033854,
+          "name": "Livelock - Official Announce Trailer ESRB",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2033854/movie.293x165.jpg?t=1464389765",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/251230/23886/c9ee9e5b5c8397a4a6865b5566aa0b5ae1f583f4/1751251055/dash_av1.mpd?t=1464389765",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/251230/23886/c9ee9e5b5c8397a4a6865b5566aa0b5ae1f583f4/1751251055/dash_h264.mpd?t=1464389765",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/251230/23886/c9ee9e5b5c8397a4a6865b5566aa0b5ae1f583f4/1751251055/hls_264_master.m3u8?t=1464389765",
+          "highlight": true
+        },
+        {
+          "id": 256664368,
+          "name": "Livelock - Official Vanguard Reveal Trailer ESRB",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256664368/movie.293x165.jpg?t=1464389775",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/251230/59496/e0cb167cb99f7f782405e833c5e26cc1b7001088/1751251055/dash_av1.mpd?t=1464389775",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/251230/59496/e0cb167cb99f7f782405e833c5e26cc1b7001088/1751251055/dash_h264.mpd?t=1464389775",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/251230/59496/e0cb167cb99f7f782405e833c5e26cc1b7001088/1751251055/hls_264_master.m3u8?t=1464389775",
+          "highlight": true
+        },
+        {
+          "id": 256664369,
+          "name": "Livelock - Official Catalyst Reveal Trailer ESRB",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256664369/movie.293x165.jpg?t=1464389785",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/251230/59497/5a967637fa35eec322cb5ff8977d73538fedd3d6/1751251055/dash_av1.mpd?t=1464389785",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/251230/59497/5a967637fa35eec322cb5ff8977d73538fedd3d6/1751251055/dash_h264.mpd?t=1464389785",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/251230/59497/5a967637fa35eec322cb5ff8977d73538fedd3d6/1751251055/hls_264_master.m3u8?t=1464389785",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 613
+      },
+      "achievements": {
+        "total": 50,
+        "highlighted": [
+          {
+            "name": "Noob",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/251230/b3de6cc683a1d2c3aee8ac0c738e0fd1685bcca7.jpg"
+          },
+          {
+            "name": "Amateur",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/251230/e8995df3544cf464b1a99f0278c1b389d8e49c81.jpg"
+          },
+          {
+            "name": "Professional",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/251230/0388eaaf85bc584c2d03ef08d946fc6b75dd8220.jpg"
+          },
+          {
+            "name": "Pebble",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/251230/b43899e6706608364ab92a7968fbbcc82c3e8204.jpg"
+          },
+          {
+            "name": "Cobble",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/251230/f91f20032f01d5cd69af0b08460b4e012ea9adfc.jpg"
+          },
+          {
+            "name": "Boulder",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/251230/257c7d051d7e3fd86e89edc7675a171f9cd3a5fc.jpg"
+          },
+          {
+            "name": "Spark",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/251230/c656f84e55b6b00dbd7d5983cb681c369e5f3eb9.jpg"
+          },
+          {
+            "name": "Flare",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/251230/3ce638ddd758c913dcbb16470db13948a0d32856.jpg"
+          },
+          {
+            "name": "Explosion",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/251230/632d8d2282dd100bf5fda06c4d02333e290bf074.jpg"
+          },
+          {
+            "name": "The Dream Team",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/251230/dc23aa3367f222be995f5f7e3b683f1ad5f47cad.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Aug 30, 2016"
+      },
+      "support_info": {
+        "url": "http://support.arcgames.com/",
+        "email": "customerservice@perfectworld.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/251230?t=1712608261",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251230/page_bg_raw.jpg?t=1712608261",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "esrb": {
+          "rating": "t",
+          "descriptors": "Fantasy Violence\r\nMild Language"
+        },
+        "pegi": {
+          "rating": "12",
+          "descriptors": "Bad Language\r\nOnline Game Play"
+        },
+        "usk": {
+          "rating": "12"
+        },
+        "oflc": {
+          "rating": "pg",
+          "descriptors": "Medium level violence"
+        },
+        "nzoflc": {
+          "rating": "pg",
+          "descriptors": "Medium level violence"
+        }
+      }
+    }
+  }
+}

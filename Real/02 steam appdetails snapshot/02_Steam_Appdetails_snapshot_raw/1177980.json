@@ -1,0 +1,334 @@
+{
+  "1177980": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Little Kitty, Big City",
+      "steam_appid": 1177980,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        2912860
+      ],
+      "detailed_description": "<strong>A peaceful catnap turns into a whimsical adventure!</strong><br><br>Will you make your way home or will you explore what the big city has to offer first? I mean, getting home is obviously your main priority. Obviously. Well, it's one of your priorities. Maybe more of a guideline... It's definitely on your To-Do list somewhere! But first? Exploration!<br><br><strong>Features:</strong><br><ul class=\"bb_ul\"><li>Explore the city at your own pace in an open-world playground filled with surprises!<br></li><li>Make friends with a colorful cast of chatty animals.<br></li><li>Complete quests, help your animal friends, or cause a total ruckus. It’s up to you.<br></li><li>Customize your Kitty with a plethora of very adorable hats!<br></li><li>Take a nap in the sunshine.<br></li><li>Find a way home...?</li></ul><h2 class=\"bb_tag\" > </h2><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/9ac58bf63e2dd538f3fd453bfd9d3768.poster.avif?t=1768263376\" width=306 height=172 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/9ac58bf63e2dd538f3fd453bfd9d3768.webm?t=1768263376\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/9ac58bf63e2dd538f3fd453bfd9d3768.mp4?t=1768263376\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/416f3c5decf48ecbf0b606aac699837f.poster.avif?t=1768263376\" width=306 height=172 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/416f3c5decf48ecbf0b606aac699837f.webm?t=1768263376\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/416f3c5decf48ecbf0b606aac699837f.mp4?t=1768263376\" type=\"video/mp4\"></video></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/e5e993b6309cf6ea418bf15542f085dc.poster.avif?t=1768263376\" width=306 height=172 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/e5e993b6309cf6ea418bf15542f085dc.webm?t=1768263376\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/e5e993b6309cf6ea418bf15542f085dc.mp4?t=1768263376\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/0f7e7ada671eab9c9162d94f643e6b73.poster.avif?t=1768263376\" width=306 height=172 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/0f7e7ada671eab9c9162d94f643e6b73.webm?t=1768263376\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/0f7e7ada671eab9c9162d94f643e6b73.mp4?t=1768263376\" type=\"video/mp4\"></video></span>",
+      "about_the_game": "<strong>A peaceful catnap turns into a whimsical adventure!</strong><br><br>Will you make your way home or will you explore what the big city has to offer first? I mean, getting home is obviously your main priority. Obviously. Well, it's one of your priorities. Maybe more of a guideline... It's definitely on your To-Do list somewhere! But first? Exploration!<br><br><strong>Features:</strong><br><ul class=\"bb_ul\"><li>Explore the city at your own pace in an open-world playground filled with surprises!<br></li><li>Make friends with a colorful cast of chatty animals.<br></li><li>Complete quests, help your animal friends, or cause a total ruckus. It’s up to you.<br></li><li>Customize your Kitty with a plethora of very adorable hats!<br></li><li>Take a nap in the sunshine.<br></li><li>Find a way home...?</li></ul><h2 class=\"bb_tag\" > </h2><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/9ac58bf63e2dd538f3fd453bfd9d3768.poster.avif?t=1768263376\" width=306 height=172 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/9ac58bf63e2dd538f3fd453bfd9d3768.webm?t=1768263376\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/9ac58bf63e2dd538f3fd453bfd9d3768.mp4?t=1768263376\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/416f3c5decf48ecbf0b606aac699837f.poster.avif?t=1768263376\" width=306 height=172 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/416f3c5decf48ecbf0b606aac699837f.webm?t=1768263376\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/416f3c5decf48ecbf0b606aac699837f.mp4?t=1768263376\" type=\"video/mp4\"></video></span><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/e5e993b6309cf6ea418bf15542f085dc.poster.avif?t=1768263376\" width=306 height=172 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/e5e993b6309cf6ea418bf15542f085dc.webm?t=1768263376\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/e5e993b6309cf6ea418bf15542f085dc.mp4?t=1768263376\" type=\"video/mp4\"></video></span><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/0f7e7ada671eab9c9162d94f643e6b73.poster.avif?t=1768263376\" width=306 height=172 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/0f7e7ada671eab9c9162d94f643e6b73.webm?t=1768263376\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/extras/0f7e7ada671eab9c9162d94f643e6b73.mp4?t=1768263376\" type=\"video/mp4\"></video></span>",
+      "short_description": "You're a curious little kitty with a big personality, on an adventure to find your way back home. Explore the city, make new friends with stray animals, wear delightful hats, and leave more than a little chaos in your wake. After all, isn't that what cats do best?",
+      "supported_languages": "English, Spanish - Spain, Japanese, Portuguese - Brazil, French, German, Korean, Simplified Chinese, Traditional Chinese, Italian, Polish, Russian, Turkish",
+      "reviews": "“Little Kitty Big City is an adorable, entertaining journey through a delightful world that's just the right size.”<br>89/100 – PC Gamer<br><br>“The world of Little Kitty, Big City truly feels like a playground above anything else”<br>9/10 – Pocket Tactics<br><br>“Little Kitty, Big City is one of the best cat simulators ever.”<br>8/ 10 – Screen Rant<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/c6f401a25f3c49c72adbb8936013648a51935c4b/header.jpg?t=1768263376",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/f0ea8335ecc6b1980224e273bbb8e63758a7d5a2/capsule_231x87.jpg?t=1768263376",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/f0ea8335ecc6b1980224e273bbb8e63758a7d5a2/capsule_184x69.jpg?t=1768263376",
+      "website": "https://linktr.ee/littlekittybigcity",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> WIN8-64 bit<br></li><li><strong>Processor:</strong> Intel i5-760 (4*2800), AMD Phenom II<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 650 / Radeon HD 7510<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "Copyright 2026, Double Dagger Studio, LTD.",
+      "developers": [
+        "Double Dagger Studio"
+      ],
+      "publishers": [
+        "Double Dagger Studio"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        404584
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Little Kitty, Big City",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 404584,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Little Kitty, Big City - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 64,
+          "description": "Adjustable Text Size"
+        },
+        {
+          "id": 67,
+          "description": "Camera Comfort"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 74,
+          "description": "Playable without Timed Input"
+        },
+        {
+          "id": 79,
+          "description": "Save Anytime"
+        },
+        {
+          "id": 69,
+          "description": "Stereo Sound"
+        },
+        {
+          "id": 70,
+          "description": "Surround Sound"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/2c4ca5a289961d7ec747ac03ccd8f79e517c1286/ss_2c4ca5a289961d7ec747ac03ccd8f79e517c1286.600x338.jpg?t=1768263376",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/2c4ca5a289961d7ec747ac03ccd8f79e517c1286/ss_2c4ca5a289961d7ec747ac03ccd8f79e517c1286.1920x1080.jpg?t=1768263376"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/c24ba810983580a876dbfc3c167f02811a7f8588/ss_c24ba810983580a876dbfc3c167f02811a7f8588.600x338.jpg?t=1768263376",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/c24ba810983580a876dbfc3c167f02811a7f8588/ss_c24ba810983580a876dbfc3c167f02811a7f8588.1920x1080.jpg?t=1768263376"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/ss_dad129d2e62985dc6cf351875c4b7af48db53c1a.600x338.jpg?t=1768263376",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/ss_dad129d2e62985dc6cf351875c4b7af48db53c1a.1920x1080.jpg?t=1768263376"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/ss_e4e9bd433d3ae7898467cad76aaf2b9ed117c4f2.600x338.jpg?t=1768263376",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/ss_e4e9bd433d3ae7898467cad76aaf2b9ed117c4f2.1920x1080.jpg?t=1768263376"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/6e3aacf9283046a6c7a99379ebec820bd394c4d9/ss_6e3aacf9283046a6c7a99379ebec820bd394c4d9.600x338.jpg?t=1768263376",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/6e3aacf9283046a6c7a99379ebec820bd394c4d9/ss_6e3aacf9283046a6c7a99379ebec820bd394c4d9.1920x1080.jpg?t=1768263376"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/04fe076b6150bcb78f75cfb90801ba27f792dda0/ss_04fe076b6150bcb78f75cfb90801ba27f792dda0.600x338.jpg?t=1768263376",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/04fe076b6150bcb78f75cfb90801ba27f792dda0/ss_04fe076b6150bcb78f75cfb90801ba27f792dda0.1920x1080.jpg?t=1768263376"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/c5890f51e7451eaf26cb90aca83e18d2834f85aa/ss_c5890f51e7451eaf26cb90aca83e18d2834f85aa.600x338.jpg?t=1768263376",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/c5890f51e7451eaf26cb90aca83e18d2834f85aa/ss_c5890f51e7451eaf26cb90aca83e18d2834f85aa.1920x1080.jpg?t=1768263376"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/31917aa4eea8abce1dd706ccfdc2ae61e0ac1cbc/ss_31917aa4eea8abce1dd706ccfdc2ae61e0ac1cbc.600x338.jpg?t=1768263376",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/31917aa4eea8abce1dd706ccfdc2ae61e0ac1cbc/ss_31917aa4eea8abce1dd706ccfdc2ae61e0ac1cbc.1920x1080.jpg?t=1768263376"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/64594bb658afcce067f5ca67871fa7f46e451e1e/ss_64594bb658afcce067f5ca67871fa7f46e451e1e.600x338.jpg?t=1768263376",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/64594bb658afcce067f5ca67871fa7f46e451e1e/ss_64594bb658afcce067f5ca67871fa7f46e451e1e.1920x1080.jpg?t=1768263376"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/f609dc26793800d10937870750ed96bff057fddb/ss_f609dc26793800d10937870750ed96bff057fddb.600x338.jpg?t=1768263376",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/f609dc26793800d10937870750ed96bff057fddb/ss_f609dc26793800d10937870750ed96bff057fddb.1920x1080.jpg?t=1768263376"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/ce90c9af324e4093e18a0385d5e5c55198acdf51/ss_ce90c9af324e4093e18a0385d5e5c55198acdf51.600x338.jpg?t=1768263376",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/ce90c9af324e4093e18a0385d5e5c55198acdf51/ss_ce90c9af324e4093e18a0385d5e5c55198acdf51.1920x1080.jpg?t=1768263376"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/70a44c029adfeaaa6c6606691e784ceb1ae0dd28/ss_70a44c029adfeaaa6c6606691e784ceb1ae0dd28.600x338.jpg?t=1768263376",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/70a44c029adfeaaa6c6606691e784ceb1ae0dd28/ss_70a44c029adfeaaa6c6606691e784ceb1ae0dd28.1920x1080.jpg?t=1768263376"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/782ddf06abcd04a3734e0f5d84a12232d7054848/ss_782ddf06abcd04a3734e0f5d84a12232d7054848.600x338.jpg?t=1768263376",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/782ddf06abcd04a3734e0f5d84a12232d7054848/ss_782ddf06abcd04a3734e0f5d84a12232d7054848.1920x1080.jpg?t=1768263376"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/1bda652f6a7a0df127b288e584bdbc6a09385376/ss_1bda652f6a7a0df127b288e584bdbc6a09385376.600x338.jpg?t=1768263376",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/1bda652f6a7a0df127b288e584bdbc6a09385376/ss_1bda652f6a7a0df127b288e584bdbc6a09385376.1920x1080.jpg?t=1768263376"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/3ba5dd1b59e2a775e1d9a34203c664fe18d4db70/ss_3ba5dd1b59e2a775e1d9a34203c664fe18d4db70.600x338.jpg?t=1768263376",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/3ba5dd1b59e2a775e1d9a34203c664fe18d4db70/ss_3ba5dd1b59e2a775e1d9a34203c664fe18d4db70.1920x1080.jpg?t=1768263376"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/a356ff7d877b40d86ed0d62f8be997d3b312fd46/ss_a356ff7d877b40d86ed0d62f8be997d3b312fd46.600x338.jpg?t=1768263376",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/a356ff7d877b40d86ed0d62f8be997d3b312fd46/ss_a356ff7d877b40d86ed0d62f8be997d3b312fd46.1920x1080.jpg?t=1768263376"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257189842,
+          "name": "The Picture Purrfect Update: OUT NOW!",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257189842/e41828bc83fae9a45ae788bf8506516c71743c59/movie_600x337.jpg?t=1756314674",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1177980/1283217970/812380ddf8a68b9c32ee6f2232b67b3c1a2e3067/1756313455/dash_av1.mpd?t=1756314674",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1177980/1283217970/812380ddf8a68b9c32ee6f2232b67b3c1a2e3067/1756313455/dash_h264.mpd?t=1756314674",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1177980/1283217970/812380ddf8a68b9c32ee6f2232b67b3c1a2e3067/1756313455/hls_264_master.m3u8?t=1756314674",
+          "highlight": true
+        },
+        {
+          "id": 257016666,
+          "name": "Release Date Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257016666/movie.293x165.jpg?t=1713362590",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1177980/688708/e5c9f99177013b1b475c55998a9033cf7aed6b71/1750634725/dash_av1.mpd?t=1713362590",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1177980/688708/e5c9f99177013b1b475c55998a9033cf7aed6b71/1750634725/dash_h264.mpd?t=1713362590",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1177980/688708/e5c9f99177013b1b475c55998a9033cf7aed6b71/1750634725/hls_264_master.m3u8?t=1713362590",
+          "highlight": true
+        },
+        {
+          "id": 256860560,
+          "name": "Teaser Trailer November 2021",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256860560/movie.293x165.jpg?t=1713362594",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1177980/417237/64cbeb9bde8af9a373e9be7c91aa12e8c54dcd62/1750634715/dash_av1.mpd?t=1713362594",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1177980/417237/64cbeb9bde8af9a373e9be7c91aa12e8c54dcd62/1750634715/dash_h264.mpd?t=1713362594",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1177980/417237/64cbeb9bde8af9a373e9be7c91aa12e8c54dcd62/1750634715/hls_264_master.m3u8?t=1713362594",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 9754
+      },
+      "achievements": {
+        "total": 39,
+        "highlighted": [
+          {
+            "name": "Home Sweet Home!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1177980/07c6917d0e90459e60976ab17ed3f1e8b10fb107.jpg"
+          },
+          {
+            "name": "Hello Everyone!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1177980/0d665d6c99a0a3bd18c8a0bc5d87dd85d5458d1f.jpg"
+          },
+          {
+            "name": "Quack Troops!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1177980/d192616f7390aaed4f893ccea4baf9b140c5c0fb.jpg"
+          },
+          {
+            "name": "Snap Happy!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1177980/3a9060872dc4caf06115f64cd4a62ebeb3695481.jpg"
+          },
+          {
+            "name": "Snack Time!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1177980/8b58e4c2f0e05c6fbc005fbff8d8c920e4377fa5.jpg"
+          },
+          {
+            "name": "Fin-tastic!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1177980/2d60bac983f89b850196c25ce7d81f216038e157.jpg"
+          },
+          {
+            "name": "Fat Cat",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1177980/64351dd24fb25e642909b4da3a6bbbb97b457d62.jpg"
+          },
+          {
+            "name": "Capped Crusader",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1177980/de0eac2dfe3fc0d080379fc553e40f5ee52828fa.jpg"
+          },
+          {
+            "name": "World Traveler",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1177980/87d0131093c0e0ef92593a0836736a1ea449b7bd.jpg"
+          },
+          {
+            "name": "Cat Napper",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1177980/eeef31f602e5b345792b2e5a46aab89cc9053887.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "May 9, 2024"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@doubledaggerstudio.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1177980?t=1768263376",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1177980/6f1f3691c71517efcb9f0b5814c74546efa7b792/page_bg_raw.jpg?t=1768263376",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "l"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

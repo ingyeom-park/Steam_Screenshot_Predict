@@ -1,0 +1,243 @@
+{
+  "1687550": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Bear's Restaurant",
+      "steam_appid": 1687550,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        1715170
+      ],
+      "detailed_description": "Where do we go after we die? And more importantly, what do we eat?<br><br>In Bear’s Restaurant, you play as a little cat who just landed a job at the afterlife’s coziest eatery. As the lone waiter assisting the friendly bear who owns the joint, it’s your job to greet the newly deceased, take their orders, and deliver them each a final meal to help their souls rest in peace. <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/ba13c1818ad7190357a76d13a2ab1238.poster.avif?t=1728660264\" width=320 height=142 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/ba13c1818ad7190357a76d13a2ab1238.webm?t=1728660264\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/ba13c1818ad7190357a76d13a2ab1238.mp4?t=1728660264\" type=\"video/mp4\"></video></span><br><br>The only problem is, the clientele here come from all walks of death, and in many cases, they’re awfully indecisive. In order to help send these weary spirits to their final destinations, it’ll be your job to dive into their memories and try to decipher what their last suppers should be. In doing so, you’ll get to see firsthand how they lived, how they died, and what foods left the deepest impressions on them while they were alive.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/abff8826f8ae416da2d9c703f67a0cf6.poster.avif?t=1728660264\" width=320 height=112 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/abff8826f8ae416da2d9c703f67a0cf6.webm?t=1728660264\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/abff8826f8ae416da2d9c703f67a0cf6.mp4?t=1728660264\" type=\"video/mp4\"></video></span><br><br>Bear’s Restaurant is a game that’s touched the hearts of players all around the globe, and this new-and-improved definitive version features all of the content from the original game, plus an all-new epilogue chapter that’s sure to answer those lingering questions.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/ab9e3ab76f215cb4cd7a79c809bc3bcb.poster.avif?t=1728660264\" width=320 height=140 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/ab9e3ab76f215cb4cd7a79c809bc3bcb.webm?t=1728660264\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/ab9e3ab76f215cb4cd7a79c809bc3bcb.mp4?t=1728660264\" type=\"video/mp4\"></video></span><br><br>If it’s epic battles, mind-bending puzzles, or state-of-the-art cutscenes you’re after, you won’t find them here. But if you’re in the mood for a shorter, more wholesome experience—one that’ll fill your heart like a home-cooked meal you’ll remember for years to come—look no further.<br><br>[Content Warning]<br>While this game does not include any graphic imagery or gore, please be aware that the story does touch on a wide range of potentially distressing subject matter, such as murder, suicide, and various other manners of death that may be traumatic for some players (e.g. illness, traffic accidents). User discretion is advised.",
+      "about_the_game": "Where do we go after we die? And more importantly, what do we eat?<br><br>In Bear’s Restaurant, you play as a little cat who just landed a job at the afterlife’s coziest eatery. As the lone waiter assisting the friendly bear who owns the joint, it’s your job to greet the newly deceased, take their orders, and deliver them each a final meal to help their souls rest in peace. <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/ba13c1818ad7190357a76d13a2ab1238.poster.avif?t=1728660264\" width=320 height=142 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/ba13c1818ad7190357a76d13a2ab1238.webm?t=1728660264\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/ba13c1818ad7190357a76d13a2ab1238.mp4?t=1728660264\" type=\"video/mp4\"></video></span><br><br>The only problem is, the clientele here come from all walks of death, and in many cases, they’re awfully indecisive. In order to help send these weary spirits to their final destinations, it’ll be your job to dive into their memories and try to decipher what their last suppers should be. In doing so, you’ll get to see firsthand how they lived, how they died, and what foods left the deepest impressions on them while they were alive.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/abff8826f8ae416da2d9c703f67a0cf6.poster.avif?t=1728660264\" width=320 height=112 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/abff8826f8ae416da2d9c703f67a0cf6.webm?t=1728660264\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/abff8826f8ae416da2d9c703f67a0cf6.mp4?t=1728660264\" type=\"video/mp4\"></video></span><br><br>Bear’s Restaurant is a game that’s touched the hearts of players all around the globe, and this new-and-improved definitive version features all of the content from the original game, plus an all-new epilogue chapter that’s sure to answer those lingering questions.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/ab9e3ab76f215cb4cd7a79c809bc3bcb.poster.avif?t=1728660264\" width=320 height=140 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/ab9e3ab76f215cb4cd7a79c809bc3bcb.webm?t=1728660264\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/extras/ab9e3ab76f215cb4cd7a79c809bc3bcb.mp4?t=1728660264\" type=\"video/mp4\"></video></span><br><br>If it’s epic battles, mind-bending puzzles, or state-of-the-art cutscenes you’re after, you won’t find them here. But if you’re in the mood for a shorter, more wholesome experience—one that’ll fill your heart like a home-cooked meal you’ll remember for years to come—look no further.<br><br>[Content Warning]<br>While this game does not include any graphic imagery or gore, please be aware that the story does touch on a wide range of potentially distressing subject matter, such as murder, suicide, and various other manners of death that may be traumatic for some players (e.g. illness, traffic accidents). User discretion is advised.",
+      "short_description": "The award-winning indie adventure game finally arrives on Steam—now with more content than ever before! A story of love, loss, and fine dining that’s sure to warm even the most jaded of hearts.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Spanish - Latin America, Turkish, Vietnamese, Portuguese - Brazil, Russian, Japanese, Korean, Simplified Chinese, Traditional Chinese, Indonesian",
+      "reviews": "“A relaxing experience that feels almost like flipping through a children's book.”<br>8.5 – IGN Korea<br><br>“It feels strange to measure how much you like such a sad story, but the way the developer manages to bring such a deep story in a relatively simple way is pretty amazing.”<br>I Like It a Lot – LadiesGamers<br><br>“What it lacks in runtime it makes up for in emotional punch--a game that will stick with you long after the credits roll.”<br>8.0 – Famitsu<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/header.jpg?t=1728660264",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/capsule_231x87.jpg?t=1728660264",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/capsule_184x69.jpg?t=1728660264",
+      "website": "https://odencat.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2G Hz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.1<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.13 High Sierra<br></li><li><strong>Processor:</strong> 2G Hz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> Metal or OpenGL 2.1<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS Ubuntu 12.04 LTS<br></li><li><strong>Processor:</strong> Processor 2 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Graphics 256 mb video memory, OpenGL 2<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Odencat"
+      ],
+      "publishers": [
+        "Odencat"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1299,
+        "final": 1299,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$12.99"
+      },
+      "packages": [
+        600827
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Bear's Restaurant",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 600827,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Bear's Restaurant - $12.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1299
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_256072b773fd7e416ce1a738b1bbd7ad08751b3d.600x338.jpg?t=1728660264",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_256072b773fd7e416ce1a738b1bbd7ad08751b3d.1920x1080.jpg?t=1728660264"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_e3c21d2d0d8bf3c1382cda40574ac231ee8ffaa3.600x338.jpg?t=1728660264",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_e3c21d2d0d8bf3c1382cda40574ac231ee8ffaa3.1920x1080.jpg?t=1728660264"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_c8cccd26c1ac3f39062b5ce99970b7b0a37e8d56.600x338.jpg?t=1728660264",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_c8cccd26c1ac3f39062b5ce99970b7b0a37e8d56.1920x1080.jpg?t=1728660264"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_c3b8cab3098740fa76678af3681b5b0bd6d53ee6.600x338.jpg?t=1728660264",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_c3b8cab3098740fa76678af3681b5b0bd6d53ee6.1920x1080.jpg?t=1728660264"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_9bfcb276b8f373c9247d1a2a8a469163adfad1c4.600x338.jpg?t=1728660264",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_9bfcb276b8f373c9247d1a2a8a469163adfad1c4.1920x1080.jpg?t=1728660264"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_6468b92dde3b9a4533eee03f5f505151f3da2f9d.600x338.jpg?t=1728660264",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_6468b92dde3b9a4533eee03f5f505151f3da2f9d.1920x1080.jpg?t=1728660264"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_cff725adcf852a07e052a21d3467606020634d27.600x338.jpg?t=1728660264",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_cff725adcf852a07e052a21d3467606020634d27.1920x1080.jpg?t=1728660264"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_48ab5e927112fe637a1ed1093863cb677190657f.600x338.jpg?t=1728660264",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_48ab5e927112fe637a1ed1093863cb677190657f.1920x1080.jpg?t=1728660264"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_f15419b3b4ffabf391fda8250426231bddb26b92.600x338.jpg?t=1728660264",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/ss_f15419b3b4ffabf391fda8250426231bddb26b92.1920x1080.jpg?t=1728660264"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256851856,
+          "name": "Short Version",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256851856/movie.293x165.jpg?t=1631792556",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1687550/401830/ec5accb54a88bc0e186d3cda747ffa69082c5cfd/1751019709/dash_av1.mpd?t=1631792556",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1687550/401830/ec5accb54a88bc0e186d3cda747ffa69082c5cfd/1751019709/dash_h264.mpd?t=1631792556",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1687550/401830/ec5accb54a88bc0e186d3cda747ffa69082c5cfd/1751019709/hls_264_master.m3u8?t=1631792556",
+          "highlight": true
+        },
+        {
+          "id": 256845192,
+          "name": "Long Versoin",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256845192/movie.293x165.jpg?t=1631792563",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1687550/389697/4528084d047109652b344eb38bdf264329047b3c/1751019709/dash_av1.mpd?t=1631792563",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1687550/389697/4528084d047109652b344eb38bdf264329047b3c/1751019709/dash_h264.mpd?t=1631792563",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1687550/389697/4528084d047109652b344eb38bdf264329047b3c/1751019709/hls_264_master.m3u8?t=1631792563",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 611
+      },
+      "achievements": {
+        "total": 5,
+        "highlighted": [
+          {
+            "name": "Nightmare Vanquished",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1687550/66b56fc3d6b38d7a4b4a28d8eb7bc5631a3dc8f4.jpg"
+          },
+          {
+            "name": "The Nihility",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1687550/5774d4af1c908f4845b45248f131d86490049641.jpg"
+          },
+          {
+            "name": "Nighty",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1687550/8c75337ff91f2d269de60e8537fc874162cff6ef.jpg"
+          },
+          {
+            "name": "See You Again",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1687550/c83ae7dc2a00c22ba2fd5c4cbf128d01b7bcb287.jpg"
+          },
+          {
+            "name": "Truth",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1687550/ecd5dcbaeaf028c6d16d02177493f8e9928ae803.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 6, 2021"
+      },
+      "support_info": {
+        "url": "",
+        "email": "contact@odencat.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1687550?t=1728660264",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687550/page_bg_raw.jpg?t=1728660264",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "12",
+          "descriptors": "Linguagem imprópria\r\nMedo\r\nAtos criminosos",
+          "use_age_gate": "true",
+          "required_age": "12"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Gewalt\nSchimpfwörte"
+        }
+      }
+    }
+  }
+}

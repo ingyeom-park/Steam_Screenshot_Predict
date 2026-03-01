@@ -1,0 +1,237 @@
+{
+  "1257410": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Cat in the Box",
+      "steam_appid": 1257410,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1257420
+      ],
+      "detailed_description": "<strong>Cat in the Box</strong> is a horror adventure game. Help the poor girl explore the mansion and escape from unknown entities that are pursuing her. Use a variety of tools and your wits to overcome any challenges you face. At times, you'll even have to wake yourself from nightmares to survive.<br><br>Cat in the Box's gameplay has similar features to other horror RPG Maker games. Carefully survey your surroundings and investigate suspicious places. You may find keys to locked rooms, or clues to help you better understand the mysterious circumstances you find yourself in.<h2 class=\"bb_tag\" >Synopsis</h2>A girl sets out to film and upload footage of a mansion, owned by a cult. After the disappearance of the cult members, it appears she is filming a haunted mansion…<br><br><br>While exploring she meets an unknown killer, and the entrance she originally came through now leads to a different place entirely. There seems to be no way out.<br><br>Uncover the secrets of the mansion with the girl, and the help of a mysterious figure!",
+      "about_the_game": "<strong>Cat in the Box</strong> is a horror adventure game. Help the poor girl explore the mansion and escape from unknown entities that are pursuing her. Use a variety of tools and your wits to overcome any challenges you face. At times, you'll even have to wake yourself from nightmares to survive.<br><br>Cat in the Box's gameplay has similar features to other horror RPG Maker games. Carefully survey your surroundings and investigate suspicious places. You may find keys to locked rooms, or clues to help you better understand the mysterious circumstances you find yourself in.<h2 class=\"bb_tag\" >Synopsis</h2>A girl sets out to film and upload footage of a mansion, owned by a cult. After the disappearance of the cult members, it appears she is filming a haunted mansion…<br><br><br>While exploring she meets an unknown killer, and the entrance she originally came through now leads to a different place entirely. There seems to be no way out.<br><br>Uncover the secrets of the mansion with the girl, and the help of a mysterious figure!",
+      "short_description": "Cat in the Box is a horror adventure game. Help the poor girl explore the mansion and escape from unknown entities that are pursuing her. Use a variety of tools and your wits to overcome any challenges you face. At times, you'll even have to wake yourself from nightmares to survive.",
+      "supported_languages": "Korean, English, Simplified Chinese, Japanese, Thai, Russian, Spanish - Spain",
+      "reviews": "“캣 인 더 박스는 조사와 대화, 그리고 생존으로 대표되는 공포 쯔꾸르 게임의 전형적이면서도 모범적인 모습을 아주 잘 보여주고 있다. (...) 게임을 구성하는 모든 요소들이 균형있게 잘 갖춰져있고, 특유의 완급 조절을 통한 긴장감의 유지도 좋아 약간의 두근거림과 함께 자연스레 게임에 몰입하게 된다.”<br>Kutar'k<br><br>“スーパーファミコン時代のレトロゲームを彷彿とさせる、2D見下ろし型視点のグラフィックが特徴的で、さらに画面全体にかかるブラウン管テレビのようなエフェクトが独特の不気味な雰囲気を作り上げています。（…）どこか物悲しげで静かに恐怖をあおる雰囲気たっぷりのBGMや、ドアを開ける音や床に響く足音などリアリティのある効果音の数々と、ハイクオリティなサウンドでホラーの世界への没入度を高めてくれます。”<br>アキバ総研<br><br>“With a typical slasher film start, with a plot twist that has around some elements of foreshadowing, at times even incredible, together with a well thought out and balanced gameplay, also never left to approximation because “eh, it’s Horror RPG anyway” and an almost western aesthetic, for us Cat In The Box will remain for a long time an important point of reference and comparison.”<br>Ludi Tarantula<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/header.jpg?t=1742634278",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/capsule_231x87.jpg?t=1742634278",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/capsule_184x69.jpg?t=1742634278",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 / 8 / 8.1 / 10<br></li><li><strong>Processor:</strong> Any processor w/ a clock rate of 2 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> CPU-integrated or on-board graphics<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "Cat in the Box © 2020 Gustav. All rights reserved.",
+      "developers": [
+        "Gustav"
+      ],
+      "publishers": [
+        "Gustav"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 699,
+        "final": 699,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$6.99"
+      },
+      "packages": [
+        436674
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Cat in the Box",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 436674,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Cat in the Box - $6.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 699
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_6af3932374ed9c616f99f7fe57b2be40e6dc53f9.600x338.jpg?t=1742634278",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_6af3932374ed9c616f99f7fe57b2be40e6dc53f9.1920x1080.jpg?t=1742634278"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_6775ca469b29e5a52827fd858238124722930c41.600x338.jpg?t=1742634278",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_6775ca469b29e5a52827fd858238124722930c41.1920x1080.jpg?t=1742634278"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_3c4c2021080f7c1047d6ee8b7ab9162a85299329.600x338.jpg?t=1742634278",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_3c4c2021080f7c1047d6ee8b7ab9162a85299329.1920x1080.jpg?t=1742634278"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_13b0be92d4e3ec39006e925f95abacdc53530a65.600x338.jpg?t=1742634278",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_13b0be92d4e3ec39006e925f95abacdc53530a65.1920x1080.jpg?t=1742634278"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_2516c7d614cd1bfa3181ba30559310dcfef49aa9.600x338.jpg?t=1742634278",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_2516c7d614cd1bfa3181ba30559310dcfef49aa9.1920x1080.jpg?t=1742634278"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_b8439e6debadc6521e66d8779adf7f03b4dd3e94.600x338.jpg?t=1742634278",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_b8439e6debadc6521e66d8779adf7f03b4dd3e94.1920x1080.jpg?t=1742634278"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_0e6e45c55634fa84a01b803ad3afc2d68e4e166d.600x338.jpg?t=1742634278",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_0e6e45c55634fa84a01b803ad3afc2d68e4e166d.1920x1080.jpg?t=1742634278"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_00aa648c183f263c146b36e64212f7629e731918.600x338.jpg?t=1742634278",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_00aa648c183f263c146b36e64212f7629e731918.1920x1080.jpg?t=1742634278"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_d041812faa5ed891a2b03d80e257ac16093c1cfd.600x338.jpg?t=1742634278",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1257410/ss_d041812faa5ed891a2b03d80e257ac16093c1cfd.1920x1080.jpg?t=1742634278"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256783771,
+          "name": "Cat in the Box - Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256783771/movie.293x165.jpg?t=1588227960",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1257410/282346/7e2dc83252b90a67329f589083f20b8a65e7a53b/1751210583/dash_av1.mpd?t=1588227960",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1257410/282346/7e2dc83252b90a67329f589083f20b8a65e7a53b/1751210583/dash_h264.mpd?t=1588227960",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1257410/282346/7e2dc83252b90a67329f589083f20b8a65e7a53b/1751210583/hls_264_master.m3u8?t=1588227960",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 1363
+      },
+      "achievements": {
+        "total": 8,
+        "highlighted": [
+          {
+            "name": "Recording",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257410/deeb84fa8ffd64bd38920fab04285c8f1166c0c6.jpg"
+          },
+          {
+            "name": "Roam",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257410/314740fe110e6b32b21784366fd3a55bacc4940e.jpg"
+          },
+          {
+            "name": "Deceive",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257410/04805adca0efbe0d816ddcc39baa6548170bd07d.jpg"
+          },
+          {
+            "name": "Epitaph",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257410/84f6a3393fea820b6c2bba5aa6b7c932ec1537d4.jpg"
+          },
+          {
+            "name": "Divine",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257410/e43f31973cb56309bd1c0cb6dd539711505006e0.jpg"
+          },
+          {
+            "name": "Toilet",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257410/644739af0fabc50b742322799c581be0f0c7a5d0.jpg"
+          },
+          {
+            "name": "Sandwich",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257410/df3fbd685c2611577ea25ed41722b80798a4c0fc.jpg"
+          },
+          {
+            "name": "Green Herb",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1257410/007834884a3c937594602e35d83edb89a65b8b25.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "May 1, 2020"
+      },
+      "support_info": {
+        "url": "https://steamcommunity.com/app/1257410/discussions/",
+        "email": ""
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1257410?t=1742634278",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1257410?t=1742634278",
+      "content_descriptors": {
+        "ids": [
+          5
+        ],
+        "notes": "Violence\r\nBlood\r\nDrug Reference"
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "16",
+          "descriptors": "Medo\r\nViolência\r\nViolência Extrema\r\nLinguagem imprópria",
+          "use_age_gate": "true",
+          "required_age": "16"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "16",
+          "required_age": "16",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Horror"
+        }
+      }
+    }
+  }
+}

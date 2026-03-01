@@ -1,0 +1,285 @@
+{
+  "234900": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Anodyne",
+      "steam_appid": 234900,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        331620
+      ],
+      "detailed_description": "<h2 class=\"bb_tag\" >Explore a surreal dream world, talk to its strange characters</h2><p class=\"bb_paragraph\" >A 2D action-adventure through the surreal subconscious world of the human Young. Explore dungeons set in apartments and hotels, and atmospheric lands, all evoked by a dream-like music and visuals. Talk to bizarre characters and navigate puzzle-and-combat-filled dungeons. Can you help Young wake up?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/extras/f915837e155118e637d0bc5caa77e20d.poster.avif?t=1766101656\" width=312 height=350 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/extras/f915837e155118e637d0bc5caa77e20d.webm?t=1766101656\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/extras/f915837e155118e637d0bc5caa77e20d.mp4?t=1766101656\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Solve puzzles and defeat enemies in dungeons</h2><p class=\"bb_paragraph\" >Explore the world's fields, caves and dungeons in order to open up portals in the Nexus, connecting you to other lands. You'll have to solve puzzles and defeat enemies along the way.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/extras/bc4057add8fa3c63471e69232dab22f7.poster.avif?t=1766101656\" width=312 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/extras/bc4057add8fa3c63471e69232dab22f7.webm?t=1766101656\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/extras/bc4057add8fa3c63471e69232dab22f7.mp4?t=1766101656\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Find treasures and items to unlock deeper areas</h2><p class=\"bb_paragraph\" >Search for mysterious cards to help you dive deeper into Young's mind! Health upgrades will help you survive deeper reaches of the dream.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/extras/card.PNG?t=1766101656\" /></span></p><p class=\"bb_paragraph\" > Check out the sequel, Anodyne 2, too! </p><h2 class=\"bb_tag\" >Discover secrets of a mysterious, moody world</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >In a surreal dream world, a nonlinearly connected land of natural locations (forests, cliffs), abstract places (space), urban locations (hotels, temples), and more.</p></li><li><p class=\"bb_paragraph\" > Use your broom to defeat enemies, and solve puzzles in multiple large dungeons and mazes.</p></li><li><p class=\"bb_paragraph\" >Talk to strange NPCs, and gain insight into the psyche of the silent protagonist, Young.</p></li><li><p class=\"bb_paragraph\" >Find mysterious Cards scattered throughout the game in order to unlock deeper reaches of the world.</p></li><li><p class=\"bb_paragraph\" >A 6-8+ hour action-adventure, with plenty of surprises after the credits roll...</p></li><li><p class=\"bb_paragraph\" >The 2013 game that started it all for indie studio Analgesic Productions!</p></li><li><p class=\"bb_paragraph\" > Some players say this reminds them of Link's Awakening or Yume Nikki.</p></li></ul><p class=\"bb_paragraph\" >Note on pricing difference vs consoles: the Steam version grants access to both the Anodyne Remastered and Classic Anodyne. Thus, the price of the Steam version was updated to reflect inflation and current pricing standards. The console version currently does not (as of 2025) have Anodyne Remastered.</p><p class=\"bb_paragraph\" ><strong></strong><br><br><strong>Content Warnings (Light spoilers)</strong> <br> <br>   Low-res pixel art (like in the style of the screenshots of): Suicide by hanging, mild horror, murder by blunt objects, dead bodies, stabbing, blood stains, mentions of sex, unexpected killing of an NPC. Rare strong language. Note this isn't representative of the majority of the game, but it is unavoidable. </p>",
+      "about_the_game": "<h2 class=\"bb_tag\" >Explore a surreal dream world, talk to its strange characters</h2><p class=\"bb_paragraph\" >A 2D action-adventure through the surreal subconscious world of the human Young. Explore dungeons set in apartments and hotels, and atmospheric lands, all evoked by a dream-like music and visuals. Talk to bizarre characters and navigate puzzle-and-combat-filled dungeons. Can you help Young wake up?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/extras/f915837e155118e637d0bc5caa77e20d.poster.avif?t=1766101656\" width=312 height=350 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/extras/f915837e155118e637d0bc5caa77e20d.webm?t=1766101656\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/extras/f915837e155118e637d0bc5caa77e20d.mp4?t=1766101656\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Solve puzzles and defeat enemies in dungeons</h2><p class=\"bb_paragraph\" >Explore the world's fields, caves and dungeons in order to open up portals in the Nexus, connecting you to other lands. You'll have to solve puzzles and defeat enemies along the way.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/extras/bc4057add8fa3c63471e69232dab22f7.poster.avif?t=1766101656\" width=312 height=346 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/extras/bc4057add8fa3c63471e69232dab22f7.webm?t=1766101656\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/extras/bc4057add8fa3c63471e69232dab22f7.mp4?t=1766101656\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Find treasures and items to unlock deeper areas</h2><p class=\"bb_paragraph\" >Search for mysterious cards to help you dive deeper into Young's mind! Health upgrades will help you survive deeper reaches of the dream.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/extras/card.PNG?t=1766101656\" /></span></p><p class=\"bb_paragraph\" > Check out the sequel, Anodyne 2, too! </p><h2 class=\"bb_tag\" >Discover secrets of a mysterious, moody world</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >In a surreal dream world, a nonlinearly connected land of natural locations (forests, cliffs), abstract places (space), urban locations (hotels, temples), and more.</p></li><li><p class=\"bb_paragraph\" > Use your broom to defeat enemies, and solve puzzles in multiple large dungeons and mazes.</p></li><li><p class=\"bb_paragraph\" >Talk to strange NPCs, and gain insight into the psyche of the silent protagonist, Young.</p></li><li><p class=\"bb_paragraph\" >Find mysterious Cards scattered throughout the game in order to unlock deeper reaches of the world.</p></li><li><p class=\"bb_paragraph\" >A 6-8+ hour action-adventure, with plenty of surprises after the credits roll...</p></li><li><p class=\"bb_paragraph\" >The 2013 game that started it all for indie studio Analgesic Productions!</p></li><li><p class=\"bb_paragraph\" > Some players say this reminds them of Link's Awakening or Yume Nikki.</p></li></ul><p class=\"bb_paragraph\" >Note on pricing difference vs consoles: the Steam version grants access to both the Anodyne Remastered and Classic Anodyne. Thus, the price of the Steam version was updated to reflect inflation and current pricing standards. The console version currently does not (as of 2025) have Anodyne Remastered.</p><p class=\"bb_paragraph\" ><strong></strong><br><br><strong>Content Warnings (Light spoilers)</strong> <br> <br>   Low-res pixel art (like in the style of the screenshots of): Suicide by hanging, mild horror, murder by blunt objects, dead bodies, stabbing, blood stains, mentions of sex, unexpected killing of an NPC. Rare strong language. Note this isn't representative of the majority of the game, but it is unavoidable. </p>",
+      "short_description": "A 2D action-adventure through a surreal, subconscious world. Explore moody dungeons, buildings, and atmospheric lands, evoked by dreamy music and visuals. Help the human Young awaken from their dream!",
+      "supported_languages": "English, Japanese, Korean, Spanish - Spain, Portuguese - Brazil, Simplified Chinese, Italian, Basque",
+      "reviews": "Polygon - &quot;A brilliantly designed adventure that translates well-worn mechanics into a package that feels genuinely new and exciting&quot;<br><br>PC Gamer - &quot;As funny and charming as Link’s Awakening on occasion, but the overall tone is one of unease, with a subtle malevolence&quot;<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/header.jpg?t=1766101656",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/capsule_231x87.jpg?t=1766101656",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/capsule_184x69.jpg?t=1766101656",
+      "website": "https://www.anodynegame.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong>Windows XP<br>\t</li><li><strong>Processor:</strong>1.5 GHz, single core<br>\t</li><li><strong>Memory:</strong>1 GB RAM<br>\t</li><li><strong>Graphics:</strong>Any<br>\t</li><li><strong>Hard Drive:</strong>200 MB HD space<br>\t</li><li><strong>Sound:</strong>Any<br>\t</li><li><strong>Additional:</strong>This is not a GPU-intensive game.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong>Windows XP or better<br>\t</li><li><strong>Processor:</strong>(2.0 GHz, single core) or better<br>\t</li><li><strong>Memory:</strong>2 GB RAM<br>\t</li><li><strong>Graphics:</strong>Any<br>\t</li><li><strong>Hard Drive:</strong>200 MB HD space<br>\t</li><li><strong>Sound:</strong>Any<br>\t</li><li><strong>Additional:</strong>This is not a GPU-intensive game.</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>10.6 or Newer<br>\t</li><li><strong>Processor:</strong>Intel 1.5 Ghz, single core<br>\t</li><li><strong>Memory:</strong>1 GB RAM<br>\t</li><li><strong>Graphics:</strong>Any<br>\t</li><li><strong>Hard Drive:</strong>200 MB HD space<br>\t</li><li><strong>Sound:</strong>Any<br>\t</li><li><strong>Additional:</strong>This is not a GPU-intensive game.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>10.6 or Newer<br>\t</li><li><strong>Processor:</strong>(Intel 2.0 GHz, single core) or better<br>\t</li><li><strong>Memory:</strong>2 GB RAM<br>\t</li><li><strong>Graphics:</strong>Any<br>\t</li><li><strong>Hard Drive:</strong>200 MB HD space<br>\t</li><li><strong>Sound:</strong>Any<br>\t</li><li><strong>Additional:</strong>This is not a GPU-intensive game.</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<ul class=\"bb_ul\"><li><strong>Processor:</strong>1.5 GHz, single core<br>\t</li><li><strong>Memory:</strong>1 GB RAM<br>\t</li><li><strong>Graphics:</strong>Any<br>\t</li><li><strong>Hard Drive:</strong>200 MB HD space<br>\t</li><li><strong>Sound:</strong>Any</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\">\t<li><strong>Processor:</strong>(2.0 GHz, single core) or better<br>\t</li><li><strong>Memory:</strong>2 GB RAM<br>\t</li><li><strong>Graphics:</strong>Any<br>\t</li><li><strong>Hard Drive:</strong>200 MB HD space<br>\t</li><li><strong>Sound:</strong>Any<br>\t</li><li><strong>Additional:</strong>This is not a GPU-intensive game.</li></ul>"
+      },
+      "developers": [
+        "Melos Han-Tani",
+        "Marina Kittaka"
+      ],
+      "publishers": [
+        "Analgesic Productions"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 749,
+        "discount_percent": 50,
+        "initial_formatted": "$14.99",
+        "final_formatted": "$7.49"
+      },
+      "packages": [
+        26585
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Anodyne",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 26585,
+              "percent_savings_text": "-50% ",
+              "percent_savings": 0,
+              "option_text": "Anodyne - <span class=\"discount_original_price\">$14.99</span> $7.49",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 749
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 67,
+          "description": "Camera Comfort"
+        },
+        {
+          "id": 78,
+          "description": "Adjustable Difficulty"
+        },
+        {
+          "id": 75,
+          "description": "Keyboard Only Option"
+        },
+        {
+          "id": 79,
+          "description": "Save Anytime"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_8413b03a99fe5fead1868f216e783164ae2e1144.600x338.jpg?t=1766101656",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_8413b03a99fe5fead1868f216e783164ae2e1144.1920x1080.jpg?t=1766101656"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_a6d267d178198f40a975c7ed612fb4df1017688f.600x338.jpg?t=1766101656",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_a6d267d178198f40a975c7ed612fb4df1017688f.1920x1080.jpg?t=1766101656"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_e688c64779934bfb315754048d2a711941643662.600x338.jpg?t=1766101656",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_e688c64779934bfb315754048d2a711941643662.1920x1080.jpg?t=1766101656"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_9533f5b16fccaa11069f098f5cf4ea14d3bf2d2b.600x338.jpg?t=1766101656",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_9533f5b16fccaa11069f098f5cf4ea14d3bf2d2b.1920x1080.jpg?t=1766101656"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_a157524bdb265c2a9ac2d2f37b56ae598e639431.600x338.jpg?t=1766101656",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_a157524bdb265c2a9ac2d2f37b56ae598e639431.1920x1080.jpg?t=1766101656"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_9dcc4232e29021b05562ccf96d834526c531318f.600x338.jpg?t=1766101656",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_9dcc4232e29021b05562ccf96d834526c531318f.1920x1080.jpg?t=1766101656"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_14104e72acad4f53d2c68e5e3e73368e7c4eb84d.600x338.jpg?t=1766101656",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_14104e72acad4f53d2c68e5e3e73368e7c4eb84d.1920x1080.jpg?t=1766101656"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_3d107cf5f292b6bd59e6669878fdbfcbb8e0fa49.600x338.jpg?t=1766101656",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_3d107cf5f292b6bd59e6669878fdbfcbb8e0fa49.1920x1080.jpg?t=1766101656"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_52b7965e8ca3db545ce9fa585eb91af5d03fb1d4.600x338.jpg?t=1766101656",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_52b7965e8ca3db545ce9fa585eb91af5d03fb1d4.1920x1080.jpg?t=1766101656"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_b69c494d083fc4d9ef5a10d1e83d157a4f111d1c.600x338.jpg?t=1766101656",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_b69c494d083fc4d9ef5a10d1e83d157a4f111d1c.1920x1080.jpg?t=1766101656"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_a15da25809f19e468f7e88f62219e3a692ee3967.600x338.jpg?t=1766101656",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_a15da25809f19e468f7e88f62219e3a692ee3967.1920x1080.jpg?t=1766101656"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_1bb456765d975a400938589442d97af66c922214.600x338.jpg?t=1766101656",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_1bb456765d975a400938589442d97af66c922214.1920x1080.jpg?t=1766101656"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_49c22157c01115ad88974e5aa639300ea3b539de.600x338.jpg?t=1766101656",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/234900/ss_49c22157c01115ad88974e5aa639300ea3b539de.1920x1080.jpg?t=1766101656"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256977630,
+          "name": "Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256977630/movie.293x165.jpg?t=1698039699",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/234900/621639/fadc63184c8aa714b6834781f238a7a72626fa37/1756444005/dash_av1.mpd?t=1698039699",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/234900/621639/fadc63184c8aa714b6834781f238a7a72626fa37/1756444005/dash_h264.mpd?t=1698039699",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/234900/621639/fadc63184c8aa714b6834781f238a7a72626fa37/1756444005/hls_264_master.m3u8?t=1698039699",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 973
+      },
+      "achievements": {
+        "total": 6,
+        "highlighted": [
+          {
+            "name": "A Tool",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/234900/eeb1a2c83d6f31d7425e183f186a97fcf0e93fc7.jpg"
+          },
+          {
+            "name": "Change",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/234900/0fb8c22ee6af178756a1034a5fd753f75aaa8b6e.jpg"
+          },
+          {
+            "name": "A Meeting",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/234900/9c26ebc9fdef66be5dadc23e28abf32ed63fc3f1.jpg"
+          },
+          {
+            "name": "100% the game with 37 cards",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/234900/60a95900300b8657bcbe3bc75ea0e3827d462616.jpg"
+          },
+          {
+            "name": "100% the game under 3 hours",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/234900/89f1ed41704bcad3988b540eaf275e134ea6aee1.jpg"
+          },
+          {
+            "name": "Lots of Cards",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/234900/21e0d074270ef317de7e1bfbdda46a979de84298.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Mar 22, 2013"
+      },
+      "support_info": {
+        "url": "",
+        "email": ""
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/234900?t=1766101656",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/234900?t=1766101656",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "16",
+          "required_age": "16",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência fantasiosa\nTemas sensíveis\nMedo"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "16",
+          "required_age": "16",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Fantasy-Gewalt"
+        }
+      }
+    }
+  }
+}

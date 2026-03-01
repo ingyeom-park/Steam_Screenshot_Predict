@@ -1,0 +1,250 @@
+{
+  "2712580": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "南栀 Unwavering love",
+      "steam_appid": 2712580,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "在前作（夜永 Eternal Love）的剧情发生一年半之后的聆花女子学院里，关于少女们成长的故事。<br />\r\n<br />\r\nstory<br />\r\n<br />\r\n夏至时节<br />\r\n少女将在栀子的芬芳中<br />\r\n迈向新奇的彼方<br />\r\n<br />\r\n聆听花语<br />\r\n归人亦在花儿的答案里<br />\r\n坚定内心的决意<br />\r\n<br />\r\nfeature<br />\r\n<br />\r\n甜蜜温馨的百合恋情<br />\r\n丝丝入扣的全员语音<br />\r\n动人心弦的华美音乐<br />\r\n精致细腻的CG画面<br />\r\n真实考究的剧情细节<br />\r\n不同选择的多个结局<br />\r\n<br />\r\n<br />\r\nstaff<br />\r\n<br />\r\n【企划】<br />\r\n白露社（White Dew Game）<br />\r\n【配音】<br />\r\n林簌<br />\r\n她放慢步调<br />\r\n一心不乱<br />\r\n月夜桥<br />\r\nXY大甘蔗<br />\r\n蓝豆娘就是豆豆<br />\r\n桂圆翊宝<br />\r\n风簌<br />\r\n【人设】<br />\r\nwhiisky<br />\r\n【CG】<br />\r\nwhiisky<br />\r\n【色彩】<br />\r\n永恒的旋律<br />\r\n彩虹老湿<br />\r\n【背景】<br />\r\n海胆<br />\r\n【音乐】<br />\r\nSaulRobinson<br />\r\n【UI】<br />\r\n匣中猫<br />\r\n铭铭子<br />\r\n【PV】<br />\r\n永友<br />\r\n【剧本】<br />\r\nHの天平<br />\r\n【程序】<br />\r\n黑白喵<br />\r\n喵之妖妖罗小黑<br />\r\n【演出】<br />\r\n雅典娜的触手<br />\r\n二索尼爆炸",
+      "about_the_game": "在前作（夜永 Eternal Love）的剧情发生一年半之后的聆花女子学院里，关于少女们成长的故事。<br />\r\n<br />\r\nstory<br />\r\n<br />\r\n夏至时节<br />\r\n少女将在栀子的芬芳中<br />\r\n迈向新奇的彼方<br />\r\n<br />\r\n聆听花语<br />\r\n归人亦在花儿的答案里<br />\r\n坚定内心的决意<br />\r\n<br />\r\nfeature<br />\r\n<br />\r\n甜蜜温馨的百合恋情<br />\r\n丝丝入扣的全员语音<br />\r\n动人心弦的华美音乐<br />\r\n精致细腻的CG画面<br />\r\n真实考究的剧情细节<br />\r\n不同选择的多个结局<br />\r\n<br />\r\n<br />\r\nstaff<br />\r\n<br />\r\n【企划】<br />\r\n白露社（White Dew Game）<br />\r\n【配音】<br />\r\n林簌<br />\r\n她放慢步调<br />\r\n一心不乱<br />\r\n月夜桥<br />\r\nXY大甘蔗<br />\r\n蓝豆娘就是豆豆<br />\r\n桂圆翊宝<br />\r\n风簌<br />\r\n【人设】<br />\r\nwhiisky<br />\r\n【CG】<br />\r\nwhiisky<br />\r\n【色彩】<br />\r\n永恒的旋律<br />\r\n彩虹老湿<br />\r\n【背景】<br />\r\n海胆<br />\r\n【音乐】<br />\r\nSaulRobinson<br />\r\n【UI】<br />\r\n匣中猫<br />\r\n铭铭子<br />\r\n【PV】<br />\r\n永友<br />\r\n【剧本】<br />\r\nHの天平<br />\r\n【程序】<br />\r\n黑白喵<br />\r\n喵之妖妖罗小黑<br />\r\n【演出】<br />\r\n雅典娜的触手<br />\r\n二索尼爆炸",
+      "short_description": "《南栀》是一款百合向视觉小说游戏，讲述了在前作（夜永 Eternal Love）剧情发生一年半之后，聆花女子学院中的少女们成长的故事。",
+      "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/header.jpg?t=1709193561",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/capsule_231x87.jpg?t=1709193561",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/capsule_184x69.jpg?t=1709193561",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> WIN7 SP1/WIN8/WIN10<br></li><li><strong>Processor:</strong> i3 2GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GT 625M<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> WIN7 SP1/WIN8/WIN10<br></li><li><strong>Processor:</strong> i3 2GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "白露社"
+      ],
+      "publishers": [
+        "白露社"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 899,
+        "final": 899,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$8.99"
+      },
+      "packages": [
+        971057
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 南栀 Unwavering love",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 971057,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "南栀 Unwavering love - $8.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 899
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/ss_907b6b17a1ed9b6cd471ba16b511375634c121dc.600x338.jpg?t=1709193561",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/ss_907b6b17a1ed9b6cd471ba16b511375634c121dc.1920x1080.jpg?t=1709193561"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/ss_26e7c087a426f8980034899e6aad6231ca1a6b29.600x338.jpg?t=1709193561",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/ss_26e7c087a426f8980034899e6aad6231ca1a6b29.1920x1080.jpg?t=1709193561"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/ss_6f64dd466485ec3bad49d59807bd6f69cd297489.600x338.jpg?t=1709193561",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/ss_6f64dd466485ec3bad49d59807bd6f69cd297489.1920x1080.jpg?t=1709193561"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/ss_db0d82861b5615c3353e374a8b7aa3799396f1c5.600x338.jpg?t=1709193561",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/ss_db0d82861b5615c3353e374a8b7aa3799396f1c5.1920x1080.jpg?t=1709193561"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/ss_27798ce2e676ee1a1262f3080c7e08359c7b64d0.600x338.jpg?t=1709193561",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/ss_27798ce2e676ee1a1262f3080c7e08359c7b64d0.1920x1080.jpg?t=1709193561"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/ss_23268189262061f7cf6597b09c02f146ba1ef58a.600x338.jpg?t=1709193561",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/ss_23268189262061f7cf6597b09c02f146ba1ef58a.1920x1080.jpg?t=1709193561"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/ss_be91279118d49ba9d00ce27388292aed97b15243.600x338.jpg?t=1709193561",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/ss_be91279118d49ba9d00ce27388292aed97b15243.1920x1080.jpg?t=1709193561"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/ss_11c5d1205a5ff385cea3c3fcd7152e25737800bc.600x338.jpg?t=1709193561",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2712580/ss_11c5d1205a5ff385cea3c3fcd7152e25737800bc.1920x1080.jpg?t=1709193561"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257001544,
+          "name": "PV",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257001544/movie.293x165.jpg?t=1708083145",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2712580/663344/c0d64cb2bf1bf652ffddcdf2a1e4524fa9039b22/1750893309/dash_av1.mpd?t=1708083145",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2712580/663344/c0d64cb2bf1bf652ffddcdf2a1e4524fa9039b22/1750893309/dash_h264.mpd?t=1708083145",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2712580/663344/c0d64cb2bf1bf652ffddcdf2a1e4524fa9039b22/1750893309/hls_264_master.m3u8?t=1708083145",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 733
+      },
+      "achievements": {
+        "total": 17,
+        "highlighted": [
+          {
+            "name": "了然此生",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2712580/3d49cf108ad756c2a35ba9597b6f36586d801163.jpg"
+          },
+          {
+            "name": "夜半密谈",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2712580/24747fa3ad6fff652564db6e64ebf644872b733e.jpg"
+          },
+          {
+            "name": "飞蛾扑月",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2712580/882040ceda390fdd51c4a20f244ef51fba3aa221.jpg"
+          },
+          {
+            "name": "好久不见",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2712580/6d3010642892255e4115ac7ad24c10e83ac336cd.jpg"
+          },
+          {
+            "name": "爱意轻抚",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2712580/987e34a7724a497e262f61e0bbc48f6bd6133b07.jpg"
+          },
+          {
+            "name": "开诚布公",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2712580/488385e64ad590935d98ec1d19e91716b3f76e58.jpg"
+          },
+          {
+            "name": "溺于情思",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2712580/abe663d92f56fedd021ab52846c241dcf7cdc4cb.jpg"
+          },
+          {
+            "name": "奋不顾身",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2712580/7a1123c79002902836b2c77cf0636e996619eaed.jpg"
+          },
+          {
+            "name": "园中嬉闹",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2712580/01e6ce311cc94e0e3c2b1fd085ad51570d5cc179.jpg"
+          },
+          {
+            "name": "黎明将至",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2712580/35cffa9854acd4884ee9de6380ba47328ad1a16a.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Feb 28, 2024"
+      },
+      "support_info": {
+        "url": "https://weibo.com/lovelifeloveidol",
+        "email": ""
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2712580?t=1709193561",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2712580?t=1709193561",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "10",
+          "required_age": "10",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Gewalt"
+        }
+      }
+    }
+  }
+}

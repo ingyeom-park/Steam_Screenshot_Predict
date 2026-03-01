@@ -1,0 +1,184 @@
+{
+  "442210": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Switchcars",
+      "steam_appid": 442210,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h2 class=\"bb_tag\" >🚗 All kinds of vehicles in all kinds of environments</h2><p class=\"bb_paragraph\" >Use more than 1300 realistic drivable vehicles, of all kinds, to get across challenging environments. The vehicles all have different properties and can get damaged, run out of fuel, get stuck, etc. You'll need to change them often - and can upgrade them, too.</p><h2 class=\"bb_tag\" >👾 A failed science experiment that takes you to the future</h2><p class=\"bb_paragraph\" >In a teleportation experiment gone wrong, dimensional rifts opened. Suddenly, you find yourself chased by interdimensional time-whales.</p><p class=\"bb_paragraph\" >Drive through the rifts and advance forward in time. In the year 2055 there is a special vehicle that will save you and all of humankind. The only problem? It is 1950 now!</p><p class=\"bb_paragraph\" >Luckily you posses experimental teleportation technology that lets you store up to 3 vehicles on you, so you can switch between them at any moment on your journey, as you encounter various environments and obstacles.</p><p class=\"bb_paragraph\" >Can you make it far enough into the future and save humankind?</p><h2 class=\"bb_tag\" >🕹️ Replayability is key</h2><p class=\"bb_paragraph\" >A typical Switchcars run takes about 10 minutes. Every run is different and as you get better you'll unlock new environments, years, and vehicles. The game features 100 environment lane types, all procedurally arranged.</p><h2 class=\"bb_tag\" >💛 Switchcars was born from a passion for vehicles</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Over 1300 detailed and realistic vehicles, spanning years 1950-2055</p></li><li><p class=\"bb_paragraph\" >Cars, bicycles, buses, trucks, trains, ships, planes, spacecraft, construction vehicles - you name it</p></li><li><p class=\"bb_paragraph\" >40 powerups and upgrades that can be stacked on all vehicles</p></li><li><p class=\"bb_paragraph\" >Made by a single dev in the span of 8 years</p></li></ul><h2 class=\"bb_tag\" >🛠️ Editor and mods</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Switchcars includes an in-game editor, where you can create your own vehicles and props</p></li><li><p class=\"bb_paragraph\" >The community has created over 2000 additional vehicles and props, so far. Check them out on our Discord server!</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/extras/d969b9fbfdd4f65da82d6c3d473328f9.poster.avif?t=1771798166\" width=256 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/extras/d969b9fbfdd4f65da82d6c3d473328f9.webm?t=1771798166\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/extras/d969b9fbfdd4f65da82d6c3d473328f9.mp4?t=1771798166\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p>",
+      "about_the_game": "<h2 class=\"bb_tag\" >🚗 All kinds of vehicles in all kinds of environments</h2><p class=\"bb_paragraph\" >Use more than 1300 realistic drivable vehicles, of all kinds, to get across challenging environments. The vehicles all have different properties and can get damaged, run out of fuel, get stuck, etc. You'll need to change them often - and can upgrade them, too.</p><h2 class=\"bb_tag\" >👾 A failed science experiment that takes you to the future</h2><p class=\"bb_paragraph\" >In a teleportation experiment gone wrong, dimensional rifts opened. Suddenly, you find yourself chased by interdimensional time-whales.</p><p class=\"bb_paragraph\" >Drive through the rifts and advance forward in time. In the year 2055 there is a special vehicle that will save you and all of humankind. The only problem? It is 1950 now!</p><p class=\"bb_paragraph\" >Luckily you posses experimental teleportation technology that lets you store up to 3 vehicles on you, so you can switch between them at any moment on your journey, as you encounter various environments and obstacles.</p><p class=\"bb_paragraph\" >Can you make it far enough into the future and save humankind?</p><h2 class=\"bb_tag\" >🕹️ Replayability is key</h2><p class=\"bb_paragraph\" >A typical Switchcars run takes about 10 minutes. Every run is different and as you get better you'll unlock new environments, years, and vehicles. The game features 100 environment lane types, all procedurally arranged.</p><h2 class=\"bb_tag\" >💛 Switchcars was born from a passion for vehicles</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Over 1300 detailed and realistic vehicles, spanning years 1950-2055</p></li><li><p class=\"bb_paragraph\" >Cars, bicycles, buses, trucks, trains, ships, planes, spacecraft, construction vehicles - you name it</p></li><li><p class=\"bb_paragraph\" >40 powerups and upgrades that can be stacked on all vehicles</p></li><li><p class=\"bb_paragraph\" >Made by a single dev in the span of 8 years</p></li></ul><h2 class=\"bb_tag\" >🛠️ Editor and mods</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Switchcars includes an in-game editor, where you can create your own vehicles and props</p></li><li><p class=\"bb_paragraph\" >The community has created over 2000 additional vehicles and props, so far. Check them out on our Discord server!</p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/extras/d969b9fbfdd4f65da82d6c3d473328f9.poster.avif?t=1771798166\" width=256 height=256 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/extras/d969b9fbfdd4f65da82d6c3d473328f9.webm?t=1771798166\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/extras/d969b9fbfdd4f65da82d6c3d473328f9.mp4?t=1771798166\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p>",
+      "short_description": "In a science experiment gone wrong, there's only one way to survive - traverse dynamic environments in over 1300 realistic vehicles, as fast as possible.",
+      "supported_languages": "English",
+      "reviews": "“Absolutely a game that I needed to write about right now”<br>PC Gamer<br><br>“Switchcars is a very strange game and I think it’s a very good one”<br>Rock, Paper, Shotgun<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/a50d2c0a9a9fcb21186011fe0e332ee4bdcc4351/header.jpg?t=1771798166",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/0ff94c862baa852e4ec866674cb5c8eced0096ff/capsule_231x87.jpg?t=1771798166",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/0ff94c862baa852e4ec866674cb5c8eced0096ff/capsule_184x69.jpg?t=1771798166",
+      "website": "https://www.altfuture.gg/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2.5 GHz<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> GeForce 6600 GT / Ati Radeon 9800XT<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2.5 GHz<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> GeForce 6600 GT / Ati Radeon 9800XT<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "developers": [
+        "Altfuture"
+      ],
+      "publishers": [
+        "Altfuture"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 899,
+        "final": 899,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$8.99"
+      },
+      "packages": [
+        93793
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Switchcars",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 93793,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Switchcars - $8.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 899
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "9",
+          "description": "Racing"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/ss_ce27326fc723a4e095628062899b21e907190b78.600x338.jpg?t=1771798166",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/ss_ce27326fc723a4e095628062899b21e907190b78.1920x1080.jpg?t=1771798166"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/ss_4a881e3ddd15bb68d9a9fa7afbbce3202949a2cc.600x338.jpg?t=1771798166",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/ss_4a881e3ddd15bb68d9a9fa7afbbce3202949a2cc.1920x1080.jpg?t=1771798166"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/ss_1536c6341bbdfe91ea8229bfb453eb3507ba0253.600x338.jpg?t=1771798166",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/ss_1536c6341bbdfe91ea8229bfb453eb3507ba0253.1920x1080.jpg?t=1771798166"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/ss_22b707f27e955928fec2bed0cc25d5c33602076e.600x338.jpg?t=1771798166",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/ss_22b707f27e955928fec2bed0cc25d5c33602076e.1920x1080.jpg?t=1771798166"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/ss_b01f25bddb5721c2e41a8af0c2a339a74f8e7bd1.600x338.jpg?t=1771798166",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/ss_b01f25bddb5721c2e41a8af0c2a339a74f8e7bd1.1920x1080.jpg?t=1771798166"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/ss_4f3dc8617ba81b665f261295f7565a950b94ca5f.600x338.jpg?t=1771798166",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/ss_4f3dc8617ba81b665f261295f7565a950b94ca5f.1920x1080.jpg?t=1771798166"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256831552,
+          "name": "Switchcars Trailer - Out of Early Access",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256831552/movie.293x165.jpg?t=1619801296",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/442210/363593/c770cf21e7d4b02d31af3b716362c1e5720dd95b/1751285805/dash_av1.mpd?t=1619801296",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/442210/363593/c770cf21e7d4b02d31af3b716362c1e5720dd95b/1751285805/dash_h264.mpd?t=1619801296",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/442210/363593/c770cf21e7d4b02d31af3b716362c1e5720dd95b/1751285805/hls_264_master.m3u8?t=1619801296",
+          "highlight": true
+        },
+        {
+          "id": 256832818,
+          "name": "Switchcars Gameplay - Hardcore Mode",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256832818/movie.293x165.jpg?t=1619801306",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/442210/366137/4812dec018175345a41273a3081267e30f69fe48/1751285807/dash_av1.mpd?t=1619801306",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/442210/366137/4812dec018175345a41273a3081267e30f69fe48/1751285807/dash_h264.mpd?t=1619801306",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/442210/366137/4812dec018175345a41273a3081267e30f69fe48/1751285807/hls_264_master.m3u8?t=1619801306",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 163
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Apr 30, 2021"
+      },
+      "support_info": {
+        "url": "https://discord.com/invite/altfuture",
+        "email": "support@altfuture.gg"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/442210?t=1771798166",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/442210/page_bg_raw.jpg?t=1771798166",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência fantasiosa"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "6",
+          "required_age": "6",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Fantasy-Gewalt"
+        }
+      }
+    }
+  }
+}

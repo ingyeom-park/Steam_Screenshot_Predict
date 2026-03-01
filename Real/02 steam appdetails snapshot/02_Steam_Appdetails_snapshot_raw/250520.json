@@ -1,0 +1,367 @@
+{
+  "250520": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "UnderRail",
+      "steam_appid": 250520,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        694330,
+        2604510
+      ],
+      "detailed_description": "<p class=\"bb_paragraph\" >Underrail is an old-school turn-based isometric indie role-playing game that focuses on exploration and combat. </p><p class=\"bb_paragraph\" >The game is set in a distant future, when life on the Earth’s surface has long since been made impossible and the remnants of humanity now dwell in the Underrail, a vast system of metro station-states that, it seems, are the last bastions of a fading race. </p><p class=\"bb_paragraph\" > The player takes control of one of the denizens of such a station-state whose life is about to become all that much more interesting and dangerous, as our protagonist is caught amidst the conflicting factions of the Underrail as they violently struggle to survive in the harsh underground environment.</p><h2 class=\"bb_tag\" >COMBAT</h2><p class=\"bb_paragraph\" >The game's turn-based combat features many different weapon types - pistols, rifles, crossbows, energy weapons, sledgehammers, knives and more, each with their own advantages and drawbacks.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cba0b91ce3e4227981f1c02f4889f852.poster.avif?t=1766066755\" width=750 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cba0b91ce3e4227981f1c02f4889f852.webm?t=1766066755\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cba0b91ce3e4227981f1c02f4889f852.mp4?t=1766066755\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >PSIONICS</h2><p class=\"bb_paragraph\" >The player is also able to learn powerful psionic abilities from one of the three psionic schools:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Metathermics</strong> - Burn your enemies alive or freeze them to death.</p></li><li><p class=\"bb_paragraph\" ><strong>Psychokinesis</strong> - Use the power of telekinesis for offensive or defensive purposes or electrocute your foes.</p></li><li><p class=\"bb_paragraph\" ><strong>Thought Control</strong> - Assault the minds of your enemies by overloading them, instilling  overwhelming fear, creating deadly hallucinations and more.</p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/99cea93b2b69a0738b6982293c627fe0.poster.avif?t=1766066755\" width=750 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/99cea93b2b69a0738b6982293c627fe0.webm?t=1766066755\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/99cea93b2b69a0738b6982293c627fe0.mp4?t=1766066755\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >SUBTERFUGE</h2><p class=\"bb_paragraph\" >For those looking to avoid direct confrontation, the game offers a set of subterfuge skills. Move around the world in <strong>stealth</strong> like a shadow, <strong>lockpicking</strong> doors and <strong>hacking</strong> computers. If people have something you want, you can often just <strong>pickpocket</strong> them. But if it does come to blows, you can use devious <strong>traps</strong> to stack the odds in your favour.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cdf92ac2388c984ef7ae78f0752be3f6.poster.avif?t=1766066755\" width=750 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cdf92ac2388c984ef7ae78f0752be3f6.webm?t=1766066755\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cdf92ac2388c984ef7ae78f0752be3f6.mp4?t=1766066755\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >CRAFTING</h2><p class=\"bb_paragraph\" >Underrail features an elaborate item crafting system. A vast majority of the armor, weapons and some other items encountered in the game can be crafted, and some are exclusively acquired through it. Crafted equipment tends to be superior to that which is scavenged or purchased in terms of raw numbers, provided you are investing in your crafting skills.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cdeed6e4c266a163c8276b185542a351.poster.avif?t=1766066755\" width=626 height=504 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cdeed6e4c266a163c8276b185542a351.webm?t=1766066755\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cdeed6e4c266a163c8276b185542a351.mp4?t=1766066755\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >Underrail is an old-school turn-based isometric indie role-playing game that focuses on exploration and combat. </p><p class=\"bb_paragraph\" >The game is set in a distant future, when life on the Earth’s surface has long since been made impossible and the remnants of humanity now dwell in the Underrail, a vast system of metro station-states that, it seems, are the last bastions of a fading race. </p><p class=\"bb_paragraph\" > The player takes control of one of the denizens of such a station-state whose life is about to become all that much more interesting and dangerous, as our protagonist is caught amidst the conflicting factions of the Underrail as they violently struggle to survive in the harsh underground environment.</p><h2 class=\"bb_tag\" >COMBAT</h2><p class=\"bb_paragraph\" >The game's turn-based combat features many different weapon types - pistols, rifles, crossbows, energy weapons, sledgehammers, knives and more, each with their own advantages and drawbacks.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cba0b91ce3e4227981f1c02f4889f852.poster.avif?t=1766066755\" width=750 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cba0b91ce3e4227981f1c02f4889f852.webm?t=1766066755\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cba0b91ce3e4227981f1c02f4889f852.mp4?t=1766066755\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >PSIONICS</h2><p class=\"bb_paragraph\" >The player is also able to learn powerful psionic abilities from one of the three psionic schools:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Metathermics</strong> - Burn your enemies alive or freeze them to death.</p></li><li><p class=\"bb_paragraph\" ><strong>Psychokinesis</strong> - Use the power of telekinesis for offensive or defensive purposes or electrocute your foes.</p></li><li><p class=\"bb_paragraph\" ><strong>Thought Control</strong> - Assault the minds of your enemies by overloading them, instilling  overwhelming fear, creating deadly hallucinations and more.</p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/99cea93b2b69a0738b6982293c627fe0.poster.avif?t=1766066755\" width=750 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/99cea93b2b69a0738b6982293c627fe0.webm?t=1766066755\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/99cea93b2b69a0738b6982293c627fe0.mp4?t=1766066755\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >SUBTERFUGE</h2><p class=\"bb_paragraph\" >For those looking to avoid direct confrontation, the game offers a set of subterfuge skills. Move around the world in <strong>stealth</strong> like a shadow, <strong>lockpicking</strong> doors and <strong>hacking</strong> computers. If people have something you want, you can often just <strong>pickpocket</strong> them. But if it does come to blows, you can use devious <strong>traps</strong> to stack the odds in your favour.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cdf92ac2388c984ef7ae78f0752be3f6.poster.avif?t=1766066755\" width=750 height=300 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cdf92ac2388c984ef7ae78f0752be3f6.webm?t=1766066755\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cdf92ac2388c984ef7ae78f0752be3f6.mp4?t=1766066755\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >CRAFTING</h2><p class=\"bb_paragraph\" >Underrail features an elaborate item crafting system. A vast majority of the armor, weapons and some other items encountered in the game can be crafted, and some are exclusively acquired through it. Crafted equipment tends to be superior to that which is scavenged or purchased in terms of raw numbers, provided you are investing in your crafting skills.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cdeed6e4c266a163c8276b185542a351.poster.avif?t=1766066755\" width=626 height=504 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cdeed6e4c266a163c8276b185542a351.webm?t=1766066755\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/extras/cdeed6e4c266a163c8276b185542a351.mp4?t=1766066755\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p>",
+      "short_description": "UnderRail is an old-school turn-based isometric role-playing game that features a large open post-apocalyptic world, deep and challenging combat and an intricate storyline.",
+      "supported_languages": "English",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/eb39cbd546717c8035eb214a4286bffa0ecaaa55/header.jpg?t=1766066755",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/07af5988661707427809a3777f75b306f1e631c9/capsule_231x87.jpg?t=1766066755",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/07af5988661707427809a3777f75b306f1e631c9/capsule_184x69.jpg?t=1766066755",
+      "website": "http://www.underrail.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP SP3<br></li><li><strong>Processor:</strong> 1.6GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GPU that supports shader model 2.0<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "Stygian Software"
+      ],
+      "publishers": [
+        "Stygian Software"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        30486
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy UnderRail",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 30486,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "UnderRail - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": {
+        "score": 72,
+        "url": "https://www.metacritic.com/game/pc/underrail?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/09bd29c005732e96088b2049464fbcb3d035a1af/ss_09bd29c005732e96088b2049464fbcb3d035a1af.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/09bd29c005732e96088b2049464fbcb3d035a1af/ss_09bd29c005732e96088b2049464fbcb3d035a1af.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ba4ba5883fd807577b4ca87d97310abdca604a27/ss_ba4ba5883fd807577b4ca87d97310abdca604a27.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ba4ba5883fd807577b4ca87d97310abdca604a27/ss_ba4ba5883fd807577b4ca87d97310abdca604a27.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/55e83539bafef5cd5814aaba316007282ef07739/ss_55e83539bafef5cd5814aaba316007282ef07739.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/55e83539bafef5cd5814aaba316007282ef07739/ss_55e83539bafef5cd5814aaba316007282ef07739.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/cf07436ff105774d8ac5fe93a69c75e4cfd47742/ss_cf07436ff105774d8ac5fe93a69c75e4cfd47742.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/cf07436ff105774d8ac5fe93a69c75e4cfd47742/ss_cf07436ff105774d8ac5fe93a69c75e4cfd47742.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/fce4cb70eef98c970999c7ef41089d32e75b6fc3/ss_fce4cb70eef98c970999c7ef41089d32e75b6fc3.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/fce4cb70eef98c970999c7ef41089d32e75b6fc3/ss_fce4cb70eef98c970999c7ef41089d32e75b6fc3.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ss_b29a23e4ee21d3399e0cda33a127ae288a20574c.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ss_b29a23e4ee21d3399e0cda33a127ae288a20574c.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ss_1b7ef46a9148d7c4903c43e5ba5340eef747c557.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ss_1b7ef46a9148d7c4903c43e5ba5340eef747c557.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ss_ca8a3aee407a30179469b09081781edb96520e01.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ss_ca8a3aee407a30179469b09081781edb96520e01.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/c3a1cd79fa54389627fe654db8df2b1dcaab3cce/ss_c3a1cd79fa54389627fe654db8df2b1dcaab3cce.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/c3a1cd79fa54389627fe654db8df2b1dcaab3cce/ss_c3a1cd79fa54389627fe654db8df2b1dcaab3cce.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ss_56f68d9a5885e19689fdc6d5cf812719ed745692.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ss_56f68d9a5885e19689fdc6d5cf812719ed745692.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/09058dbfcbe1df913c28daed077b3b603dc3e1e4/ss_09058dbfcbe1df913c28daed077b3b603dc3e1e4.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/09058dbfcbe1df913c28daed077b3b603dc3e1e4/ss_09058dbfcbe1df913c28daed077b3b603dc3e1e4.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/b767b4f315a6763f401a72b1bb9bef920f28bf37/ss_b767b4f315a6763f401a72b1bb9bef920f28bf37.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/b767b4f315a6763f401a72b1bb9bef920f28bf37/ss_b767b4f315a6763f401a72b1bb9bef920f28bf37.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/77e2814a266488d4410c0cc11ce5f3a29b884b04/ss_77e2814a266488d4410c0cc11ce5f3a29b884b04.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/77e2814a266488d4410c0cc11ce5f3a29b884b04/ss_77e2814a266488d4410c0cc11ce5f3a29b884b04.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/775a4a4afe6715e2f8de26f219a62fed3171eda8/ss_775a4a4afe6715e2f8de26f219a62fed3171eda8.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/775a4a4afe6715e2f8de26f219a62fed3171eda8/ss_775a4a4afe6715e2f8de26f219a62fed3171eda8.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/33645c1afec1719d4a6c94f277ea4fa04f341646/ss_33645c1afec1719d4a6c94f277ea4fa04f341646.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/33645c1afec1719d4a6c94f277ea4fa04f341646/ss_33645c1afec1719d4a6c94f277ea4fa04f341646.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/69d0d7ff23fb32423a88604d64e5b28cd9f8bb25/ss_69d0d7ff23fb32423a88604d64e5b28cd9f8bb25.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/69d0d7ff23fb32423a88604d64e5b28cd9f8bb25/ss_69d0d7ff23fb32423a88604d64e5b28cd9f8bb25.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/708897f328e559b130c886ad70e33b1ef4bc0b3e/ss_708897f328e559b130c886ad70e33b1ef4bc0b3e.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/708897f328e559b130c886ad70e33b1ef4bc0b3e/ss_708897f328e559b130c886ad70e33b1ef4bc0b3e.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/8870dfb850eb79d6a72ecafdf7ac010cbc16f9d5/ss_8870dfb850eb79d6a72ecafdf7ac010cbc16f9d5.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/8870dfb850eb79d6a72ecafdf7ac010cbc16f9d5/ss_8870dfb850eb79d6a72ecafdf7ac010cbc16f9d5.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 18,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/2dcae4d6d88b6cdd207c7c57c9c8e981fbe2e4ae/ss_2dcae4d6d88b6cdd207c7c57c9c8e981fbe2e4ae.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/2dcae4d6d88b6cdd207c7c57c9c8e981fbe2e4ae/ss_2dcae4d6d88b6cdd207c7c57c9c8e981fbe2e4ae.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 19,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/b5d24a8fbdb5532be72fdfffc6d6f7ae389a2e01/ss_b5d24a8fbdb5532be72fdfffc6d6f7ae389a2e01.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/b5d24a8fbdb5532be72fdfffc6d6f7ae389a2e01/ss_b5d24a8fbdb5532be72fdfffc6d6f7ae389a2e01.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 20,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/da2775f6ccc545712676cf26e11786b308794fd7/ss_da2775f6ccc545712676cf26e11786b308794fd7.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/da2775f6ccc545712676cf26e11786b308794fd7/ss_da2775f6ccc545712676cf26e11786b308794fd7.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 21,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/e09195fc6d42e5687b32fac25fe1a668a9360912/ss_e09195fc6d42e5687b32fac25fe1a668a9360912.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/e09195fc6d42e5687b32fac25fe1a668a9360912/ss_e09195fc6d42e5687b32fac25fe1a668a9360912.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 22,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/6effa0ff302ccd2a7ca3d08013ab94a131cc3b1f/ss_6effa0ff302ccd2a7ca3d08013ab94a131cc3b1f.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/6effa0ff302ccd2a7ca3d08013ab94a131cc3b1f/ss_6effa0ff302ccd2a7ca3d08013ab94a131cc3b1f.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 23,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/234ffd96659fe61cf8bbb411a9674cfccde40649/ss_234ffd96659fe61cf8bbb411a9674cfccde40649.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/234ffd96659fe61cf8bbb411a9674cfccde40649/ss_234ffd96659fe61cf8bbb411a9674cfccde40649.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 24,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/1c6cbb01e06034da44835d608c058cef9ccc4e92/ss_1c6cbb01e06034da44835d608c058cef9ccc4e92.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/1c6cbb01e06034da44835d608c058cef9ccc4e92/ss_1c6cbb01e06034da44835d608c058cef9ccc4e92.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 25,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/81058e3afaa6faea58f677074486af2f37e9046f/ss_81058e3afaa6faea58f677074486af2f37e9046f.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/81058e3afaa6faea58f677074486af2f37e9046f/ss_81058e3afaa6faea58f677074486af2f37e9046f.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 26,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/83e1cea4e619d054970afd735cbf1ac68b0200e2/ss_83e1cea4e619d054970afd735cbf1ac68b0200e2.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/83e1cea4e619d054970afd735cbf1ac68b0200e2/ss_83e1cea4e619d054970afd735cbf1ac68b0200e2.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 27,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/1cd429c4d75f362ef6ee0d8a7e69976d4dea4a7f/ss_1cd429c4d75f362ef6ee0d8a7e69976d4dea4a7f.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/1cd429c4d75f362ef6ee0d8a7e69976d4dea4a7f/ss_1cd429c4d75f362ef6ee0d8a7e69976d4dea4a7f.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 28,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/cfc69c859e0c9a9bc134621fba32873da7bd0ff2/ss_cfc69c859e0c9a9bc134621fba32873da7bd0ff2.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/cfc69c859e0c9a9bc134621fba32873da7bd0ff2/ss_cfc69c859e0c9a9bc134621fba32873da7bd0ff2.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 29,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/3e4d34911aaaceda00d280f18aaaf6f6a9bdf45e/ss_3e4d34911aaaceda00d280f18aaaf6f6a9bdf45e.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/3e4d34911aaaceda00d280f18aaaf6f6a9bdf45e/ss_3e4d34911aaaceda00d280f18aaaf6f6a9bdf45e.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 30,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/9a909118a6c2476dc5c39590e605c0d93425e0ac/ss_9a909118a6c2476dc5c39590e605c0d93425e0ac.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/9a909118a6c2476dc5c39590e605c0d93425e0ac/ss_9a909118a6c2476dc5c39590e605c0d93425e0ac.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 31,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/2a4c862b129be70c46598aea18da52c4acdb2377/ss_2a4c862b129be70c46598aea18da52c4acdb2377.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/2a4c862b129be70c46598aea18da52c4acdb2377/ss_2a4c862b129be70c46598aea18da52c4acdb2377.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 32,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/6095596b791bef2755786b8bcfe7025209b0f447/ss_6095596b791bef2755786b8bcfe7025209b0f447.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/6095596b791bef2755786b8bcfe7025209b0f447/ss_6095596b791bef2755786b8bcfe7025209b0f447.1920x1080.jpg?t=1766066755"
+        },
+        {
+          "id": 33,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ss_737c47ecf9f104a5d456bc2d8b9dc7c35926fe7e.600x338.jpg?t=1766066755",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/ss_737c47ecf9f104a5d456bc2d8b9dc7c35926fe7e.1920x1080.jpg?t=1766066755"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257251477,
+          "name": "Underrail Trailer (2025)",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257251477/e3462cb1027621f9744266aa2f470c5f450baf80/movie_600x337.jpg?t=1766066752",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/250520/1069304796/1711327ff1e504101bcdee24f18ec9a09f161a2e/1765980874/dash_av1.mpd?t=1766066752",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/250520/1069304796/1711327ff1e504101bcdee24f18ec9a09f161a2e/1765980874/dash_h264.mpd?t=1766066752",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/250520/1069304796/1711327ff1e504101bcdee24f18ec9a09f161a2e/1765980874/hls_264_master.m3u8?t=1766066752",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 6149
+      },
+      "achievements": {
+        "total": 55,
+        "highlighted": [
+          {
+            "name": "First Blood!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250520/c087f5d01c7502c442f58d122b2616eb79cd9264.jpg"
+          },
+          {
+            "name": "Somebody Called For an Exterminator?",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250520/b84feb17df73b619d37b66086162b963b6e66b04.jpg"
+          },
+          {
+            "name": "It's Buggy",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250520/acc4523079e106b1e75ac6a4dd0bae31c1ca1325.jpg"
+          },
+          {
+            "name": "Terminator Exterminator",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250520/b8bd2fbee401037130f1b1c9e6790a50a42ed8fe.jpg"
+          },
+          {
+            "name": "Antisocial Tendencies",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250520/6a2fb6dab6f6ac21bca5032e02b541c77733ef14.jpg"
+          },
+          {
+            "name": "Backalley Pugilism",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250520/9b60f9de001a1b63ff168b9c4d389c219f4b74ad.jpg"
+          },
+          {
+            "name": "Mr. Stabby",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250520/9d1e3547bf18a9ee8d70c2012e41332c980d85d3.jpg"
+          },
+          {
+            "name": "It's Hammer Time!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250520/21b86e87bbec65d7f436e37b58903418b6b73371.jpg"
+          },
+          {
+            "name": "Run and Gun",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250520/73dcf82c81591cf428d6d7535d136f2a6b3ef451.jpg"
+          },
+          {
+            "name": "Phasers Set to Kill",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250520/d26a31d5470185a1b0c28c1cc7811f4a9b74692e.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Dec 18, 2015"
+      },
+      "support_info": {
+        "url": "http://www.underrail.com/forums/",
+        "email": "admin@underrail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/250520?t=1766066755",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250520/b0b96c07fe22087215178778d5c1311602127327/page_bg_raw.jpg?t=1766066755",
+      "content_descriptors": {
+        "ids": [
+          5
+        ],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "18",
+          "required_age": "18",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência fantasiosa\nAtos criminosos\nTemas sensíveis"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "18",
+          "required_age": "18",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Fantasy-Gewalt"
+        }
+      }
+    }
+  }
+}

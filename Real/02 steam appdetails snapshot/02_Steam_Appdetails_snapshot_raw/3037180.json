@@ -1,0 +1,233 @@
+{
+  "3037180": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "深空七号 Deep Space 7",
+      "steam_appid": 3037180,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h2 class=\"bb_tag\" >Synopsis</h2>  The Deep Space 7 Space Research Institute, located adjacent to Mars, is facing an unprecedented disaster. Due to a sudden leak accident, the entire space station was plunged into chaos and crisis. In the space station filled with monsters,<br>Aya, as a staff member of the space station, faced numerous dangers and embarked on a journey of escape.<h2 class=\"bb_tag\" >Game content</h2>  This is a third person action game that mainly includes shooting, puzzle solving, and other elements. At the same time, the game's supplies are also very limited, and players need to manage resources. The game has a terrifying and tense atmosphere, dark channels, flashing lights, and a variety of different weapons to use. Weapons can be upgraded, and the protagonist can unlock multiple sets of clothing. There are various puzzles and interactive objects, different attack methods of zombie monsters, and a prop system that can be combined. It includes main storyline levels, and future plans will also add different challenge cards<h2 class=\"bb_tag\" >Development team</h2>  This is my first single player game that I have personally developed, and the game is still under development. Feel free to provide suggestions, and the game will continue to be updated!<h2 class=\"bb_tag\" >Adult content description</h2>  The game has violent elements, including amputations and head attacks on monsters. Please note this",
+      "about_the_game": "<h2 class=\"bb_tag\" >Synopsis</h2>  The Deep Space 7 Space Research Institute, located adjacent to Mars, is facing an unprecedented disaster. Due to a sudden leak accident, the entire space station was plunged into chaos and crisis. In the space station filled with monsters,<br>Aya, as a staff member of the space station, faced numerous dangers and embarked on a journey of escape.<h2 class=\"bb_tag\" >Game content</h2>  This is a third person action game that mainly includes shooting, puzzle solving, and other elements. At the same time, the game's supplies are also very limited, and players need to manage resources. The game has a terrifying and tense atmosphere, dark channels, flashing lights, and a variety of different weapons to use. Weapons can be upgraded, and the protagonist can unlock multiple sets of clothing. There are various puzzles and interactive objects, different attack methods of zombie monsters, and a prop system that can be combined. It includes main storyline levels, and future plans will also add different challenge cards<h2 class=\"bb_tag\" >Development team</h2>  This is my first single player game that I have personally developed, and the game is still under development. Feel free to provide suggestions, and the game will continue to be updated!<h2 class=\"bb_tag\" >Adult content description</h2>  The game has violent elements, including amputations and head attacks on monsters. Please note this",
+      "short_description": "This is an independent action shooting game with a third person horror atmosphere. Facing the terrifying monsters in the space station, you must overcome the shortage of supplies, solve numerous mysteries, and successfully escape danger",
+      "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong>, Japanese, French, Italian, German, Spanish - Spain, Ukrainian, Russian, Traditional Chinese, Portuguese - Brazil, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037180/header.jpg?t=1755973224",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037180/capsule_231x87.jpg?t=1755973224",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037180/capsule_184x69.jpg?t=1755973224",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> WINDOWS 10<br></li><li><strong>Processor:</strong> Intel Core i5-7500 or AMD Ryzen 3 1200<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 2060<br></li><li><strong>Storage:</strong> 40 GB available space<br></li><li><strong>Additional Notes:</strong> With thes requirements,it's recommended that game is played on Low quality settings.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> WINDOWS 10<br></li><li><strong>Processor:</strong> Intel Core i5 9600 or AMD Ryzen 3  3600<br></li><li><strong>Memory:</strong> 32 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 4070<br></li><li><strong>Storage:</strong> 40 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "JT Studio all right reserved.",
+      "developers": [
+        "JT Studio"
+      ],
+      "publishers": [
+        "JT Studio"
+      ],
+      "demos": [
+        {
+          "appid": 3050930,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 599,
+        "final": 599,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$5.99"
+      },
+      "packages": [
+        1079738
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 深空七号 Deep Space 7",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1079738,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "深空七号 Deep Space 7 - $5.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 599
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037180/ss_9c7b97047f878ec326de5f9c693724e15d31779a.600x338.jpg?t=1755973224",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037180/ss_9c7b97047f878ec326de5f9c693724e15d31779a.1920x1080.jpg?t=1755973224"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037180/ss_6cac3df9328012922e3d17f434c07b3aeedce6bf.600x338.jpg?t=1755973224",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037180/ss_6cac3df9328012922e3d17f434c07b3aeedce6bf.1920x1080.jpg?t=1755973224"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037180/ss_8142e6b379a874d57ae369e90655fbbbad0620b6.600x338.jpg?t=1755973224",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037180/ss_8142e6b379a874d57ae369e90655fbbbad0620b6.1920x1080.jpg?t=1755973224"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037180/ss_e5ade46815a7afd8e26aa84a1f77011e92d871f6.600x338.jpg?t=1755973224",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037180/ss_e5ade46815a7afd8e26aa84a1f77011e92d871f6.1920x1080.jpg?t=1755973224"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037180/ss_3aeceb0f4ab9a8da79a50a987f2afa42531a1bec.600x338.jpg?t=1755973224",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3037180/ss_3aeceb0f4ab9a8da79a50a987f2afa42531a1bec.1920x1080.jpg?t=1755973224"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257030475,
+          "name": "Game",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257030475/movie.293x165.jpg?t=1718529607",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3037180/712611/b8c38aaa74ef4e74958725f39b0695f24b3832db/1750959948/dash_av1.mpd?t=1718529607",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3037180/712611/b8c38aaa74ef4e74958725f39b0695f24b3832db/1750959948/dash_h264.mpd?t=1718529607",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3037180/712611/b8c38aaa74ef4e74958725f39b0695f24b3832db/1750959948/hls_264_master.m3u8?t=1718529607",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 229
+      },
+      "achievements": {
+        "total": 9,
+        "highlighted": [
+          {
+            "name": "Survivor",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3037180/5b148633853680e5ce9c6b2fdee3113bb75108a4.jpg"
+          },
+          {
+            "name": "Nightmare No More",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3037180/276e37776652f15c461331aea519564a84b88932.jpg"
+          },
+          {
+            "name": "Fighting Expert",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3037180/c218b9f20be2fbe1fc7c4a2e65e11fb097c6aed2.jpg"
+          },
+          {
+            "name": "Shooting Expert",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3037180/79c3ceaa1893a59081bd1f90dad1f67b8a07891c.jpg"
+          },
+          {
+            "name": "Demolition Expert",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3037180/11eebcbdd0f98aed6deb417d3c683847eaf2d908.jpg"
+          },
+          {
+            "name": " Bug Killer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3037180/9d9adf56a3742e29bd56f13071bcf4a1721c0522.jpg"
+          },
+          {
+            "name": " Rich Man",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3037180/46032d9cf20575efa23d4bac034ab6a1bf679a60.jpg"
+          },
+          {
+            "name": "Not Enough Space",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3037180/04ef81805ea9c8ee85edc98400cc25a6e19273c5.jpg"
+          },
+          {
+            "name": "Weapons Expert",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3037180/f5f6f3d69e4499ad0378c961ad5114918cf5694b.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 26, 2024"
+      },
+      "support_info": {
+        "url": "",
+        "email": "219842@qq.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3037180?t=1755973224",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3037180?t=1755973224",
+      "content_descriptors": {
+        "ids": [
+          2,
+          5
+        ],
+        "notes": "The game has violent elements, including amputations and head attacks on monsters. Please note this"
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "18",
+          "required_age": "18",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência Extrema\nLinguagem imprópria\nMedo"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "18",
+          "required_age": "18",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Drastische Gewalt\nSexuelle Andeutungen\nDerbe Sprache"
+        }
+      }
+    }
+  }
+}

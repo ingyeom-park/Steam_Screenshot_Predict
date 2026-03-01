@@ -1,0 +1,282 @@
+{
+  "2421310": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "桃色武林",
+      "steam_appid": 2421310,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>Game Tips</h1><p><p class=\"bb_paragraph\" >Login screen Press K and C at the same time to get what you want</p></p><br><h1>About the Game</h1>《桃色武林》是一款武侠题材的角色扮演游戏，在游戏中，玩家将扮演一个初出茅庐的江湖小生，在战斗和历练中结识红颜知己，并与她们共同闯荡这个充满危机与机遇的江湖世界。<br><br>抛枕翠云光，绣衣闻异香。<br>潜来珠锁动，惊觉银屏梦。<br>脸慢笑盈盈，相看无限情。<br><br>【游戏特色】<br>*多种战斗流派任你选择，上百种技能自由搭配组合，绝世武功助您驰骋江湖；<br>*战斗内随机产生道具、敌人以及升级奖励，每一局都是全新体验！<br>*地图中还有宝箱，开启宝箱可以获得技能",
+      "about_the_game": "《桃色武林》是一款武侠题材的角色扮演游戏，在游戏中，玩家将扮演一个初出茅庐的江湖小生，在战斗和历练中结识红颜知己，并与她们共同闯荡这个充满危机与机遇的江湖世界。<br />\r\n<br />\r\n抛枕翠云光，绣衣闻异香。<br />\r\n潜来珠锁动，惊觉银屏梦。<br />\r\n脸慢笑盈盈，相看无限情。<br />\r\n<br />\r\n【游戏特色】<br />\r\n*多种战斗流派任你选择，上百种技能自由搭配组合，绝世武功助您驰骋江湖；<br />\r\n*战斗内随机产生道具、敌人以及升级奖励，每一局都是全新体验！<br />\r\n*地图中还有宝箱，开启宝箱可以获得技能",
+      "short_description": "玩家将扮演一个初出茅庐的江湖小生，在战斗和历练中结识红颜知己，并与她们共同闯荡这个充满危机与机遇的江湖世界。",
+      "supported_languages": "Simplified Chinese, Traditional Chinese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/header.jpg?t=1756566305",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/08004a727a606b3cbfb88e15198d70afed9036d1/capsule_231x87.jpg?t=1756566305",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/08004a727a606b3cbfb88e15198d70afed9036d1/capsule_184x69.jpg?t=1756566305",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10+<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i3-3220<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 1Gb Video Memory, Capable of OpenGL 3.0+ Support<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10+<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i5-3470<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 1Gb Video Memory, Capable of OpenGL 3.0+ Support<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "人型ですカオス"
+      ],
+      "publishers": [
+        "人型ですカオス"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        986258
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 桃色武林",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 986258,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "桃色武林 - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_0519bf07cfe3625a63ce60646f4cd62e732b70b5.600x338.jpg?t=1756566305",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_0519bf07cfe3625a63ce60646f4cd62e732b70b5.1920x1080.jpg?t=1756566305"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_965dbf09739e727197a3485cfbb85a39ca634677.600x338.jpg?t=1756566305",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_965dbf09739e727197a3485cfbb85a39ca634677.1920x1080.jpg?t=1756566305"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_3011dd60f472cf4d8e9884ca6447b20914e1fc1c.600x338.jpg?t=1756566305",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_3011dd60f472cf4d8e9884ca6447b20914e1fc1c.1920x1080.jpg?t=1756566305"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_d4dfcd6cc0634775971cfa73748fe736e8562004.600x338.jpg?t=1756566305",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_d4dfcd6cc0634775971cfa73748fe736e8562004.1920x1080.jpg?t=1756566305"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_776253b879ee4388929df70bcdec3e69acc67f0a.600x338.jpg?t=1756566305",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_776253b879ee4388929df70bcdec3e69acc67f0a.1920x1080.jpg?t=1756566305"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_f2167e7341d8a61c51c1b600e4a888fa6f458b01.600x338.jpg?t=1756566305",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_f2167e7341d8a61c51c1b600e4a888fa6f458b01.1920x1080.jpg?t=1756566305"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_3ee414a68705ddeeb768edc17185ac4576b1ef97.600x338.jpg?t=1756566305",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_3ee414a68705ddeeb768edc17185ac4576b1ef97.1920x1080.jpg?t=1756566305"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_107afa4a8aae292fa96c25f454b2142c84b7af77.600x338.jpg?t=1756566305",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_107afa4a8aae292fa96c25f454b2142c84b7af77.1920x1080.jpg?t=1756566305"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_af4ed2ea77a6a2e3f32c04e601c2d9ac63da478b.600x338.jpg?t=1756566305",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_af4ed2ea77a6a2e3f32c04e601c2d9ac63da478b.1920x1080.jpg?t=1756566305"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_0c306bc994610d1f481ee0dd2dba62155625c272.600x338.jpg?t=1756566305",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_0c306bc994610d1f481ee0dd2dba62155625c272.1920x1080.jpg?t=1756566305"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_f1807c8504da3a0873e00aa6c577393459c94cb5.600x338.jpg?t=1756566305",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_f1807c8504da3a0873e00aa6c577393459c94cb5.1920x1080.jpg?t=1756566305"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_688590a1d91872c1cadea3f457e0923073872676.600x338.jpg?t=1756566305",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_688590a1d91872c1cadea3f457e0923073872676.1920x1080.jpg?t=1756566305"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_977aa199242039a468c26e7c6153d144c46e7e02.600x338.jpg?t=1756566305",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_977aa199242039a468c26e7c6153d144c46e7e02.1920x1080.jpg?t=1756566305"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_30a4dbf06ce2861ef055f0357a48ce708f1c8282.600x338.jpg?t=1756566305",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_30a4dbf06ce2861ef055f0357a48ce708f1c8282.1920x1080.jpg?t=1756566305"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_112b1c6a734e8ef4b8cd4e81af0584ae61bab6ac.600x338.jpg?t=1756566305",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_112b1c6a734e8ef4b8cd4e81af0584ae61bab6ac.1920x1080.jpg?t=1756566305"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_be1f7bbd6978c8ac9b52753b83d7d3eeec9b97e3.600x338.jpg?t=1756566305",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2421310/ss_be1f7bbd6978c8ac9b52753b83d7d3eeec9b97e3.1920x1080.jpg?t=1756566305"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257077192,
+          "name": "pv",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257077192/ede3fe18ae60c156ed39b48abaa28432d4d156f5/movie_600x337.jpg?t=1732731853",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2421310/792040/104378ddf34e81c097f381df315fa2ccb2022d7d/1750917237/dash_av1.mpd?t=1732731853",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2421310/792040/104378ddf34e81c097f381df315fa2ccb2022d7d/1750917237/dash_h264.mpd?t=1732731853",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2421310/792040/104378ddf34e81c097f381df315fa2ccb2022d7d/1750917237/hls_264_master.m3u8?t=1732731853",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 498
+      },
+      "achievements": {
+        "total": 11,
+        "highlighted": [
+          {
+            "name": "拯救萧衡雁",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2421310/706be52a01ac3879afa2e2b80a50ff739239286b.jpg"
+          },
+          {
+            "name": "救助叶仙芝",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2421310/1b8b52d7f6673a09876456c88be05e51c7e90d13.jpg"
+          },
+          {
+            "name": "拯救暮寒雪",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2421310/5550b016d34f5be2f2e2126c46fda7806f252906.jpg"
+          },
+          {
+            "name": "救助庄素晴",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2421310/5d3a7575ebee08c569af5d50e27d0f843a044e0e.jpg"
+          },
+          {
+            "name": "拯救虞紫瑶",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2421310/4f3973229f2eb00b4a7c8d424701833b3e9475de.jpg"
+          },
+          {
+            "name": "拯救尹念念",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2421310/fb32a70241cd668ed8f2060947c9dbf6fefd49f7.jpg"
+          },
+          {
+            "name": "拯救黑迦丽",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2421310/5070a09caf64c45228597d6b70aa20564200b5a7.jpg"
+          },
+          {
+            "name": "无法拯救",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2421310/814a68c8a1da63c2a3718cab4f32159d661929c5.jpg"
+          },
+          {
+            "name": "赴死",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2421310/1f15090ac8f0fb5ce6e96aef8473c71fe58c58bb.jpg"
+          },
+          {
+            "name": "逃亡",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2421310/3aaf9a2ee60b0f11fe93f9bab99ec3bbcb7b7f6c.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Dec 5, 2024"
+      },
+      "support_info": {
+        "url": "",
+        "email": "agfun2024@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2421310?t=1756566305",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2421310?t=1756566305",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Conteúdo sexual\nViolência"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Sexuelle Andeutungen\nGewalt"
+        }
+      }
+    }
+  }
+}

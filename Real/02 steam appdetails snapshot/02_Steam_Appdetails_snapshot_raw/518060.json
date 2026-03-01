@@ -1,0 +1,351 @@
+{
+  "518060": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Chess Ultra",
+      "steam_appid": 518060,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        638011,
+        638980,
+        638981,
+        639000,
+        639001,
+        638010,
+        813380,
+        816980,
+        816981,
+        816982
+      ],
+      "detailed_description": "<p class=\"bb_paragraph\" ><strong>Introducing the most breathtaking chess game ever made.</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/df89b9d556ca0358a856e33fd2e4912a.poster.avif?t=1764082204\" width=620 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/df89b9d556ca0358a856e33fd2e4912a.webm?t=1764082204\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/df89b9d556ca0358a856e33fd2e4912a.mp4?t=1764082204\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Chess Ultra injects the greatest strategy game of all time with a modern twist; offering the ultimate chess experience with stunning 4K visuals, Grandmaster approved AI and full VR compatibility.</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Stunning chess sets and beautiful environments</p></li><li><p class=\"bb_paragraph\" >10 Grandmaster-approved AI levels</p></li><li><p class=\"bb_paragraph\" >Intuitive, overhauled local and online multiplayer with ELO ranking system</p></li><li><p class=\"bb_paragraph\" >Comprehensive time controls, including Classical, Blitz and Marathon, available online</p></li><li><p class=\"bb_paragraph\" >Cross-platform online play and leaderboards</p></li><li><p class=\"bb_paragraph\" >Spectate and compete in Official Ripstone tournaments</p></li><li><p class=\"bb_paragraph\" >Demonstrate your skills in over 80 chess puzzles</p></li><li><p class=\"bb_paragraph\" >Re-write the past by winning the biggest historic matches</p></li><li><p class=\"bb_paragraph\" >Export portable game notation (PGN) for every game, locally and online</p></li><li><p class=\"bb_paragraph\" >Full Twitch integration invites you to play against your community</p></li><li><p class=\"bb_paragraph\" >Play in VR and immerse yourself in the Chess Ultra experience</p></li><li><p class=\"bb_paragraph\" >In-depth tutorials to help improve your game</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/ab9bd1a66bdf688526d6596303315d3c.poster.avif?t=1764082204\" width=620 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/ab9bd1a66bdf688526d6596303315d3c.webm?t=1764082204\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/ab9bd1a66bdf688526d6596303315d3c.mp4?t=1764082204\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >With full Oculus Rift and HTC Vive support, play Chess Ultra in VR for the most breathtaking chess experience to date. From the wood grains on the antique mahogany board in the library, to the luxury felt on the bottom of every chess piece; chess has never looked this good. Physically reach out to make your move and focus entirely on the game at hand.</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Compatible with Oculus Rift and HTC Vive</p></li><li><p class=\"bb_paragraph\" >Use Oculus Touch or Vive controllers to reach out and move the pieces</p></li><li><p class=\"bb_paragraph\" >Immerse yourself in beautiful, ultra-realistic environments</p></li><li><p class=\"bb_paragraph\" >Change your perspective of each environment by standing to get a better view</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Take the most extreme chess challenge in Gomorrah. Will you survive?</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/58e4b87e6c6d4d33969403709dfc4d4d.poster.avif?t=1764082204\" width=620 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/58e4b87e6c6d4d33969403709dfc4d4d.webm?t=1764082204\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/58e4b87e6c6d4d33969403709dfc4d4d.mp4?t=1764082204\" type=\"video/mp4\"></video></span><br><br></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" ><strong>Introducing the most breathtaking chess game ever made.</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/df89b9d556ca0358a856e33fd2e4912a.poster.avif?t=1764082204\" width=620 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/df89b9d556ca0358a856e33fd2e4912a.webm?t=1764082204\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/df89b9d556ca0358a856e33fd2e4912a.mp4?t=1764082204\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Chess Ultra injects the greatest strategy game of all time with a modern twist; offering the ultimate chess experience with stunning 4K visuals, Grandmaster approved AI and full VR compatibility.</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Stunning chess sets and beautiful environments</p></li><li><p class=\"bb_paragraph\" >10 Grandmaster-approved AI levels</p></li><li><p class=\"bb_paragraph\" >Intuitive, overhauled local and online multiplayer with ELO ranking system</p></li><li><p class=\"bb_paragraph\" >Comprehensive time controls, including Classical, Blitz and Marathon, available online</p></li><li><p class=\"bb_paragraph\" >Cross-platform online play and leaderboards</p></li><li><p class=\"bb_paragraph\" >Spectate and compete in Official Ripstone tournaments</p></li><li><p class=\"bb_paragraph\" >Demonstrate your skills in over 80 chess puzzles</p></li><li><p class=\"bb_paragraph\" >Re-write the past by winning the biggest historic matches</p></li><li><p class=\"bb_paragraph\" >Export portable game notation (PGN) for every game, locally and online</p></li><li><p class=\"bb_paragraph\" >Full Twitch integration invites you to play against your community</p></li><li><p class=\"bb_paragraph\" >Play in VR and immerse yourself in the Chess Ultra experience</p></li><li><p class=\"bb_paragraph\" >In-depth tutorials to help improve your game</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/ab9bd1a66bdf688526d6596303315d3c.poster.avif?t=1764082204\" width=620 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/ab9bd1a66bdf688526d6596303315d3c.webm?t=1764082204\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/ab9bd1a66bdf688526d6596303315d3c.mp4?t=1764082204\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >With full Oculus Rift and HTC Vive support, play Chess Ultra in VR for the most breathtaking chess experience to date. From the wood grains on the antique mahogany board in the library, to the luxury felt on the bottom of every chess piece; chess has never looked this good. Physically reach out to make your move and focus entirely on the game at hand.</p><p class=\"bb_paragraph\" ></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Compatible with Oculus Rift and HTC Vive</p></li><li><p class=\"bb_paragraph\" >Use Oculus Touch or Vive controllers to reach out and move the pieces</p></li><li><p class=\"bb_paragraph\" >Immerse yourself in beautiful, ultra-realistic environments</p></li><li><p class=\"bb_paragraph\" >Change your perspective of each environment by standing to get a better view</p></li></ul><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Take the most extreme chess challenge in Gomorrah. Will you survive?</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/58e4b87e6c6d4d33969403709dfc4d4d.poster.avif?t=1764082204\" width=620 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/58e4b87e6c6d4d33969403709dfc4d4d.webm?t=1764082204\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/extras/58e4b87e6c6d4d33969403709dfc4d4d.mp4?t=1764082204\" type=\"video/mp4\"></video></span><br><br></p>",
+      "short_description": "Introducing Chess Ultra; the most breathtaking chess game ever made. Experience stunning 4K visuals, seamless online multiplayer, Grandmaster approved AI and full VR compatibility.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Russian, Portuguese - Brazil",
+      "reviews": "“Sure, chess in real life is cool, but you haven't f*cked with chess until you've experienced the untamed fury of CHESS ULTRA”<br>900/Chess – Pedestrian<br><br>“This is some epic sh*t, people”<br>Kotaku<br><br>“Chess will always be chess, but with its glorious presentation and wealth of options, Chess Ultra is a Queen in a genre filled with Pawns.”<br>9/10 – God is a Geek<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/header.jpg?t=1764082204",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/capsule_231x87.jpg?t=1764082204",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/capsule_184x69.jpg?t=1764082204",
+      "website": "https://ripstone.com/chess-ultra/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Vista<br></li><li><strong>Processor:</strong> 2.0 GHz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA Geforce GTS 450 or AMD Radeon HD 6750<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 12 GB available space<br></li><li><strong>VR Support:</strong> SteamVR or Oculus PC<br></li><li><strong>Additional Notes:</strong> This will ensure the game will run at 1080p at 30fps. These specifications do not reflect VR, see Recommended Requirements for more details</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2.5+ GHz Quad core<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA Gerforce GTX 780 or 970<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 12 GB available space<br></li><li><strong>Additional Notes:</strong> This will ensure the game will run at 1080p at 60fps. These specifications do not reflect VR, an NVIDIA Geforce GTX 1070/1080 or AMD equivalent will be required to experience 90 FPS on a HTC VIVE or OCULUS RIFT</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "Chess Ultra © 2017 Ripstone Ltd. Published and developed by Ripstone Ltd. “Chess Ultra” is a trademark of Ripstone Ltd. All rights reserved.",
+      "developers": [
+        "Ripstone"
+      ],
+      "publishers": [
+        "Ripstone"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1299,
+        "final": 1299,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$12.99"
+      },
+      "packages": [
+        121306
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Chess Ultra",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 121306,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Chess Ultra - $12.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1299
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 37,
+          "description": "Shared/Split Screen PvP"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 52,
+          "description": "Tracked Controller Support"
+        },
+        {
+          "id": 53,
+          "description": "VR Supported"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 78,
+          "description": "Adjustable Difficulty"
+        },
+        {
+          "id": 74,
+          "description": "Playable without Timed Input"
+        },
+        {
+          "id": 79,
+          "description": "Save Anytime"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 32,
+          "description": "Steam Turn Notifications"
+        },
+        {
+          "id": 43,
+          "description": "Remote Play on TV"
+        },
+        {
+          "id": 44,
+          "description": "Remote Play Together"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_7ac7c3f80e0a8055f61ef64362223f51085d8cb6.600x338.jpg?t=1764082204",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_7ac7c3f80e0a8055f61ef64362223f51085d8cb6.1920x1080.jpg?t=1764082204"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_d4bea0368757ac237e9a54934abd42c8c71cf32b.600x338.jpg?t=1764082204",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_d4bea0368757ac237e9a54934abd42c8c71cf32b.1920x1080.jpg?t=1764082204"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_9b62ac94aff0772124b669c3add7e14172a17257.600x338.jpg?t=1764082204",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_9b62ac94aff0772124b669c3add7e14172a17257.1920x1080.jpg?t=1764082204"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_51493ac188d55870e0eb541cc820fa6930126d0e.600x338.jpg?t=1764082204",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_51493ac188d55870e0eb541cc820fa6930126d0e.1920x1080.jpg?t=1764082204"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_b737a5f02a9e423a8d80215b0485c536b6b9e1a1.600x338.jpg?t=1764082204",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_b737a5f02a9e423a8d80215b0485c536b6b9e1a1.1920x1080.jpg?t=1764082204"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_ca0ba763401dd89aa330d40f7dac704a75f471a9.600x338.jpg?t=1764082204",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_ca0ba763401dd89aa330d40f7dac704a75f471a9.1920x1080.jpg?t=1764082204"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_78ac72e1c60079ae72929b385aa9385c6e7f2541.600x338.jpg?t=1764082204",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_78ac72e1c60079ae72929b385aa9385c6e7f2541.1920x1080.jpg?t=1764082204"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_52e93666b58c0098a3ad61a9116816218e7feac9.600x338.jpg?t=1764082204",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_52e93666b58c0098a3ad61a9116816218e7feac9.1920x1080.jpg?t=1764082204"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_e5e6d8df56c3306cfd6a4acadae735028d55f192.600x338.jpg?t=1764082204",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_e5e6d8df56c3306cfd6a4acadae735028d55f192.1920x1080.jpg?t=1764082204"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_15c2e9776d997c1f06acea90456f549b9f85659f.600x338.jpg?t=1764082204",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_15c2e9776d997c1f06acea90456f549b9f85659f.1920x1080.jpg?t=1764082204"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_8f6dddd86134c27c1237f6182f298e0f320de2db.600x338.jpg?t=1764082204",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/518060/ss_8f6dddd86134c27c1237f6182f298e0f320de2db.1920x1080.jpg?t=1764082204"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256686653,
+          "name": "Chess Ultra launch trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256686653/0b25ee230c43c4cc4a8ea48a8895dd6f3e332ea2/movie_600x337.jpg?t=1764081795",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/518060/106360/dfc5d6afc3f2ac2540d731049173c11fef79c1d2/1750542494/dash_av1.mpd?t=1764081795",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/518060/106360/dfc5d6afc3f2ac2540d731049173c11fef79c1d2/1750542494/dash_h264.mpd?t=1764081795",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/518060/106360/dfc5d6afc3f2ac2540d731049173c11fef79c1d2/1750542494/hls_264_master.m3u8?t=1764081795",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 1767
+      },
+      "achievements": {
+        "total": 38,
+        "highlighted": [
+          {
+            "name": "Absolute Pin",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/8f73c95bc1d56ff1cf51412edbc8c7bce3dd4d9d.jpg"
+          },
+          {
+            "name": "Alekhine’s Gun",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/a9709c4cfefc001bfbda9d60e4cd29dd4e6994fc.jpg"
+          },
+          {
+            "name": "Back-rank Mate",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/810e0a61b8a123d96185f46562dd5836899f8950.jpg"
+          },
+          {
+            "name": "Doubled Pawn",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/e73e2f857f8f9d43b76cdb8c8bcace8df8613942.jpg"
+          },
+          {
+            "name": "O-O-O",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/64047ec674d5b9444e9ecd39016fdc640f0804e1.jpg"
+          },
+          {
+            "name": "O-O",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/5e16896e48479ee68b090b4c90b045be175f75c7.jpg"
+          },
+          {
+            "name": "Check",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/5a0aee02216726304338cf39eb698c4bb7966b03.jpg"
+          },
+          {
+            "name": "Checkmate",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/29a1a4a8491bca0e859b93913cbc384e0b73fa11.jpg"
+          },
+          {
+            "name": "Chop Wood",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/ec692813923aaa17e209ef92864d27c2bc1fec24.jpg"
+          },
+          {
+            "name": "Promotion",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/518060/ef146a6ffe053407cc9b8a3f82f3a4caa03f7e6f.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 21, 2017"
+      },
+      "support_info": {
+        "url": "http://www.ripstone.com",
+        "email": "support@ripstone.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/518060?t=1764082204",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/518060?t=1764082204",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "esrb": {
+          "rating": "e",
+          "display_online_notice": "true"
+        },
+        "pegi": {
+          "rating": "3"
+        },
+        "usk": {
+          "rating": "0"
+        },
+        "oflc": {
+          "rating": "g",
+          "descriptors": "General\r\nOnline interactivity"
+        },
+        "nzoflc": {
+          "rating": "g",
+          "descriptors": "General\r\nOnline interactivity"
+        },
+        "dejus": {
+          "rating": "l"
+        }
+      }
+    }
+  }
+}

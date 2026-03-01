@@ -1,0 +1,225 @@
+{
+  "1124060": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Touhou Shoujo Tale of Beautiful Memories / 東方少女綺想譚",
+      "steam_appid": 1124060,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "detailed_description": "Journey through a pixelated, isometric version of Gensoukyou in this quasi-3D action RPG!<br />\r\nPlay as Reimu Hakurei and friends and take a shot at getting to the bottom of the incident!<br />\r\n<br />\r\nThis time, Gensoukyou features a rich variety of terrain!<br />\r\nExplore every nook and cranny of this quasi-3D playing field!<br />\r\n<br />\r\nUsing the dash and jump buttons, as well as attacks and special equipment, players can access a great many places!<br />\r\nThere may even be secret locations unrelated to the story waiting to be found!<br />\r\n<br />\r\nBattles are done using quick action commands!<br />\r\nBy hitting the right buttons at the right time to match the life-like movements of Gensoukyou's residents, you can accumulate power and or take down your enemies one after another!<br />\r\n<br />\r\nYou can control 8 different characters: Reimu Hakurei, Koishi Komeiji, Tenshi Hinanai, Sakuya Izayoi, Yukari Yakumo, Reisen Udongein Inaba, Nitori Kawashiro, and Doremy Sweet!<br />\r\nEach of them wields a different weapon and fights in a different style!<br />\r\n<br />\r\nThis story features many different characters from Gensoukyou!<br />\r\nThey may present themselves as allies or enemies as you work to uncover the truth behind the incident!<br />\r\n<br />\r\nBy following the numerous diverging routes, you may discover surprising sides of the Touhou characters, and perhaps even receive things that may aid in your journey!<br />\r\nSome characters may even challenge you to a duel!<br />\r\nCan you win against them all?",
+      "about_the_game": "Journey through a pixelated, isometric version of Gensoukyou in this quasi-3D action RPG!<br />\r\nPlay as Reimu Hakurei and friends and take a shot at getting to the bottom of the incident!<br />\r\n<br />\r\nThis time, Gensoukyou features a rich variety of terrain!<br />\r\nExplore every nook and cranny of this quasi-3D playing field!<br />\r\n<br />\r\nUsing the dash and jump buttons, as well as attacks and special equipment, players can access a great many places!<br />\r\nThere may even be secret locations unrelated to the story waiting to be found!<br />\r\n<br />\r\nBattles are done using quick action commands!<br />\r\nBy hitting the right buttons at the right time to match the life-like movements of Gensoukyou's residents, you can accumulate power and or take down your enemies one after another!<br />\r\n<br />\r\nYou can control 8 different characters: Reimu Hakurei, Koishi Komeiji, Tenshi Hinanai, Sakuya Izayoi, Yukari Yakumo, Reisen Udongein Inaba, Nitori Kawashiro, and Doremy Sweet!<br />\r\nEach of them wields a different weapon and fights in a different style!<br />\r\n<br />\r\nThis story features many different characters from Gensoukyou!<br />\r\nThey may present themselves as allies or enemies as you work to uncover the truth behind the incident!<br />\r\n<br />\r\nBy following the numerous diverging routes, you may discover surprising sides of the Touhou characters, and perhaps even receive things that may aid in your journey!<br />\r\nSome characters may even challenge you to a duel!<br />\r\nCan you win against them all?",
+      "short_description": "Journey through a pixelated, isometric version of Gensoukyou in this quasi-3D action RPG! Dash and jump to avoid enemies, or shoot them down from far! Hit the right buttons at the right time to accumulate power and battle efficiently! Play as Reimu and friends and get to the bottom of the incident!",
+      "supported_languages": "English, Simplified Chinese, Traditional Chinese, Japanese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/header.jpg?t=1759193752",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/capsule_231x87.jpg?t=1759193752",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/capsule_184x69.jpg?t=1759193752",
+      "website": "http://b.dlsite.net/RG15251/archives/55653858.html",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP/Vista/7/8/10<br></li><li><strong>Processor:</strong> athlon 2 p320 or higher<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Open GL compliant video card<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 350 MB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "The N Main Shop"
+      ],
+      "publishers": [
+        "DLsite"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2999,
+        "final": 2999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$29.99"
+      },
+      "packages": [
+        381550
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Touhou Shoujo Tale of Beautiful Memories / 東方少女綺想譚",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 381550,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Touhou Shoujo Tale of Beautiful Memories / 東方少女綺想譚 - $29.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_97139c4dc336a0df66b764f8a015dd6ff96827cf.600x338.jpg?t=1759193752",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_97139c4dc336a0df66b764f8a015dd6ff96827cf.1920x1080.jpg?t=1759193752"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_fb46f95baa3abc749b5bedaedb37ddffe901ad68.600x338.jpg?t=1759193752",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_fb46f95baa3abc749b5bedaedb37ddffe901ad68.1920x1080.jpg?t=1759193752"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_9eea7a620832c7caab1bc7810c8b55376c5c619f.600x338.jpg?t=1759193752",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_9eea7a620832c7caab1bc7810c8b55376c5c619f.1920x1080.jpg?t=1759193752"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_c010edef26726d57c69c1ece1a80c6248bda79b1.600x338.jpg?t=1759193752",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_c010edef26726d57c69c1ece1a80c6248bda79b1.1920x1080.jpg?t=1759193752"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_6ea20ba7e28c9fc07474055d9019d96d6aa9bcaf.600x338.jpg?t=1759193752",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_6ea20ba7e28c9fc07474055d9019d96d6aa9bcaf.1920x1080.jpg?t=1759193752"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_cf6981535a57bb5201ef22824672ac8a9250f23e.600x338.jpg?t=1759193752",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_cf6981535a57bb5201ef22824672ac8a9250f23e.1920x1080.jpg?t=1759193752"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_3d060f545860748936230560fd3ce6cbc04d5112.600x338.jpg?t=1759193752",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_3d060f545860748936230560fd3ce6cbc04d5112.1920x1080.jpg?t=1759193752"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_09bea6a0327c89c708386d33a84dfbb4340cc857.600x338.jpg?t=1759193752",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_09bea6a0327c89c708386d33a84dfbb4340cc857.1920x1080.jpg?t=1759193752"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_411c366eedea376a31f3a1d7833fc0885dcc1805.600x338.jpg?t=1759193752",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_411c366eedea376a31f3a1d7833fc0885dcc1805.1920x1080.jpg?t=1759193752"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_85c877d005a25d98a3b37e37b008d97243a9b130.600x338.jpg?t=1759193752",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_85c877d005a25d98a3b37e37b008d97243a9b130.1920x1080.jpg?t=1759193752"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_e95c53417f89ba42cc6f51217837cb1c0a728e78.600x338.jpg?t=1759193752",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_e95c53417f89ba42cc6f51217837cb1c0a728e78.1920x1080.jpg?t=1759193752"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_e32a42ea2e5ac82935aca8681b338485d46645a0.600x338.jpg?t=1759193752",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_e32a42ea2e5ac82935aca8681b338485d46645a0.1920x1080.jpg?t=1759193752"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_fa5d44d4b88faa70bcc72fbf320dc7eaeed13187.600x338.jpg?t=1759193752",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_fa5d44d4b88faa70bcc72fbf320dc7eaeed13187.1920x1080.jpg?t=1759193752"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_d187700f8ed6957ab05357220b1529bb0662bd79.600x338.jpg?t=1759193752",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_d187700f8ed6957ab05357220b1529bb0662bd79.1920x1080.jpg?t=1759193752"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_292112007b088e3b73e618fa419b2c9813a85a76.600x338.jpg?t=1759193752",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/ss_292112007b088e3b73e618fa419b2c9813a85a76.1920x1080.jpg?t=1759193752"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256756494,
+          "name": "TouhouShoujo_PV",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256756494/movie.293x165.jpg?t=1564457635",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1124060/233659/23483803b455f67a6bbbe0313fa4ba771cc5594b/1751191744/dash_av1.mpd?t=1564457635",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1124060/233659/23483803b455f67a6bbbe0313fa4ba771cc5594b/1751191744/dash_h264.mpd?t=1564457635",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1124060/233659/23483803b455f67a6bbbe0313fa4ba771cc5594b/1751191744/hls_264_master.m3u8?t=1564457635",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 186
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Aug 22, 2019"
+      },
+      "support_info": {
+        "url": "",
+        "email": "steamsupport@dlsite.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1124060?t=1759193752",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1124060/page_bg_raw.jpg?t=1759193752",
+      "content_descriptors": {
+        "ids": [
+          1,
+          5
+        ],
+        "notes": "Includes revealing clothing and depictions of the consumption of alcohol."
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Conteúdo sexual\nViolência fantasiosa"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Sexuelle Andeutungen\nAlkohol / Tabak\nFantasy-Gewalt"
+        }
+      }
+    }
+  }
+}

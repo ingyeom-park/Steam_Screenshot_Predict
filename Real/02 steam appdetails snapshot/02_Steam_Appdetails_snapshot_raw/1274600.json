@@ -1,0 +1,369 @@
+{
+  "1274600": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "The Last Faith",
+      "steam_appid": 1274600,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        3905110
+      ],
+      "detailed_description": "<p class=\"bb_paragraph\" >The wicked and the blessed will be judged the same - let nothing stand in your way.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Experience the latest evolution of The Last Faith with the free Awakened Ancients DLC and latest patch update, featuring long-awaited content, quality of life updates, and deeper challenges with the most polished version of the game to date.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/1299bdeb75ae7c0e128e96eae6b774f7.poster.avif?t=1769525842\" width=780 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/1299bdeb75ae7c0e128e96eae6b774f7.webm?t=1769525842\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/1299bdeb75ae7c0e128e96eae6b774f7.mp4?t=1769525842\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Step into The Last Faith’s ravaged world as Eryk, who awakens with no recollection of his immediate past. Soon he will discover he is in a race against time as his mind and conscience begins to deteriorate. His desire for salvation from this affliction sets him on a cursed mission that crosses paths with ancient religions and divinities.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/c47d56bb377a49e19d2e3a644d7db06b.poster.avif?t=1769525842\" width=780 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/c47d56bb377a49e19d2e3a644d7db06b.webm?t=1769525842\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/c47d56bb377a49e19d2e3a644d7db06b.mp4?t=1769525842\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Often brutal, always empowering, The Last Faith is an unholy alliance of metroidvania and soulslike. Gain new skills, items, weapons and spells that improve combat and also unlock previously impassable areas. Nonlinear exploration is at the core of The Last Faith. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/0c6b9bec64fe310d0cbaee7b1e4c4374.poster.avif?t=1769525842\" width=780 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/0c6b9bec64fe310d0cbaee7b1e4c4374.webm?t=1769525842\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/0c6b9bec64fe310d0cbaee7b1e4c4374.mp4?t=1769525842\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The Last Faith thrives on merciless and precise combat, with a huge range of custom executions to perform. Challenging yet fair, experiment and master the skills needed to advance and conquer brutal enemies and bosses.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/b137f78b6ce7e7266571479a58ecd80e.poster.avif?t=1769525842\" width=780 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/b137f78b6ce7e7266571479a58ecd80e.webm?t=1769525842\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/b137f78b6ce7e7266571479a58ecd80e.mp4?t=1769525842\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Discover a formidable arsenal of melee weapons, arcane spells, and long-range firearms, allowing you to carve a path your own way.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/fa082255084388ed38bc146ea1af67a0.poster.avif?t=1769525842\" width=780 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/fa082255084388ed38bc146ea1af67a0.webm?t=1769525842\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/fa082255084388ed38bc146ea1af67a0.mp4?t=1769525842\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Gorgeous pixel art depicts an imposing gothic landscape accompanied by an immersive soundtrack that elevates the gameplay experience to new heights. Journey along snow-dusted mountains and castles bathed in moonlight in a tale only the faithful can survive.</p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >The wicked and the blessed will be judged the same - let nothing stand in your way.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Experience the latest evolution of The Last Faith with the free Awakened Ancients DLC and latest patch update, featuring long-awaited content, quality of life updates, and deeper challenges with the most polished version of the game to date.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/1299bdeb75ae7c0e128e96eae6b774f7.poster.avif?t=1769525842\" width=780 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/1299bdeb75ae7c0e128e96eae6b774f7.webm?t=1769525842\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/1299bdeb75ae7c0e128e96eae6b774f7.mp4?t=1769525842\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Step into The Last Faith’s ravaged world as Eryk, who awakens with no recollection of his immediate past. Soon he will discover he is in a race against time as his mind and conscience begins to deteriorate. His desire for salvation from this affliction sets him on a cursed mission that crosses paths with ancient religions and divinities.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/c47d56bb377a49e19d2e3a644d7db06b.poster.avif?t=1769525842\" width=780 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/c47d56bb377a49e19d2e3a644d7db06b.webm?t=1769525842\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/c47d56bb377a49e19d2e3a644d7db06b.mp4?t=1769525842\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Often brutal, always empowering, The Last Faith is an unholy alliance of metroidvania and soulslike. Gain new skills, items, weapons and spells that improve combat and also unlock previously impassable areas. Nonlinear exploration is at the core of The Last Faith. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/0c6b9bec64fe310d0cbaee7b1e4c4374.poster.avif?t=1769525842\" width=780 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/0c6b9bec64fe310d0cbaee7b1e4c4374.webm?t=1769525842\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/0c6b9bec64fe310d0cbaee7b1e4c4374.mp4?t=1769525842\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >The Last Faith thrives on merciless and precise combat, with a huge range of custom executions to perform. Challenging yet fair, experiment and master the skills needed to advance and conquer brutal enemies and bosses.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/b137f78b6ce7e7266571479a58ecd80e.poster.avif?t=1769525842\" width=780 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/b137f78b6ce7e7266571479a58ecd80e.webm?t=1769525842\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/b137f78b6ce7e7266571479a58ecd80e.mp4?t=1769525842\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Discover a formidable arsenal of melee weapons, arcane spells, and long-range firearms, allowing you to carve a path your own way.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/fa082255084388ed38bc146ea1af67a0.poster.avif?t=1769525842\" width=780 height=320 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/fa082255084388ed38bc146ea1af67a0.webm?t=1769525842\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/extras/fa082255084388ed38bc146ea1af67a0.mp4?t=1769525842\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Gorgeous pixel art depicts an imposing gothic landscape accompanied by an immersive soundtrack that elevates the gameplay experience to new heights. Journey along snow-dusted mountains and castles bathed in moonlight in a tale only the faithful can survive.</p>",
+      "short_description": "Dive into the latest evolution of The Last Faith: a dark and gothic fusion of metroidvania and soulslike. Engage in merciless and precise combat with a huge range of weapons, firearms, and custom executions. Let nothing stand in the way of your journey to salvation.",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian, Simplified Chinese, Polish, Spanish - Latin America, Traditional Chinese, Korean<br><strong>*</strong>languages with full audio support",
+      "reviews": "“Elevating the Metroidvania Genre”<br>9.5/10 – Noisy Pixel<br><br>“The Last Faith actually is, is the closest thing to a new Castlevania we’ve had since Bloodstained: Ritual of the Night in 2019”<br>9/10 – God is a Geek<br><br>“The Last Faith is a grueling metroidvania, leaning into pinnacle souls-like gameplay elements that reward exploration, precision, and patience.”<br>8.5/10 – Digital Chumps<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/c09375c951984d602703b4e70d948727a00e7232/header.jpg?t=1769525842",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/948195b805ddab75f6d970d1492945d25b928cf7/capsule_231x87.jpg?t=1769525842",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/948195b805ddab75f6d970d1492945d25b928cf7/capsule_184x69.jpg?t=1769525842",
+      "website": "https://www.thelastfaithgame.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 Duo E7500 2.93 GHz | AMD Athlon 64 X2 Dual Core Processor 5600+ 2.9GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 9600 GT | AMD Radeon HD 6450<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-750 | AMD Phenom II x4 945<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 650  | Radeon HD 5770<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mavericks 10.9 or later<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.2+<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia 450 GTS / Radeon HD 5750 or better<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "© 2023, Playstack and Kumi Souls Games, all rights reserved.",
+      "developers": [
+        "Kumi Souls Games"
+      ],
+      "publishers": [
+        "Playstack"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2799,
+        "final": 2799,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$27.99"
+      },
+      "packages": [
+        443800
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy The Last Faith",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 443800,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "The Last Faith - $27.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2799
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_73bf4a8dc487f88af84105bdff608bb751e27d5f.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_73bf4a8dc487f88af84105bdff608bb751e27d5f.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_f052125d8ebf56414d91077bafeae9c2006b94d3.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_f052125d8ebf56414d91077bafeae9c2006b94d3.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_bbfa89c3f6456c4830e8cb337f9c715a329b201e.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_bbfa89c3f6456c4830e8cb337f9c715a329b201e.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_8f57a9fc68caf859cbfe6bebb7eb1caeee6c8f04.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_8f57a9fc68caf859cbfe6bebb7eb1caeee6c8f04.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_2d321065a343d99238b206a07399f6ec24c8ff63.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_2d321065a343d99238b206a07399f6ec24c8ff63.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_814d9f57b9ba81ce1c715f21b498424897266130.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_814d9f57b9ba81ce1c715f21b498424897266130.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_71cd4b20ff06286e324db69f994b316ce101fe45.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_71cd4b20ff06286e324db69f994b316ce101fe45.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_46f66b8afff2d11b9e6ec729b246fe07adaed842.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_46f66b8afff2d11b9e6ec729b246fe07adaed842.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_fc381df35ba9866853cb4622d080e2ca13aee99a.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_fc381df35ba9866853cb4622d080e2ca13aee99a.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_87a654d19e09244bb1432460f2eac81baa0ff130.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_87a654d19e09244bb1432460f2eac81baa0ff130.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_c2c97a8c4705a3315d07df7b3795fd7cc45a3c8c.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_c2c97a8c4705a3315d07df7b3795fd7cc45a3c8c.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_5de48c9b3cd8882bb95fed67ef42e03406e8df67.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_5de48c9b3cd8882bb95fed67ef42e03406e8df67.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_0d4ad8b5c29584bee8fff68a5f271d3d5d0bc532.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_0d4ad8b5c29584bee8fff68a5f271d3d5d0bc532.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_586d35a6cec8c816cbcc47fdc36637c1231c294c.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_586d35a6cec8c816cbcc47fdc36637c1231c294c.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_f607b2279406d22c5419c872b0ed4778bfde90fe.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_f607b2279406d22c5419c872b0ed4778bfde90fe.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_fe881467b4f3929ff3ff5dfd66e4dbf595324171.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_fe881467b4f3929ff3ff5dfd66e4dbf595324171.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_6a8468594034adfb1d955eb6fca444e4b4d39c94.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_6a8468594034adfb1d955eb6fca444e4b4d39c94.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_105c1c759c7c87de03a0dc908b76adc6fe456944.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_105c1c759c7c87de03a0dc908b76adc6fe456944.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 18,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_f8bb2b24af1b08bda21f0a92add9959449e28b38.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_f8bb2b24af1b08bda21f0a92add9959449e28b38.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 19,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_2580cd0d7d251bf7ccd9512ce8a6cc40aa1e50e4.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_2580cd0d7d251bf7ccd9512ce8a6cc40aa1e50e4.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 20,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_f6bdb19cd4f469e4e57dfb31da39e83355091086.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_f6bdb19cd4f469e4e57dfb31da39e83355091086.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 21,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_fdb592dc15070db9bb680f7014c1aab32ee762ef.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_fdb592dc15070db9bb680f7014c1aab32ee762ef.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 22,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_455bab9e528bd126ecc3f9d83d9c287b972fbea8.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_455bab9e528bd126ecc3f9d83d9c287b972fbea8.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 23,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_38150fa056b283e96719a08bd0ce93c8818ac00b.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_38150fa056b283e96719a08bd0ce93c8818ac00b.1920x1080.jpg?t=1769525842"
+        },
+        {
+          "id": 24,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_845145b5ddf06d77d306c21fa8c8e564ab974fdd.600x338.jpg?t=1769525842",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/ss_845145b5ddf06d77d306c21fa8c8e564ab974fdd.1920x1080.jpg?t=1769525842"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256982828,
+          "name": "The Last Faith Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256982828/0510a47c2a0f1df809263e73999ce201a51805d2/movie_600x337.jpg?t=1769525840",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1274600/630108/db5ddf5397e3e8f11a738136e15f57b8477227ea/1750659457/dash_av1.mpd?t=1769525840",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1274600/630108/db5ddf5397e3e8f11a738136e15f57b8477227ea/1750659457/dash_h264.mpd?t=1769525840",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1274600/630108/db5ddf5397e3e8f11a738136e15f57b8477227ea/1750659457/hls_264_master.m3u8?t=1769525840",
+          "highlight": true
+        },
+        {
+          "id": 256973399,
+          "name": "The Last Faith Release Date Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256973399/movie.293x165.jpg?t=1696434527",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1274600/614385/ca38af133acd47e100ea4947420ba3d18399b703/1750659438/dash_av1.mpd?t=1696434527",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1274600/614385/ca38af133acd47e100ea4947420ba3d18399b703/1750659438/dash_h264.mpd?t=1696434527",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1274600/614385/ca38af133acd47e100ea4947420ba3d18399b703/1750659438/hls_264_master.m3u8?t=1696434527",
+          "highlight": false
+        },
+        {
+          "id": 256891240,
+          "name": "The Last Faith Official Gameplay Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256891240/movie.293x165.jpg?t=1686416924",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1274600/471072/a28213cbee03f4854ecb48d57b99bcafdbfcab65/1750659427/dash_av1.mpd?t=1686416924",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1274600/471072/a28213cbee03f4854ecb48d57b99bcafdbfcab65/1750659427/dash_h264.mpd?t=1686416924",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1274600/471072/a28213cbee03f4854ecb48d57b99bcafdbfcab65/1750659427/hls_264_master.m3u8?t=1686416924",
+          "highlight": false
+        },
+        {
+          "id": 256951877,
+          "name": "The Last Faith Official Release Month Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256951877/movie.293x165.jpg?t=1686416930",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1274600/576494/6b0f647ca90f0c79c0028cf140c28dc8432a2a32/1750659432/dash_av1.mpd?t=1686416930",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1274600/576494/6b0f647ca90f0c79c0028cf140c28dc8432a2a32/1750659432/dash_h264.mpd?t=1686416930",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1274600/576494/6b0f647ca90f0c79c0028cf140c28dc8432a2a32/1750659432/hls_264_master.m3u8?t=1686416930",
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 4062
+      },
+      "achievements": {
+        "total": 57,
+        "highlighted": [
+          {
+            "name": "Colossus Slayer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1274600/6f6fd93fc3d3c3285cd5e95123cf9bfbc6fe7575.jpg"
+          },
+          {
+            "name": "A Doctor's Demise",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1274600/f303ff087e658382b100ef557a9f8705a63c996a.jpg"
+          },
+          {
+            "name": "The Crypt Horror",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1274600/3788daac2331dc909eb8fe452c736f871555aac0.jpg"
+          },
+          {
+            "name": "Duo of Destruction",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1274600/f41e6ebc74cca96258aec9442e9f14c77f87ff69.jpg"
+          },
+          {
+            "name": "Revenge of the Fallen",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1274600/267b1b36983481f05cc6a8732d35781c023126c1.jpg"
+          },
+          {
+            "name": "Ashes of the Burned",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1274600/2f2a04076d2e4317945558da98ba26e66e2e3568.jpg"
+          },
+          {
+            "name": "Starlight's Bane",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1274600/9a25f3f38905607f3d564b44191a1f57b1ac84ca.jpg"
+          },
+          {
+            "name": "Night's End",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1274600/e4fe3b74be3c5717f07973c2400ab77d8d10e4bc.jpg"
+          },
+          {
+            "name": "Nemesis",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1274600/b269b77a07084c3163d5d849f18531c1357aa568.jpg"
+          },
+          {
+            "name": "Cursebreaker",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1274600/350881540e83d1a9a7dfee4aca89023ad3f908e9.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Nov 15, 2023"
+      },
+      "support_info": {
+        "url": "kumisouls.com",
+        "email": "support@kumisouls.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1274600?t=1769525842",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1274600/633ba4d9b507e3bb0322d9a8ddf98f94f4237c0a/page_bg_raw.jpg?t=1769525842",
+      "content_descriptors": {
+        "ids": [
+          2,
+          5
+        ],
+        "notes": "Contains 2D pixel-style violence, blood, and gore."
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "10",
+          "descriptors": "Violência fantasiosa\r\nViolência",
+          "use_age_gate": "true",
+          "required_age": "10"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "16",
+          "required_age": "16",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Fantasy-Gewalt"
+        }
+      }
+    }
+  }
+}

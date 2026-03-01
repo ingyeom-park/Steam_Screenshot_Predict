@@ -1,0 +1,199 @@
+{
+  "2659960": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Let's Go! My Harem Farm",
+      "steam_appid": 2659960,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/extras/6b165e91c33b69653baddc189b4e233d.avif?t=1770353461\" width=780 height=78 /></span></p><p class=\"bb_paragraph\" >You are a young man living in the city. Every day, you were busy with work, leading a hectic life.</p><p class=\"bb_paragraph\" >Tired of such a lifestyle, you began to yearn for a slow life in a place rich in nature. At that time, you heard that a ranch in a certain rural village was being sold cheaply, so you decided to buy the ranch to start a second life.</p><p class=\"bb_paragraph\" >However, the village chief you met seems to have a favor to ask of you...?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >&quot;Could you possibly have children with the young women in the village?&quot;</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This game is a farm life simulation game.</p><p class=\"bb_paragraph\" >Players will control this young man, growing vegetables, raising livestock, and after work, go out to the village to get along with the women.</p><p class=\"bb_paragraph\" >As you get closer, events that deepen the relationship occur, and eventually, they may wish to have your children.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/extras/3d58af4da12ea741dfdccd1e08701e9c.avif?t=1770353461\" width=780 height=78 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Slow Life</p></li><li><p class=\"bb_paragraph\" >Farm Life Simulation</p></li><li><p class=\"bb_paragraph\" >16 Romanceable Characters</p></li></ul>",
+      "about_the_game": "<p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/extras/6b165e91c33b69653baddc189b4e233d.avif?t=1770353461\" width=780 height=78 /></span></p><p class=\"bb_paragraph\" >You are a young man living in the city. Every day, you were busy with work, leading a hectic life.</p><p class=\"bb_paragraph\" >Tired of such a lifestyle, you began to yearn for a slow life in a place rich in nature. At that time, you heard that a ranch in a certain rural village was being sold cheaply, so you decided to buy the ranch to start a second life.</p><p class=\"bb_paragraph\" >However, the village chief you met seems to have a favor to ask of you...?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >&quot;Could you possibly have children with the young women in the village?&quot;</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >This game is a farm life simulation game.</p><p class=\"bb_paragraph\" >Players will control this young man, growing vegetables, raising livestock, and after work, go out to the village to get along with the women.</p><p class=\"bb_paragraph\" >As you get closer, events that deepen the relationship occur, and eventually, they may wish to have your children.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/extras/3d58af4da12ea741dfdccd1e08701e9c.avif?t=1770353461\" width=780 height=78 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Slow Life</p></li><li><p class=\"bb_paragraph\" >Farm Life Simulation</p></li><li><p class=\"bb_paragraph\" >16 Romanceable Characters</p></li></ul>",
+      "short_description": "This game is a farm life simulation game. Players will control this young man, growing vegetables, raising livestock, and after work, go out to the village to get along with the women.",
+      "supported_languages": "Japanese, English, Simplified Chinese, Traditional Chinese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/header.jpg?t=1770353461",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/capsule_231x87.jpg?t=1770353461",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/capsule_184x69.jpg?t=1770353461",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7 / 8 / 8.1 / 10<br></li><li><strong>Processor:</strong> 3+ GHz Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11/OpenGL 4.1 capable GPU<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> 3+ GHz Processor<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL ES 2.0 hardware driver support required for WebGL acceleration. (AMD Catalyst 10.9, nVidia 358.50)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "XO_PROJECT"
+      ],
+      "publishers": [
+        "OTAKU Plan"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        953135
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Let's Go! My Harem Farm",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 953135,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Let's Go! My Harem Farm - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_97449d646e85c30859d51dfdc06dadece879dfb0.600x338.jpg?t=1770353461",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_97449d646e85c30859d51dfdc06dadece879dfb0.1920x1080.jpg?t=1770353461"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_5952ea99ee243c9bf57102fd733509fae8ef25fe.600x338.jpg?t=1770353461",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_5952ea99ee243c9bf57102fd733509fae8ef25fe.1920x1080.jpg?t=1770353461"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_641676ab099bcd9270eec16cf4cdb7be62a7b07b.600x338.jpg?t=1770353461",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_641676ab099bcd9270eec16cf4cdb7be62a7b07b.1920x1080.jpg?t=1770353461"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_76717bd211a2b2ee3dce589386e3ca19f92b41fd.600x338.jpg?t=1770353461",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_76717bd211a2b2ee3dce589386e3ca19f92b41fd.1920x1080.jpg?t=1770353461"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_53947da6400573816cbc08f8716f9a702afd110a.600x338.jpg?t=1770353461",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_53947da6400573816cbc08f8716f9a702afd110a.1920x1080.jpg?t=1770353461"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_ea79174e3985191d1bfd5e8fd4e212568617fadd.600x338.jpg?t=1770353461",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_ea79174e3985191d1bfd5e8fd4e212568617fadd.1920x1080.jpg?t=1770353461"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_fec549cf06ad218964c293500627c3049d0dae28.600x338.jpg?t=1770353461",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_fec549cf06ad218964c293500627c3049d0dae28.1920x1080.jpg?t=1770353461"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_12847fded88fd389d1f5cefec68092f2715c6422.600x338.jpg?t=1770353461",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_12847fded88fd389d1f5cefec68092f2715c6422.1920x1080.jpg?t=1770353461"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_00d0b95cc59133116261d90ad84b47aeda474767.600x338.jpg?t=1770353461",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659960/ss_00d0b95cc59133116261d90ad84b47aeda474767.1920x1080.jpg?t=1770353461"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257002058,
+          "name": "pv",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257002058/movie.293x165.jpg?t=1718535456",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2659960/664272/926a6777697b940d7fa17ac459103c1c1a2c9a87/1750818108/dash_av1.mpd?t=1718535456",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2659960/664272/926a6777697b940d7fa17ac459103c1c1a2c9a87/1750818108/dash_h264.mpd?t=1718535456",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2659960/664272/926a6777697b940d7fa17ac459103c1c1a2c9a87/1750818108/hls_264_master.m3u8?t=1718535456",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 189
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 21, 2024"
+      },
+      "support_info": {
+        "url": "",
+        "email": "otakuplan.staff@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2659960?t=1770353461",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2659960?t=1770353461",
+      "content_descriptors": {
+        "ids": [
+          1,
+          5
+        ],
+        "notes": "Some scenes in the game will appear bare and sexually suggestive content that is not suitable for minors, Pleasedecide whether to play or not."
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "14",
+          "required_age": "14",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Nudez"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

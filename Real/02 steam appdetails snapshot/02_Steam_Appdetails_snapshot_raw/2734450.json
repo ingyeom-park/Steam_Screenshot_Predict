@@ -1,0 +1,183 @@
+{
+  "2734450": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Folie Fatale",
+      "steam_appid": 2734450,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        3035930
+      ],
+      "detailed_description": "<h1>Notice about Steam Version</h1><p>Regarding any releases from other platform prior to the Steam release, please notice that they will be Japanese only, and will not receive any language update in the foreseeable future.</p><br><h1>About the Game</h1><strong>This game, <i>Folie Fatale</i>, is only available in Japanese and Simplified Chinese.<br>We apologize for any inconvenience regarding limited language support.</strong><br><br>All capture targets are mentally &quot;Jirai&quot;(landmine)!?<br>Meet these eccentric boys, reveal the truth beneath in this Psycho-love-horror VN!<br><br>攻略対象は全員地雷！？<br>個性溢れるヤバ男たちと紡ぐサイコラブホラーADV<br><br>◾︎ストーリー<br>主人公、櫻葉夏紀（名前のみ変更可）は私立桐ヶ谷学園に通う普通の女子高生。<br>──だが、普通な彼女には１つだけ不幸な体質があった。<br>それは寄ってくる男、寄ってくる男、みんな地雷持ちの病ンデレ男だということ！<br>そんな生活にもなれ、最近は落ち着いてきたと油断していた朝、彼女を出迎えたのは下駄箱いっぱいに詰められた無数の手紙の嵐だった──。<br>はたして彼女はこの運命から逃げられるのか！？<br><br>◾︎キャラクター紹介<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/extras/4177c98fa5383de29f696ec0559edc1d.avif?t=1757613632\" width=616 height=194 /></span><br><strong>櫻葉 夏紀</strong>  <i>※名前のみ変更可能</i><br>桐ヶ谷学園高等部2年生。<br>なぜかヤバい男にばかり寄り付かれる不幸な主人公。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/extras/b2f636514f90c8a92798f695ae09974f.avif?t=1757613632\" width=616 height=194 /></span><br><strong>眞白 叶依</strong><br>主人公が所属する保健委員会の後輩。<br>とある理由で学校は休みがち。<br>高校１年生ながら有名アプリの開発を手がけるなど天才的な一面もあるようだ。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/extras/578fc1e9238c7db6f3a55fa2f2ab5724.avif?t=1757613632\" width=616 height=194 /></span><br><strong>牛込 春樹</strong><br>主人公のクラスメイト。<br>元サッカー部で運動神経もいいが事故により引退。<br>とある一件から主人公とは気まずい関係でいる。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/extras/49b867542577a862a1eb059178d560d1.avif?t=1757613632\" width=616 height=194 /></span><br><strong>神田 蓮</strong><br>３年生の先輩。<br>オシャレで誰とでも仲良くなれるクラスの人気者。<br>……のはずだが、恋愛偏差値が壊滅的な為、主人公に付きまとっては度々ドン引きされている。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/extras/3946a5f3cc75249459084096f29b4af9.avif?t=1757613632\" width=616 height=194 /></span><br><strong>日比谷 リト</strong><br>３年生の先輩。<br>寡黙で素行不良のため、学校では馴染めず元生徒会長である主人公の兄「櫻葉冬理」とは何度も揉め事を起こしていたようだ。<br>だが生物に関しての知識は教師も舌を巻くほど精通している<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/extras/e8d71408ccb0e3ba3424d3f21b0c5873.avif?t=1757613632\" width=616 height=194 /></span><br><strong>櫻葉 冬理</strong><br>主人公の兄で大学2年生。<br>高校時代は成績優秀で生徒会長を務めていた。<br>真面目で責任感のある性格だが欲深い思想の持ち主。<br>妹以外の前では猫を被っている。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/extras/8a826ed3e5018806bba80535f4102705.avif?t=1757613632\" width=616 height=194 /></span><br><strong>三鷹 秋奈</strong><br>主人公の親友でクラスメイト。<br>家が近所で親同士の付き合いもあった為、初等部の頃から仲良くしている。<br>昔から不幸な目にばかりあっている主人公を誰よりも心配しているようだ。<br><br><br>◾︎ゲーム概要<br>タイトル：Folie Fatale~病ンデレ男に堕とされる~<br>ジャンル：女性向けサイコラブホラーADV（ビジュアルノベル）<br>攻略対象：5人＋1人<br>エンド数：各キャラ3エンド＋a<br>※このゲームは一部過激な表現・倫理観等に欠けた表現があります。ご留意ください。<br><br>◾︎実況について<br>Steam版は全編実況配信歓迎です。<br>※他プラットフォームで入手した本タイトルの実況範囲は、<br>　当該プラットフォームのタイトル説明に従います。",
+      "about_the_game": "<strong>This game, <i>Folie Fatale</i>, is only available in Japanese and Simplified Chinese.<br>We apologize for any inconvenience regarding limited language support.</strong><br><br>All capture targets are mentally &quot;Jirai&quot;(landmine)!?<br>Meet these eccentric boys, reveal the truth beneath in this Psycho-love-horror VN!<br><br>攻略対象は全員地雷！？<br>個性溢れるヤバ男たちと紡ぐサイコラブホラーADV<br><br>◾︎ストーリー<br>主人公、櫻葉夏紀（名前のみ変更可）は私立桐ヶ谷学園に通う普通の女子高生。<br>──だが、普通な彼女には１つだけ不幸な体質があった。<br>それは寄ってくる男、寄ってくる男、みんな地雷持ちの病ンデレ男だということ！<br>そんな生活にもなれ、最近は落ち着いてきたと油断していた朝、彼女を出迎えたのは下駄箱いっぱいに詰められた無数の手紙の嵐だった──。<br>はたして彼女はこの運命から逃げられるのか！？<br><br>◾︎キャラクター紹介<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/extras/4177c98fa5383de29f696ec0559edc1d.avif?t=1757613632\" width=616 height=194 /></span><br><strong>櫻葉 夏紀</strong>  <i>※名前のみ変更可能</i><br>桐ヶ谷学園高等部2年生。<br>なぜかヤバい男にばかり寄り付かれる不幸な主人公。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/extras/b2f636514f90c8a92798f695ae09974f.avif?t=1757613632\" width=616 height=194 /></span><br><strong>眞白 叶依</strong><br>主人公が所属する保健委員会の後輩。<br>とある理由で学校は休みがち。<br>高校１年生ながら有名アプリの開発を手がけるなど天才的な一面もあるようだ。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/extras/578fc1e9238c7db6f3a55fa2f2ab5724.avif?t=1757613632\" width=616 height=194 /></span><br><strong>牛込 春樹</strong><br>主人公のクラスメイト。<br>元サッカー部で運動神経もいいが事故により引退。<br>とある一件から主人公とは気まずい関係でいる。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/extras/49b867542577a862a1eb059178d560d1.avif?t=1757613632\" width=616 height=194 /></span><br><strong>神田 蓮</strong><br>３年生の先輩。<br>オシャレで誰とでも仲良くなれるクラスの人気者。<br>……のはずだが、恋愛偏差値が壊滅的な為、主人公に付きまとっては度々ドン引きされている。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/extras/3946a5f3cc75249459084096f29b4af9.avif?t=1757613632\" width=616 height=194 /></span><br><strong>日比谷 リト</strong><br>３年生の先輩。<br>寡黙で素行不良のため、学校では馴染めず元生徒会長である主人公の兄「櫻葉冬理」とは何度も揉め事を起こしていたようだ。<br>だが生物に関しての知識は教師も舌を巻くほど精通している<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/extras/e8d71408ccb0e3ba3424d3f21b0c5873.avif?t=1757613632\" width=616 height=194 /></span><br><strong>櫻葉 冬理</strong><br>主人公の兄で大学2年生。<br>高校時代は成績優秀で生徒会長を務めていた。<br>真面目で責任感のある性格だが欲深い思想の持ち主。<br>妹以外の前では猫を被っている。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/extras/8a826ed3e5018806bba80535f4102705.avif?t=1757613632\" width=616 height=194 /></span><br><strong>三鷹 秋奈</strong><br>主人公の親友でクラスメイト。<br>家が近所で親同士の付き合いもあった為、初等部の頃から仲良くしている。<br>昔から不幸な目にばかりあっている主人公を誰よりも心配しているようだ。<br><br><br>◾︎ゲーム概要<br>タイトル：Folie Fatale~病ンデレ男に堕とされる~<br>ジャンル：女性向けサイコラブホラーADV（ビジュアルノベル）<br>攻略対象：5人＋1人<br>エンド数：各キャラ3エンド＋a<br>※このゲームは一部過激な表現・倫理観等に欠けた表現があります。ご留意ください。<br><br>◾︎実況について<br>Steam版は全編実況配信歓迎です。<br>※他プラットフォームで入手した本タイトルの実況範囲は、<br>　当該プラットフォームのタイトル説明に従います。",
+      "short_description": "All capture targets are mentally &quot;Jirai&quot;(landmine)!? Meet these eccentric boys, reveal the truth beneath in this Psycho-love-horror VN!",
+      "supported_languages": "Simplified Chinese, Japanese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/header.jpg?t=1757613632",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/capsule_231x87.jpg?t=1757613632",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/capsule_184x69.jpg?t=1757613632",
+      "website": "https://kanmidoko.wixsite.com/foliefatale",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Generic Dual-core processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL ES 2.0 compatible graphics?<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Requirements may subject to change without notice.</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> (Unspecified modern macOS)<br></li><li><strong>Processor:</strong> Intel (with 64bit OS), or Apple Silicon (with Rosetta 2)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL ES 2.0 compatible graphics<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Additional Notes:</strong> Requirements may subject to change without notice. macOS app bundle is created with TyranoStudio, non-notarized, and provided as-is without warranty or support of any kind from the developer or publisher.</li></ul>"
+      },
+      "linux_requirements": [],
+      "legal_notice": "©2023 Kanmidoko<br />\r\nLicensed to and published by Squad Tiramisù / 346lab Localization",
+      "developers": [
+        "Kanmidoko (神海処)"
+      ],
+      "publishers": [
+        "346lab Localization"
+      ],
+      "demos": [
+        {
+          "appid": 2745790,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 599,
+        "final": 599,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$5.99"
+      },
+      "packages": [
+        978468
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Folie Fatale",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 978468,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Folie Fatale (Steam ver.) - $5.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 599
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/ss_ca762e135c7c3d7e22582d2d3d1e5a5952d0687d.600x338.jpg?t=1757613632",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/ss_ca762e135c7c3d7e22582d2d3d1e5a5952d0687d.1920x1080.jpg?t=1757613632"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/ss_bb71331bea2620ce73c2cdc436986b6066c2a737.600x338.jpg?t=1757613632",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/ss_bb71331bea2620ce73c2cdc436986b6066c2a737.1920x1080.jpg?t=1757613632"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/ss_07ef38d7282b45f19e225d278ef47a2c205864cd.600x338.jpg?t=1757613632",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/ss_07ef38d7282b45f19e225d278ef47a2c205864cd.1920x1080.jpg?t=1757613632"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/ss_fb4f4d5ac6ab1ba22a3258474b87ee2ba226bfc7.600x338.jpg?t=1757613632",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/ss_fb4f4d5ac6ab1ba22a3258474b87ee2ba226bfc7.1920x1080.jpg?t=1757613632"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/ss_bdd6cfb879d7ebd7f125b2e0e4673a48a54f72e2.600x338.jpg?t=1757613632",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/ss_bdd6cfb879d7ebd7f125b2e0e4673a48a54f72e2.1920x1080.jpg?t=1757613632"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256990183,
+          "name": "Opening movie",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256990183/movie.293x165.jpg?t=1706267916",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2734450/642697/802c16662122c9dd45b074160168b428f496adf2/1750895377/dash_av1.mpd?t=1706267916",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2734450/642697/802c16662122c9dd45b074160168b428f496adf2/1750895377/dash_h264.mpd?t=1706267916",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2734450/642697/802c16662122c9dd45b074160168b428f496adf2/1750895377/hls_264_master.m3u8?t=1706267916",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 2383
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "May 30, 2024"
+      },
+      "support_info": {
+        "url": "https://twitter.com/kanmidoko_info",
+        "email": ""
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2734450?t=1757613632",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2734450/page_bg_raw.jpg?t=1757613632",
+      "content_descriptors": {
+        "ids": [
+          1,
+          2,
+          5
+        ],
+        "notes": "自傷行為、自殺、暴力、殺人、薬物の乱用、性暴力\r\n上記が含まれるストーリーに嫌悪感を感じる方、精神が不安定になる可能性のある方はプレイをお控えください。\r\n"
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "18",
+          "required_age": "18",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência Extrema\nTemas sensíveis\nNudez"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "18",
+          "required_age": "18",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Sexualisierte Gewalt / Sexual violence\nDrastische Gewalt\nAlkohol / Tabak"
+        }
+      }
+    }
+  }
+}

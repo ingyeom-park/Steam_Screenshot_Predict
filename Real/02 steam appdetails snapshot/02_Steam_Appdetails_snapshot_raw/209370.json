@@ -1,0 +1,261 @@
+{
+  "209370": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Analogue: A Hate Story",
+      "steam_appid": 209370,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        209373
+      ],
+      "detailed_description": "Back in the 25th century, Earth launched a generation ship into deep space, with the goal of establishing the first interstellar colony. It dropped out of contact and disappeared, never reaching its destination. Thousands of years later, it has finally been found.<br />\r\n<br />\r\nUncover the mystery of what happened to the final generation aboard the generation ship Mugunghwa by reading through its dead crew's logs, with the help of a spunky AI sidekick! Two pursuable characters. Five endings. A dark visual novel that further extends the non-linear style of Digital: A Love Story in a mystery featuring transhumanism, traditional marriage, loneliness, and cosplay.<br />\r\n<br />\r\nWelcome to the future.",
+      "about_the_game": "Back in the 25th century, Earth launched a generation ship into deep space, with the goal of establishing the first interstellar colony. It dropped out of contact and disappeared, never reaching its destination. Thousands of years later, it has finally been found.<br />\r\n<br />\r\nUncover the mystery of what happened to the final generation aboard the generation ship Mugunghwa by reading through its dead crew's logs, with the help of a spunky AI sidekick! Two pursuable characters. Five endings. A dark visual novel that further extends the non-linear style of Digital: A Love Story in a mystery featuring transhumanism, traditional marriage, loneliness, and cosplay.<br />\r\n<br />\r\nWelcome to the future.",
+      "short_description": "A dark visual mystery novel featuring transhumanism, traditional marriage, loneliness, and cosplay. Two pursuable characters. Five endings. Welcome to the future.",
+      "supported_languages": "English, Korean, Japanese",
+      "reviews": "“Analogue is a sit-up-and-take-notice achievement in storytelling, in interface, in research, in mechanics and in moral ambiguity.”<br>– Alec Meer, Rock Paper Shotgun<br>“It was like watching a horror movie, knowing what was about to happen and curious only how awful the director’s willing to get. Love is not gratuitous but doesn’t disappoint – the fate of the Mugunghwa, and the event that precipitated it, is as valid as it is appalling.”<br>– Matt Sakey, Tap-Repeatedly",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/header.jpg?t=1758742108",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/capsule_231x87.jpg?t=1758742108",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/capsule_184x69.jpg?t=1758742108",
+      "website": "http://ahatestory.com",
+      "pc_requirements": {
+        "minimum": "<ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP <br>\t</li><li><strong>Processor:</strong> 1.66 GHz<br>\t</li><li><strong>Memory:</strong> 1 GB<br>\t</li><li><strong>Hard Disk Space:</strong> 80 MB<br>\t</li><li><strong>Video Card:</strong> DirectX compatible card <br>\t</li><li><strong>DirectX®:</strong> 9.0c</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> OS X version Leopard 10.5.8 or later <br>\t</li><li><strong>Processor:</strong> 1.66 GHz<br>\t</li><li><strong>Memory:</strong> 1 GB<br>\t</li><li><strong>Hard Disk Space:</strong> 80 MB</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04 <br>\t</li><li><strong>Processor:</strong> 1.66 GHz<br>\t</li><li><strong>Memory:</strong> 1 GB<br>\t</li><li><strong>Hard Disk Space:</strong> 80 MB</li></ul>"
+      },
+      "developers": [
+        "Love Conquers All Games"
+      ],
+      "publishers": [
+        "Love Conquers All Games"
+      ],
+      "demos": [
+        {
+          "appid": 210740,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        14330,
+        32136
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Analogue: A Hate Story",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 14330,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Analogue: A Hate Story - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            },
+            {
+              "packageid": 32136,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Hateful Days pair: Analogue and Hate Plus - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "metacritic": {
+        "score": 62,
+        "url": "https://www.metacritic.com/game/pc/analogue-a-hate-story?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_a1eb678df222d8d4d34c3ee3e46f6e2289bc8998.600x338.jpg?t=1758742108",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_a1eb678df222d8d4d34c3ee3e46f6e2289bc8998.1920x1080.jpg?t=1758742108"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_4773ac3f5c9832241d8bd27122ef8a87105c32da.600x338.jpg?t=1758742108",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_4773ac3f5c9832241d8bd27122ef8a87105c32da.1920x1080.jpg?t=1758742108"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_a5ff3ae7857f2ad5ea5c755ab7247da427e3c740.600x338.jpg?t=1758742108",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_a5ff3ae7857f2ad5ea5c755ab7247da427e3c740.1920x1080.jpg?t=1758742108"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_bcbc71cd3a3979463d2e5ada56767a4b20de997f.600x338.jpg?t=1758742108",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_bcbc71cd3a3979463d2e5ada56767a4b20de997f.1920x1080.jpg?t=1758742108"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_8aabbbeb1cbbdcc636514b19b19730e96511c1c1.600x338.jpg?t=1758742108",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_8aabbbeb1cbbdcc636514b19b19730e96511c1c1.1920x1080.jpg?t=1758742108"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_fb65a627052486832b07ecb7444c1697e6835164.600x338.jpg?t=1758742108",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_fb65a627052486832b07ecb7444c1697e6835164.1920x1080.jpg?t=1758742108"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_1723ffec0e979a4159bcc60ccfc92799500ab3b2.600x338.jpg?t=1758742108",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_1723ffec0e979a4159bcc60ccfc92799500ab3b2.1920x1080.jpg?t=1758742108"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_eff45926e5b3638c6c182438b5479274bd2cd651.600x338.jpg?t=1758742108",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_eff45926e5b3638c6c182438b5479274bd2cd651.1920x1080.jpg?t=1758742108"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_5f6914bdc0777041703c3da5d04f838d94077b45.600x338.jpg?t=1758742108",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209370/ss_5f6914bdc0777041703c3da5d04f838d94077b45.1920x1080.jpg?t=1758742108"
+        }
+      ],
+      "movies": [
+        {
+          "id": 81949,
+          "name": "Analogue: A Hate Story Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81949/movie.293x165.jpg?t=1447356452",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/209370/8686/a5040d2a01c855ce7aeea5740e998c64ee42e5db/1763521301/dash_av1.mpd?t=1447356452",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/209370/8686/a5040d2a01c855ce7aeea5740e998c64ee42e5db/1763521301/dash_h264.mpd?t=1447356452",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/209370/8686/a5040d2a01c855ce7aeea5740e998c64ee42e5db/1763521301/hls_264_master.m3u8?t=1447356452",
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 1684
+      },
+      "achievements": {
+        "total": 14,
+        "highlighted": [
+          {
+            "name": "Hack the Mugunghwa",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209370/7aac6ac12b6c218843f0e7477cc6fa9f544154d8.jpg"
+          },
+          {
+            "name": "Korean Fusion",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209370/ed652e963e1968eb543f0b91e52e7e57e29622be.jpg"
+          },
+          {
+            "name": "See you next mission!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209370/d92d8723e6d6eb274f01e2253211a7beb16597e2.jpg"
+          },
+          {
+            "name": "Friendzone",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209370/0c6bf77c760693179df1988d4205bf9cda8856dd.jpg"
+          },
+          {
+            "name": "Mai Waifu",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209370/fc436b5c30b10389737c683fb398361663e5b93c.jpg"
+          },
+          {
+            "name": "Forever Alone",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209370/a6438209ee626ebc8aa2609ceac23f5516701b1b.jpg"
+          },
+          {
+            "name": "TsunderAI",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209370/8ed811b151c082a661fcf7c4ad448838f6057990.jpg"
+          },
+          {
+            "name": "2 Girls, 1 Core",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209370/46b2e00f4b48a40e2930da6f649847e7676070d8.jpg"
+          },
+          {
+            "name": "Failure to Prioritize",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209370/981afff9f84bbff6e5cd591526a445991f0ee14c.jpg"
+          },
+          {
+            "name": "Crossdresser",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/209370/0ffbfd7a634cb713a90630fdea46665d9e59418b.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Apr 27, 2012"
+      },
+      "support_info": {
+        "url": "",
+        "email": "scout@scoutshonour.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/209370?t=1758742108",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/209370?t=1758742108",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Linguagem imprópria\nViolência"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "16",
+          "required_age": "16",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Gewalt\nSchimpfwörte"
+        }
+      }
+    }
+  }
+}

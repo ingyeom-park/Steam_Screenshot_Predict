@@ -1,0 +1,173 @@
+{
+  "1079160": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Touhou Kikeijuu ~ Wily Beast and Weakest Creature.",
+      "steam_appid": 1079160,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h2 class=\"bb_tag\" >ゲームの進め方</h2><br><br>敵弾に当たらないように避けて、敵を撃破するゲームです。<br>各ステージの最後にはボスが居ますので、それをやっつけると<br>ステージクリアです。<br><br>記憶力とテクニックを活用して、集中短期決戦に挑みましょう。<h2 class=\"bb_tag\" >ストーリー</h2><br><br>――賽の河原。<br>大小様々の石が無数にあるだけの、荒寥とした場所である。<br>ここでは幼くして亡くなった子供達の霊が、石を積み上げる仕事をしている。<br>決して居心地の良い場所とは言えなかった。<br><br><br>　霊夢「地獄に行くにはここを通るしかないのかぁ」<br><br>彼女と同行しているはずの動物霊は、何も喋らない。<br><br>　霊夢「何とか言ったらどうなの」<br>　<br>動物霊は霊夢に憑依した後は喋ることはなかった。<br><br>　霊夢「まあしょうがない、地獄に行けば判るものね」<br><br>三途の川を渡って、あの世から動物霊が次々とやってきていた。<br>動物霊達は、どうやら幻想郷を力で支配しようとしているようである。<br>霊夢に憑いている動物霊は、元々幻想郷の動物霊であり、地獄の動物霊達の<br>裏切り者だという。人間と一緒に地獄に行って、幻想郷に攻め入るのをやめさ<br>せたいのだという。<br><br>動物霊の言う事は本当かどうか判らない。<br>だが、動物霊が幻想郷に攻め込んできているのは事実なのだ。<br>霊夢は動物霊の力を借りて、地獄へと乗り込む選択をした。<h2 class=\"bb_tag\" >操作方法</h2><br><br>・上下左右　自機の操作<br>・SHOTキー（Zキー）　　 ショット<br>・SPECIALキー（Xキー）　スペルカード（回数制限有り）<br>・SLOWキー（Shiftキー）  低速移動<br>・PAUSEキー（Escキー）　ポーズ<br><br>＊特殊な操作<br>・メッセージのスキップ　SHOTボタン押しっぱなし<br>・高速リトライ　　　　　ポース画面でRキー<br>・スナップショット　　　Pキー<br>・ウィンドウ、フルスクリーン切替　　　Alt＋Enter<h2 class=\"bb_tag\" >同行する動物霊</h2><br><br>今回のプレイヤーは動物霊の力を借りて戦います。<br><br>　オオカミ霊　　低速移動時の攻撃が強化されます。<br>　カワウソ霊　　スペルカードが強化され、所持数も増えます。<br>　オオワシ霊　　高速移動時の攻撃が強化されます。<br>　<br>憑依させる動物霊によって、主人公の性格も若干変化します。<h2 class=\"bb_tag\" >動物霊アイテム</h2><br><br>敵を倒すと動物霊アイテム（＆アイテム魚霊）が放出されるときが<br>あります。暫く画面内を飛び回ります。<br><br>動物霊アイテム（＆アイテム魚霊）を取ると左下にストックされます。<br>１つ取っただけでは何も起こりませんが、<br>５つ集めると一定時間ロアリングモード（後述）に突入します。<h2 class=\"bb_tag\" >ロアリングモード</h2><br><br>種類にかかわらず左下の動物霊ストックが５つ揃うと、<br>背景が暗くなり特殊なモードに突入します。<br>それがロアリングモードです。<br>ロアリングモード中は以下の効果があります。<br><br>・被弾するか、ボムボタンを押すと<u>「霊撃」</u>が使えます。<br>（<u>「霊撃」</u>を使用するとロアリングモードは終了します）<br><br>・ショットを当てると<u>得点アイテム（緑）</u>を放出します。<br><br>・<u>「霊撃」</u>を使用しないで制限時間を終了を迎えると<br><u>エキストラ動物霊</u>を出現させます。<br><br>・アイテム魚霊を保持していた場合、終了時にアイテムを放出します。<br><br><br>さらに、オオカミ、カワウソ、オオワシのいずれか同じ霊を<br><u>３つ</u>以上取得していた場合、「暴走ロアリングモード」に入ります。<h2 class=\"bb_tag\" >暴走ロアリングモード</h2><br><br>オオカミ、カワウソ、オオワシのいずれか<u>同じ霊を３つ以上</u><br>取得して５つ集めた場合、<u>「暴走ロアリングモード</u>」に入ります。<br>通常のロアリングモードの効果に加え、特別な効果があります。<br><br><br>　オオカミ３つ以上<br>　　　集中ショットがハイパー化します。<br>　　　＊自キャラがオオカミタイプだと、時間延長<br><br>　カワウソ３つ以上<br>　　　敵弾を得点アイテム（緑）に変換する<br>　　　カワウソバリアが付きます。<br>　　　＊自キャラがカワウソタイプだと、時間延長<br><br>　オオワシ３つ以上<br>　　　拡散ショットがハイパー化します。<br>　　　＊オオワシタイプだと、時間延長<br>　　　<h2 class=\"bb_tag\" >アイテム</h2><br><br>　霊力アップアイテム　　　沢山取るとパワーアップします<br>　得点アイテム　　　　　　画面上部で取ると点数が高い<br>　スペルカードのかけら　　３つ集めるとスペルカードが増えます<br>　１ＵＰのかけら　　　　　３つ集めると残機が増えます<br>　<br>　＊上記アイテムは画面上部に自機を持っていくと自動的に回収出来ます<br>　<br>　得点アイテム（緑）　　　得点アイテムの最大点を引き上げます。<br>　　　　　　　　　　　　　ロアリングモード中ショットを当てたり<br>　　　　　　　　　　　　　「霊撃」などで敵弾を消すと出ます。<br>　　　　　　　　　　　　　自動回収されます。<br>　<br>　動物霊（オオカミ、カワウソ、オオワシ）<br>　３つ以上同じ種類を集めると暴走します。<br>　<br>　アイテム魚霊<br>　ロアリングモード終了時にアイテムが出ます。<h2 class=\"bb_tag\" >細かい仕様</h2><br><br>・ロアリングモードは<u>ショットを撃つのをやめる</u>ことで、<br>　制限時間の減りをゆっくりにする事が出来ます。<br><br>・暴走ロアリングモードは揃えている動物霊の数で時間が決まります。<br>　<u>５つ同じ動物で揃えれば、長時間モードが続きます。</u><br><br>・ロアリングモード中に動物霊を取ると、制限時間を少し延長します。<br>　<u>ロアリングモード中にアイテム魚霊を取ると、即時アイテムを放出します。</u><br>　<br>・動物霊アイテムは、一定時間で変化します。<br>　<u>近づくと変化を止めることが出来ます。</u><br>　<br>・ミスすると、自分のタイプの動物霊を出します。<br>　この動物霊は待っても別の動物霊に変化することはありません。<br><br>・動物霊は長時間放置すると画面外に逃げます。<br>　ただし、かなり時間は長いです。<br><br>・会話中、動物霊をいくら放置しても消えることはありません。<br>　会話そっちのけで変化待ちするのもアリです。",
+      "about_the_game": "<h2 class=\"bb_tag\" >ゲームの進め方</h2><br><br>敵弾に当たらないように避けて、敵を撃破するゲームです。<br>各ステージの最後にはボスが居ますので、それをやっつけると<br>ステージクリアです。<br><br>記憶力とテクニックを活用して、集中短期決戦に挑みましょう。<h2 class=\"bb_tag\" >ストーリー</h2><br><br>――賽の河原。<br>大小様々の石が無数にあるだけの、荒寥とした場所である。<br>ここでは幼くして亡くなった子供達の霊が、石を積み上げる仕事をしている。<br>決して居心地の良い場所とは言えなかった。<br><br><br>　霊夢「地獄に行くにはここを通るしかないのかぁ」<br><br>彼女と同行しているはずの動物霊は、何も喋らない。<br><br>　霊夢「何とか言ったらどうなの」<br>　<br>動物霊は霊夢に憑依した後は喋ることはなかった。<br><br>　霊夢「まあしょうがない、地獄に行けば判るものね」<br><br>三途の川を渡って、あの世から動物霊が次々とやってきていた。<br>動物霊達は、どうやら幻想郷を力で支配しようとしているようである。<br>霊夢に憑いている動物霊は、元々幻想郷の動物霊であり、地獄の動物霊達の<br>裏切り者だという。人間と一緒に地獄に行って、幻想郷に攻め入るのをやめさ<br>せたいのだという。<br><br>動物霊の言う事は本当かどうか判らない。<br>だが、動物霊が幻想郷に攻め込んできているのは事実なのだ。<br>霊夢は動物霊の力を借りて、地獄へと乗り込む選択をした。<h2 class=\"bb_tag\" >操作方法</h2><br><br>・上下左右　自機の操作<br>・SHOTキー（Zキー）　　 ショット<br>・SPECIALキー（Xキー）　スペルカード（回数制限有り）<br>・SLOWキー（Shiftキー）  低速移動<br>・PAUSEキー（Escキー）　ポーズ<br><br>＊特殊な操作<br>・メッセージのスキップ　SHOTボタン押しっぱなし<br>・高速リトライ　　　　　ポース画面でRキー<br>・スナップショット　　　Pキー<br>・ウィンドウ、フルスクリーン切替　　　Alt＋Enter<h2 class=\"bb_tag\" >同行する動物霊</h2><br><br>今回のプレイヤーは動物霊の力を借りて戦います。<br><br>　オオカミ霊　　低速移動時の攻撃が強化されます。<br>　カワウソ霊　　スペルカードが強化され、所持数も増えます。<br>　オオワシ霊　　高速移動時の攻撃が強化されます。<br>　<br>憑依させる動物霊によって、主人公の性格も若干変化します。<h2 class=\"bb_tag\" >動物霊アイテム</h2><br><br>敵を倒すと動物霊アイテム（＆アイテム魚霊）が放出されるときが<br>あります。暫く画面内を飛び回ります。<br><br>動物霊アイテム（＆アイテム魚霊）を取ると左下にストックされます。<br>１つ取っただけでは何も起こりませんが、<br>５つ集めると一定時間ロアリングモード（後述）に突入します。<h2 class=\"bb_tag\" >ロアリングモード</h2><br><br>種類にかかわらず左下の動物霊ストックが５つ揃うと、<br>背景が暗くなり特殊なモードに突入します。<br>それがロアリングモードです。<br>ロアリングモード中は以下の効果があります。<br><br>・被弾するか、ボムボタンを押すと<u>「霊撃」</u>が使えます。<br>（<u>「霊撃」</u>を使用するとロアリングモードは終了します）<br><br>・ショットを当てると<u>得点アイテム（緑）</u>を放出します。<br><br>・<u>「霊撃」</u>を使用しないで制限時間を終了を迎えると<br><u>エキストラ動物霊</u>を出現させます。<br><br>・アイテム魚霊を保持していた場合、終了時にアイテムを放出します。<br><br><br>さらに、オオカミ、カワウソ、オオワシのいずれか同じ霊を<br><u>３つ</u>以上取得していた場合、「暴走ロアリングモード」に入ります。<h2 class=\"bb_tag\" >暴走ロアリングモード</h2><br><br>オオカミ、カワウソ、オオワシのいずれか<u>同じ霊を３つ以上</u><br>取得して５つ集めた場合、<u>「暴走ロアリングモード</u>」に入ります。<br>通常のロアリングモードの効果に加え、特別な効果があります。<br><br><br>　オオカミ３つ以上<br>　　　集中ショットがハイパー化します。<br>　　　＊自キャラがオオカミタイプだと、時間延長<br><br>　カワウソ３つ以上<br>　　　敵弾を得点アイテム（緑）に変換する<br>　　　カワウソバリアが付きます。<br>　　　＊自キャラがカワウソタイプだと、時間延長<br><br>　オオワシ３つ以上<br>　　　拡散ショットがハイパー化します。<br>　　　＊オオワシタイプだと、時間延長<br>　　　<h2 class=\"bb_tag\" >アイテム</h2><br><br>　霊力アップアイテム　　　沢山取るとパワーアップします<br>　得点アイテム　　　　　　画面上部で取ると点数が高い<br>　スペルカードのかけら　　３つ集めるとスペルカードが増えます<br>　１ＵＰのかけら　　　　　３つ集めると残機が増えます<br>　<br>　＊上記アイテムは画面上部に自機を持っていくと自動的に回収出来ます<br>　<br>　得点アイテム（緑）　　　得点アイテムの最大点を引き上げます。<br>　　　　　　　　　　　　　ロアリングモード中ショットを当てたり<br>　　　　　　　　　　　　　「霊撃」などで敵弾を消すと出ます。<br>　　　　　　　　　　　　　自動回収されます。<br>　<br>　動物霊（オオカミ、カワウソ、オオワシ）<br>　３つ以上同じ種類を集めると暴走します。<br>　<br>　アイテム魚霊<br>　ロアリングモード終了時にアイテムが出ます。<h2 class=\"bb_tag\" >細かい仕様</h2><br><br>・ロアリングモードは<u>ショットを撃つのをやめる</u>ことで、<br>　制限時間の減りをゆっくりにする事が出来ます。<br><br>・暴走ロアリングモードは揃えている動物霊の数で時間が決まります。<br>　<u>５つ同じ動物で揃えれば、長時間モードが続きます。</u><br><br>・ロアリングモード中に動物霊を取ると、制限時間を少し延長します。<br>　<u>ロアリングモード中にアイテム魚霊を取ると、即時アイテムを放出します。</u><br>　<br>・動物霊アイテムは、一定時間で変化します。<br>　<u>近づくと変化を止めることが出来ます。</u><br>　<br>・ミスすると、自分のタイプの動物霊を出します。<br>　この動物霊は待っても別の動物霊に変化することはありません。<br><br>・動物霊は長時間放置すると画面外に逃げます。<br>　ただし、かなり時間は長いです。<br><br>・会話中、動物霊をいくら放置しても消えることはありません。<br>　会話そっちのけで変化待ちするのもアリです。",
+      "short_description": "誰が強いのか、誰が賢いのか、誰が正しいのか　畜生の理に則って、全て弾幕で決めよう！ ワイルドでビーストライクなシューティング幻想！",
+      "supported_languages": "Japanese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079160/header.jpg?t=1667287141",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079160/capsule_231x87.jpg?t=1667287141",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079160/capsule_184x69.jpg?t=1667287141",
+      "website": "http://www16.big.or.jp/~zun/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> Core 2 Duo or faster<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> Shader Model 2.0 compatible<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Sound Card:</strong> DirectSound compatible</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "上海アリス幻樂団"
+      ],
+      "publishers": [
+        "Mediascape Co., Ltd."
+      ],
+      "demos": [
+        {
+          "appid": 1079170,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        362283
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Touhou Kikeijuu ~ Wily Beast and Weakest Creature.",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 362283,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "東方鬼形獣 〜 Wily Beast and Weakest Creature. - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079160/ss_a0785e3ac194203a5be66b498fdab88048dde707.600x338.jpg?t=1667287141",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079160/ss_a0785e3ac194203a5be66b498fdab88048dde707.1920x1080.jpg?t=1667287141"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079160/ss_3080d5313e0e09baab9b375faab58e59e432eeb5.600x338.jpg?t=1667287141",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079160/ss_3080d5313e0e09baab9b375faab58e59e432eeb5.1920x1080.jpg?t=1667287141"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079160/ss_4a4dc2b939e997a9ef95e767d56a2f8c73e5c1b3.600x338.jpg?t=1667287141",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079160/ss_4a4dc2b939e997a9ef95e767d56a2f8c73e5c1b3.1920x1080.jpg?t=1667287141"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079160/ss_ecbc077cddfdc78bcd1f588e4eda765ccd108a49.600x338.jpg?t=1667287141",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079160/ss_ecbc077cddfdc78bcd1f588e4eda765ccd108a49.1920x1080.jpg?t=1667287141"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079160/ss_67f73491607c8aabd0ad61052997400c5669c49e.600x338.jpg?t=1667287141",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079160/ss_67f73491607c8aabd0ad61052997400c5669c49e.1920x1080.jpg?t=1667287141"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256759148,
+          "name": "th17_pv",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256759148/movie.293x165.jpg?t=1565858294",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1079160/238383/cfe38e7c1d0a8af7e6f43f44c2a8f811e5428ba3/1751185545/dash_av1.mpd?t=1565858294",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1079160/238383/cfe38e7c1d0a8af7e6f43f44c2a8f811e5428ba3/1751185545/dash_h264.mpd?t=1565858294",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1079160/238383/cfe38e7c1d0a8af7e6f43f44c2a8f811e5428ba3/1751185545/hls_264_master.m3u8?t=1565858294",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 1002
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 9, 2019"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@mediascape.co.jp"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1079160?t=1667287141",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079160/page_bg_raw.jpg?t=1667287141",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência fantasiosa"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "6",
+          "required_age": "6",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Fantasy-Gewalt"
+        }
+      }
+    }
+  }
+}

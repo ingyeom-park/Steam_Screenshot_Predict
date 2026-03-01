@@ -1,0 +1,227 @@
+{
+  "1375870": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "川建国同志想要连任/Comrade Trump's Re-election",
+      "steam_appid": 1375870,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h2 class=\"bb_tag\" >Disclaimer</h2><strong>This game is for entertainment only. It does not represent any group or individual, nor does it represent or agree with any political views.</strong><br><strong>This game is based on a fictional world, which involves the characters, story is pure fiction. If there are similarities, it is purely a coincidence.</strong><h2 class=\"bb_tag\" >Game Content</h2>With three days to go before the 2020 US election, in the face of endless questions from reporters at the press conference, can Comrade Trump be re-elected? Can he fulfill the task assigned to him by his motherland?<br><br>This game has rich questioning system, each choice may bring different results. Of course, if you can't decide, you can also directly reprimand the reporter, &quot;FAKE NEWS!&quot; <br><br>Whether to answer the reporter's questions seriously or leave in anger depends on your choice.<br><br>Besides, how can Comrade Trump forget to tweet? Send a tweet to see how many likes you've collected!<br><br>The game has four endings. In addition to winning and losing, there are two hidden endings.<br><br>&quot;This is a hymn of loyalty!&quot;<h2 class=\"bb_tag\" >Production Team</h2><br>YEARS Studio",
+      "about_the_game": "<h2 class=\"bb_tag\" >Disclaimer</h2><strong>This game is for entertainment only. It does not represent any group or individual, nor does it represent or agree with any political views.</strong><br><strong>This game is based on a fictional world, which involves the characters, story is pure fiction. If there are similarities, it is purely a coincidence.</strong><h2 class=\"bb_tag\" >Game Content</h2>With three days to go before the 2020 US election, in the face of endless questions from reporters at the press conference, can Comrade Trump be re-elected? Can he fulfill the task assigned to him by his motherland?<br><br>This game has rich questioning system, each choice may bring different results. Of course, if you can't decide, you can also directly reprimand the reporter, &quot;FAKE NEWS!&quot; <br><br>Whether to answer the reporter's questions seriously or leave in anger depends on your choice.<br><br>Besides, how can Comrade Trump forget to tweet? Send a tweet to see how many likes you've collected!<br><br>The game has four endings. In addition to winning and losing, there are two hidden endings.<br><br>&quot;This is a hymn of loyalty!&quot;<h2 class=\"bb_tag\" >Production Team</h2><br>YEARS Studio",
+      "short_description": "This game is for entertainment only. It does not represent any group or individual, nor does it represent or agree with any political views.A game simulating the re-election of Comrade Trump, let's write a hymn of loyalty.",
+      "supported_languages": "Simplified Chinese, English",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/header.jpg?t=1760363889",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/capsule_231x87.jpg?t=1760363889",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/capsule_184x69.jpg?t=1760363889",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win7<br></li><li><strong>Processor:</strong> i3<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "YEARS"
+      ],
+      "publishers": [
+        "七彩绘色游戏"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 299,
+        "final": 119,
+        "discount_percent": 60,
+        "initial_formatted": "$2.99",
+        "final_formatted": "$1.19"
+      },
+      "packages": [
+        482620
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 川建国同志想要连任/Comrade Trump's Re-election",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 482620,
+              "percent_savings_text": "-60% ",
+              "percent_savings": 0,
+              "option_text": "川建国同志想要连任 - <span class=\"discount_original_price\">$2.99</span> $1.19",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 119
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_7d4de71442d2e923ec1b0eb444435f6dee4a6248.600x338.jpg?t=1760363889",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_7d4de71442d2e923ec1b0eb444435f6dee4a6248.1920x1080.jpg?t=1760363889"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_4a5d2bcb76106a70ba50ec518066e0a5952dc91b.600x338.jpg?t=1760363889",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_4a5d2bcb76106a70ba50ec518066e0a5952dc91b.1920x1080.jpg?t=1760363889"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_bf021997d95276a1a49e79efe6e1ae0a0563ea86.600x338.jpg?t=1760363889",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_bf021997d95276a1a49e79efe6e1ae0a0563ea86.1920x1080.jpg?t=1760363889"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_1d2d0f364447d826b49adb1631bb5e7ca64d4590.600x338.jpg?t=1760363889",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_1d2d0f364447d826b49adb1631bb5e7ca64d4590.1920x1080.jpg?t=1760363889"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_be6696045740495ce895671bc705826c9e548b39.600x338.jpg?t=1760363889",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_be6696045740495ce895671bc705826c9e548b39.1920x1080.jpg?t=1760363889"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_92e70adbc22e74c15bb056ea02ab2e15e7907c6f.600x338.jpg?t=1760363889",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_92e70adbc22e74c15bb056ea02ab2e15e7907c6f.1920x1080.jpg?t=1760363889"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_5facac4baa2ba6ce1cf6083628c2c4c501a01b92.600x338.jpg?t=1760363889",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_5facac4baa2ba6ce1cf6083628c2c4c501a01b92.1920x1080.jpg?t=1760363889"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_e8987e9246330f3877c4efabe05f833285104b4a.600x338.jpg?t=1760363889",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_e8987e9246330f3877c4efabe05f833285104b4a.1920x1080.jpg?t=1760363889"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_7a38a62716ccbb96410b1968453c51024dedcd73.600x338.jpg?t=1760363889",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375870/ss_7a38a62716ccbb96410b1968453c51024dedcd73.1920x1080.jpg?t=1760363889"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256796749,
+          "name": "宣传PV",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256796749/movie.293x165.jpg?t=1597722424",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1375870/305099/836250d19dbdf7e7bd15836f4a60331d1d23ae44/1751229299/dash_av1.mpd?t=1597722424",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1375870/305099/836250d19dbdf7e7bd15836f4a60331d1d23ae44/1751229299/dash_h264.mpd?t=1597722424",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1375870/305099/836250d19dbdf7e7bd15836f4a60331d1d23ae44/1751229299/hls_264_master.m3u8?t=1597722424",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 1165
+      },
+      "achievements": {
+        "total": 60,
+        "highlighted": [
+          {
+            "name": "Road of Re-election",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1375870/5d045b6bb5e7927992cc0e82b83892dc7ad48ab1.jpg"
+          },
+          {
+            "name": "I like the election",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1375870/80ab0a2c171805cc6d64c653b7046508eb97f1db.jpg"
+          },
+          {
+            "name": "Rookie of Twitter",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1375870/5d045b6bb5e7927992cc0e82b83892dc7ad48ab1.jpg"
+          },
+          {
+            "name": "Friend of Twitter",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1375870/5d045b6bb5e7927992cc0e82b83892dc7ad48ab1.jpg"
+          },
+          {
+            "name": "Twitter is my home",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1375870/80ab0a2c171805cc6d64c653b7046508eb97f1db.jpg"
+          },
+          {
+            "name": "What is Facebook",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1375870/8914a5e8c23006e372fa5cae7a7715de880f692f.jpg"
+          },
+          {
+            "name": "Here's the Lawyer's letter",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1375870/5d045b6bb5e7927992cc0e82b83892dc7ad48ab1.jpg"
+          },
+          {
+            "name": "the Winner",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1375870/5d045b6bb5e7927992cc0e82b83892dc7ad48ab1.jpg"
+          },
+          {
+            "name": "Taste of Failure",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1375870/5d045b6bb5e7927992cc0e82b83892dc7ad48ab1.jpg"
+          },
+          {
+            "name": "Comrade Trump's Anger",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1375870/80ab0a2c171805cc6d64c653b7046508eb97f1db.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 10, 2020"
+      },
+      "support_info": {
+        "url": "",
+        "email": "kottaloflotenspieler@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1375870?t=1760363889",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1375870?t=1760363889",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "l"
+        }
+      }
+    }
+  }
+}

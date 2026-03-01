@@ -1,0 +1,301 @@
+{
+  "1755830": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Astrea: Six-Sided Oracles",
+      "steam_appid": 1755830,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        2608580,
+        2608590
+      ],
+      "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/08400f962d48484dffcb35c0bf00f38b.poster.avif?t=1770654706\" width=616 height=51 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/08400f962d48484dffcb35c0bf00f38b.webm?t=1770654706\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/81899eb1420468155db636b920c15e70.poster.avif?t=1770654706\" width=780 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/81899eb1420468155db636b920c15e70.webm?t=1770654706\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/81899eb1420468155db636b920c15e70.mp4?t=1770654706\" type=\"video/mp4\"></video></span>Astrea is a DICE-deck-building roguelike that flips the script on deckbuilders by using dice instead of cards and a unique dual “damage” system: Purification vs Corruption. Build a dice pool strong enough to purify Astrea's out-of-control corruption and save the Star System. </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/c88239713945ed29ebe96ce64cce7d92.webp?t=1770654706\" width=780 height=50 /></span></p><p class=\"bb_paragraph\" >• <strong>Unique dual “damage” system: Purification vs Corruption -</strong> In Astrea there is a new type of “damage” system. Purification can be used to damage enemies or heal yourself. On the other hand, corruption can be used to damage yourself or heal the enemies. Pacify enemies through Purification, or Corrupt yourself to unleash abilities that help tip the scales. </p><p class=\"bb_paragraph\" > <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/d6ffad3af9ef5c663a455d79e09c93db.poster.avif?t=1770654706\" width=780 height=216 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/d6ffad3af9ef5c663a455d79e09c93db.webm?t=1770654706\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/d6ffad3af9ef5c663a455d79e09c93db.mp4?t=1770654706\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >• <strong>Dynamic Health Bar system -</strong> With skills attached to your health bar, you can take Corruption to enable these skills and unleash powerful abilities. But be careful, if you take too much Corruption you will be consumed by it. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/f93ee11520086b7ca181902b5bf57545.poster.avif?t=1770654706\" width=620 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/f93ee11520086b7ca181902b5bf57545.webm?t=1770654706\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/f93ee11520086b7ca181902b5bf57545.mp4?t=1770654706\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >• <strong>Not cards, but dice! -</strong> Build a dice pool that fits your playstyle. Choose from over 350 dice and three dice types; reliably safe, perfectly balanced, or powerfully risky. A dice type system designed with high-risk, high-reward in its core.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >• <strong>Customize your dice -</strong> Forge your fate by editing die faces with new actions, tipping the odds of powerful results into your favor.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >• <strong>Choose from Six Brave Oracles -</strong> Each possessing their own unique dice sets, abilities, and playstyles. From ingenious spellcasters to brutish berserkers, whether you like beating the opponent into submission or outsmarting them with clever plays, there’s an oracle for you.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/4af23492ee184f4db4c1f95f40fb0629.avif?t=1770654706\" width=780 height=277 /></span></p><p class=\"bb_paragraph\" >• <strong>20 Upgradeable Support Sentinels -</strong> Enchanted constructs that offer supportive dice rolls making them reliable companions in the heat of battle.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >• <strong>Uncover Over 170 Modifying Blessings -</strong> Imbue your Oracle with unique passives yielding potent effects that change up your fundamental tactics. Choose between Star Blessings, passive effects with lower power, or Black Hole Blessings, powerful passive effects with a drawback.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >• <strong>More than 20 random events</strong> - Find mysterious locations that can change the course of your run.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >• <strong>Manipulate your enemies and control your fate -</strong> Enemies attack using their own die, making it possible for you to manipulate their die to change their intent.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >• <strong>16 Difficulty Levels -</strong> Customize your experience using difficulty levels to test all your abilities.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/812d8e95605691f08a514958a152fea2.poster.avif?t=1770654706\" width=620 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/812d8e95605691f08a514958a152fea2.webm?t=1770654706\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/812d8e95605691f08a514958a152fea2.mp4?t=1770654706\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/e6110a9acb66a1e135bf55bb58b584a2.webp?t=1770654706\" width=780 height=50 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/999e232e2e46dab4d3b00f6082496a85.avif?t=1770654706\" width=780 height=250 /></span></p><p class=\"bb_paragraph\" >Long ago - when ancient ruins were once flourishing civilizations and their populace lived in idyllic bliss - a mystical star governed all. Loyal disciples, called Six-Sided Oracles, were blessed by their star, granting them the strength to seal away the gift of heavenly bodies within mystic relics.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >All was perfect and harmonious, until that one fateful day - The Crimson Dawn Cataclysm. A ferocious inferno sundered down from the sky, engulfing the entirety of the star system, crumbling the foundations of their society and corrupting the souls of the weak-willed. The disciples of the star were lost to the chaos - their creations scattered across a vast world of ruin. Could there still exist those who were capable of wielding their power?</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Eons later, descendants of the Six-Sided Oracles embark on a journey to finish the failed battle that their predecessors started and save their star system. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/287bce9d7336dd4ccc74d3e60313be55.poster.avif?t=1770654706\" width=780 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/287bce9d7336dd4ccc74d3e60313be55.webm?t=1770654706\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/287bce9d7336dd4ccc74d3e60313be55.mp4?t=1770654706\" type=\"video/mp4\"></video></span></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/08400f962d48484dffcb35c0bf00f38b.poster.avif?t=1770654706\" width=616 height=51 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/08400f962d48484dffcb35c0bf00f38b.webm?t=1770654706\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/81899eb1420468155db636b920c15e70.poster.avif?t=1770654706\" width=780 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/81899eb1420468155db636b920c15e70.webm?t=1770654706\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/81899eb1420468155db636b920c15e70.mp4?t=1770654706\" type=\"video/mp4\"></video></span>Astrea is a DICE-deck-building roguelike that flips the script on deckbuilders by using dice instead of cards and a unique dual “damage” system: Purification vs Corruption. Build a dice pool strong enough to purify Astrea's out-of-control corruption and save the Star System. </p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/c88239713945ed29ebe96ce64cce7d92.webp?t=1770654706\" width=780 height=50 /></span></p><p class=\"bb_paragraph\" >• <strong>Unique dual “damage” system: Purification vs Corruption -</strong> In Astrea there is a new type of “damage” system. Purification can be used to damage enemies or heal yourself. On the other hand, corruption can be used to damage yourself or heal the enemies. Pacify enemies through Purification, or Corrupt yourself to unleash abilities that help tip the scales. </p><p class=\"bb_paragraph\" > <br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/d6ffad3af9ef5c663a455d79e09c93db.poster.avif?t=1770654706\" width=780 height=216 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/d6ffad3af9ef5c663a455d79e09c93db.webm?t=1770654706\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/d6ffad3af9ef5c663a455d79e09c93db.mp4?t=1770654706\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >• <strong>Dynamic Health Bar system -</strong> With skills attached to your health bar, you can take Corruption to enable these skills and unleash powerful abilities. But be careful, if you take too much Corruption you will be consumed by it. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/f93ee11520086b7ca181902b5bf57545.poster.avif?t=1770654706\" width=620 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/f93ee11520086b7ca181902b5bf57545.webm?t=1770654706\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/f93ee11520086b7ca181902b5bf57545.mp4?t=1770654706\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >• <strong>Not cards, but dice! -</strong> Build a dice pool that fits your playstyle. Choose from over 350 dice and three dice types; reliably safe, perfectly balanced, or powerfully risky. A dice type system designed with high-risk, high-reward in its core.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >• <strong>Customize your dice -</strong> Forge your fate by editing die faces with new actions, tipping the odds of powerful results into your favor.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >• <strong>Choose from Six Brave Oracles -</strong> Each possessing their own unique dice sets, abilities, and playstyles. From ingenious spellcasters to brutish berserkers, whether you like beating the opponent into submission or outsmarting them with clever plays, there’s an oracle for you.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/4af23492ee184f4db4c1f95f40fb0629.avif?t=1770654706\" width=780 height=277 /></span></p><p class=\"bb_paragraph\" >• <strong>20 Upgradeable Support Sentinels -</strong> Enchanted constructs that offer supportive dice rolls making them reliable companions in the heat of battle.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >• <strong>Uncover Over 170 Modifying Blessings -</strong> Imbue your Oracle with unique passives yielding potent effects that change up your fundamental tactics. Choose between Star Blessings, passive effects with lower power, or Black Hole Blessings, powerful passive effects with a drawback.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >• <strong>More than 20 random events</strong> - Find mysterious locations that can change the course of your run.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >• <strong>Manipulate your enemies and control your fate -</strong> Enemies attack using their own die, making it possible for you to manipulate their die to change their intent.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >• <strong>16 Difficulty Levels -</strong> Customize your experience using difficulty levels to test all your abilities.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/812d8e95605691f08a514958a152fea2.poster.avif?t=1770654706\" width=620 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/812d8e95605691f08a514958a152fea2.webm?t=1770654706\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/812d8e95605691f08a514958a152fea2.mp4?t=1770654706\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/e6110a9acb66a1e135bf55bb58b584a2.webp?t=1770654706\" width=780 height=50 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/999e232e2e46dab4d3b00f6082496a85.avif?t=1770654706\" width=780 height=250 /></span></p><p class=\"bb_paragraph\" >Long ago - when ancient ruins were once flourishing civilizations and their populace lived in idyllic bliss - a mystical star governed all. Loyal disciples, called Six-Sided Oracles, were blessed by their star, granting them the strength to seal away the gift of heavenly bodies within mystic relics.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >All was perfect and harmonious, until that one fateful day - The Crimson Dawn Cataclysm. A ferocious inferno sundered down from the sky, engulfing the entirety of the star system, crumbling the foundations of their society and corrupting the souls of the weak-willed. The disciples of the star were lost to the chaos - their creations scattered across a vast world of ruin. Could there still exist those who were capable of wielding their power?</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Eons later, descendants of the Six-Sided Oracles embark on a journey to finish the failed battle that their predecessors started and save their star system. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/287bce9d7336dd4ccc74d3e60313be55.poster.avif?t=1770654706\" width=780 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/287bce9d7336dd4ccc74d3e60313be55.webm?t=1770654706\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/extras/287bce9d7336dd4ccc74d3e60313be55.mp4?t=1770654706\" type=\"video/mp4\"></video></span></p>",
+      "short_description": "Astrea is a DICE-deck-building roguelike that flips the script on deckbuilders by using dice instead of cards and a unique dual “damage” system: Purification vs Corruption. Build a dice pool strong enough to purify Astrea's out-of-control corruption and save the Star System.",
+      "supported_languages": "English, French, German, Spanish - Spain, Japanese, Russian, Simplified Chinese, Traditional Chinese, Portuguese - Brazil, Korean",
+      "reviews": "“... a deckbuilder where almost every single turn is engaging and often butt-clenching.”<br>PC Gamer<br><br>“God-tier roguelike... can't recommend it enough!”<br>Retromation<br><br>“One of the best if not the best in the roguelike deck/dice building genre.”<br>Wanderbots<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/0a034d750802c570aabef6af262c154ae46fedfa/header.jpg?t=1770654706",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/74ff5c538218e81b515c89daee15d0bebe2bf26a/capsule_231x87.jpg?t=1770654706",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/74ff5c538218e81b515c89daee15d0bebe2bf26a/capsule_184x69.jpg?t=1770654706",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10, 64-bit<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1GB RAM, OpenGL 3.3<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10, 64-bit<br></li><li><strong>Processor:</strong> Intel Core i7<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 4GB RAM, OpenGL 4.5<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "© 2022 Little Leo Games",
+      "developers": [
+        "Little Leo Games"
+      ],
+      "publishers": [
+        "Akupara Games"
+      ],
+      "demos": [
+        {
+          "appid": 1942700,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        629702
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Astrea: Six-Sided Oracles",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 629702,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Astrea: Six-Sided Oracles - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "metacritic": {
+        "score": 85,
+        "url": "https://www.metacritic.com/game/pc/astrea-six-sided-oracles?ftag=MCD-06-10aaa1f"
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 67,
+          "description": "Camera Comfort"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 78,
+          "description": "Adjustable Difficulty"
+        },
+        {
+          "id": 74,
+          "description": "Playable without Timed Input"
+        },
+        {
+          "id": 79,
+          "description": "Save Anytime"
+        },
+        {
+          "id": 69,
+          "description": "Stereo Sound"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/ss_e8fbb9e4419623b9cb30804da44781b668b09d6b.600x338.jpg?t=1770654706",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/ss_e8fbb9e4419623b9cb30804da44781b668b09d6b.1920x1080.jpg?t=1770654706"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/ss_461aac10b4f898c2584c7a8acf0c7a6986bc6cb2.600x338.jpg?t=1770654706",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/ss_461aac10b4f898c2584c7a8acf0c7a6986bc6cb2.1920x1080.jpg?t=1770654706"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/ss_d7fd4964e16597a1f0b810da4ec3c2a290150680.600x338.jpg?t=1770654706",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/ss_d7fd4964e16597a1f0b810da4ec3c2a290150680.1920x1080.jpg?t=1770654706"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/ss_96ce15efce741c9b058edc34fa224b42e4a73d00.600x338.jpg?t=1770654706",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/ss_96ce15efce741c9b058edc34fa224b42e4a73d00.1920x1080.jpg?t=1770654706"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/ss_4cb3fc26607438444260653f3363b4149c148d71.600x338.jpg?t=1770654706",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/ss_4cb3fc26607438444260653f3363b4149c148d71.1920x1080.jpg?t=1770654706"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/ss_cedabaf1a885d6439404421c20be3c62d012a769.600x338.jpg?t=1770654706",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/ss_cedabaf1a885d6439404421c20be3c62d012a769.1920x1080.jpg?t=1770654706"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/ss_15e8ff5d9659a6abd71d8035f63210fbf7d981d7.600x338.jpg?t=1770654706",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/ss_15e8ff5d9659a6abd71d8035f63210fbf7d981d7.1920x1080.jpg?t=1770654706"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256971882,
+          "name": "Store Refresh - Sept 2023",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256971882/movie.293x165.jpg?t=1695759775",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1755830/611686/698490098db0f87ed255e599fb317770d58c5c28/1750732618/dash_av1.mpd?t=1695759775",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1755830/611686/698490098db0f87ed255e599fb317770d58c5c28/1750732618/dash_h264.mpd?t=1695759775",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1755830/611686/698490098db0f87ed255e599fb317770d58c5c28/1750732618/hls_264_master.m3u8?t=1695759775",
+          "highlight": true
+        },
+        {
+          "id": 256970965,
+          "name": "Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256970965/movie.293x165.jpg?t=1695338553",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1755830/610071/dd08b0bc175d99f27547a2c0dea75a953c3dcd17/1750732614/dash_av1.mpd?t=1695338553",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1755830/610071/dd08b0bc175d99f27547a2c0dea75a953c3dcd17/1750732614/dash_h264.mpd?t=1695338553",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1755830/610071/dd08b0bc175d99f27547a2c0dea75a953c3dcd17/1750732614/hls_264_master.m3u8?t=1695338553",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 2948
+      },
+      "achievements": {
+        "total": 80,
+        "highlighted": [
+          {
+            "name": "Meissa's Savior",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755830/5a421b7c17b2d028f62435d1a2f8c9cb4acddacd.jpg"
+          },
+          {
+            "name": "Purification Pioneer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755830/2f638305810754358ab46c0de2b7dab88c04c0ba.jpg"
+          },
+          {
+            "name": "Mechanical Buddy",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755830/fe80453fa9b05615965cc81c18039ef343c956fa.jpg"
+          },
+          {
+            "name": "Dicesmithing Time!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755830/73e5adc66c0e7d542caee589c7d14d85b6774de4.jpg"
+          },
+          {
+            "name": "Shard Spender",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755830/7da2a7f754b3d10eaae47cb9465c9befd55d3cd2.jpg"
+          },
+          {
+            "name": "Loyal Partner",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755830/7abf439341bd189a006d7eaebd491d98d3e6e51c.jpg"
+          },
+          {
+            "name": "Sanctuary Guardian",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755830/4f357512ca8a5f6c3e9e5d950f4bcd8512a22743.jpg"
+          },
+          {
+            "name": "Wild's Keeper",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755830/190e5f3b0677662d9ab96f52ce1e6897a8b7f8f7.jpg"
+          },
+          {
+            "name": "Mind Illuminator",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755830/a4113bf881f4a2badf268e85e8eabc36a7e119ad.jpg"
+          },
+          {
+            "name": "Stellar Dismantler",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1755830/dc57abb79469f19e6e1d9e3e13204c68b9fc5c6a.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 21, 2023"
+      },
+      "support_info": {
+        "url": "https://bugs.akuparagames.com/",
+        "email": "astrea@akuparagames.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1755830?t=1770654706",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755830/page_bg_raw.jpg?t=1770654706",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "l",
+          "descriptors": "Violência fantasiosa"
+        },
+        "usk": {
+          "rating": "12",
+          "descriptors": "Fantasy Violence",
+          "use_age_gate": "true",
+          "required_age": "12"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "6",
+          "required_age": "6",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Fantasy-Gewalt"
+        }
+      }
+    }
+  }
+}

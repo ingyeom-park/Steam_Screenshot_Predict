@@ -1,0 +1,337 @@
+{
+  "405010": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Bitardia",
+      "steam_appid": 405010,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "This story is based on Russian imageboard culture. <br />\r\nYou are a nerdy /b/tard, who always stays at home. <br />\r\nOne day someone sends you a link to a weird website, upon going to which you are teleported into a mysterious island, populated by several hostile fractions. You need to choose between the two conflicting forces in order to get rich, to overcome your nature or just to survive. You can loot caravans.",
+      "about_the_game": "This story is based on Russian imageboard culture. <br />\r\nYou are a nerdy /b/tard, who always stays at home. <br />\r\nOne day someone sends you a link to a weird website, upon going to which you are teleported into a mysterious island, populated by several hostile fractions. You need to choose between the two conflicting forces in order to get rich, to overcome your nature or just to survive. You can loot caravans.",
+      "short_description": "In Bitardia you will experience all the rules of the Internet in action, and venture on a journey in the spirit of classic low-budget shooters, making your way through the obstacles of the fantastic world of an imageboard.",
+      "supported_languages": "English, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/header.jpg?t=1748455694",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/capsule_231x87.jpg?t=1748455694",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/capsule_184x69.jpg?t=1748455694",
+      "website": "https://tvorofag.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 450 or higher with 1GB Memory<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.8+<br></li><li><strong>Processor:</strong> 2011 or newer Intel Core i5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia or ATi GPU with 1GB Memory<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 450 or higher with 1GB Memory<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "developers": [
+        "varlamov5264"
+      ],
+      "publishers": [
+        "varlamov5264"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 599,
+        "final": 599,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$5.99"
+      },
+      "packages": [
+        79503
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Bitardia",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 79503,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Bitardia - $5.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 599
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 13,
+          "description": "Captions available"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_b308d146652ac90fa4ed155f2a9a90fdf6ea4e65.600x338.jpg?t=1748455694",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_b308d146652ac90fa4ed155f2a9a90fdf6ea4e65.1920x1080.jpg?t=1748455694"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_af0c52deb4eaa8392c1ece5c76bae920ad8601d4.600x338.jpg?t=1748455694",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_af0c52deb4eaa8392c1ece5c76bae920ad8601d4.1920x1080.jpg?t=1748455694"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_00dac987086d114a998aa8a79e64bd325168f766.600x338.jpg?t=1748455694",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_00dac987086d114a998aa8a79e64bd325168f766.1920x1080.jpg?t=1748455694"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_c874b016266a5c6d30059e9c14ef4090168f090c.600x338.jpg?t=1748455694",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_c874b016266a5c6d30059e9c14ef4090168f090c.1920x1080.jpg?t=1748455694"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_c9dfff4445990e40bc734d34b202669ec81dad84.600x338.jpg?t=1748455694",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_c9dfff4445990e40bc734d34b202669ec81dad84.1920x1080.jpg?t=1748455694"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_df2124d552945f91a61ab2e6d92e7fec1fd8530a.600x338.jpg?t=1748455694",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_df2124d552945f91a61ab2e6d92e7fec1fd8530a.1920x1080.jpg?t=1748455694"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_d3e535b6ba3a01287b6d5579374e9dd492e509c2.600x338.jpg?t=1748455694",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_d3e535b6ba3a01287b6d5579374e9dd492e509c2.1920x1080.jpg?t=1748455694"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_59154252031c27aa12f044a9cbff30ab9eabf95f.600x338.jpg?t=1748455694",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_59154252031c27aa12f044a9cbff30ab9eabf95f.1920x1080.jpg?t=1748455694"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_92648a70d88aab420fcf6c9d59598d7f3b721af5.600x338.jpg?t=1748455694",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_92648a70d88aab420fcf6c9d59598d7f3b721af5.1920x1080.jpg?t=1748455694"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_e290f06bae3637d4099bc6bcf558e5974654708f.600x338.jpg?t=1748455694",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_e290f06bae3637d4099bc6bcf558e5974654708f.1920x1080.jpg?t=1748455694"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_06484b1ff7871cc562d30989244aa856015a8853.600x338.jpg?t=1748455694",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_06484b1ff7871cc562d30989244aa856015a8853.1920x1080.jpg?t=1748455694"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_ce83fc04560e4b5c328ef6b705707e84a4ed445c.600x338.jpg?t=1748455694",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/405010/ss_ce83fc04560e4b5c328ef6b705707e84a4ed445c.1920x1080.jpg?t=1748455694"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256867002,
+          "name": "Final Story Update",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256867002/movie.293x165.jpg?t=1640688746",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/405010/427884/7a879136bba49726649c0b778a68a0574cc8f13f/1751278984/dash_av1.mpd?t=1640688746",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/405010/427884/7a879136bba49726649c0b778a68a0574cc8f13f/1751278984/dash_h264.mpd?t=1640688746",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/405010/427884/7a879136bba49726649c0b778a68a0574cc8f13f/1751278984/hls_264_master.m3u8?t=1640688746",
+          "highlight": true
+        },
+        {
+          "id": 256736347,
+          "name": "Story Update Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256736347/movie.293x165.jpg?t=1542932739",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/405010/197221/9e2c40499a6d8b434ddffd91a985a1cb60c1f84e/1751278976/dash_av1.mpd?t=1542932739",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/405010/197221/9e2c40499a6d8b434ddffd91a985a1cb60c1f84e/1751278976/dash_h264.mpd?t=1542932739",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/405010/197221/9e2c40499a6d8b434ddffd91a985a1cb60c1f84e/1751278976/hls_264_master.m3u8?t=1542932739",
+          "highlight": true
+        },
+        {
+          "id": 256665905,
+          "name": "Update Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256665905/movie.293x165.jpg?t=1466442880",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/405010/62892/7ed4d34714072f7ae6e5916c3b3996973a3964d2/1751278975/dash_av1.mpd?t=1466442880",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/405010/62892/7ed4d34714072f7ae6e5916c3b3996973a3964d2/1751278975/dash_h264.mpd?t=1466442880",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/405010/62892/7ed4d34714072f7ae6e5916c3b3996973a3964d2/1751278975/hls_264_master.m3u8?t=1466442880",
+          "highlight": true
+        },
+        {
+          "id": 256736446,
+          "name": "Winter Update Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256736446/movie.293x165.jpg?t=1542935005",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/405010/197411/34b9c6b11694248833286305172feb12d9e9de0a/1751278978/dash_av1.mpd?t=1542935005",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/405010/197411/34b9c6b11694248833286305172feb12d9e9de0a/1751278978/dash_h264.mpd?t=1542935005",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/405010/197411/34b9c6b11694248833286305172feb12d9e9de0a/1751278978/hls_264_master.m3u8?t=1542935005",
+          "highlight": true
+        },
+        {
+          "id": 256736447,
+          "name": "Release Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256736447/movie.293x165.jpg?t=1542933413",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/405010/197412/dbf008235faa24f2de58885c19a9674e8d3c35ad/1751278980/dash_av1.mpd?t=1542933413",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/405010/197412/dbf008235faa24f2de58885c19a9674e8d3c35ad/1751278980/dash_h264.mpd?t=1542933413",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/405010/197412/dbf008235faa24f2de58885c19a9674e8d3c35ad/1751278980/hls_264_master.m3u8?t=1542933413",
+          "highlight": true
+        },
+        {
+          "id": 256736449,
+          "name": "Summer Update Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256736449/movie.293x165.jpg?t=1542935012",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/405010/197414/43153474da0b5c973445972f43932a050534e80e/1751278982/dash_av1.mpd?t=1542935012",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/405010/197414/43153474da0b5c973445972f43932a050534e80e/1751278982/dash_h264.mpd?t=1542935012",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/405010/197414/43153474da0b5c973445972f43932a050534e80e/1751278982/hls_264_master.m3u8?t=1542935012",
+          "highlight": false
+        },
+        {
+          "id": 256736448,
+          "name": "Halloween Update Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256736448/movie.293x165.jpg?t=1542935019",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/405010/197413/cca6825eeaffd1e1693b797c315ae40d45be6b82/1751278982/dash_av1.mpd?t=1542935019",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/405010/197413/cca6825eeaffd1e1693b797c315ae40d45be6b82/1751278982/dash_h264.mpd?t=1542935019",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/405010/197413/cca6825eeaffd1e1693b797c315ae40d45be6b82/1751278982/hls_264_master.m3u8?t=1542935019",
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 735
+      },
+      "achievements": {
+        "total": 40,
+        "highlighted": [
+          {
+            "name": "The Right Way",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/405010/aadc9578add88a145bd73608741788e82f24a3bc.jpg"
+          },
+          {
+            "name": "Point of no return",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/405010/13cd677f0a19ad1ddef9e604aa67446523e01f64.jpg"
+          },
+          {
+            "name": "Modern Hero",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/405010/3551e2aca8bbdb586296eeb7f67d58609d2ede9a.jpg"
+          },
+          {
+            "name": "You're no /b/rother to me",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/405010/ea8e5dd43f62244821d711a3f6254680c9f29e10.jpg"
+          },
+          {
+            "name": "Generation ABU",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/405010/2a3492cc0e77f81d37d706a7b7482099ed0189e1.jpg"
+          },
+          {
+            "name": "I am a legal alien",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/405010/05a30c69849185d30b9dbb06977d2c94f388660f.jpg"
+          },
+          {
+            "name": "Builder",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/405010/a4645fb0e43d73500d28b1d4eb3ece5b08cf76bf.jpg"
+          },
+          {
+            "name": "Guard",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/405010/2d84cbc54a1b95534e8907e3ffefe053ada9098a.jpg"
+          },
+          {
+            "name": "An exploding sucess",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/405010/a4952855c9f5f1bb4d4e7235def9ddcb3a352cf2.jpg"
+          },
+          {
+            "name": "Speechmeister",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/405010/070c7fd47ff01da7b85d1f5a0a2a279ce0f0a0cd.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Dec 28, 2021"
+      },
+      "support_info": {
+        "url": "",
+        "email": "varlamov5264@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/405010?t=1748455694",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/405010?t=1748455694",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "pegi": {
+          "rating": "18"
+        },
+        "bbfc": {
+          "rating": "18"
+        },
+        "usk": {
+          "rating": "18"
+        },
+        "oflc": {
+          "rating": "r18"
+        },
+        "nzoflc": {
+          "rating": "r18"
+        },
+        "cero": {
+          "rating": "z"
+        },
+        "kgrb": {
+          "rating": "18"
+        },
+        "dejus": {
+          "rating": "18"
+        },
+        "mda": {
+          "rating": "M18"
+        },
+        "fpb": {
+          "rating": "18"
+        },
+        "csrr": {
+          "rating": "R"
+        },
+        "crl": {
+          "rating": "18"
+        }
+      }
+    }
+  }
+}

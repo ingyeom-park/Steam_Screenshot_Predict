@@ -1,0 +1,233 @@
+{
+  "1416240": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "夜永 Eternal Love",
+      "steam_appid": 1416240,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "在前作（千面 Melancholy Love）的剧情发生半年之后的聆花女子学院里，关于破茧而出的少女们的故事。<br />\r\n<br />\r\n<br />\r\nstory<br />\r\n<br />\r\n秋意渐浓，昙花紧闭<br />\r\n作茧自缠的少女<br />\r\n在等待着一个唤醒自己的亲吻<br />\r\n<br />\r\n夜永厌厌，独候韦陀<br />\r\n转瞬亦可成为永恒<br />\r\n只需牢记她双唇的触感<br />\r\n和她幽碧的明眸<br />\r\n<br />\r\n<br />\r\nfeature<br />\r\n<br />\r\n甜蜜温馨的百合恋情<br />\r\n丝丝入扣的全员语音<br />\r\n动人心弦的华美音乐<br />\r\n精致细腻的CG画面<br />\r\n真实考究的剧情细节<br />\r\n不同选择的多个结局<br />\r\n<br />\r\n<br />\r\nstaff<br />\r\n<br />\r\n【企划】<br />\r\n白露社（White Dew Game）<br />\r\n【配音】<br />\r\n一心不乱<br />\r\n月夜桥<br />\r\n蓝豆娘就是豆豆<br />\r\nXY大甘蔗<br />\r\n风簌<br />\r\n林簌SUSU<br />\r\n她放慢步调<br />\r\n桂圆翊宝<br />\r\n【人设】<br />\r\nwhiisky<br />\r\n【CG】<br />\r\nwhiisky<br />\r\n【色彩】<br />\r\n永恒的旋律<br />\r\n彩虹老湿<br />\r\n【背景】<br />\r\n海胆<br />\r\n【音乐】<br />\r\nSaulRobinson<br />\r\n【UI】<br />\r\n匣中猫<br />\r\n【PV】<br />\r\n匣中猫<br />\r\n铭铭子<br />\r\n【剧本】<br />\r\nHの天平<br />\r\n【演出】<br />\r\n盖娅的大锤<br />\r\n胡萝卜桑",
+      "about_the_game": "在前作（千面 Melancholy Love）的剧情发生半年之后的聆花女子学院里，关于破茧而出的少女们的故事。<br />\r\n<br />\r\n<br />\r\nstory<br />\r\n<br />\r\n秋意渐浓，昙花紧闭<br />\r\n作茧自缠的少女<br />\r\n在等待着一个唤醒自己的亲吻<br />\r\n<br />\r\n夜永厌厌，独候韦陀<br />\r\n转瞬亦可成为永恒<br />\r\n只需牢记她双唇的触感<br />\r\n和她幽碧的明眸<br />\r\n<br />\r\n<br />\r\nfeature<br />\r\n<br />\r\n甜蜜温馨的百合恋情<br />\r\n丝丝入扣的全员语音<br />\r\n动人心弦的华美音乐<br />\r\n精致细腻的CG画面<br />\r\n真实考究的剧情细节<br />\r\n不同选择的多个结局<br />\r\n<br />\r\n<br />\r\nstaff<br />\r\n<br />\r\n【企划】<br />\r\n白露社（White Dew Game）<br />\r\n【配音】<br />\r\n一心不乱<br />\r\n月夜桥<br />\r\n蓝豆娘就是豆豆<br />\r\nXY大甘蔗<br />\r\n风簌<br />\r\n林簌SUSU<br />\r\n她放慢步调<br />\r\n桂圆翊宝<br />\r\n【人设】<br />\r\nwhiisky<br />\r\n【CG】<br />\r\nwhiisky<br />\r\n【色彩】<br />\r\n永恒的旋律<br />\r\n彩虹老湿<br />\r\n【背景】<br />\r\n海胆<br />\r\n【音乐】<br />\r\nSaulRobinson<br />\r\n【UI】<br />\r\n匣中猫<br />\r\n【PV】<br />\r\n匣中猫<br />\r\n铭铭子<br />\r\n【剧本】<br />\r\nHの天平<br />\r\n【演出】<br />\r\n盖娅的大锤<br />\r\n胡萝卜桑",
+      "short_description": "《夜永》是一款百合向视觉小说游戏，讲述了在前作（千面 Melancholy Love）剧情发生半年之后，聆花女子学院中破茧而出的少女们的故事。",
+      "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/header.jpg?t=1605772362",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/capsule_231x87.jpg?t=1605772362",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/capsule_184x69.jpg?t=1605772362",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> WIN7 SP1/WIN8/WIN10<br></li><li><strong>Processor:</strong> i3 2GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GT 625M<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> WIN7 SP1/WIN8/WIN10<br></li><li><strong>Processor:</strong> i3 2GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MacOS 10.5<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MacOS 10.5<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "白露社"
+      ],
+      "publishers": [
+        "PeriScope Game"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 499,
+        "final": 499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$4.99"
+      },
+      "packages": [
+        497049
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 夜永 Eternal Love",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 497049,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "夜永 Eternal Love - $4.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/ss_f11daf5e95c79915043c920bf0a85e3f56e1a266.600x338.jpg?t=1605772362",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/ss_f11daf5e95c79915043c920bf0a85e3f56e1a266.1920x1080.jpg?t=1605772362"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/ss_cb4bccd57bfa25a9135c2cf9d08c128049e59714.600x338.jpg?t=1605772362",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/ss_cb4bccd57bfa25a9135c2cf9d08c128049e59714.1920x1080.jpg?t=1605772362"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/ss_ea53c243ef9e30dafa8c936efc210d8f28feabca.600x338.jpg?t=1605772362",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/ss_ea53c243ef9e30dafa8c936efc210d8f28feabca.1920x1080.jpg?t=1605772362"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/ss_c59ecee91a00341341bcfaf9f81d5a50bb80189b.600x338.jpg?t=1605772362",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/ss_c59ecee91a00341341bcfaf9f81d5a50bb80189b.1920x1080.jpg?t=1605772362"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/ss_fada07a0e443d45c37377b5bf9692105d7aa1ad4.600x338.jpg?t=1605772362",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/ss_fada07a0e443d45c37377b5bf9692105d7aa1ad4.1920x1080.jpg?t=1605772362"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/ss_52a0c3b8b71c2709a44a8a22de579f6ea187eea6.600x338.jpg?t=1605772362",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/ss_52a0c3b8b71c2709a44a8a22de579f6ea187eea6.1920x1080.jpg?t=1605772362"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/ss_6c8929bcd9b2cd639ea1ff95070dced2a77a6c5b.600x338.jpg?t=1605772362",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/ss_6c8929bcd9b2cd639ea1ff95070dced2a77a6c5b.1920x1080.jpg?t=1605772362"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/ss_b405fc9051f1c585a3c068a6cf444c6ae564604a.600x338.jpg?t=1605772362",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1416240/ss_b405fc9051f1c585a3c068a6cf444c6ae564604a.1920x1080.jpg?t=1605772362"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256809099,
+          "name": "demo2",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256809099/movie.293x165.jpg?t=1605124011",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1416240/325937/615f1d2aaa3adaa75da2dbddd8f7528c58e4b330/1751235148/dash_av1.mpd?t=1605124011",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1416240/325937/615f1d2aaa3adaa75da2dbddd8f7528c58e4b330/1751235148/dash_h264.mpd?t=1605124011",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1416240/325937/615f1d2aaa3adaa75da2dbddd8f7528c58e4b330/1751235148/hls_264_master.m3u8?t=1605124011",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 951
+      },
+      "achievements": {
+        "total": 13,
+        "highlighted": [
+          {
+            "name": "迟到的祷告",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1416240/4c40716be9f5cb476ee2082be32cbf9438590316.jpg"
+          },
+          {
+            "name": "夏末的美玉",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1416240/5304e235cbc97a02fcc6c7d6b509fad4895f89c3.jpg"
+          },
+          {
+            "name": "英伦的淑女",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1416240/4e7ba0e04e414d03fcfd9a0885c0b3baae49fb10.jpg"
+          },
+          {
+            "name": "明暗的试探",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1416240/0405ba4a2f2f9bd55cca3f142c9310add4d86360.jpg"
+          },
+          {
+            "name": "巧手的妆娘",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1416240/a44a9b3c6f75b53a7cef20687af2ea0caef7e3e0.jpg"
+          },
+          {
+            "name": "暧昧的氤氲",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1416240/0e9559c9f0ab2325c316eecda9e93d9d7330d1f7.jpg"
+          },
+          {
+            "name": "拥挤的床榻",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1416240/7a5250032649c07b7830c2b64ee61b7364afafa8.jpg"
+          },
+          {
+            "name": "迷茫的贵族",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1416240/f8f8a47acac800c4567e674d342d3081a613ae56.jpg"
+          },
+          {
+            "name": "定约的花海",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1416240/ab86d1ea4eaff6acab688e8d5447f938b4c73ad5.jpg"
+          },
+          {
+            "name": "永生的昙花",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1416240/d481f379023e299fb1ac2e082ab586a9b9c06a6e.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Nov 18, 2020"
+      },
+      "support_info": {
+        "url": "",
+        "email": "periscopegame@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1416240?t=1605772362",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1416240?t=1605772362",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": null
+    }
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "1224600": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "G String",
+      "steam_appid": 1224600,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1256200,
+        1270810
+      ],
+      "detailed_description": "<h1>News on the Ultimate Edition</h1><p><p class=\"bb_paragraph\" ><strong>Hello everyone.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>After a couple of very rough years, especially this year, I am, once again, picking up the pieces and deciding not to walk away. I almost did, in fact I was told to do so, why bother?</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Due to developments beyond my control progress on the game came to an almost complete halt this summer of 2025. The situation and environment I was in was burning me out mentally and financially. I was in a bad place and the game was dying before my eyes. Indifference, endless delays, and apathy were killing it like they killed many other projects I have learned about over the years. </strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>It wasn't easy but I had to make a choice. </strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>And my choice is to move on and deliver the Ultimate Edition in whatever capacity I can. I have made some good friends along my journey who will help me where they can but mostly I have to assemble this puzzle on my own now. It's my cross to carry as it has been for nearly two decades. </strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>So the G String - Ultimate Edition is now under full development again. Here are some comparison images to give you an idea on what I am aiming for. There will be frequent updates on the game's Discord server and X. I will also try to put out a gameplay trailer on YouTube and a more detailed article on MODDB towards the end of the year.</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/extras/88e8e23dd8160fa0ed752a885d944ca0.avif?t=1766075438\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/extras_big/88e8e23dd8160fa0ed752a885d944ca0.avif?t=1766075438 width=1560 height=878 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/extras/cdf9b90feed5165730aa85cd945bed44.avif?t=1766075438\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/extras_big/cdf9b90feed5165730aa85cd945bed44.avif?t=1766075438 width=1560 height=878 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>If you click the &quot;View the quick reference&quot; link you will find the BEAUTY SECRETS PDF file. It's a document that expands on the features, lore and development of G-String. </strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Please be advised that it contains SPOILERS.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong> </strong></p><p class=\"bb_paragraph\" ><strong>Needles to say this PDF will be updated and edited for the Ultimate Edition together with the OST. Other than Steam there are no supported versions of the OST released.</strong><br><br><br> </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/extras/4d964fba47b6bfbd96f3bd3ec501bc93.avif?t=1766075438\" width=616 height=398 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Please help spread the word as I don't have much time and many resources to promote, and I never had much help with that anyway. Anything helps. If you enjoyed the game tell a friend about it... and maybe follow me on my social media. On Discord and X I try to put out weekly updates.  </strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Thank you.</strong></p></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" ><strong>Slip into the Standard Issue Biosuit as Myo Hyori, a gifted Korean teenage girl who must face the perils of the future. Survive many hazards, explore a seemingly endless metropolis and beyond as the world around you implodes and history marches towards its inevitable conclusion.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>This is a cyberpunk inspired first person shooter with light environmental puzzles and a long, detailed singleplayer campaign focused on story and world building. G-String aims for an old school approach where there is minimal hand holding and your biosuit automatically keeps track of your health stats, ammunition count and armor condition.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>You need supplies to heal yourself, replenish your ammo/armor but your suit automatically takes care of your lights, sprinting and breathing (open air and underwater). Your on-board neuro-enhancers, air filters and light sources automatically recharge using movement and/or sunlight.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Courtesy of Bortz Bioengineering your biosuit is very resilient but you do have to be careful: prolonged exposure to toxins will lead to fatal failure! You need to watch out for all sorts of environmental hazards, especially later on when the pace picks up considerably.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Your telekinetic/pyrokinetic abilities will be available from the start and throughout most of the game, they should be enough to make progress until there are more means of input available. Worthy to note that initially your night-vision will be disabled as your biosuit was damaged presumably in earlier lab experiments.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Despite the title Myo never comes across any explicit mature situations. If she wants she can also find ways around some of the fights as well. The game responds to her behavior: the less aggressive she is the less enemies she is likely to encounter down the line. </strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><u><strong>FEATURES</strong></u></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>LEARN about the troubled future of a space faring, shattered mankind.</strong></p><p class=\"bb_paragraph\" ><strong>ESCAPE the ruthless, uncompromising powers governing Earth. </strong></p><p class=\"bb_paragraph\" ><strong>SURVIVE acid rain, storms, a crumbling infrastructure and the omnipresent smog.</strong></p><p class=\"bb_paragraph\" ><strong>EXPLORE many highly detailed maps with multiple routes and hidden secrets.</strong></p><p class=\"bb_paragraph\" ><strong>PICK your fights; the more violent you are the more enemies you'll encounter.</strong></p><p class=\"bb_paragraph\" ><strong>SOLVE environmental puzzles of varying complexity.</strong></p><p class=\"bb_paragraph\" ><strong>REACH for the stars and beyond in your quest for answers.  </strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><u><strong>ADDITIONAL NOTES</strong></u></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>As long time fans know G-String took well over a decade to complete because it was a solo project for the most part; all assets and the lore had to be developed from scratch.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>My sincere hope is that this does not impact the game's quality, scope and scale negatively. From the slums of Greater Chinatown to Low Orbit Earth and Beyond your adventure will take you through several distinct locations. No important story elements were cut and the game was not  divided into episodes- yet another reason why development took long.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>The finished product is not perfect nor will it ever be perfect however it has reached a stage when it's hopefully good enough for release considering the time and resources available to me at the moment.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>The goal with the initial release is just to put out a game that can be played form start to finish with no issues. There are no achievements and translations available yet. Those will probably be included in later updates if there is interest in the title. Of course if I had missed anything and there are any urgent problems they will be fixed in an early update as quickly as possible.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>The game's retro glitch art infused aesthetic draws heavily upon science fiction films released between the late 70s and early to mid 90s. Exceptions to this rule might include 1969's Space Odyssey or The Matrix. The world's design is very low key and as realistic as possible, everything was put together with feasibility and mass production in mind. The HUD and hints are also kept to a minimum.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>When work started on this project I was going through difficult times and G-String reflected this by touching on some troubling issues. Over the years even elements of horror and surrealism have found their way into the mix. Everything changes though and this work should not be viewed as mouth piece for anyone's views or beliefs. Everyone is encouraged to make up their own minds about the concepts they are presented with.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>The game is 10 to 15 hours long, combat is spaced out and can be harsh. Sometimes fights with humans can be avoided and multiple paths are available. There are a few cut-scenes in G-String but they are brief and depict things that would otherwise be impossible to show from the player's point of view.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>The different post-processing FX settings such as &quot;Film Noir&quot;, &quot;70mm&quot; or &quot;Sin City&quot; can give the game a radically different feel so try to experiment to see what fits your gameplay style the most.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>POSSIBLE SPOILERS if you choose to view the &quot;quick reference&quot; PDF. Beauty Secrets will be updated after the release of the Ultimate Edition.</i></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>Thanks to everyone at VALVe / Steam for their help! Thank you very much!</i></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" ><strong>Slip into the Standard Issue Biosuit as Myo Hyori, a gifted Korean teenage girl who must face the perils of the future. Survive many hazards, explore a seemingly endless metropolis and beyond as the world around you implodes and history marches towards its inevitable conclusion.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>This is a cyberpunk inspired first person shooter with light environmental puzzles and a long, detailed singleplayer campaign focused on story and world building. G-String aims for an old school approach where there is minimal hand holding and your biosuit automatically keeps track of your health stats, ammunition count and armor condition.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>You need supplies to heal yourself, replenish your ammo/armor but your suit automatically takes care of your lights, sprinting and breathing (open air and underwater). Your on-board neuro-enhancers, air filters and light sources automatically recharge using movement and/or sunlight.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Courtesy of Bortz Bioengineering your biosuit is very resilient but you do have to be careful: prolonged exposure to toxins will lead to fatal failure! You need to watch out for all sorts of environmental hazards, especially later on when the pace picks up considerably.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Your telekinetic/pyrokinetic abilities will be available from the start and throughout most of the game, they should be enough to make progress until there are more means of input available. Worthy to note that initially your night-vision will be disabled as your biosuit was damaged presumably in earlier lab experiments.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Despite the title Myo never comes across any explicit mature situations. If she wants she can also find ways around some of the fights as well. The game responds to her behavior: the less aggressive she is the less enemies she is likely to encounter down the line. </strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><u><strong>FEATURES</strong></u></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>LEARN about the troubled future of a space faring, shattered mankind.</strong></p><p class=\"bb_paragraph\" ><strong>ESCAPE the ruthless, uncompromising powers governing Earth. </strong></p><p class=\"bb_paragraph\" ><strong>SURVIVE acid rain, storms, a crumbling infrastructure and the omnipresent smog.</strong></p><p class=\"bb_paragraph\" ><strong>EXPLORE many highly detailed maps with multiple routes and hidden secrets.</strong></p><p class=\"bb_paragraph\" ><strong>PICK your fights; the more violent you are the more enemies you'll encounter.</strong></p><p class=\"bb_paragraph\" ><strong>SOLVE environmental puzzles of varying complexity.</strong></p><p class=\"bb_paragraph\" ><strong>REACH for the stars and beyond in your quest for answers.  </strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><u><strong>ADDITIONAL NOTES</strong></u></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>As long time fans know G-String took well over a decade to complete because it was a solo project for the most part; all assets and the lore had to be developed from scratch.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>My sincere hope is that this does not impact the game's quality, scope and scale negatively. From the slums of Greater Chinatown to Low Orbit Earth and Beyond your adventure will take you through several distinct locations. No important story elements were cut and the game was not  divided into episodes- yet another reason why development took long.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>The finished product is not perfect nor will it ever be perfect however it has reached a stage when it's hopefully good enough for release considering the time and resources available to me at the moment.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>The goal with the initial release is just to put out a game that can be played form start to finish with no issues. There are no achievements and translations available yet. Those will probably be included in later updates if there is interest in the title. Of course if I had missed anything and there are any urgent problems they will be fixed in an early update as quickly as possible.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>The game's retro glitch art infused aesthetic draws heavily upon science fiction films released between the late 70s and early to mid 90s. Exceptions to this rule might include 1969's Space Odyssey or The Matrix. The world's design is very low key and as realistic as possible, everything was put together with feasibility and mass production in mind. The HUD and hints are also kept to a minimum.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>When work started on this project I was going through difficult times and G-String reflected this by touching on some troubling issues. Over the years even elements of horror and surrealism have found their way into the mix. Everything changes though and this work should not be viewed as mouth piece for anyone's views or beliefs. Everyone is encouraged to make up their own minds about the concepts they are presented with.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>The game is 10 to 15 hours long, combat is spaced out and can be harsh. Sometimes fights with humans can be avoided and multiple paths are available. There are a few cut-scenes in G-String but they are brief and depict things that would otherwise be impossible to show from the player's point of view.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>The different post-processing FX settings such as &quot;Film Noir&quot;, &quot;70mm&quot; or &quot;Sin City&quot; can give the game a radically different feel so try to experiment to see what fits your gameplay style the most.</strong></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>POSSIBLE SPOILERS if you choose to view the &quot;quick reference&quot; PDF. Beauty Secrets will be updated after the release of the Ultimate Edition.</i></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><i>Thanks to everyone at VALVe / Steam for their help! Thank you very much!</i></p>",
+      "short_description": "Slip into the Standard Issue Biosuit as Myo Hyori, a gifted Korean teenage girl who must face the perils of the future. Survive many hazards, explore a seemingly endless metropolis and beyond as the world around you implodes and history marches towards its inevitable conclusion.",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/49708ec956ba91143cc0924fde94d43e16948169/header.jpg?t=1766075438",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/eae9b73e7be854dfa041586bff52f100e3b11a81/capsule_231x87.jpg?t=1766075438",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/eae9b73e7be854dfa041586bff52f100e3b11a81/capsule_184x69.jpg?t=1766075438",
+      "website": "https://www.moddb.com/mods/g-string",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows Vista<br></li><li><strong>Processor:</strong> Intel core 2 duo 2.4GHz or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 512 MB of memory or more. Requires support for Shader Model 2.<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 15 GB available space<br></li><li><strong>Additional Notes:</strong> For better performance disable the new effects under the &quot;FX&quot; tab.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 11/10/8.1/7<br></li><li><strong>Processor:</strong> 3.0 GHz P4, Dual Core 2.0 (or higher) or AMD64X2 (or higher)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card with 1024 MB of memory or more. Should have support for Shader Model 3.<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 15 GB available space<br></li><li><strong>Additional Notes:</strong> For better performance disable the new effects under the &quot;FX&quot; tab.</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "The situations, entities, designs, concepts, characters, companies and locations in this project are all purely fictional. Any resemblance to real life persons, events or legal entities is coincidental.<br />\r\n<br />\r\nNo attempts have been made to defame or damage any real life persons or entities. All media in the G String project is original. No copyright infringement intended.",
+      "developers": [
+        "Eyaura"
+      ],
+      "publishers": [
+        "Eyaura"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1799,
+        "final": 1799,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$17.99"
+      },
+      "packages": [
+        424190
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy G String",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 424190,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "G String - $17.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1799
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 13,
+          "description": "Captions available"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        },
+        {
+          "id": 61,
+          "description": "HDR available"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/f8c3c832bde7e97a9f78d311e9730e3d7847fd8d/ss_f8c3c832bde7e97a9f78d311e9730e3d7847fd8d.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/f8c3c832bde7e97a9f78d311e9730e3d7847fd8d/ss_f8c3c832bde7e97a9f78d311e9730e3d7847fd8d.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/fbdb28876696e81a282ace956071092664987fdb/ss_fbdb28876696e81a282ace956071092664987fdb.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/fbdb28876696e81a282ace956071092664987fdb/ss_fbdb28876696e81a282ace956071092664987fdb.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/eb6b73c4e06b9fc4d923ce5a251ed20b1ab98d94/ss_eb6b73c4e06b9fc4d923ce5a251ed20b1ab98d94.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/eb6b73c4e06b9fc4d923ce5a251ed20b1ab98d94/ss_eb6b73c4e06b9fc4d923ce5a251ed20b1ab98d94.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/3662167b851a38c5ff54dec0f266e1977473404a/ss_3662167b851a38c5ff54dec0f266e1977473404a.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/3662167b851a38c5ff54dec0f266e1977473404a/ss_3662167b851a38c5ff54dec0f266e1977473404a.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/b02cae2dea8c1052a22b18f579b9b43e57f315fa/ss_b02cae2dea8c1052a22b18f579b9b43e57f315fa.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/b02cae2dea8c1052a22b18f579b9b43e57f315fa/ss_b02cae2dea8c1052a22b18f579b9b43e57f315fa.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/68541384fd4a1ab5a5fec6016061035aa824d24e/ss_68541384fd4a1ab5a5fec6016061035aa824d24e.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/68541384fd4a1ab5a5fec6016061035aa824d24e/ss_68541384fd4a1ab5a5fec6016061035aa824d24e.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/0fa24ecf04b78a22d7e4af566024171a4d320102/ss_0fa24ecf04b78a22d7e4af566024171a4d320102.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/0fa24ecf04b78a22d7e4af566024171a4d320102/ss_0fa24ecf04b78a22d7e4af566024171a4d320102.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/963eb532682455128e607d6db07a088d3a46b387/ss_963eb532682455128e607d6db07a088d3a46b387.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/963eb532682455128e607d6db07a088d3a46b387/ss_963eb532682455128e607d6db07a088d3a46b387.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/92f80c6a69f9cc546c5a1a09314e33ae45ea6501/ss_92f80c6a69f9cc546c5a1a09314e33ae45ea6501.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/92f80c6a69f9cc546c5a1a09314e33ae45ea6501/ss_92f80c6a69f9cc546c5a1a09314e33ae45ea6501.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/bccf379a83e82564c2f65784a3ad35f558f6e56b/ss_bccf379a83e82564c2f65784a3ad35f558f6e56b.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/bccf379a83e82564c2f65784a3ad35f558f6e56b/ss_bccf379a83e82564c2f65784a3ad35f558f6e56b.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/1d3349cd49f48e42f12c5e454063ef9db80eefc0/ss_1d3349cd49f48e42f12c5e454063ef9db80eefc0.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/1d3349cd49f48e42f12c5e454063ef9db80eefc0/ss_1d3349cd49f48e42f12c5e454063ef9db80eefc0.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/abeaf777773f551a1ddf8b895ad9d5fdac239728/ss_abeaf777773f551a1ddf8b895ad9d5fdac239728.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/abeaf777773f551a1ddf8b895ad9d5fdac239728/ss_abeaf777773f551a1ddf8b895ad9d5fdac239728.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/4a78d873788b3d708ab903132130d3470b8c147b/ss_4a78d873788b3d708ab903132130d3470b8c147b.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/4a78d873788b3d708ab903132130d3470b8c147b/ss_4a78d873788b3d708ab903132130d3470b8c147b.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/dded804f611590220c49db359da575f3dddc1661/ss_dded804f611590220c49db359da575f3dddc1661.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/dded804f611590220c49db359da575f3dddc1661/ss_dded804f611590220c49db359da575f3dddc1661.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/37a4d5eedbdc5550e9d06e58d6f04ffecb300e2a/ss_37a4d5eedbdc5550e9d06e58d6f04ffecb300e2a.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/37a4d5eedbdc5550e9d06e58d6f04ffecb300e2a/ss_37a4d5eedbdc5550e9d06e58d6f04ffecb300e2a.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/7e7ea63c504292973d67d405c41b15348c3b887f/ss_7e7ea63c504292973d67d405c41b15348c3b887f.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/7e7ea63c504292973d67d405c41b15348c3b887f/ss_7e7ea63c504292973d67d405c41b15348c3b887f.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/7d853a535c5f0b7c58088f6b614a31d6b6b3ac7d/ss_7d853a535c5f0b7c58088f6b614a31d6b6b3ac7d.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/7d853a535c5f0b7c58088f6b614a31d6b6b3ac7d/ss_7d853a535c5f0b7c58088f6b614a31d6b6b3ac7d.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 17,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/9d01928b968996c3690713d636c73580d9e12730/ss_9d01928b968996c3690713d636c73580d9e12730.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/9d01928b968996c3690713d636c73580d9e12730/ss_9d01928b968996c3690713d636c73580d9e12730.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 18,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/8381d6b9b414b74b6b0b4b148281befcd3f11cab/ss_8381d6b9b414b74b6b0b4b148281befcd3f11cab.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/8381d6b9b414b74b6b0b4b148281befcd3f11cab/ss_8381d6b9b414b74b6b0b4b148281befcd3f11cab.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 19,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/6f5464f3f281da17638af949622447de1128696e/ss_6f5464f3f281da17638af949622447de1128696e.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/6f5464f3f281da17638af949622447de1128696e/ss_6f5464f3f281da17638af949622447de1128696e.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 20,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/358e67d80de023c24ea9c875a12e3dc89872364e/ss_358e67d80de023c24ea9c875a12e3dc89872364e.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/358e67d80de023c24ea9c875a12e3dc89872364e/ss_358e67d80de023c24ea9c875a12e3dc89872364e.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 21,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/0b294efcadc7c7b53759d68c4105bce9f74dafc9/ss_0b294efcadc7c7b53759d68c4105bce9f74dafc9.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/0b294efcadc7c7b53759d68c4105bce9f74dafc9/ss_0b294efcadc7c7b53759d68c4105bce9f74dafc9.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 22,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/4d8786c3216cf9e24729142785584b3bf604b24b/ss_4d8786c3216cf9e24729142785584b3bf604b24b.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/4d8786c3216cf9e24729142785584b3bf604b24b/ss_4d8786c3216cf9e24729142785584b3bf604b24b.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 23,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/1afc7c535676e527249f73da40d6ab70fc235d7e/ss_1afc7c535676e527249f73da40d6ab70fc235d7e.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/1afc7c535676e527249f73da40d6ab70fc235d7e/ss_1afc7c535676e527249f73da40d6ab70fc235d7e.1920x1080.jpg?t=1766075438"
+        },
+        {
+          "id": 24,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/1911dc7d02613b08351a8105a1f86a1c790671b1/ss_1911dc7d02613b08351a8105a1f86a1c790671b1.600x338.jpg?t=1766075438",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/1911dc7d02613b08351a8105a1f86a1c790671b1/ss_1911dc7d02613b08351a8105a1f86a1c790671b1.1920x1080.jpg?t=1766075438"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257252076,
+          "name": "ULTIMATE GAMEPLAY TRAILER ",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257252076/a2abddc7f61b419fdeccbee2b96150c64b04447b/movie_600x337.jpg?t=1766073870",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1224600/88589380/5fa170eeac6320affeeb13685f9fac3ba494192e/1766058587/dash_av1.mpd?t=1766073870",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1224600/88589380/5fa170eeac6320affeeb13685f9fac3ba494192e/1766058587/dash_h264.mpd?t=1766073870",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1224600/88589380/5fa170eeac6320affeeb13685f9fac3ba494192e/1766058587/hls_264_master.m3u8?t=1766073870",
+          "highlight": true
+        },
+        {
+          "id": 257232281,
+          "name": "GAMEPLAY TRAILER 2025",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257232281/55261699f1272769d7249574bcde40cfc08fe0cb/movie_600x337.jpg?t=1766073871",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1224600/293514014/2720abf75f700d3dc1de4d946b216018cdf5fa0f/1763212539/dash_av1.mpd?t=1766073871",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1224600/293514014/2720abf75f700d3dc1de4d946b216018cdf5fa0f/1763212539/dash_h264.mpd?t=1766073871",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1224600/293514014/2720abf75f700d3dc1de4d946b216018cdf5fa0f/1763212539/hls_264_master.m3u8?t=1766073871",
+          "highlight": true
+        },
+        {
+          "id": 257234384,
+          "name": "ULTIMATE TEASER TRAILER",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257234384/43c49970f11ce0c55be8e994293ec751fa892185/movie_600x337.jpg?t=1766073872",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1224600/1139616806/de334f459f5016896685b2853507ca57bdc03830/1763553733/dash_av1.mpd?t=1766073872",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1224600/1139616806/de334f459f5016896685b2853507ca57bdc03830/1763553733/dash_h264.mpd?t=1766073872",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1224600/1139616806/de334f459f5016896685b2853507ca57bdc03830/1763553733/hls_264_master.m3u8?t=1766073872",
+          "highlight": true
+        },
+        {
+          "id": 257232258,
+          "name": "TEASER TRAILER 2025",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257232258/32191cf06bcadd3b6912a0a5cbd3b8ea7b81b081/movie_600x337.jpg?t=1766073874",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1224600/1617955371/14aa6366489b23d90d68140489170c30276e5e5f/1763210301/dash_av1.mpd?t=1766073874",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1224600/1617955371/14aa6366489b23d90d68140489170c30276e5e5f/1763210301/dash_h264.mpd?t=1766073874",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1224600/1617955371/14aa6366489b23d90d68140489170c30276e5e5f/1763210301/hls_264_master.m3u8?t=1766073874",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 1155
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 16, 2020"
+      },
+      "support_info": {
+        "url": "https://www.moddb.com/mods/g-string",
+        "email": "eyauraeya@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1224600?t=1766075438",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224600/b09b632ca799ac1797e4fc84324b9e482acc89bc/page_bg_raw.jpg?t=1766075438",
+      "content_descriptors": {
+        "ids": [
+          1,
+          2,
+          5
+        ],
+        "notes": "There is no nudity/obscene imagery or graphic depictions of sexual acts in the game but some players might find the vague sexual undertone offensive. \r\n\r\nThe violence isn't too over the top also but some might find it upsetting. Worthy to note that many of the fights can be avoided and most of them involve drones/robots instead of humans."
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "14",
+          "descriptors": "Violência fantasiosa\r\nAtos criminosos\r\nViolência\r\nMedo\r\nLinguagem imprópria\r\nConteúdo sexual",
+          "use_age_gate": "true",
+          "required_age": "14"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "16",
+          "required_age": "16",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Sexuelle Inhalte\nHorror\nDerbe Sprache"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "463980": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Solitairica",
+      "steam_appid": 463980,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<p class=\"bb_paragraph\" >Solitairica takes RPG combat and challenging roguelike progression to a fresh new place - the world of solitaire!</p><p class=\"bb_paragraph\" >Gather your weapons and prepare to battle the armies of Stuck. In the land of Myriodd, all of the hearts have been stolen by the horrible Emperor Stuck, and you are the latest warrior brave enough to try to return them, saving the world from total heartless destruction!</p><p class=\"bb_paragraph\" >With the guidance of the great Kismet you will use the power of solitaire and the four great energies:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Attack spells which destroy cards in a variety of ways</p></li><li><p class=\"bb_paragraph\" >Defense spells which give precious armor and can counter your foes</p></li><li><p class=\"bb_paragraph\" >Agility spells used for revealing, changing and manipulating the cards</p></li><li><p class=\"bb_paragraph\" >Willpower spells heal and channel the arcane</p></li></ul><p class=\"bb_paragraph\" >Each player’s journey will be a unique challenge, with a horde of ever-changing enemies and a wide variety of items and spells to explore. Battle your enemies with brute force, or cleverly constructed builds with devastating combos, and defeat the dastardly Emperor Stuck!</p><p class=\"bb_paragraph\" >Could you be the one to finally save the realm? </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Key Features</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >One of a kind turn based solitaire combat system</p></li><li><p class=\"bb_paragraph\" >Dynamic enemies that combine hilarious and dangerous traits for endless variety</p></li><li><p class=\"bb_paragraph\" >Heaps of items and scores of spells to combine. Millions of builds to try!</p></li><li><p class=\"bb_paragraph\" >Challenging and dynamic roguelike progression</p></li><li><p class=\"bb_paragraph\" >Collect wildstone each journey to unlock upgrades and new classes which change the way you play.</p></li><li><p class=\"bb_paragraph\" >Deck upgrades include Ace, King and Queen cards which provide powerful boosts during battle.</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >Solitairica takes RPG combat and challenging roguelike progression to a fresh new place - the world of solitaire!</p><p class=\"bb_paragraph\" >Gather your weapons and prepare to battle the armies of Stuck. In the land of Myriodd, all of the hearts have been stolen by the horrible Emperor Stuck, and you are the latest warrior brave enough to try to return them, saving the world from total heartless destruction!</p><p class=\"bb_paragraph\" >With the guidance of the great Kismet you will use the power of solitaire and the four great energies:</p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Attack spells which destroy cards in a variety of ways</p></li><li><p class=\"bb_paragraph\" >Defense spells which give precious armor and can counter your foes</p></li><li><p class=\"bb_paragraph\" >Agility spells used for revealing, changing and manipulating the cards</p></li><li><p class=\"bb_paragraph\" >Willpower spells heal and channel the arcane</p></li></ul><p class=\"bb_paragraph\" >Each player’s journey will be a unique challenge, with a horde of ever-changing enemies and a wide variety of items and spells to explore. Battle your enemies with brute force, or cleverly constructed builds with devastating combos, and defeat the dastardly Emperor Stuck!</p><p class=\"bb_paragraph\" >Could you be the one to finally save the realm? </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Key Features</strong></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >One of a kind turn based solitaire combat system</p></li><li><p class=\"bb_paragraph\" >Dynamic enemies that combine hilarious and dangerous traits for endless variety</p></li><li><p class=\"bb_paragraph\" >Heaps of items and scores of spells to combine. Millions of builds to try!</p></li><li><p class=\"bb_paragraph\" >Challenging and dynamic roguelike progression</p></li><li><p class=\"bb_paragraph\" >Collect wildstone each journey to unlock upgrades and new classes which change the way you play.</p></li><li><p class=\"bb_paragraph\" >Deck upgrades include Ace, King and Queen cards which provide powerful boosts during battle.</p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p>",
+      "short_description": "Solitairica takes RPG combat and challenging roguelike progression to a fresh new place—the world of solitaire! Using a variety of magical items and powerful spells, battle your way through a horde of ever-changing enemies and defeat the horrible Emperor Stuck.",
+      "supported_languages": "English, French, German, Spanish - Spain",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463980/header.jpg?t=1758657707",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463980/capsule_231x87.jpg?t=1758657707",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463980/capsule_184x69.jpg?t=1758657707",
+      "website": "http://www.solitairica.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 1.8 GHz, Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia 8800, ATI 2900, or Intel HD4000<br></li><li><strong>DirectX:</strong> Version 9.0c</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.11.6<br></li><li><strong>Processor:</strong> 1.8 GHz, Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Metal compatible graphics card is required</li></ul>"
+      },
+      "linux_requirements": [],
+      "legal_notice": "© 2016-2025 Righteous Hammer Games Inc.",
+      "developers": [
+        "Righteous Hammer Games"
+      ],
+      "publishers": [
+        "Righteous Hammer Games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        101642
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Solitairica",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 101642,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Solitairica - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463980/ss_68eca2eb632b8afebc8d722462d37038329899fa.600x338.jpg?t=1758657707",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463980/ss_68eca2eb632b8afebc8d722462d37038329899fa.1920x1080.jpg?t=1758657707"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463980/ss_d8fe58f0b7906e20a60d0262647aad8154db210f.600x338.jpg?t=1758657707",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463980/ss_d8fe58f0b7906e20a60d0262647aad8154db210f.1920x1080.jpg?t=1758657707"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463980/ss_0ad63d59392ad0af33485377999f2211dd928b01.600x338.jpg?t=1758657707",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463980/ss_0ad63d59392ad0af33485377999f2211dd928b01.1920x1080.jpg?t=1758657707"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463980/ss_49d5eedc71a1dab2e7b0e5ed9a839d6d412ef2f4.600x338.jpg?t=1758657707",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463980/ss_49d5eedc71a1dab2e7b0e5ed9a839d6d412ef2f4.1920x1080.jpg?t=1758657707"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463980/ss_d68f5be050e14b65f1664916eda3f83693dfa188.600x338.jpg?t=1758657707",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463980/ss_d68f5be050e14b65f1664916eda3f83693dfa188.1920x1080.jpg?t=1758657707"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256663840,
+          "name": "Solitairica Launch Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256663840/movie.293x165.jpg?t=1462989326",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/463980/58149/290886b587566dbcd5ecb725075b00576662db7d/1751289225/dash_av1.mpd?t=1462989326",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/463980/58149/290886b587566dbcd5ecb725075b00576662db7d/1751289225/dash_h264.mpd?t=1462989326",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/463980/58149/290886b587566dbcd5ecb725075b00576662db7d/1751289225/hls_264_master.m3u8?t=1462989326",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 422
+      },
+      "achievements": {
+        "total": 27,
+        "highlighted": [
+          {
+            "name": "We're Just Getting Started",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/463980/d643e6e92be95bbc4ee59e96fff401d207bae641.jpg"
+          },
+          {
+            "name": "Birth of a Legend",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/463980/0fae1f1e956c2cddbd171bbf44a26f3f5e4ac0bd.jpg"
+          },
+          {
+            "name": "Never Give Up!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/463980/cdd1ae2564e00a66714e69d111a2766b7f671c15.jpg"
+          },
+          {
+            "name": "The Nightmare Begins",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/463980/6dc07a8a9ea150ddfedf92bacab11d7e108cfd85.jpg"
+          },
+          {
+            "name": "So... Thirsty...",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/463980/e2eca8795ff2a4d168cd5a31396c46613f635c19.jpg"
+          },
+          {
+            "name": "Lots of Bones Here",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/463980/c94ada7be9313cfc35fad436d8e89608ef9f21dc.jpg"
+          },
+          {
+            "name": "Smells Weird",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/463980/ba0310bf3bb1b96c1266a3cb12cb61a339a2fc92.jpg"
+          },
+          {
+            "name": "Watch Your Step!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/463980/e0b36289b2967e1ea7a6511550bd1707fc5c98e1.jpg"
+          },
+          {
+            "name": "The Floors Are Sticky",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/463980/5b4373a23de3bd5afb5a6044ed96c7457f681804.jpg"
+          },
+          {
+            "name": "Double Decker",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/463980/6d4e7d85f1e3a77e19b524fbdafa6e6e9c215a56.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "May 31, 2016"
+      },
+      "support_info": {
+        "url": "http://www.solitairica.com/",
+        "email": "support@righteoushammer.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/463980?t=1758657707",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/463980?t=1758657707",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "10",
+          "required_age": "10",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Atos criminosos\nViolência"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Gewalt"
+        }
+      }
+    }
+  }
+}

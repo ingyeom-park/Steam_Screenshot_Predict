@@ -1,0 +1,236 @@
+{
+  "840100": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Magic Scroll Tactics / マジックスクロールタクティクス / 魔法卷轴 / 魔法捲軸",
+      "steam_appid": 840100,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        862000
+      ],
+      "detailed_description": "<h2 class=\"bb_tag\" >Side-Scrolling Tactical Action</h2><br>Magic Scroll Tactics is a side-scrolling, turn-based tactical RPG where elevation is the key to victory. Gain the high ground and rain devastating blows down upon your hapless foes, or watch with consternation as your summons have trouble hitting the well-protected enemies menacing them from above...<br><br>But never fear! Even if you're in a bind, you have a wide variety of options at your disposal to turn the tides of battle. Use quick and agile warriors to seize the high ground, flying units to dominate the battlefield from the air, or magic that can roast, freeze, or zap foes, whatever their position!<h2 class=\"bb_tag\" >Detailed Ability Trees</h2><br>Use the points characters gain each time they level up to learn and improve different abilities. Every class has its own abilities to master, and characters can switch jobs to open up a whole new set of abilities.<h2 class=\"bb_tag\" >Wizards and Pirates and Summoners, Oh My!</h2>Nash is a feisty summoner with a job to do: namely, stopping a group of evil magi from resurrecting an ancient witch and destroying the world!<br><br>Along the way, she'll befriend a young priestess from an ancient and noble lineage, duel an extremely persistent pirate obsessed with loot, and fight hordes of deadly monsters!",
+      "about_the_game": "<h2 class=\"bb_tag\" >Side-Scrolling Tactical Action</h2><br>Magic Scroll Tactics is a side-scrolling, turn-based tactical RPG where elevation is the key to victory. Gain the high ground and rain devastating blows down upon your hapless foes, or watch with consternation as your summons have trouble hitting the well-protected enemies menacing them from above...<br><br>But never fear! Even if you're in a bind, you have a wide variety of options at your disposal to turn the tides of battle. Use quick and agile warriors to seize the high ground, flying units to dominate the battlefield from the air, or magic that can roast, freeze, or zap foes, whatever their position!<h2 class=\"bb_tag\" >Detailed Ability Trees</h2><br>Use the points characters gain each time they level up to learn and improve different abilities. Every class has its own abilities to master, and characters can switch jobs to open up a whole new set of abilities.<h2 class=\"bb_tag\" >Wizards and Pirates and Summoners, Oh My!</h2>Nash is a feisty summoner with a job to do: namely, stopping a group of evil magi from resurrecting an ancient witch and destroying the world!<br><br>Along the way, she'll befriend a young priestess from an ancient and noble lineage, duel an extremely persistent pirate obsessed with loot, and fight hordes of deadly monsters!",
+      "short_description": "A side-scrolling tactical RPG where elevation is the key to victory!",
+      "supported_languages": "Japanese, English, Simplified Chinese, Traditional Chinese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/header.jpg?t=1745570607",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/capsule_231x87.jpg?t=1745570607",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/capsule_184x69.jpg?t=1745570607",
+      "website": "http://moetoku.sakura.ne.jp/mst/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows10<br></li><li><strong>Processor:</strong> Intel Core i5<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GT 1030<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Additional Notes:</strong> made with Unity</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "オートリ電子"
+      ],
+      "publishers": [
+        "オートリ電子",
+        "Gamirror Games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1199,
+        "final": 1199,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$11.99"
+      },
+      "packages": [
+        262223
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Magic Scroll Tactics / マジックスクロールタクティクス / 魔法卷轴 / 魔法捲軸",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 262223,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Magic Scroll Tactics - $11.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1199
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/ss_5d46ae4c757d44915bc78016e0d140d10257ed6f.600x338.jpg?t=1745570607",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/ss_5d46ae4c757d44915bc78016e0d140d10257ed6f.1920x1080.jpg?t=1745570607"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/ss_2f838a12b5af9ceb7d5750b380e41a9ec4ee002e.600x338.jpg?t=1745570607",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/ss_2f838a12b5af9ceb7d5750b380e41a9ec4ee002e.1920x1080.jpg?t=1745570607"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/ss_4b87cbe101bd207cb33275af7bf827c8eae66faf.600x338.jpg?t=1745570607",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/ss_4b87cbe101bd207cb33275af7bf827c8eae66faf.1920x1080.jpg?t=1745570607"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/ss_f5fba12324e1916ff773b28713effc7705043981.600x338.jpg?t=1745570607",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/ss_f5fba12324e1916ff773b28713effc7705043981.1920x1080.jpg?t=1745570607"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/ss_46a5269fa3362ec0f267d54039ff59c44d38f43a.600x338.jpg?t=1745570607",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/ss_46a5269fa3362ec0f267d54039ff59c44d38f43a.1920x1080.jpg?t=1745570607"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/ss_42f33edb95550eec3678f4b6b2c9176eb7837f02.600x338.jpg?t=1745570607",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/ss_42f33edb95550eec3678f4b6b2c9176eb7837f02.1920x1080.jpg?t=1745570607"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/ss_b152776b2cca468713d89dcd06890b3bff6f4e32.600x338.jpg?t=1745570607",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/840100/ss_b152776b2cca468713d89dcd06890b3bff6f4e32.1920x1080.jpg?t=1745570607"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256716598,
+          "name": "完成版デモ",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256716598/movie.293x165.jpg?t=1526048718",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/840100/162426/eb818754011d6e0dec3f31f521c9f98189b6b5d2/1751151096/dash_av1.mpd?t=1526048718",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/840100/162426/eb818754011d6e0dec3f31f521c9f98189b6b5d2/1751151096/dash_h264.mpd?t=1526048718",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/840100/162426/eb818754011d6e0dec3f31f521c9f98189b6b5d2/1751151096/hls_264_master.m3u8?t=1526048718",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 147
+      },
+      "achievements": {
+        "total": 10,
+        "highlighted": [
+          {
+            "name": "Prologue",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/3801e8b971a5e903c07931989f9f7cabb752cbdf.jpg"
+          },
+          {
+            "name": "Chapter 1 Complete",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/d96e6347b32e77b8bd959a456b443f0cbd547796.jpg"
+          },
+          {
+            "name": "Chapter 2 Complete",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/dfc12f4569c6b57c3eff1446eb63ec613f4eb891.jpg"
+          },
+          {
+            "name": "Chapter 3 Complete",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/a41be9aea10e7876453ccc91d6966f16ecf7d2aa.jpg"
+          },
+          {
+            "name": "Chapter 4 Complete",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/d5542af0f5cac6d303a7e153115f571c9847b4a0.jpg"
+          },
+          {
+            "name": "Chaos Vanquished",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/d5caf31093bc3d9bdfd0e7f2574c799b78389e69.jpg"
+          },
+          {
+            "name": "Magus Madness",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/c4236f78095fa36b109d853b80f0dd8d15d6cc5f.jpg"
+          },
+          {
+            "name": "Can't Make an Omelet...",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/a2c4f4ec6b473104c3e90c380fb5ff12c7a0afb2.jpg"
+          },
+          {
+            "name": "Partner in Crime",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/ce97577c3b834b17835bc3ab517e1359109d0356.jpg"
+          },
+          {
+            "name": "Collector",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/840100/40e5a2e8be9729f5cfe35806640c0c3153252dc4.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Apr 27, 2018"
+      },
+      "support_info": {
+        "url": "http://moetoku.sakura.ne.jp/",
+        "email": ""
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/840100?t=1745570607",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/840100?t=1745570607",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "12",
+          "descriptors": "Violência fantasiosa\r\nViolência\r\nLinguagem imprópria\r\nConteúdo sexual",
+          "use_age_gate": "true",
+          "required_age": "12"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Sexuelle Andeutungen\nGewalt\nSchimpfwörte"
+        }
+      }
+    }
+  }
+}

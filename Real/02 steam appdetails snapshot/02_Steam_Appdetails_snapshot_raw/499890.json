@@ -1,0 +1,298 @@
+{
+  "499890": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Aaero",
+      "steam_appid": 499890,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        701270,
+        741470,
+        741710,
+        741711,
+        823810
+      ],
+      "detailed_description": "<h1>**Controller Required!**</h1><p>N.B. A controller with dual analogue sticks is required to play Aaero. (e.g. Xbox 360/One, PlayStation DualShock etc.)<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/extras/2fe9da24aaa306bd9bd91a1d613210e1.avif?t=1765886870\" width=600 height=302 /></span></p><br><h1>Aaero2 Out Now - New Music Packs Coming December 16th</h1><p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/extras/7355d6cd36a89d6ce0a07b9d6010da30.avif?t=1765886870\" width=1560 height=878 /></span></p></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" >Trace ribbons of light to release the energy in the music as you speed through stylised alien worlds. Battle strange enemies and fight epic boss battles all driven by an incredible licensed soundtrack.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Independent micro-studio ‘Mad Fellows’ brings you a unique and innovative game featuring music from Noisia, Flux Pavilion, Katy B, The Prototypes, Neosignal and many more.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>N.B. A controller with dual analogue sticks is required to play Aaero. (e.g. Xbox 360/One, PlayStation DualShock etc.)</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/extras/3c5d20f9aba6b71e9ea31b9ddeffde40.poster.avif?t=1765886870\" width=1170 height=374 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/extras/3c5d20f9aba6b71e9ea31b9ddeffde40.webm?t=1765886870\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/extras/3c5d20f9aba6b71e9ea31b9ddeffde40.mp4?t=1765886870\" type=\"video/mp4\"></video></span></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >Trace ribbons of light to release the energy in the music as you speed through stylised alien worlds. Battle strange enemies and fight epic boss battles all driven by an incredible licensed soundtrack.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Independent micro-studio ‘Mad Fellows’ brings you a unique and innovative game featuring music from Noisia, Flux Pavilion, Katy B, The Prototypes, Neosignal and many more.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>N.B. A controller with dual analogue sticks is required to play Aaero. (e.g. Xbox 360/One, PlayStation DualShock etc.)</strong></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/extras/3c5d20f9aba6b71e9ea31b9ddeffde40.poster.avif?t=1765886870\" width=1170 height=374 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/extras/3c5d20f9aba6b71e9ea31b9ddeffde40.webm?t=1765886870\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/extras/3c5d20f9aba6b71e9ea31b9ddeffde40.mp4?t=1765886870\" type=\"video/mp4\"></video></span></p>",
+      "short_description": "Trace ribbons of light to release the energy in the music as you speed through stylised alien worlds. Battle strange enemies and fight epic boss battles all driven by an incredible licensed soundtrack.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Russian, Simplified Chinese",
+      "reviews": "“Once in a blue moon the gaming clouds split open and down floats something like Aaero.”<br>9.5 / 10 – Forbes<br><br>“It's an exhilarating experience!”<br>Kotaku<br><br>“A reason to believe in rhythm games again!”<br>9 / 10 – CogConnected<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/header.jpg?t=1765886870",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/capsule_231x87.jpg?t=1765886870",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/capsule_184x69.jpg?t=1765886870",
+      "website": "http://www.madfellowsgames.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVidia GTX 550<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> *A CONTROLLER IS REQUIRED* - Lower specs may run Aaero perfectly well. We will update these requirements as we have more information.</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "Copyright 2017 Mad Fellows - 'Aaero' is a Registered Trademark - All Rights Reserved",
+      "developers": [
+        "Mad Fellows"
+      ],
+      "publishers": [
+        "Wired Productions"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        114519
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Aaero",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 114519,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Aaero - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 43,
+          "description": "Remote Play on TV"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_08e5fdcca8cb23fbb8c9bbfe19f891326e45aaa9.600x338.jpg?t=1765886870",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_08e5fdcca8cb23fbb8c9bbfe19f891326e45aaa9.1920x1080.jpg?t=1765886870"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_3298b415436946603cb2f20e5954c88b1942fb73.600x338.jpg?t=1765886870",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_3298b415436946603cb2f20e5954c88b1942fb73.1920x1080.jpg?t=1765886870"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_b3e3f9852681925a5b81859356ae738b8976bd44.600x338.jpg?t=1765886870",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_b3e3f9852681925a5b81859356ae738b8976bd44.1920x1080.jpg?t=1765886870"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_f6f765265dc6ea5db802dab5e6fcc1a467820d0a.600x338.jpg?t=1765886870",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_f6f765265dc6ea5db802dab5e6fcc1a467820d0a.1920x1080.jpg?t=1765886870"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_31871d55084ef0a883924114d7d50a5c813fce78.600x338.jpg?t=1765886870",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_31871d55084ef0a883924114d7d50a5c813fce78.1920x1080.jpg?t=1765886870"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_2ef10fe5339d01de4339d4228ff62d84889b01e7.600x338.jpg?t=1765886870",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_2ef10fe5339d01de4339d4228ff62d84889b01e7.1920x1080.jpg?t=1765886870"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_a1ad1ac8ff4f486f795122ab0ecee72168ec34ef.600x338.jpg?t=1765886870",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_a1ad1ac8ff4f486f795122ab0ecee72168ec34ef.1920x1080.jpg?t=1765886870"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_a8e4ce1020d9cc82dde3d1d92a1795278b752684.600x338.jpg?t=1765886870",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_a8e4ce1020d9cc82dde3d1d92a1795278b752684.1920x1080.jpg?t=1765886870"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_80e9b58de769be60ec915e878804a54e1154987e.600x338.jpg?t=1765886870",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_80e9b58de769be60ec915e878804a54e1154987e.1920x1080.jpg?t=1765886870"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_69fb5089312e5f5d2f11da2493223c34fbb09239.600x338.jpg?t=1765886870",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/ss_69fb5089312e5f5d2f11da2493223c34fbb09239.1920x1080.jpg?t=1765886870"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256683569,
+          "name": "Accolades Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256683569/movie.293x165.jpg?t=1493905374",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/499890/99280/0d1a0cd50447a318f1d062d53a2df99643d276bd/1751293499/dash_av1.mpd?t=1493905374",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/499890/99280/0d1a0cd50447a318f1d062d53a2df99643d276bd/1751293499/dash_h264.mpd?t=1493905374",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/499890/99280/0d1a0cd50447a318f1d062d53a2df99643d276bd/1751293499/hls_264_master.m3u8?t=1493905374",
+          "highlight": true
+        },
+        {
+          "id": 256695677,
+          "name": "Aaero 2017 Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256695677/movie.293x165.jpg?t=1505998681",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/499890/123441/0ebf6d91ea545e74f5060daa2479f83ce79a18da/1751293500/dash_av1.mpd?t=1505998681",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/499890/123441/0ebf6d91ea545e74f5060daa2479f83ce79a18da/1751293500/dash_h264.mpd?t=1505998681",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/499890/123441/0ebf6d91ea545e74f5060daa2479f83ce79a18da/1751293500/hls_264_master.m3u8?t=1505998681",
+          "highlight": true
+        },
+        {
+          "id": 256696109,
+          "name": "Twitch streamer reactions 02",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256696109/movie.293x165.jpg?t=1505998695",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/499890/124211/fab158a211be6f1ae32b92225b6837da934de1b8/1751293501/dash_av1.mpd?t=1505998695",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/499890/124211/fab158a211be6f1ae32b92225b6837da934de1b8/1751293501/dash_h264.mpd?t=1505998695",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/499890/124211/fab158a211be6f1ae32b92225b6837da934de1b8/1751293501/hls_264_master.m3u8?t=1505998695",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 317
+      },
+      "achievements": {
+        "total": 92,
+        "highlighted": [
+          {
+            "name": "Props",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499890/5cd9218b22aa2b978831a7725ee54728210cd691.jpg"
+          },
+          {
+            "name": "No points for you!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499890/09b014eb4208f72013c030ac4f236c8fc88cd3f0.jpg"
+          },
+          {
+            "name": "All 225 Stars",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499890/ec2d63e70e8e684e509740ff9e672025b1a6077b.jpg"
+          },
+          {
+            "name": "Shai-Hulud?",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499890/596eb0a60dcd26c9cf731f5468d14e97db0ca5b6.jpg"
+          },
+          {
+            "name": "Get Jaimie Mantzel on the phone",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499890/783b8b82829707657ca84a02fec76adc771a0743.jpg"
+          },
+          {
+            "name": "Calamari",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499890/f47958b63807ca28536969e7b2a301e9c14fbfde.jpg"
+          },
+          {
+            "name": "25/100 Secrets",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499890/04bfb0d74adc626852a900c4173ca9f33cf10eb0.jpg"
+          },
+          {
+            "name": "50/100 Secrets",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499890/594ddb777b973008176db55048accce2da1f5d64.jpg"
+          },
+          {
+            "name": "100/100 Secrets",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499890/bba781ee9359bb6812cfc845b7e86e70253d409f.jpg"
+          },
+          {
+            "name": "25 Normal Stars",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/499890/bd42d00172c36a803f1b0df8acc32fd456ea8078.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Apr 11, 2017"
+      },
+      "support_info": {
+        "url": "",
+        "email": "info@madfellows.co.uk"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/499890?t=1765886870",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/499890/page_bg_raw.jpg?t=1765886870",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "esrb": {
+          "rating": "e10"
+        },
+        "pegi": {
+          "rating": "7",
+          "descriptors": "Fear\r\nViolence"
+        },
+        "usk": {
+          "rating": "12"
+        },
+        "oflc": {
+          "rating": "g"
+        },
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência fantasiosa"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "6",
+          "required_age": "6",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Fantasy-Gewalt"
+        }
+      }
+    }
+  }
+}
