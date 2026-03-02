@@ -1,0 +1,26 @@
+{
+  "appid": 388420,
+  "success": true,
+  "tags": {
+    "2D": 157,
+    "Indie": 153,
+    "Puzzle-Platformer": 150,
+    "Atmospheric": 143,
+    "Platformer": 141,
+    "Puzzle": 133,
+    "Story Rich": 129,
+    "Difficult": 129,
+    "Singleplayer": 123,
+    "Dark": 120,
+    "Hand-drawn": 113,
+    "Emotional": 106,
+    "Philosophical": 104,
+    "Narration": 101,
+    "Action": 94,
+    "Adventure": 88,
+    "Strategy": 84,
+    "Side Scroller": 82,
+    "Physics": 65,
+    "Precision Platformer": 65
+  }
+}

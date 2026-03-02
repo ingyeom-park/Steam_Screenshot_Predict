@@ -1,0 +1,26 @@
+{
+  "appid": 1339860,
+  "success": true,
+  "tags": {
+    "Platformer": 459,
+    "Precision Platformer": 433,
+    "2D": 417,
+    "Beautiful": 334,
+    "Indie": 332,
+    "Singleplayer": 266,
+    "Action-Adventure": 147,
+    "Fantasy": 146,
+    "Atmospheric": 144,
+    "RPG": 138,
+    "Action RPG": 132,
+    "Character Action Game": 126,
+    "2D Platformer": 125,
+    "Puzzle-Platformer": 121,
+    "Flight": 116,
+    "Adventure": 116,
+    "Underwater": 112,
+    "Cute": 111,
+    "Linear": 108,
+    "Action": 101
+  }
+}

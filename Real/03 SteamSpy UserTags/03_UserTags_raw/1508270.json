@@ -1,0 +1,25 @@
+{
+  "appid": 1508270,
+  "success": true,
+  "tags": {
+    "Casual": 196,
+    "Adventure": 188,
+    "Puzzle": 171,
+    "Interactive Fiction": 163,
+    "Visual Novel": 157,
+    "Psychological Horror": 147,
+    "Horror": 144,
+    "Immersive Sim": 127,
+    "Singleplayer": 123,
+    "Investigation": 117,
+    "Cinematic": 101,
+    "2D": 100,
+    "FMV": 93,
+    "Text-Based": 73,
+    "Demons": 57,
+    "Detective": 45,
+    "Mystery": 29,
+    "Sci-fi": 25,
+    "Indie": 22
+  }
+}

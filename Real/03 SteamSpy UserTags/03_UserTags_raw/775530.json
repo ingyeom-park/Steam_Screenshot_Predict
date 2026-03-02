@@ -1,0 +1,20 @@
+{
+  "appid": 775530,
+  "success": true,
+  "tags": {
+    "Casual": 25,
+    "Indie": 24,
+    "Simulation": 22,
+    "Puzzle": 21,
+    "Minimalist": 18,
+    "Platformer": 16,
+    "Puzzle-Platformer": 15,
+    "Relaxing": 14,
+    "2D": 14,
+    "Singleplayer": 13,
+    "Logic": 13,
+    "Physics": 12,
+    "Difficult": 11,
+    "Short": 11
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2088670,
+  "success": true,
+  "tags": {
+    "Indie": 219,
+    "Card Game": 214,
+    "Multiplayer": 207,
+    "Card Battler": 202,
+    "Turn-Based Strategy": 190,
+    "Strategy": 187,
+    "Board Game": 181,
+    "Tabletop": 175,
+    "Casual": 169,
+    "Singleplayer": 158,
+    "Puzzle": 140,
+    "Turn-Based Tactics": 127,
+    "2D": 125,
+    "Anime": 109,
+    "Top-Down": 95,
+    "Comedy": 80,
+    "Family Friendly": 63,
+    "Education": 43,
+    "Atmospheric": 26,
+    "PvP": 26
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 70300,
+  "success": true,
+  "tags": {
+    "Pixel Graphics": 863,
+    "Precision Platformer": 717,
+    "Platformer": 693,
+    "Indie": 633,
+    "2D Platformer": 603,
+    "Great Soundtrack": 526,
+    "Difficult": 505,
+    "Retro": 429,
+    "2D": 395,
+    "Singleplayer": 319,
+    "Exploration": 259,
+    "Action": 224,
+    "Sci-fi": 152,
+    "Adventure": 135,
+    "Short": 127,
+    "Minimalist": 112,
+    "Metroidvania": 100,
+    "Puzzle": 89,
+    "Open World": 81,
+    "Space": 78
+  }
+}

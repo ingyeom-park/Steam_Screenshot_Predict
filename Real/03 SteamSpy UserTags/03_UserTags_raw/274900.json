@@ -1,0 +1,26 @@
+{
+  "appid": 274900,
+  "success": true,
+  "tags": {
+    "Level Editor": 201,
+    "Split Screen": 191,
+    "Arena Shooter": 181,
+    "Voxel": 175,
+    "Zombies": 172,
+    "Sniper": 169,
+    "4 Player Local": 169,
+    "Action": 164,
+    "Indie": 162,
+    "Local Multiplayer": 161,
+    "FPS": 158,
+    "Shooter": 154,
+    "Multiplayer": 151,
+    "Retro": 148,
+    "First-Person": 147,
+    "Competitive": 142,
+    "PvP": 139,
+    "Co-op": 137,
+    "Building": 135,
+    "Sandbox": 113
+  }
+}

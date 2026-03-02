@@ -1,0 +1,26 @@
+{
+  "appid": 1216710,
+  "success": true,
+  "tags": {
+    "Simulation": 259,
+    "RPG": 215,
+    "Puzzle": 204,
+    "Hacking": 184,
+    "Indie": 174,
+    "Mystery": 147,
+    "Detective": 90,
+    "Singleplayer": 89,
+    "Crime": 86,
+    "Immersive Sim": 76,
+    "Story Rich": 74,
+    "Cyberpunk": 64,
+    "2D": 54,
+    "Atmospheric": 38,
+    "Investigation": 32,
+    "Casual": 31,
+    "Word Game": 30,
+    "Psychological Horror": 22,
+    "Linear": 20,
+    "Early Access": 18
+  }
+}

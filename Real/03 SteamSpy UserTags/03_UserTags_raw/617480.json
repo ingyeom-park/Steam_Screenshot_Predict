@@ -1,0 +1,26 @@
+{
+  "appid": 617480,
+  "success": true,
+  "tags": {
+    "Real Time Tactics": 155,
+    "Real-Time": 150,
+    "Turn-Based": 144,
+    "Party-Based RPG": 134,
+    "Strategy": 127,
+    "Real-Time with Pause": 125,
+    "RPG": 117,
+    "Isometric": 115,
+    "Lore-Rich": 113,
+    "Story Rich": 105,
+    "Fantasy": 98,
+    "Atmospheric": 94,
+    "Adventure": 90,
+    "Singleplayer": 82,
+    "Dungeons & Dragons": 80,
+    "Indie": 77,
+    "Dungeon Crawler": 56,
+    "CRPG": 50,
+    "Great Soundtrack": 45,
+    "Realistic": 12
+  }
+}

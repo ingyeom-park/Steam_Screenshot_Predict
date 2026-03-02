@@ -1,0 +1,26 @@
+{
+  "appid": 1436590,
+  "success": true,
+  "tags": {
+    "Adventure": 247,
+    "Action": 230,
+    "Platformer": 209,
+    "Metroidvania": 193,
+    "2D": 182,
+    "Singleplayer": 177,
+    "Puzzle-Platformer": 170,
+    "JRPG": 163,
+    "Action-Adventure": 155,
+    "Pixel Graphics": 150,
+    "Fantasy": 137,
+    "Sci-fi": 123,
+    "Fishing": 118,
+    "Cute": 101,
+    "Combat": 98,
+    "Story Rich": 66,
+    "Female Protagonist": 65,
+    "Indie": 60,
+    "RPG": 47,
+    "Medieval": 47
+  }
+}

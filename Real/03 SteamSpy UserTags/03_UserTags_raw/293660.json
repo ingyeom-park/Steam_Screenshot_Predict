@@ -1,0 +1,26 @@
+{
+  "appid": 293660,
+  "success": true,
+  "tags": {
+    "Adventure": 60,
+    "Indie": 59,
+    "Puzzle": 59,
+    "Exploration": 53,
+    "First-Person": 50,
+    "3D Platformer": 50,
+    "Surreal": 48,
+    "Platformer": 46,
+    "Atmospheric": 45,
+    "Singleplayer": 43,
+    "Minimalist": 40,
+    "Physics": 39,
+    "Great Soundtrack": 37,
+    "Colorful": 37,
+    "Difficult": 34,
+    "Narration": 32,
+    "Action": 21,
+    "3D": 16,
+    "Fox": 15,
+    "Puzzle-Platformer": 13
+  }
+}

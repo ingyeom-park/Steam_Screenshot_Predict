@@ -1,0 +1,24 @@
+{
+  "appid": 2206320,
+  "success": true,
+  "tags": {
+    "VR": 65,
+    "Survival Horror": 59,
+    "Adventure": 55,
+    "Cartoony": 51,
+    "Horror": 50,
+    "First-Person": 50,
+    "Singleplayer": 45,
+    "Action": 38,
+    "Dark": 35,
+    "Platformer": 31,
+    "Mystery": 31,
+    "Action-Adventure": 28,
+    "Indie": 27,
+    "Investigation": 25,
+    "Detective": 23,
+    "Simulation": 22,
+    "Family Friendly": 20,
+    "Multiplayer": 15
+  }
+}

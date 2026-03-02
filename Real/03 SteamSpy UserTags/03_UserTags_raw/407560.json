@@ -1,0 +1,26 @@
+{
+  "appid": 407560,
+  "success": true,
+  "tags": {
+    "Action": 123,
+    "FPS": 110,
+    "Indie": 107,
+    "RPG": 106,
+    "Rogue-like": 95,
+    "Rogue-lite": 92,
+    "Singleplayer": 88,
+    "Replay Value": 80,
+    "Horror": 76,
+    "Dark": 76,
+    "Comedy": 73,
+    "Perma Death": 67,
+    "Action Roguelike": 65,
+    "Procedural Generation": 61,
+    "Gore": 59,
+    "Shooter": 52,
+    "Multiple Endings": 48,
+    "Difficult": 46,
+    "Action RPG": 46,
+    "Survival": 44
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2137750,
+  "success": true,
+  "tags": {
+    "JRPG": 175,
+    "RPG": 169,
+    "2D": 165,
+    "Story Rich": 161,
+    "Turn-Based Combat": 156,
+    "Exploration": 146,
+    "Linear": 143,
+    "Colorful": 141,
+    "Pixel Graphics": 134,
+    "Sci-fi": 123,
+    "Mystery": 112,
+    "Robots": 100,
+    "Retro": 87,
+    "Futuristic": 74,
+    "Combat": 66,
+    "Singleplayer": 65,
+    "Short": 62,
+    "Party-Based RPG": 57,
+    "Character Customization": 53,
+    "Adventure": 51
+  }
+}

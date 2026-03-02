@@ -1,0 +1,26 @@
+{
+  "appid": 2738380,
+  "success": true,
+  "tags": {
+    "Simulation": 128,
+    "3D": 111,
+    "Building": 108,
+    "Life Sim": 104,
+    "Time Management": 103,
+    "Management": 102,
+    "RPG": 93,
+    "Economy": 86,
+    "Physics": 85,
+    "Casual": 82,
+    "First-Person": 82,
+    "Inventory Management": 76,
+    "Modern": 75,
+    "Indie": 59,
+    "Early Access": 51,
+    "Singleplayer": 48,
+    "Resource Management": 37,
+    "Sandbox": 32,
+    "Grand Strategy": 29,
+    "Exploration": 29
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appid": 632020,
+  "success": true,
+  "tags": {
+    "Strategy": 60,
+    "Indie": 59,
+    "Adventure": 57,
+    "RPG": 56,
+    "Casual": 55,
+    "Turn-Based Combat": 44,
+    "Tactical": 40,
+    "2D": 39,
+    "Turn-Based": 39,
+    "Singleplayer": 38,
+    "Fantasy": 37,
+    "Female Protagonist": 35,
+    "Tactical RPG": 34,
+    "Turn-Based Strategy": 34,
+    "Atmospheric": 33,
+    "Exploration": 33,
+    "Story Rich": 31,
+    "Strategy RPG": 30,
+    "Cult Classic": 10
+  }
+}

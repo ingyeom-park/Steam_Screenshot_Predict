@@ -1,0 +1,26 @@
+{
+  "appid": 35480,
+  "success": true,
+  "tags": {
+    "Dwarf": 234,
+    "Colony Sim": 230,
+    "Pixel Graphics": 222,
+    "Indie": 220,
+    "Top-Down": 216,
+    "Tower Defense": 210,
+    "Management": 205,
+    "Mining": 203,
+    "2D": 200,
+    "Singleplayer": 197,
+    "Fantasy": 190,
+    "Base-Building": 187,
+    "Immersive Sim": 183,
+    "Strategy": 180,
+    "2D Platformer": 166,
+    "Sandbox": 163,
+    "Simulation": 159,
+    "Memes": 153,
+    "Procedural Generation": 140,
+    "Survival": 131
+  }
+}

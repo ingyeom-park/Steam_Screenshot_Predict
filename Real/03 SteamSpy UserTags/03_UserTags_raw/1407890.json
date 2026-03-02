@@ -1,0 +1,26 @@
+{
+  "appid": 1407890,
+  "success": true,
+  "tags": {
+    "City Builder": 130,
+    "Hex Grid": 124,
+    "Casual": 121,
+    "Relaxing": 118,
+    "Base-Building": 115,
+    "Strategy": 109,
+    "Colorful": 106,
+    "3D": 101,
+    "Score Attack": 91,
+    "Singleplayer": 87,
+    "Turn-Based Strategy": 84,
+    "Atmospheric": 80,
+    "Simulation": 79,
+    "Survival": 77,
+    "Logic": 75,
+    "Management": 66,
+    "Fantasy": 63,
+    "Indie": 31,
+    "Resource Management": 29,
+    "Top-Down": 27
+  }
+}

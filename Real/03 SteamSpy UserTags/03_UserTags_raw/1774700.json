@@ -1,0 +1,25 @@
+{
+  "appid": 1774700,
+  "success": true,
+  "tags": {
+    "Strategy": 194,
+    "Casual": 192,
+    "Sandbox": 165,
+    "Board Game": 159,
+    "Tabletop": 154,
+    "Puzzle": 149,
+    "Side Scroller": 136,
+    "3D": 130,
+    "Colorful": 121,
+    "Cute": 112,
+    "Isometric": 103,
+    "Minimalist": 101,
+    "Top-Down": 86,
+    "Atmospheric": 71,
+    "Management": 56,
+    "Logic": 43,
+    "Relaxing": 28,
+    "Singleplayer": 26,
+    "Indie": 21
+  }
+}

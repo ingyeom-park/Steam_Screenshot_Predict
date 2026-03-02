@@ -1,0 +1,26 @@
+{
+  "appid": 1382320,
+  "success": true,
+  "tags": {
+    "Adventure": 196,
+    "Arcade": 179,
+    "Platformer": 173,
+    "2D Platformer": 169,
+    "Puzzle-Platformer": 159,
+    "2D": 153,
+    "Pixel Graphics": 143,
+    "Colorful": 143,
+    "Comedy": 128,
+    "Family Friendly": 116,
+    "Funny": 110,
+    "Old School": 108,
+    "Retro": 95,
+    "PvP": 78,
+    "Multiplayer": 65,
+    "Action": 51,
+    "Singleplayer": 48,
+    "Competitive": 31,
+    "Indie": 31,
+    "Casual": 24
+  }
+}

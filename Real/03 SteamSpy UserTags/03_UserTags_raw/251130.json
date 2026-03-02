@@ -1,0 +1,26 @@
+{
+  "appid": 251130,
+  "success": true,
+  "tags": {
+    "RPG": 171,
+    "Strategy": 150,
+    "Tactical RPG": 134,
+    "Indie": 130,
+    "Pixel Graphics": 130,
+    "Turn-Based Tactics": 106,
+    "Superhero": 88,
+    "Turn-Based": 79,
+    "Turn-Based Combat": 67,
+    "Management": 65,
+    "Great Soundtrack": 63,
+    "Comedy": 57,
+    "Singleplayer": 50,
+    "2D": 49,
+    "Memes": 30,
+    "Funny": 24,
+    "Isometric": 22,
+    "Mechs": 15,
+    "Story Rich": 11,
+    "Simulation": 10
+  }
+}

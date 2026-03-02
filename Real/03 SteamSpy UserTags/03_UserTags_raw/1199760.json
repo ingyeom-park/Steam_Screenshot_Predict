@@ -1,0 +1,26 @@
+{
+  "appid": 1199760,
+  "success": true,
+  "tags": {
+    "JRPG": 144,
+    "RPG": 139,
+    "Indie": 135,
+    "Adventure": 131,
+    "Episodic": 127,
+    "Exploration": 118,
+    "Atmospheric": 114,
+    "Cyberpunk": 111,
+    "Fantasy": 105,
+    "Futuristic": 99,
+    "Post-apocalyptic": 97,
+    "Retro": 95,
+    "Sci-fi": 93,
+    "Story Rich": 91,
+    "Singleplayer": 86,
+    "Classic": 83,
+    "Great Soundtrack": 77,
+    "Turn-Based Strategy": 71,
+    "CRPG": 70,
+    "Anime": 68
+  }
+}

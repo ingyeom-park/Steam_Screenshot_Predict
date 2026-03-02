@@ -1,0 +1,26 @@
+{
+  "appid": 1451120,
+  "success": true,
+  "tags": {
+    "Adventure": 215,
+    "Experimental": 193,
+    "Walking Simulator": 189,
+    "3D": 179,
+    "Abstract": 176,
+    "Cinematic": 164,
+    "Hand-drawn": 156,
+    "Stylized": 151,
+    "Emotional": 142,
+    "Nature": 134,
+    "Philosophical": 123,
+    "Relaxing": 120,
+    "Story Rich": 108,
+    "Narration": 93,
+    "Open World": 77,
+    "Procedural Generation": 63,
+    "Singleplayer": 46,
+    "Atmospheric": 31,
+    "Short": 29,
+    "Indie": 24
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 664000,
+  "success": true,
+  "tags": {
+    "Action": 340,
+    "Building": 340,
+    "Casual": 337,
+    "Action-Adventure": 322,
+    "Crafting": 309,
+    "Fantasy": 305,
+    "Strategy": 297,
+    "Open World": 297,
+    "Third Person": 280,
+    "Adventure": 280,
+    "City Builder": 275,
+    "Colorful": 263,
+    "Open World Survival Craft": 261,
+    "Relaxing": 256,
+    "Singleplayer": 250,
+    "RPG": 237,
+    "Base-Building": 235,
+    "Indie": 226,
+    "Family Friendly": 224,
+    "Simulation": 223
+  }
+}

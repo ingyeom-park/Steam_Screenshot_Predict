@@ -1,0 +1,26 @@
+{
+  "appid": 656350,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 257,
+    "Rogue-lite": 178,
+    "Pixel Graphics": 149,
+    "Dungeon Crawler": 145,
+    "RPG": 111,
+    "Action": 92,
+    "Indie": 91,
+    "Adventure": 85,
+    "Singleplayer": 71,
+    "Top-Down": 69,
+    "2D": 56,
+    "Procedural Generation": 55,
+    "Fantasy": 46,
+    "Choices Matter": 37,
+    "Funny": 36,
+    "Mining": 34,
+    "Retro": 32,
+    "Story Rich": 31,
+    "Rogue-like": 31,
+    "Multiplayer": 26
+  }
+}

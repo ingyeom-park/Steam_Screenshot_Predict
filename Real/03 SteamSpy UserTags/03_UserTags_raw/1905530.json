@@ -1,0 +1,20 @@
+{
+  "appid": 1905530,
+  "success": true,
+  "tags": {
+    "Action": 74,
+    "Adventure": 65,
+    "RPG": 65,
+    "Action RPG": 41,
+    "Hack and Slash": 38,
+    "Pixel Graphics": 34,
+    "Co-op": 29,
+    "Medieval": 28,
+    "Multiplayer": 25,
+    "Indie": 23,
+    "Online Co-Op": 23,
+    "Singleplayer": 21,
+    "2D": 7,
+    "4 Player Local": 7
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appid": 1147890,
+  "success": true,
+  "tags": {
+    "Sokoban": 305,
+    "Puzzle": 162,
+    "Difficult": 148,
+    "Indie": 147,
+    "Adventure": 138,
+    "Atmospheric": 134,
+    "Voxel": 134,
+    "3D": 121,
+    "Grid-Based Movement": 120,
+    "Nonlinear": 118,
+    "Pixel Graphics": 115,
+    "Cinematic": 113,
+    "Stylized": 110,
+    "Relaxing": 110,
+    "Open World": 102,
+    "Third Person": 99,
+    "Singleplayer": 94,
+    "Family Friendly": 28,
+    "Retro": 25
+  }
+}

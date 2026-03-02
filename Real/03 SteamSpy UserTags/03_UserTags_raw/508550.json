@@ -1,0 +1,25 @@
+{
+  "appid": 508550,
+  "success": true,
+  "tags": {
+    "Stealth": 48,
+    "Action": 41,
+    "Indie": 38,
+    "Strategy": 38,
+    "First-Person": 31,
+    "Singleplayer": 29,
+    "Heist": 27,
+    "Gore": 26,
+    "Early Access": 23,
+    "Violent": 23,
+    "Multiplayer": 23,
+    "FPS": 20,
+    "Puzzle": 19,
+    "Horror": 15,
+    "Shooter": 11,
+    "Crime": 9,
+    "Co-op": 9,
+    "Open World": 6,
+    "Difficult": 5
+  }
+}

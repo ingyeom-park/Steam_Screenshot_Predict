@@ -1,0 +1,26 @@
+{
+  "appid": 538550,
+  "success": true,
+  "tags": {
+    "Sports": 166,
+    "Indie": 152,
+    "Casual": 143,
+    "Golf": 140,
+    "Multiplayer": 136,
+    "Mini Golf": 127,
+    "4 Player Local": 123,
+    "Party": 115,
+    "Controller": 111,
+    "Local Co-Op": 108,
+    "Local Multiplayer": 106,
+    "Singleplayer": 100,
+    "Arcade": 89,
+    "2D": 87,
+    "Minimalist": 79,
+    "Colorful": 75,
+    "Moddable": 72,
+    "Physics": 57,
+    "PvP": 49,
+    "Procedural Generation": 44
+  }
+}

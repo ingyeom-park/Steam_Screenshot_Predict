@@ -1,0 +1,26 @@
+{
+  "appid": 224820,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 130,
+    "Action": 126,
+    "Platformer": 120,
+    "Rogue-like": 98,
+    "Indie": 92,
+    "Ninja": 83,
+    "Replay Value": 65,
+    "Difficult": 65,
+    "2D": 63,
+    "Arcade": 59,
+    "Singleplayer": 52,
+    "Female Protagonist": 47,
+    "Fast-Paced": 45,
+    "Retro": 36,
+    "Addictive": 33,
+    "Rogue-lite": 30,
+    "Pixel Graphics": 29,
+    "Controller": 17,
+    "Adventure": 16,
+    "Procedural Generation": 11
+  }
+}

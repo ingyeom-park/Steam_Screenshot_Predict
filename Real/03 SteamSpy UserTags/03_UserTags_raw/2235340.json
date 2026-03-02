@@ -1,0 +1,26 @@
+{
+  "appid": 2235340,
+  "success": true,
+  "tags": {
+    "Casual": 215,
+    "Strategy": 209,
+    "Rhythm": 186,
+    "Family Friendly": 179,
+    "Puzzle": 173,
+    "Local Multiplayer": 163,
+    "4 Player Local": 156,
+    "Immersive Sim": 148,
+    "Controller": 140,
+    "2.5D": 131,
+    "Colorful": 120,
+    "Minimalist": 118,
+    "Top-Down": 105,
+    "Logic": 91,
+    "Relaxing": 76,
+    "Singleplayer": 60,
+    "Co-op": 44,
+    "Local Co-Op": 28,
+    "Driving": 25,
+    "Indie": 21
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1247860,
+  "success": true,
+  "tags": {
+    "Exploration": 360,
+    "Sokoban": 354,
+    "Puzzle-Platformer": 351,
+    "Puzzle": 346,
+    "Walking Simulator": 343,
+    "Dating Sim": 330,
+    "Female Protagonist": 329,
+    "RPG": 326,
+    "3D": 325,
+    "Historical": 321,
+    "Cute": 321,
+    "Casual": 308,
+    "Cartoony": 302,
+    "Fantasy": 298,
+    "Psychedelic": 287,
+    "Atmospheric": 280,
+    "Adventure": 275,
+    "Singleplayer": 271,
+    "Indie": 256,
+    "Stylized": 239
+  }
+}

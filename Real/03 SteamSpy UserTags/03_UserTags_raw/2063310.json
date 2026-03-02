@@ -1,0 +1,26 @@
+{
+  "appid": 2063310,
+  "success": true,
+  "tags": {
+    "Singleplayer": 223,
+    "Physics": 192,
+    "Puzzle": 189,
+    "Platformer": 188,
+    "Indie": 176,
+    "Adventure": 170,
+    "Hidden Object": 167,
+    "Score Attack": 165,
+    "Alternate History": 163,
+    "Relaxing": 159,
+    "Precision Platformer": 158,
+    "Linear": 153,
+    "Puzzle-Platformer": 153,
+    "Casual": 139,
+    "3D Platformer": 136,
+    "Logic": 132,
+    "Stylized": 129,
+    "Controller": 126,
+    "Cartoony": 122,
+    "Colorful": 115
+  }
+}

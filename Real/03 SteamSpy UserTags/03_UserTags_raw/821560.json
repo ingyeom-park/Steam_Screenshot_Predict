@@ -1,0 +1,25 @@
+{
+  "appid": 821560,
+  "success": true,
+  "tags": {
+    "Indie": 113,
+    "RPG": 107,
+    "Puzzle": 104,
+    "Action RPG": 98,
+    "Puzzle-Platformer": 92,
+    "Hand-drawn": 86,
+    "Drama": 81,
+    "Linear": 78,
+    "Singleplayer": 76,
+    "Minigames": 71,
+    "Action": 67,
+    "Adventure": 64,
+    "2D": 43,
+    "Horror": 42,
+    "Story Rich": 38,
+    "Surreal": 33,
+    "Retro": 30,
+    "Psychological": 28,
+    "Casual": 26
+  }
+}

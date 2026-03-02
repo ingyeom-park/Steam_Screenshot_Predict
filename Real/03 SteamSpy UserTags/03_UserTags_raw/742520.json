@@ -1,0 +1,26 @@
+{
+  "appid": 742520,
+  "success": true,
+  "tags": {
+    "Comedy": 138,
+    "Funny": 132,
+    "Historical": 129,
+    "Visual Novel": 126,
+    "Interactive Fiction": 120,
+    "Story Rich": 112,
+    "Drama": 110,
+    "Choose Your Own Adventure": 107,
+    "Dark Comedy": 104,
+    "Choices Matter": 97,
+    "Conversation": 95,
+    "Casual": 89,
+    "Stylized": 87,
+    "Medieval": 83,
+    "Adventure": 79,
+    "Singleplayer": 65,
+    "Indie": 62,
+    "Atmospheric": 46,
+    "Multiple Endings": 44,
+    "Villain Protagonist": 41
+  }
+}

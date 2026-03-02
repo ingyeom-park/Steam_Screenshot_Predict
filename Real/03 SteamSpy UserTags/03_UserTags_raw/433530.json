@@ -1,0 +1,26 @@
+{
+  "appid": 433530,
+  "success": true,
+  "tags": {
+    "Military": 263,
+    "Flight": 254,
+    "Multiplayer": 244,
+    "Co-op": 240,
+    "Experimental": 230,
+    "Arcade": 223,
+    "Massively Multiplayer": 217,
+    "Simulation": 217,
+    "Realistic": 216,
+    "War": 215,
+    "Action": 212,
+    "Indie": 176,
+    "Tactical": 137,
+    "Team-Based": 128,
+    "Singleplayer": 127,
+    "Strategy": 123,
+    "Shooter": 115,
+    "Open World": 114,
+    "Third Person": 110,
+    "Arena Shooter": 101
+  }
+}

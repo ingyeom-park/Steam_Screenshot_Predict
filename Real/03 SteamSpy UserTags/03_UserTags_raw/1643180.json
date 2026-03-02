@@ -1,0 +1,26 @@
+{
+  "appid": 1643180,
+  "success": true,
+  "tags": {
+    "Card Game": 267,
+    "Strategy": 255,
+    "RPG": 252,
+    "Rogue-like": 248,
+    "Life Sim": 248,
+    "Real-Time with Pause": 241,
+    "Crafting": 238,
+    "2D": 237,
+    "Indie": 233,
+    "Alternate History": 227,
+    "Deckbuilding": 220,
+    "Simulation": 218,
+    "Casual": 211,
+    "Card Battler": 209,
+    "Resource Management": 209,
+    "Rogue-lite": 203,
+    "Tabletop": 195,
+    "Design & Illustration": 180,
+    "Survival": 168,
+    "Singleplayer": 152
+  }
+}

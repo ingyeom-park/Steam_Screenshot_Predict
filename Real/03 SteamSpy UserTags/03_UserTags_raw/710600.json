@@ -1,0 +1,26 @@
+{
+  "appid": 710600,
+  "success": true,
+  "tags": {
+    "Adventure": 154,
+    "Indie": 148,
+    "Casual": 143,
+    "Horror": 140,
+    "Gore": 138,
+    "Pixel Graphics": 133,
+    "2D": 126,
+    "Psychological Horror": 118,
+    "Dark": 112,
+    "Atmospheric": 103,
+    "Story Rich": 100,
+    "Violent": 93,
+    "Replay Value": 90,
+    "RPGMaker": 88,
+    "Puzzle": 80,
+    "Walking Simulator": 76,
+    "Exploration": 72,
+    "Female Protagonist": 70,
+    "Linear": 63,
+    "Multiple Endings": 61
+  }
+}

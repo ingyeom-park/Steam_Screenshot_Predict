@@ -1,0 +1,26 @@
+{
+  "appid": 453690,
+  "success": true,
+  "tags": {
+    "RPG": 59,
+    "Strategy": 51,
+    "Indie": 46,
+    "Turn-Based": 45,
+    "Dungeon Crawler": 43,
+    "Board Game": 33,
+    "Isometric": 32,
+    "Adventure": 26,
+    "Multiplayer": 19,
+    "Fantasy": 18,
+    "Tactical": 18,
+    "Singleplayer": 18,
+    "Turn-Based Tactics": 16,
+    "Great Soundtrack": 15,
+    "Online Co-Op": 14,
+    "Story Rich": 11,
+    "Local Multiplayer": 11,
+    "Local Co-Op": 10,
+    "Games Workshop": 10,
+    "Early Access": 10
+  }
+}

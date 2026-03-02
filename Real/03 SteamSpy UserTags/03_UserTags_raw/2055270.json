@@ -1,0 +1,26 @@
+{
+  "appid": 2055270,
+  "success": true,
+  "tags": {
+    "Strategy": 215,
+    "Arcade": 188,
+    "City Builder": 184,
+    "God Game": 179,
+    "Puzzle": 174,
+    "Rogue-lite": 162,
+    "Match 3": 156,
+    "Colorful": 148,
+    "Cute": 140,
+    "Agriculture": 131,
+    "Building": 120,
+    "Fantasy": 118,
+    "Deckbuilding": 103,
+    "Nature": 91,
+    "Tactical": 76,
+    "Cartoony": 60,
+    "2D": 45,
+    "Singleplayer": 26,
+    "Rogue-like": 25,
+    "Indie": 22
+  }
+}

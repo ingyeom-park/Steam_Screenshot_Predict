@@ -1,0 +1,26 @@
+{
+  "appid": 1859270,
+  "success": true,
+  "tags": {
+    "PvP": 372,
+    "Team-Based": 366,
+    "Local Co-Op": 366,
+    "Multiplayer": 360,
+    "Online Co-Op": 359,
+    "Character Customization": 351,
+    "Funny": 349,
+    "Level Editor": 347,
+    "Cute": 345,
+    "Battle Royale": 343,
+    "Physics": 339,
+    "Combat Racing": 335,
+    "Casual": 329,
+    "PvE": 325,
+    "Action": 315,
+    "Puzzle-Platformer": 299,
+    "Sports": 286,
+    "Indie": 284,
+    "3D Platformer": 281,
+    "Racing": 270
+  }
+}

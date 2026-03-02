@@ -1,0 +1,15 @@
+{
+  "appid": 211010,
+  "success": true,
+  "tags": {
+    "Action": 43,
+    "Indie": 38,
+    "RPG": 33,
+    "Gore": 30,
+    "Shooter": 20,
+    "Singleplayer": 19,
+    "Top-Down Shooter": 16,
+    "Aliens": 12,
+    "Isometric": 9
+  }
+}

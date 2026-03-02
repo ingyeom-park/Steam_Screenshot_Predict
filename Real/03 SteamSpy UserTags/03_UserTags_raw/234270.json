@@ -1,0 +1,26 @@
+{
+  "appid": 234270,
+  "success": true,
+  "tags": {
+    "Choices Matter": 206,
+    "Adventure": 190,
+    "Story Rich": 187,
+    "Visual Novel": 187,
+    "Point & Click": 186,
+    "Medieval": 178,
+    "Indie": 127,
+    "Interactive Fiction": 118,
+    "Casual": 115,
+    "Based On A Novel": 108,
+    "Atmospheric": 98,
+    "Singleplayer": 95,
+    "Historical": 68,
+    "Great Soundtrack": 56,
+    "Violent": 32,
+    "Female Protagonist": 28,
+    "Hand-drawn": 27,
+    "Choose Your Own Adventure": 18,
+    "RPG": 18,
+    "2D": 16
+  }
+}

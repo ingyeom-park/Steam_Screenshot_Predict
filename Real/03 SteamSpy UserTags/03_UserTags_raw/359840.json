@@ -1,0 +1,26 @@
+{
+  "appid": 359840,
+  "success": true,
+  "tags": {
+    "Co-op": 168,
+    "Online Co-Op": 160,
+    "Local Co-Op": 154,
+    "Puzzle-Platformer": 148,
+    "Local Multiplayer": 130,
+    "Puzzle": 118,
+    "Multiplayer": 114,
+    "Family Friendly": 111,
+    "Indie": 107,
+    "Controller": 97,
+    "2D Platformer": 91,
+    "Platformer": 85,
+    "Action": 83,
+    "2.5D": 76,
+    "Funny": 75,
+    "Side Scroller": 71,
+    "Colorful": 66,
+    "2D": 66,
+    "Team-Based": 65,
+    "Singleplayer": 63
+  }
+}

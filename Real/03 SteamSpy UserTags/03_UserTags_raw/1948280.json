@@ -1,0 +1,26 @@
+{
+  "appid": 1948280,
+  "success": true,
+  "tags": {
+    "Card Game": 261,
+    "Management": 258,
+    "Survival": 245,
+    "Card Battler": 232,
+    "Rogue-lite": 228,
+    "City Builder": 203,
+    "Strategy": 194,
+    "Building": 178,
+    "Solitaire": 174,
+    "2D": 159,
+    "Singleplayer": 156,
+    "Tabletop": 151,
+    "Deckbuilding": 143,
+    "Cute": 141,
+    "Simulation": 135,
+    "Indie": 115,
+    "Hand-drawn": 113,
+    "Colorful": 111,
+    "Casual": 107,
+    "Fantasy": 48
+  }
+}

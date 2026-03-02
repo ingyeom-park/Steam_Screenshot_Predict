@@ -1,0 +1,25 @@
+{
+  "appid": 345540,
+  "success": true,
+  "tags": {
+    "Casual": 90,
+    "Adventure": 85,
+    "Indie": 80,
+    "Hidden Object": 71,
+    "Point & Click": 66,
+    "Puzzle": 63,
+    "First-Person": 59,
+    "Interactive Fiction": 57,
+    "2D": 55,
+    "Beautiful": 52,
+    "Family Friendly": 50,
+    "Fantasy": 48,
+    "Futuristic": 46,
+    "Investigation": 44,
+    "Sci-fi": 42,
+    "Narration": 40,
+    "Singleplayer": 38,
+    "Female Protagonist": 36,
+    "Violent": 27
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1146940,
+  "success": true,
+  "tags": {
+    "Indie": 266,
+    "PvP": 130,
+    "Family Friendly": 113,
+    "Funny": 110,
+    "Online Co-Op": 108,
+    "Multiplayer": 104,
+    "Casual": 93,
+    "RPG": 88,
+    "Action": 80,
+    "Adventure": 72,
+    "Stealth": 69,
+    "Co-op": 69,
+    "Third Person": 68,
+    "Atmospheric": 62,
+    "Team-Based": 62,
+    "Massively Multiplayer": 53,
+    "Psychological Horror": 34,
+    "Fantasy": 34,
+    "Addictive": 31,
+    "Beautiful": 30
+  }
+}

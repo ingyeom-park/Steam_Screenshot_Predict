@@ -1,0 +1,25 @@
+{
+  "appid": 2182400,
+  "success": true,
+  "tags": {
+    "Adventure": 176,
+    "Casual": 159,
+    "Puzzle": 151,
+    "Platformer": 150,
+    "2D Platformer": 139,
+    "Hand-drawn": 132,
+    "Psychological Horror": 125,
+    "Puzzle-Platformer": 123,
+    "Philosophical": 108,
+    "2D": 98,
+    "Cartoony": 96,
+    "Colorful": 83,
+    "Drama": 72,
+    "Mystery": 61,
+    "Female Protagonist": 43,
+    "Singleplayer": 26,
+    "Linear": 26,
+    "Indie": 21,
+    "Horror": 5
+  }
+}

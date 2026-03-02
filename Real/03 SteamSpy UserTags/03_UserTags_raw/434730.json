@@ -1,0 +1,25 @@
+{
+  "appid": 434730,
+  "success": true,
+  "tags": {
+    "Multiplayer": 81,
+    "Survival": 67,
+    "Adventure": 61,
+    "Action": 58,
+    "Co-op": 52,
+    "Puzzle": 33,
+    "Gore": 32,
+    "First-Person": 29,
+    "Singleplayer": 23,
+    "Horror": 22,
+    "Sci-fi": 17,
+    "Indie": 15,
+    "Funny": 15,
+    "Early Access": 10,
+    "Strategy": 10,
+    "Online Co-Op": 7,
+    "Atmospheric": 7,
+    "Open World": 6,
+    "Survival Horror": 5
+  }
+}

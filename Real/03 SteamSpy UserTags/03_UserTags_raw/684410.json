@@ -1,0 +1,26 @@
+{
+  "appid": 684410,
+  "success": true,
+  "tags": {
+    "Puzzle": 106,
+    "Simulation": 97,
+    "Strategy": 95,
+    "Physics": 80,
+    "Building": 76,
+    "Singleplayer": 73,
+    "2D": 62,
+    "Comedy": 37,
+    "Level Editor": 36,
+    "Difficult": 36,
+    "Sci-fi": 35,
+    "Sandbox": 28,
+    "Casual": 27,
+    "2.5D": 26,
+    "Funny": 23,
+    "Indie": 22,
+    "Family Friendly": 17,
+    "Education": 13,
+    "Co-op": 9,
+    "Touch-Friendly": 7
+  }
+}

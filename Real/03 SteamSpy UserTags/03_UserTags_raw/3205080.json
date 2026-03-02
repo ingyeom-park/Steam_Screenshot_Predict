@@ -1,0 +1,26 @@
+{
+  "appid": 3205080,
+  "success": true,
+  "tags": {
+    "Horror": 208,
+    "Adventure": 198,
+    "Psychological Horror": 175,
+    "Walking Simulator": 171,
+    "1990's": 170,
+    "3D": 169,
+    "Exploration": 160,
+    "Dark": 153,
+    "Cartoon": 150,
+    "Atmospheric": 141,
+    "Stylized": 136,
+    "Lore-Rich": 115,
+    "Mystery": 106,
+    "Retro": 88,
+    "Singleplayer": 64,
+    "Indie": 62,
+    "Story Rich": 60,
+    "Violent": 52,
+    "Linear": 47,
+    "Multiplayer": 7
+  }
+}

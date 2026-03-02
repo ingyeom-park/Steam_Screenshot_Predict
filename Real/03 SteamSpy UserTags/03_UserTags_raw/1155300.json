@@ -1,0 +1,26 @@
+{
+  "appid": 1155300,
+  "success": true,
+  "tags": {
+    "2D": 232,
+    "Co-op": 226,
+    "Puzzle": 222,
+    "Platformer": 217,
+    "Logic": 211,
+    "Multiplayer": 201,
+    "Indie": 197,
+    "Colorful": 194,
+    "Team-Based": 186,
+    "Physics": 168,
+    "Comic Book": 158,
+    "Hand-drawn": 146,
+    "Education": 143,
+    "2D Platformer": 130,
+    "Puzzle-Platformer": 115,
+    "Cute": 99,
+    "Co-op Campaign": 82,
+    "Action": 65,
+    "Online Co-Op": 64,
+    "Linear": 27
+  }
+}

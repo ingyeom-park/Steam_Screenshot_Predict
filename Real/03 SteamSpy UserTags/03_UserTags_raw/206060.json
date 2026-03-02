@@ -1,0 +1,15 @@
+{
+  "appid": 206060,
+  "success": true,
+  "tags": {
+    "RPG": 47,
+    "Indie": 38,
+    "Isometric": 19,
+    "Party-Based RPG": 12,
+    "Turn-Based": 9,
+    "CRPG": 9,
+    "Turn-Based Combat": 8,
+    "Old School": 7,
+    "Fantasy": 6
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "appid": 293240,
+  "success": true,
+  "tags": {
+    "Action": 50,
+    "Indie": 46,
+    "Adventure": 45,
+    "Strategy": 35,
+    "Space": 34,
+    "Twin Stick Shooter": 29,
+    "Action Roguelike": 25,
+    "Rogue-lite": 20,
+    "Cute": 13,
+    "Casual": 9,
+    "2D": 8
+  }
+}

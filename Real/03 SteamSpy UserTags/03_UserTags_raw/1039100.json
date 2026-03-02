@@ -1,0 +1,26 @@
+{
+  "appid": 1039100,
+  "success": true,
+  "tags": {
+    "Pixel Graphics": 565,
+    "Indie": 535,
+    "Singleplayer": 478,
+    "Adventure": 433,
+    "Souls-like": 424,
+    "Action RPG": 421,
+    "Post-apocalyptic": 408,
+    "Choices Matter": 402,
+    "Top-Down": 395,
+    "2D": 387,
+    "Story Rich": 383,
+    "Hack and Slash": 379,
+    "RPG": 376,
+    "Hand-drawn": 370,
+    "Exploration": 366,
+    "Multiple Endings": 350,
+    "Stylized": 347,
+    "Combat": 345,
+    "War": 341,
+    "Action": 324
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2097230,
+  "success": true,
+  "tags": {
+    "Shoot 'Em Up": 168,
+    "Top-Down Shooter": 162,
+    "Rogue-lite": 159,
+    "Action-Adventure": 156,
+    "Rogue-like": 153,
+    "Hack and Slash": 147,
+    "Twin Stick Shooter": 141,
+    "2D": 139,
+    "Cute": 136,
+    "Dark Comedy": 131,
+    "Dark Humor": 129,
+    "Linear": 125,
+    "Action": 120,
+    "Pixel Graphics": 117,
+    "Loot": 115,
+    "Heist": 110,
+    "Adventure": 108,
+    "Combat": 78,
+    "Singleplayer": 72,
+    "Indie": 65
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2232200,
+  "success": true,
+  "tags": {
+    "Visual Novel": 127,
+    "Dating Sim": 120,
+    "Romance": 114,
+    "Snow": 111,
+    "2D": 108,
+    "Story Rich": 100,
+    "Fantasy": 95,
+    "Anime": 93,
+    "Text-Based": 86,
+    "Multiple Endings": 77,
+    "Cute": 70,
+    "Casual": 66,
+    "Atmospheric": 62,
+    "Drama": 60,
+    "Emotional": 57,
+    "Interactive Fiction": 54,
+    "Singleplayer": 51,
+    "Indie": 48,
+    "Nudity": 30,
+    "LGBTQ+": 27
+  }
+}

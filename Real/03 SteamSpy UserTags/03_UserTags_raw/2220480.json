@@ -1,0 +1,26 @@
+{
+  "appid": 2220480,
+  "success": true,
+  "tags": {
+    "Shoot 'Em Up": 153,
+    "Top-Down Shooter": 147,
+    "Twin Stick Shooter": 144,
+    "Bullet Hell": 140,
+    "Rogue-lite": 135,
+    "Auto Battler": 129,
+    "Card Game": 123,
+    "Shooter": 118,
+    "Arcade": 116,
+    "Rogue-like": 112,
+    "2D": 109,
+    "Top-Down": 103,
+    "2.5D": 97,
+    "Gun Customization": 92,
+    "Deckbuilding": 87,
+    "Action": 72,
+    "Pixel Graphics": 59,
+    "Vampire": 56,
+    "Singleplayer": 53,
+    "Indie": 49
+  }
+}

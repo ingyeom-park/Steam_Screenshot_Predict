@@ -1,0 +1,26 @@
+{
+  "appid": 1582410,
+  "success": true,
+  "tags": {
+    "RPG": 102,
+    "Exploration": 95,
+    "JRPG": 92,
+    "Story Rich": 89,
+    "Female Protagonist": 88,
+    "Choices Matter": 80,
+    "Turn-Based Combat": 79,
+    "Multiple Endings": 78,
+    "Lore-Rich": 73,
+    "Pixel Graphics": 68,
+    "Fantasy": 64,
+    "Nature": 56,
+    "Drama": 54,
+    "Retro": 53,
+    "Singleplayer": 43,
+    "2D": 35,
+    "Indie": 31,
+    "Adventure": 29,
+    "Turn-Based": 11,
+    "Controller": 10
+  }
+}

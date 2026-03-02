@@ -1,0 +1,26 @@
+{
+  "appid": 1521580,
+  "success": true,
+  "tags": {
+    "Action": 191,
+    "Stealth": 182,
+    "Shooter": 181,
+    "Multiplayer": 178,
+    "Strategy": 177,
+    "Heist": 172,
+    "Social Deduction": 161,
+    "3D": 156,
+    "Detective": 152,
+    "Hero Shooter": 149,
+    "FPS": 148,
+    "Class-Based": 144,
+    "Level Editor": 138,
+    "First-Person": 129,
+    "Casual": 122,
+    "PvP": 114,
+    "Singleplayer": 110,
+    "Tactical": 106,
+    "Indie": 92,
+    "Funny": 89
+  }
+}

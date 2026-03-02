@@ -1,0 +1,21 @@
+{
+  "appid": 3123250,
+  "success": true,
+  "tags": {
+    "Adventure": 62,
+    "Horror": 51,
+    "3D": 45,
+    "Psychological Horror": 39,
+    "Dark": 36,
+    "Indie": 35,
+    "First-Person": 31,
+    "Singleplayer": 29,
+    "Walking Simulator": 26,
+    "Immersive Sim": 24,
+    "Realistic": 22,
+    "Military": 20,
+    "Mystery": 18,
+    "Survival Horror": 16,
+    "Multiple Endings": 12
+  }
+}

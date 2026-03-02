@@ -1,0 +1,26 @@
+{
+  "appid": 2311990,
+  "success": true,
+  "tags": {
+    "Rogue-like": 447,
+    "Pool": 446,
+    "Dungeon Crawler": 442,
+    "Rogue-lite": 438,
+    "Strategy": 427,
+    "2D": 422,
+    "Replay Value": 413,
+    "Tactical": 393,
+    "Turn-Based Strategy": 385,
+    "Turn-Based Tactics": 373,
+    "Procedural Generation": 365,
+    "Top-Down": 355,
+    "Perma Death": 350,
+    "Loot": 337,
+    "Action Roguelike": 321,
+    "Roguelike Deckbuilder": 309,
+    "Indie": 300,
+    "Deckbuilding": 294,
+    "Singleplayer": 275,
+    "RPG": 275
+  }
+}

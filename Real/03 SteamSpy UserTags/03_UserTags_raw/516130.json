@@ -1,0 +1,26 @@
+{
+  "appid": 516130,
+  "success": true,
+  "tags": {
+    "Action": 94,
+    "Indie": 88,
+    "Rhythm": 86,
+    "Runner": 82,
+    "Music": 79,
+    "Platformer": 73,
+    "Difficult": 71,
+    "Singleplayer": 68,
+    "Precision Platformer": 67,
+    "Colorful": 64,
+    "Controller": 62,
+    "Funny": 57,
+    "Adventure": 53,
+    "Character Customization": 51,
+    "Great Soundtrack": 46,
+    "Massively Multiplayer": 42,
+    "Side Scroller": 35,
+    "3D": 31,
+    "Multiplayer": 28,
+    "Family Friendly": 27
+  }
+}

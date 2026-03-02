@@ -1,0 +1,26 @@
+{
+  "appid": 361350,
+  "success": true,
+  "tags": {
+    "2D Fighter": 250,
+    "2D Platformer": 245,
+    "Casual": 241,
+    "PvP": 237,
+    "Fighting": 235,
+    "Platformer": 228,
+    "Arcade": 228,
+    "2D": 224,
+    "Funny": 218,
+    "Action": 209,
+    "Pixel Graphics": 201,
+    "Cartoony": 196,
+    "Fantasy": 195,
+    "Pirates": 188,
+    "Cartoon": 182,
+    "Retro": 179,
+    "Combat": 170,
+    "4 Player Local": 169,
+    "Co-op": 154,
+    "Co-op Campaign": 143
+  }
+}

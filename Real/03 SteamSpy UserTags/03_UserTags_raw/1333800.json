@@ -1,0 +1,26 @@
+{
+  "appid": 1333800,
+  "success": true,
+  "tags": {
+    "Simulation": 94,
+    "Casual": 88,
+    "First-Person": 85,
+    "Singleplayer": 82,
+    "Management": 79,
+    "Game Development": 73,
+    "Realistic": 71,
+    "Resource Management": 69,
+    "Indie": 67,
+    "Early Access": 64,
+    "Choices Matter": 62,
+    "Crafting": 58,
+    "Strategy": 55,
+    "Multiplayer": 43,
+    "Sandbox": 38,
+    "Economy": 36,
+    "Tactical": 33,
+    "FPS": 31,
+    "Adventure": 29,
+    "Immersive Sim": 27
+  }
+}

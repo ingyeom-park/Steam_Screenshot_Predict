@@ -1,0 +1,25 @@
+{
+  "appid": 1543430,
+  "success": true,
+  "tags": {
+    "RPG": 199,
+    "Adventure": 190,
+    "JRPG": 164,
+    "Party-Based RPG": 162,
+    "Tactical RPG": 156,
+    "2D": 148,
+    "Cartoony": 139,
+    "Stylized": 130,
+    "Comedy": 123,
+    "Fantasy": 114,
+    "Funny": 104,
+    "Magic": 100,
+    "Modern": 87,
+    "Tactical": 73,
+    "Conversation": 58,
+    "Story Rich": 43,
+    "Singleplayer": 27,
+    "Team-Based": 27,
+    "Indie": 23
+  }
+}

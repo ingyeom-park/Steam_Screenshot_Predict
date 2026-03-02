@@ -1,0 +1,26 @@
+{
+  "appid": 1157220,
+  "success": true,
+  "tags": {
+    "City Builder": 256,
+    "Sandbox": 214,
+    "Building": 207,
+    "Economy": 204,
+    "Management": 193,
+    "Trading": 172,
+    "Isometric": 165,
+    "Strategy": 158,
+    "Historical": 156,
+    "RTS": 154,
+    "Tutorial": 150,
+    "2D": 147,
+    "Simulation": 139,
+    "Hand-drawn": 129,
+    "Moddable": 126,
+    "Resource Management": 124,
+    "Singleplayer": 122,
+    "Indie": 120,
+    "Education": 118,
+    "Colony Sim": 117
+  }
+}

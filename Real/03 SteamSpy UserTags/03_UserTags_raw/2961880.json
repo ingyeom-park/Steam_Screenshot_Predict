@@ -1,0 +1,26 @@
+{
+  "appid": 2961880,
+  "success": true,
+  "tags": {
+    "Online Co-Op": 208,
+    "Multiplayer": 201,
+    "Indie": 197,
+    "First-Person": 194,
+    "Simulation": 192,
+    "Co-op": 186,
+    "Inventory Management": 183,
+    "Resource Management": 181,
+    "Management": 175,
+    "Economy": 168,
+    "Singleplayer": 165,
+    "Sandbox": 163,
+    "Casual": 160,
+    "Relaxing": 157,
+    "Immersive Sim": 150,
+    "Strategy": 142,
+    "3D": 137,
+    "Family Friendly": 137,
+    "Choices Matter": 126,
+    "Retro": 109
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1823710,
+  "success": true,
+  "tags": {
+    "Simulation": 108,
+    "Casual": 102,
+    "Pixel Graphics": 102,
+    "Building": 99,
+    "Singleplayer": 92,
+    "2D": 83,
+    "Life Sim": 77,
+    "City Builder": 72,
+    "Cute": 68,
+    "Strategy": 64,
+    "Indie": 60,
+    "Colony Sim": 44,
+    "Sandbox": 41,
+    "RTS": 40,
+    "2D Platformer": 37,
+    "Real Time Tactics": 36,
+    "Comedy": 33,
+    "Immersive Sim": 32,
+    "Retro": 31,
+    "1990's": 29
+  }
+}

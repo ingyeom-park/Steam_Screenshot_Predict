@@ -1,0 +1,26 @@
+{
+  "appid": 1206430,
+  "success": true,
+  "tags": {
+    "Adventure": 92,
+    "Puzzle": 90,
+    "Exploration": 88,
+    "Indie": 86,
+    "Puzzle-Platformer": 78,
+    "Surreal": 72,
+    "Casual": 50,
+    "First-Person": 50,
+    "Minimalist": 49,
+    "Mystery": 48,
+    "Walking Simulator": 44,
+    "Singleplayer": 42,
+    "Story Rich": 38,
+    "Atmospheric": 26,
+    "Beautiful": 25,
+    "3D": 21,
+    "Narrative": 18,
+    "Great Soundtrack": 17,
+    "Stylized": 16,
+    "Music": 15
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "appid": 1995890,
+  "success": true,
+  "tags": {
+    "Flight": 71,
+    "Racing": 55,
+    "Exploration": 55,
+    "Simulation": 54,
+    "VR": 48,
+    "Immersive Sim": 46,
+    "Action": 41,
+    "Sports": 40,
+    "Physics": 40,
+    "3D": 34,
+    "3D Vision": 32,
+    "First-Person": 31,
+    "Realistic": 29,
+    "Open World": 29,
+    "Third Person": 26,
+    "Indie": 21,
+    "Singleplayer": 17
+  }
+}

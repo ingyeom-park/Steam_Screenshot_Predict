@@ -1,0 +1,26 @@
+{
+  "appid": 701040,
+  "success": true,
+  "tags": {
+    "Twin Stick Shooter": 129,
+    "Shoot 'Em Up": 123,
+    "Side Scroller": 120,
+    "Bullet Hell": 116,
+    "Difficult": 112,
+    "Shooter": 103,
+    "Arcade": 100,
+    "2D": 95,
+    "Controller": 93,
+    "Linear": 89,
+    "Action": 84,
+    "Pixel Graphics": 81,
+    "Colorful": 79,
+    "Indie": 69,
+    "Sci-fi": 64,
+    "Retro": 60,
+    "Dog": 51,
+    "Combat": 44,
+    "Singleplayer": 42,
+    "Local Co-Op": 40
+  }
+}

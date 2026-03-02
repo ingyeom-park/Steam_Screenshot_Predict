@@ -1,0 +1,23 @@
+{
+  "appid": 340580,
+  "success": true,
+  "tags": {
+    "Action": 50,
+    "Indie": 48,
+    "2D": 33,
+    "Hack and Slash": 33,
+    "Swordplay": 31,
+    "Stylized": 26,
+    "Platformer": 24,
+    "Side Scroller": 22,
+    "Puzzle-Platformer": 22,
+    "Ninja": 20,
+    "Beat 'em up": 20,
+    "Singleplayer": 20,
+    "Fantasy": 19,
+    "Assassin": 19,
+    "2D Fighter": 16,
+    "Remake": 14,
+    "Early Access": 5
+  }
+}

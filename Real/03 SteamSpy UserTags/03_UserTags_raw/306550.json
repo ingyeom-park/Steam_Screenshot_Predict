@@ -1,0 +1,14 @@
+{
+  "appid": 306550,
+  "success": true,
+  "tags": {
+    "RPG": 32,
+    "Indie": 29,
+    "Rogue-lite": 20,
+    "Magic": 14,
+    "Rogue-like": 11,
+    "Top-Down": 7,
+    "Action": 6,
+    "Dungeon Crawler": 5
+  }
+}

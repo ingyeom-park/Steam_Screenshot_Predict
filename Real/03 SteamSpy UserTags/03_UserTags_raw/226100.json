@@ -1,0 +1,26 @@
+{
+  "appid": 226100,
+  "success": true,
+  "tags": {
+    "Indie": 71,
+    "Casual": 65,
+    "Strategy": 64,
+    "Action": 58,
+    "Sandbox": 38,
+    "Local Co-Op": 37,
+    "Base-Building": 35,
+    "2D": 29,
+    "Co-op": 27,
+    "Building": 26,
+    "Online Co-Op": 23,
+    "Platformer": 22,
+    "Multiplayer": 22,
+    "Local Multiplayer": 21,
+    "Pixel Graphics": 21,
+    "Exploration": 18,
+    "Survival": 16,
+    "Great Soundtrack": 11,
+    "Tower Defense": 6,
+    "Adventure": 6
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appid": 1575640,
+  "success": true,
+  "tags": {
+    "Action": 76,
+    "Adventure": 65,
+    "Shooter": 53,
+    "2D": 44,
+    "Pixel Graphics": 39,
+    "Shoot 'Em Up": 34,
+    "1980s": 33,
+    "2D Platformer": 32,
+    "Sci-fi": 30,
+    "Old School": 28,
+    "Space": 26,
+    "Fantasy": 23,
+    "Indie": 21,
+    "War": 20,
+    "Futuristic": 19,
+    "Score Attack": 18,
+    "Mars": 16,
+    "Singleplayer": 15,
+    "Arcade": 6
+  }
+}

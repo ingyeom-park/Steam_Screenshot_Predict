@@ -1,0 +1,26 @@
+{
+  "appid": 1509080,
+  "success": true,
+  "tags": {
+    "RPG": 121,
+    "Adventure": 115,
+    "CRPG": 113,
+    "Turn-Based Combat": 110,
+    "Indie": 106,
+    "Pixel Graphics": 98,
+    "Old School": 97,
+    "Fantasy": 92,
+    "Story Rich": 88,
+    "Open World": 83,
+    "Party-Based RPG": 78,
+    "2D": 71,
+    "Top-Down": 66,
+    "8-bit Music": 61,
+    "Dragons": 55,
+    "Magic": 53,
+    "Retro": 49,
+    "Turn-Based Tactics": 47,
+    "Combat": 43,
+    "Conversation": 39
+  }
+}

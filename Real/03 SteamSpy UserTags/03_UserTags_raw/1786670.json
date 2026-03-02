@@ -1,0 +1,26 @@
+{
+  "appid": 1786670,
+  "success": true,
+  "tags": {
+    "Adventure": 197,
+    "Strategy": 191,
+    "RPG": 189,
+    "Turn-Based Strategy": 185,
+    "Party-Based RPG": 181,
+    "Strategy RPG": 174,
+    "2D Platformer": 168,
+    "Exploration": 163,
+    "2D": 157,
+    "Colorful": 151,
+    "1980s": 144,
+    "Drama": 137,
+    "Fantasy": 132,
+    "Story Rich": 131,
+    "Multiple Endings": 128,
+    "Open World": 121,
+    "Combat": 119,
+    "Singleplayer": 114,
+    "Indie": 103,
+    "Turn-Based Tactics": 86
+  }
+}

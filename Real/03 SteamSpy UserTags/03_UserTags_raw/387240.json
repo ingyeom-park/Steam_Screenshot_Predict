@@ -1,0 +1,26 @@
+{
+  "appid": 387240,
+  "success": true,
+  "tags": {
+    "Shoot 'Em Up": 180,
+    "Action": 174,
+    "Indie": 170,
+    "Side Scroller": 168,
+    "RPG": 163,
+    "Strategy": 156,
+    "Bullet Hell": 153,
+    "Arcade": 151,
+    "Adventure": 146,
+    "2D": 142,
+    "Survival": 141,
+    "Singleplayer": 138,
+    "Colony Sim": 126,
+    "Shooter": 125,
+    "Space": 112,
+    "PvP": 102,
+    "Female Protagonist": 101,
+    "Local Co-Op": 99,
+    "Exploration": 93,
+    "Co-op": 85
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 1666250,
+  "success": true,
+  "tags": {
+    "Steampunk": 166,
+    "RPG": 154,
+    "Tactical RPG": 154,
+    "Strategy RPG": 149,
+    "Strategy": 146,
+    "Turn-Based Tactics": 145,
+    "Historical": 140,
+    "Party-Based RPG": 117,
+    "Side Scroller": 108,
+    "Female Protagonist": 100,
+    "3D": 94,
+    "Atmospheric": 86,
+    "Tactical": 72,
+    "Team-Based": 59,
+    "Turn-Based Combat": 46,
+    "Story Rich": 31,
+    "Singleplayer": 29,
+    "Indie": 23
+  }
+}

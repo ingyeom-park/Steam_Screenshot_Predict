@@ -1,0 +1,18 @@
+{
+  "appid": 688770,
+  "success": true,
+  "tags": {
+    "Action": 32,
+    "Casual": 32,
+    "Indie": 30,
+    "Puzzle": 14,
+    "Arcade": 12,
+    "Multiplayer": 10,
+    "Competitive": 10,
+    "Singleplayer": 10,
+    "Local Multiplayer": 10,
+    "Split Screen": 10,
+    "Real-Time with Pause": 9,
+    "Grid-Based Movement": 9
+  }
+}

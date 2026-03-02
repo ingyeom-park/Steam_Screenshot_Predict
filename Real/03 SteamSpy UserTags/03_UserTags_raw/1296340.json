@@ -1,0 +1,26 @@
+{
+  "appid": 1296340,
+  "success": true,
+  "tags": {
+    "Family Friendly": 194,
+    "Local Co-Op": 189,
+    "Cute": 185,
+    "2D Platformer": 183,
+    "Adventure": 177,
+    "Indie": 173,
+    "Pixel Graphics": 171,
+    "Retro": 170,
+    "Comedy": 167,
+    "Dog": 164,
+    "PvP": 161,
+    "2D": 158,
+    "Co-op": 151,
+    "Action": 145,
+    "Platformer": 136,
+    "Multiplayer": 117,
+    "Local Multiplayer": 114,
+    "Singleplayer": 112,
+    "Immersive Sim": 101,
+    "Stealth": 83
+  }
+}

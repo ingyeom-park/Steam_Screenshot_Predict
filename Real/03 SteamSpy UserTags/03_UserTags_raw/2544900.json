@@ -1,0 +1,26 @@
+{
+  "appid": 2544900,
+  "success": true,
+  "tags": {
+    "Platformer": 127,
+    "Adventure": 120,
+    "Action-Adventure": 116,
+    "Action": 114,
+    "Precision Platformer": 83,
+    "2D Platformer": 75,
+    "Hand-drawn": 73,
+    "Family Friendly": 71,
+    "Cartoon": 68,
+    "Psychological": 66,
+    "Emotional": 64,
+    "Fantasy": 62,
+    "RPG": 58,
+    "Quick-Time Events": 57,
+    "Singleplayer": 56,
+    "2D": 54,
+    "Runner": 51,
+    "Cute": 50,
+    "Indie": 48,
+    "Dinosaurs": 28
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 575640,
+  "success": true,
+  "tags": {
+    "Puzzle": 168,
+    "Casual": 160,
+    "Indie": 112,
+    "Fast-Paced": 104,
+    "2D": 103,
+    "Physics": 97,
+    "Short": 93,
+    "Relaxing": 92,
+    "Minimalist": 90,
+    "Puzzle-Platformer": 84,
+    "Point & Click": 83,
+    "Singleplayer": 76,
+    "Cute": 70,
+    "Strategy": 67,
+    "Action": 64,
+    "Sandbox": 59,
+    "Free to Play": 51,
+    "Funny": 48,
+    "Zombies": 46,
+    "Co-op": 35
+  }
+}

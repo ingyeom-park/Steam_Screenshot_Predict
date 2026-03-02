@@ -1,0 +1,22 @@
+{
+  "appid": 1754460,
+  "success": true,
+  "tags": {
+    "RPG": 58,
+    "Exploration": 47,
+    "Hack and Slash": 46,
+    "Party-Based RPG": 46,
+    "JRPG": 41,
+    "2D": 31,
+    "Post-apocalyptic": 30,
+    "Turn-Based Combat": 29,
+    "Class-Based": 25,
+    "Indie": 22,
+    "Retro": 22,
+    "Pixel Graphics": 21,
+    "Resource Management": 20,
+    "Singleplayer": 17,
+    "Controller": 16,
+    "Dungeon Crawler": 9
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "appid": 1790630,
+  "success": true,
+  "tags": {
+    "Strategy": 75,
+    "Card Game": 49,
+    "Turn-Based Strategy": 45,
+    "Fantasy": 41,
+    "Deckbuilding": 38,
+    "Trading Card Game": 32,
+    "Card Battler": 30,
+    "Multiplayer": 29,
+    "2D": 27,
+    "Board Game": 23,
+    "Combat": 22,
+    "Indie": 21,
+    "PvP": 20,
+    "Turn-Based Combat": 18,
+    "Local Multiplayer": 17,
+    "Singleplayer": 15,
+    "Anime": 13
+  }
+}

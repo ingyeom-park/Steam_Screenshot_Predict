@@ -1,0 +1,26 @@
+{
+  "appid": 262450,
+  "success": true,
+  "tags": {
+    "Card Battler": 121,
+    "Casual": 115,
+    "PvE": 112,
+    "Turn-Based": 109,
+    "Card Game": 107,
+    "Strategy": 100,
+    "2D": 97,
+    "Turn-Based Tactics": 91,
+    "Deckbuilding": 86,
+    "Stylized": 83,
+    "Hand-drawn": 81,
+    "Pirates": 80,
+    "Family Friendly": 77,
+    "Singleplayer": 74,
+    "Indie": 69,
+    "Addictive": 52,
+    "Mouse only": 49,
+    "Classic": 45,
+    "Fast-Paced": 43,
+    "Great Soundtrack": 39
+  }
+}

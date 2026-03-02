@@ -1,0 +1,26 @@
+{
+  "appid": 595930,
+  "success": true,
+  "tags": {
+    "Strategy": 161,
+    "Board Game": 155,
+    "Casual": 153,
+    "Indie": 148,
+    "Hex Grid": 142,
+    "Trains": 140,
+    "4 Player Local": 131,
+    "Turn-Based": 126,
+    "Multiplayer": 121,
+    "Singleplayer": 111,
+    "Turn-Based Strategy": 105,
+    "Family Friendly": 100,
+    "Asynchronous Multiplayer": 89,
+    "Local Multiplayer": 78,
+    "Touch-Friendly": 72,
+    "Short": 65,
+    "Colorful": 63,
+    "Relaxing": 61,
+    "2D": 60,
+    "Simulation": 58
+  }
+}

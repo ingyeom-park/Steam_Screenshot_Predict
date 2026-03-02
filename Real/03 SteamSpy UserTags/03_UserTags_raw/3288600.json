@@ -1,0 +1,26 @@
+{
+  "appid": 3288600,
+  "success": true,
+  "tags": {
+    "Horror": 213,
+    "Multiplayer": 207,
+    "Online Co-Op": 203,
+    "Psychological Horror": 200,
+    "Co-op": 192,
+    "Survival Horror": 182,
+    "First-Person": 175,
+    "Action": 169,
+    "Exploration": 167,
+    "Singleplayer": 160,
+    "Adventure": 159,
+    "Casual": 145,
+    "3D": 127,
+    "Action-Adventure": 111,
+    "Indie": 96,
+    "Memes": 84,
+    "Dungeon Crawler": 64,
+    "Character Customization": 45,
+    "Aliens": 29,
+    "Escape Room": 26
+  }
+}

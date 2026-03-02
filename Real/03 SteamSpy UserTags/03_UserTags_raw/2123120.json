@@ -1,0 +1,23 @@
+{
+  "appid": 2123120,
+  "success": true,
+  "tags": {
+    "Casual": 72,
+    "Action": 47,
+    "Action Roguelike": 43,
+    "Tower Defense": 41,
+    "2D Platformer": 37,
+    "Bullet Hell": 33,
+    "2D": 30,
+    "Pixel Graphics": 28,
+    "Medieval": 25,
+    "Tactical": 23,
+    "Indie": 22,
+    "Survival": 22,
+    "Strategy": 21,
+    "Combat": 20,
+    "Hack and Slash": 17,
+    "Choices Matter": 15,
+    "Singleplayer": 13
+  }
+}

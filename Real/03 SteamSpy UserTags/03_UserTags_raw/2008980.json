@@ -1,0 +1,26 @@
+{
+  "appid": 2008980,
+  "success": true,
+  "tags": {
+    "Bullet Hell": 238,
+    "Shoot 'Em Up": 238,
+    "Difficult": 231,
+    "Hack and Slash": 229,
+    "Physics": 226,
+    "Unforgiving": 223,
+    "Arcade": 215,
+    "2D": 211,
+    "Top-Down": 208,
+    "Cyberpunk": 205,
+    "Horror": 202,
+    "Action": 200,
+    "Controller": 197,
+    "Simulation": 182,
+    "Colorful": 173,
+    "Pixel Graphics": 171,
+    "Dark Fantasy": 159,
+    "Gothic": 151,
+    "Sci-fi": 150,
+    "Singleplayer": 148
+  }
+}

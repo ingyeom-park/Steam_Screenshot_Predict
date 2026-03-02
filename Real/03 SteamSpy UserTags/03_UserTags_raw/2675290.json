@@ -1,0 +1,26 @@
+{
+  "appid": 2675290,
+  "success": true,
+  "tags": {
+    "Battle Royale": 156,
+    "Multiplayer": 151,
+    "Action": 147,
+    "PvP": 142,
+    "3D Platformer": 140,
+    "Party Game": 133,
+    "Arcade": 127,
+    "Blood": 127,
+    "Psychological Horror": 123,
+    "Parkour": 117,
+    "Indie": 107,
+    "Gore": 106,
+    "Sci-fi": 100,
+    "Online Co-Op": 98,
+    "Realistic": 95,
+    "Character Customization": 87,
+    "Third Person": 74,
+    "Singleplayer": 65,
+    "Controller": 63,
+    "Racing": 58
+  }
+}

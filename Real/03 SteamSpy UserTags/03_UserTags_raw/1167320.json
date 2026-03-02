@@ -1,0 +1,21 @@
+{
+  "appid": 1167320,
+  "success": true,
+  "tags": {
+    "Action": 36,
+    "Strategy": 34,
+    "Adventure": 34,
+    "Indie": 34,
+    "RPG": 31,
+    "Tower Defense": 31,
+    "First-Person": 19,
+    "Sci-fi": 19,
+    "FPS": 17,
+    "Survival": 16,
+    "Sandbox": 14,
+    "Resource Management": 14,
+    "Singleplayer": 13,
+    "Difficult": 11,
+    "RTS": 9
+  }
+}

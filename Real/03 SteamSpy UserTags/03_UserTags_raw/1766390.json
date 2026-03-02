@@ -1,0 +1,26 @@
+{
+  "appid": 1766390,
+  "success": true,
+  "tags": {
+    "Rogue-like": 124,
+    "Strategy": 118,
+    "Card Game": 116,
+    "Dungeon Crawler": 112,
+    "Turn-Based Tactics": 109,
+    "Turn-Based Strategy": 103,
+    "Casual": 101,
+    "Choices Matter": 99,
+    "Procedural Generation": 94,
+    "Dark Fantasy": 88,
+    "Turn-Based Combat": 84,
+    "Pixel Graphics": 76,
+    "Minimalist": 64,
+    "Indie": 53,
+    "Singleplayer": 42,
+    "Rogue-lite": 39,
+    "2D": 32,
+    "Roguelike Deckbuilder": 29,
+    "Exploration": 28,
+    "Competitive": 26
+  }
+}

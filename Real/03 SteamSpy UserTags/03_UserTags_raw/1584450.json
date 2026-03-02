@@ -1,0 +1,26 @@
+{
+  "appid": 1584450,
+  "success": true,
+  "tags": {
+    "Indie": 161,
+    "Horror": 158,
+    "Walking Simulator": 153,
+    "Dark": 150,
+    "Atmospheric": 146,
+    "Exploration": 139,
+    "2D": 137,
+    "Lovecraftian": 132,
+    "Survival Horror": 129,
+    "Story Rich": 126,
+    "Narration": 122,
+    "Nature": 115,
+    "6DOF": 112,
+    "Open World": 101,
+    "Singleplayer": 99,
+    "Choices Matter": 96,
+    "Minimalist": 91,
+    "Stylized": 77,
+    "Surreal": 74,
+    "Adventure": 51
+  }
+}

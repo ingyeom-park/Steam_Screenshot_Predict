@@ -1,0 +1,26 @@
+{
+  "appid": 1441180,
+  "success": true,
+  "tags": {
+    "Adventure": 121,
+    "Cyberpunk": 103,
+    "Simulation": 99,
+    "Sci-fi": 91,
+    "Physics": 84,
+    "Story Rich": 76,
+    "Puzzle": 71,
+    "Exploration": 64,
+    "Investigation": 61,
+    "3D": 58,
+    "First-Person": 56,
+    "Indie": 54,
+    "Casual": 52,
+    "Science": 50,
+    "Philosophical": 47,
+    "Singleplayer": 44,
+    "Early Access": 31,
+    "Action": 29,
+    "Space Sim": 27,
+    "Colorful": 25
+  }
+}

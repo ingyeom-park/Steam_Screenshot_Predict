@@ -1,0 +1,26 @@
+{
+  "appid": 2191480,
+  "success": true,
+  "tags": {
+    "Simulation": 219,
+    "Casual": 210,
+    "Strategy": 206,
+    "Flight": 184,
+    "RTS": 172,
+    "Colony Sim": 165,
+    "City Builder": 157,
+    "2D Platformer": 147,
+    "2D": 142,
+    "Cute": 133,
+    "Pixel Graphics": 128,
+    "Top-Down": 118,
+    "Retro": 106,
+    "Building": 92,
+    "Management": 78,
+    "Economy": 60,
+    "Controller": 43,
+    "Singleplayer": 29,
+    "Base-Building": 27,
+    "Indie": 22
+  }
+}

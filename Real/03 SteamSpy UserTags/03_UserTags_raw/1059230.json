@@ -1,0 +1,26 @@
+{
+  "appid": 1059230,
+  "success": true,
+  "tags": {
+    "Action": 150,
+    "Adventure": 136,
+    "Indie": 125,
+    "2D": 55,
+    "Pixel Graphics": 48,
+    "Historical": 38,
+    "War": 37,
+    "Military": 37,
+    "Cold War": 34,
+    "Great Soundtrack": 33,
+    "Difficult": 32,
+    "Singleplayer": 31,
+    "Platformer": 30,
+    "Atmospheric": 26,
+    "Story Rich": 24,
+    "Retro": 23,
+    "Wargame": 23,
+    "Exploration": 22,
+    "America": 21,
+    "Narration": 20
+  }
+}

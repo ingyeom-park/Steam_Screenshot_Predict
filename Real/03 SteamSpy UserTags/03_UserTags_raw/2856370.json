@@ -1,0 +1,26 @@
+{
+  "appid": 2856370,
+  "success": true,
+  "tags": {
+    "Cozy": 222,
+    "Wholesome": 215,
+    "Cute": 214,
+    "Exploration": 211,
+    "Adventure": 205,
+    "Indie": 196,
+    "Casual": 187,
+    "Rogue-like": 180,
+    "Relaxing": 176,
+    "Early Access": 171,
+    "Strategy": 164,
+    "Survival": 162,
+    "Cartoony": 160,
+    "Colorful": 154,
+    "Family Friendly": 143,
+    "Controller": 135,
+    "Procedural Generation": 131,
+    "Singleplayer": 121,
+    "Isometric": 69,
+    "Grid-Based Movement": 60
+  }
+}

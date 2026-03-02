@@ -1,0 +1,26 @@
+{
+  "appid": 556960,
+  "success": true,
+  "tags": {
+    "Racing": 113,
+    "Action": 108,
+    "Combat Racing": 104,
+    "Futuristic": 102,
+    "Sci-fi": 97,
+    "Fast-Paced": 90,
+    "Difficult": 88,
+    "3D": 87,
+    "Psychedelic": 83,
+    "Procedural Generation": 79,
+    "Indie": 75,
+    "Arcade": 72,
+    "Shooter": 69,
+    "Shoot 'Em Up": 68,
+    "Atmospheric": 57,
+    "Driving": 54,
+    "Third Person": 53,
+    "Singleplayer": 51,
+    "Electronic": 50,
+    "Early Access": 24
+  }
+}

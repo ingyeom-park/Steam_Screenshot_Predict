@@ -1,0 +1,25 @@
+{
+  "appid": 2481930,
+  "success": true,
+  "tags": {
+    "Action": 186,
+    "Horror": 179,
+    "VR": 174,
+    "Strategy": 161,
+    "Adventure": 155,
+    "Hidden Object": 145,
+    "Puzzle": 138,
+    "Time Management": 130,
+    "3D": 122,
+    "Parkour": 116,
+    "Psychological Horror": 105,
+    "Stealth": 100,
+    "Survival Horror": 89,
+    "Thriller": 73,
+    "Exploration": 59,
+    "Singleplayer": 42,
+    "Physics": 27,
+    "Underground": 25,
+    "Indie": 21
+  }
+}

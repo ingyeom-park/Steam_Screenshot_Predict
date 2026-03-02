@@ -1,0 +1,26 @@
+{
+  "appid": 1832130,
+  "success": true,
+  "tags": {
+    "Difficult": 156,
+    "Platformer": 150,
+    "Puzzle": 144,
+    "God Game": 143,
+    "Pixel Graphics": 141,
+    "Logic": 134,
+    "Physics": 130,
+    "2D Platformer": 127,
+    "Puzzle-Platformer": 125,
+    "Controller": 117,
+    "Story Rich": 112,
+    "Action": 109,
+    "Adventure": 104,
+    "Singleplayer": 84,
+    "2D": 78,
+    "Indie": 73,
+    "Sci-fi": 63,
+    "Science": 61,
+    "Education": 58,
+    "Dynamic Narration": 57
+  }
+}

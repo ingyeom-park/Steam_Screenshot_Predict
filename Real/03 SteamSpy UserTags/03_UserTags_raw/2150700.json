@@ -1,0 +1,26 @@
+{
+  "appid": 2150700,
+  "success": true,
+  "tags": {
+    "Casual": 162,
+    "Action": 156,
+    "Singleplayer": 153,
+    "Arcade": 150,
+    "Action-Adventure": 147,
+    "Clicker": 140,
+    "2D": 136,
+    "Cartoon": 134,
+    "Cartoony": 128,
+    "Colorful": 126,
+    "Cute": 122,
+    "Indie": 116,
+    "Fantasy": 104,
+    "Funny": 96,
+    "Linear": 94,
+    "Magic": 87,
+    "Adventure": 72,
+    "Beat 'em up": 63,
+    "Anime": 61,
+    "Cinematic": 58
+  }
+}

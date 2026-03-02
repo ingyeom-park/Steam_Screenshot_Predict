@@ -1,0 +1,26 @@
+{
+  "appid": 984470,
+  "success": true,
+  "tags": {
+    "Visual Novel": 123,
+    "Drama": 115,
+    "Fantasy": 111,
+    "Linear": 104,
+    "Stylized": 104,
+    "Anime": 96,
+    "Simulation": 95,
+    "Romance": 93,
+    "2D": 86,
+    "Indie": 81,
+    "Singleplayer": 79,
+    "Casual": 73,
+    "Dating Sim": 64,
+    "Cartoony": 59,
+    "Atmospheric": 52,
+    "Historical": 43,
+    "Modern": 41,
+    "Short": 38,
+    "Nudity": 28,
+    "Sexual Content": 26
+  }
+}

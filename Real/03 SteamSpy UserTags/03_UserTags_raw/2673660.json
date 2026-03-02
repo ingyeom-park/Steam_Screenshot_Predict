@@ -1,0 +1,26 @@
+{
+  "appid": 2673660,
+  "success": true,
+  "tags": {
+    "Adventure": 389,
+    "Action": 384,
+    "FPS": 367,
+    "RPG": 357,
+    "Action RPG": 348,
+    "Immersive Sim": 346,
+    "Dungeon Crawler": 344,
+    "Survival Horror": 337,
+    "Lovecraftian": 314,
+    "Exploration": 309,
+    "Horror": 297,
+    "First-Person": 283,
+    "Atmospheric": 270,
+    "Submarine": 256,
+    "Cold War": 240,
+    "Immersive": 240,
+    "Story Rich": 222,
+    "Supernatural": 203,
+    "Indie": 187,
+    "Character Customization": 164
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 2180350,
+  "success": true,
+  "tags": {
+    "Casual": 72,
+    "Strategy": 66,
+    "Card Game": 43,
+    "JRPG": 40,
+    "Rogue-like": 38,
+    "2D Platformer": 31,
+    "Card Battler": 29,
+    "Trading Card Game": 27,
+    "2D": 25,
+    "Anime": 23,
+    "Cute": 21,
+    "Indie": 20,
+    "Funny": 19,
+    "Turn-Based Combat": 17,
+    "Deckbuilding": 15,
+    "Singleplayer": 13,
+    "Roguelike Deckbuilder": 11,
+    "Sexual Content": 6
+  }
+}

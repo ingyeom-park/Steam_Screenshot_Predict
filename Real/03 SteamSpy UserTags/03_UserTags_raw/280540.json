@@ -1,0 +1,26 @@
+{
+  "appid": 280540,
+  "success": true,
+  "tags": {
+    "Turn-Based Tactics": 198,
+    "Turn-Based Strategy": 191,
+    "Turn-Based Combat": 190,
+    "Base-Building": 186,
+    "Management": 181,
+    "Turn-Based": 174,
+    "Character Customization": 171,
+    "Casual": 170,
+    "Strategy": 161,
+    "Isometric": 154,
+    "Story Rich": 152,
+    "Simulation": 147,
+    "Pixel Graphics": 140,
+    "Tactical": 130,
+    "Atmospheric": 121,
+    "Comedy": 117,
+    "1990's": 108,
+    "Retro": 103,
+    "Singleplayer": 91,
+    "Indie": 87
+  }
+}

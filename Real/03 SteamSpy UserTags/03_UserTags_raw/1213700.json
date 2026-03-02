@@ -1,0 +1,26 @@
+{
+  "appid": 1213700,
+  "success": true,
+  "tags": {
+    "Adventure": 156,
+    "Indie": 135,
+    "Casual": 110,
+    "Exploration": 60,
+    "Relaxing": 54,
+    "Fox": 53,
+    "Puzzle": 51,
+    "Walking Simulator": 40,
+    "Atmospheric": 39,
+    "Singleplayer": 34,
+    "Experience": 34,
+    "Beautiful": 33,
+    "Great Soundtrack": 32,
+    "3D": 29,
+    "Third Person": 20,
+    "3D Platformer": 11,
+    "Platformer": 9,
+    "Fantasy": 7,
+    "Open World": 7,
+    "Cute": 5
+  }
+}

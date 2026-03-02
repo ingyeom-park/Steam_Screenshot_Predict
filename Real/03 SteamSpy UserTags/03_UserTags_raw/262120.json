@@ -1,0 +1,23 @@
+{
+  "appid": 262120,
+  "success": true,
+  "tags": {
+    "Tower Defense": 78,
+    "Action": 68,
+    "Strategy": 65,
+    "Casual": 41,
+    "Indie": 35,
+    "Multiplayer": 34,
+    "Simulation": 32,
+    "Co-op": 26,
+    "Cold War": 21,
+    "Shooter": 19,
+    "War": 16,
+    "Singleplayer": 13,
+    "Arcade": 12,
+    "Local Co-Op": 10,
+    "World War I": 9,
+    "RTS": 5,
+    "World War II": 5
+  }
+}

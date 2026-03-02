@@ -1,0 +1,26 @@
+{
+  "appid": 2756470,
+  "success": true,
+  "tags": {
+    "Simulation": 249,
+    "Game Development": 235,
+    "Economy": 225,
+    "Management": 220,
+    "Capitalism": 209,
+    "Casual": 208,
+    "Education": 200,
+    "Strategy": 195,
+    "Character Customization": 194,
+    "Sandbox": 168,
+    "Team-Based": 156,
+    "Resource Management": 144,
+    "Point & Click": 142,
+    "Isometric": 130,
+    "Relaxing": 115,
+    "3D": 98,
+    "Singleplayer": 83,
+    "Immersive Sim": 63,
+    "Indie": 45,
+    "Stylized": 43
+  }
+}

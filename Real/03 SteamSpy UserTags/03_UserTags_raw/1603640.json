@@ -1,0 +1,26 @@
+{
+  "appid": 1603640,
+  "success": true,
+  "tags": {
+    "Adventure": 245,
+    "Puzzle": 234,
+    "Indie": 231,
+    "Point & Click": 212,
+    "Casual": 202,
+    "Exploration": 193,
+    "Hidden Object": 185,
+    "3D": 172,
+    "First-Person": 165,
+    "Realistic": 152,
+    "Atmospheric": 141,
+    "Detective": 131,
+    "Historical": 129,
+    "Logic": 115,
+    "Mystery": 102,
+    "Time Travel": 83,
+    "Story Rich": 69,
+    "Singleplayer": 52,
+    "Escape Room": 39,
+    "Strategy": 26
+  }
+}

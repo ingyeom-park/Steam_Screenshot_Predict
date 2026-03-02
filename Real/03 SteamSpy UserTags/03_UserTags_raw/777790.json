@@ -1,0 +1,13 @@
+{
+  "appid": 777790,
+  "success": true,
+  "tags": {
+    "Action": 37,
+    "Indie": 34,
+    "Adventure": 32,
+    "Strategy": 20,
+    "Bullet Hell": 17,
+    "Zombies": 15,
+    "Casual": 14
+  }
+}

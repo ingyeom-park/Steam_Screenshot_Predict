@@ -1,0 +1,26 @@
+{
+  "appid": 91600,
+  "success": true,
+  "tags": {
+    "Tower Defense": 337,
+    "FPS": 190,
+    "Strategy": 188,
+    "Co-op": 164,
+    "Action": 157,
+    "Indie": 136,
+    "Sci-fi": 101,
+    "Multiplayer": 86,
+    "First-Person": 86,
+    "Online Co-Op": 85,
+    "Shooter": 84,
+    "Female Protagonist": 81,
+    "Singleplayer": 64,
+    "Casual": 56,
+    "Great Soundtrack": 41,
+    "Futuristic": 27,
+    "Adventure": 22,
+    "Tactical": 20,
+    "Survival": 17,
+    "Difficult": 10
+  }
+}

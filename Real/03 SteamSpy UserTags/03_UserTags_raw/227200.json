@@ -1,0 +1,24 @@
+{
+  "appid": 227200,
+  "success": true,
+  "tags": {
+    "Sci-fi": 114,
+    "Adventure": 110,
+    "Indie": 92,
+    "Exploration": 91,
+    "Platformer": 84,
+    "Puzzle": 74,
+    "Action": 47,
+    "Atmospheric": 47,
+    "Singleplayer": 47,
+    "Metroidvania": 43,
+    "Story Rich": 43,
+    "Mars": 32,
+    "2D": 30,
+    "Multiple Endings": 30,
+    "Well-Written": 29,
+    "Nature": 28,
+    "Side Scroller": 14,
+    "Space": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1351290,
+  "success": true,
+  "tags": {
+    "Indie": 132,
+    "Horror": 127,
+    "Investigation": 122,
+    "Survival Horror": 118,
+    "FPS": 115,
+    "PvE": 109,
+    "Casual": 105,
+    "Tutorial": 101,
+    "Platformer": 99,
+    "Survival": 95,
+    "Point & Click": 93,
+    "Action RPG": 92,
+    "Action-Adventure": 87,
+    "Singleplayer": 85,
+    "Underground": 82,
+    "Strategy": 79,
+    "3D": 77,
+    "First-Person": 75,
+    "Story Rich": 71,
+    "Stealth": 68
+  }
+}

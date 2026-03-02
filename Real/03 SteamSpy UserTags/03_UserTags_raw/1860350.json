@@ -1,0 +1,26 @@
+{
+  "appid": 1860350,
+  "success": true,
+  "tags": {
+    "Precision Platformer": 270,
+    "Indie": 268,
+    "Relaxing": 262,
+    "First-Person": 257,
+    "FPS": 252,
+    "3D Platformer": 246,
+    "Racing": 241,
+    "Sports": 236,
+    "Difficult": 146,
+    "Casual": 144,
+    "Action": 140,
+    "Parkour": 133,
+    "Platformer": 130,
+    "Shooter": 123,
+    "Surreal": 122,
+    "Arcade": 118,
+    "Physics": 115,
+    "Minimalist": 110,
+    "Stylized": 107,
+    "Singleplayer": 105
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 70000,
+  "success": true,
+  "tags": {
+    "Dinosaurs": 385,
+    "Multiplayer": 215,
+    "Action": 207,
+    "World War II": 197,
+    "FPS": 182,
+    "Indie": 143,
+    "Shooter": 128,
+    "First-Person": 122,
+    "War": 97,
+    "Comedy": 72,
+    "Funny": 68,
+    "Third Person": 63,
+    "Alternate History": 59,
+    "Co-op": 43,
+    "Survival": 39,
+    "Historical": 36,
+    "PvP": 34,
+    "Third-Person Shooter": 29,
+    "Gore": 26,
+    "Open World": 18
+  }
+}

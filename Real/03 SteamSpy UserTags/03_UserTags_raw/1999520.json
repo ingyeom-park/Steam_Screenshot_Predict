@@ -1,0 +1,26 @@
+{
+  "appid": 1999520,
+  "success": true,
+  "tags": {
+    "Puzzle-Platformer": 227,
+    "Cats": 220,
+    "Adventure": 214,
+    "Cute": 214,
+    "Puzzle": 204,
+    "Indie": 202,
+    "Pixel Graphics": 202,
+    "Platformer": 191,
+    "Singleplayer": 183,
+    "Multiplayer": 180,
+    "Local Co-Op": 176,
+    "Funny": 174,
+    "Local Multiplayer": 171,
+    "2D Platformer": 166,
+    "Cartoon": 163,
+    "Physics": 159,
+    "Controller": 153,
+    "Science": 145,
+    "Fantasy": 140,
+    "Hidden Object": 135
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1906140,
+  "success": true,
+  "tags": {
+    "Casual": 85,
+    "Puzzle": 55,
+    "Point & Click": 55,
+    "Tabletop": 50,
+    "Education": 47,
+    "Indie": 43,
+    "Clicker": 41,
+    "Hidden Object": 41,
+    "2D": 39,
+    "Minimalist": 37,
+    "Hand-drawn": 35,
+    "Stylized": 33,
+    "Family Friendly": 31,
+    "Logic": 28,
+    "Controller": 26,
+    "Singleplayer": 25,
+    "Atmospheric": 22,
+    "Exploration": 20,
+    "Relaxing": 12,
+    "Side Scroller": 10
+  }
+}

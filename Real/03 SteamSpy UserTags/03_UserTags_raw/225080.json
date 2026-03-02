@@ -1,0 +1,26 @@
+{
+  "appid": 225080,
+  "success": true,
+  "tags": {
+    "Adventure": 944,
+    "Atmospheric": 695,
+    "Story Rich": 589,
+    "Controller": 564,
+    "Indie": 525,
+    "Emotional": 483,
+    "Puzzle": 452,
+    "Short": 411,
+    "Fantasy": 404,
+    "Singleplayer": 348,
+    "Beautiful": 268,
+    "Great Soundtrack": 221,
+    "Local Co-Op": 164,
+    "Multiplayer": 157,
+    "Action": 151,
+    "Platformer": 137,
+    "Third Person": 135,
+    "Casual": 121,
+    "Walking Simulator": 59,
+    "3D Vision": 54
+  }
+}

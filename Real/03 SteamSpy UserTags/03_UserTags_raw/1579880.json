@@ -1,0 +1,26 @@
+{
+  "appid": 1579880,
+  "success": true,
+  "tags": {
+    "VR": 404,
+    "Action": 394,
+    "Shooter": 378,
+    "Physics": 356,
+    "Singleplayer": 352,
+    "First-Person": 349,
+    "FPS": 337,
+    "Indie": 333,
+    "Rogue-lite": 328,
+    "Atmospheric": 321,
+    "Rogue-like": 319,
+    "Tactical": 317,
+    "Violent": 317,
+    "Realistic": 304,
+    "RPG": 302,
+    "Procedural Generation": 299,
+    "Combat": 297,
+    "Adventure": 293,
+    "Souls-like": 267,
+    "Magic": 264
+  }
+}

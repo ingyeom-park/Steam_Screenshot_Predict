@@ -1,0 +1,26 @@
+{
+  "appid": 1162700,
+  "success": true,
+  "tags": {
+    "Singleplayer": 213,
+    "Hacking": 194,
+    "Typing": 182,
+    "Story Rich": 177,
+    "Atmospheric": 172,
+    "Turn-Based Strategy": 168,
+    "Strategy RPG": 158,
+    "Minimalist": 155,
+    "Strategy": 149,
+    "Crime": 140,
+    "Indie": 139,
+    "Sci-fi": 117,
+    "Tactical RPG": 109,
+    "Action": 106,
+    "Programming": 100,
+    "Turn-Based Tactics": 95,
+    "RPG": 91,
+    "Experimental": 67,
+    "3D": 66,
+    "Investigation": 64
+  }
+}

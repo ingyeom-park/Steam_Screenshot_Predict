@@ -1,0 +1,26 @@
+{
+  "appid": 348300,
+  "success": true,
+  "tags": {
+    "Puzzle": 160,
+    "Strategy": 160,
+    "Sokoban": 153,
+    "Difficult": 148,
+    "Arcade": 143,
+    "2D": 132,
+    "Top-Down": 128,
+    "Pixel Graphics": 122,
+    "Level Editor": 117,
+    "Retro": 114,
+    "1990's": 107,
+    "Old School": 103,
+    "Grid-Based Movement": 98,
+    "Singleplayer": 94,
+    "Indie": 69,
+    "Reboot": 51,
+    "Sequel": 41,
+    "Classic": 38,
+    "Cult Classic": 32,
+    "Casual": 30
+  }
+}

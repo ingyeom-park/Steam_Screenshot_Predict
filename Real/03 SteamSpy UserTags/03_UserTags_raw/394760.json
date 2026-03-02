@@ -1,0 +1,26 @@
+{
+  "appid": 394760,
+  "success": true,
+  "tags": {
+    "Action": 106,
+    "Zombies": 95,
+    "FPS": 91,
+    "Co-op": 91,
+    "Horror": 85,
+    "Indie": 80,
+    "Survival": 75,
+    "RPG": 70,
+    "Multiplayer": 65,
+    "Shooter": 54,
+    "Gore": 51,
+    "Sci-fi": 48,
+    "Singleplayer": 45,
+    "First-Person": 41,
+    "PvP": 39,
+    "Loot": 14,
+    "Open World": 11,
+    "Online Co-Op": 10,
+    "Great Soundtrack": 9,
+    "Early Access": 9
+  }
+}

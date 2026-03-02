@@ -1,0 +1,26 @@
+{
+  "appid": 2096080,
+  "success": true,
+  "tags": {
+    "Ninja": 214,
+    "Unforgiving": 209,
+    "Pixel Graphics": 207,
+    "Action": 203,
+    "Story Rich": 196,
+    "Casual": 194,
+    "Quick-Time Events": 191,
+    "Singleplayer": 167,
+    "2D Platformer": 161,
+    "Indie": 159,
+    "Action RTS": 144,
+    "Beat 'em up": 125,
+    "Cyberpunk": 124,
+    "Hack and Slash": 109,
+    "Hero Shooter": 93,
+    "Short": 80,
+    "Shoot 'Em Up": 60,
+    "Difficult": 46,
+    "Stealth": 25,
+    "Survival": 23
+  }
+}

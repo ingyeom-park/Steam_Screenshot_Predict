@@ -1,0 +1,26 @@
+{
+  "appid": 1488810,
+  "success": true,
+  "tags": {
+    "Adventure": 292,
+    "Action": 288,
+    "Indie": 282,
+    "Gore": 280,
+    "Violent": 277,
+    "Third-Person Shooter": 271,
+    "Puzzle": 267,
+    "Third Person": 262,
+    "Zombies": 257,
+    "Survival Horror": 255,
+    "Thriller": 251,
+    "Detective": 247,
+    "Horror": 245,
+    "Story Rich": 240,
+    "Singleplayer": 234,
+    "Action-Adventure": 231,
+    "Shooter": 229,
+    "Choose Your Own Adventure": 224,
+    "Idler": 219,
+    "Hack and Slash": 218
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 206690,
+  "success": true,
+  "tags": {
+    "Tower Defense": 120,
+    "Strategy": 112,
+    "Casual": 109,
+    "Indie": 106,
+    "World War II": 103,
+    "2D": 97,
+    "War": 95,
+    "Military": 92,
+    "Singleplayer": 88,
+    "Top-Down": 85,
+    "Difficult": 79,
+    "Touch-Friendly": 72,
+    "Action": 64,
+    "Turn-Based Strategy": 56,
+    "Wargame": 53,
+    "Minimalist": 46,
+    "Historical": 42,
+    "Crowdfunded": 34,
+    "Gaming": 30,
+    "Sequel": 28
+  }
+}

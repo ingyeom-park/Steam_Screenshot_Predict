@@ -1,0 +1,25 @@
+{
+  "appid": 1424710,
+  "success": true,
+  "tags": {
+    "CRPG": 188,
+    "RPG": 177,
+    "Dungeon Crawler": 177,
+    "Turn-Based": 171,
+    "Party-Based RPG": 166,
+    "Strategy": 162,
+    "Turn-Based Strategy": 157,
+    "2D": 137,
+    "Isometric": 131,
+    "Story Rich": 119,
+    "Adventure": 111,
+    "Turn-Based Combat": 110,
+    "Fantasy": 105,
+    "Grid-Based Movement": 78,
+    "Old School": 63,
+    "Indie": 53,
+    "Retro": 46,
+    "Singleplayer": 33,
+    "Creature Collector": 5
+  }
+}

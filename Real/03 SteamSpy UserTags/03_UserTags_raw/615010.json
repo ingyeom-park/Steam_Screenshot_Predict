@@ -1,0 +1,26 @@
+{
+  "appid": 615010,
+  "success": true,
+  "tags": {
+    "Vikings": 142,
+    "Blood": 137,
+    "Beat 'em up": 134,
+    "Fighting": 132,
+    "Dungeon Crawler": 127,
+    "Hack and Slash": 121,
+    "Gore": 117,
+    "Violent": 115,
+    "Top-Down": 113,
+    "Indie": 111,
+    "Combat": 110,
+    "Difficult": 106,
+    "Action": 104,
+    "Action RPG": 100,
+    "Adventure": 94,
+    "Fantasy": 88,
+    "Isometric": 86,
+    "Singleplayer": 82,
+    "Rogue-lite": 82,
+    "Magic": 78
+  }
+}

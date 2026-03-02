@@ -1,0 +1,26 @@
+{
+  "appid": 1153200,
+  "success": true,
+  "tags": {
+    "Indie": 232,
+    "RPG": 226,
+    "Adventure": 223,
+    "Strategy": 219,
+    "JRPG": 96,
+    "RPGMaker": 92,
+    "Singleplayer": 90,
+    "Action": 84,
+    "Casual": 83,
+    "2D": 79,
+    "Action RPG": 79,
+    "Pixel Graphics": 71,
+    "Top-Down": 62,
+    "Retro": 52,
+    "Dark": 42,
+    "Funny": 40,
+    "Medieval": 38,
+    "Story Rich": 36,
+    "Tactical": 34,
+    "Turn-Based Combat": 33
+  }
+}

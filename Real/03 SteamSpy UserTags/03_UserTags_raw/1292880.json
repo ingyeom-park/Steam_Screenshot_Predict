@@ -1,0 +1,26 @@
+{
+  "appid": 1292880,
+  "success": true,
+  "tags": {
+    "Bullet Time": 228,
+    "Action": 220,
+    "Gore": 217,
+    "Violent": 214,
+    "Indie": 212,
+    "Blood": 207,
+    "2D": 203,
+    "Assassin": 199,
+    "Platformer": 191,
+    "2D Platformer": 191,
+    "Singleplayer": 186,
+    "Shooter": 180,
+    "Stealth": 172,
+    "Arcade": 170,
+    "Bullet Hell": 160,
+    "Side Scroller": 146,
+    "Minimalist": 133,
+    "Top-Down": 118,
+    "Noir": 101,
+    "Military": 82
+  }
+}

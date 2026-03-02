@@ -1,0 +1,26 @@
+{
+  "appid": 1181610,
+  "success": true,
+  "tags": {
+    "Boss Rush": 141,
+    "Bullet Hell": 136,
+    "Fast-Paced": 133,
+    "Twin Stick Shooter": 129,
+    "Difficult": 125,
+    "Action": 119,
+    "Shoot 'Em Up": 118,
+    "Arcade": 116,
+    "Indie": 115,
+    "Controller": 111,
+    "Shooter": 105,
+    "Minimalist": 99,
+    "2D": 96,
+    "Arena Shooter": 92,
+    "Pixel Graphics": 83,
+    "Combat": 68,
+    "Retro": 53,
+    "Singleplayer": 38,
+    "Cartoony": 29,
+    "Experimental": 27
+  }
+}

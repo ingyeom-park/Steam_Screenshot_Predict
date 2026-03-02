@@ -1,0 +1,26 @@
+{
+  "appid": 573120,
+  "success": true,
+  "tags": {
+    "RPG": 155,
+    "Strategy": 132,
+    "Survival": 131,
+    "Adventure": 130,
+    "Simulation": 122,
+    "Indie": 108,
+    "Turn-Based": 92,
+    "Turn-Based Combat": 80,
+    "Resource Management": 73,
+    "Singleplayer": 53,
+    "Perma Death": 49,
+    "2D": 42,
+    "Difficult": 41,
+    "Atmospheric": 40,
+    "Management": 34,
+    "Vikings": 32,
+    "Violent": 21,
+    "Story Rich": 7,
+    "Choices Matter": 7,
+    "Crafting": 7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1664200,
+  "success": true,
+  "tags": {
+    "Action": 149,
+    "2D Fighter": 137,
+    "Arcade": 134,
+    "Card Battler": 131,
+    "Bullet Hell": 120,
+    "Pixel Graphics": 115,
+    "2D": 114,
+    "Cute": 106,
+    "Magic": 100,
+    "Sci-fi": 99,
+    "Combat": 98,
+    "Indie": 96,
+    "Deckbuilding": 78,
+    "PvP": 76,
+    "Grid-Based Movement": 75,
+    "Controller": 72,
+    "Multiplayer": 68,
+    "Anime": 59,
+    "Card Game": 58,
+    "Fighting": 55
+  }
+}

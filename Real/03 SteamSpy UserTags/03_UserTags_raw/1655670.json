@@ -1,0 +1,26 @@
+{
+  "appid": 1655670,
+  "success": true,
+  "tags": {
+    "Puzzle": 136,
+    "Platformer": 134,
+    "Grid-Based Movement": 123,
+    "Adventure": 119,
+    "Sokoban": 115,
+    "Logic": 110,
+    "Exploration": 101,
+    "Atmospheric": 94,
+    "Casual": 90,
+    "Mystery": 87,
+    "Top-Down": 84,
+    "Relaxing": 73,
+    "Indie": 71,
+    "Isometric": 68,
+    "Underground": 65,
+    "Linear": 57,
+    "Singleplayer": 48,
+    "3D": 43,
+    "2.5D": 37,
+    "Strategy": 30
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1020730,
+  "success": true,
+  "tags": {
+    "Turn-Based Combat": 278,
+    "Dark Fantasy": 266,
+    "RPG": 265,
+    "Strategy": 260,
+    "Fantasy": 253,
+    "Turn-Based": 247,
+    "Singleplayer": 240,
+    "Character Customization": 237,
+    "Dark": 231,
+    "Indie": 223,
+    "2D": 217,
+    "Dungeon Crawler": 212,
+    "Loot": 206,
+    "Inventory Management": 194,
+    "Crafting": 186,
+    "Action RPG": 181,
+    "Medieval": 174,
+    "Rogue-lite": 172,
+    "Tactical RPG": 169,
+    "Hack and Slash": 168
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 747690,
+  "success": true,
+  "tags": {
+    "VR": 154,
+    "Horror": 147,
+    "Singleplayer": 144,
+    "Atmospheric": 141,
+    "Indie": 136,
+    "Survival Horror": 129,
+    "Adventure": 125,
+    "Action-Adventure": 121,
+    "Werewolves": 119,
+    "Gore": 115,
+    "First-Person": 109,
+    "Survival": 107,
+    "FPS": 100,
+    "Action": 95,
+    "Shooter": 90,
+    "Exploration": 86,
+    "3D": 80,
+    "Combat": 74,
+    "Realistic": 67,
+    "Violent": 54
+  }
+}

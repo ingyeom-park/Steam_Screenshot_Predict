@@ -1,0 +1,26 @@
+{
+  "appid": 1491200,
+  "success": true,
+  "tags": {
+    "RPG": 122,
+    "Rogue-like": 98,
+    "Turn-Based Strategy": 91,
+    "Vampire": 90,
+    "Base-Building": 81,
+    "Singleplayer": 69,
+    "Turn-Based Tactics": 66,
+    "2D": 65,
+    "Indie": 59,
+    "Medieval": 57,
+    "Rogue-lite": 53,
+    "Gothic": 51,
+    "Fantasy": 48,
+    "Dark Fantasy": 46,
+    "Dark": 45,
+    "Turn-Based Combat": 42,
+    "Deckbuilding": 37,
+    "Early Access": 37,
+    "Difficult": 32,
+    "Villain Protagonist": 30
+  }
+}

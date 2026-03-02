@@ -1,0 +1,26 @@
+{
+  "appid": 686520,
+  "success": true,
+  "tags": {
+    "Casual": 115,
+    "Strategy": 109,
+    "Adventure": 106,
+    "Time Management": 106,
+    "2D": 102,
+    "Fantasy": 99,
+    "Resource Management": 93,
+    "Singleplayer": 88,
+    "Puzzle": 81,
+    "Point & Click": 74,
+    "Third Person": 67,
+    "Cartoony": 62,
+    "Colorful": 56,
+    "Cute": 52,
+    "Indie": 50,
+    "Management": 49,
+    "Relaxing": 45,
+    "Female Protagonist": 38,
+    "Turn-Based": 28,
+    "Sequel": 26
+  }
+}

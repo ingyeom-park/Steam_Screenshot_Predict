@@ -1,0 +1,26 @@
+{
+  "appid": 1462570,
+  "success": true,
+  "tags": {
+    "Adventure": 112,
+    "Action": 98,
+    "Action-Adventure": 73,
+    "Singleplayer": 69,
+    "Gothic": 69,
+    "Exploration": 67,
+    "Indie": 62,
+    "Fantasy": 56,
+    "Comedy": 54,
+    "Story Rich": 52,
+    "Deckbuilding": 51,
+    "Action RPG": 42,
+    "Female Protagonist": 41,
+    "Combat": 40,
+    "Third Person": 33,
+    "Real-Time with Pause": 31,
+    "Dark Fantasy": 27,
+    "Atmospheric": 23,
+    "Soundtrack": 21,
+    "Multiplayer": 13
+  }
+}

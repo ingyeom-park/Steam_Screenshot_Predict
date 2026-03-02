@@ -1,0 +1,25 @@
+{
+  "appid": 1606210,
+  "success": true,
+  "tags": {
+    "Arcade": 178,
+    "Card Game": 172,
+    "Bullet Hell": 168,
+    "Strategy": 161,
+    "Card Battler": 154,
+    "2D": 146,
+    "Colorful": 138,
+    "Cute": 130,
+    "Minimalist": 122,
+    "Deckbuilding": 113,
+    "Top-Down": 102,
+    "Singleplayer": 100,
+    "PvE": 87,
+    "Linear": 73,
+    "Combat": 58,
+    "Trading": 42,
+    "Pixel Graphics": 27,
+    "Controller": 25,
+    "Indie": 21
+  }
+}

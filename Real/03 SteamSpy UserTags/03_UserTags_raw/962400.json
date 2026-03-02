@@ -1,0 +1,26 @@
+{
+  "appid": 962400,
+  "success": true,
+  "tags": {
+    "Horror": 179,
+    "Survival Horror": 131,
+    "Multiplayer": 121,
+    "First-Person": 115,
+    "Singleplayer": 112,
+    "Puzzle": 100,
+    "Adventure": 95,
+    "Indie": 94,
+    "Violent": 84,
+    "VR": 83,
+    "Difficult": 65,
+    "Gore": 60,
+    "Survival": 55,
+    "Dark": 39,
+    "Strategy": 37,
+    "Escape Room": 35,
+    "Action": 32,
+    "Psychological Horror": 30,
+    "Funny": 25,
+    "Atmospheric": 24
+  }
+}

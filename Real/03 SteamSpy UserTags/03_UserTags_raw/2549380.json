@@ -1,0 +1,26 @@
+{
+  "appid": 2549380,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 196,
+    "Hack and Slash": 188,
+    "Rogue-like": 182,
+    "Combat": 181,
+    "Story Rich": 177,
+    "Procedural Generation": 170,
+    "Action": 121,
+    "Difficult": 115,
+    "Dark Humor": 112,
+    "2D Platformer": 110,
+    "3D": 103,
+    "Rogue-lite": 102,
+    "Dungeon Crawler": 100,
+    "Atmospheric": 94,
+    "Perma Death": 92,
+    "Stylized": 91,
+    "Indie": 89,
+    "Dark": 85,
+    "Fantasy": 83,
+    "Singleplayer": 82
+  }
+}

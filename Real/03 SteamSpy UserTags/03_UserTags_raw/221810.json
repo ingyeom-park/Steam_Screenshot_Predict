@@ -1,0 +1,26 @@
+{
+  "appid": 221810,
+  "success": true,
+  "tags": {
+    "Adventure": 179,
+    "Platformer": 122,
+    "Puzzle": 116,
+    "Local Co-Op": 85,
+    "Comedy": 73,
+    "Co-op": 54,
+    "Local Multiplayer": 45,
+    "Indie": 43,
+    "Funny": 39,
+    "Singleplayer": 33,
+    "Dark Humor": 32,
+    "Puzzle-Platformer": 31,
+    "2D": 25,
+    "Atmospheric": 25,
+    "Controller": 21,
+    "Casual": 20,
+    "2.5D": 15,
+    "Female Protagonist": 14,
+    "Side Scroller": 12,
+    "Point & Click": 11
+  }
+}

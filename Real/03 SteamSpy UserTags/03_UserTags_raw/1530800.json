@@ -1,0 +1,22 @@
+{
+  "appid": 1530800,
+  "success": true,
+  "tags": {
+    "Adventure": 129,
+    "Story Rich": 104,
+    "Choices Matter": 100,
+    "Mystery": 96,
+    "Point & Click": 91,
+    "Choose Your Own Adventure": 81,
+    "Narration": 74,
+    "Indie": 68,
+    "Cinematic": 56,
+    "Interactive Fiction": 49,
+    "Modern": 44,
+    "Visual Novel": 39,
+    "Singleplayer": 38,
+    "Walking Simulator": 34,
+    "Hand-drawn": 32,
+    "Gothic": 29
+  }
+}

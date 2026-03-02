@@ -1,0 +1,26 @@
+{
+  "appid": 572220,
+  "success": true,
+  "tags": {
+    "Magic": 123,
+    "Physics": 117,
+    "Multiplayer": 114,
+    "PvP": 111,
+    "Funny": 106,
+    "Party": 99,
+    "Online Co-Op": 97,
+    "Local Co-Op": 95,
+    "3D Fighter": 93,
+    "Party Game": 91,
+    "MOBA": 89,
+    "Top-Down": 87,
+    "Local Multiplayer": 84,
+    "Family Friendly": 82,
+    "Controller": 79,
+    "Strategy": 75,
+    "Action": 73,
+    "4 Player Local": 70,
+    "Competitive": 63,
+    "Co-op": 56
+  }
+}

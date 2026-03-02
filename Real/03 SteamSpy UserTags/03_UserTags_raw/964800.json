@@ -1,0 +1,26 @@
+{
+  "appid": 964800,
+  "success": true,
+  "tags": {
+    "Boomer Shooter": 186,
+    "FPS": 175,
+    "Retro": 161,
+    "Gore": 105,
+    "Action": 103,
+    "Shooter": 96,
+    "Indie": 80,
+    "Violent": 78,
+    "Adventure": 59,
+    "First-Person": 51,
+    "Fast-Paced": 42,
+    "Pixel Graphics": 40,
+    "Great Soundtrack": 37,
+    "Sci-fi": 35,
+    "Singleplayer": 35,
+    "Casual": 34,
+    "Classic": 25,
+    "Level Editor": 25,
+    "Horror": 24,
+    "Arena Shooter": 24
+  }
+}

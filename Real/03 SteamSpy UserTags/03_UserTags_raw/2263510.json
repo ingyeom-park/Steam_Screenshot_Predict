@@ -1,0 +1,20 @@
+{
+  "appid": 2263510,
+  "success": true,
+  "tags": {
+    "Card Game": 53,
+    "Casual": 50,
+    "Procedural Generation": 49,
+    "Strategy": 48,
+    "Rogue-like": 44,
+    "Card Battler": 40,
+    "Deckbuilding": 38,
+    "Artificial Intelligence": 27,
+    "2D": 25,
+    "Fantasy": 23,
+    "Indie": 23,
+    "PvE": 20,
+    "Tabletop": 18,
+    "Singleplayer": 16
+  }
+}

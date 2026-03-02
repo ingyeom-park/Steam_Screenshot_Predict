@@ -1,0 +1,26 @@
+{
+  "appid": 700160,
+  "success": true,
+  "tags": {
+    "Indie": 84,
+    "Casual": 82,
+    "Puzzle-Platformer": 59,
+    "2D": 57,
+    "Puzzle": 56,
+    "Platformer": 55,
+    "Action": 54,
+    "Adventure": 52,
+    "Cute": 52,
+    "Side Scroller": 51,
+    "Family Friendly": 50,
+    "Minimalist": 49,
+    "Colorful": 49,
+    "Great Soundtrack": 46,
+    "Relaxing": 45,
+    "Atmospheric": 23,
+    "Mystery": 23,
+    "Fantasy": 22,
+    "Nonlinear": 22,
+    "Multiple Endings": 21
+  }
+}

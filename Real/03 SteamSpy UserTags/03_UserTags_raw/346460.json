@@ -1,0 +1,26 @@
+{
+  "appid": 346460,
+  "success": true,
+  "tags": {
+    "Combat Racing": 159,
+    "Racing": 153,
+    "Building": 149,
+    "Driving": 145,
+    "Space": 141,
+    "PvP": 135,
+    "Physics": 133,
+    "Difficult": 131,
+    "Space Sim": 131,
+    "Automobile Sim": 127,
+    "First-Person": 123,
+    "VR": 112,
+    "Action": 102,
+    "Simulation": 100,
+    "Sci-fi": 92,
+    "Family Friendly": 86,
+    "Atmospheric": 84,
+    "Multiplayer": 76,
+    "Singleplayer": 66,
+    "Indie": 55
+  }
+}

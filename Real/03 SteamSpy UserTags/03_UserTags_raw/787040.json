@@ -1,0 +1,26 @@
+{
+  "appid": 787040,
+  "success": true,
+  "tags": {
+    "Multiplayer": 235,
+    "Action": 229,
+    "Heist": 227,
+    "Indie": 223,
+    "Strategy": 219,
+    "Casual": 216,
+    "FPS": 216,
+    "Shooter": 204,
+    "Turn-Based Strategy": 203,
+    "Outbreak Sim": 189,
+    "Real Time Tactics": 182,
+    "First-Person": 180,
+    "Third-Person Shooter": 176,
+    "Early Access": 167,
+    "3D": 157,
+    "Cartoon": 145,
+    "Cartoony": 138,
+    "Stylized": 128,
+    "Third Person": 126,
+    "Crime": 122
+  }
+}

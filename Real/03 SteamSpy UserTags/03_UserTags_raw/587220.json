@@ -1,0 +1,13 @@
+{
+  "appid": 587220,
+  "success": true,
+  "tags": {
+    "VR": 32,
+    "Action": 27,
+    "Adventure": 25,
+    "Indie": 25,
+    "Casual": 25,
+    "Simulation": 24,
+    "Open World": 5
+  }
+}

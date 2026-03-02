@@ -1,0 +1,26 @@
+{
+  "appid": 371970,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 369,
+    "Action Roguelike": 349,
+    "Online Co-Op": 331,
+    "Fantasy": 330,
+    "Rogue-like": 320,
+    "First-Person": 319,
+    "Co-op": 311,
+    "Local Co-Op": 310,
+    "Co-op Campaign": 308,
+    "Immersive Sim": 301,
+    "Split Screen": 296,
+    "RPG": 295,
+    "Difficult": 268,
+    "Pixel Graphics": 263,
+    "4 Player Local": 254,
+    "Action RPG": 245,
+    "Voxel": 231,
+    "Singleplayer": 210,
+    "Moddable": 205,
+    "Indie": 192
+  }
+}

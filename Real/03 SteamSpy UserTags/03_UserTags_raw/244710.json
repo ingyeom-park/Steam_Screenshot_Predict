@@ -1,0 +1,26 @@
+{
+  "appid": 244710,
+  "success": true,
+  "tags": {
+    "Adventure": 301,
+    "Survival": 297,
+    "Nature": 296,
+    "Exploration": 290,
+    "Open World": 284,
+    "Simulation": 281,
+    "Singleplayer": 278,
+    "Cute": 275,
+    "Family Friendly": 271,
+    "Atmospheric": 267,
+    "Emotional": 265,
+    "Female Protagonist": 256,
+    "Casual": 245,
+    "Walking Simulator": 239,
+    "Stylized": 235,
+    "Third Person": 227,
+    "Life Sim": 220,
+    "Indie": 208,
+    "Perma Death": 129,
+    "Psychedelic": 124
+  }
+}

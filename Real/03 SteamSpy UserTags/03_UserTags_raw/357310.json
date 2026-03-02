@@ -1,0 +1,26 @@
+{
+  "appid": 357310,
+  "success": true,
+  "tags": {
+    "Strategy": 104,
+    "Simulation": 82,
+    "Indie": 72,
+    "Historical": 70,
+    "Turn-Based": 68,
+    "4X": 65,
+    "Military": 54,
+    "Sandbox": 48,
+    "Grand Strategy": 45,
+    "PvP": 43,
+    "War": 42,
+    "Adventure": 32,
+    "Turn-Based Strategy": 32,
+    "Early Access": 28,
+    "Tactical": 24,
+    "Survival": 22,
+    "Great Soundtrack": 13,
+    "Multiplayer": 13,
+    "RTS": 8,
+    "Online Co-Op": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 511500,
+  "success": true,
+  "tags": {
+    "Minimalist": 102,
+    "Tower Defense": 96,
+    "Casual": 93,
+    "Strategy": 90,
+    "Nature": 87,
+    "RTS": 80,
+    "Colorful": 74,
+    "Isometric": 72,
+    "Indie": 67,
+    "Cute": 64,
+    "Relaxing": 62,
+    "Building": 60,
+    "Family Friendly": 58,
+    "Management": 55,
+    "Mining": 53,
+    "Base-Building": 51,
+    "Resource Management": 49,
+    "Action RTS": 47,
+    "Singleplayer": 45,
+    "Short": 29
+  }
+}

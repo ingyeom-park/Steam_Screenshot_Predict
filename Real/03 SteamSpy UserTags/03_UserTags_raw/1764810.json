@@ -1,0 +1,19 @@
+{
+  "appid": 1764810,
+  "success": true,
+  "tags": {
+    "Casual": 70,
+    "Adventure": 64,
+    "Arcade": 40,
+    "2D Platformer": 38,
+    "Idler": 33,
+    "Side Scroller": 27,
+    "2D": 27,
+    "Cute": 24,
+    "Minimalist": 23,
+    "Indie": 21,
+    "Atmospheric": 20,
+    "PvE": 18,
+    "Singleplayer": 17
+  }
+}

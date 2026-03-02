@@ -1,0 +1,26 @@
+{
+  "appid": 1306620,
+  "success": true,
+  "tags": {
+    "Indie": 62,
+    "Casual": 60,
+    "Adventure": 58,
+    "Action": 56,
+    "Simulation": 55,
+    "Strategy": 53,
+    "Horror": 40,
+    "Walking Simulator": 20,
+    "First-Person": 19,
+    "Psychological Horror": 18,
+    "Atmospheric": 17,
+    "Short": 17,
+    "Singleplayer": 15,
+    "Surreal": 14,
+    "Mystery": 14,
+    "Exploration": 13,
+    "Psychological": 13,
+    "Story Rich": 12,
+    "Open World": 11,
+    "Puzzle": 11
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 754150,
+  "success": true,
+  "tags": {
+    "Trains": 141,
+    "Simulation": 135,
+    "Sandbox": 131,
+    "Level Editor": 126,
+    "Moddable": 121,
+    "Transportation": 115,
+    "Casual": 113,
+    "Indie": 111,
+    "VR": 109,
+    "Singleplayer": 107,
+    "Building": 104,
+    "Relaxing": 97,
+    "Driving": 93,
+    "Immersive Sim": 91,
+    "Animation & Modeling": 90,
+    "Family Friendly": 86,
+    "Open World": 82,
+    "City Builder": 80,
+    "3D": 75,
+    "First-Person": 63
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 611850,
+  "success": true,
+  "tags": {
+    "Indie": 42,
+    "Action": 42,
+    "Shoot 'Em Up": 25,
+    "Underwater": 25,
+    "Flight": 24,
+    "Exploration": 23,
+    "2D": 23,
+    "Steampunk": 23,
+    "Singleplayer": 23,
+    "Open World": 23,
+    "Bullet Hell": 23,
+    "Side Scroller": 22,
+    "Retro": 22,
+    "Atmospheric": 22,
+    "Shooter": 22,
+    "Alternate History": 22,
+    "Difficult": 21,
+    "Loot": 20,
+    "Historical": 20,
+    "FMV": 19
+  }
+}

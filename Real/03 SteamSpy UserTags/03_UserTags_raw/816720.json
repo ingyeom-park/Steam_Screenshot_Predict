@@ -1,0 +1,26 @@
+{
+  "appid": 816720,
+  "success": true,
+  "tags": {
+    "Indie": 76,
+    "Action": 70,
+    "Action Roguelike": 58,
+    "Rogue-lite": 58,
+    "Adventure": 53,
+    "Dungeon Crawler": 43,
+    "Pixel Graphics": 41,
+    "Bullet Hell": 38,
+    "Difficult": 35,
+    "RPG": 30,
+    "Racing": 29,
+    "Twin Stick Shooter": 16,
+    "Great Soundtrack": 15,
+    "Arcade": 15,
+    "Top-Down Shooter": 14,
+    "2D": 12,
+    "Retro": 10,
+    "Loot": 9,
+    "Rogue-like": 7,
+    "Shooter": 7
+  }
+}

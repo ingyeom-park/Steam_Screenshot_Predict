@@ -1,0 +1,25 @@
+{
+  "appid": 399420,
+  "success": true,
+  "tags": {
+    "Strategy": 109,
+    "Indie": 104,
+    "Adventure": 99,
+    "Pixel Graphics": 97,
+    "Puzzle-Platformer": 94,
+    "Puzzle": 88,
+    "Platformer": 87,
+    "Atmospheric": 77,
+    "Casual": 74,
+    "Sokoban": 71,
+    "Magic": 69,
+    "Dark": 66,
+    "Logic": 64,
+    "6DOF": 60,
+    "Co-op": 59,
+    "Singleplayer": 47,
+    "GameMaker": 34,
+    "Beautiful": 29,
+    "Great Soundtrack": 27
+  }
+}

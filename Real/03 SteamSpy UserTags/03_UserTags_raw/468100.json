@@ -1,0 +1,16 @@
+{
+  "appid": 468100,
+  "success": true,
+  "tags": {
+    "Racing": 50,
+    "Sports": 50,
+    "Action": 44,
+    "Indie": 42,
+    "Simulation": 41,
+    "Arcade": 25,
+    "Multiplayer": 12,
+    "Singleplayer": 12,
+    "4 Player Local": 12,
+    "Atmospheric": 11
+  }
+}

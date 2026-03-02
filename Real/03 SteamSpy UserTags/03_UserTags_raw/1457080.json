@@ -1,0 +1,26 @@
+{
+  "appid": 1457080,
+  "success": true,
+  "tags": {
+    "RPG": 114,
+    "Pixel Graphics": 110,
+    "2D": 100,
+    "Hack and Slash": 98,
+    "Singleplayer": 90,
+    "Fantasy": 82,
+    "Magic": 81,
+    "Combat": 78,
+    "Story Rich": 76,
+    "Top-Down": 74,
+    "Action": 71,
+    "Indie": 67,
+    "Action RPG": 55,
+    "Arcade": 53,
+    "Action-Adventure": 49,
+    "Adventure": 35,
+    "Rogue-like": 35,
+    "Funny": 24,
+    "Action Roguelike": 22,
+    "Remake": 13
+  }
+}

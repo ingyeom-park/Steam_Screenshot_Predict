@@ -1,0 +1,22 @@
+{
+  "appid": 302810,
+  "success": true,
+  "tags": {
+    "Indie": 120,
+    "Action RPG": 114,
+    "Souls-like": 110,
+    "Retro": 106,
+    "Soundtrack": 101,
+    "Third Person": 91,
+    "Singleplayer": 86,
+    "Open World": 84,
+    "Exploration": 82,
+    "Fantasy": 79,
+    "Story Rich": 73,
+    "Adventure": 64,
+    "RPG": 62,
+    "Action": 50,
+    "Early Access": 27,
+    "Hack and Slash": 27
+  }
+}

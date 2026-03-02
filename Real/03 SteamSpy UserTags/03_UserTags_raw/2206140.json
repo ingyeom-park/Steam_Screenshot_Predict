@@ -1,0 +1,21 @@
+{
+  "appid": 2206140,
+  "success": true,
+  "tags": {
+    "Resource Management": 101,
+    "Mining": 95,
+    "Base-Building": 92,
+    "Exploration": 88,
+    "Farming": 82,
+    "Automation": 77,
+    "Crafting": 74,
+    "Sci-fi": 71,
+    "Indie": 68,
+    "Strategy": 62,
+    "First-Person": 61,
+    "Building": 52,
+    "Adventure": 50,
+    "Singleplayer": 30,
+    "Action-Adventure": 26
+  }
+}

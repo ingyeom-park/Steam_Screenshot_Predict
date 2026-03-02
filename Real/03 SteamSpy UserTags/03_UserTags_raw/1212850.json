@@ -1,0 +1,26 @@
+{
+  "appid": 1212850,
+  "success": true,
+  "tags": {
+    "Side Scroller": 355,
+    "Puzzle-Platformer": 301,
+    "Indie": 295,
+    "2D Platformer": 292,
+    "Platformer": 289,
+    "Atmospheric": 286,
+    "Puzzle": 280,
+    "Sci-fi": 279,
+    "Post-apocalyptic": 277,
+    "Futuristic": 274,
+    "Action-Adventure": 269,
+    "Adventure": 267,
+    "Psychological Horror": 260,
+    "Singleplayer": 256,
+    "2D": 255,
+    "Third Person": 249,
+    "Artificial Intelligence": 246,
+    "Stylized": 245,
+    "Space": 243,
+    "Fantasy": 239
+  }
+}

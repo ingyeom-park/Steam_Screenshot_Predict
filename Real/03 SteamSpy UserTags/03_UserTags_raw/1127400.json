@@ -1,0 +1,26 @@
+{
+  "appid": 1127400,
+  "success": true,
+  "tags": {
+    "Base-Building": 503,
+    "Resource Management": 454,
+    "Tower Defense": 452,
+    "Strategy": 411,
+    "Automation": 407,
+    "Multiplayer": 290,
+    "Sandbox": 282,
+    "Building": 274,
+    "Co-op": 236,
+    "2D": 181,
+    "RTS": 180,
+    "Online Co-Op": 171,
+    "Pixel Graphics": 161,
+    "Singleplayer": 151,
+    "PvE": 147,
+    "Survival": 139,
+    "Indie": 138,
+    "PvP": 133,
+    "Management": 124,
+    "Action": 87
+  }
+}

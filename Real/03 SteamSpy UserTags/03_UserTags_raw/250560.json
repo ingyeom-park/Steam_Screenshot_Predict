@@ -1,0 +1,24 @@
+{
+  "appid": 250560,
+  "success": true,
+  "tags": {
+    "RPG": 84,
+    "Indie": 69,
+    "Hack and Slash": 57,
+    "Co-op": 52,
+    "Level Editor": 44,
+    "Dragons": 37,
+    "Local Co-Op": 37,
+    "Multiplayer": 32,
+    "Action RPG": 29,
+    "Split Screen": 25,
+    "Fantasy": 24,
+    "Adventure": 20,
+    "Action": 19,
+    "Loot": 18,
+    "Singleplayer": 13,
+    "Online Co-Op": 7,
+    "Dungeon Crawler": 6,
+    "Early Access": 5
+  }
+}

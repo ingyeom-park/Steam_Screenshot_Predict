@@ -1,0 +1,26 @@
+{
+  "appid": 444670,
+  "success": true,
+  "tags": {
+    "Racing": 95,
+    "Arcade": 89,
+    "Split Screen": 86,
+    "Action": 81,
+    "Sci-fi": 78,
+    "Futuristic": 71,
+    "Multiplayer": 69,
+    "Singleplayer": 67,
+    "Fast-Paced": 66,
+    "Indie": 62,
+    "Local Multiplayer": 47,
+    "4 Player Local": 44,
+    "Early Access": 40,
+    "Procedural Generation": 39,
+    "Competitive": 36,
+    "Driving": 34,
+    "Soundtrack": 32,
+    "Cyberpunk": 29,
+    "Great Soundtrack": 28,
+    "Third Person": 26
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "appid": 441280,
+  "success": true,
+  "tags": {
+    "Action": 62,
+    "Adventure": 60,
+    "Indie": 57,
+    "Metroidvania": 25,
+    "Platformer": 23,
+    "Singleplayer": 11,
+    "2D": 10,
+    "Pixel Graphics": 10,
+    "Great Soundtrack": 8,
+    "Side Scroller": 6
+  }
+}

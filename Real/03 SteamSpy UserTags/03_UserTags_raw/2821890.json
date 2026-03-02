@@ -1,0 +1,26 @@
+{
+  "appid": 2821890,
+  "success": true,
+  "tags": {
+    "Idler": 101,
+    "Clicker": 95,
+    "Casual": 91,
+    "Cozy": 84,
+    "Relaxing": 81,
+    "Cartoony": 75,
+    "Singleplayer": 75,
+    "2D": 72,
+    "Score Attack": 70,
+    "Point & Click": 68,
+    "Cartoon": 65,
+    "Colorful": 64,
+    "Linear": 61,
+    "Strategy": 60,
+    "Collectathon": 58,
+    "Physics": 57,
+    "Stylized": 54,
+    "Arcade": 53,
+    "Minimalist": 50,
+    "Indie": 49
+  }
+}

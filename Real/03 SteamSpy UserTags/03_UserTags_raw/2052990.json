@@ -1,0 +1,26 @@
+{
+  "appid": 2052990,
+  "success": true,
+  "tags": {
+    "Simulation": 199,
+    "Visual Novel": 175,
+    "Point & Click": 165,
+    "Immersive Sim": 158,
+    "2.5D": 156,
+    "Stylized": 146,
+    "Hand-drawn": 140,
+    "Dark Fantasy": 136,
+    "Management": 130,
+    "Fantasy": 127,
+    "Romance": 108,
+    "Political": 107,
+    "Choices Matter": 94,
+    "Multiple Endings": 88,
+    "Narration": 59,
+    "Resource Management": 57,
+    "Story Rich": 30,
+    "Singleplayer": 28,
+    "Strategy": 23,
+    "Indie": 23
+  }
+}

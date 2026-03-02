@@ -1,0 +1,26 @@
+{
+  "appid": 2354940,
+  "success": true,
+  "tags": {
+    "Adventure": 116,
+    "Fishing": 109,
+    "RPG": 104,
+    "Exploration": 100,
+    "Sailing": 95,
+    "Casual": 87,
+    "Cozy": 86,
+    "Relaxing": 81,
+    "Cooking": 77,
+    "Stylized": 72,
+    "Simulation": 67,
+    "Immersive Sim": 63,
+    "Underwater": 61,
+    "Soundtrack": 59,
+    "Indie": 56,
+    "Atmospheric": 44,
+    "Cute": 42,
+    "Colorful": 40,
+    "Cartoon": 38,
+    "Singleplayer": 37
+  }
+}

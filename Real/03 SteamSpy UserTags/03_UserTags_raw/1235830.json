@@ -1,0 +1,26 @@
+{
+  "appid": 1235830,
+  "success": true,
+  "tags": {
+    "Action": 179,
+    "Adventure": 172,
+    "Casual": 170,
+    "Indie": 167,
+    "2D Platformer": 166,
+    "Female Protagonist": 161,
+    "Singleplayer": 156,
+    "Cartoon": 153,
+    "Fantasy": 151,
+    "Action-Adventure": 145,
+    "2D": 143,
+    "3D": 135,
+    "Archery": 132,
+    "Cute": 128,
+    "3D Platformer": 128,
+    "Platformer": 124,
+    "Puzzle": 122,
+    "Anime": 118,
+    "Combat": 116,
+    "Metroidvania": 116
+  }
+}

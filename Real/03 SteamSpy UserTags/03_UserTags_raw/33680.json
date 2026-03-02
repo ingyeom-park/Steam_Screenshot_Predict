@@ -1,0 +1,25 @@
+{
+  "appid": 33680,
+  "success": true,
+  "tags": {
+    "Platformer": 132,
+    "Indie": 119,
+    "Horror": 68,
+    "Short": 56,
+    "Lovecraftian": 50,
+    "2D": 49,
+    "Pixel Graphics": 46,
+    "Singleplayer": 45,
+    "Cute": 39,
+    "Dark": 36,
+    "Puzzle": 16,
+    "Retro": 15,
+    "Side Scroller": 13,
+    "Multiple Endings": 13,
+    "Psychological Horror": 10,
+    "Difficult": 9,
+    "Colorful": 9,
+    "Atmospheric": 6,
+    "Puzzle-Platformer": 6
+  }
+}

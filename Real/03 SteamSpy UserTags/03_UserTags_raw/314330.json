@@ -1,0 +1,26 @@
+{
+  "appid": 314330,
+  "success": true,
+  "tags": {
+    "Indie": 186,
+    "Puzzle": 180,
+    "Turn-Based": 178,
+    "Adventure": 174,
+    "Strategy": 171,
+    "Level Editor": 166,
+    "2D": 160,
+    "Pixel Graphics": 154,
+    "Grid-Based Movement": 152,
+    "Singleplayer": 141,
+    "Difficult": 136,
+    "RPG": 132,
+    "Dungeon Crawler": 127,
+    "Exploration": 117,
+    "Turn-Based Tactics": 109,
+    "Third Person": 101,
+    "Cartoony": 89,
+    "Colorful": 86,
+    "Funny": 81,
+    "Retro": 61
+  }
+}

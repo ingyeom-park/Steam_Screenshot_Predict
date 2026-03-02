@@ -1,0 +1,26 @@
+{
+  "appid": 2891120,
+  "success": true,
+  "tags": {
+    "Management": 90,
+    "Simulation": 80,
+    "Casual": 78,
+    "Strategy": 73,
+    "3D": 71,
+    "Building": 65,
+    "Singleplayer": 63,
+    "Sandbox": 61,
+    "Indie": 59,
+    "Crafting": 49,
+    "Immersive Sim": 47,
+    "City Builder": 44,
+    "Rogue-lite": 41,
+    "Colorful": 41,
+    "Modern": 39,
+    "Economy": 37,
+    "Capitalism": 35,
+    "Base-Building": 32,
+    "Trading": 31,
+    "Resource Management": 29
+  }
+}

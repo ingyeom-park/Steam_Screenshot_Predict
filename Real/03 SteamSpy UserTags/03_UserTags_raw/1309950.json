@@ -1,0 +1,26 @@
+{
+  "appid": 1309950,
+  "success": true,
+  "tags": {
+    "Action": 81,
+    "Strategy": 68,
+    "Arcade": 49,
+    "Shooter": 48,
+    "Real Time Tactics": 47,
+    "Psychedelic": 36,
+    "Third-Person Shooter": 35,
+    "Stylized": 35,
+    "3D": 34,
+    "Indie": 31,
+    "Assassin": 28,
+    "Third Person": 26,
+    "Puzzle": 26,
+    "Dark": 26,
+    "Atmospheric": 25,
+    "Singleplayer": 24,
+    "Female Protagonist": 23,
+    "Tactical": 18,
+    "Sniper": 16,
+    "Horror": 15
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1259640,
+  "success": true,
+  "tags": {
+    "Puzzle": 162,
+    "Point & Click": 153,
+    "Logic": 145,
+    "Mystery": 144,
+    "Adventure": 144,
+    "Detective": 136,
+    "Exploration": 128,
+    "Investigation": 127,
+    "Hidden Object": 120,
+    "Narration": 105,
+    "Stylized": 98,
+    "Isometric": 94,
+    "3D": 84,
+    "Modern": 77,
+    "Sci-fi": 74,
+    "Linear": 67,
+    "Singleplayer": 64,
+    "Colorful": 62,
+    "Atmospheric": 32,
+    "Indie": 26
+  }
+}

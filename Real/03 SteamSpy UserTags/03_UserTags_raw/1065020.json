@@ -1,0 +1,26 @@
+{
+  "appid": 1065020,
+  "success": true,
+  "tags": {
+    "Indie": 154,
+    "Action": 149,
+    "2D Platformer": 145,
+    "Singleplayer": 139,
+    "Multiplayer": 134,
+    "Co-op": 129,
+    "Local Multiplayer": 123,
+    "Local Co-Op": 117,
+    "Online Co-Op": 106,
+    "Pixel Graphics": 106,
+    "Cute": 90,
+    "Family Friendly": 88,
+    "Score Attack": 84,
+    "Medieval": 83,
+    "Funny": 77,
+    "Fantasy": 70,
+    "Platformer": 69,
+    "1980s": 58,
+    "Difficult": 53,
+    "Old School": 53
+  }
+}

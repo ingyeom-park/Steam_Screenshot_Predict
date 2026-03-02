@@ -1,0 +1,20 @@
+{
+  "appid": 410430,
+  "success": true,
+  "tags": {
+    "Indie": 45,
+    "Adventure": 38,
+    "Horror": 37,
+    "Psychological Horror": 21,
+    "Drama": 21,
+    "Cinematic": 19,
+    "Comedy": 18,
+    "Funny": 16,
+    "Psychological": 15,
+    "FPS": 12,
+    "First-Person": 12,
+    "Action": 11,
+    "Shooter": 11,
+    "Multiplayer": 7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2201940,
+  "success": true,
+  "tags": {
+    "Simulation": 144,
+    "Destruction": 138,
+    "Multiplayer": 133,
+    "Online Co-Op": 128,
+    "Exploration": 119,
+    "Management": 114,
+    "Building": 111,
+    "Realistic": 109,
+    "First-Person": 108,
+    "Indie": 99,
+    "Relaxing": 97,
+    "Action": 97,
+    "Casual": 94,
+    "Sandbox": 92,
+    "Inventory Management": 79,
+    "Atmospheric": 76,
+    "Family Friendly": 70,
+    "Crafting": 66,
+    "Adventure": 66,
+    "Education": 58
+  }
+}

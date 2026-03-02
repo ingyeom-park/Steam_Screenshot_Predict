@@ -1,0 +1,26 @@
+{
+  "appid": 2728950,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 149,
+    "Action-Adventure": 143,
+    "Rogue-like": 140,
+    "Adventure": 137,
+    "Dark Fantasy": 134,
+    "Atmospheric": 128,
+    "Funny": 126,
+    "RPG": 122,
+    "3D": 119,
+    "Third Person": 116,
+    "Fantasy": 112,
+    "Combat": 103,
+    "Singleplayer": 96,
+    "Action RPG": 89,
+    "Rogue-lite": 79,
+    "Souls-like": 75,
+    "PvE": 74,
+    "Action": 70,
+    "Exploration": 57,
+    "Indie": 52
+  }
+}

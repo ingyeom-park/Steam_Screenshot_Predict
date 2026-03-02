@@ -1,0 +1,26 @@
+{
+  "appid": 1260590,
+  "success": true,
+  "tags": {
+    "Roguelike Deckbuilder": 260,
+    "Auto Battler": 253,
+    "Card Battler": 253,
+    "Rogue-like": 248,
+    "Card Game": 243,
+    "Deckbuilding": 236,
+    "Dungeon Crawler": 235,
+    "Rogue-lite": 234,
+    "Strategy RPG": 227,
+    "Turn-Based Strategy": 226,
+    "Strategy": 221,
+    "Choices Matter": 218,
+    "Procedural Generation": 213,
+    "Turn-Based Combat": 203,
+    "Stylized": 189,
+    "Dark Fantasy": 187,
+    "Fantasy": 179,
+    "Singleplayer": 172,
+    "Indie": 168,
+    "Real Time Tactics": 90
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1920700,
+  "success": true,
+  "tags": {
+    "Sokoban": 49,
+    "Casual": 44,
+    "Puzzle": 43,
+    "Difficult": 40,
+    "2D": 37,
+    "Top-Down": 34,
+    "Controller": 28,
+    "Linear": 26,
+    "Pixel Graphics": 22,
+    "Indie": 21,
+    "Logic": 20,
+    "Grid-Based Movement": 18,
+    "Singleplayer": 16
+  }
+}

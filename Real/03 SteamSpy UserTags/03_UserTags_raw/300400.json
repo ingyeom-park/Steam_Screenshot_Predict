@@ -1,0 +1,26 @@
+{
+  "appid": 300400,
+  "success": true,
+  "tags": {
+    "Racing": 33,
+    "Fast-Paced": 21,
+    "Arcade": 16,
+    "Indie": 14,
+    "Runner": 14,
+    "Singleplayer": 13,
+    "Futuristic": 13,
+    "Action": 13,
+    "Difficult": 13,
+    "Casual": 13,
+    "Short": 12,
+    "Great Soundtrack": 12,
+    "Procedural Generation": 12,
+    "First-Person": 11,
+    "Stylized": 11,
+    "Dark": 11,
+    "Family Friendly": 11,
+    "Controller": 11,
+    "Flight": 11,
+    "Sci-fi": 10
+  }
+}

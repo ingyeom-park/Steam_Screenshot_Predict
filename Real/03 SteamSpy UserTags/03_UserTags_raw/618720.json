@@ -1,0 +1,26 @@
+{
+  "appid": 618720,
+  "success": true,
+  "tags": {
+    "Indie": 85,
+    "Casual": 76,
+    "Adventure": 66,
+    "Anime": 59,
+    "Visual Novel": 55,
+    "Detective": 45,
+    "Great Soundtrack": 44,
+    "Mystery": 41,
+    "2D": 40,
+    "Singleplayer": 37,
+    "Colorful": 34,
+    "Sci-fi": 31,
+    "Conversation": 31,
+    "Story Rich": 28,
+    "Futuristic": 28,
+    "Side Scroller": 23,
+    "Fantasy": 21,
+    "Episodic": 21,
+    "RPGMaker": 19,
+    "Word Game": 19
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "appid": 364200,
+  "success": true,
+  "tags": {
+    "Strategy": 54,
+    "Indie": 45,
+    "RPG": 42,
+    "Turn-Based": 40,
+    "Hex Grid": 40,
+    "Turn-Based Strategy": 36,
+    "Fantasy": 34,
+    "Turn-Based Combat": 26,
+    "Turn-Based Tactics": 26,
+    "Tactical": 24,
+    "Tactical RPG": 23,
+    "Singleplayer": 15,
+    "Difficult": 12,
+    "Strategy RPG": 12,
+    "Perma Death": 11,
+    "Procedural Generation": 10
+  }
+}

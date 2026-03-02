@@ -1,0 +1,24 @@
+{
+  "appid": 1302780,
+  "success": true,
+  "tags": {
+    "Strategy": 192,
+    "Indie": 188,
+    "Tower Defense": 178,
+    "Zombies": 164,
+    "Singleplayer": 156,
+    "RTS": 145,
+    "Real Time Tactics": 138,
+    "2D": 131,
+    "Top-Down Shooter": 121,
+    "Survival": 115,
+    "Cartoony": 104,
+    "Colorful": 101,
+    "Tactical": 87,
+    "Military": 73,
+    "Class-Based": 59,
+    "Choices Matter": 41,
+    "Base-Building": 28,
+    "Resource Management": 26
+  }
+}

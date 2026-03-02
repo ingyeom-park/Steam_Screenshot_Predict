@@ -1,0 +1,26 @@
+{
+  "appid": 1000470,
+  "success": true,
+  "tags": {
+    "RPG": 203,
+    "Adventure": 198,
+    "Indie": 194,
+    "Grid-Based Movement": 190,
+    "First-Person": 185,
+    "Procedural Generation": 172,
+    "Inventory Management": 167,
+    "Exploration": 165,
+    "Atmospheric": 162,
+    "Dungeon Crawler": 158,
+    "Singleplayer": 156,
+    "Retro": 152,
+    "Fantasy": 150,
+    "Rogue-like": 149,
+    "Stylized": 143,
+    "Loot": 135,
+    "Action": 130,
+    "Perma Death": 128,
+    "Mystery Dungeon": 123,
+    "Rogue-lite": 120
+  }
+}

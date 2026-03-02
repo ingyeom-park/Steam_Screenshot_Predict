@@ -1,0 +1,26 @@
+{
+  "appid": 1501690,
+  "success": true,
+  "tags": {
+    "City Builder": 279,
+    "Medieval": 267,
+    "PvP": 265,
+    "Strategy": 248,
+    "Stylized": 243,
+    "Turn-Based Strategy": 239,
+    "Colorful": 216,
+    "Management": 204,
+    "Auto Battler": 136,
+    "Multiplayer": 110,
+    "Wargame": 83,
+    "Indie": 77,
+    "Building": 64,
+    "Turn-Based": 49,
+    "Board Game": 48,
+    "Base-Building": 47,
+    "3D": 41,
+    "Casual": 37,
+    "Minimalist": 34,
+    "Singleplayer": 33
+  }
+}

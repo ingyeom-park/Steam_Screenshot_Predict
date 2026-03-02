@@ -1,0 +1,26 @@
+{
+  "appid": 968760,
+  "success": true,
+  "tags": {
+    "Card Battler": 182,
+    "Card Game": 177,
+    "Deckbuilding": 175,
+    "Rogue-like": 169,
+    "Turn-Based": 167,
+    "Strategy": 160,
+    "Singleplayer": 158,
+    "Rogue-lite": 155,
+    "Indie": 153,
+    "Replay Value": 153,
+    "Difficult": 148,
+    "RPG": 140,
+    "Mouse only": 133,
+    "2D": 132,
+    "Fantasy": 122,
+    "Procedural Generation": 116,
+    "Casual": 105,
+    "Turn-Based Strategy": 92,
+    "Early Access": 92,
+    "Dungeon Crawler": 85
+  }
+}

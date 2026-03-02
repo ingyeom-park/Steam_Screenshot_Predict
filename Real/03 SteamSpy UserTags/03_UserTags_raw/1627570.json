@@ -1,0 +1,23 @@
+{
+  "appid": 1627570,
+  "success": true,
+  "tags": {
+    "Adventure": 86,
+    "3D Platformer": 55,
+    "Action-Adventure": 54,
+    "2D Platformer": 51,
+    "Puzzle-Platformer": 49,
+    "2D": 42,
+    "3D": 41,
+    "Cartoony": 38,
+    "Cute": 38,
+    "Family Friendly": 33,
+    "Singleplayer": 30,
+    "Fantasy": 27,
+    "Controller": 23,
+    "Combat": 23,
+    "Indie": 11,
+    "Multiplayer": 8,
+    "Platformer": 6
+  }
+}

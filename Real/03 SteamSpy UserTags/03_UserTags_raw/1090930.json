@@ -1,0 +1,24 @@
+{
+  "appid": 1090930,
+  "success": true,
+  "tags": {
+    "RPG": 32,
+    "Adventure": 31,
+    "Indie": 30,
+    "Strategy": 28,
+    "Open World": 16,
+    "Procedural Generation": 15,
+    "Turn-Based Combat": 14,
+    "Singleplayer": 13,
+    "Party-Based RPG": 13,
+    "2D": 12,
+    "Choose Your Own Adventure": 12,
+    "Character Customization": 12,
+    "Turn-Based": 12,
+    "Replay Value": 11,
+    "Turn-Based Tactics": 11,
+    "Team-Based": 10,
+    "Medieval": 9,
+    "Perma Death": 9
+  }
+}

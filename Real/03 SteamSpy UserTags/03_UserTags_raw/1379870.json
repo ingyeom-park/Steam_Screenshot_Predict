@@ -1,0 +1,26 @@
+{
+  "appid": 1379870,
+  "success": true,
+  "tags": {
+    "Action": 153,
+    "2D Platformer": 150,
+    "Action-Adventure": 146,
+    "Platformer": 142,
+    "Casual": 139,
+    "Indie": 132,
+    "Beat 'em up": 130,
+    "Cute": 128,
+    "Side Scroller": 124,
+    "Cartoon": 122,
+    "Anime": 113,
+    "Pixel Graphics": 111,
+    "Colorful": 111,
+    "Singleplayer": 102,
+    "Fantasy": 101,
+    "Funny": 99,
+    "Foreign": 90,
+    "Retro": 87,
+    "Nature": 81,
+    "Hack and Slash": 80
+  }
+}

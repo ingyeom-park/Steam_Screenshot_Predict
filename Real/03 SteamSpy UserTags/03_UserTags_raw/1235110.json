@@ -1,0 +1,26 @@
+{
+  "appid": 1235110,
+  "success": true,
+  "tags": {
+    "Management": 147,
+    "Music": 143,
+    "Simulation": 140,
+    "Strategy RPG": 131,
+    "RPG": 129,
+    "Open World": 124,
+    "Indie": 114,
+    "Rock Music": 92,
+    "Singleplayer": 82,
+    "First-Person": 75,
+    "Realistic": 73,
+    "3D": 67,
+    "Retro": 62,
+    "Economy": 56,
+    "Character Customization": 52,
+    "Physics": 50,
+    "Procedural Generation": 42,
+    "Inventory Management": 39,
+    "Choices Matter": 36,
+    "Resource Management": 30
+  }
+}

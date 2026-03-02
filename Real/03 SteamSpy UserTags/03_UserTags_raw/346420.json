@@ -1,0 +1,26 @@
+{
+  "appid": 346420,
+  "success": true,
+  "tags": {
+    "Simulation": 121,
+    "Indie": 114,
+    "RPG": 112,
+    "Management": 108,
+    "Space": 104,
+    "Base-Building": 96,
+    "Singleplayer": 96,
+    "Sci-fi": 90,
+    "Strategy": 86,
+    "Building": 81,
+    "Isometric": 74,
+    "Survival": 68,
+    "Adventure": 64,
+    "Sandbox": 61,
+    "Cute": 54,
+    "Resource Management": 47,
+    "Real-Time": 43,
+    "Action": 42,
+    "Space Sim": 39,
+    "Colony Sim": 38
+  }
+}

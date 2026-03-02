@@ -1,0 +1,23 @@
+{
+  "appid": 1714070,
+  "success": true,
+  "tags": {
+    "Racing": 64,
+    "Casual": 61,
+    "Runner": 54,
+    "Combat Racing": 48,
+    "Character Customization": 38,
+    "Multiplayer": 32,
+    "Singleplayer": 30,
+    "PvP": 29,
+    "PvE": 26,
+    "Online Co-Op": 24,
+    "Co-op": 22,
+    "Indie": 21,
+    "Cartoony": 20,
+    "Team-Based": 18,
+    "Combat": 16,
+    "Third Person": 15,
+    "3D": 13
+  }
+}

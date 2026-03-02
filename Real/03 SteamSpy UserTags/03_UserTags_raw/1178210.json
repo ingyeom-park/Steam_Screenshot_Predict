@@ -1,0 +1,26 @@
+{
+  "appid": 1178210,
+  "success": true,
+  "tags": {
+    "Lovecraftian": 105,
+    "Underwater": 95,
+    "RPG": 92,
+    "Tactical RPG": 85,
+    "Psychological Horror": 79,
+    "Adventure": 71,
+    "Strategy": 70,
+    "Indie": 65,
+    "Isometric": 56,
+    "Turn-Based Strategy": 53,
+    "Tactical": 50,
+    "Rogue-like": 49,
+    "Turn-Based Combat": 46,
+    "Turn-Based Tactics": 45,
+    "Narration": 43,
+    "Singleplayer": 42,
+    "Turn-Based": 41,
+    "Horror": 39,
+    "Crafting": 32,
+    "Strategy RPG": 31
+  }
+}

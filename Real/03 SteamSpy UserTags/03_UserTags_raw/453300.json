@@ -1,0 +1,26 @@
+{
+  "appid": 453300,
+  "success": true,
+  "tags": {
+    "Strategy": 136,
+    "Indie": 129,
+    "RPG": 127,
+    "Dungeon Crawler": 123,
+    "Casual": 119,
+    "Singleplayer": 112,
+    "Cute": 109,
+    "Tactical": 107,
+    "Real-Time": 102,
+    "Simulation": 96,
+    "Cartoony": 93,
+    "Survival": 90,
+    "Fantasy": 87,
+    "Perma Death": 84,
+    "Linear": 75,
+    "Top-Down": 63,
+    "Medieval": 61,
+    "Atmospheric": 53,
+    "Controller": 42,
+    "Great Soundtrack": 37
+  }
+}

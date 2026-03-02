@@ -1,0 +1,26 @@
+{
+  "appid": 304850,
+  "success": true,
+  "tags": {
+    "Action-Adventure": 202,
+    "Stealth": 196,
+    "Immersive Sim": 193,
+    "Third-Person Shooter": 190,
+    "Violent": 186,
+    "Horror": 176,
+    "Action": 172,
+    "Adventure": 170,
+    "Singleplayer": 168,
+    "3D": 166,
+    "Third Person": 163,
+    "Stylized": 157,
+    "Gore": 150,
+    "Atmospheric": 144,
+    "Exploration": 141,
+    "Psychological Horror": 136,
+    "Conspiracy": 130,
+    "Mystery": 128,
+    "Choices Matter": 121,
+    "Indie": 118
+  }
+}

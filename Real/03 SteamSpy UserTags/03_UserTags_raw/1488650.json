@@ -1,0 +1,26 @@
+{
+  "appid": 1488650,
+  "success": true,
+  "tags": {
+    "Precision Platformer": 100,
+    "Platformer": 93,
+    "Difficult": 92,
+    "Indie": 86,
+    "Pixel Graphics": 84,
+    "Side Scroller": 72,
+    "2D Platformer": 71,
+    "2D": 67,
+    "Singleplayer": 63,
+    "Adventure": 58,
+    "Action": 57,
+    "Retro": 36,
+    "Linear": 33,
+    "Score Attack": 31,
+    "Cyberpunk": 31,
+    "Atmospheric": 27,
+    "Futuristic": 26,
+    "Parkour": 23,
+    "Swordplay": 21,
+    "Female Protagonist": 21
+  }
+}

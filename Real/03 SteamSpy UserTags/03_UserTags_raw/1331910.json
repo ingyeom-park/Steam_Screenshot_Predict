@@ -1,0 +1,26 @@
+{
+  "appid": 1331910,
+  "success": true,
+  "tags": {
+    "Physics": 186,
+    "Puzzle": 181,
+    "Local Co-Op": 176,
+    "Dark": 164,
+    "Atmospheric": 157,
+    "Lovecraftian": 148,
+    "Exploration": 142,
+    "Linear": 139,
+    "Co-op": 138,
+    "Dark Fantasy": 135,
+    "Supernatural": 128,
+    "Singleplayer": 124,
+    "Co-op Campaign": 122,
+    "Split Screen": 115,
+    "Puzzle-Platformer": 108,
+    "Controller": 100,
+    "Stylized": 96,
+    "3D": 92,
+    "Mystery": 83,
+    "Indie": 80
+  }
+}

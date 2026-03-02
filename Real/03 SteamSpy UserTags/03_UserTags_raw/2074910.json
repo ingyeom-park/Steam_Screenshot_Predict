@@ -1,0 +1,25 @@
+{
+  "appid": 2074910,
+  "success": true,
+  "tags": {
+    "Strategy": 181,
+    "Card Game": 156,
+    "Rogue-like": 152,
+    "Solitaire": 145,
+    "Rogue-lite": 141,
+    "3D": 129,
+    "First-Person": 123,
+    "Cinematic": 115,
+    "Sci-fi": 107,
+    "Dark": 99,
+    "Psychological": 95,
+    "Futuristic": 83,
+    "Surreal": 70,
+    "Atmospheric": 56,
+    "Singleplayer": 27,
+    "Procedural Generation": 27,
+    "Indie": 21,
+    "Deckbuilding": 12,
+    "Horror": 11
+  }
+}

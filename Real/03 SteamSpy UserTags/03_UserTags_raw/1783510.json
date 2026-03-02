@@ -1,0 +1,26 @@
+{
+  "appid": 1783510,
+  "success": true,
+  "tags": {
+    "Visual Novel": 161,
+    "Based On A Novel": 155,
+    "Psychological Horror": 152,
+    "Dark Humor": 147,
+    "Dark Comedy": 142,
+    "Horror": 136,
+    "Satire": 132,
+    "Story Rich": 129,
+    "Interactive Fiction": 127,
+    "Narration": 122,
+    "Short": 115,
+    "Linear": 110,
+    "Indie": 106,
+    "Text-Based": 98,
+    "2D": 96,
+    "Point & Click": 94,
+    "Singleplayer": 84,
+    "Conversation": 76,
+    "Hand-drawn": 65,
+    "Casual": 51
+  }
+}

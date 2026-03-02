@@ -1,0 +1,26 @@
+{
+  "appid": 1354260,
+  "success": true,
+  "tags": {
+    "Difficult": 302,
+    "Precision Platformer": 288,
+    "Co-op": 283,
+    "Pixel Graphics": 277,
+    "Platformer": 273,
+    "Online Co-Op": 266,
+    "2D Platformer": 264,
+    "Local Co-Op": 262,
+    "Puzzle": 260,
+    "2D": 253,
+    "Multiplayer": 247,
+    "Controller": 245,
+    "Action": 242,
+    "Atmospheric": 238,
+    "Linear": 234,
+    "Side Scroller": 230,
+    "Retro": 226,
+    "Singleplayer": 219,
+    "Funny": 216,
+    "Local Multiplayer": 214
+  }
+}

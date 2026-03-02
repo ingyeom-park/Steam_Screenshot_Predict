@@ -1,0 +1,26 @@
+{
+  "appid": 429720,
+  "success": true,
+  "tags": {
+    "Horror": 150,
+    "Indie": 132,
+    "Pixel Graphics": 129,
+    "Psychological Horror": 126,
+    "Adventure": 90,
+    "First-Person": 90,
+    "Singleplayer": 88,
+    "Atmospheric": 86,
+    "Dark": 85,
+    "Action": 80,
+    "Puzzle": 79,
+    "Survival Horror": 79,
+    "Jump Scare": 76,
+    "Difficult": 67,
+    "Exploration": 59,
+    "Surreal": 56,
+    "Retro": 54,
+    "Story Rich": 48,
+    "Hidden Object": 42,
+    "3D": 40
+  }
+}

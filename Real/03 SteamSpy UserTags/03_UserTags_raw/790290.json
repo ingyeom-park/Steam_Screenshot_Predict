@@ -1,0 +1,26 @@
+{
+  "appid": 790290,
+  "success": true,
+  "tags": {
+    "Indie": 125,
+    "Adventure": 119,
+    "RPG": 115,
+    "Action": 112,
+    "Casual": 109,
+    "RPGMaker": 104,
+    "Turn-Based Strategy": 100,
+    "JRPG": 95,
+    "Puzzle": 91,
+    "Exploration": 89,
+    "Turn-Based Tactics": 87,
+    "2D": 84,
+    "Pixel Graphics": 82,
+    "Anime": 78,
+    "Retro": 72,
+    "Comedy": 67,
+    "Funny": 63,
+    "Turn-Based Combat": 59,
+    "Story Rich": 47,
+    "Singleplayer": 45
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 438320,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 150,
+    "Rogue-lite": 144,
+    "Bullet Hell": 140,
+    "Pixel Graphics": 135,
+    "Indie": 130,
+    "Action": 122,
+    "Adventure": 120,
+    "Top-Down Shooter": 117,
+    "2D": 115,
+    "Twin Stick Shooter": 109,
+    "Shooter": 107,
+    "Procedural Generation": 104,
+    "Shoot 'Em Up": 96,
+    "Dungeon Crawler": 91,
+    "Mechs": 84,
+    "Sci-fi": 81,
+    "Replay Value": 72,
+    "Rogue-like": 66,
+    "Difficult": 59,
+    "Singleplayer": 52
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1236720,
+  "success": true,
+  "tags": {
+    "Nature": 132,
+    "Board Game": 131,
+    "Turn-Based Tactics": 123,
+    "Destruction": 123,
+    "Indie": 112,
+    "Grand Strategy": 112,
+    "Strategy": 111,
+    "Tabletop": 87,
+    "Card Game": 80,
+    "Local Co-Op": 78,
+    "2D": 69,
+    "Deckbuilding": 68,
+    "Fantasy": 66,
+    "Co-op": 63,
+    "Local Multiplayer": 51,
+    "Singleplayer": 50,
+    "Early Access": 34,
+    "Multiplayer": 33,
+    "Magic": 29,
+    "Psychological Horror": 26
+  }
+}

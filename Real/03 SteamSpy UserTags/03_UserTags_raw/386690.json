@@ -1,0 +1,26 @@
+{
+  "appid": 386690,
+  "success": true,
+  "tags": {
+    "VR": 177,
+    "Puzzle": 171,
+    "Strategy": 169,
+    "Physics": 169,
+    "Building": 165,
+    "Level Editor": 155,
+    "Puzzle-Platformer": 153,
+    "Immersive Sim": 150,
+    "Simulation": 146,
+    "3D": 144,
+    "First-Person": 142,
+    "Sci-fi": 139,
+    "Logic": 136,
+    "Automation": 134,
+    "Relaxing": 130,
+    "3D Vision": 124,
+    "Education": 118,
+    "Singleplayer": 105,
+    "Indie": 101,
+    "Psychological Horror": 61
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 581630,
+  "success": true,
+  "tags": {
+    "Action": 143,
+    "Parkour": 122,
+    "Stealth": 121,
+    "First-Person": 120,
+    "Ninja": 119,
+    "Violent": 112,
+    "FPS": 102,
+    "Singleplayer": 96,
+    "Blood": 83,
+    "Gore": 74,
+    "Shooter": 73,
+    "Casual": 63,
+    "Indie": 62,
+    "Hack and Slash": 53,
+    "Difficult": 48,
+    "Early Access": 47,
+    "Sandbox": 45,
+    "Multiplayer": 44,
+    "Strategy": 42,
+    "Funny": 35
+  }
+}

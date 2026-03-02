@@ -1,0 +1,26 @@
+{
+  "appid": 230050,
+  "success": true,
+  "tags": {
+    "Platformer": 341,
+    "Indie": 292,
+    "Satire": 253,
+    "Comedy": 219,
+    "Short": 192,
+    "Parody ": 167,
+    "Pixel Graphics": 143,
+    "2D": 136,
+    "Singleplayer": 133,
+    "Funny": 126,
+    "Retro": 93,
+    "Casual": 60,
+    "Adventure": 55,
+    "Side Scroller": 53,
+    "Metroidvania": 49,
+    "Exploration": 49,
+    "Action": 43,
+    "Memes": 18,
+    "Zombies": 11,
+    "Dark Comedy": 11
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 281080,
+  "success": true,
+  "tags": {
+    "Adventure": 145,
+    "Indie": 140,
+    "Casual": 137,
+    "Point & Click": 134,
+    "2D": 130,
+    "Puzzle": 123,
+    "Detective": 116,
+    "Mystery": 108,
+    "Singleplayer": 99,
+    "Cartoony": 90,
+    "Hand-drawn": 88,
+    "Cartoon": 80,
+    "Post-apocalyptic": 71,
+    "Sci-fi": 69,
+    "Atmospheric": 60,
+    "Retro": 54,
+    "Story Rich": 47,
+    "Episodic": 44,
+    "Exploration": 37,
+    "Dark": 31
+  }
+}

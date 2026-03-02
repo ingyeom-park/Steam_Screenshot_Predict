@@ -1,0 +1,26 @@
+{
+  "appid": 1618380,
+  "success": true,
+  "tags": {
+    "Turn-Based Tactics": 157,
+    "Rogue-like": 151,
+    "Strategy": 148,
+    "PvE": 145,
+    "Perma Death": 142,
+    "2D": 135,
+    "Turn-Based Combat": 130,
+    "Procedural Generation": 125,
+    "Rogue-lite": 121,
+    "Deckbuilding": 118,
+    "Pixel Graphics": 109,
+    "Fantasy": 102,
+    "Tactical": 100,
+    "Co-op": 98,
+    "Local Co-Op": 95,
+    "Online Co-Op": 86,
+    "Multiplayer": 74,
+    "Singleplayer": 64,
+    "Local Multiplayer": 62,
+    "Magic": 59
+  }
+}

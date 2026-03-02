@@ -1,0 +1,26 @@
+{
+  "appid": 1609080,
+  "success": true,
+  "tags": {
+    "Horror": 192,
+    "Thriller": 163,
+    "Atmospheric": 160,
+    "Psychological Horror": 157,
+    "Walking Simulator": 145,
+    "First-Person": 133,
+    "Cinematic": 130,
+    "Realistic": 128,
+    "Psychological": 127,
+    "Dark": 118,
+    "3D": 107,
+    "Simulation": 106,
+    "Exploration": 105,
+    "Historical": 100,
+    "Mystery": 94,
+    "Retro": 92,
+    "Story Rich": 91,
+    "Linear": 89,
+    "Singleplayer": 82,
+    "Indie": 70
+  }
+}

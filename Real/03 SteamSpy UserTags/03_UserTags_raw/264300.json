@@ -1,0 +1,19 @@
+{
+  "appid": 264300,
+  "success": true,
+  "tags": {
+    "Action": 72,
+    "Zombies": 65,
+    "RPG": 57,
+    "Adventure": 53,
+    "Co-op": 46,
+    "Indie": 45,
+    "Top-Down Shooter": 21,
+    "Twin Stick Shooter": 16,
+    "Robots": 13,
+    "Survival": 13,
+    "Top-Down": 11,
+    "Shooter": 7,
+    "Tower Defense": 6
+  }
+}

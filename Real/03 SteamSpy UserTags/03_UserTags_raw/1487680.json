@@ -1,0 +1,26 @@
+{
+  "appid": 1487680,
+  "success": true,
+  "tags": {
+    "Strategy": 195,
+    "Tower Defense": 194,
+    "Indie": 186,
+    "2D": 183,
+    "Casual": 180,
+    "Building": 174,
+    "Survival": 167,
+    "Space": 165,
+    "PvE": 160,
+    "Base-Building": 158,
+    "Cute": 154,
+    "Deckbuilding": 149,
+    "Colorful": 145,
+    "Cartoony": 141,
+    "Hand-drawn": 132,
+    "Singleplayer": 125,
+    "Score Attack": 115,
+    "Simulation": 108,
+    "Logic": 105,
+    "Top-Down": 103
+  }
+}

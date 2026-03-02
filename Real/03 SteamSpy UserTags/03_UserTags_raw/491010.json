@@ -1,0 +1,26 @@
+{
+  "appid": 491010,
+  "success": true,
+  "tags": {
+    "Indie": 130,
+    "Action": 124,
+    "Adventure": 121,
+    "Difficult": 118,
+    "Platformer": 114,
+    "2D Platformer": 106,
+    "Pixel Graphics": 103,
+    "Retro": 101,
+    "Singleplayer": 99,
+    "Puzzle": 97,
+    "Robots": 91,
+    "Atmospheric": 86,
+    "Arcade": 83,
+    "Puzzle-Platformer": 79,
+    "Minimalist": 78,
+    "Casual": 73,
+    "Third Person": 69,
+    "2D": 64,
+    "Side Scroller": 60,
+    "Controller": 54
+  }
+}

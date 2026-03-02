@@ -1,0 +1,26 @@
+{
+  "appid": 1312060,
+  "success": true,
+  "tags": {
+    "2D Fighter": 215,
+    "Fighting": 209,
+    "Shooter": 207,
+    "4 Player Local": 203,
+    "2D": 201,
+    "Funny": 194,
+    "Local Multiplayer": 192,
+    "Combat": 188,
+    "Casual": 186,
+    "Action": 179,
+    "Arena Shooter": 175,
+    "PvP": 169,
+    "Cartoony": 165,
+    "Arcade": 158,
+    "Controller": 152,
+    "Physics": 144,
+    "Space": 142,
+    "Singleplayer": 135,
+    "Indie": 127,
+    "Sci-fi": 42
+  }
+}

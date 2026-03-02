@@ -1,0 +1,26 @@
+{
+  "appid": 2225610,
+  "success": true,
+  "tags": {
+    "Adventure": 944,
+    "Multiplayer": 921,
+    "Puzzle-Platformer": 899,
+    "Time Management": 830,
+    "Local Co-Op": 703,
+    "Automation": 696,
+    "Physics": 693,
+    "Puzzle": 690,
+    "Colorful": 687,
+    "Co-op": 678,
+    "Logic": 678,
+    "Co-op Campaign": 671,
+    "Arcade": 668,
+    "Local Multiplayer": 660,
+    "Tactical": 655,
+    "Management": 650,
+    "Casual": 641,
+    "Singleplayer": 635,
+    "Controller": 624,
+    "Indie": 610
+  }
+}

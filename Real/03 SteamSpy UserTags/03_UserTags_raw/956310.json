@@ -1,0 +1,26 @@
+{
+  "appid": 956310,
+  "success": true,
+  "tags": {
+    "Action": 125,
+    "2D": 78,
+    "Fast-Paced": 73,
+    "Indie": 70,
+    "Beat 'em up": 65,
+    "Arcade": 62,
+    "Lovecraftian": 61,
+    "Early Access": 60,
+    "Hack and Slash": 58,
+    "Anime": 56,
+    "Ninja": 54,
+    "Swordplay": 52,
+    "Singleplayer": 47,
+    "Platformer": 41,
+    "RPG": 36,
+    "Co-op": 33,
+    "Metroidvania": 30,
+    "Exploration": 28,
+    "Souls-like": 27,
+    "Adventure": 26
+  }
+}

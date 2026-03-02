@@ -1,0 +1,26 @@
+{
+  "appid": 239350,
+  "success": true,
+  "tags": {
+    "Platformer": 880,
+    "Rogue-like": 741,
+    "Action Roguelike": 720,
+    "Indie": 664,
+    "Difficult": 513,
+    "2D": 446,
+    "Local Co-Op": 441,
+    "Replay Value": 381,
+    "Procedural Generation": 339,
+    "Arcade": 226,
+    "Addictive": 214,
+    "Action": 194,
+    "Perma Death": 160,
+    "Singleplayer": 132,
+    "Adventure": 130,
+    "Co-op": 127,
+    "Great Soundtrack": 109,
+    "Local Multiplayer": 108,
+    "Controller": 107,
+    "Side Scroller": 79
+  }
+}

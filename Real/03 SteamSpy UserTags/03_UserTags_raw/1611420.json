@@ -1,0 +1,26 @@
+{
+  "appid": 1611420,
+  "success": true,
+  "tags": {
+    "Rogue-lite": 252,
+    "Turn-Based Combat": 246,
+    "Singleplayer": 243,
+    "RPG": 239,
+    "Tabletop": 228,
+    "Adventure": 223,
+    "Stylized": 218,
+    "Fantasy": 215,
+    "Early Access": 215,
+    "Loot": 211,
+    "3D": 206,
+    "Rogue-like": 199,
+    "Turn-Based Tactics": 196,
+    "Turn-Based Strategy": 188,
+    "Cartoony": 142,
+    "Hex Grid": 112,
+    "Indie": 110,
+    "Card Game": 106,
+    "Card Battler": 104,
+    "Combat": 102
+  }
+}

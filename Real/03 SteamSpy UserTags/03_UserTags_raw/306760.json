@@ -1,0 +1,26 @@
+{
+  "appid": 306760,
+  "success": true,
+  "tags": {
+    "Adventure": 221,
+    "Puzzle": 163,
+    "Exploration": 145,
+    "Indie": 124,
+    "First-Person": 113,
+    "Mystery": 112,
+    "Surreal": 90,
+    "VR": 89,
+    "Walking Simulator": 88,
+    "Atmospheric": 65,
+    "Story Rich": 62,
+    "Open World": 53,
+    "Point & Click": 45,
+    "Singleplayer": 45,
+    "Nonlinear": 44,
+    "Casual": 42,
+    "Sci-fi": 27,
+    "Choices Matter": 26,
+    "FMV": 15,
+    "Survival": 10
+  }
+}

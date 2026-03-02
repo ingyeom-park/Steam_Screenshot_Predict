@@ -1,0 +1,26 @@
+{
+  "appid": 290890,
+  "success": true,
+  "tags": {
+    "Casual": 51,
+    "Match 3": 49,
+    "Strategy": 42,
+    "Indie": 41,
+    "Action": 39,
+    "RPG": 38,
+    "Puzzle": 37,
+    "Pixel Graphics": 32,
+    "Singleplayer": 17,
+    "2D": 14,
+    "Great Soundtrack": 14,
+    "Touch-Friendly": 13,
+    "Rogue-lite": 13,
+    "Retro": 12,
+    "Replay Value": 12,
+    "Dungeon Crawler": 11,
+    "Family Friendly": 11,
+    "Rogue-like": 11,
+    "Fantasy": 10,
+    "Difficult": 10
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "appid": 325930,
+  "success": true,
+  "tags": {
+    "Action": 43,
+    "Adventure": 40,
+    "Indie": 39,
+    "Vikings": 31,
+    "Beat 'em up": 25,
+    "Local Co-Op": 23,
+    "Side Scroller": 18,
+    "2D": 12,
+    "Online Co-Op": 9,
+    "Multiplayer": 5
+  }
+}

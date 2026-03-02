@@ -1,0 +1,26 @@
+{
+  "appid": 1783360,
+  "success": true,
+  "tags": {
+    "Indie": 148,
+    "Pixel Graphics": 145,
+    "Linear": 137,
+    "JRPG": 135,
+    "Adventure": 129,
+    "2D": 123,
+    "Emotional": 122,
+    "Singleplayer": 119,
+    "Wholesome": 116,
+    "Turn-Based": 111,
+    "RPG": 103,
+    "Underground": 99,
+    "Story Rich": 94,
+    "Interactive Fiction": 92,
+    "Soundtrack": 90,
+    "Funny": 81,
+    "Cute": 77,
+    "Colorful": 63,
+    "Family Friendly": 56,
+    "Retro": 53
+  }
+}

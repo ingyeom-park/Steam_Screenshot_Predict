@@ -1,0 +1,26 @@
+{
+  "appid": 833360,
+  "success": true,
+  "tags": {
+    "Space": 215,
+    "Sandbox": 185,
+    "Action": 179,
+    "RPG": 176,
+    "Loot": 170,
+    "Exploration": 164,
+    "Open World": 158,
+    "Mining": 157,
+    "Top-Down Shooter": 142,
+    "Sci-fi": 140,
+    "Procedural Generation": 132,
+    "Atmospheric": 125,
+    "Relaxing": 124,
+    "Top-Down": 121,
+    "Indie": 111,
+    "Singleplayer": 102,
+    "2.5D": 96,
+    "2D": 95,
+    "Aliens": 87,
+    "Early Access": 71
+  }
+}

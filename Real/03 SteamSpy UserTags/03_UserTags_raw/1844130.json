@@ -1,0 +1,26 @@
+{
+  "appid": 1844130,
+  "success": true,
+  "tags": {
+    "Roguelike Deckbuilder": 109,
+    "Deckbuilding": 103,
+    "Card Game": 100,
+    "Replay Value": 96,
+    "Strategy": 93,
+    "Turn-Based Strategy": 87,
+    "Rogue-lite": 80,
+    "Rogue-like": 78,
+    "Card Battler": 74,
+    "Singleplayer": 73,
+    "Sci-fi": 72,
+    "Space": 70,
+    "Board Game": 65,
+    "2D": 63,
+    "PvE": 59,
+    "Indie": 56,
+    "Survival": 35,
+    "Aliens": 34,
+    "Resource Management": 33,
+    "Comic Book": 28
+  }
+}

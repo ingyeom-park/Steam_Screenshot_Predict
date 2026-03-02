@@ -1,0 +1,26 @@
+{
+  "appid": 398170,
+  "success": true,
+  "tags": {
+    "Space Sim": 138,
+    "Simulation": 129,
+    "Space": 125,
+    "Exploration": 122,
+    "First-Person": 114,
+    "Sandbox": 110,
+    "Open World": 109,
+    "Sci-fi": 106,
+    "Trading": 106,
+    "Multiplayer": 96,
+    "Singleplayer": 94,
+    "TrackIR": 85,
+    "Adventure": 57,
+    "Online Co-Op": 38,
+    "VR": 36,
+    "Action": 35,
+    "Indie": 29,
+    "Futuristic": 13,
+    "6DOF": 10,
+    "Flight": 8
+  }
+}

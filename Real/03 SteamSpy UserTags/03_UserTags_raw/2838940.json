@@ -1,0 +1,24 @@
+{
+  "appid": 2838940,
+  "success": true,
+  "tags": {
+    "RPG": 88,
+    "Adventure": 82,
+    "Turn-Based Combat": 78,
+    "Story Rich": 74,
+    "Turn-Based": 71,
+    "Singleplayer": 63,
+    "Linear": 61,
+    "Drama": 59,
+    "Indie": 57,
+    "Anime": 54,
+    "Fantasy": 52,
+    "2D": 49,
+    "Turn-Based Strategy": 45,
+    "Tactical RPG": 41,
+    "JRPG": 35,
+    "Strategy RPG": 34,
+    "Turn-Based Tactics": 27,
+    "RPGMaker": 25
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2320040,
+  "success": true,
+  "tags": {
+    "World War I": 246,
+    "Strategy": 239,
+    "RTS": 235,
+    "Flight": 234,
+    "Realistic": 229,
+    "Action": 223,
+    "Open World": 220,
+    "3D": 214,
+    "Wargame": 205,
+    "Management": 195,
+    "Arcade": 184,
+    "Third Person": 172,
+    "Historical": 160,
+    "War": 145,
+    "Combat": 130,
+    "Moddable": 115,
+    "Singleplayer": 99,
+    "Grand Strategy": 79,
+    "Sandbox": 65,
+    "Indie": 48
+  }
+}

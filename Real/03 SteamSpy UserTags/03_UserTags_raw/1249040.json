@@ -1,0 +1,26 @@
+{
+  "appid": 1249040,
+  "success": true,
+  "tags": {
+    "Singleplayer": 3539,
+    "Point & Click": 3080,
+    "Third Person": 3072,
+    "2D": 2984,
+    "Indie": 2901,
+    "Simulation": 2798,
+    "Horror": 2727,
+    "Side Scroller": 2505,
+    "Satire": 2454,
+    "Story Rich": 2448,
+    "Atmospheric": 2424,
+    "Thriller": 2421,
+    "Adventure": 2415,
+    "First-Person": 2415,
+    "Emotional": 2406,
+    "Cinematic": 2406,
+    "Visual Novel": 2404,
+    "Cyberpunk": 2400,
+    "Sci-fi": 2399,
+    "Exploration": 2389
+  }
+}

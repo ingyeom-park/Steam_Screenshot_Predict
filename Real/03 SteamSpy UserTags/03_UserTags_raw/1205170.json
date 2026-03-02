@@ -1,0 +1,26 @@
+{
+  "appid": 1205170,
+  "success": true,
+  "tags": {
+    "Precision Platformer": 241,
+    "Indie": 235,
+    "Pixel Graphics": 153,
+    "Action": 148,
+    "Adventure": 132,
+    "Difficult": 126,
+    "Singleplayer": 111,
+    "2D Platformer": 109,
+    "Puzzle-Platformer": 107,
+    "Platformer": 89,
+    "2D": 83,
+    "Physics": 79,
+    "Retro": 77,
+    "Controller": 71,
+    "Puzzle": 66,
+    "Mechs": 64,
+    "Sci-fi": 62,
+    "Space": 58,
+    "Great Soundtrack": 57,
+    "Heist": 26
+  }
+}

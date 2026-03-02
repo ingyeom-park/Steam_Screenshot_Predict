@@ -1,0 +1,26 @@
+{
+  "appid": 2140850,
+  "success": true,
+  "tags": {
+    "Deckbuilding": 244,
+    "Card Battler": 236,
+    "Auto Battler": 232,
+    "Card Game": 229,
+    "Tabletop": 224,
+    "Strategy": 218,
+    "Turn-Based Tactics": 215,
+    "Turn-Based Combat": 212,
+    "Casual": 208,
+    "Turn-Based Strategy": 208,
+    "Adventure": 207,
+    "Fantasy": 175,
+    "Exploration": 173,
+    "Indie": 171,
+    "2D": 169,
+    "Singleplayer": 167,
+    "Top-Down": 165,
+    "Magic": 164,
+    "Choices Matter": 161,
+    "Strategy RPG": 160
+  }
+}

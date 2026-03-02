@@ -1,0 +1,19 @@
+{
+  "appid": 422900,
+  "success": true,
+  "tags": {
+    "Strategy": 58,
+    "Indie": 50,
+    "Simulation": 45,
+    "Space": 31,
+    "RTS": 28,
+    "Real-Time with Pause": 20,
+    "Sci-fi": 18,
+    "2D": 12,
+    "Singleplayer": 11,
+    "Tower Defense": 10,
+    "Pixel Graphics": 10,
+    "Great Soundtrack": 8,
+    "Level Editor": 8
+  }
+}

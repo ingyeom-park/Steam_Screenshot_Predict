@@ -1,0 +1,26 @@
+{
+  "appid": 1048100,
+  "success": true,
+  "tags": {
+    "Action": 254,
+    "Multiplayer": 247,
+    "Casual": 243,
+    "PvP": 240,
+    "Physics": 236,
+    "Stealth": 234,
+    "Hidden Object": 229,
+    "Co-op": 221,
+    "Online Co-Op": 219,
+    "Exploration": 218,
+    "Survival": 216,
+    "Action RPG": 214,
+    "Indie": 212,
+    "Family Friendly": 211,
+    "Funny": 204,
+    "Massively Multiplayer": 202,
+    "Stylized": 196,
+    "Atmospheric": 192,
+    "Cartoon": 192,
+    "Third Person": 182
+  }
+}

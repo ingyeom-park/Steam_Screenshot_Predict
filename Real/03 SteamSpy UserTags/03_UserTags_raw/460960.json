@@ -1,0 +1,26 @@
+{
+  "appid": 460960,
+  "success": true,
+  "tags": {
+    "Adventure": 140,
+    "Crime": 135,
+    "RPGMaker": 131,
+    "Indie": 129,
+    "Story Rich": 122,
+    "Atmospheric": 117,
+    "Choices Matter": 115,
+    "Detective": 111,
+    "RPG": 109,
+    "Puzzle": 109,
+    "Singleplayer": 106,
+    "Choose Your Own Adventure": 101,
+    "Visual Novel": 94,
+    "Mystery": 89,
+    "Family Friendly": 82,
+    "Sexual Content": 74,
+    "Historical": 70,
+    "2D": 67,
+    "Simulation": 60,
+    "Surreal": 50
+  }
+}

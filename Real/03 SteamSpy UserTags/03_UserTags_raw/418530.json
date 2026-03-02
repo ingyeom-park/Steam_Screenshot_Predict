@@ -1,0 +1,26 @@
+{
+  "appid": 418530,
+  "success": true,
+  "tags": {
+    "Platformer": 587,
+    "2D Platformer": 545,
+    "Difficult": 497,
+    "Online Co-Op": 491,
+    "Perma Death": 489,
+    "Co-op": 465,
+    "Replay Value": 448,
+    "Indie": 444,
+    "Procedural Generation": 423,
+    "4 Player Local": 420,
+    "Local Co-Op": 414,
+    "PvP": 398,
+    "Action": 369,
+    "2D": 367,
+    "Action Roguelike": 338,
+    "Side Scroller": 328,
+    "Cute": 327,
+    "Rogue-like": 316,
+    "Funny": 305,
+    "Dark Humor": 281
+  }
+}

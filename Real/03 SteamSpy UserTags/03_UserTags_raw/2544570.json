@@ -1,0 +1,26 @@
+{
+  "appid": 2544570,
+  "success": true,
+  "tags": {
+    "Adventure": 170,
+    "Story Rich": 165,
+    "Detective": 163,
+    "Atmospheric": 163,
+    "Mystery": 159,
+    "Exploration": 144,
+    "Visual Novel": 144,
+    "Anime": 141,
+    "Cartoony": 130,
+    "Side Scroller": 121,
+    "Point & Click": 120,
+    "Noir": 117,
+    "Puzzle": 106,
+    "Investigation": 92,
+    "Stealth": 73,
+    "2.5D": 73,
+    "Retro": 71,
+    "2D": 69,
+    "Singleplayer": 51,
+    "Indie": 50
+  }
+}

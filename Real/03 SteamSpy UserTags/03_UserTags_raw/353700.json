@@ -1,0 +1,23 @@
+{
+  "appid": 353700,
+  "success": true,
+  "tags": {
+    "Action": 64,
+    "Adventure": 59,
+    "Indie": 51,
+    "Sci-fi": 43,
+    "Comedy": 33,
+    "Robots": 29,
+    "Funny": 27,
+    "Satire": 26,
+    "Dinosaurs": 24,
+    "Aliens": 22,
+    "Dynamic Narration": 20,
+    "Retro": 17,
+    "Singleplayer": 13,
+    "Isometric": 13,
+    "Colorful": 9,
+    "Local Co-Op": 9,
+    "Top-Down": 7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1896880,
+  "success": true,
+  "tags": {
+    "Indie": 126,
+    "Old School": 121,
+    "Mystery Dungeon": 115,
+    "Puzzle": 114,
+    "Retro": 108,
+    "Adventure": 97,
+    "Pixel Graphics": 94,
+    "Fantasy": 90,
+    "Logic": 81,
+    "1980s": 75,
+    "Casual": 71,
+    "Female Protagonist": 68,
+    "Singleplayer": 67,
+    "Puzzle-Platformer": 60,
+    "2D": 40,
+    "Top-Down": 36,
+    "Action": 35,
+    "Dungeon Crawler": 34,
+    "1990's": 32,
+    "Cute": 30
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "appid": 906740,
+  "success": true,
+  "tags": {
+    "Indie": 72,
+    "Strategy": 68,
+    "Action": 66,
+    "Simulation": 65,
+    "Sci-fi": 41,
+    "2D": 40,
+    "Space": 40,
+    "Great Soundtrack": 34,
+    "Adventure": 34,
+    "Singleplayer": 26,
+    "Exploration": 23,
+    "Procedural Generation": 22,
+    "Rogue-lite": 21,
+    "Real-Time with Pause": 19,
+    "Top-Down": 17,
+    "Top-Down Shooter": 16,
+    "Destruction": 13
+  }
+}

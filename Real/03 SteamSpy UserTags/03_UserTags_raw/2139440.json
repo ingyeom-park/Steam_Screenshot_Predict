@@ -1,0 +1,26 @@
+{
+  "appid": 2139440,
+  "success": true,
+  "tags": {
+    "Tower Defense": 129,
+    "Auto Battler": 123,
+    "Inventory Management": 119,
+    "Strategy": 116,
+    "Rogue-lite": 112,
+    "Shooter": 105,
+    "Clicker": 102,
+    "Loot": 97,
+    "Idler": 94,
+    "Action Roguelike": 88,
+    "Survival": 84,
+    "2D": 81,
+    "2.5D": 78,
+    "Action": 67,
+    "Singleplayer": 65,
+    "Casual": 52,
+    "Indie": 50,
+    "Mouse only": 38,
+    "Tactical": 32,
+    "Early Access": 29
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 858260,
+  "success": true,
+  "tags": {
+    "VR": 184,
+    "Swordplay": 169,
+    "Rogue-lite": 163,
+    "Hack and Slash": 161,
+    "Arcade": 153,
+    "Fighting": 146,
+    "Combat": 143,
+    "Action": 141,
+    "Soundtrack": 139,
+    "First-Person": 139,
+    "Singleplayer": 137,
+    "Fantasy": 131,
+    "Magic": 128,
+    "Rogue-like": 125,
+    "Action Roguelike": 110,
+    "Indie": 91,
+    "Adventure": 80,
+    "Fast-Paced": 52,
+    "Great Soundtrack": 44,
+    "Early Access": 40
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 651670,
+  "success": true,
+  "tags": {
+    "Rogue-like": 390,
+    "Pixel Graphics": 382,
+    "Turn-Based": 376,
+    "Rogue-lite": 368,
+    "JRPG": 366,
+    "Singleplayer": 366,
+    "Tactical RPG": 359,
+    "Mechs": 355,
+    "RPG": 348,
+    "Strategy RPG": 343,
+    "Indie": 337,
+    "2.5D": 329,
+    "Conversation": 326,
+    "Turn-Based Combat": 316,
+    "Sci-fi": 307,
+    "Procedural Generation": 305,
+    "Futuristic": 297,
+    "Strategy": 295,
+    "Retro": 286,
+    "Tactical": 279
+  }
+}

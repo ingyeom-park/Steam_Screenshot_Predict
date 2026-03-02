@@ -1,0 +1,26 @@
+{
+  "appid": 1374280,
+  "success": true,
+  "tags": {
+    "RPG": 289,
+    "Indie": 285,
+    "Pixel Graphics": 276,
+    "Adventure": 262,
+    "Turn-Based Combat": 259,
+    "2D": 255,
+    "Singleplayer": 237,
+    "Top-Down": 228,
+    "Open World": 219,
+    "Turn-Based Strategy": 208,
+    "1990's": 198,
+    "Turn-Based Tactics": 188,
+    "Cute": 174,
+    "Sci-fi": 173,
+    "Modern": 158,
+    "Fantasy": 142,
+    "Funny": 125,
+    "Magic": 107,
+    "Old School": 88,
+    "Tactical": 68
+  }
+}

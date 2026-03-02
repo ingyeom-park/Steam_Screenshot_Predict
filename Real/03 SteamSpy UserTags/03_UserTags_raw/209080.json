@@ -1,0 +1,26 @@
+{
+  "appid": 209080,
+  "success": true,
+  "tags": {
+    "Steampunk": 2091,
+    "Team-Based": 503,
+    "Multiplayer": 469,
+    "Co-op": 384,
+    "Action": 337,
+    "Tactical": 300,
+    "Indie": 253,
+    "Competitive": 227,
+    "Simulation": 174,
+    "Adventure": 151,
+    "Flight": 145,
+    "FPS": 130,
+    "Online Co-Op": 123,
+    "PvP": 116,
+    "Strategy": 114,
+    "First-Person": 99,
+    "Shooter": 88,
+    "Class-Based": 83,
+    "Kickstarter": 53,
+    "Massively Multiplayer": 43
+  }
+}

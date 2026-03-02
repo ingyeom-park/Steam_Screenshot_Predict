@@ -1,0 +1,20 @@
+{
+  "appid": 2591290,
+  "success": true,
+  "tags": {
+    "Indie": 62,
+    "Strategy": 59,
+    "Roguelike Deckbuilder": 51,
+    "Deckbuilding": 45,
+    "Card Game": 36,
+    "Adventure": 34,
+    "Rogue-like": 29,
+    "Rogue-lite": 28,
+    "Card Battler": 26,
+    "Turn-Based Strategy": 24,
+    "Turn-Based Tactics": 22,
+    "2D": 20,
+    "Magic": 18,
+    "Singleplayer": 16
+  }
+}

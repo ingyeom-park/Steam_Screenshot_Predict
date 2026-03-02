@@ -1,0 +1,26 @@
+{
+  "appid": 1290750,
+  "success": true,
+  "tags": {
+    "Casual": 153,
+    "RPG": 143,
+    "Strategy": 137,
+    "Turn-Based Tactics": 133,
+    "Turn-Based": 126,
+    "Tactical RPG": 123,
+    "Turn-Based Combat": 118,
+    "Indie": 116,
+    "Party-Based RPG": 110,
+    "Strategy RPG": 103,
+    "Pixel Graphics": 101,
+    "Turn-Based Strategy": 93,
+    "Isometric": 91,
+    "Fantasy": 87,
+    "Grid-Based Movement": 85,
+    "Rogue-like": 81,
+    "Difficult": 81,
+    "Rogue-lite": 72,
+    "2D": 60,
+    "Tactical": 55
+  }
+}

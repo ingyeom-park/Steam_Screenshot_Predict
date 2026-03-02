@@ -1,0 +1,26 @@
+{
+  "appid": 2071200,
+  "success": true,
+  "tags": {
+    "Adventure": 123,
+    "Indie": 118,
+    "Puzzle": 118,
+    "Psychological Horror": 116,
+    "Mystery": 111,
+    "Drama": 104,
+    "Horror": 104,
+    "Exploration": 104,
+    "Thriller": 100,
+    "Multiple Endings": 96,
+    "Singleplayer": 95,
+    "Atmospheric": 90,
+    "Realistic": 87,
+    "Story Rich": 82,
+    "Puzzle-Platformer": 68,
+    "Satire": 64,
+    "Quick-Time Events": 61,
+    "2D": 50,
+    "Modern": 40,
+    "Visual Novel": 36
+  }
+}

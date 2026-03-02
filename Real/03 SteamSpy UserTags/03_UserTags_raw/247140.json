@@ -1,0 +1,26 @@
+{
+  "appid": 247140,
+  "success": true,
+  "tags": {
+    "Indie": 150,
+    "Casual": 144,
+    "Music": 140,
+    "Bullet Hell": 137,
+    "Rhythm": 132,
+    "Mouse only": 123,
+    "Level Editor": 119,
+    "Action": 118,
+    "Music-Based Procedural Generation": 116,
+    "Arcade": 114,
+    "Difficult": 112,
+    "Minimalist": 109,
+    "Singleplayer": 106,
+    "Shooter": 91,
+    "2D": 87,
+    "Colorful": 82,
+    "Psychedelic": 77,
+    "Fast-Paced": 75,
+    "Shoot 'Em Up": 73,
+    "Abstract": 72
+  }
+}

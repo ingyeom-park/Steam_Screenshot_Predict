@@ -1,0 +1,26 @@
+{
+  "appid": 1601280,
+  "success": true,
+  "tags": {
+    "RPG": 85,
+    "Dungeon Crawler": 78,
+    "Party-Based RPG": 68,
+    "Turn-Based Combat": 60,
+    "Cartoony": 50,
+    "Fantasy": 47,
+    "Singleplayer": 45,
+    "Indie": 43,
+    "Character Customization": 28,
+    "Turn-Based": 26,
+    "Cute": 25,
+    "Class-Based": 24,
+    "Exploration": 23,
+    "Loot": 21,
+    "Grid-Based Movement": 17,
+    "First-Person": 16,
+    "Old School": 15,
+    "JRPG": 15,
+    "Post-apocalyptic": 12,
+    "Puzzle": 12
+  }
+}

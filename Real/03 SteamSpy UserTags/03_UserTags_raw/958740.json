@@ -1,0 +1,26 @@
+{
+  "appid": 958740,
+  "success": true,
+  "tags": {
+    "RPG": 270,
+    "Strategy": 265,
+    "Board Game": 259,
+    "Fantasy": 255,
+    "Card Game": 253,
+    "Turn-Based": 252,
+    "Lovecraftian": 249,
+    "Strategy RPG": 243,
+    "Turn-Based Strategy": 241,
+    "Singleplayer": 237,
+    "Magic": 235,
+    "Choices Matter": 233,
+    "Nonlinear": 228,
+    "2D": 217,
+    "Story Rich": 215,
+    "Turn-Based Combat": 207,
+    "Dark Fantasy": 204,
+    "Indie": 183,
+    "Experimental": 167,
+    "Horror": 160
+  }
+}

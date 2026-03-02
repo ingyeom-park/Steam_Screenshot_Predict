@@ -1,0 +1,26 @@
+{
+  "appid": 375480,
+  "success": true,
+  "tags": {
+    "Loot": 261,
+    "Action RPG": 226,
+    "Hack and Slash": 212,
+    "Dungeon Crawler": 203,
+    "RPG": 198,
+    "Pixel Graphics": 196,
+    "Crafting": 164,
+    "Indie": 160,
+    "Procedural Generation": 158,
+    "4 Player Local": 155,
+    "Local Co-Op": 149,
+    "Action-Adventure": 149,
+    "Action": 135,
+    "2D": 133,
+    "PvE": 129,
+    "Fantasy": 127,
+    "Adventure": 120,
+    "Singleplayer": 118,
+    "Class-Based": 104,
+    "Magic": 101
+  }
+}

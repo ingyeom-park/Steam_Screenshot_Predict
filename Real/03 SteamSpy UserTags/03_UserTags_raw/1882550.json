@@ -1,0 +1,26 @@
+{
+  "appid": 1882550,
+  "success": true,
+  "tags": {
+    "Combat": 750,
+    "Open World": 710,
+    "Adventure": 618,
+    "Singleplayer": 610,
+    "Character Customization": 567,
+    "Indie": 549,
+    "Space": 549,
+    "Atmospheric": 542,
+    "Shooter": 532,
+    "First-Person": 519,
+    "6DOF": 507,
+    "PvE": 506,
+    "Procedural Generation": 501,
+    "Simulation": 499,
+    "Spectacle fighter": 496,
+    "FPS": 491,
+    "Rogue-lite": 485,
+    "Arcade": 483,
+    "Shoot 'Em Up": 474,
+    "Action Roguelike": 468
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1787960,
+  "success": true,
+  "tags": {
+    "Simulation": 165,
+    "Sandbox": 157,
+    "Realistic": 156,
+    "Education": 151,
+    "Crafting": 143,
+    "Automation": 136,
+    "Immersive Sim": 133,
+    "Life Sim": 131,
+    "3D": 127,
+    "Tutorial": 126,
+    "Point & Click": 123,
+    "Singleplayer": 121,
+    "First-Person": 118,
+    "Relaxing": 115,
+    "Choices Matter": 103,
+    "Casual": 91,
+    "Time Manipulation": 88,
+    "Indie": 88,
+    "Real Time Tactics": 73,
+    "Time Management": 71
+  }
+}

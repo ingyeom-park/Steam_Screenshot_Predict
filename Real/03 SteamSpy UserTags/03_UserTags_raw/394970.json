@@ -1,0 +1,26 @@
+{
+  "appid": 394970,
+  "success": true,
+  "tags": {
+    "Stealth": 185,
+    "Pixel Graphics": 184,
+    "Great Soundtrack": 174,
+    "Indie": 163,
+    "2D": 136,
+    "Action": 132,
+    "Difficult": 115,
+    "Gore": 95,
+    "Singleplayer": 91,
+    "Side Scroller": 85,
+    "Shooter": 75,
+    "Blood": 68,
+    "Atmospheric": 66,
+    "Violent": 57,
+    "Zombies": 53,
+    "Strategy": 45,
+    "Vampire": 41,
+    "Dark": 36,
+    "Platformer": 29,
+    "Horror": 23
+  }
+}

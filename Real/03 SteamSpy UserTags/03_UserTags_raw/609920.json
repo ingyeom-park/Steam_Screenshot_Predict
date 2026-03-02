@@ -1,0 +1,26 @@
+{
+  "appid": 609920,
+  "success": true,
+  "tags": {
+    "Racing": 203,
+    "Indie": 173,
+    "Arcade": 153,
+    "Multiplayer": 136,
+    "Split Screen": 130,
+    "Singleplayer": 122,
+    "Local Multiplayer": 121,
+    "Action": 115,
+    "Driving": 109,
+    "Old School": 109,
+    "Retro": 109,
+    "Online Co-Op": 105,
+    "Local Co-Op": 104,
+    "Pixel Graphics": 86,
+    "Stylized": 84,
+    "Abstract": 80,
+    "1990's": 75,
+    "PvP": 67,
+    "Vehicular Combat": 62,
+    "Score Attack": 61
+  }
+}

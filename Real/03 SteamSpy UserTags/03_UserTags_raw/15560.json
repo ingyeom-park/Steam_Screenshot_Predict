@@ -1,0 +1,26 @@
+{
+  "appid": 15560,
+  "success": true,
+  "tags": {
+    "Flight": 207,
+    "Sports": 200,
+    "Arcade": 198,
+    "First-Person": 197,
+    "Cyberpunk": 189,
+    "Funny": 180,
+    "Controller": 179,
+    "Action": 177,
+    "Colorful": 176,
+    "Sci-fi": 172,
+    "Score Attack": 168,
+    "Comedy": 163,
+    "Illuminati": 154,
+    "Singleplayer": 147,
+    "Indie": 133,
+    "VR": 84,
+    "Casual": 56,
+    "Simulation": 33,
+    "Addictive": 30,
+    "Platformer": 28
+  }
+}

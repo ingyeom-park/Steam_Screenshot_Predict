@@ -1,0 +1,26 @@
+{
+  "appid": 1184840,
+  "success": true,
+  "tags": {
+    "Mechs": 125,
+    "Grand Strategy": 119,
+    "Pixel Graphics": 116,
+    "Robots": 113,
+    "Indie": 110,
+    "Turn-Based Strategy": 103,
+    "Sci-fi": 98,
+    "Turn-Based Tactics": 96,
+    "Strategy": 91,
+    "Turn-Based": 85,
+    "War": 76,
+    "JRPG": 71,
+    "Simulation": 68,
+    "Anime": 66,
+    "Retro": 60,
+    "Singleplayer": 58,
+    "4X": 44,
+    "2D": 41,
+    "Space": 34,
+    "Classic": 29
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "appid": 277870,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 40,
+    "Action": 39,
+    "Rogue-like": 39,
+    "Indie": 39,
+    "RPG": 35,
+    "Adventure": 28,
+    "Gore": 21,
+    "Violent": 20,
+    "Rogue-lite": 19,
+    "Retro": 16,
+    "Pixel Graphics": 13,
+    "Dungeon Crawler": 11,
+    "Difficult": 10,
+    "Procedural Generation": 7,
+    "Singleplayer": 7,
+    "Top-Down": 7,
+    "2D": 5
+  }
+}

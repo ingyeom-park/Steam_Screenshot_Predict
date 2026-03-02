@@ -1,0 +1,26 @@
+{
+  "appid": 688060,
+  "success": true,
+  "tags": {
+    "Colony Sim": 209,
+    "Simulation": 204,
+    "Base-Building": 200,
+    "Strategy": 195,
+    "Indie": 192,
+    "Pixel Graphics": 190,
+    "Management": 186,
+    "Survival": 181,
+    "Procedural Generation": 180,
+    "Singleplayer": 173,
+    "God Game": 164,
+    "Crafting": 159,
+    "Atmospheric": 153,
+    "City Builder": 149,
+    "2D": 134,
+    "Fantasy": 118,
+    "Rogue-like": 97,
+    "Sandbox": 90,
+    "Rogue-lite": 76,
+    "Top-Down": 74
+  }
+}

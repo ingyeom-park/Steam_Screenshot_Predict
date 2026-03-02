@@ -1,0 +1,26 @@
+{
+  "appid": 1877650,
+  "success": true,
+  "tags": {
+    "Strategy": 171,
+    "Turn-Based Strategy": 165,
+    "Pixel Graphics": 162,
+    "Replay Value": 159,
+    "Turn-Based Tactics": 156,
+    "Rogue-like": 150,
+    "Puzzle": 146,
+    "Rogue-lite": 142,
+    "Singleplayer": 139,
+    "Tactical": 132,
+    "Turn-Based": 125,
+    "Turn-Based Combat": 116,
+    "2D": 107,
+    "RPG": 102,
+    "Procedural Generation": 100,
+    "Logic": 90,
+    "Hex Grid": 83,
+    "Combat": 76,
+    "Creature Collector": 70,
+    "Grid-Based Movement": 68
+  }
+}

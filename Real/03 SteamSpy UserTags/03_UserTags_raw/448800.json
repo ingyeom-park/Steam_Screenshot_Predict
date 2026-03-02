@@ -1,0 +1,26 @@
+{
+  "appid": 448800,
+  "success": true,
+  "tags": {
+    "Puzzle": 130,
+    "Relaxing": 124,
+    "Stealth": 120,
+    "Split Screen": 117,
+    "Co-op": 112,
+    "Top-Down": 108,
+    "Local Co-Op": 104,
+    "Surreal": 102,
+    "Controller": 100,
+    "Casual": 98,
+    "Abstract": 96,
+    "Minimalist": 94,
+    "Colorful": 91,
+    "Stylized": 86,
+    "Logic": 83,
+    "Atmospheric": 81,
+    "Singleplayer": 70,
+    "2D": 57,
+    "Indie": 55,
+    "Strategy": 52
+  }
+}

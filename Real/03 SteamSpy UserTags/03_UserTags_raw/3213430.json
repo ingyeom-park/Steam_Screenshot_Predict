@@ -1,0 +1,26 @@
+{
+  "appid": 3213430,
+  "success": true,
+  "tags": {
+    "Detective": 110,
+    "Mystery": 104,
+    "Difficult": 100,
+    "Investigation": 98,
+    "Puzzle": 95,
+    "Female Protagonist": 91,
+    "Story Rich": 86,
+    "Supernatural": 85,
+    "Side Scroller": 82,
+    "Atmospheric": 81,
+    "Dark": 79,
+    "Historical": 76,
+    "Pixel Graphics": 75,
+    "Adventure": 73,
+    "Singleplayer": 58,
+    "2D": 54,
+    "Horror": 54,
+    "Indie": 52,
+    "Noir": 33,
+    "Violent": 30
+  }
+}

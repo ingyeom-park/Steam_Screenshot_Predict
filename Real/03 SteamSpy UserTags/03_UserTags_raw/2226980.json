@@ -1,0 +1,26 @@
+{
+  "appid": 2226980,
+  "success": true,
+  "tags": {
+    "Metroidvania": 98,
+    "Exploration": 91,
+    "2D Platformer": 89,
+    "Action": 85,
+    "Adventure": 82,
+    "Nonlinear": 76,
+    "Colorful": 75,
+    "Cute": 70,
+    "Action-Adventure": 70,
+    "Sci-fi": 66,
+    "Fantasy": 66,
+    "Hand-drawn": 65,
+    "Platformer": 62,
+    "2D": 61,
+    "Puzzle": 58,
+    "Indie": 55,
+    "Medieval": 54,
+    "Magic": 32,
+    "Controller": 30,
+    "Singleplayer": 29
+  }
+}

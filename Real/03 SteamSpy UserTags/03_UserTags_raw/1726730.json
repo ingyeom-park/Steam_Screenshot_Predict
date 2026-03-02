@@ -1,0 +1,26 @@
+{
+  "appid": 1726730,
+  "success": true,
+  "tags": {
+    "Simulation": 232,
+    "3D Platformer": 206,
+    "Exploration": 205,
+    "3D": 200,
+    "First-Person": 195,
+    "Atmospheric": 181,
+    "Survival": 175,
+    "Logic": 166,
+    "Dark": 159,
+    "Old School": 149,
+    "Psychological": 139,
+    "Psychological Horror": 131,
+    "Retro": 126,
+    "Stealth": 111,
+    "Horror": 103,
+    "Mystery": 97,
+    "Survival Horror": 70,
+    "Indie": 48,
+    "PvE": 45,
+    "Singleplayer": 30
+  }
+}

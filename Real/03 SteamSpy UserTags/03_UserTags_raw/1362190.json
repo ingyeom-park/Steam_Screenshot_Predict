@@ -1,0 +1,25 @@
+{
+  "appid": 1362190,
+  "success": true,
+  "tags": {
+    "Adventure": 196,
+    "Strategy": 189,
+    "Puzzle": 168,
+    "Exploration": 162,
+    "Survival Horror": 154,
+    "Choose Your Own Adventure": 143,
+    "3D": 138,
+    "Third Person": 130,
+    "Beautiful": 122,
+    "Emotional": 113,
+    "Game Development": 101,
+    "Dark Fantasy": 100,
+    "Atmospheric": 87,
+    "Psychological Horror": 74,
+    "Dark": 58,
+    "Physics": 41,
+    "Singleplayer": 26,
+    "Choices Matter": 25,
+    "Indie": 21
+  }
+}

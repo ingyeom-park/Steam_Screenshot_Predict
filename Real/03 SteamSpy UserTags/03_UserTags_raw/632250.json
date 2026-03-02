@@ -1,0 +1,26 @@
+{
+  "appid": 632250,
+  "success": true,
+  "tags": {
+    "Local Co-Op": 164,
+    "Puzzle": 158,
+    "Casual": 155,
+    "Co-op": 153,
+    "Indie": 152,
+    "Minimalist": 143,
+    "Colorful": 137,
+    "Family Friendly": 133,
+    "Abstract": 130,
+    "Local Multiplayer": 126,
+    "Difficult": 122,
+    "Co-op Campaign": 116,
+    "Atmospheric": 107,
+    "Controller": 98,
+    "2D": 92,
+    "Singleplayer": 89,
+    "Stylized": 80,
+    "Top-Down": 67,
+    "Sokoban": 56,
+    "Arcade": 52
+  }
+}

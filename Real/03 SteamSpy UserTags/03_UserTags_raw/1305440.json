@@ -1,0 +1,24 @@
+{
+  "appid": 1305440,
+  "success": true,
+  "tags": {
+    "Action": 84,
+    "Action RPG": 83,
+    "Platformer": 79,
+    "Co-op": 76,
+    "RPG": 74,
+    "Local Co-Op": 72,
+    "Local Multiplayer": 69,
+    "Indie": 65,
+    "Singleplayer": 57,
+    "2D Platformer": 35,
+    "Hack and Slash": 34,
+    "Side Scroller": 31,
+    "Colorful": 29,
+    "2D": 28,
+    "Narration": 24,
+    "Multiplayer": 22,
+    "Adventure": 21,
+    "Dark": 20
+  }
+}

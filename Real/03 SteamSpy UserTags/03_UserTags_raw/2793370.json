@@ -1,0 +1,26 @@
+{
+  "appid": 2793370,
+  "success": true,
+  "tags": {
+    "Horror": 190,
+    "Psychological Horror": 172,
+    "Choices Matter": 170,
+    "Supernatural": 150,
+    "Realistic": 148,
+    "Investigation": 137,
+    "Walking Simulator": 122,
+    "Immersive Sim": 120,
+    "Casual": 108,
+    "Hidden Object": 103,
+    "3D": 99,
+    "First-Person": 90,
+    "Atmospheric": 80,
+    "Singleplayer": 63,
+    "Anime": 42,
+    "Immersive": 29,
+    "Adventure": 29,
+    "Indie": 25,
+    "Exploration": 13,
+    "Action": 12
+  }
+}

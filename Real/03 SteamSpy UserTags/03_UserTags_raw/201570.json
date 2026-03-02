@@ -1,0 +1,20 @@
+{
+  "appid": 201570,
+  "success": true,
+  "tags": {
+    "Indie": 123,
+    "Action": 67,
+    "Shoot 'Em Up": 49,
+    "Space": 41,
+    "Bullet Hell": 34,
+    "Shooter": 29,
+    "Twin Stick Shooter": 29,
+    "Arcade": 23,
+    "Side Scroller": 22,
+    "Singleplayer": 17,
+    "Great Soundtrack": 16,
+    "Retro": 13,
+    "2D": 12,
+    "Local Co-Op": 12
+  }
+}

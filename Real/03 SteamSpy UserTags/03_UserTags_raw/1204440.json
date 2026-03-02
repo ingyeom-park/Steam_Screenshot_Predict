@@ -1,0 +1,21 @@
+{
+  "appid": 1204440,
+  "success": true,
+  "tags": {
+    "Logic": 88,
+    "Puzzle": 85,
+    "Physics": 84,
+    "First-Person": 82,
+    "Singleplayer": 77,
+    "Puzzle-Platformer": 70,
+    "3D Platformer": 69,
+    "3D": 66,
+    "Narration": 65,
+    "Sci-fi": 64,
+    "Science": 53,
+    "Time Manipulation": 51,
+    "Artificial Intelligence": 50,
+    "Indie": 47,
+    "Difficult": 12
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1234220,
+  "success": true,
+  "tags": {
+    "Social Deduction": 138,
+    "Party Game": 132,
+    "Tabletop": 128,
+    "Team-Based": 125,
+    "Multiplayer": 122,
+    "Board Game": 116,
+    "Casual": 114,
+    "Local Multiplayer": 112,
+    "Pirates": 104,
+    "Indie": 100,
+    "Local Co-Op": 99,
+    "2D": 96,
+    "Family Friendly": 94,
+    "Character Customization": 92,
+    "Co-op": 88,
+    "Cute": 80,
+    "Funny": 73,
+    "Cartoony": 70,
+    "Colorful": 58,
+    "Singleplayer": 55
+  }
+}

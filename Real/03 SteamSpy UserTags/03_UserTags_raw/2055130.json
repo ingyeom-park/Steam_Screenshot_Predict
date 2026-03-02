@@ -1,0 +1,25 @@
+{
+  "appid": 2055130,
+  "success": true,
+  "tags": {
+    "Action": 117,
+    "Adventure": 111,
+    "Casual": 108,
+    "Platformer": 106,
+    "2D Platformer": 102,
+    "Precision Platformer": 96,
+    "2D": 89,
+    "Cute": 81,
+    "Cats": 72,
+    "Funny": 65,
+    "Controller": 63,
+    "Indie": 61,
+    "Linear": 53,
+    "Singleplayer": 43,
+    "Dark Fantasy": 33,
+    "Demons": 31,
+    "Tutorial": 29,
+    "Early Access": 27,
+    "Runner": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 35720,
+  "success": true,
+  "tags": {
+    "Puzzle-Platformer": 871,
+    "Platformer": 839,
+    "Adventure": 687,
+    "Action": 677,
+    "Beautiful": 674,
+    "2D Platformer": 669,
+    "Co-op": 612,
+    "Puzzle": 609,
+    "Fantasy": 571,
+    "Indie": 449,
+    "Online Co-Op": 438,
+    "Local Co-Op": 436,
+    "Multiplayer": 292,
+    "Physics": 264,
+    "Great Soundtrack": 238,
+    "Singleplayer": 216,
+    "Atmospheric": 175,
+    "2D": 166,
+    "RPG": 143,
+    "Casual": 143
+  }
+}

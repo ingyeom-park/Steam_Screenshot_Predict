@@ -1,0 +1,26 @@
+{
+  "appid": 447310,
+  "success": true,
+  "tags": {
+    "Casual": 149,
+    "Indie": 142,
+    "Simulation": 139,
+    "Trains": 136,
+    "Puzzle": 131,
+    "Hand-drawn": 124,
+    "Singleplayer": 120,
+    "Action": 117,
+    "Strategy": 110,
+    "Management": 101,
+    "2D": 92,
+    "Top-Down": 83,
+    "Comic Book": 81,
+    "Stylized": 78,
+    "Family Friendly": 75,
+    "Relaxing": 61,
+    "Score Attack": 57,
+    "Choices Matter": 42,
+    "Mouse only": 40,
+    "Fast-Paced": 27
+  }
+}

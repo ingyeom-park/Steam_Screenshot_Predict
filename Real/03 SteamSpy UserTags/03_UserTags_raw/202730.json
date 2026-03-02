@@ -1,0 +1,16 @@
+{
+  "appid": 202730,
+  "success": true,
+  "tags": {
+    "Indie": 47,
+    "Action": 43,
+    "Adventure": 41,
+    "Stealth": 34,
+    "Top-Down": 16,
+    "Level Editor": 13,
+    "Dark": 11,
+    "Destruction": 11,
+    "PvE": 11,
+    "Underground": 11
+  }
+}

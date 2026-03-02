@@ -1,0 +1,19 @@
+{
+  "appid": 243160,
+  "success": true,
+  "tags": {
+    "Indie": 59,
+    "Action": 52,
+    "Adventure": 52,
+    "Puzzle": 46,
+    "Platformer": 42,
+    "Puzzle-Platformer": 34,
+    "Physics": 26,
+    "Experimental": 25,
+    "2D": 23,
+    "Atmospheric": 21,
+    "Post-apocalyptic": 19,
+    "Music": 14,
+    "Difficult": 10
+  }
+}

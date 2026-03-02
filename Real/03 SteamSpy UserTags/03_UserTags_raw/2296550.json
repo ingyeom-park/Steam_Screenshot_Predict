@@ -1,0 +1,26 @@
+{
+  "appid": 2296550,
+  "success": true,
+  "tags": {
+    "Tower Defense": 157,
+    "Real Time Tactics": 149,
+    "Rogue-lite": 147,
+    "Strategy": 142,
+    "PvE": 138,
+    "RTS": 129,
+    "Rogue-like": 124,
+    "Online Co-Op": 123,
+    "Sci-fi": 122,
+    "Tactical": 116,
+    "Score Attack": 113,
+    "Building": 100,
+    "Co-op": 92,
+    "Multiplayer": 92,
+    "Singleplayer": 87,
+    "Indie": 84,
+    "Robots": 79,
+    "3D": 74,
+    "Stylized": 68,
+    "War": 32
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 340440,
+  "success": true,
+  "tags": {
+    "Action": 156,
+    "Indie": 150,
+    "Local Multiplayer": 146,
+    "Top-Down": 142,
+    "Class-Based": 139,
+    "Strategy": 136,
+    "4 Player Local": 132,
+    "Pixel Graphics": 128,
+    "RPG": 125,
+    "Local Co-Op": 123,
+    "Arcade": 121,
+    "Procedural Generation": 119,
+    "Colorful": 117,
+    "2D": 111,
+    "Competitive": 109,
+    "Fantasy": 107,
+    "Replay Value": 100,
+    "Swordplay": 87,
+    "Magic": 85,
+    "Anime": 82
+  }
+}

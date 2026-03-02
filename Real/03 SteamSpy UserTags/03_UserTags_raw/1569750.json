@@ -1,0 +1,26 @@
+{
+  "appid": 1569750,
+  "success": true,
+  "tags": {
+    "Puzzle-Platformer": 150,
+    "Ninja": 144,
+    "Action": 141,
+    "Puzzle": 137,
+    "Pixel Graphics": 134,
+    "Platformer": 128,
+    "2D Platformer": 123,
+    "Retro": 116,
+    "Casual": 108,
+    "Logic": 102,
+    "Linear": 99,
+    "Relaxing": 95,
+    "Singleplayer": 88,
+    "Strategy": 84,
+    "2D": 77,
+    "Cute": 71,
+    "Adventure": 65,
+    "Indie": 63,
+    "Simulation": 51,
+    "Racing": 47
+  }
+}

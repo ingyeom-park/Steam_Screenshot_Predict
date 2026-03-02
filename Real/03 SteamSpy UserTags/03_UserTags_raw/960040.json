@@ -1,0 +1,26 @@
+{
+  "appid": 960040,
+  "success": true,
+  "tags": {
+    "Casual": 98,
+    "Simulation": 91,
+    "Indie": 89,
+    "VR": 67,
+    "Multiplayer": 57,
+    "Early Access": 56,
+    "Singleplayer": 51,
+    "Action": 49,
+    "Arcade": 46,
+    "Comedy": 44,
+    "Family Friendly": 44,
+    "Management": 41,
+    "Funny": 40,
+    "PvP": 37,
+    "Physics": 34,
+    "6DOF": 34,
+    "Competitive": 29,
+    "Asynchronous Multiplayer": 29,
+    "Sports": 25,
+    "Cooking": 17
+  }
+}

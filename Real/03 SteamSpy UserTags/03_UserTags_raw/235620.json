@@ -1,0 +1,26 @@
+{
+  "appid": 235620,
+  "success": true,
+  "tags": {
+    "Board Game": 188,
+    "Strategy": 131,
+    "Tabletop": 128,
+    "Casual": 115,
+    "Indie": 100,
+    "Turn-Based": 94,
+    "Multiplayer": 88,
+    "Singleplayer": 78,
+    "Fantasy": 57,
+    "Local Multiplayer": 55,
+    "Family Friendly": 51,
+    "Asynchronous Multiplayer": 49,
+    "4 Player Local": 48,
+    "Touch-Friendly": 46,
+    "2D": 42,
+    "Satire": 38,
+    "Kickstarter": 35,
+    "PvP": 33,
+    "Crafting": 30,
+    "Difficult": 28
+  }
+}

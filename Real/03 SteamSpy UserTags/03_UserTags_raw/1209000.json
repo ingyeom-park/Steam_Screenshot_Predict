@@ -1,0 +1,26 @@
+{
+  "appid": 1209000,
+  "success": true,
+  "tags": {
+    "Casual": 207,
+    "Indie": 199,
+    "Sexual Content": 129,
+    "Nudity": 107,
+    "Action": 97,
+    "RPG": 93,
+    "Cute": 86,
+    "Martial Arts": 82,
+    "Visual Novel": 73,
+    "Interactive Fiction": 73,
+    "Platformer": 72,
+    "Dating Sim": 69,
+    "FPS": 67,
+    "Anime": 66,
+    "Bullet Hell": 64,
+    "First-Person": 57,
+    "Story Rich": 56,
+    "Historical": 54,
+    "Multiple Endings": 54,
+    "Singleplayer": 48
+  }
+}

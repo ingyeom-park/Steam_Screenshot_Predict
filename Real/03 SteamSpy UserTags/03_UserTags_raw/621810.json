@@ -1,0 +1,26 @@
+{
+  "appid": 621810,
+  "success": true,
+  "tags": {
+    "Strategy": 54,
+    "Action": 52,
+    "Indie": 43,
+    "Gore": 35,
+    "Real Time Tactics": 34,
+    "Top-Down": 32,
+    "Zombies": 31,
+    "Top-Down Shooter": 31,
+    "Post-apocalyptic": 26,
+    "Sci-fi": 25,
+    "Aliens": 25,
+    "Adventure": 23,
+    "RPG": 23,
+    "Violent": 21,
+    "Singleplayer": 17,
+    "Sandbox": 14,
+    "Action RPG": 11,
+    "Psychological": 11,
+    "Cyberpunk": 10,
+    "Touch-Friendly": 10
+  }
+}

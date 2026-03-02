@@ -1,0 +1,26 @@
+{
+  "appid": 2199060,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 192,
+    "Twin Stick Shooter": 185,
+    "Bullet Hell": 183,
+    "Rogue-like": 179,
+    "Rogue-lite": 175,
+    "Shoot 'Em Up": 167,
+    "Action": 165,
+    "Action RPG": 157,
+    "Controller": 153,
+    "Sci-fi": 150,
+    "Top-Down": 144,
+    "Stylized": 138,
+    "3D": 135,
+    "Procedural Generation": 133,
+    "Score Attack": 130,
+    "Singleplayer": 126,
+    "Dark Fantasy": 107,
+    "Cyberpunk": 105,
+    "Indie": 102,
+    "RPG": 95
+  }
+}

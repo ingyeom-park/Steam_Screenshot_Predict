@@ -1,0 +1,26 @@
+{
+  "appid": 1185470,
+  "success": true,
+  "tags": {
+    "Indie": 32,
+    "Casual": 32,
+    "Action": 32,
+    "Violent": 32,
+    "Adventure": 31,
+    "Survival Horror": 13,
+    "First-Person": 13,
+    "FPS": 12,
+    "Horror": 12,
+    "Shooter": 12,
+    "Mystery": 11,
+    "Atmospheric": 11,
+    "Exploration": 11,
+    "Great Soundtrack": 11,
+    "Story Rich": 11,
+    "Psychological Horror": 11,
+    "Surreal": 11,
+    "Puzzle": 11,
+    "Survival": 11,
+    "Zombies": 11
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 843180,
+  "success": true,
+  "tags": {
+    "Action-Adventure": 201,
+    "Mythology": 196,
+    "Hand-drawn": 194,
+    "Cartoon": 189,
+    "Colorful": 184,
+    "Puzzle": 177,
+    "Singleplayer": 173,
+    "2D Platformer": 170,
+    "Atmospheric": 166,
+    "Puzzle-Platformer": 162,
+    "Indie": 151,
+    "Exploration": 141,
+    "Casual": 130,
+    "Beat 'em up": 122,
+    "Controller": 116,
+    "Adventure": 113,
+    "Action": 108,
+    "Medieval": 104,
+    "Family Friendly": 92,
+    "Cartoony": 76
+  }
+}

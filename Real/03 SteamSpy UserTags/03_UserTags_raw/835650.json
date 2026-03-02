@@ -1,0 +1,26 @@
+{
+  "appid": 835650,
+  "success": true,
+  "tags": {
+    "Medieval": 199,
+    "Turn-Based Tactics": 190,
+    "Strategy": 187,
+    "Turn-Based Strategy": 185,
+    "Indie": 173,
+    "Multiplayer": 133,
+    "Tactical": 128,
+    "Turn-Based": 125,
+    "Turn-Based Combat": 125,
+    "Base-Building": 119,
+    "Hex Grid": 117,
+    "2D": 114,
+    "City Builder": 113,
+    "Simulation": 110,
+    "Early Access": 101,
+    "Singleplayer": 95,
+    "Sandbox": 92,
+    "Hand-drawn": 90,
+    "Co-op": 84,
+    "Replay Value": 75
+  }
+}

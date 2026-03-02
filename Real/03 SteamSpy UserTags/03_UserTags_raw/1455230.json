@@ -1,0 +1,26 @@
+{
+  "appid": 1455230,
+  "success": true,
+  "tags": {
+    "Puzzle": 99,
+    "Strategy": 92,
+    "Casual": 89,
+    "Tactical": 83,
+    "Mystery Dungeon": 76,
+    "Dark": 75,
+    "Puzzle-Platformer": 73,
+    "Physics": 71,
+    "Cute": 69,
+    "Adventure": 66,
+    "Family Friendly": 64,
+    "Indie": 61,
+    "Cartoon": 44,
+    "Top-Down": 41,
+    "Action-Adventure": 39,
+    "2D": 36,
+    "Singleplayer": 34,
+    "Colorful": 29,
+    "Hand-drawn": 27,
+    "Stylized": 25
+  }
+}

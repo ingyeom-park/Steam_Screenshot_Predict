@@ -1,0 +1,12 @@
+{
+  "appid": 1252300,
+  "success": true,
+  "tags": {
+    "Action": 32,
+    "Sports": 32,
+    "Wrestling": 16,
+    "Indie": 12,
+    "Fighting": 12,
+    "Retro": 11
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 311480,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 147,
+    "Platformer": 144,
+    "Co-op": 144,
+    "RPG": 136,
+    "Rogue-like": 132,
+    "2D": 130,
+    "Rogue-lite": 127,
+    "Local Co-Op": 126,
+    "Split Screen": 124,
+    "Procedural Generation": 123,
+    "Multiplayer": 122,
+    "Casual": 117,
+    "Action": 112,
+    "Free to Play": 107,
+    "Indie": 89,
+    "Action RPG": 35,
+    "Singleplayer": 34,
+    "Perma Death": 33,
+    "Local Multiplayer": 31,
+    "Controller": 30
+  }
+}

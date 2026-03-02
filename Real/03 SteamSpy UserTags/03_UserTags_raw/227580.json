@@ -1,0 +1,26 @@
+{
+  "appid": 227580,
+  "success": true,
+  "tags": {
+    "Match 3": 187,
+    "Indie": 171,
+    "Puzzle": 143,
+    "Casual": 119,
+    "Pixel Graphics": 112,
+    "RPG": 98,
+    "Mouse only": 83,
+    "Singleplayer": 70,
+    "Retro": 59,
+    "Action": 49,
+    "Touch-Friendly": 39,
+    "2D": 33,
+    "Addictive": 33,
+    "Fantasy": 26,
+    "Strategy": 21,
+    "Rogue-lite": 20,
+    "Dungeon Crawler": 20,
+    "Great Soundtrack": 19,
+    "Rogue-like": 17,
+    "Family Friendly": 16
+  }
+}

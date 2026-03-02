@@ -1,0 +1,26 @@
+{
+  "appid": 2102320,
+  "success": true,
+  "tags": {
+    "JRPG": 286,
+    "Action RPG": 280,
+    "Mystery Dungeon": 276,
+    "Dungeon Crawler": 274,
+    "Character Action Game": 271,
+    "Action Roguelike": 263,
+    "Rogue-like": 259,
+    "Rogue-lite": 256,
+    "RPG": 249,
+    "Action": 245,
+    "Indie": 235,
+    "Procedural Generation": 219,
+    "Singleplayer": 214,
+    "PvE": 210,
+    "3D": 207,
+    "Early Access": 205,
+    "1990's": 203,
+    "Strategy": 201,
+    "Top-Down": 199,
+    "Fantasy": 195
+  }
+}

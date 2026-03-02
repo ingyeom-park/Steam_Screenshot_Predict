@@ -1,0 +1,26 @@
+{
+  "appid": 1430680,
+  "success": true,
+  "tags": {
+    "Action": 200,
+    "Adventure": 190,
+    "RPG": 189,
+    "Souls-like": 181,
+    "Singleplayer": 181,
+    "Action RPG": 162,
+    "Atmospheric": 161,
+    "Third Person": 157,
+    "Story Rich": 145,
+    "Fantasy": 145,
+    "Exploration": 136,
+    "Surreal": 133,
+    "Indie": 132,
+    "Soundtrack": 128,
+    "Combat": 125,
+    "Action-Adventure": 114,
+    "Colorful": 100,
+    "Martial Arts": 93,
+    "Stylized": 92,
+    "Beat 'em up": 75
+  }
+}

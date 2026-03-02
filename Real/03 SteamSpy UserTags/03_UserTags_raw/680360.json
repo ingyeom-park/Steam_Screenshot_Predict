@@ -1,0 +1,26 @@
+{
+  "appid": 680360,
+  "success": true,
+  "tags": {
+    "RPG": 251,
+    "Adventure": 244,
+    "Indie": 238,
+    "Hack and Slash": 234,
+    "Pixel Graphics": 228,
+    "2D": 222,
+    "Side Scroller": 214,
+    "Action RPG": 210,
+    "Fantasy": 207,
+    "Dungeon Crawler": 206,
+    "Resource Management": 204,
+    "Dwarf": 202,
+    "Base-Building": 198,
+    "Building": 194,
+    "2D Platformer": 193,
+    "Exploration": 187,
+    "Atmospheric": 181,
+    "Singleplayer": 176,
+    "Platformer": 172,
+    "Colony Sim": 157
+  }
+}

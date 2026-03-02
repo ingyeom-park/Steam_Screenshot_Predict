@@ -1,0 +1,26 @@
+{
+  "appid": 215470,
+  "success": true,
+  "tags": {
+    "Dinosaurs": 382,
+    "Action": 219,
+    "Multiplayer": 215,
+    "FPS": 164,
+    "Shooter": 163,
+    "Team-Based": 128,
+    "Indie": 117,
+    "First-Person": 94,
+    "PvP": 91,
+    "Open World": 89,
+    "Third Person": 84,
+    "Survival": 76,
+    "Strategy": 74,
+    "Co-op": 65,
+    "Adventure": 57,
+    "Third-Person Shooter": 43,
+    "Massively Multiplayer": 38,
+    "Sci-fi": 32,
+    "Funny": 31,
+    "Singleplayer": 31
+  }
+}

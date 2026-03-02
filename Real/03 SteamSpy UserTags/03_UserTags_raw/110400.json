@@ -1,0 +1,15 @@
+{
+  "appid": 110400,
+  "success": true,
+  "tags": {
+    "Racing": 41,
+    "Indie": 33,
+    "Parkour": 22,
+    "Fast-Paced": 16,
+    "First-Person": 12,
+    "Multiplayer": 10,
+    "Platformer": 8,
+    "Singleplayer": 6,
+    "Great Soundtrack": 5
+  }
+}

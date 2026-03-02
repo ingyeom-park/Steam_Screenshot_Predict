@@ -1,0 +1,26 @@
+{
+  "appid": 569340,
+  "success": true,
+  "tags": {
+    "Emotional": 178,
+    "Philosophical": 172,
+    "Psychological": 168,
+    "Indie": 164,
+    "Walking Simulator": 161,
+    "Narrative": 155,
+    "Story Rich": 152,
+    "Interactive Fiction": 147,
+    "Conversation": 143,
+    "Visual Novel": 140,
+    "Minimalist": 139,
+    "Immersive Sim": 133,
+    "Drama": 131,
+    "Atmospheric": 128,
+    "Adventure": 127,
+    "Singleplayer": 124,
+    "First-Person": 118,
+    "Short": 116,
+    "Casual": 111,
+    "Simulation": 109
+  }
+}

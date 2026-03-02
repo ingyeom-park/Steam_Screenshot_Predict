@@ -1,0 +1,26 @@
+{
+  "appid": 1553320,
+  "success": true,
+  "tags": {
+    "Horror": 179,
+    "Thriller": 171,
+    "Adventure": 167,
+    "Dark": 166,
+    "Psychological Horror": 161,
+    "Multiple Endings": 156,
+    "Action": 150,
+    "Puzzle": 138,
+    "Realistic": 122,
+    "Story Rich": 113,
+    "Exploration": 102,
+    "3D": 100,
+    "First-Person": 88,
+    "Walking Simulator": 74,
+    "Atmospheric": 58,
+    "Detective": 42,
+    "Mystery": 27,
+    "Singleplayer": 25,
+    "Indie": 21,
+    "Gore": 21
+  }
+}

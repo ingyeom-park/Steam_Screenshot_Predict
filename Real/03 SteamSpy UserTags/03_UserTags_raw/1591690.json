@@ -1,0 +1,26 @@
+{
+  "appid": 1591690,
+  "success": true,
+  "tags": {
+    "Bullet Hell": 300,
+    "Action Roguelike": 293,
+    "Rogue-like": 286,
+    "Difficult": 285,
+    "Dungeon Crawler": 280,
+    "Indie": 272,
+    "Twin Stick Shooter": 270,
+    "Action": 267,
+    "Rogue-lite": 266,
+    "2D": 255,
+    "Top-Down": 247,
+    "Singleplayer": 244,
+    "Perma Death": 241,
+    "Arena Shooter": 229,
+    "Bullet Time": 220,
+    "Hand-drawn": 214,
+    "Shooter": 212,
+    "Futuristic": 209,
+    "Comedy": 209,
+    "Gore": 202
+  }
+}

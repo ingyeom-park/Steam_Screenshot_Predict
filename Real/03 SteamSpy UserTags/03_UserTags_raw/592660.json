@@ -1,0 +1,26 @@
+{
+  "appid": 592660,
+  "success": true,
+  "tags": {
+    "Puzzle": 123,
+    "Relaxing": 117,
+    "Soundtrack": 114,
+    "Difficult": 110,
+    "Strategy": 104,
+    "3D": 96,
+    "Top-Down": 94,
+    "Linear": 92,
+    "Casual": 88,
+    "Minimalist": 86,
+    "Abstract": 76,
+    "Family Friendly": 74,
+    "Logic": 64,
+    "Atmospheric": 62,
+    "Grid-Based Movement": 60,
+    "Singleplayer": 58,
+    "Music": 56,
+    "Indie": 52,
+    "Simulation": 33,
+    "Historical": 31
+  }
+}

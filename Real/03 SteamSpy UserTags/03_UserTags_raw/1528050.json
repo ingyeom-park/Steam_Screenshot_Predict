@@ -1,0 +1,26 @@
+{
+  "appid": 1528050,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 186,
+    "Destruction": 182,
+    "Lemmings": 177,
+    "Exploration": 174,
+    "Pixel Graphics": 170,
+    "Puzzle-Platformer": 160,
+    "Physics": 154,
+    "Simulation": 153,
+    "Level Editor": 141,
+    "Tactical": 138,
+    "Indie": 136,
+    "Atmospheric": 134,
+    "Point & Click": 121,
+    "Mining": 119,
+    "Logic": 117,
+    "Puzzle": 102,
+    "Strategy": 88,
+    "2D": 84,
+    "Building": 63,
+    "Singleplayer": 47
+  }
+}

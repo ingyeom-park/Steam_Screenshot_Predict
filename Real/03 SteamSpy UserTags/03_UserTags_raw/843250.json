@@ -1,0 +1,15 @@
+{
+  "appid": 843250,
+  "success": true,
+  "tags": {
+    "Indie": 24,
+    "Action": 23,
+    "Violent": 22,
+    "FPS": 14,
+    "Horror": 14,
+    "Adventure": 12,
+    "Action-Adventure": 12,
+    "Exploration": 11,
+    "Historical": 10
+  }
+}

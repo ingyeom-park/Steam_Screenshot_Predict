@@ -1,0 +1,26 @@
+{
+  "appid": 222750,
+  "success": true,
+  "tags": {
+    "Strategy": 339,
+    "RTS": 246,
+    "Military": 233,
+    "Cold War": 194,
+    "Wargame": 138,
+    "Real Time Tactics": 136,
+    "Tactical": 125,
+    "Real-Time": 107,
+    "Simulation": 99,
+    "Multiplayer": 95,
+    "War": 84,
+    "Realistic": 74,
+    "Singleplayer": 70,
+    "Difficult": 68,
+    "Action": 54,
+    "Alternate History": 46,
+    "Co-op": 45,
+    "America": 34,
+    "Indie": 32,
+    "Historical": 28
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "appid": 1011290,
+  "success": true,
+  "tags": {
+    "Action": 45,
+    "Adventure": 44,
+    "Indie": 44,
+    "Simulation": 42,
+    "VR": 33,
+    "Physics": 26,
+    "Gore": 26,
+    "Great Soundtrack": 24,
+    "Local Multiplayer": 24,
+    "Funny": 16,
+    "First-Person": 14,
+    "Early Access": 13,
+    "Narration": 13,
+    "Minigames": 13,
+    "Party": 12,
+    "Destruction": 10
+  }
+}

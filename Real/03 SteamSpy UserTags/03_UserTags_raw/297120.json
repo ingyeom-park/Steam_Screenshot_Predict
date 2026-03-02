@@ -1,0 +1,26 @@
+{
+  "appid": 297120,
+  "success": true,
+  "tags": {
+    "Indie": 76,
+    "Action": 74,
+    "FPS": 72,
+    "Action Roguelike": 69,
+    "Rogue-like": 44,
+    "Rogue-lite": 43,
+    "Shooter": 42,
+    "Singleplayer": 34,
+    "First-Person": 27,
+    "Difficult": 23,
+    "Retro": 21,
+    "Dungeon Crawler": 17,
+    "Perma Death": 16,
+    "Psychedelic": 12,
+    "Horror": 10,
+    "Boomer Shooter": 9,
+    "Colorful": 9,
+    "Procedural Generation": 8,
+    "Bullet Hell": 6,
+    "Adventure": 6
+  }
+}

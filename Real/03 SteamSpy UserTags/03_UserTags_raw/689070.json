@@ -1,0 +1,26 @@
+{
+  "appid": 689070,
+  "success": true,
+  "tags": {
+    "RPG": 112,
+    "Indie": 105,
+    "Adventure": 103,
+    "RPGMaker": 99,
+    "Anime": 92,
+    "Pixel Graphics": 84,
+    "JRPG": 81,
+    "Turn-Based Strategy": 79,
+    "2D Platformer": 73,
+    "2D": 70,
+    "Drama": 67,
+    "Fantasy": 63,
+    "Magic": 59,
+    "Turn-Based Combat": 54,
+    "Turn-Based Tactics": 49,
+    "Singleplayer": 48,
+    "Foreign": 42,
+    "Choose Your Own Adventure": 36,
+    "Character Customization": 34,
+    "Casual": 27
+  }
+}

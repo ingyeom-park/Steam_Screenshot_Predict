@@ -1,0 +1,26 @@
+{
+  "appid": 1621760,
+  "success": true,
+  "tags": {
+    "Survival": 358,
+    "Action": 355,
+    "Zombies": 346,
+    "RPG": 335,
+    "Open World": 326,
+    "Action RPG": 300,
+    "Singleplayer": 293,
+    "Twin Stick Shooter": 280,
+    "Base-Building": 277,
+    "Tower Defense": 275,
+    "Post-apocalyptic": 261,
+    "Top-Down": 245,
+    "Building": 230,
+    "Isometric": 212,
+    "Old School": 206,
+    "Combat": 197,
+    "3D": 175,
+    "Strategy": 164,
+    "Dystopian ": 155,
+    "Indie": 138
+  }
+}

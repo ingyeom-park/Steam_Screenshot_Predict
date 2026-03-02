@@ -1,0 +1,26 @@
+{
+  "appid": 1226510,
+  "success": true,
+  "tags": {
+    "Isometric": 3120,
+    "Rogue-like": 2484,
+    "Space": 2478,
+    "Strategy": 2475,
+    "Difficult": 2472,
+    "Singleplayer": 2469,
+    "Choose Your Own Adventure": 2349,
+    "Resource Management": 2345,
+    "Top-Down": 2285,
+    "Indie": 2236,
+    "Procedural Generation": 2228,
+    "Story Rich": 2226,
+    "Perma Death": 2191,
+    "Sci-fi": 2189,
+    "Survival": 2187,
+    "Real-Time with Pause": 2185,
+    "Atmospheric": 2181,
+    "Replay Value": 2177,
+    "3D": 2174,
+    "Exploration": 2171
+  }
+}

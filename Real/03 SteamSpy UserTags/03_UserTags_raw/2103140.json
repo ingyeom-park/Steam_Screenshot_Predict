@@ -1,0 +1,26 @@
+{
+  "appid": 2103140,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 313,
+    "Rogue-lite": 295,
+    "Looter Shooter": 292,
+    "Bullet Hell": 292,
+    "Rogue-like": 270,
+    "Strategy RPG": 269,
+    "RPG": 255,
+    "Top-Down": 241,
+    "Deckbuilding": 237,
+    "Procedural Generation": 234,
+    "Action": 213,
+    "Magic": 213,
+    "Lovecraftian": 209,
+    "Crafting": 204,
+    "Adventure": 190,
+    "Singleplayer": 188,
+    "Indie": 168,
+    "Addictive": 102,
+    "Early Access": 62,
+    "Multiplayer": 26
+  }
+}

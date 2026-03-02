@@ -1,0 +1,26 @@
+{
+  "appid": 340520,
+  "success": true,
+  "tags": {
+    "Indie": 161,
+    "Action Roguelike": 152,
+    "2D Platformer": 150,
+    "Hack and Slash": 147,
+    "Dungeon Crawler": 142,
+    "Fantasy": 136,
+    "Loot": 135,
+    "Pixel Graphics": 134,
+    "Blood": 129,
+    "Gore": 127,
+    "Score Attack": 126,
+    "Singleplayer": 123,
+    "Local Co-Op": 119,
+    "4 Player Local": 116,
+    "Controller": 109,
+    "Rogue-like": 100,
+    "Perma Death": 96,
+    "Procedural Generation": 94,
+    "Replay Value": 85,
+    "Rogue-lite": 80
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 278930,
+  "success": true,
+  "tags": {
+    "Runner": 215,
+    "Action": 204,
+    "Indie": 201,
+    "Mechs": 199,
+    "Platformer": 192,
+    "Arcade": 179,
+    "Side Scroller": 173,
+    "Shoot 'Em Up": 165,
+    "2D Platformer": 156,
+    "2D": 150,
+    "Retro": 147,
+    "Pixel Graphics": 141,
+    "Robots": 135,
+    "Shooter": 127,
+    "Sci-fi": 125,
+    "Difficult": 119,
+    "Casual": 106,
+    "Anime": 95,
+    "1980s": 92,
+    "Controller": 86
+  }
+}

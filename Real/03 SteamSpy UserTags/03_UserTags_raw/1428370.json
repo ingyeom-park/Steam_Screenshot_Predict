@@ -1,0 +1,26 @@
+{
+  "appid": 1428370,
+  "success": true,
+  "tags": {
+    "Adventure": 181,
+    "Open World": 156,
+    "Visual Novel": 154,
+    "3D Platformer": 148,
+    "FPS": 139,
+    "2D": 129,
+    "3D": 122,
+    "Cute": 118,
+    "Stylized": 109,
+    "Atmospheric": 97,
+    "Comedy": 96,
+    "Management": 83,
+    "Mystery": 71,
+    "Singleplayer": 58,
+    "First-Person": 43,
+    "Indie": 32,
+    "Third Person": 27,
+    "Time Management": 25,
+    "Experimental": 10,
+    "Experience": 10
+  }
+}

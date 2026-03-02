@@ -1,0 +1,23 @@
+{
+  "appid": 1290710,
+  "success": true,
+  "tags": {
+    "Adventure": 73,
+    "Action": 68,
+    "Platformer": 49,
+    "2D Platformer": 40,
+    "Action-Adventure": 39,
+    "Side Scroller": 32,
+    "2D": 31,
+    "Pixel Graphics": 30,
+    "Anime": 29,
+    "Indie": 25,
+    "Colorful": 22,
+    "Top-Down": 21,
+    "Atmospheric": 19,
+    "Fantasy": 18,
+    "Singleplayer": 16,
+    "Hack and Slash": 16,
+    "Female Protagonist": 10
+  }
+}

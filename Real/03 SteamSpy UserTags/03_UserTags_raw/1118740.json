@@ -1,0 +1,25 @@
+{
+  "appid": 1118740,
+  "success": true,
+  "tags": {
+    "Indie": 87,
+    "Simulation": 61,
+    "Hand-drawn": 59,
+    "Real Time Tactics": 55,
+    "Adventure": 51,
+    "Strategy": 47,
+    "Action": 45,
+    "2D": 41,
+    "Action-Adventure": 41,
+    "Retro": 39,
+    "Class-Based": 35,
+    "Flight": 33,
+    "Linear": 31,
+    "Multiple Endings": 29,
+    "Procedural Generation": 27,
+    "PvE": 25,
+    "Quick-Time Events": 24,
+    "Time Manipulation": 21,
+    "Singleplayer": 19
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2427950,
+  "success": true,
+  "tags": {
+    "Horror": 123,
+    "Survival Horror": 119,
+    "First-Person": 115,
+    "Atmospheric": 112,
+    "PvE": 107,
+    "Action": 101,
+    "Multiple Endings": 93,
+    "Singleplayer": 91,
+    "Female Protagonist": 90,
+    "Exploration": 87,
+    "Adventure": 85,
+    "Runner": 84,
+    "Action-Adventure": 80,
+    "3D": 79,
+    "Psychological Horror": 79,
+    "Dark": 76,
+    "Destruction": 75,
+    "Indie": 73,
+    "Tactical": 51,
+    "America": 50
+  }
+}

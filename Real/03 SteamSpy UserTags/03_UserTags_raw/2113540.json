@@ -1,0 +1,26 @@
+{
+  "appid": 2113540,
+  "success": true,
+  "tags": {
+    "RPG": 200,
+    "Adventure": 180,
+    "Singleplayer": 171,
+    "Turn-Based Combat": 169,
+    "Drama": 155,
+    "Lore-Rich": 145,
+    "Turn-Based Strategy": 138,
+    "Party-Based RPG": 131,
+    "Tactical RPG": 123,
+    "JRPG": 114,
+    "Multiple Endings": 102,
+    "Story Rich": 100,
+    "Sci-fi": 87,
+    "2D": 73,
+    "Stylized": 58,
+    "Surreal": 42,
+    "Turn-Based Tactics": 28,
+    "Pixel Graphics": 25,
+    "Indie": 21,
+    "RPGMaker": 12
+  }
+}

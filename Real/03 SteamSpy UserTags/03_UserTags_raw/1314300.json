@@ -1,0 +1,20 @@
+{
+  "appid": 1314300,
+  "success": true,
+  "tags": {
+    "Action": 44,
+    "Indie": 44,
+    "Simulation": 43,
+    "Casual": 42,
+    "Adventure": 40,
+    "VR": 25,
+    "Flight": 16,
+    "Open World": 14,
+    "First-Person": 14,
+    "Singleplayer": 14,
+    "Early Access": 13,
+    "Fast-Paced": 13,
+    "Realistic": 12,
+    "Horror": 9
+  }
+}

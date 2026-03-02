@@ -1,0 +1,26 @@
+{
+  "appid": 542280,
+  "success": true,
+  "tags": {
+    "Adventure": 195,
+    "Indie": 189,
+    "Horror": 186,
+    "Psychological Horror": 181,
+    "Atmospheric": 176,
+    "Psychedelic": 169,
+    "Story Rich": 167,
+    "Anime": 165,
+    "First-Person": 162,
+    "Family Friendly": 155,
+    "Memes": 148,
+    "Singleplayer": 140,
+    "Co-op": 131,
+    "Action": 126,
+    "RPG": 122,
+    "Action-Adventure": 119,
+    "Dungeon Crawler": 115,
+    "Hidden Object": 113,
+    "Hand-drawn": 107,
+    "Stylized": 103
+  }
+}

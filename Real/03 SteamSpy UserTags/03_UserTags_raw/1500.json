@@ -1,0 +1,26 @@
+{
+  "appid": 1500,
+  "success": true,
+  "tags": {
+    "Indie": 572,
+    "Tactical RPG": 445,
+    "Shoot 'Em Up": 442,
+    "Wargame": 439,
+    "Real Time Tactics": 434,
+    "Puzzle": 425,
+    "PvE": 421,
+    "RTS": 418,
+    "God Game": 417,
+    "Arcade": 411,
+    "Strategy": 405,
+    "Surreal": 403,
+    "Story Rich": 392,
+    "3D": 381,
+    "Abstract": 372,
+    "Colorful": 363,
+    "Pixel Graphics": 352,
+    "Stylized": 348,
+    "Sci-fi": 345,
+    "Singleplayer": 329
+  }
+}

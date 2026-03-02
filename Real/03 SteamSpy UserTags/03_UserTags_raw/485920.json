@@ -1,0 +1,26 @@
+{
+  "appid": 485920,
+  "success": true,
+  "tags": {
+    "Casual": 34,
+    "Indie": 33,
+    "Action": 33,
+    "Arcade": 23,
+    "Stylized": 22,
+    "Singleplayer": 22,
+    "2D": 22,
+    "Puzzle": 14,
+    "Minimalist": 13,
+    "Funny": 12,
+    "Atmospheric": 12,
+    "Logic": 12,
+    "Difficult": 11,
+    "Great Soundtrack": 11,
+    "Colorful": 11,
+    "Experimental": 11,
+    "Relaxing": 10,
+    "GameMaker": 10,
+    "Score Attack": 10,
+    "Touch-Friendly": 10
+  }
+}

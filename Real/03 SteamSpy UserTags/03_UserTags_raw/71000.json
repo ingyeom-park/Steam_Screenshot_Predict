@@ -1,0 +1,21 @@
+{
+  "appid": 71000,
+  "success": true,
+  "tags": {
+    "Space": 81,
+    "Simulation": 80,
+    "Indie": 46,
+    "Sci-fi": 44,
+    "Space Sim": 44,
+    "Action": 42,
+    "Open World": 41,
+    "Sandbox": 38,
+    "Multiplayer": 26,
+    "Flight": 23,
+    "Trading": 17,
+    "TrackIR": 17,
+    "Co-op": 13,
+    "Spaceships": 7,
+    "Exploration": 5
+  }
+}

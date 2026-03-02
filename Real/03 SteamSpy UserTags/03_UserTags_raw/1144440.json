@@ -1,0 +1,26 @@
+{
+  "appid": 1144440,
+  "success": true,
+  "tags": {
+    "Gore": 222,
+    "Violent": 190,
+    "Nudity": 172,
+    "Sexual Content": 170,
+    "Cartoony": 167,
+    "2D Platformer": 167,
+    "Female Protagonist": 155,
+    "Cute": 153,
+    "Platformer": 150,
+    "Action": 139,
+    "Anime": 135,
+    "Adventure": 133,
+    "Side Scroller": 126,
+    "Indie": 117,
+    "Mature": 86,
+    "2D": 73,
+    "Difficult": 72,
+    "Controller": 53,
+    "Metroidvania": 44,
+    "Arcade": 37
+  }
+}

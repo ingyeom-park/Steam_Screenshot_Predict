@@ -1,0 +1,26 @@
+{
+  "appid": 3349930,
+  "success": true,
+  "tags": {
+    "Real Time Tactics": 145,
+    "Battle Royale": 139,
+    "RPG": 135,
+    "2.5D": 133,
+    "Split Screen": 131,
+    "Controller": 123,
+    "Zombies": 120,
+    "Adventure": 117,
+    "Indie": 116,
+    "Co-op": 112,
+    "Local Co-Op": 109,
+    "Casual": 102,
+    "Party-Based RPG": 90,
+    "Runner": 80,
+    "Choose Your Own Adventure": 68,
+    "Horror": 60,
+    "Survival Horror": 58,
+    "Quick-Time Events": 47,
+    "Singleplayer": 38,
+    "Multiplayer": 28
+  }
+}

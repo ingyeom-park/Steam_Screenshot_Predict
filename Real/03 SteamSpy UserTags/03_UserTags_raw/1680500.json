@@ -1,0 +1,25 @@
+{
+  "appid": 1680500,
+  "success": true,
+  "tags": {
+    "Adventure": 198,
+    "Action": 195,
+    "Arcade": 170,
+    "Action-Adventure": 163,
+    "Beat 'em up": 154,
+    "Platformer": 150,
+    "Side Scroller": 139,
+    "Hack and Slash": 130,
+    "2D Platformer": 126,
+    "Souls-like": 113,
+    "2D": 107,
+    "1980s": 100,
+    "Fantasy": 90,
+    "Dark Fantasy": 73,
+    "Combat": 58,
+    "Singleplayer": 47,
+    "Old School": 31,
+    "Pixel Graphics": 30,
+    "Indie": 23
+  }
+}

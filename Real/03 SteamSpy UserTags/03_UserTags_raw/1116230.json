@@ -1,0 +1,26 @@
+{
+  "appid": 1116230,
+  "success": true,
+  "tags": {
+    "Adventure": 47,
+    "Horror": 45,
+    "Violent": 38,
+    "Action": 38,
+    "Indie": 38,
+    "Multiplayer": 37,
+    "Survival Horror": 29,
+    "Psychological Horror": 27,
+    "Singleplayer": 24,
+    "Exploration": 22,
+    "First-Person": 22,
+    "Dark": 20,
+    "Gore": 20,
+    "Puzzle": 19,
+    "Atmospheric": 19,
+    "FPS": 17,
+    "Survival": 16,
+    "Zombies": 16,
+    "Shooter": 15,
+    "Classic": 12
+  }
+}

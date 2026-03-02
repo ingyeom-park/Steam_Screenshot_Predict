@@ -1,0 +1,26 @@
+{
+  "appid": 965610,
+  "success": true,
+  "tags": {
+    "Strategy": 162,
+    "Indie": 155,
+    "Board Game": 153,
+    "Tabletop": 150,
+    "War": 146,
+    "Simulation": 139,
+    "Building": 137,
+    "Diplomacy": 135,
+    "Turn-Based Strategy": 134,
+    "Grand Strategy": 131,
+    "Political Sim": 129,
+    "Wargame": 127,
+    "2D": 121,
+    "Colorful": 111,
+    "Top-Down": 108,
+    "Historical": 106,
+    "Military": 104,
+    "Tactical": 102,
+    "Hex Grid": 98,
+    "PvP": 79
+  }
+}

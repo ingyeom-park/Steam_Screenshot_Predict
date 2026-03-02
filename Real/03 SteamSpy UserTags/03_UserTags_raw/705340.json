@@ -1,0 +1,14 @@
+{
+  "appid": 705340,
+  "success": true,
+  "tags": {
+    "RPG": 45,
+    "Adventure": 44,
+    "Strategy": 43,
+    "Indie": 32,
+    "Comedy": 14,
+    "Singleplayer": 11,
+    "Isometric": 11,
+    "Souls-like": 8
+  }
+}

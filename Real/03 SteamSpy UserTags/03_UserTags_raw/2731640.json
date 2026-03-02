@@ -1,0 +1,26 @@
+{
+  "appid": 2731640,
+  "success": true,
+  "tags": {
+    "Exploration": 215,
+    "Dungeon Crawler": 207,
+    "Hack and Slash": 203,
+    "Turn-Based": 199,
+    "Party-Based RPG": 193,
+    "RPG": 188,
+    "JRPG": 185,
+    "Rogue-like": 172,
+    "2D": 159,
+    "Post-apocalyptic": 149,
+    "Controller": 139,
+    "Turn-Based Combat": 128,
+    "Pixel Graphics": 126,
+    "Minimalist": 112,
+    "Class-Based": 96,
+    "Survival": 80,
+    "Retro": 63,
+    "Indie": 47,
+    "Resource Management": 45,
+    "Singleplayer": 29
+  }
+}

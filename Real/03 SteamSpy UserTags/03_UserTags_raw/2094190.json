@@ -1,0 +1,26 @@
+{
+  "appid": 2094190,
+  "success": true,
+  "tags": {
+    "JRPG": 147,
+    "Puzzle": 142,
+    "Drama": 140,
+    "Indie": 136,
+    "Mystery": 133,
+    "Visual Novel": 129,
+    "Horror": 124,
+    "Anime": 121,
+    "Atmospheric": 113,
+    "Story Rich": 111,
+    "Singleplayer": 111,
+    "RPG": 105,
+    "Strategy RPG": 95,
+    "Adventure": 87,
+    "Early Access": 86,
+    "Exploration": 78,
+    "Lore-Rich": 70,
+    "Casual": 63,
+    "2D": 60,
+    "2D Platformer": 60
+  }
+}

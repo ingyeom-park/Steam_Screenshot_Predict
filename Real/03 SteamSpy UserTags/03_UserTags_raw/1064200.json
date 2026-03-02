@@ -1,0 +1,26 @@
+{
+  "appid": 1064200,
+  "success": true,
+  "tags": {
+    "Simulation": 113,
+    "Strategy": 108,
+    "Indie": 104,
+    "Management": 102,
+    "Economy": 98,
+    "Singleplayer": 92,
+    "2D": 88,
+    "Time Management": 84,
+    "Interactive Fiction": 81,
+    "Minimalist": 74,
+    "Old School": 64,
+    "Retro": 59,
+    "Replay Value": 57,
+    "Difficult": 55,
+    "Capitalism": 51,
+    "Comedy": 49,
+    "Resource Management": 44,
+    "Real-Time with Pause": 39,
+    "Idler": 37,
+    "Clicker": 33
+  }
+}

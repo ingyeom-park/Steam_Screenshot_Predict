@@ -1,0 +1,26 @@
+{
+  "appid": 2322900,
+  "success": true,
+  "tags": {
+    "Atmospheric": 228,
+    "Puzzle-Platformer": 222,
+    "Side Scroller": 209,
+    "Story Rich": 205,
+    "Emotional": 201,
+    "Indie": 174,
+    "Action-Adventure": 172,
+    "Action": 170,
+    "Adventure": 168,
+    "Puzzle": 166,
+    "Cute": 164,
+    "2.5D": 160,
+    "Exploration": 155,
+    "Singleplayer": 149,
+    "Survival": 115,
+    "Controller": 109,
+    "Drama": 108,
+    "Multiple Endings": 107,
+    "3D": 97,
+    "Physics": 95
+  }
+}

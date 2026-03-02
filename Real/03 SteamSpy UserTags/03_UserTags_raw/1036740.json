@@ -1,0 +1,26 @@
+{
+  "appid": 1036740,
+  "success": true,
+  "tags": {
+    "Hack and Slash": 289,
+    "Casual": 287,
+    "Dog": 283,
+    "Cute": 279,
+    "Action Roguelike": 276,
+    "Singleplayer": 273,
+    "Post-apocalyptic": 271,
+    "Action RPG": 262,
+    "RPG": 260,
+    "Top-Down": 260,
+    "Controller": 253,
+    "Procedural Generation": 242,
+    "Action": 237,
+    "Sci-fi": 230,
+    "Military": 226,
+    "Tutorial": 222,
+    "Indie": 214,
+    "Dungeon Crawler": 203,
+    "3D Platformer": 186,
+    "Rogue-lite": 171
+  }
+}

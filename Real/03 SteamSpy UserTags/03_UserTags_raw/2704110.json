@@ -1,0 +1,24 @@
+{
+  "appid": 2704110,
+  "success": true,
+  "tags": {
+    "RPG": 192,
+    "Interactive Fiction": 181,
+    "Visual Novel": 170,
+    "Word Game": 166,
+    "Multiple Endings": 154,
+    "Space": 138,
+    "Sci-fi": 133,
+    "Text-Based": 122,
+    "Perma Death": 111,
+    "2D": 100,
+    "Minimalist": 98,
+    "Emotional": 87,
+    "Story Rich": 68,
+    "Choices Matter": 48,
+    "Singleplayer": 38,
+    "Time Management": 29,
+    "Indie": 24,
+    "Dating Sim": 13
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 452120,
+  "success": true,
+  "tags": {
+    "Adventure": 121,
+    "Indie": 115,
+    "Casual": 113,
+    "Puzzle": 110,
+    "Hand-drawn": 106,
+    "Point & Click": 96,
+    "Mythology": 92,
+    "Interactive Fiction": 90,
+    "Visual Novel": 88,
+    "Walking Simulator": 84,
+    "Hidden Object": 80,
+    "Choose Your Own Adventure": 74,
+    "Exploration": 71,
+    "2D": 69,
+    "Colorful": 66,
+    "Cute": 64,
+    "Stylized": 61,
+    "Atmospheric": 55,
+    "Dark": 52,
+    "Emotional": 50
+  }
+}

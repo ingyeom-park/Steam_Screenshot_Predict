@@ -1,0 +1,26 @@
+{
+  "appid": 1016930,
+  "success": true,
+  "tags": {
+    "Adventure": 58,
+    "Indie": 55,
+    "Casual": 51,
+    "Horror": 32,
+    "Time Travel": 29,
+    "Post-apocalyptic": 26,
+    "Sci-fi": 25,
+    "Singleplayer": 25,
+    "Puzzle": 24,
+    "Exploration": 23,
+    "2D": 23,
+    "Atmospheric": 23,
+    "Story Rich": 22,
+    "Short": 21,
+    "Mystery": 20,
+    "Third Person": 19,
+    "Stylized": 19,
+    "Great Soundtrack": 18,
+    "Cartoony": 18,
+    "Family Friendly": 16
+  }
+}

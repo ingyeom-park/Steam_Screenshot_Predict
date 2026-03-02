@@ -1,0 +1,16 @@
+{
+  "appid": 588950,
+  "success": true,
+  "tags": {
+    "RPG": 77,
+    "Adventure": 52,
+    "Rogue-like": 47,
+    "Simulation": 43,
+    "Pixel Graphics": 39,
+    "Retro": 32,
+    "Indie": 23,
+    "Rogue-lite": 21,
+    "Singleplayer": 17,
+    "Fantasy": 10
+  }
+}

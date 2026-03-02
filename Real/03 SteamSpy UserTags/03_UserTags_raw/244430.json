@@ -1,0 +1,26 @@
+{
+  "appid": 244430,
+  "success": true,
+  "tags": {
+    "Adventure": 163,
+    "Puzzle": 143,
+    "Point & Click": 105,
+    "Exploration": 103,
+    "Mystery": 85,
+    "Classic": 79,
+    "First-Person": 76,
+    "Indie": 66,
+    "Remake": 65,
+    "Story Rich": 59,
+    "Relaxing": 38,
+    "Nostalgia": 37,
+    "Singleplayer": 37,
+    "Atmospheric": 35,
+    "Difficult": 31,
+    "Beautiful": 30,
+    "Walking Simulator": 25,
+    "Surreal": 19,
+    "Casual": 15,
+    "FMV": 14
+  }
+}

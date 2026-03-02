@@ -1,0 +1,26 @@
+{
+  "appid": 1209490,
+  "success": true,
+  "tags": {
+    "Arcade": 154,
+    "Action": 140,
+    "Indie": 140,
+    "Adventure": 129,
+    "Bullet Hell": 64,
+    "Pixel Graphics": 62,
+    "2D": 44,
+    "Difficult": 32,
+    "Singleplayer": 32,
+    "2D Platformer": 31,
+    "Shooter": 31,
+    "Dungeon Crawler": 26,
+    "Funny": 24,
+    "Great Soundtrack": 20,
+    "Rogue-like": 17,
+    "Retro": 17,
+    "Atmospheric": 14,
+    "Metroidvania": 10,
+    "Platformer": 9,
+    "Multiplayer": 8
+  }
+}

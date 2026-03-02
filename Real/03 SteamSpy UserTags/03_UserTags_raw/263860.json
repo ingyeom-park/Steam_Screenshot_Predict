@@ -1,0 +1,26 @@
+{
+  "appid": 263860,
+  "success": true,
+  "tags": {
+    "RTS": 123,
+    "Strategy": 113,
+    "Indie": 103,
+    "4X": 87,
+    "Tactical": 85,
+    "Multiplayer": 76,
+    "Singleplayer": 75,
+    "Sci-fi": 75,
+    "Space": 71,
+    "2D": 54,
+    "Minimalist": 52,
+    "PvE": 47,
+    "PvP": 41,
+    "Real-Time": 38,
+    "Competitive": 38,
+    "Great Soundtrack": 34,
+    "Casual": 32,
+    "Adventure": 30,
+    "MOBA": 27,
+    "Psychological Horror": 24
+  }
+}

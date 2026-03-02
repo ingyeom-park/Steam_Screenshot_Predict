@@ -1,0 +1,26 @@
+{
+  "appid": 535480,
+  "success": true,
+  "tags": {
+    "Roguevania": 257,
+    "Metroidvania": 215,
+    "Lovecraftian": 194,
+    "Action Roguelike": 192,
+    "Indie": 179,
+    "Platformer": 176,
+    "Hand-drawn": 159,
+    "2D": 152,
+    "Female Protagonist": 151,
+    "Action": 133,
+    "Difficult": 110,
+    "Adventure": 107,
+    "Side Scroller": 105,
+    "Atmospheric": 104,
+    "Singleplayer": 89,
+    "Exploration": 82,
+    "Rogue-like": 73,
+    "Controller": 69,
+    "Horror": 67,
+    "Great Soundtrack": 64
+  }
+}

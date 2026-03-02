@@ -1,0 +1,17 @@
+{
+  "appid": 545600,
+  "success": true,
+  "tags": {
+    "Strategy": 36,
+    "RPG": 36,
+    "Violent": 34,
+    "Indie": 32,
+    "Turn-Based Tactics": 26,
+    "Tactical RPG": 18,
+    "Turn-Based Combat": 18,
+    "Turn-Based": 16,
+    "Turn-Based Strategy": 14,
+    "Strategy RPG": 11,
+    "Crime": 6
+  }
+}

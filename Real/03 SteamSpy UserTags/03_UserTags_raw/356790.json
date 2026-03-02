@@ -1,0 +1,26 @@
+{
+  "appid": 356790,
+  "success": true,
+  "tags": {
+    "Action": 78,
+    "Indie": 76,
+    "Shoot 'Em Up": 51,
+    "Space": 43,
+    "Shooter": 39,
+    "Local Co-Op": 36,
+    "Puzzle": 33,
+    "4 Player Local": 29,
+    "Sci-fi": 27,
+    "Bullet Hell": 18,
+    "Local Multiplayer": 13,
+    "Multiplayer": 12,
+    "Co-op": 12,
+    "Difficult": 12,
+    "Singleplayer": 11,
+    "Casual": 11,
+    "Real-Time": 10,
+    "Aliens": 10,
+    "2.5D": 10,
+    "Family Friendly": 10
+  }
+}

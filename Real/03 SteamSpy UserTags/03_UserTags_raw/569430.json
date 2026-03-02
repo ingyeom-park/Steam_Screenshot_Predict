@@ -1,0 +1,26 @@
+{
+  "appid": 569430,
+  "success": true,
+  "tags": {
+    "Action": 137,
+    "Adventure": 131,
+    "Horror": 122,
+    "Psychological Horror": 116,
+    "Puzzle": 113,
+    "Gore": 108,
+    "Walking Simulator": 108,
+    "Violent": 105,
+    "Mystery Dungeon": 104,
+    "First-Person": 101,
+    "Survival": 98,
+    "Singleplayer": 95,
+    "Atmospheric": 92,
+    "Demons": 89,
+    "Exploration": 87,
+    "Fighting": 84,
+    "Blood": 79,
+    "Early Access": 64,
+    "Fast-Paced": 50,
+    "Indie": 47
+  }
+}

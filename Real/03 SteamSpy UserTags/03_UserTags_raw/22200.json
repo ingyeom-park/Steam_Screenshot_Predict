@@ -1,0 +1,23 @@
+{
+  "appid": 22200,
+  "success": true,
+  "tags": {
+    "Action": 165,
+    "Surreal": 137,
+    "Indie": 124,
+    "Beat 'em up": 100,
+    "Fighting": 81,
+    "FPS": 77,
+    "First-Person": 77,
+    "Short": 52,
+    "Singleplayer": 43,
+    "Fantasy": 37,
+    "Atmospheric": 37,
+    "Adventure": 36,
+    "Beautiful": 31,
+    "Story Rich": 19,
+    "Epic": 17,
+    "Sci-fi": 7,
+    "Classic": 5
+  }
+}

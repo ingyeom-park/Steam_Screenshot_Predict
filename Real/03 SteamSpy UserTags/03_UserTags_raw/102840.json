@@ -1,0 +1,26 @@
+{
+  "appid": 102840,
+  "success": true,
+  "tags": {
+    "Action": 153,
+    "Beat 'em up": 126,
+    "Indie": 91,
+    "2D": 85,
+    "Adventure": 71,
+    "Local Co-Op": 71,
+    "Side Scroller": 63,
+    "Co-op": 59,
+    "Platformer": 58,
+    "Gore": 52,
+    "Hack and Slash": 38,
+    "Mature": 27,
+    "Shooter": 26,
+    "Multiplayer": 26,
+    "Controller": 24,
+    "Singleplayer": 23,
+    "Stylized": 22,
+    "Violent": 18,
+    "Difficult": 16,
+    "Cartoon": 10
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1958600,
+  "success": true,
+  "tags": {
+    "Indie": 109,
+    "Racing": 104,
+    "Sports": 100,
+    "Multiplayer": 99,
+    "PvP": 96,
+    "Arcade": 87,
+    "Driving": 84,
+    "Automobile Sim": 80,
+    "Simulation": 76,
+    "Immersive Sim": 76,
+    "Time Attack": 72,
+    "Local Multiplayer": 71,
+    "Singleplayer": 68,
+    "Split Screen": 67,
+    "Casual": 56,
+    "4 Player Local": 49,
+    "Sequel": 43,
+    "Local Co-Op": 37,
+    "Action": 31,
+    "Adventure": 29
+  }
+}

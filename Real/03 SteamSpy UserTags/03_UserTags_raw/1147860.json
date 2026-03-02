@@ -1,0 +1,26 @@
+{
+  "appid": 1147860,
+  "success": true,
+  "tags": {
+    "Indie": 70,
+    "Pixel Graphics": 61,
+    "Action": 53,
+    "Retro": 52,
+    "Strategy": 43,
+    "RPG": 40,
+    "2D": 39,
+    "Adventure": 38,
+    "Arcade": 37,
+    "Difficult": 26,
+    "Casual": 22,
+    "1980s": 22,
+    "Local Multiplayer": 19,
+    "Minigames": 14,
+    "Rogue-like": 13,
+    "2D Platformer": 12,
+    "Puzzle": 12,
+    "Platformer": 12,
+    "Great Soundtrack": 11,
+    "Sports": 8
+  }
+}

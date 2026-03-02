@@ -1,0 +1,26 @@
+{
+  "appid": 1863750,
+  "success": true,
+  "tags": {
+    "Idler": 157,
+    "Casual": 151,
+    "Word Game": 147,
+    "Loot": 143,
+    "Strategy": 138,
+    "Clicker": 130,
+    "Text-Based": 125,
+    "Turn-Based Tactics": 119,
+    "Turn-Based Strategy": 115,
+    "RPG": 111,
+    "Character Customization": 103,
+    "Mythology": 101,
+    "Rogue-lite": 94,
+    "Rogue-like": 89,
+    "Procedural Generation": 86,
+    "Comedy": 84,
+    "Funny": 81,
+    "Relaxing": 77,
+    "Singleplayer": 70,
+    "2D": 68
+  }
+}

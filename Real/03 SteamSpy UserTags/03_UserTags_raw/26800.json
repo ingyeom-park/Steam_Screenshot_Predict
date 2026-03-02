@@ -1,0 +1,26 @@
+{
+  "appid": 26800,
+  "success": true,
+  "tags": {
+    "Puzzle-Platformer": 1026,
+    "Puzzle": 677,
+    "2D Platformer": 623,
+    "Platformer": 590,
+    "Indie": 588,
+    "Time Manipulation": 441,
+    "2D": 319,
+    "Singleplayer": 248,
+    "Great Soundtrack": 235,
+    "Difficult": 182,
+    "Time Travel": 141,
+    "Casual": 120,
+    "Atmospheric": 89,
+    "Classic": 81,
+    "Story Rich": 69,
+    "Side Scroller": 65,
+    "Strategy": 65,
+    "Beautiful": 63,
+    "Adventure": 49,
+    "Short": 31
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2082510,
+  "success": true,
+  "tags": {
+    "Adventure": 214,
+    "Action": 208,
+    "Shooter": 185,
+    "Hidden Object": 179,
+    "FPS": 174,
+    "3D": 164,
+    "First-Person": 158,
+    "Stylized": 147,
+    "Colorful": 139,
+    "Survival": 131,
+    "Zombies": 121,
+    "Sci-fi": 118,
+    "Post-apocalyptic": 105,
+    "Thriller": 90,
+    "Horror": 77,
+    "Linear": 60,
+    "Inventory Management": 43,
+    "Singleplayer": 27,
+    "Narration": 26,
+    "Indie": 21
+  }
+}

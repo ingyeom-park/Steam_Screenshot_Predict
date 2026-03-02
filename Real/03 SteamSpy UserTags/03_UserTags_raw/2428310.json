@@ -1,0 +1,24 @@
+{
+  "appid": 2428310,
+  "success": true,
+  "tags": {
+    "Strategy": 100,
+    "Deckbuilding": 94,
+    "Tower Defense": 91,
+    "Card Game": 87,
+    "Rogue-like": 84,
+    "Card Battler": 78,
+    "Rogue-lite": 76,
+    "2D": 74,
+    "Hand-drawn": 72,
+    "Comedy": 70,
+    "Futuristic": 68,
+    "Casual": 64,
+    "Simulation": 62,
+    "Indie": 50,
+    "Early Access": 46,
+    "Funny": 29,
+    "Procedural Generation": 27,
+    "Singleplayer": 25
+  }
+}

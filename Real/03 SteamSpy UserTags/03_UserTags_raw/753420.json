@@ -1,0 +1,26 @@
+{
+  "appid": 753420,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 151,
+    "Pixel Graphics": 138,
+    "Rogue-lite": 126,
+    "Rogue-like": 126,
+    "Action": 120,
+    "Indie": 107,
+    "2D": 94,
+    "Dungeon Crawler": 83,
+    "Singleplayer": 75,
+    "Difficult": 50,
+    "Platformer": 49,
+    "RPG": 38,
+    "Side Scroller": 27,
+    "Great Soundtrack": 26,
+    "Multiplayer": 17,
+    "Bullet Hell": 14,
+    "Loot": 12,
+    "Adventure": 10,
+    "Metroidvania": 7,
+    "Local Co-Op": 6
+  }
+}

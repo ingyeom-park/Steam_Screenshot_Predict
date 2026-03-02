@@ -1,0 +1,26 @@
+{
+  "appid": 2855770,
+  "success": true,
+  "tags": {
+    "Adventure": 217,
+    "Survival Horror": 213,
+    "Horror": 207,
+    "Mystery": 202,
+    "Violent": 194,
+    "Conspiracy": 191,
+    "Gore": 186,
+    "Retro": 183,
+    "Atmospheric": 157,
+    "Blood": 148,
+    "Cinematic": 138,
+    "1990's": 126,
+    "Dark": 124,
+    "Third Person": 110,
+    "Singleplayer": 95,
+    "Lore-Rich": 79,
+    "Controller": 62,
+    "Indie": 47,
+    "Stealth": 44,
+    "Female Protagonist": 25
+  }
+}

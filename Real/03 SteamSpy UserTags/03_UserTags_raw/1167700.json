@@ -1,0 +1,26 @@
+{
+  "appid": 1167700,
+  "success": true,
+  "tags": {
+    "Sci-fi": 128,
+    "Visual Novel": 123,
+    "Linear": 118,
+    "Anime": 114,
+    "Mystery": 111,
+    "Puzzle": 105,
+    "Interactive Fiction": 103,
+    "Conspiracy": 101,
+    "Strategy": 96,
+    "2D": 93,
+    "Text-Based": 86,
+    "Story Rich": 77,
+    "VR": 76,
+    "2D Platformer": 70,
+    "Emotional": 68,
+    "Adventure": 64,
+    "Singleplayer": 54,
+    "Indie": 52,
+    "Casual": 50,
+    "Nudity": 32
+  }
+}

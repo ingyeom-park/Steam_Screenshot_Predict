@@ -1,0 +1,26 @@
+{
+  "appid": 204240,
+  "success": true,
+  "tags": {
+    "Puzzle-Platformer": 350,
+    "Hand-drawn": 343,
+    "Surreal": 339,
+    "Physics": 332,
+    "2D": 331,
+    "Puzzle": 319,
+    "Singleplayer": 227,
+    "Emotional": 225,
+    "Logic": 224,
+    "Indie": 220,
+    "Strategy": 158,
+    "Platformer": 150,
+    "Difficult": 149,
+    "Atmospheric": 145,
+    "Casual": 136,
+    "Adventure": 100,
+    "Stylized": 81,
+    "Abstract": 79,
+    "Philosophical": 75,
+    "Dark": 64
+  }
+}

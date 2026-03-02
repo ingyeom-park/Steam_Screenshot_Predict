@@ -1,0 +1,26 @@
+{
+  "appid": 617440,
+  "success": true,
+  "tags": {
+    "Action": 52,
+    "Adventure": 52,
+    "Indie": 51,
+    "Casual": 51,
+    "Arcade": 29,
+    "Retro": 25,
+    "Shoot 'Em Up": 23,
+    "Co-op": 23,
+    "Singleplayer": 22,
+    "Difficult": 21,
+    "2D": 21,
+    "Aliens": 20,
+    "Sci-fi": 20,
+    "Destruction": 20,
+    "Bullet Hell": 20,
+    "Hand-drawn": 19,
+    "Cartoony": 19,
+    "Cartoon": 18,
+    "Action-Adventure": 17,
+    "Classic": 15
+  }
+}

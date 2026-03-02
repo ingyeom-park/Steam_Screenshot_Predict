@@ -1,0 +1,26 @@
+{
+  "appid": 1167680,
+  "success": true,
+  "tags": {
+    "Platformer": 463,
+    "Pixel Graphics": 217,
+    "Rogue-like": 209,
+    "Action Roguelike": 208,
+    "Action": 200,
+    "2D Platformer": 197,
+    "Difficult": 193,
+    "Indie": 186,
+    "Replay Value": 182,
+    "Bullet Time": 174,
+    "Singleplayer": 161,
+    "Perma Death": 158,
+    "2.5D": 149,
+    "Procedural Generation": 144,
+    "2D": 134,
+    "Sci-fi": 133,
+    "Cyberpunk": 132,
+    "3D": 132,
+    "Futuristic": 128,
+    "Hack and Slash": 118
+  }
+}

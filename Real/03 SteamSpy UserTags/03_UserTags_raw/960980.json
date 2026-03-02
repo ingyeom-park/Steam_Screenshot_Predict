@@ -1,0 +1,26 @@
+{
+  "appid": 960980,
+  "success": true,
+  "tags": {
+    "Adventure": 52,
+    "Horror": 45,
+    "Female Protagonist": 42,
+    "Action": 40,
+    "Indie": 39,
+    "Mythology": 38,
+    "Gore": 37,
+    "Violent": 32,
+    "First-Person": 23,
+    "Atmospheric": 22,
+    "Sci-fi": 14,
+    "Singleplayer": 13,
+    "Stealth": 11,
+    "Vikings": 8,
+    "Survival Horror": 7,
+    "Dark": 7,
+    "Psychological Horror": 7,
+    "Cyberpunk": 6,
+    "Walking Simulator": 6,
+    "Multiplayer": 5
+  }
+}

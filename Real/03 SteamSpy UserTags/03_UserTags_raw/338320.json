@@ -1,0 +1,20 @@
+{
+  "appid": 338320,
+  "success": true,
+  "tags": {
+    "RPG": 47,
+    "Indie": 37,
+    "Pixel Graphics": 34,
+    "Adventure": 32,
+    "Rogue-lite": 26,
+    "Rogue-like": 25,
+    "Turn-Based": 22,
+    "2D": 16,
+    "Dwarf": 13,
+    "Retro": 11,
+    "Singleplayer": 10,
+    "Comedy": 9,
+    "Turn-Based Combat": 9,
+    "Fantasy": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1340640,
+  "success": true,
+  "tags": {
+    "Horror": 226,
+    "Survival Horror": 220,
+    "Psychological Horror": 216,
+    "First-Person": 212,
+    "Atmospheric": 208,
+    "Dark": 202,
+    "Adventure": 197,
+    "Exploration": 193,
+    "Story Rich": 187,
+    "Indie": 185,
+    "Immersive": 181,
+    "Violent": 179,
+    "Stealth": 178,
+    "Lore-Rich": 168,
+    "Realistic": 161,
+    "Blood": 157,
+    "Singleplayer": 155,
+    "Mystery": 147,
+    "Action-Adventure": 141,
+    "Dark Fantasy": 136
+  }
+}

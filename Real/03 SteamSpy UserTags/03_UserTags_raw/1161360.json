@@ -1,0 +1,26 @@
+{
+  "appid": 1161360,
+  "success": true,
+  "tags": {
+    "Solitaire": 127,
+    "Puzzle": 121,
+    "Match 3": 118,
+    "Casual": 115,
+    "Relaxing": 113,
+    "Tutorial": 104,
+    "Board Game": 101,
+    "Tabletop": 96,
+    "2D": 90,
+    "Family Friendly": 83,
+    "Score Attack": 81,
+    "Retro": 75,
+    "Classic": 65,
+    "Singleplayer": 60,
+    "Great Soundtrack": 53,
+    "Indie": 50,
+    "Minigames": 32,
+    "Card Game": 30,
+    "Strategy": 28,
+    "Mahjong": 12
+  }
+}

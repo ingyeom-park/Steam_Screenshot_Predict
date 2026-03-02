@@ -1,0 +1,26 @@
+{
+  "appid": 2457890,
+  "success": true,
+  "tags": {
+    "Rogue-like": 192,
+    "Top-Down": 188,
+    "Shooter": 183,
+    "Bullet Hell": 177,
+    "Action": 175,
+    "Singleplayer": 172,
+    "Action Roguelike": 163,
+    "2D": 148,
+    "Cartoon": 139,
+    "Colorful": 130,
+    "Dragons": 119,
+    "Fantasy": 117,
+    "Post-apocalyptic": 104,
+    "Robots": 90,
+    "Space": 75,
+    "Steampunk": 59,
+    "Combat": 42,
+    "Controller": 26,
+    "Tutorial": 24,
+    "Indie": 20
+  }
+}

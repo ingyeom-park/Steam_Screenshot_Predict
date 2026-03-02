@@ -1,0 +1,26 @@
+{
+  "appid": 1555400,
+  "success": true,
+  "tags": {
+    "Strategy": 115,
+    "Tabletop": 108,
+    "3D": 105,
+    "Board Game": 101,
+    "Realistic": 101,
+    "Stylized": 97,
+    "Turn-Based Strategy": 91,
+    "Turn-Based Tactics": 86,
+    "Tactical": 73,
+    "3D Platformer": 73,
+    "Casual": 68,
+    "Indie": 65,
+    "Atmospheric": 63,
+    "Singleplayer": 59,
+    "Multiplayer": 51,
+    "PvP": 45,
+    "Local Multiplayer": 43,
+    "Card Game": 38,
+    "Puzzle": 38,
+    "Historical": 35
+  }
+}

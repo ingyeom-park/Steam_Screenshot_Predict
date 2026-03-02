@@ -1,0 +1,26 @@
+{
+  "appid": 1510,
+  "success": true,
+  "tags": {
+    "Hacking": 295,
+    "Indie": 217,
+    "Strategy": 204,
+    "Singleplayer": 174,
+    "Cyberpunk": 164,
+    "Simulation": 159,
+    "Sci-fi": 155,
+    "Real-Time with Pause": 153,
+    "2D": 150,
+    "Experimental": 148,
+    "Atmospheric": 146,
+    "Puzzle": 144,
+    "Story Rich": 143,
+    "Programming": 142,
+    "Perma Death": 137,
+    "Rogue-like": 134,
+    "Text-Based": 128,
+    "Immersive Sim": 122,
+    "Time Management": 119,
+    "Typing": 117
+  }
+}

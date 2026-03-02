@@ -1,0 +1,26 @@
+{
+  "appid": 1047870,
+  "success": true,
+  "tags": {
+    "Metroidvania": 291,
+    "2D Platformer": 288,
+    "Puzzle-Platformer": 287,
+    "Exploration": 285,
+    "Platformer": 282,
+    "2D": 277,
+    "Mining": 276,
+    "Side Scroller": 268,
+    "Puzzle": 266,
+    "Hand-drawn": 255,
+    "Space": 249,
+    "Sci-fi": 246,
+    "Logic": 242,
+    "Family Friendly": 235,
+    "Survival": 230,
+    "Crafting": 228,
+    "Adventure": 222,
+    "Retro": 218,
+    "Singleplayer": 215,
+    "Indie": 202
+  }
+}

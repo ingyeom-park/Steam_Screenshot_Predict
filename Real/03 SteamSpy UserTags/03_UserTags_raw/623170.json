@@ -1,0 +1,23 @@
+{
+  "appid": 623170,
+  "success": true,
+  "tags": {
+    "Solitaire": 116,
+    "Casual": 90,
+    "Indie": 86,
+    "Strategy": 83,
+    "Board Game": 54,
+    "Trading Card Game": 48,
+    "Zombies": 46,
+    "Puzzle": 44,
+    "Match 3": 41,
+    "Card Game": 36,
+    "2D": 32,
+    "Cartoony": 30,
+    "Linear": 28,
+    "Story Rich": 26,
+    "Tabletop": 24,
+    "Singleplayer": 22,
+    "Adventure": 20
+  }
+}

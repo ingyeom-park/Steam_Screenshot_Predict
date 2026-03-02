@@ -1,0 +1,22 @@
+{
+  "appid": 2981530,
+  "success": true,
+  "tags": {
+    "Casual": 70,
+    "Adventure": 64,
+    "RPG": 62,
+    "Action-Adventure": 38,
+    "Action RPG": 36,
+    "JRPG": 30,
+    "2D": 27,
+    "Anime": 25,
+    "Cartoon": 23,
+    "Cute": 21,
+    "Strategy": 20,
+    "Indie": 20,
+    "Story Rich": 19,
+    "Hentai": 18,
+    "Turn-Based Combat": 17,
+    "Singleplayer": 15
+  }
+}

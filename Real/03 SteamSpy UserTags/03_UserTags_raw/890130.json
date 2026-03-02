@@ -1,0 +1,26 @@
+{
+  "appid": 890130,
+  "success": true,
+  "tags": {
+    "Chess": 178,
+    "Zombies": 172,
+    "Gothic": 169,
+    "Fantasy": 165,
+    "Strategy": 162,
+    "Indie": 156,
+    "Turn-Based Strategy": 154,
+    "Dark Fantasy": 147,
+    "Local Multiplayer": 141,
+    "3D": 138,
+    "Singleplayer": 135,
+    "Story Rich": 124,
+    "Turn-Based Tactics": 115,
+    "Board Game": 109,
+    "Puzzle": 95,
+    "Tactical": 85,
+    "Medieval": 79,
+    "Survival": 74,
+    "Procedural Generation": 68,
+    "Dark": 64
+  }
+}

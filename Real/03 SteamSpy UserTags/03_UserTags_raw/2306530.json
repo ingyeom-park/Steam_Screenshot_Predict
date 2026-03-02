@@ -1,0 +1,21 @@
+{
+  "appid": 2306530,
+  "success": true,
+  "tags": {
+    "Strategy": 49,
+    "Card Battler": 49,
+    "Turn-Based Tactics": 43,
+    "Dungeon Crawler": 40,
+    "Card Game": 37,
+    "Rogue-like": 35,
+    "First-Person": 26,
+    "Deckbuilding": 24,
+    "Turn-Based Combat": 22,
+    "Pixel Graphics": 21,
+    "Indie": 20,
+    "Fantasy": 19,
+    "Class-Based": 16,
+    "Singleplayer": 15,
+    "Rogue-lite": 11
+  }
+}

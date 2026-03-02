@@ -1,0 +1,23 @@
+{
+  "appid": 2398430,
+  "success": true,
+  "tags": {
+    "Card Game": 136,
+    "Deckbuilding": 130,
+    "Side Scroller": 125,
+    "Card Battler": 120,
+    "Pixel Graphics": 115,
+    "Rogue-like": 109,
+    "Turn-Based Tactics": 104,
+    "2D": 100,
+    "Singleplayer": 94,
+    "Turn-Based Combat": 85,
+    "Strategy": 79,
+    "Procedural Generation": 72,
+    "Trading Card Game": 61,
+    "Cyberpunk": 57,
+    "Roguelike Deckbuilder": 44,
+    "Turn-Based Strategy": 30,
+    "Indie": 29
+  }
+}

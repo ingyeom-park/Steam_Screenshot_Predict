@@ -1,0 +1,26 @@
+{
+  "appid": 25000,
+  "success": true,
+  "tags": {
+    "Action": 343,
+    "Parkour": 336,
+    "Indie": 291,
+    "Martial Arts": 291,
+    "Sandbox": 238,
+    "Fighting": 223,
+    "Fast-Paced": 186,
+    "Physics": 186,
+    "Gore": 182,
+    "Moddable": 181,
+    "Combat": 167,
+    "Open World": 156,
+    "Ninja": 145,
+    "Third Person": 129,
+    "Multiplayer": 120,
+    "Singleplayer": 97,
+    "Difficult": 91,
+    "Funny": 85,
+    "Adventure": 78,
+    "Local Co-Op": 69
+  }
+}

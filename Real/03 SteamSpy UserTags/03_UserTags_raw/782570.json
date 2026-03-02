@@ -1,0 +1,25 @@
+{
+  "appid": 782570,
+  "success": true,
+  "tags": {
+    "Card Game": 85,
+    "RPG": 79,
+    "Singleplayer": 76,
+    "Adventure": 73,
+    "Tabletop": 70,
+    "Retro": 62,
+    "Strategy": 60,
+    "Indie": 57,
+    "Rogue-lite": 56,
+    "Casual": 53,
+    "2D": 50,
+    "Survival": 47,
+    "Cartoon": 45,
+    "Funny": 43,
+    "Rogue-like": 40,
+    "JRPG": 36,
+    "Card Battler": 33,
+    "Fantasy": 30,
+    "Early Access": 28
+  }
+}

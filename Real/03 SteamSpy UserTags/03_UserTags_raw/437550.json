@@ -1,0 +1,26 @@
+{
+  "appid": 437550,
+  "success": true,
+  "tags": {
+    "Action": 348,
+    "Gore": 342,
+    "Blood": 338,
+    "Fighting": 336,
+    "First-Person": 332,
+    "Multiplayer": 323,
+    "Violent": 317,
+    "Beat 'em up": 315,
+    "Physics": 313,
+    "Funny": 308,
+    "Difficult": 305,
+    "Rogue-like": 300,
+    "Simulation": 298,
+    "Indie": 296,
+    "Co-op": 289,
+    "Online Co-Op": 286,
+    "FPS": 283,
+    "Memes": 278,
+    "Early Access": 273,
+    "Arcade": 269
+  }
+}

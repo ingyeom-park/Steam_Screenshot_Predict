@@ -1,0 +1,26 @@
+{
+  "appid": 1492620,
+  "success": true,
+  "tags": {
+    "Puzzle": 259,
+    "Sokoban": 252,
+    "Difficult": 249,
+    "Relaxing": 244,
+    "Cute": 241,
+    "Surreal": 231,
+    "Nonlinear": 226,
+    "Colorful": 224,
+    "Minimalist": 219,
+    "Strategy": 216,
+    "Stylized": 210,
+    "Abstract": 207,
+    "Logic": 199,
+    "Level Editor": 189,
+    "Atmospheric": 185,
+    "Grid-Based Movement": 183,
+    "Singleplayer": 179,
+    "Soundtrack": 176,
+    "Physics": 174,
+    "Indie": 165
+  }
+}

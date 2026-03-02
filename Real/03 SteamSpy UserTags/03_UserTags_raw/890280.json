@@ -1,0 +1,26 @@
+{
+  "appid": 890280,
+  "success": true,
+  "tags": {
+    "Adventure": 308,
+    "Indie": 302,
+    "Puzzle": 299,
+    "First-Person": 296,
+    "Exploration": 293,
+    "Singleplayer": 287,
+    "Walking Simulator": 286,
+    "Choose Your Own Adventure": 284,
+    "Hidden Object": 281,
+    "Solitaire": 275,
+    "3D": 275,
+    "Stylized": 270,
+    "Atmospheric": 262,
+    "Mystery": 255,
+    "Retro": 246,
+    "Investigation": 244,
+    "Space": 238,
+    "Logic": 230,
+    "Sci-fi": 225,
+    "Lore-Rich": 221
+  }
+}

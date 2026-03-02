@@ -1,0 +1,26 @@
+{
+  "appid": 1970260,
+  "success": true,
+  "tags": {
+    "Action": 81,
+    "Sports": 76,
+    "Arcade": 52,
+    "Platformer": 49,
+    "Shooter": 47,
+    "3D Platformer": 40,
+    "Hack and Slash": 38,
+    "VR": 38,
+    "Precision Platformer": 36,
+    "3D": 34,
+    "Indie": 31,
+    "Alternate History": 30,
+    "Atmospheric": 28,
+    "Combat": 26,
+    "Singleplayer": 24,
+    "Archery": 13,
+    "Bullet Time": 12,
+    "Shoot 'Em Up": 11,
+    "Robots": 11,
+    "Puzzle": 11
+  }
+}

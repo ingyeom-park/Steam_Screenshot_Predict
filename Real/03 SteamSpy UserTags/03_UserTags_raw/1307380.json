@@ -1,0 +1,26 @@
+{
+  "appid": 1307380,
+  "success": true,
+  "tags": {
+    "Casual": 144,
+    "Adventure": 123,
+    "Puzzle": 120,
+    "Strategy": 116,
+    "Hand-drawn": 115,
+    "Drama": 111,
+    "Singleplayer": 108,
+    "Exploration": 91,
+    "Hidden Object": 83,
+    "Investigation": 77,
+    "Side Scroller": 71,
+    "2D": 68,
+    "Cartoon": 66,
+    "Cute": 64,
+    "First-Person": 62,
+    "Stylized": 60,
+    "Multiple Endings": 58,
+    "Story Rich": 56,
+    "Sci-fi": 49,
+    "Indie": 21
+  }
+}

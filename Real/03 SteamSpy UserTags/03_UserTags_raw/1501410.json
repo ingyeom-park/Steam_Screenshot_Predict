@@ -1,0 +1,24 @@
+{
+  "appid": 1501410,
+  "success": true,
+  "tags": {
+    "Dwarf": 280,
+    "Adventure": 75,
+    "Action": 71,
+    "RPG": 67,
+    "Platformer": 44,
+    "Action-Adventure": 42,
+    "Rogue-lite": 36,
+    "2D Platformer": 34,
+    "Indie": 32,
+    "Rogue-like": 31,
+    "Pixel Graphics": 31,
+    "2D": 28,
+    "Atmospheric": 21,
+    "1990's": 21,
+    "Procedural Generation": 20,
+    "Fantasy": 19,
+    "Singleplayer": 17,
+    "Mining": 15
+  }
+}

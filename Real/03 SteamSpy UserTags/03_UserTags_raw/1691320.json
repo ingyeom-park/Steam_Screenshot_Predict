@@ -1,0 +1,26 @@
+{
+  "appid": 1691320,
+  "success": true,
+  "tags": {
+    "Online Co-Op": 164,
+    "Indie": 162,
+    "FPS": 161,
+    "Zombies": 157,
+    "PvE": 153,
+    "Action": 145,
+    "Shooter": 139,
+    "Co-op": 138,
+    "Survival": 133,
+    "Demons": 127,
+    "Multiplayer": 123,
+    "Horror": 115,
+    "First-Person": 110,
+    "Team-Based": 101,
+    "Arena Shooter": 95,
+    "Singleplayer": 93,
+    "Noir": 84,
+    "Post-apocalyptic": 76,
+    "Arcade": 70,
+    "3D": 67
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 647960,
+  "success": true,
+  "tags": {
+    "RTS": 158,
+    "Strategy": 121,
+    "Base-Building": 91,
+    "Moddable": 75,
+    "Multiplayer": 73,
+    "Indie": 64,
+    "2D": 62,
+    "Sandbox": 55,
+    "Real-Time": 54,
+    "Pixel Graphics": 51,
+    "Singleplayer": 50,
+    "Co-op": 43,
+    "Real-Time with Pause": 39,
+    "Robots": 38,
+    "Retro": 37,
+    "Mechs": 34,
+    "Action": 32,
+    "War": 31,
+    "Mod": 30,
+    "Tower Defense": 18
+  }
+}

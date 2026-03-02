@@ -1,0 +1,26 @@
+{
+  "appid": 814680,
+  "success": true,
+  "tags": {
+    "Indie": 173,
+    "Adventure": 164,
+    "Platformer": 141,
+    "Atmospheric": 136,
+    "Metroidvania": 116,
+    "Singleplayer": 116,
+    "2D": 110,
+    "Exploration": 104,
+    "Side Scroller": 100,
+    "Dark Fantasy": 95,
+    "Difficult": 87,
+    "Story Rich": 87,
+    "Hand-drawn": 77,
+    "Action": 75,
+    "Cute": 73,
+    "Controller": 71,
+    "Open World": 66,
+    "Multiple Endings": 66,
+    "Souls-like": 64,
+    "Precision Platformer": 61
+  }
+}

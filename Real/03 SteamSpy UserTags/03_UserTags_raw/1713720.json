@@ -1,0 +1,24 @@
+{
+  "appid": 1713720,
+  "success": true,
+  "tags": {
+    "Action": 73,
+    "Adventure": 65,
+    "Action-Adventure": 42,
+    "Shooter": 41,
+    "Third-Person Shooter": 39,
+    "3D": 32,
+    "Atmospheric": 29,
+    "Dark": 28,
+    "Surreal": 26,
+    "Horror": 23,
+    "Mystery": 23,
+    "Gore": 22,
+    "Violent": 22,
+    "Indie": 21,
+    "Combat": 20,
+    "PvE": 17,
+    "Linear": 15,
+    "Singleplayer": 13
+  }
+}

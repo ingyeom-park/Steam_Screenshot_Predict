@@ -1,0 +1,26 @@
+{
+  "appid": 1512590,
+  "success": true,
+  "tags": {
+    "Boxing": 108,
+    "Fighting": 99,
+    "Physics": 96,
+    "Indie": 93,
+    "3D Fighter": 87,
+    "Sports": 77,
+    "Action": 75,
+    "3D": 72,
+    "Colorful": 72,
+    "Beat 'em up": 70,
+    "Stylized": 65,
+    "Cute": 63,
+    "Third Person": 61,
+    "Family Friendly": 58,
+    "Funny": 54,
+    "Tactical": 47,
+    "Character Customization": 47,
+    "Local Multiplayer": 47,
+    "Difficult": 46,
+    "Singleplayer": 42
+  }
+}

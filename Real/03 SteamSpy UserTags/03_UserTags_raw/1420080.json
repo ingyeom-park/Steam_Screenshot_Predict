@@ -1,0 +1,26 @@
+{
+  "appid": 1420080,
+  "success": true,
+  "tags": {
+    "Platformer": 194,
+    "Adventure": 184,
+    "Action": 178,
+    "Indie": 177,
+    "Action-Adventure": 177,
+    "2D Platformer": 171,
+    "Side Scroller": 164,
+    "Cute": 157,
+    "Runner": 154,
+    "Metroidvania": 149,
+    "Action RPG": 145,
+    "Anime": 144,
+    "Fantasy": 136,
+    "Singleplayer": 132,
+    "RPG": 124,
+    "Female Protagonist": 119,
+    "Exploration": 117,
+    "1990's": 105,
+    "Retro": 98,
+    "Remake": 94
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1080040,
+  "success": true,
+  "tags": {
+    "Action": 87,
+    "Adventure": 81,
+    "Exploration": 77,
+    "2D Platformer": 73,
+    "Indie": 72,
+    "Metroidvania": 60,
+    "4 Player Local": 58,
+    "Story Rich": 55,
+    "Singleplayer": 53,
+    "Multiplayer": 51,
+    "Co-op": 49,
+    "Atmospheric": 47,
+    "Puzzle": 46,
+    "Local Multiplayer": 43,
+    "Family Friendly": 41,
+    "Fantasy": 39,
+    "Aliens": 37,
+    "Funny": 35,
+    "Local Co-Op": 34,
+    "2D": 31
+  }
+}

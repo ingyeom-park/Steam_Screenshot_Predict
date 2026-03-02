@@ -1,0 +1,26 @@
+{
+  "appid": 2635930,
+  "success": true,
+  "tags": {
+    "Adventure": 178,
+    "Casual": 172,
+    "RPG": 168,
+    "Action-Adventure": 165,
+    "JRPG": 161,
+    "Puzzle": 157,
+    "Indie": 152,
+    "Sokoban": 145,
+    "2D": 143,
+    "Pixel Graphics": 135,
+    "Wholesome": 132,
+    "Top-Down": 126,
+    "Emotional": 124,
+    "Story Rich": 122,
+    "Family Friendly": 112,
+    "Fantasy": 97,
+    "Old School": 86,
+    "Conversation": 80,
+    "Linear": 69,
+    "Singleplayer": 64
+  }
+}

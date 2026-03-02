@@ -1,0 +1,24 @@
+{
+  "appid": 463270,
+  "success": true,
+  "tags": {
+    "Metroidvania": 94,
+    "Indie": 93,
+    "Action": 84,
+    "Roguevania": 74,
+    "Female Protagonist": 69,
+    "Adventure": 68,
+    "Cyberpunk": 60,
+    "Platformer": 52,
+    "2D": 49,
+    "Sci-fi": 48,
+    "Singleplayer": 38,
+    "Side Scroller": 27,
+    "Robots": 26,
+    "Anime": 16,
+    "Comedy": 12,
+    "Difficult": 10,
+    "Rogue-like": 10,
+    "Rogue-lite": 5
+  }
+}

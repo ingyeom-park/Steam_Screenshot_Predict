@@ -1,0 +1,26 @@
+{
+  "appid": 1051960,
+  "success": true,
+  "tags": {
+    "Multiplayer": 223,
+    "Fighting": 215,
+    "2D Fighter": 210,
+    "Local Multiplayer": 208,
+    "Anime": 204,
+    "4 Player Local": 199,
+    "2D": 196,
+    "Cartoon": 192,
+    "Beat 'em up": 191,
+    "Arcade": 185,
+    "PvP": 183,
+    "Moddable": 179,
+    "Co-op": 173,
+    "Local Co-Op": 168,
+    "Controller": 165,
+    "Competitive": 159,
+    "Singleplayer": 143,
+    "Indie": 127,
+    "Action": 109,
+    "Cartoony": 44
+  }
+}

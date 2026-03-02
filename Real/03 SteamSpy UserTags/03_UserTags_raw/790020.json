@@ -1,0 +1,26 @@
+{
+  "appid": 790020,
+  "success": true,
+  "tags": {
+    "Racing": 80,
+    "Indie": 70,
+    "Futuristic": 53,
+    "Split Screen": 53,
+    "Great Soundtrack": 50,
+    "Fast-Paced": 48,
+    "Exploration": 48,
+    "Multiplayer": 40,
+    "Local Multiplayer": 40,
+    "Parkour": 37,
+    "Sci-fi": 35,
+    "Flight": 34,
+    "Stylized": 34,
+    "Colorful": 30,
+    "4 Player Local": 26,
+    "Atmospheric": 24,
+    "Experimental": 23,
+    "Controller": 16,
+    "Singleplayer": 14,
+    "Competitive": 14
+  }
+}

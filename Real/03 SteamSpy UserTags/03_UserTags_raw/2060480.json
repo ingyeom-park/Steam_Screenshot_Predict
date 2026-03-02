@@ -1,0 +1,26 @@
+{
+  "appid": 2060480,
+  "success": true,
+  "tags": {
+    "Casual": 135,
+    "Farming Sim": 127,
+    "Time Management": 126,
+    "Idler": 122,
+    "Cute": 118,
+    "Pixel Graphics": 108,
+    "Simulation": 107,
+    "2D": 100,
+    "Colorful": 98,
+    "Top-Down": 93,
+    "Family Friendly": 89,
+    "Management": 84,
+    "Nature": 71,
+    "Relaxing": 64,
+    "Resource Management": 60,
+    "Tutorial": 50,
+    "Singleplayer": 39,
+    "Cozy": 32,
+    "Farming": 31,
+    "Indie": 28
+  }
+}

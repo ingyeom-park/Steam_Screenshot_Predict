@@ -1,0 +1,26 @@
+{
+  "appid": 317510,
+  "success": true,
+  "tags": {
+    "Casual": 211,
+    "Action": 205,
+    "Indie": 202,
+    "Platformer": 199,
+    "Space": 194,
+    "2D": 185,
+    "Sci-fi": 181,
+    "Anime": 177,
+    "Physics": 174,
+    "Procedural Generation": 171,
+    "Singleplayer": 167,
+    "Mouse only": 164,
+    "Touch-Friendly": 162,
+    "Arcade": 158,
+    "Trading Card Game": 153,
+    "2D Platformer": 151,
+    "Collectathon": 143,
+    "Precision Platformer": 141,
+    "Side Scroller": 131,
+    "Minimalist": 118
+  }
+}

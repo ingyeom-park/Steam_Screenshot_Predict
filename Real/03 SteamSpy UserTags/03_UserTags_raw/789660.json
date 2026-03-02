@@ -1,0 +1,26 @@
+{
+  "appid": 789660,
+  "success": true,
+  "tags": {
+    "Strategy": 123,
+    "Simulation": 116,
+    "City Builder": 111,
+    "Base-Building": 109,
+    "Management": 105,
+    "Building": 100,
+    "Grand Strategy": 94,
+    "Singleplayer": 92,
+    "RTS": 88,
+    "Wargame": 83,
+    "2D": 81,
+    "Pixel Graphics": 78,
+    "Resource Management": 71,
+    "Casual": 57,
+    "Villain Protagonist": 51,
+    "Auto Battler": 48,
+    "Colony Sim": 42,
+    "Indie": 39,
+    "Sci-fi": 37,
+    "Level Editor": 34
+  }
+}

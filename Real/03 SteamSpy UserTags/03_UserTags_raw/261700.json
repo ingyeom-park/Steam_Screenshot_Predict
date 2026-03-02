@@ -1,0 +1,26 @@
+{
+  "appid": 261700,
+  "success": true,
+  "tags": {
+    "2D Platformer": 193,
+    "Platformer": 186,
+    "Indie": 161,
+    "Difficult": 160,
+    "Action": 155,
+    "Anime": 149,
+    "Puzzle": 108,
+    "Singleplayer": 106,
+    "Bullet Hell": 104,
+    "2D": 103,
+    "Female Protagonist": 101,
+    "Cute": 95,
+    "Casual": 71,
+    "Adventure": 68,
+    "Side Scroller": 65,
+    "Comedy": 63,
+    "Shooter": 57,
+    "Dark Humor": 57,
+    "Funny": 51,
+    "Survival Horror": 44
+  }
+}

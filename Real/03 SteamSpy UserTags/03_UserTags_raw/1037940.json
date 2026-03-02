@@ -1,0 +1,26 @@
+{
+  "appid": 1037940,
+  "success": true,
+  "tags": {
+    "RPG": 30,
+    "Indie": 30,
+    "Strategy": 30,
+    "Violent": 22,
+    "Gore": 21,
+    "Turn-Based Tactics": 17,
+    "Tactical": 14,
+    "Turn-Based": 12,
+    "Fantasy": 11,
+    "Dark Fantasy": 11,
+    "Singleplayer": 11,
+    "Turn-Based Combat": 11,
+    "Difficult": 10,
+    "Replay Value": 10,
+    "Medieval": 10,
+    "Perma Death": 10,
+    "Turn-Based Strategy": 10,
+    "Rogue-like": 10,
+    "Open World": 10,
+    "Strategy RPG": 9
+  }
+}

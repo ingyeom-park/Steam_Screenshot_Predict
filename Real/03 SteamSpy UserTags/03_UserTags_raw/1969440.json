@@ -1,0 +1,26 @@
+{
+  "appid": 1969440,
+  "success": true,
+  "tags": {
+    "Adventure": 229,
+    "Point & Click": 222,
+    "RPG": 220,
+    "Puzzle": 216,
+    "Story Rich": 210,
+    "Turn-Based Combat": 206,
+    "Tactical RPG": 199,
+    "Comic Book": 198,
+    "Hidden Object": 197,
+    "Linear": 193,
+    "Narration": 188,
+    "Indie": 180,
+    "Violent": 167,
+    "Stylized": 162,
+    "Dystopian ": 156,
+    "Crime": 149,
+    "Investigation": 140,
+    "Singleplayer": 138,
+    "Action": 125,
+    "Simulation": 118
+  }
+}

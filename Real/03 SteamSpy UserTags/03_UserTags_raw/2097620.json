@@ -1,0 +1,26 @@
+{
+  "appid": 2097620,
+  "success": true,
+  "tags": {
+    "Adventure": 125,
+    "Action": 112,
+    "Arcade": 102,
+    "Indie": 99,
+    "RPG": 96,
+    "2D": 90,
+    "Hack and Slash": 87,
+    "Action-Adventure": 85,
+    "Action Roguelike": 83,
+    "Pixel Graphics": 82,
+    "Combat": 79,
+    "Singleplayer": 74,
+    "Action RPG": 67,
+    "Side Scroller": 64,
+    "Replay Value": 59,
+    "Platformer": 55,
+    "Beat 'em up": 54,
+    "2D Platformer": 51,
+    "Transhumanism": 49,
+    "Surreal": 41
+  }
+}

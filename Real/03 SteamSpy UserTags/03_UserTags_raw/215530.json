@@ -1,0 +1,26 @@
+{
+  "appid": 215530,
+  "success": true,
+  "tags": {
+    "RPG": 438,
+    "Hack and Slash": 370,
+    "Action RPG": 324,
+    "Action": 267,
+    "Adventure": 247,
+    "Indie": 197,
+    "Loot": 194,
+    "Co-op": 192,
+    "Fantasy": 191,
+    "Steampunk": 167,
+    "Multiplayer": 126,
+    "Dungeon Crawler": 122,
+    "Singleplayer": 120,
+    "Isometric": 114,
+    "Dark Fantasy": 109,
+    "Gothic": 99,
+    "Vampire": 89,
+    "Funny": 84,
+    "Magic": 83,
+    "Based On A Novel": 70
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "appid": 2202690,
+  "success": true,
+  "tags": {
+    "Strategy": 63,
+    "RPG": 58,
+    "Tactical RPG": 53,
+    "Turn-Based Combat": 47,
+    "Casual": 44,
+    "Medieval": 41,
+    "Turn-Based Strategy": 31,
+    "Turn-Based Tactics": 30,
+    "Fantasy": 28,
+    "Singleplayer": 26,
+    "Rome": 22,
+    "Indie": 21,
+    "2D Fighter": 20,
+    "Wargame": 17,
+    "2D": 16,
+    "Tactical": 15,
+    "Rogue-lite": 12
+  }
+}

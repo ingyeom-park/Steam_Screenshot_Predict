@@ -1,0 +1,26 @@
+{
+  "appid": 1393320,
+  "success": true,
+  "tags": {
+    "Puzzle": 160,
+    "Detective": 155,
+    "Immersive Sim": 149,
+    "Indie": 147,
+    "Story Rich": 144,
+    "3D": 137,
+    "Singleplayer": 133,
+    "Logic": 125,
+    "RPG": 121,
+    "Hacking": 118,
+    "Cyberpunk": 113,
+    "Mystery": 112,
+    "Atmospheric": 109,
+    "Thriller": 106,
+    "Crime": 95,
+    "Adventure": 86,
+    "Futuristic": 76,
+    "Investigation": 72,
+    "Interactive Fiction": 67,
+    "Puzzle-Platformer": 51
+  }
+}

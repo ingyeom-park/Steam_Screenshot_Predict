@@ -1,0 +1,20 @@
+{
+  "appid": 370300,
+  "success": true,
+  "tags": {
+    "RPG": 41,
+    "Adventure": 39,
+    "Indie": 36,
+    "Pixel Graphics": 24,
+    "RPGMaker": 24,
+    "JRPG": 20,
+    "2D": 15,
+    "Singleplayer": 15,
+    "Turn-Based Combat": 14,
+    "Turn-Based": 13,
+    "Fantasy": 13,
+    "Great Soundtrack": 13,
+    "Soundtrack": 12,
+    "Party-Based RPG": 12
+  }
+}

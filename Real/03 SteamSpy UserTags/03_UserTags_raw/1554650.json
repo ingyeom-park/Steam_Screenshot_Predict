@@ -1,0 +1,26 @@
+{
+  "appid": 1554650,
+  "success": true,
+  "tags": {
+    "Indie": 494,
+    "3D": 483,
+    "Fantasy": 454,
+    "Combat": 422,
+    "Steampunk": 418,
+    "Action": 409,
+    "Atmospheric": 407,
+    "Adventure": 402,
+    "Platformer": 402,
+    "Controller": 395,
+    "Action-Adventure": 395,
+    "3D Platformer": 392,
+    "Puzzle-Platformer": 387,
+    "Casual": 377,
+    "Third Person": 373,
+    "Comedy": 368,
+    "Dark Fantasy": 366,
+    "Funny": 364,
+    "Singleplayer": 356,
+    "Dark Humor": 351
+  }
+}

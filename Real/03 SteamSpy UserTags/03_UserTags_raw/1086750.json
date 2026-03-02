@@ -1,0 +1,26 @@
+{
+  "appid": 1086750,
+  "success": true,
+  "tags": {
+    "Sokoban": 118,
+    "Puzzle-Platformer": 112,
+    "Casual": 109,
+    "Trivia": 106,
+    "Open World": 104,
+    "Walking Simulator": 96,
+    "3D": 94,
+    "First-Person": 91,
+    "Relaxing": 88,
+    "Nonlinear": 82,
+    "Puzzle": 80,
+    "Colorful": 78,
+    "Logic": 76,
+    "Sci-fi": 73,
+    "Atmospheric": 69,
+    "Physics": 56,
+    "Futuristic": 54,
+    "Singleplayer": 51,
+    "Indie": 48,
+    "Great Soundtrack": 27
+  }
+}

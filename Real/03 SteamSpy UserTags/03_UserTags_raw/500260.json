@@ -1,0 +1,25 @@
+{
+  "appid": 500260,
+  "success": true,
+  "tags": {
+    "Multiplayer": 69,
+    "Violent": 47,
+    "Zombies": 47,
+    "Co-op": 44,
+    "Action": 41,
+    "Funny": 38,
+    "Indie": 36,
+    "Parkour": 34,
+    "Level Editor": 33,
+    "3D Platformer": 29,
+    "Gore": 27,
+    "Horror": 15,
+    "Platformer": 15,
+    "4 Player Local": 14,
+    "Singleplayer": 11,
+    "Third Person": 9,
+    "Local Multiplayer": 9,
+    "Split Screen": 9,
+    "Comedy": 5
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "appid": 463220,
+  "success": true,
+  "tags": {
+    "Indie": 117,
+    "Action": 36,
+    "Adventure": 30,
+    "Platformer": 24,
+    "Metroidvania": 23,
+    "2D": 21,
+    "Minimalist": 18,
+    "Retro": 16,
+    "Singleplayer": 15,
+    "Pixel Graphics": 14,
+    "Exploration": 13,
+    "Silent Protagonist": 11,
+    "Replay Value": 10,
+    "Controller": 10,
+    "Action-Adventure": 9
+  }
+}

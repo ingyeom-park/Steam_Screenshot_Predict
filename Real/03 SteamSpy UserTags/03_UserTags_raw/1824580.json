@@ -1,0 +1,26 @@
+{
+  "appid": 1824580,
+  "success": true,
+  "tags": {
+    "Tactical RPG": 245,
+    "Deckbuilding": 242,
+    "Mystery Dungeon": 236,
+    "Turn-Based Combat": 230,
+    "Dungeon Crawler": 229,
+    "Rogue-lite": 219,
+    "Card Game": 218,
+    "Procedural Generation": 212,
+    "JRPG": 210,
+    "Strategy": 207,
+    "RPG": 205,
+    "Grid-Based Movement": 202,
+    "Multiple Endings": 196,
+    "Old School": 191,
+    "Pixel Graphics": 182,
+    "Anime": 162,
+    "Colorful": 157,
+    "Fantasy": 124,
+    "Female Protagonist": 117,
+    "Singleplayer": 112
+  }
+}

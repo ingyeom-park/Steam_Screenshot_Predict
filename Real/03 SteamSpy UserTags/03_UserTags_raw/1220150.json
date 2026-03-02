@@ -1,0 +1,26 @@
+{
+  "appid": 1220150,
+  "success": true,
+  "tags": {
+    "Metroidvania": 692,
+    "Exploration": 686,
+    "Precision Platformer": 684,
+    "Hack and Slash": 680,
+    "3D Platformer": 677,
+    "Souls-like": 672,
+    "Platformer": 666,
+    "Action-Adventure": 662,
+    "3D": 656,
+    "Cute": 646,
+    "Third Person": 476,
+    "Surreal": 471,
+    "Controller": 466,
+    "Action": 464,
+    "Stylized": 460,
+    "Fantasy": 456,
+    "Atmospheric": 453,
+    "Adventure": 444,
+    "Singleplayer": 417,
+    "Indie": 373
+  }
+}

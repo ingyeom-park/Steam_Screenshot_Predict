@@ -1,0 +1,26 @@
+{
+  "appid": 2111040,
+  "success": true,
+  "tags": {
+    "Action": 214,
+    "First-Person": 188,
+    "Horror": 185,
+    "Action-Adventure": 179,
+    "1990's": 173,
+    "Shooter": 163,
+    "Gore": 160,
+    "Exploration": 156,
+    "Zombies": 148,
+    "Adventure": 140,
+    "Violent": 138,
+    "Survival Horror": 134,
+    "Dark": 105,
+    "Old School": 91,
+    "PvE": 76,
+    "Singleplayer": 60,
+    "Combat": 43,
+    "3D": 27,
+    "Retro": 25,
+    "Indie": 22
+  }
+}

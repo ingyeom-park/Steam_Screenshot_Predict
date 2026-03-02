@@ -1,0 +1,13 @@
+{
+  "appid": 560300,
+  "success": true,
+  "tags": {
+    "Action": 32,
+    "RPG": 32,
+    "Adventure": 31,
+    "Indie": 31,
+    "Pixel Graphics": 6,
+    "Platformer": 5,
+    "2D": 5
+  }
+}

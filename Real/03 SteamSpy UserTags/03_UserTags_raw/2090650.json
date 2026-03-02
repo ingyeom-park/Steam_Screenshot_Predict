@@ -1,0 +1,26 @@
+{
+  "appid": 2090650,
+  "success": true,
+  "tags": {
+    "Puzzle": 220,
+    "Point & Click": 213,
+    "Story Rich": 210,
+    "Drama": 206,
+    "Exploration": 203,
+    "Mystery": 196,
+    "Immersive Sim": 194,
+    "2D": 191,
+    "Casual": 189,
+    "Detective": 187,
+    "Singleplayer": 185,
+    "RPG": 181,
+    "Fantasy": 180,
+    "Indie": 176,
+    "Atmospheric": 169,
+    "Adventure": 146,
+    "Visual Novel": 142,
+    "Interactive Fiction": 121,
+    "Stylized": 95,
+    "Emotional": 52
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1962030,
+  "success": true,
+  "tags": {
+    "Adventure": 154,
+    "Platformer": 148,
+    "2D Platformer": 144,
+    "Pixel Graphics": 142,
+    "2D": 137,
+    "Singleplayer": 126,
+    "Action-Adventure": 120,
+    "Action": 118,
+    "Casual": 115,
+    "Indie": 113,
+    "Sci-fi": 111,
+    "Difficult": 103,
+    "2D Fighter": 100,
+    "Cyberpunk": 96,
+    "Precision Platformer": 93,
+    "Metroidvania": 82,
+    "Souls-like": 80,
+    "Futuristic": 76,
+    "Puzzle-Platformer": 72,
+    "Artificial Intelligence": 70
+  }
+}

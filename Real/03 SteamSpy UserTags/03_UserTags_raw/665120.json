@@ -1,0 +1,26 @@
+{
+  "appid": 665120,
+  "success": true,
+  "tags": {
+    "Action": 547,
+    "Casual": 545,
+    "Indie": 543,
+    "FPS": 539,
+    "Multiplayer": 527,
+    "Co-op": 526,
+    "Free to Play": 522,
+    "Sci-fi": 519,
+    "Adventure": 512,
+    "Sports": 510,
+    "Crafting": 499,
+    "Survival": 496,
+    "Jet": 492,
+    "Arena Shooter": 481,
+    "Funny": 469,
+    "Difficult": 463,
+    "Atmospheric": 454,
+    "Walking Simulator": 440,
+    "Simulation": 286,
+    "Memes": 284
+  }
+}

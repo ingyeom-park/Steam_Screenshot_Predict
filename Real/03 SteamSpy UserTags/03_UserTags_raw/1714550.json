@@ -1,0 +1,24 @@
+{
+  "appid": 1714550,
+  "success": true,
+  "tags": {
+    "Action": 65,
+    "Ninja": 56,
+    "Cyberpunk": 49,
+    "Pixel Graphics": 43,
+    "Retro": 39,
+    "Platformer": 32,
+    "Side Scroller": 31,
+    "2D Platformer": 28,
+    "Story Rich": 28,
+    "2D": 26,
+    "Indie": 23,
+    "Hack and Slash": 23,
+    "Adventure": 22,
+    "Singleplayer": 21,
+    "Robots": 18,
+    "Sci-fi": 17,
+    "Fast-Paced": 16,
+    "Violent": 13
+  }
+}

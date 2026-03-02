@@ -1,0 +1,26 @@
+{
+  "appid": 61730,
+  "success": true,
+  "tags": {
+    "Indie": 118,
+    "Casual": 108,
+    "Puzzle": 106,
+    "Action": 103,
+    "Cute": 101,
+    "Family Friendly": 94,
+    "Local Co-Op": 92,
+    "Nature": 89,
+    "Multiplayer": 85,
+    "2D": 85,
+    "Cartoony": 83,
+    "Match 3": 82,
+    "Local Multiplayer": 78,
+    "Online Co-Op": 74,
+    "Singleplayer": 70,
+    "Arcade": 67,
+    "Co-op": 54,
+    "Horror": 50,
+    "Strategy": 49,
+    "Anime": 46
+  }
+}

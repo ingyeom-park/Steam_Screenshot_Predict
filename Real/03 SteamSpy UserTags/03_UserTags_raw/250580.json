@@ -1,0 +1,24 @@
+{
+  "appid": 250580,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 150,
+    "Indie": 144,
+    "FPS": 143,
+    "Rogue-like": 142,
+    "Action": 112,
+    "Voxel": 69,
+    "Rogue-lite": 69,
+    "Singleplayer": 52,
+    "Great Soundtrack": 47,
+    "Shooter": 45,
+    "Difficult": 43,
+    "RPG": 34,
+    "First-Person": 24,
+    "Fast-Paced": 21,
+    "Procedural Generation": 21,
+    "Pixel Graphics": 19,
+    "Horror": 14,
+    "Perma Death": 6
+  }
+}

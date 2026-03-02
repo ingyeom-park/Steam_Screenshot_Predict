@@ -1,0 +1,20 @@
+{
+  "appid": 2394350,
+  "success": true,
+  "tags": {
+    "Simulation": 64,
+    "Flight": 50,
+    "Realistic": 40,
+    "VR": 39,
+    "Immersive Sim": 33,
+    "PvP": 29,
+    "Education": 27,
+    "3D": 25,
+    "3D Vision": 22,
+    "First-Person": 21,
+    "Indie": 20,
+    "Split Screen": 18,
+    "Multiplayer": 17,
+    "Singleplayer": 15
+  }
+}

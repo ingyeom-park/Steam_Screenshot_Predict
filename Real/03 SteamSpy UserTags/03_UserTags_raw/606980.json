@@ -1,0 +1,26 @@
+{
+  "appid": 606980,
+  "success": true,
+  "tags": {
+    "Action": 179,
+    "Adventure": 171,
+    "Tactical": 166,
+    "Shooter": 164,
+    "Stealth": 162,
+    "Action-Adventure": 154,
+    "Atmospheric": 149,
+    "Story Rich": 146,
+    "Singleplayer": 138,
+    "Third-Person Shooter": 134,
+    "Third Person": 126,
+    "Realistic": 125,
+    "Post-apocalyptic": 121,
+    "Combat": 120,
+    "Exploration": 115,
+    "Cinematic": 112,
+    "Mystery": 111,
+    "Indie": 108,
+    "Linear": 108,
+    "Nature": 97
+  }
+}

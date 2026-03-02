@@ -1,0 +1,25 @@
+{
+  "appid": 3308560,
+  "success": true,
+  "tags": {
+    "Indie": 110,
+    "Platformer": 104,
+    "2D Platformer": 102,
+    "2.5D": 97,
+    "Side Scroller": 92,
+    "Singleplayer": 86,
+    "Pixel Graphics": 83,
+    "Adventure": 77,
+    "Comedy": 77,
+    "Funny": 74,
+    "Parkour": 73,
+    "Runner": 71,
+    "Stylized": 67,
+    "Birds": 66,
+    "Casual": 52,
+    "Controller": 30,
+    "Tutorial": 28,
+    "Multiple Endings": 26,
+    "Action": 23
+  }
+}

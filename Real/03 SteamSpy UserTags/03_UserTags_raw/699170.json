@@ -1,0 +1,26 @@
+{
+  "appid": 699170,
+  "success": true,
+  "tags": {
+    "RPG": 234,
+    "Strategy": 185,
+    "Turn-Based Tactics": 171,
+    "Indie": 131,
+    "Turn-Based Combat": 114,
+    "Tactical RPG": 108,
+    "Turn-Based Strategy": 98,
+    "Strategy RPG": 89,
+    "Fantasy": 82,
+    "Turn-Based": 74,
+    "Character Customization": 73,
+    "Singleplayer": 69,
+    "Tactical": 67,
+    "Class-Based": 67,
+    "Female Protagonist": 62,
+    "Isometric": 58,
+    "Story Rich": 44,
+    "2D": 40,
+    "Controller": 33,
+    "Party-Based RPG": 23
+  }
+}

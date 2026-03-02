@@ -1,0 +1,26 @@
+{
+  "appid": 1297330,
+  "success": true,
+  "tags": {
+    "Fantasy": 536,
+    "Action": 514,
+    "Adventure": 499,
+    "Indie": 493,
+    "Action-Adventure": 473,
+    "Character Action Game": 453,
+    "Exploration": 442,
+    "Platformer": 442,
+    "2D Platformer": 431,
+    "Hack and Slash": 418,
+    "Pixel Graphics": 403,
+    "Precision Platformer": 401,
+    "Side Scroller": 394,
+    "2D": 380,
+    "Cinematic": 372,
+    "Cartoony": 372,
+    "Stylized": 370,
+    "Colorful": 368,
+    "Atmospheric": 365,
+    "Singleplayer": 365
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1308700,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 182,
+    "RPG": 163,
+    "Turn-Based": 148,
+    "Hack and Slash": 146,
+    "Party-Based RPG": 136,
+    "CRPG": 134,
+    "Character Customization": 127,
+    "JRPG": 121,
+    "First-Person": 120,
+    "3D": 116,
+    "2D": 115,
+    "Grid-Based Movement": 115,
+    "Turn-Based Combat": 112,
+    "Fantasy": 104,
+    "Old School": 103,
+    "Retro": 101,
+    "Adventure": 97,
+    "Singleplayer": 89,
+    "Indie": 71,
+    "Nudity": 49
+  }
+}

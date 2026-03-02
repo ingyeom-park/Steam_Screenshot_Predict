@@ -1,0 +1,26 @@
+{
+  "appid": 268750,
+  "success": true,
+  "tags": {
+    "Indie": 344,
+    "RPG": 330,
+    "Rogue-like": 318,
+    "Multiplayer": 302,
+    "Pixel Graphics": 300,
+    "2D": 282,
+    "Action Roguelike": 261,
+    "Adventure": 259,
+    "Platformer": 245,
+    "Crafting": 244,
+    "Co-op": 225,
+    "Perma Death": 203,
+    "Action": 197,
+    "Survival": 174,
+    "Difficult": 146,
+    "Online Co-Op": 126,
+    "Rogue-lite": 110,
+    "Singleplayer": 83,
+    "Sandbox": 75,
+    "Side Scroller": 68
+  }
+}

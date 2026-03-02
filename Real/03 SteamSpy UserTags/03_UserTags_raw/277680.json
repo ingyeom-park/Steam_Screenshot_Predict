@@ -1,0 +1,26 @@
+{
+  "appid": 277680,
+  "success": true,
+  "tags": {
+    "Sokoban": 122,
+    "Casual": 115,
+    "Puzzle": 111,
+    "Relaxing": 109,
+    "Cute": 106,
+    "Indie": 97,
+    "Family Friendly": 92,
+    "Singleplayer": 87,
+    "2D": 84,
+    "Puzzle-Platformer": 79,
+    "Hand-drawn": 77,
+    "Funny": 74,
+    "Mouse only": 72,
+    "Colorful": 63,
+    "Atmospheric": 61,
+    "Comedy": 54,
+    "Logic": 51,
+    "Grid-Based Movement": 48,
+    "Platformer": 41,
+    "Point & Click": 32
+  }
+}

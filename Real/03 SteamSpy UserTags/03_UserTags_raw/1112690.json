@@ -1,0 +1,26 @@
+{
+  "appid": 1112690,
+  "success": true,
+  "tags": {
+    "VR": 252,
+    "Action": 246,
+    "Shooter": 242,
+    "Management": 239,
+    "Shoot 'Em Up": 236,
+    "Arcade": 230,
+    "Pirates": 226,
+    "Combat": 204,
+    "Indie": 197,
+    "Supernatural": 194,
+    "Survival": 187,
+    "Stylized": 182,
+    "Colorful": 169,
+    "Fantasy": 162,
+    "Zombies": 158,
+    "Atmospheric": 154,
+    "Gothic": 149,
+    "Singleplayer": 145,
+    "FPS": 141,
+    "Physics": 135
+  }
+}

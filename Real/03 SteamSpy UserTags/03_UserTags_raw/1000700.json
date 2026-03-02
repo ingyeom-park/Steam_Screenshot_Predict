@@ -1,0 +1,26 @@
+{
+  "appid": 1000700,
+  "success": true,
+  "tags": {
+    "Adventure": 183,
+    "Indie": 180,
+    "Horror": 178,
+    "Action-Adventure": 169,
+    "Puzzle": 165,
+    "Exploration": 163,
+    "First-Person": 162,
+    "Psychological Horror": 157,
+    "Realistic": 156,
+    "Gore": 156,
+    "Demons": 153,
+    "Mystery": 152,
+    "Psychological": 143,
+    "Survival Horror": 134,
+    "Artificial Intelligence": 116,
+    "Choices Matter": 106,
+    "Multiple Endings": 95,
+    "Narration": 79,
+    "Nonlinear": 77,
+    "Singleplayer": 58
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 428200,
+  "success": true,
+  "tags": {
+    "Indie": 142,
+    "Adventure": 136,
+    "Anime": 133,
+    "2D": 129,
+    "Action": 126,
+    "Side Scroller": 120,
+    "2D Fighter": 118,
+    "JRPG": 115,
+    "Hack and Slash": 108,
+    "Singleplayer": 104,
+    "Spectacle fighter": 103,
+    "Cute": 100,
+    "Comedy": 91,
+    "Fantasy": 83,
+    "Destruction": 76,
+    "Funny": 73,
+    "Linear": 67,
+    "Violent": 64,
+    "Strategy": 60,
+    "RPG": 53
+  }
+}

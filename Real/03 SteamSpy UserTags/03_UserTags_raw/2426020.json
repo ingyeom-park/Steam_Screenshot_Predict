@@ -1,0 +1,26 @@
+{
+  "appid": 2426020,
+  "success": true,
+  "tags": {
+    "Adventure": 215,
+    "RPG": 209,
+    "Action-Adventure": 184,
+    "Action RPG": 179,
+    "Dungeon Crawler": 174,
+    "Exploration": 163,
+    "Hack and Slash": 156,
+    "2D": 148,
+    "Pixel Graphics": 141,
+    "Top-Down": 131,
+    "Atmospheric": 120,
+    "Demons": 118,
+    "Comedy": 91,
+    "Character Customization": 76,
+    "Inventory Management": 60,
+    "Procedural Generation": 43,
+    "Action": 31,
+    "Indie": 30,
+    "Resource Management": 27,
+    "Singleplayer": 26
+  }
+}

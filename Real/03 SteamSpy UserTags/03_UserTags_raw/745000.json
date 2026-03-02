@@ -1,0 +1,26 @@
+{
+  "appid": 745000,
+  "success": true,
+  "tags": {
+    "Card Game": 149,
+    "Strategy": 143,
+    "Deckbuilding": 143,
+    "Indie": 140,
+    "Rogue-lite": 135,
+    "Fantasy": 130,
+    "Dungeon Crawler": 117,
+    "Trading Card Game": 114,
+    "RPG": 111,
+    "2D": 106,
+    "Medieval": 103,
+    "Casual": 101,
+    "Puzzle": 95,
+    "Cartoon": 89,
+    "Rogue-like": 67,
+    "Singleplayer": 56,
+    "Turn-Based Strategy": 53,
+    "Cartoony": 41,
+    "Hand-drawn": 38,
+    "Score Attack": 36
+  }
+}

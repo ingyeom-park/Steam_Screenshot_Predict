@@ -1,0 +1,26 @@
+{
+  "appid": 1617480,
+  "success": true,
+  "tags": {
+    "Multiplayer": 145,
+    "Funny": 139,
+    "Fighting": 133,
+    "Action": 132,
+    "Local Multiplayer": 127,
+    "Party": 121,
+    "3D Fighter": 120,
+    "Indie": 117,
+    "Casual": 117,
+    "Split Screen": 113,
+    "Co-op": 110,
+    "Third Person": 104,
+    "Comedy": 92,
+    "PvP": 82,
+    "Local Co-Op": 71,
+    "4 Player Local": 61,
+    "Online Co-Op": 57,
+    "Controller": 49,
+    "Strategy": 37,
+    "Beat 'em up": 28
+  }
+}

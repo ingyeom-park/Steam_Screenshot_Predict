@@ -1,0 +1,26 @@
+{
+  "appid": 1234620,
+  "success": true,
+  "tags": {
+    "Racing": 173,
+    "4 Player Local": 167,
+    "Local Multiplayer": 165,
+    "Top-Down": 162,
+    "Family Friendly": 158,
+    "Funny": 152,
+    "Cute": 149,
+    "Party Game": 145,
+    "Co-op Campaign": 142,
+    "Arcade": 139,
+    "PvE": 131,
+    "PvP": 121,
+    "Indie": 112,
+    "Survival": 109,
+    "Combat Racing": 108,
+    "Cartoony": 102,
+    "Team-Based": 96,
+    "Old School": 93,
+    "Local Co-Op": 88,
+    "Multiplayer": 86
+  }
+}

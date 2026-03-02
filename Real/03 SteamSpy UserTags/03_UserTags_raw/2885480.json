@@ -1,0 +1,26 @@
+{
+  "appid": 2885480,
+  "success": true,
+  "tags": {
+    "4 Player Local": 139,
+    "Local Co-Op": 133,
+    "Top-Down Shooter": 130,
+    "Naval Combat": 127,
+    "Rogue-lite": 123,
+    "PvP": 115,
+    "Shooter": 112,
+    "3D": 109,
+    "Funny": 107,
+    "Casual": 105,
+    "Local Multiplayer": 100,
+    "Action": 96,
+    "Physics": 94,
+    "Combat": 91,
+    "Party Game": 89,
+    "Co-op": 82,
+    "Multiplayer": 74,
+    "Singleplayer": 65,
+    "Indie": 48,
+    "Wargame": 28
+  }
+}

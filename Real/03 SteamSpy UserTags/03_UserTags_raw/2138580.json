@@ -1,0 +1,26 @@
+{
+  "appid": 2138580,
+  "success": true,
+  "tags": {
+    "Casual": 111,
+    "Simulation": 101,
+    "Tabletop": 85,
+    "Life Sim": 84,
+    "Sandbox": 83,
+    "Immersive Sim": 74,
+    "3D": 73,
+    "3D Vision": 71,
+    "First-Person": 70,
+    "Realistic": 67,
+    "Economy": 62,
+    "Text-Based": 62,
+    "Gambling": 61,
+    "Relaxing": 58,
+    "Inventory Management": 57,
+    "Resource Management": 54,
+    "Singleplayer": 52,
+    "Indie": 49,
+    "Early Access": 27,
+    "Sexual Content": 23
+  }
+}

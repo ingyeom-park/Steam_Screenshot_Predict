@@ -1,0 +1,26 @@
+{
+  "appid": 2459180,
+  "success": true,
+  "tags": {
+    "RPG": 111,
+    "Strategy": 105,
+    "Indie": 102,
+    "Turn-Based Combat": 99,
+    "Rogue-like": 95,
+    "Dark Fantasy": 90,
+    "Pixel Graphics": 85,
+    "Auto Battler": 84,
+    "Tactical": 81,
+    "Simulation": 79,
+    "Rogue-lite": 67,
+    "Zombies": 67,
+    "Villain Protagonist": 65,
+    "Action Roguelike": 61,
+    "Idler": 60,
+    "2D": 58,
+    "Psychological Horror": 56,
+    "Dark Humor": 54,
+    "Casual": 52,
+    "Demons": 31
+  }
+}

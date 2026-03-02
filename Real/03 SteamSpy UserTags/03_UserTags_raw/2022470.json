@@ -1,0 +1,26 @@
+{
+  "appid": 2022470,
+  "success": true,
+  "tags": {
+    "Adventure": 275,
+    "RPG": 249,
+    "Exploration": 243,
+    "Investigation": 237,
+    "Noir": 229,
+    "Puzzle": 208,
+    "Side Scroller": 201,
+    "2D": 192,
+    "Pixel Graphics": 184,
+    "Dark": 172,
+    "Horror": 162,
+    "Mystery": 157,
+    "Psychological": 144,
+    "Retro": 128,
+    "Supernatural": 112,
+    "Thriller": 95,
+    "Story Rich": 92,
+    "Singleplayer": 90,
+    "Indie": 88,
+    "Action-Adventure": 86
+  }
+}

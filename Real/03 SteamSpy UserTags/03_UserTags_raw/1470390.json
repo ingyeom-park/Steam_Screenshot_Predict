@@ -1,0 +1,26 @@
+{
+  "appid": 1470390,
+  "success": true,
+  "tags": {
+    "RPG": 286,
+    "Top-Down": 278,
+    "Rogue-like": 272,
+    "Top-Down Shooter": 269,
+    "Action Roguelike": 263,
+    "Rhythm": 252,
+    "Shooter": 250,
+    "Rogue-lite": 248,
+    "Twin Stick Shooter": 246,
+    "Action": 244,
+    "Arcade": 242,
+    "Music-Based Procedural Generation": 240,
+    "Music": 234,
+    "Atmospheric": 225,
+    "Difficult": 217,
+    "Cyberpunk": 204,
+    "Sci-fi": 119,
+    "Indie": 112,
+    "Singleplayer": 91,
+    "Female Protagonist": 88
+  }
+}

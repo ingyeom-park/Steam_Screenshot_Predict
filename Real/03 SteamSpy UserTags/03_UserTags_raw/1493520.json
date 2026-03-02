@@ -1,0 +1,26 @@
+{
+  "appid": 1493520,
+  "success": true,
+  "tags": {
+    "Rhythm": 148,
+    "Music-Based Procedural Generation": 143,
+    "Music": 139,
+    "Bullet Hell": 135,
+    "Rogue-like": 135,
+    "Twin Stick Shooter": 126,
+    "Indie": 124,
+    "Action": 117,
+    "Exploration": 115,
+    "Shoot 'Em Up": 106,
+    "PvP": 97,
+    "Rogue-lite": 92,
+    "Shooter": 86,
+    "3D": 79,
+    "Top-Down": 72,
+    "Open World": 71,
+    "Casual": 67,
+    "Colorful": 63,
+    "Tactical": 60,
+    "Space": 56
+  }
+}

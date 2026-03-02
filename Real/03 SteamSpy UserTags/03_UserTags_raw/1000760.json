@@ -1,0 +1,26 @@
+{
+  "appid": 1000760,
+  "success": true,
+  "tags": {
+    "Action": 188,
+    "Indie": 176,
+    "Platformer": 164,
+    "Side Scroller": 158,
+    "2D": 156,
+    "Metroidvania": 147,
+    "Pixel Graphics": 141,
+    "Souls-like": 128,
+    "Difficult": 125,
+    "Female Protagonist": 108,
+    "Adventure": 99,
+    "Rogue-like": 86,
+    "Singleplayer": 79,
+    "Hack and Slash": 72,
+    "Action-Adventure": 71,
+    "Atmospheric": 66,
+    "Story Rich": 61,
+    "Replay Value": 59,
+    "Exploration": 57,
+    "Rogue-lite": 49
+  }
+}

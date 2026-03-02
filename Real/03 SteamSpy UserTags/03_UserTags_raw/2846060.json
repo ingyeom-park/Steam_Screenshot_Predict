@@ -1,0 +1,26 @@
+{
+  "appid": 2846060,
+  "success": true,
+  "tags": {
+    "Online Co-Op": 109,
+    "Horror": 102,
+    "Multiplayer": 98,
+    "First-Person": 96,
+    "Action": 86,
+    "Underwater": 84,
+    "Adventure": 80,
+    "Submarine": 75,
+    "Pixel Graphics": 73,
+    "Dungeon Crawler": 71,
+    "Action-Adventure": 70,
+    "Atmospheric": 67,
+    "Stylized": 67,
+    "Psychological Horror": 62,
+    "Survival Horror": 61,
+    "Co-op": 58,
+    "Perma Death": 57,
+    "PvE": 57,
+    "Singleplayer": 52,
+    "Indie": 50
+  }
+}

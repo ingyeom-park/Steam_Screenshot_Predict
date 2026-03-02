@@ -1,0 +1,24 @@
+{
+  "appid": 1499800,
+  "success": true,
+  "tags": {
+    "FPS": 119,
+    "Sniper": 115,
+    "Hidden Object": 109,
+    "Hand-drawn": 107,
+    "Shooter": 103,
+    "Singleplayer": 97,
+    "Stealth": 97,
+    "2D": 91,
+    "Minimalist": 90,
+    "Isometric": 86,
+    "Action": 84,
+    "Casual": 82,
+    "Military": 80,
+    "Crime": 76,
+    "Violent": 66,
+    "Indie": 63,
+    "Blood": 30,
+    "Early Access": 27
+  }
+}

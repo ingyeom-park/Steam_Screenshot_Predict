@@ -1,0 +1,26 @@
+{
+  "appid": 2280390,
+  "success": true,
+  "tags": {
+    "Simulation": 232,
+    "Sports": 231,
+    "Strategy": 216,
+    "Racing": 194,
+    "e-sports": 187,
+    "RTS": 175,
+    "3D": 173,
+    "Tactical": 163,
+    "Tennis": 163,
+    "Singleplayer": 148,
+    "Text-Based": 135,
+    "Indie": 128,
+    "Resource Management": 126,
+    "Time Management": 123,
+    "Artificial Intelligence": 94,
+    "Character Customization": 78,
+    "Realistic": 62,
+    "Life Sim": 42,
+    "Immersive Sim": 27,
+    "Tutorial": 24
+  }
+}

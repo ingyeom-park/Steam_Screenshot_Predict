@@ -1,0 +1,26 @@
+{
+  "appid": 1125330,
+  "success": true,
+  "tags": {
+    "Co-op Campaign": 378,
+    "Local Co-Op": 365,
+    "Co-op": 350,
+    "Local Multiplayer": 321,
+    "Singleplayer": 320,
+    "Medieval": 315,
+    "Swordplay": 311,
+    "Combat": 308,
+    "4 Player Local": 303,
+    "Party Game": 297,
+    "Indie": 283,
+    "Action": 279,
+    "Multiplayer": 276,
+    "Casual": 276,
+    "Realistic": 272,
+    "Fighting": 253,
+    "PvP": 240,
+    "Dark": 228,
+    "Hack and Slash": 224,
+    "2D Fighter": 221
+  }
+}

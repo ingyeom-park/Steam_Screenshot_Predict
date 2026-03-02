@@ -1,0 +1,26 @@
+{
+  "appid": 2553840,
+  "success": true,
+  "tags": {
+    "Action": 213,
+    "Shooter": 187,
+    "Action Roguelike": 183,
+    "3D": 178,
+    "First-Person": 173,
+    "1990's": 162,
+    "Dark": 155,
+    "Demons": 147,
+    "Old School": 139,
+    "Retro": 130,
+    "Survival Horror": 119,
+    "Combat": 117,
+    "PvE": 104,
+    "Singleplayer": 90,
+    "Blood": 75,
+    "Fast-Paced": 59,
+    "Gore": 46,
+    "FPS": 43,
+    "Rogue-lite": 24,
+    "Indie": 20
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1072640,
+  "success": true,
+  "tags": {
+    "Bullet Hell": 221,
+    "Music": 213,
+    "Difficult": 212,
+    "Action Roguelike": 207,
+    "Dungeon Crawler": 200,
+    "Rogue-like": 197,
+    "Singleplayer": 181,
+    "Action": 172,
+    "2D": 166,
+    "Rhythm": 160,
+    "Controller": 153,
+    "Top-Down": 149,
+    "Loot": 145,
+    "Procedural Generation": 139,
+    "Twin Stick Shooter": 133,
+    "Minimalist": 131,
+    "Indie": 94,
+    "Casual": 88,
+    "Arcade": 63,
+    "RPG": 51
+  }
+}

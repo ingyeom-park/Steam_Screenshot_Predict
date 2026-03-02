@@ -1,0 +1,26 @@
+{
+  "appid": 1012840,
+  "success": true,
+  "tags": {
+    "Adventure": 173,
+    "Horror": 122,
+    "Lovecraftian": 106,
+    "Sci-fi": 104,
+    "Space": 96,
+    "First-Person": 77,
+    "Exploration": 72,
+    "Mars": 71,
+    "Psychological Horror": 70,
+    "Singleplayer": 67,
+    "Puzzle": 65,
+    "Atmospheric": 62,
+    "Survival": 60,
+    "Walking Simulator": 53,
+    "Mystery": 53,
+    "Thriller": 51,
+    "Science": 48,
+    "Psychological": 45,
+    "Indie": 42,
+    "Alternate History": 39
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 982290,
+  "success": true,
+  "tags": {
+    "City Builder": 152,
+    "Base-Building": 143,
+    "Exploration": 141,
+    "Building": 133,
+    "Singleplayer": 121,
+    "Resource Management": 118,
+    "Sandbox": 116,
+    "Relaxing": 114,
+    "3D": 105,
+    "Steampunk": 104,
+    "Strategy": 104,
+    "Colorful": 101,
+    "Stylized": 92,
+    "Economy": 88,
+    "Atmospheric": 82,
+    "Real-Time with Pause": 79,
+    "Simulation": 73,
+    "Indie": 65,
+    "Casual": 30,
+    "Adventure": 22
+  }
+}

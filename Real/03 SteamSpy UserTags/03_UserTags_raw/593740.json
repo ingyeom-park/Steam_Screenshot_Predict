@@ -1,0 +1,26 @@
+{
+  "appid": 593740,
+  "success": true,
+  "tags": {
+    "Action": 33,
+    "Adventure": 32,
+    "Indie": 32,
+    "RPG": 30,
+    "Platformer": 17,
+    "2D": 16,
+    "Retro": 15,
+    "Pixel Graphics": 14,
+    "Arcade": 13,
+    "Singleplayer": 13,
+    "Classic": 12,
+    "2D Fighter": 12,
+    "Female Protagonist": 12,
+    "Precision Platformer": 11,
+    "Difficult": 11,
+    "Anime": 11,
+    "Violent": 11,
+    "1990's": 11,
+    "1980s": 11,
+    "Gore": 10
+  }
+}

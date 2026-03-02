@@ -1,0 +1,26 @@
+{
+  "appid": 871950,
+  "success": true,
+  "tags": {
+    "Indie": 156,
+    "Horror": 149,
+    "Pixel Graphics": 146,
+    "Platformer": 141,
+    "Retro": 138,
+    "Action": 128,
+    "Casual": 127,
+    "Anime": 118,
+    "Puzzle-Platformer": 110,
+    "Sci-fi": 106,
+    "Action-Adventure": 104,
+    "Psychological Horror": 98,
+    "Story Rich": 88,
+    "Simulation": 82,
+    "Visual Novel": 79,
+    "Surreal": 79,
+    "Difficult": 72,
+    "2D": 64,
+    "Side Scroller": 60,
+    "Adventure": 56
+  }
+}

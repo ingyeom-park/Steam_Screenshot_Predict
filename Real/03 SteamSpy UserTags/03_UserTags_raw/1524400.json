@@ -1,0 +1,22 @@
+{
+  "appid": 1524400,
+  "success": true,
+  "tags": {
+    "Simulation": 60,
+    "Destruction": 54,
+    "Physics": 51,
+    "Comedy": 46,
+    "Singleplayer": 38,
+    "Choose Your Own Adventure": 31,
+    "Arcade": 30,
+    "Realistic": 29,
+    "6DOF": 26,
+    "Third Person": 23,
+    "Walking Simulator": 23,
+    "Indie": 22,
+    "Funny": 21,
+    "Bullet Time": 21,
+    "3D": 18,
+    "Stylized": 14
+  }
+}

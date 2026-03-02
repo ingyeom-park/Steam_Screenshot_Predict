@@ -1,0 +1,26 @@
+{
+  "appid": 566530,
+  "success": true,
+  "tags": {
+    "Multiplayer": 217,
+    "VR": 212,
+    "Local Multiplayer": 207,
+    "Action": 204,
+    "Atmospheric": 201,
+    "Casual": 195,
+    "Indie": 193,
+    "Arcade": 191,
+    "Asynchronous Multiplayer": 190,
+    "Asymmetric VR": 190,
+    "Horror": 184,
+    "Rogue-like": 179,
+    "3D Platformer": 176,
+    "First-Person": 169,
+    "Split Screen": 166,
+    "Building": 155,
+    "Sci-fi": 154,
+    "Dark": 145,
+    "Drama": 138,
+    "Emotional": 136
+  }
+}

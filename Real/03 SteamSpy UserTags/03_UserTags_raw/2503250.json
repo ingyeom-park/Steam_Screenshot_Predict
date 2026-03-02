@@ -1,0 +1,25 @@
+{
+  "appid": 2503250,
+  "success": true,
+  "tags": {
+    "RPG": 362,
+    "Retro": 336,
+    "Story Rich": 332,
+    "Historical": 327,
+    "Fantasy": 321,
+    "Turn-Based Combat": 311,
+    "2D": 304,
+    "Singleplayer": 287,
+    "Party-Based RPG": 266,
+    "Drama": 254,
+    "Colorful": 229,
+    "Turn-Based": 214,
+    "JRPG": 212,
+    "Turn-Based Tactics": 195,
+    "Indie": 177,
+    "Adventure": 138,
+    "Exploration": 117,
+    "Casual": 95,
+    "Strategy": 72
+  }
+}

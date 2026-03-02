@@ -1,0 +1,26 @@
+{
+  "appid": 1502520,
+  "success": true,
+  "tags": {
+    "Singleplayer": 106,
+    "Visual Novel": 101,
+    "Casual": 96,
+    "Female Protagonist": 92,
+    "Anime": 88,
+    "Dark": 82,
+    "Drama": 78,
+    "Emotional": 76,
+    "Indie": 70,
+    "Text-Based": 66,
+    "Multiple Endings": 64,
+    "Narration": 62,
+    "Adventure": 59,
+    "Interactive Fiction": 56,
+    "2D": 54,
+    "Psychological": 52,
+    "Atmospheric": 48,
+    "Dark Humor": 45,
+    "Choices Matter": 40,
+    "Story Rich": 33
+  }
+}

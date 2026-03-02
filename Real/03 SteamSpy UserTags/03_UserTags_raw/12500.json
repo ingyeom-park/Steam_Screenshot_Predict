@@ -1,0 +1,19 @@
+{
+  "appid": 12500,
+  "success": true,
+  "tags": {
+    "Puzzle": 116,
+    "Match 3": 105,
+    "Casual": 94,
+    "RPG": 90,
+    "Fantasy": 58,
+    "2D": 23,
+    "Addictive": 22,
+    "Strategy": 21,
+    "Singleplayer": 18,
+    "Anime": 14,
+    "Indie": 12,
+    "Touch-Friendly": 9,
+    "Adventure": 7
+  }
+}

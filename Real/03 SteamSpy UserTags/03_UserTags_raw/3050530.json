@@ -1,0 +1,26 @@
+{
+  "appid": 3050530,
+  "success": true,
+  "tags": {
+    "Casual": 228,
+    "Cute": 215,
+    "Cooking": 204,
+    "Fantasy": 198,
+    "Hand-drawn": 192,
+    "2.5D": 182,
+    "Cozy": 175,
+    "Time Management": 167,
+    "Indie": 159,
+    "Colorful": 158,
+    "Relaxing": 149,
+    "Side Scroller": 127,
+    "Life Sim": 125,
+    "Crafting": 110,
+    "Inventory Management": 96,
+    "Family Friendly": 80,
+    "Underground": 63,
+    "Management": 46,
+    "Simulation": 28,
+    "Singleplayer": 26
+  }
+}

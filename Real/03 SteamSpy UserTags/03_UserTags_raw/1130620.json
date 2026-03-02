@@ -1,0 +1,26 @@
+{
+  "appid": 1130620,
+  "success": true,
+  "tags": {
+    "Horror": 82,
+    "Indie": 67,
+    "Violent": 48,
+    "Gore": 45,
+    "Action": 44,
+    "Adventure": 42,
+    "Survival Horror": 41,
+    "Strategy": 41,
+    "Simulation": 40,
+    "Casual": 38,
+    "First-Person": 36,
+    "Exploration": 35,
+    "Singleplayer": 32,
+    "Dark": 31,
+    "Atmospheric": 30,
+    "Psychological Horror": 30,
+    "Mystery": 28,
+    "Puzzle": 25,
+    "Anime": 24,
+    "Dark Fantasy": 21
+  }
+}

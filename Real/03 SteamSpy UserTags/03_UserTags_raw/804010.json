@@ -1,0 +1,26 @@
+{
+  "appid": 804010,
+  "success": true,
+  "tags": {
+    "Card Battler": 181,
+    "Turn-Based": 173,
+    "Card Game": 168,
+    "Party-Based RPG": 157,
+    "RPG": 154,
+    "2D": 144,
+    "Deckbuilding": 144,
+    "Turn-Based Combat": 143,
+    "Steampunk": 136,
+    "Cartoony": 131,
+    "Colorful": 124,
+    "Fantasy": 118,
+    "Magic": 112,
+    "Robots": 109,
+    "Atmospheric": 106,
+    "Adventure": 93,
+    "Singleplayer": 71,
+    "Indie": 66,
+    "Great Soundtrack": 57,
+    "Casual": 53
+  }
+}

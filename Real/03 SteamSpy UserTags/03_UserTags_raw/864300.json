@@ -1,0 +1,24 @@
+{
+  "appid": 864300,
+  "success": true,
+  "tags": {
+    "Puzzle": 100,
+    "Casual": 93,
+    "Indie": 89,
+    "Minimalist": 82,
+    "Singleplayer": 77,
+    "2D": 69,
+    "Relaxing": 63,
+    "Difficult": 60,
+    "Adventure": 56,
+    "Platformer": 51,
+    "Action-Adventure": 43,
+    "Tactical RPG": 37,
+    "Abstract": 36,
+    "Anime": 33,
+    "Open World": 30,
+    "Controller": 28,
+    "Music": 23,
+    "Free to Play": 13
+  }
+}

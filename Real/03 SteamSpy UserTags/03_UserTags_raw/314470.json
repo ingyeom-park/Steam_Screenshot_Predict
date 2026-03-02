@@ -1,0 +1,18 @@
+{
+  "appid": 314470,
+  "success": true,
+  "tags": {
+    "RPG": 61,
+    "Indie": 45,
+    "Dungeon Crawler": 28,
+    "Turn-Based": 25,
+    "Singleplayer": 19,
+    "First-Person": 14,
+    "Grid-Based Movement": 13,
+    "Procedural Generation": 10,
+    "Party-Based RPG": 10,
+    "Fantasy": 8,
+    "Pixel Graphics": 8,
+    "Retro": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 493200,
+  "success": true,
+  "tags": {
+    "Adventure": 189,
+    "Puzzle": 179,
+    "Exploration": 165,
+    "Atmospheric": 155,
+    "Great Soundtrack": 133,
+    "Singleplayer": 120,
+    "Colorful": 99,
+    "Fantasy": 96,
+    "Indie": 78,
+    "Relaxing": 72,
+    "3D Platformer": 67,
+    "Open World": 65,
+    "Story Rich": 51,
+    "Walking Simulator": 36,
+    "Action": 34,
+    "Third Person": 32,
+    "Platformer": 29,
+    "Family Friendly": 27,
+    "Casual": 25,
+    "Controller": 22
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 224480,
+  "success": true,
+  "tags": {
+    "Comedy": 702,
+    "Physics": 543,
+    "Funny": 449,
+    "Indie": 445,
+    "Family Friendly": 394,
+    "Adventure": 345,
+    "Local Co-Op": 229,
+    "Walking Simulator": 194,
+    "Action": 171,
+    "Singleplayer": 142,
+    "Co-op": 128,
+    "Puzzle": 118,
+    "Difficult": 111,
+    "Short": 109,
+    "Simulation": 106,
+    "Third Person": 106,
+    "Intentionally Awkward Controls": 102,
+    "Addictive": 90,
+    "Great Soundtrack": 70,
+    "Local Multiplayer": 68
+  }
+}

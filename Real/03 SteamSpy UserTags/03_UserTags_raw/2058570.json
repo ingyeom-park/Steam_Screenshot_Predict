@@ -1,0 +1,25 @@
+{
+  "appid": 2058570,
+  "success": true,
+  "tags": {
+    "Traditional Roguelike": 191,
+    "Magic": 176,
+    "Procedural Generation": 171,
+    "Minimalist": 163,
+    "Retro": 159,
+    "RPG": 155,
+    "1990's": 148,
+    "Turn-Based Strategy": 145,
+    "Rogue-like": 129,
+    "Strategy": 123,
+    "Character Customization": 117,
+    "Turn-Based Combat": 105,
+    "Tactical RPG": 90,
+    "2D": 77,
+    "Pixel Graphics": 63,
+    "Fantasy": 46,
+    "Old School": 30,
+    "Singleplayer": 28,
+    "Indie": 23
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 105000,
+  "success": true,
+  "tags": {
+    "Adventure": 130,
+    "Point & Click": 113,
+    "Indie": 43,
+    "Singleplayer": 37,
+    "Puzzle": 25,
+    "Retro": 19,
+    "Great Soundtrack": 19,
+    "Classic": 19,
+    "1990's": 18,
+    "Cult Classic": 17,
+    "Sci-fi": 17,
+    "Escape Room": 16,
+    "Time Travel": 14,
+    "2D": 12,
+    "Female Protagonist": 11,
+    "Atmospheric": 9,
+    "Post-apocalyptic": 8,
+    "Hand-drawn": 7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1267400,
+  "success": true,
+  "tags": {
+    "Adventure": 219,
+    "Indie": 213,
+    "Exploration": 210,
+    "Horror": 209,
+    "Survival Horror": 199,
+    "Psychological Horror": 190,
+    "Puzzle": 182,
+    "Stealth": 174,
+    "Walking Simulator": 165,
+    "3D": 155,
+    "First-Person": 145,
+    "1990's": 131,
+    "Conspiracy": 119,
+    "Investigation": 105,
+    "Psychological": 90,
+    "Artificial Intelligence": 74,
+    "Choices Matter": 60,
+    "Resource Management": 45,
+    "Story Rich": 28,
+    "Singleplayer": 26
+  }
+}

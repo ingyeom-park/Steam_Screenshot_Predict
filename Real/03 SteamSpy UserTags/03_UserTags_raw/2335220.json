@@ -1,0 +1,26 @@
+{
+  "appid": 2335220,
+  "success": true,
+  "tags": {
+    "Horror": 125,
+    "Psychological Horror": 118,
+    "Exploration": 116,
+    "Survival Horror": 114,
+    "First-Person": 109,
+    "Dark": 103,
+    "Action-Adventure": 101,
+    "Dungeon Crawler": 99,
+    "3D": 87,
+    "Post-apocalyptic": 85,
+    "Story Rich": 83,
+    "Linear": 81,
+    "Realistic": 79,
+    "Demons": 77,
+    "Atmospheric": 75,
+    "Investigation": 73,
+    "Survival": 71,
+    "Indie": 45,
+    "Nudity": 22,
+    "Strategy": 21
+  }
+}

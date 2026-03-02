@@ -1,0 +1,26 @@
+{
+  "appid": 2505250,
+  "success": true,
+  "tags": {
+    "Action-Adventure": 96,
+    "Singleplayer": 90,
+    "Platformer": 87,
+    "Controller": 83,
+    "Exploration": 80,
+    "2D Platformer": 74,
+    "Shooter": 72,
+    "Side Scroller": 70,
+    "Story Rich": 68,
+    "2D": 67,
+    "Action": 64,
+    "Colorful": 62,
+    "Fantasy": 60,
+    "Adventure": 58,
+    "Retro": 56,
+    "Sci-fi": 54,
+    "Arcade": 52,
+    "Pixel Graphics": 50,
+    "Futuristic": 48,
+    "Indie": 46
+  }
+}

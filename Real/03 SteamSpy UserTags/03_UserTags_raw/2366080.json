@@ -1,0 +1,26 @@
+{
+  "appid": 2366080,
+  "success": true,
+  "tags": {
+    "Survival": 149,
+    "Atmospheric": 143,
+    "Horror": 140,
+    "First-Person": 135,
+    "Exploration": 130,
+    "Escape Room": 123,
+    "Survival Horror": 116,
+    "Adventure": 111,
+    "FPS": 108,
+    "Psychological Horror": 106,
+    "Indie": 104,
+    "Action": 97,
+    "Puzzle": 87,
+    "Violent": 80,
+    "3D": 78,
+    "Gore": 66,
+    "Singleplayer": 58,
+    "Hidden Object": 53,
+    "Action-Adventure": 46,
+    "Stealth": 34
+  }
+}

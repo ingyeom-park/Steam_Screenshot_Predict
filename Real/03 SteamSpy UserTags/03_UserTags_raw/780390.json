@@ -1,0 +1,26 @@
+{
+  "appid": 780390,
+  "success": true,
+  "tags": {
+    "Survival": 178,
+    "Open World": 172,
+    "Action RPG": 168,
+    "Sandbox": 165,
+    "Physics": 163,
+    "Resource Management": 155,
+    "Loot": 153,
+    "Crafting": 150,
+    "Adventure": 148,
+    "Exploration": 145,
+    "Side Scroller": 143,
+    "Building": 140,
+    "Space": 135,
+    "2D": 122,
+    "Singleplayer": 108,
+    "Casual": 96,
+    "Action": 93,
+    "Indie": 82,
+    "RPG": 74,
+    "Action Roguelike": 69
+  }
+}

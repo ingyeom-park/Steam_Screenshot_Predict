@@ -1,0 +1,22 @@
+{
+  "appid": 266130,
+  "success": true,
+  "tags": {
+    "Strategy": 167,
+    "Tactical": 147,
+    "Turn-Based Strategy": 94,
+    "Simulation": 79,
+    "Action": 75,
+    "Turn-Based": 63,
+    "Singleplayer": 55,
+    "Military": 53,
+    "RPG": 50,
+    "Shooter": 32,
+    "Isometric": 26,
+    "Indie": 20,
+    "Turn-Based Tactics": 19,
+    "Multiplayer": 13,
+    "Top-Down": 13,
+    "Realistic": 9
+  }
+}

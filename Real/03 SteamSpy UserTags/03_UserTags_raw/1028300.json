@@ -1,0 +1,23 @@
+{
+  "appid": 1028300,
+  "success": true,
+  "tags": {
+    "Action": 35,
+    "Indie": 32,
+    "Violent": 32,
+    "Gore": 31,
+    "Adventure": 30,
+    "Platformer": 17,
+    "Retro": 17,
+    "Pixel Graphics": 16,
+    "2D": 14,
+    "Difficult": 14,
+    "Arcade": 14,
+    "Singleplayer": 12,
+    "1990's": 12,
+    "1980s": 12,
+    "Classic": 10,
+    "Replay Value": 10,
+    "Precision Platformer": 9
+  }
+}

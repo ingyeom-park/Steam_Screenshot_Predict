@@ -1,0 +1,26 @@
+{
+  "appid": 1083310,
+  "success": true,
+  "tags": {
+    "Indie": 78,
+    "Metroidvania": 78,
+    "Action": 67,
+    "Adventure": 64,
+    "Platformer": 57,
+    "Pixel Graphics": 57,
+    "Difficult": 53,
+    "Exploration": 46,
+    "Great Soundtrack": 40,
+    "2D": 36,
+    "Singleplayer": 35,
+    "Side Scroller": 35,
+    "Local Co-Op": 34,
+    "Atmospheric": 24,
+    "Retro": 19,
+    "Sci-fi": 18,
+    "Open World": 12,
+    "Nonlinear": 12,
+    "Multiplayer": 11,
+    "Lovecraftian": 7
+  }
+}

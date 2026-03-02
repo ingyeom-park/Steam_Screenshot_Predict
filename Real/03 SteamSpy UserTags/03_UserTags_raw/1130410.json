@@ -1,0 +1,26 @@
+{
+  "appid": 1130410,
+  "success": true,
+  "tags": {
+    "Indie": 257,
+    "3D Platformer": 256,
+    "Parkour": 253,
+    "Fast-Paced": 243,
+    "Action": 236,
+    "Time Attack": 233,
+    "First-Person": 230,
+    "Singleplayer": 223,
+    "Platformer": 210,
+    "Retro": 203,
+    "FPS": 186,
+    "1980s": 177,
+    "Arcade": 172,
+    "Racing": 165,
+    "Shooter": 154,
+    "Precision Platformer": 148,
+    "3D": 147,
+    "Colorful": 133,
+    "Minimalist": 124,
+    "Old School": 111
+  }
+}

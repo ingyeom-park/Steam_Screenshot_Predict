@@ -1,0 +1,26 @@
+{
+  "appid": 371430,
+  "success": true,
+  "tags": {
+    "Rogue-lite": 308,
+    "Perma Death": 302,
+    "Turn-Based": 300,
+    "Difficult": 296,
+    "Turn-Based Strategy": 292,
+    "Rogue-like": 286,
+    "Strategy": 284,
+    "RPG": 282,
+    "Top-Down": 280,
+    "Action": 278,
+    "Pixel Graphics": 271,
+    "Space": 262,
+    "Sci-fi": 255,
+    "Aliens": 250,
+    "Retro": 245,
+    "Singleplayer": 243,
+    "Futuristic": 241,
+    "Fast-Paced": 224,
+    "Indie": 214,
+    "Replay Value": 207
+  }
+}

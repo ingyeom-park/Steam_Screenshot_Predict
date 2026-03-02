@@ -1,0 +1,26 @@
+{
+  "appid": 1117880,
+  "success": true,
+  "tags": {
+    "Side Scroller": 140,
+    "Exploration": 130,
+    "Platformer": 128,
+    "Bullet Hell": 127,
+    "Arcade": 125,
+    "2D": 114,
+    "Linear": 107,
+    "Action": 107,
+    "Pixel Graphics": 105,
+    "Sci-fi": 99,
+    "Dog": 96,
+    "War": 94,
+    "1990's": 94,
+    "Adventure": 93,
+    "Retro": 89,
+    "Old School": 87,
+    "Combat": 80,
+    "Singleplayer": 76,
+    "Soundtrack": 71,
+    "Indie": 64
+  }
+}

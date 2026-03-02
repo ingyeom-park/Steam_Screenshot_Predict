@@ -1,0 +1,23 @@
+{
+  "appid": 2880750,
+  "success": true,
+  "tags": {
+    "Puzzle": 57,
+    "Grid-Based Movement": 52,
+    "Logic": 47,
+    "Turn-Based Tactics": 41,
+    "Exploration": 39,
+    "Casual": 34,
+    "2D": 32,
+    "Top-Down": 31,
+    "Nonlinear": 28,
+    "Pixel Graphics": 26,
+    "Colorful": 24,
+    "Level Editor": 23,
+    "Indie": 22,
+    "Family Friendly": 21,
+    "Combat": 18,
+    "Singleplayer": 18,
+    "Fantasy": 12
+  }
+}

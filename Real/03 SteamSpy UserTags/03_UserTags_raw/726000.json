@@ -1,0 +1,26 @@
+{
+  "appid": 726000,
+  "success": true,
+  "tags": {
+    "Strategy": 119,
+    "Action": 113,
+    "Simulation": 110,
+    "Indie": 107,
+    "RPG": 104,
+    "Base-Building": 98,
+    "RTS": 95,
+    "Fantasy": 93,
+    "Real Time Tactics": 90,
+    "War": 87,
+    "Atmospheric": 84,
+    "Sandbox": 78,
+    "First-Person": 72,
+    "Dragons": 68,
+    "Management": 66,
+    "Local Co-Op": 65,
+    "Singleplayer": 61,
+    "Split Screen": 58,
+    "Strategy RPG": 56,
+    "Action RTS": 52
+  }
+}

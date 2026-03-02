@@ -1,0 +1,26 @@
+{
+  "appid": 2815150,
+  "success": true,
+  "tags": {
+    "Metroidvania": 87,
+    "Precision Platformer": 81,
+    "Adventure": 78,
+    "Cute": 73,
+    "Pixel Graphics": 71,
+    "Retro": 65,
+    "2D Platformer": 63,
+    "Indie": 61,
+    "Exploration": 53,
+    "Platformer": 50,
+    "Colorful": 49,
+    "Atmospheric": 46,
+    "Singleplayer": 45,
+    "2D": 43,
+    "Parkour": 41,
+    "Family Friendly": 39,
+    "Mystery": 36,
+    "Controller": 34,
+    "Action-Adventure": 32,
+    "Linear": 31
+  }
+}

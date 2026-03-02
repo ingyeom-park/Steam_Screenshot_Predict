@@ -1,0 +1,26 @@
+{
+  "appid": 258890,
+  "success": true,
+  "tags": {
+    "Casual": 166,
+    "Platformer": 156,
+    "Puzzle": 142,
+    "Singleplayer": 142,
+    "Historical": 139,
+    "Typing": 131,
+    "Short": 125,
+    "Indie": 119,
+    "Education": 99,
+    "Puzzle-Platformer": 90,
+    "Adventure": 85,
+    "2D": 84,
+    "Atmospheric": 80,
+    "Beautiful": 75,
+    "Stylized": 62,
+    "Action": 59,
+    "Story Rich": 51,
+    "Physics": 48,
+    "2D Platformer": 38,
+    "Text-Based": 35
+  }
+}

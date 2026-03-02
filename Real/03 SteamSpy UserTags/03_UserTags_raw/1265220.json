@@ -1,0 +1,26 @@
+{
+  "appid": 1265220,
+  "success": true,
+  "tags": {
+    "Wargame": 169,
+    "Turn-Based Strategy": 163,
+    "World War II": 159,
+    "Strategy": 154,
+    "Grand Strategy": 152,
+    "War": 146,
+    "Tutorial": 142,
+    "Turn-Based": 138,
+    "2D": 137,
+    "Historical": 135,
+    "Simulation": 132,
+    "Singleplayer": 130,
+    "Multiplayer": 126,
+    "Asynchronous Multiplayer": 122,
+    "Local Multiplayer": 116,
+    "Text-Based": 112,
+    "Turn-Based Combat": 104,
+    "Real Time Tactics": 102,
+    "PvP": 86,
+    "Indie": 84
+  }
+}

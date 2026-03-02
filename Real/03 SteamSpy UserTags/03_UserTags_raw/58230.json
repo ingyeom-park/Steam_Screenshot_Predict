@@ -1,0 +1,14 @@
+{
+  "appid": 58230,
+  "success": true,
+  "tags": {
+    "Adventure": 30,
+    "Casual": 27,
+    "Indie": 24,
+    "Puzzle": 20,
+    "Werewolves": 11,
+    "Sokoban": 8,
+    "Singleplayer": 6,
+    "Comedy": 5
+  }
+}

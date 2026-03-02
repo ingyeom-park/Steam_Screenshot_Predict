@@ -1,0 +1,23 @@
+{
+  "appid": 2796650,
+  "success": true,
+  "tags": {
+    "Action": 72,
+    "Adventure": 66,
+    "Action-Adventure": 43,
+    "Platformer": 41,
+    "2D Platformer": 37,
+    "Indie": 31,
+    "Exploration": 31,
+    "Puzzle-Platformer": 29,
+    "Side Scroller": 27,
+    "2D": 26,
+    "Colorful": 23,
+    "Cute": 21,
+    "Pixel Graphics": 20,
+    "Pirates": 17,
+    "Retro": 15,
+    "Singleplayer": 13,
+    "PvP": 10
+  }
+}

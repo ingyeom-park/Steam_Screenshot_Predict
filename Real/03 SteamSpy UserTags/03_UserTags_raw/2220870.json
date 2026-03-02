@@ -1,0 +1,22 @@
+{
+  "appid": 2220870,
+  "success": true,
+  "tags": {
+    "Action": 74,
+    "Casual": 66,
+    "Rogue-lite": 40,
+    "Pixel Graphics": 37,
+    "Fantasy": 31,
+    "Indie": 30,
+    "Loot": 28,
+    "Retro": 27,
+    "Co-op": 24,
+    "Combat": 24,
+    "Online Co-Op": 21,
+    "Multiplayer": 19,
+    "Singleplayer": 16,
+    "Action Roguelike": 16,
+    "Bullet Hell": 13,
+    "PvE": 12
+  }
+}

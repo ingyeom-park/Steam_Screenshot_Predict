@@ -1,0 +1,26 @@
+{
+  "appid": 470260,
+  "success": true,
+  "tags": {
+    "Adventure": 84,
+    "Sci-fi": 78,
+    "Atmospheric": 75,
+    "Space": 72,
+    "Indie": 68,
+    "Singleplayer": 63,
+    "Mystery": 63,
+    "First-Person": 61,
+    "Choices Matter": 61,
+    "Multiple Endings": 59,
+    "Artificial Intelligence": 58,
+    "Story Rich": 54,
+    "Exploration": 49,
+    "Short": 39,
+    "Dynamic Narration": 38,
+    "Narration": 36,
+    "Walking Simulator": 35,
+    "Horror": 27,
+    "Text-Based": 25,
+    "Typing": 20
+  }
+}

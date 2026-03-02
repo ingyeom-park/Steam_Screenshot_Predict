@@ -1,0 +1,26 @@
+{
+  "appid": 2254750,
+  "success": true,
+  "tags": {
+    "CRPG": 175,
+    "3D Platformer": 170,
+    "Action RPG": 166,
+    "Action-Adventure": 161,
+    "RPG": 155,
+    "3D Vision": 145,
+    "Third Person": 138,
+    "3D": 130,
+    "Relaxing": 123,
+    "Action": 120,
+    "Lore-Rich": 113,
+    "Story Rich": 103,
+    "Fantasy": 87,
+    "Sci-fi": 73,
+    "Adventure": 62,
+    "Drama": 58,
+    "Combat": 27,
+    "Singleplayer": 25,
+    "Indie": 22,
+    "Sexual Content": 5
+  }
+}

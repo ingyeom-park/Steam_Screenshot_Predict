@@ -1,0 +1,26 @@
+{
+  "appid": 1320950,
+  "success": true,
+  "tags": {
+    "Casual": 135,
+    "Indie": 129,
+    "Horror": 125,
+    "Action": 123,
+    "Survival Horror": 117,
+    "First-Person": 112,
+    "Puzzle": 109,
+    "Exploration": 107,
+    "Gothic": 103,
+    "Psychological Horror": 97,
+    "Story Rich": 93,
+    "Surreal": 88,
+    "Thriller": 86,
+    "Survival": 79,
+    "FPS": 75,
+    "Family Friendly": 70,
+    "Zombies": 68,
+    "Dark": 66,
+    "Mystery": 63,
+    "Psychological": 53
+  }
+}

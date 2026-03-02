@@ -1,0 +1,23 @@
+{
+  "appid": 654440,
+  "success": true,
+  "tags": {
+    "Isometric": 113,
+    "Casual": 105,
+    "Puzzle": 105,
+    "Grid-Based Movement": 102,
+    "Minimalist": 99,
+    "Logic": 95,
+    "Relaxing": 89,
+    "Difficult": 81,
+    "Strategy": 79,
+    "Abstract": 75,
+    "Stylized": 70,
+    "Family Friendly": 67,
+    "Singleplayer": 65,
+    "Short": 62,
+    "Indie": 53,
+    "Mouse only": 31,
+    "Atmospheric": 25
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "appid": 951260,
+  "success": true,
+  "tags": {
+    "RPG": 34,
+    "Indie": 34,
+    "Strategy": 32,
+    "Turn-Based Combat": 22,
+    "Action": 21,
+    "Adventure": 20,
+    "Turn-Based Tactics": 20,
+    "Turn-Based": 19,
+    "Tactical RPG": 15,
+    "Turn-Based Strategy": 14,
+    "Strategy RPG": 14,
+    "Medieval": 13,
+    "Dark Fantasy": 13,
+    "Swordplay": 13,
+    "Dungeon Crawler": 13,
+    "Realistic": 12,
+    "Magic": 12
+  }
+}

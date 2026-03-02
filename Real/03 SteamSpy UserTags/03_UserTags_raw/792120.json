@@ -1,0 +1,26 @@
+{
+  "appid": 792120,
+  "success": true,
+  "tags": {
+    "Action": 167,
+    "Indie": 163,
+    "Beat 'em up": 155,
+    "Adventure": 151,
+    "First-Person": 151,
+    "RPG": 149,
+    "Grid-Based Movement": 143,
+    "Pixel Graphics": 139,
+    "Comedy": 130,
+    "Dark Fantasy": 124,
+    "Fantasy": 123,
+    "Retro": 120,
+    "Puzzle": 99,
+    "Action RPG": 99,
+    "Hack and Slash": 90,
+    "Rhythm": 85,
+    "2D": 83,
+    "Cartoony": 81,
+    "Souls-like": 72,
+    "Colorful": 68
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 431250,
+  "success": true,
+  "tags": {
+    "Strategy": 80,
+    "Action": 71,
+    "Indie": 69,
+    "RTS": 62,
+    "Multiplayer": 57,
+    "2D": 51,
+    "Tower Defense": 49,
+    "Tactical": 40,
+    "Classic": 37,
+    "Atmospheric": 36,
+    "Replay Value": 35,
+    "Comedy": 25,
+    "Cartoony": 20,
+    "MOBA": 17,
+    "Singleplayer": 17,
+    "Funny": 16,
+    "Family Friendly": 16,
+    "Cartoon": 15,
+    "Action-Adventure": 11,
+    "Cute": 5
+  }
+}

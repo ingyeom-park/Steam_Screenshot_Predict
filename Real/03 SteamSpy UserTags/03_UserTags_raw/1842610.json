@@ -1,0 +1,25 @@
+{
+  "appid": 1842610,
+  "success": true,
+  "tags": {
+    "Match 3": 196,
+    "Casual": 193,
+    "Rogue-lite": 190,
+    "Puzzle": 185,
+    "RPG": 183,
+    "Magic": 180,
+    "Strategy": 176,
+    "2D": 149,
+    "Singleplayer": 140,
+    "Replay Value": 131,
+    "Procedural Generation": 120,
+    "Rogue-like": 117,
+    "Turn-Based": 105,
+    "Tactical": 91,
+    "Mouse only": 76,
+    "Fantasy": 60,
+    "Indie": 47,
+    "Relaxing": 43,
+    "Choices Matter": 25
+  }
+}

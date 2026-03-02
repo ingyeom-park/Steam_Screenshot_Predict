@@ -1,0 +1,10 @@
+{
+  "appid": 60350,
+  "success": true,
+  "tags": {
+    "Casual": 32,
+    "Adventure": 29,
+    "Indie": 27,
+    "Underwater": 6
+  }
+}

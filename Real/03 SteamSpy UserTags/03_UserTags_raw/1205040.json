@@ -1,0 +1,23 @@
+{
+  "appid": 1205040,
+  "success": true,
+  "tags": {
+    "Adventure": 48,
+    "Indie": 45,
+    "Horror": 45,
+    "Violent": 38,
+    "Gore": 36,
+    "Dark": 33,
+    "First-Person": 31,
+    "Stealth": 30,
+    "Singleplayer": 24,
+    "Multiplayer": 20,
+    "Survival Horror": 15,
+    "Puzzle": 14,
+    "Blood": 11,
+    "VR": 9,
+    "Funny": 8,
+    "Comedy": 5,
+    "Co-op": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1163870,
+  "success": true,
+  "tags": {
+    "Mechs": 145,
+    "Robots": 125,
+    "Singleplayer": 122,
+    "Action": 115,
+    "Military": 110,
+    "Moddable": 103,
+    "Indie": 99,
+    "Shooter": 97,
+    "Third Person": 88,
+    "Post-apocalyptic": 85,
+    "Sci-fi": 80,
+    "Horror": 74,
+    "First-Person": 72,
+    "Character Customization": 70,
+    "Violent": 60,
+    "Gore": 38,
+    "PvE": 33,
+    "Third-Person Shooter": 31,
+    "Action-Adventure": 30,
+    "FPS": 27
+  }
+}

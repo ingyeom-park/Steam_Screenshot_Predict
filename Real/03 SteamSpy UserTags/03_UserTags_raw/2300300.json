@@ -1,0 +1,18 @@
+{
+  "appid": 2300300,
+  "success": true,
+  "tags": {
+    "Strategy": 66,
+    "Simulation": 64,
+    "Puzzle": 56,
+    "Relaxing": 50,
+    "Casual": 47,
+    "Exploration": 47,
+    "Cozy": 40,
+    "Procedural Generation": 30,
+    "Nature": 23,
+    "Indie": 22,
+    "2D": 22,
+    "Singleplayer": 22
+  }
+}

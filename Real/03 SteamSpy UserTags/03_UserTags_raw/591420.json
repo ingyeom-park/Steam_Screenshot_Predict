@@ -1,0 +1,26 @@
+{
+  "appid": 591420,
+  "success": true,
+  "tags": {
+    "Puzzle": 222,
+    "Casual": 216,
+    "Indie": 212,
+    "Fast-Paced": 208,
+    "2D": 204,
+    "Short": 190,
+    "Minimalist": 181,
+    "Puzzle-Platformer": 175,
+    "Singleplayer": 171,
+    "Point & Click": 170,
+    "Cute": 166,
+    "Action": 156,
+    "Free to Play": 150,
+    "Racing": 137,
+    "Side Scroller": 129,
+    "Dungeon Crawler": 110,
+    "Pixel Graphics": 94,
+    "Anime": 71,
+    "Survival": 57,
+    "Psychological Horror": 40
+  }
+}

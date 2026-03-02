@@ -1,0 +1,26 @@
+{
+  "appid": 3477800,
+  "success": true,
+  "tags": {
+    "RPG": 232,
+    "Adventure": 226,
+    "Platformer": 202,
+    "Precision Platformer": 198,
+    "Side Scroller": 191,
+    "2D": 182,
+    "Pixel Graphics": 175,
+    "Cyberpunk": 166,
+    "Dark": 157,
+    "Demons": 138,
+    "Emotional": 126,
+    "Fantasy": 124,
+    "Futuristic": 110,
+    "Horror": 95,
+    "Mystery": 79,
+    "Psychological": 62,
+    "Psychological Horror": 44,
+    "Singleplayer": 28,
+    "Difficult": 25,
+    "Indie": 22
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 655380,
+  "success": true,
+  "tags": {
+    "Rogue-like": 118,
+    "Platformer": 113,
+    "Dog": 111,
+    "Action Roguelike": 107,
+    "Rogue-lite": 102,
+    "Action": 94,
+    "Indie": 88,
+    "Adventure": 80,
+    "Pixel Graphics": 76,
+    "2D": 73,
+    "Retro": 69,
+    "Singleplayer": 65,
+    "Casual": 60,
+    "Side Scroller": 54,
+    "Difficult": 53,
+    "Controller": 46,
+    "Replay Value": 42,
+    "Exploration": 35,
+    "Arcade": 31,
+    "Stylized": 29
+  }
+}

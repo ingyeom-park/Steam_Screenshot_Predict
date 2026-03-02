@@ -1,0 +1,26 @@
+{
+  "appid": 1203710,
+  "success": true,
+  "tags": {
+    "2D": 246,
+    "Pixel Graphics": 220,
+    "Old School": 204,
+    "Action": 201,
+    "Comedy": 201,
+    "Indie": 194,
+    "Adventure": 187,
+    "Retro": 176,
+    "Funny": 169,
+    "1980s": 169,
+    "Military": 166,
+    "Action-Adventure": 143,
+    "Top-Down": 137,
+    "Satire": 131,
+    "Stealth": 126,
+    "Singleplayer": 118,
+    "War": 98,
+    "Parody ": 98,
+    "Cold War": 65,
+    "1990's": 45
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1215280,
+  "success": true,
+  "tags": {
+    "Metroidvania": 152,
+    "Mystery Dungeon": 145,
+    "Puzzle-Platformer": 144,
+    "Dungeon Crawler": 141,
+    "Exploration": 136,
+    "Open World": 129,
+    "Point & Click": 125,
+    "Action-Adventure": 125,
+    "Cute": 121,
+    "First-Person": 120,
+    "Multiple Endings": 115,
+    "Puzzle": 107,
+    "Action": 100,
+    "Colorful": 100,
+    "Fantasy": 91,
+    "Magic": 89,
+    "Atmospheric": 84,
+    "Indie": 82,
+    "Crafting": 77,
+    "Adventure": 76
+  }
+}

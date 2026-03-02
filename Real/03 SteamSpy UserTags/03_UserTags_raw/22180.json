@@ -1,0 +1,22 @@
+{
+  "appid": 22180,
+  "success": true,
+  "tags": {
+    "Horror": 217,
+    "Adventure": 132,
+    "First-Person": 115,
+    "Indie": 96,
+    "Survival Horror": 96,
+    "Atmospheric": 95,
+    "Psychological Horror": 92,
+    "Singleplayer": 75,
+    "Story Rich": 72,
+    "Stealth": 70,
+    "Dark": 69,
+    "Puzzle": 60,
+    "Lovecraftian": 57,
+    "Action": 52,
+    "Survival": 45,
+    "Classic": 11
+  }
+}

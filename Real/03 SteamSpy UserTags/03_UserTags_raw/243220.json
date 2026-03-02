@@ -1,0 +1,20 @@
+{
+  "appid": 243220,
+  "success": true,
+  "tags": {
+    "Music": 80,
+    "Indie": 72,
+    "Puzzle": 63,
+    "Exploration": 55,
+    "First-Person": 50,
+    "Adventure": 40,
+    "Great Soundtrack": 32,
+    "Casual": 22,
+    "Singleplayer": 22,
+    "Atmospheric": 20,
+    "Abstract": 17,
+    "Walking Simulator": 14,
+    "Surreal": 10,
+    "Open World": 5
+  }
+}

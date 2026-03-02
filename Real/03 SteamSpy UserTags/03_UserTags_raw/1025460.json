@@ -1,0 +1,26 @@
+{
+  "appid": 1025460,
+  "success": true,
+  "tags": {
+    "Precision Platformer": 141,
+    "2D Platformer": 135,
+    "Difficult": 131,
+    "Singleplayer": 128,
+    "Pixel Graphics": 124,
+    "Platformer": 118,
+    "2D": 116,
+    "Linear": 113,
+    "Side Scroller": 111,
+    "Action": 103,
+    "Retro": 97,
+    "Cute": 92,
+    "Colorful": 82,
+    "Sci-fi": 74,
+    "Adventure": 70,
+    "Family Friendly": 67,
+    "Controller": 53,
+    "Indie": 51,
+    "Souls-like": 33,
+    "Puzzle-Platformer": 30
+  }
+}

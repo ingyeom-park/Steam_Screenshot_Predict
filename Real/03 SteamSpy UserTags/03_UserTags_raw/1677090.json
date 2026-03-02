@@ -1,0 +1,26 @@
+{
+  "appid": 1677090,
+  "success": true,
+  "tags": {
+    "Hex Grid": 333,
+    "Turn-Based Tactics": 327,
+    "Rogue-lite": 324,
+    "Auto Battler": 321,
+    "Turn-Based Strategy": 318,
+    "Turn-Based": 312,
+    "Strategy": 310,
+    "Singleplayer": 308,
+    "Replay Value": 299,
+    "Rogue-like": 290,
+    "Grid-Based Movement": 288,
+    "Difficult": 284,
+    "Isometric": 284,
+    "Tactical": 281,
+    "Procedural Generation": 279,
+    "Magic": 266,
+    "Fantasy": 252,
+    "Indie": 249,
+    "Stylized": 234,
+    "Turn-Based Combat": 219
+  }
+}

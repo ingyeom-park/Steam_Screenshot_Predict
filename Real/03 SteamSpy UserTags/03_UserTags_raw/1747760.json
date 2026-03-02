@@ -1,0 +1,26 @@
+{
+  "appid": 1747760,
+  "success": true,
+  "tags": {
+    "Metroidvania": 253,
+    "Anime": 246,
+    "Pixel Graphics": 245,
+    "Action-Adventure": 238,
+    "2D": 236,
+    "Side Scroller": 231,
+    "Female Protagonist": 226,
+    "Singleplayer": 222,
+    "Platformer": 216,
+    "Action": 213,
+    "Fantasy": 211,
+    "Magic": 205,
+    "Souls-like": 201,
+    "Indie": 197,
+    "Atmospheric": 193,
+    "Combat": 188,
+    "Exploration": 183,
+    "Adventure": 172,
+    "2D Platformer": 101,
+    "Difficult": 94
+  }
+}

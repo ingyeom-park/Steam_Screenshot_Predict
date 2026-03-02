@@ -1,0 +1,26 @@
+{
+  "appid": 381020,
+  "success": true,
+  "tags": {
+    "Flight": 232,
+    "Indie": 220,
+    "Jet": 217,
+    "3D": 207,
+    "Controller": 205,
+    "Rogue-lite": 193,
+    "Procedural Generation": 189,
+    "Vehicular Combat": 188,
+    "Simulation": 182,
+    "Action Roguelike": 180,
+    "Arcade": 178,
+    "Action": 176,
+    "Colorful": 170,
+    "Singleplayer": 166,
+    "Moddable": 164,
+    "Local Co-Op": 160,
+    "Perma Death": 156,
+    "Military": 149,
+    "Retro": 149,
+    "Futuristic": 126
+  }
+}

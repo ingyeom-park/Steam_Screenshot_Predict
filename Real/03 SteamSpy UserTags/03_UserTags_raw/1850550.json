@@ -1,0 +1,26 @@
+{
+  "appid": 1850550,
+  "success": true,
+  "tags": {
+    "Horror": 211,
+    "Psychological Horror": 211,
+    "Atmospheric": 188,
+    "Puzzle": 187,
+    "Mystery": 164,
+    "Dark": 161,
+    "Sokoban": 155,
+    "Psychological": 152,
+    "Hidden Object": 148,
+    "Lovecraftian": 131,
+    "Logic": 120,
+    "Realistic": 120,
+    "Casual": 105,
+    "Story Rich": 86,
+    "Narration": 74,
+    "Singleplayer": 66,
+    "Co-op": 39,
+    "3D": 27,
+    "Indie": 27,
+    "Tabletop": 15
+  }
+}

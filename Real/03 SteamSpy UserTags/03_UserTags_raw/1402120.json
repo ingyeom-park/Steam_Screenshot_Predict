@@ -1,0 +1,26 @@
+{
+  "appid": 1402120,
+  "success": true,
+  "tags": {
+    "Metroidvania": 159,
+    "Platformer": 153,
+    "Side Scroller": 150,
+    "Fantasy": 146,
+    "Anime": 140,
+    "Action RPG": 132,
+    "Pixel Graphics": 129,
+    "Action-Adventure": 126,
+    "Exploration": 121,
+    "Action": 115,
+    "Adventure": 109,
+    "Action Roguelike": 81,
+    "Female Protagonist": 78,
+    "2D": 72,
+    "Atmospheric": 63,
+    "Indie": 57,
+    "Story Rich": 55,
+    "Singleplayer": 52,
+    "Lore-Rich": 49,
+    "Magic": 46
+  }
+}

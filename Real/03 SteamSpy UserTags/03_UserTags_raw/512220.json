@@ -1,0 +1,16 @@
+{
+  "appid": 512220,
+  "success": true,
+  "tags": {
+    "Adventure": 39,
+    "Action": 35,
+    "Dungeon Crawler": 33,
+    "Co-op": 32,
+    "Indie": 31,
+    "VR": 29,
+    "Procedural Generation": 18,
+    "Action RPG": 16,
+    "Archery": 6,
+    "Online Co-Op": 5
+  }
+}

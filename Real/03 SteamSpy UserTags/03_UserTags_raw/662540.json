@@ -1,0 +1,15 @@
+{
+  "appid": 662540,
+  "success": true,
+  "tags": {
+    "RPG": 25,
+    "Indie": 23,
+    "Rogue-like": 23,
+    "Strategy": 22,
+    "Traditional Roguelike": 10,
+    "Pixel Graphics": 9,
+    "Retro": 7,
+    "Turn-Based": 5,
+    "Singleplayer": 5
+  }
+}

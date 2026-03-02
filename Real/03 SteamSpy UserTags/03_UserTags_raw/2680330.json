@@ -1,0 +1,25 @@
+{
+  "appid": 2680330,
+  "success": true,
+  "tags": {
+    "RPG": 215,
+    "Action": 211,
+    "Adventure": 206,
+    "Action RPG": 182,
+    "Platformer": 175,
+    "Metroidvania": 170,
+    "Souls-like": 159,
+    "Exploration": 151,
+    "Hack and Slash": 142,
+    "Side Scroller": 131,
+    "2.5D": 122,
+    "3D": 118,
+    "Anime": 109,
+    "Dark Fantasy": 92,
+    "Atmospheric": 76,
+    "Fantasy": 62,
+    "Indie": 46,
+    "Controller": 44,
+    "Singleplayer": 31
+  }
+}

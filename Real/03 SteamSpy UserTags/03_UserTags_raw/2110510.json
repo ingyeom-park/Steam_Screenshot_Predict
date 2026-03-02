@@ -1,0 +1,26 @@
+{
+  "appid": 2110510,
+  "success": true,
+  "tags": {
+    "Adventure": 132,
+    "Psychological Horror": 127,
+    "Atmospheric": 126,
+    "Exploration": 121,
+    "Horror": 118,
+    "Mystery": 109,
+    "Singleplayer": 105,
+    "Puzzle": 104,
+    "Indie": 98,
+    "Walking Simulator": 97,
+    "First-Person": 90,
+    "Action-Adventure": 85,
+    "Story Rich": 78,
+    "Linear": 72,
+    "Relaxing": 68,
+    "PvE": 61,
+    "3D": 56,
+    "1990's": 54,
+    "1980s": 49,
+    "Investigation": 44
+  }
+}

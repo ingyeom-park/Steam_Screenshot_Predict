@@ -1,0 +1,20 @@
+{
+  "appid": 3145320,
+  "success": true,
+  "tags": {
+    "Tower Defense": 122,
+    "Auto Battler": 112,
+    "Strategy": 108,
+    "Rogue-lite": 94,
+    "Deckbuilding": 88,
+    "Real Time Tactics": 82,
+    "Rogue-like": 78,
+    "Building": 76,
+    "Base-Building": 69,
+    "2D": 63,
+    "Singleplayer": 56,
+    "Casual": 53,
+    "Indie": 48,
+    "Cartoon": 25
+  }
+}

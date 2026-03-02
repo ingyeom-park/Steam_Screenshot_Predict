@@ -1,0 +1,13 @@
+{
+  "appid": 305920,
+  "success": true,
+  "tags": {
+    "Indie": 45,
+    "Adventure": 37,
+    "Platformer": 24,
+    "Puzzle": 19,
+    "2D": 10,
+    "Puzzle-Platformer": 10,
+    "GameMaker": 7
+  }
+}

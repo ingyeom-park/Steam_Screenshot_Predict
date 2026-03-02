@@ -1,0 +1,23 @@
+{
+  "appid": 1695480,
+  "success": true,
+  "tags": {
+    "Action": 75,
+    "RPG": 49,
+    "Action Roguelike": 49,
+    "Dungeon Crawler": 46,
+    "Hack and Slash": 41,
+    "First-Person": 35,
+    "3D": 34,
+    "Colorful": 33,
+    "Stylized": 30,
+    "Fantasy": 27,
+    "Magic": 24,
+    "Indie": 22,
+    "Medieval": 21,
+    "Combat": 19,
+    "Controller": 17,
+    "Singleplayer": 16,
+    "Procedural Generation": 14
+  }
+}

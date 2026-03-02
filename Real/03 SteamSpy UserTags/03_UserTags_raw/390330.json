@@ -1,0 +1,26 @@
+{
+  "appid": 390330,
+  "success": true,
+  "tags": {
+    "Action": 44,
+    "Adventure": 43,
+    "Indie": 42,
+    "Casual": 41,
+    "Great Soundtrack": 29,
+    "Platformer": 25,
+    "Co-op": 23,
+    "Runner": 22,
+    "2D": 22,
+    "Singleplayer": 21,
+    "Character Customization": 21,
+    "Music": 21,
+    "Classic": 20,
+    "Cute": 14,
+    "Arcade": 12,
+    "Comedy": 11,
+    "Retro": 11,
+    "Difficult": 11,
+    "Atmospheric": 11,
+    "Colorful": 11
+  }
+}

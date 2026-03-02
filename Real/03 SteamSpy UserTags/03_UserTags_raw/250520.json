@@ -1,0 +1,26 @@
+{
+  "appid": 250520,
+  "success": true,
+  "tags": {
+    "RPG": 308,
+    "Post-apocalyptic": 205,
+    "Isometric": 187,
+    "Turn-Based": 159,
+    "CRPG": 156,
+    "Turn-Based Combat": 140,
+    "Indie": 127,
+    "Singleplayer": 109,
+    "Sci-fi": 93,
+    "Open World": 90,
+    "Atmospheric": 85,
+    "Crafting": 85,
+    "Old School": 66,
+    "Cyberpunk": 60,
+    "Difficult": 57,
+    "Pixel Graphics": 54,
+    "Adventure": 50,
+    "Exploration": 45,
+    "2D": 35,
+    "Sandbox": 35
+  }
+}

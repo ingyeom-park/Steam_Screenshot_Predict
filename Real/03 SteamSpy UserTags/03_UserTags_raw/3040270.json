@@ -1,0 +1,26 @@
+{
+  "appid": 3040270,
+  "success": true,
+  "tags": {
+    "Bullet Hell": 528,
+    "Tower Defense": 469,
+    "Rogue-like": 463,
+    "Strategy": 460,
+    "Wargame": 457,
+    "RPG": 454,
+    "RTS": 448,
+    "Singleplayer": 446,
+    "Roguelike Deckbuilder": 441,
+    "Shoot 'Em Up": 430,
+    "Rogue-lite": 428,
+    "Real Time Tactics": 422,
+    "Indie": 420,
+    "Casual": 416,
+    "Cute": 355,
+    "Funny": 349,
+    "Colorful": 347,
+    "PvE": 339,
+    "Pixel Graphics": 237,
+    "Zombies": 227
+  }
+}

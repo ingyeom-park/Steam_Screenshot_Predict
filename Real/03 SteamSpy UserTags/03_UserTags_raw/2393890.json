@@ -1,0 +1,26 @@
+{
+  "appid": 2393890,
+  "success": true,
+  "tags": {
+    "Action": 244,
+    "Action Roguelike": 229,
+    "Singleplayer": 221,
+    "2D": 210,
+    "Cute": 203,
+    "Cartoony": 196,
+    "Fantasy": 194,
+    "Story Rich": 192,
+    "Underground": 190,
+    "Family Friendly": 188,
+    "Loot": 186,
+    "Tactical": 184,
+    "Mining": 182,
+    "PvE": 180,
+    "Deckbuilding": 178,
+    "Hack and Slash": 176,
+    "Base-Building": 174,
+    "Indie": 172,
+    "Rogue-lite": 170,
+    "Action RPG": 168
+  }
+}

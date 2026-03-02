@@ -1,0 +1,26 @@
+{
+  "appid": 1186640,
+  "success": true,
+  "tags": {
+    "Adventure": 180,
+    "Action": 160,
+    "3D Platformer": 131,
+    "Colorful": 116,
+    "Indie": 107,
+    "Collectathon": 78,
+    "Third Person": 60,
+    "Singleplayer": 55,
+    "Villain Protagonist": 54,
+    "Atmospheric": 52,
+    "Platformer": 52,
+    "Action-Adventure": 48,
+    "Cartoony": 45,
+    "Fantasy": 41,
+    "Great Soundtrack": 40,
+    "Funny": 37,
+    "Comedy": 37,
+    "Exploration": 35,
+    "Casual": 32,
+    "Puzzle": 28
+  }
+}

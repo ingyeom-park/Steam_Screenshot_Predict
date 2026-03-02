@@ -1,0 +1,26 @@
+{
+  "appid": 384500,
+  "success": true,
+  "tags": {
+    "Action": 52,
+    "Action Roguelike": 50,
+    "Indie": 44,
+    "Adventure": 41,
+    "RPG": 35,
+    "Zombies": 28,
+    "Bullet Hell": 27,
+    "Twin Stick Shooter": 26,
+    "Dungeon Crawler": 19,
+    "Multiplayer": 17,
+    "Pixel Graphics": 17,
+    "Difficult": 14,
+    "GameMaker": 13,
+    "Rogue-lite": 13,
+    "Local Multiplayer": 11,
+    "Rogue-like": 10,
+    "2D": 10,
+    "Illuminati": 8,
+    "Co-op": 7,
+    "Local Co-Op": 6
+  }
+}

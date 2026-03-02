@@ -1,0 +1,26 @@
+{
+  "appid": 1640400,
+  "success": true,
+  "tags": {
+    "Action": 274,
+    "Adventure": 242,
+    "Platformer": 236,
+    "2D Platformer": 232,
+    "Exploration": 221,
+    "Metroidvania": 214,
+    "Precision Platformer": 206,
+    "2D": 193,
+    "Pixel Graphics": 184,
+    "1980s": 168,
+    "Fantasy": 160,
+    "Retro": 155,
+    "Swordplay": 141,
+    "Vampire": 125,
+    "Werewolves": 109,
+    "Combat": 92,
+    "Controller": 75,
+    "Singleplayer": 62,
+    "Indie": 60,
+    "Female Protagonist": 58
+  }
+}

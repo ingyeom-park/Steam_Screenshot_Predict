@@ -1,0 +1,19 @@
+{
+  "appid": 503210,
+  "success": true,
+  "tags": {
+    "Adventure": 42,
+    "Strategy": 40,
+    "RPG": 40,
+    "Indie": 38,
+    "Action": 37,
+    "Cute": 19,
+    "2D": 18,
+    "Action RPG": 18,
+    "Fantasy": 17,
+    "Singleplayer": 15,
+    "Difficult": 11,
+    "Classic": 10,
+    "Tactical": 10
+  }
+}

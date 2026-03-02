@@ -1,0 +1,26 @@
+{
+  "appid": 1766000,
+  "success": true,
+  "tags": {
+    "Singleplayer": 447,
+    "Narration": 436,
+    "Indie": 431,
+    "Puzzle": 430,
+    "Puzzle-Platformer": 427,
+    "Adventure": 424,
+    "Logic": 421,
+    "Story Rich": 413,
+    "2D": 408,
+    "Stylized": 406,
+    "Hand-drawn": 404,
+    "Physics": 399,
+    "Casual": 397,
+    "Atmospheric": 387,
+    "Surreal": 375,
+    "Mystery": 373,
+    "Drama": 366,
+    "Cartoon": 363,
+    "Relaxing": 355,
+    "Strategy": 320
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 686900,
+  "success": true,
+  "tags": {
+    "Indie": 217,
+    "Singleplayer": 211,
+    "Strategy": 208,
+    "Survival": 204,
+    "Simulation": 196,
+    "Casual": 189,
+    "Difficult": 185,
+    "Building": 183,
+    "Turn-Based": 176,
+    "2D": 175,
+    "Historical": 171,
+    "Turn-Based Strategy": 167,
+    "Management": 166,
+    "City Builder": 162,
+    "Economy": 155,
+    "Resource Management": 148,
+    "4X": 142,
+    "Education": 136,
+    "Time Management": 127,
+    "Colony Sim": 125
+  }
+}

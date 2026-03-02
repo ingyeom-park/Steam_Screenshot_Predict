@@ -1,0 +1,26 @@
+{
+  "appid": 807120,
+  "success": true,
+  "tags": {
+    "RPG": 284,
+    "Strategy": 256,
+    "Indie": 223,
+    "Turn-Based Combat": 205,
+    "Rogue-like": 179,
+    "Villain Protagonist": 160,
+    "Dark Fantasy": 155,
+    "Rogue-lite": 144,
+    "Dark": 96,
+    "Turn-Based": 85,
+    "Turn-Based Tactics": 79,
+    "Lovecraftian": 78,
+    "Fantasy": 69,
+    "2D": 65,
+    "Difficult": 63,
+    "Gothic": 62,
+    "Replay Value": 61,
+    "Dungeon Crawler": 60,
+    "Violent": 46,
+    "Gore": 44
+  }
+}

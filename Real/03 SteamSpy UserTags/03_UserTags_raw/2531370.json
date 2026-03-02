@@ -1,0 +1,26 @@
+{
+  "appid": 2531370,
+  "success": true,
+  "tags": {
+    "Simulation": 168,
+    "Crafting": 160,
+    "Adventure": 159,
+    "Sandbox": 149,
+    "Immersive Sim": 147,
+    "Indie": 142,
+    "Inventory Management": 139,
+    "Singleplayer": 136,
+    "Story Rich": 127,
+    "Narration": 117,
+    "Conversation": 107,
+    "Multiple Endings": 104,
+    "Atmospheric": 94,
+    "2D": 83,
+    "Fantasy": 79,
+    "Dark Fantasy": 65,
+    "Old School": 52,
+    "Side Scroller": 41,
+    "Hand-drawn": 30,
+    "Stylized": 27
+  }
+}

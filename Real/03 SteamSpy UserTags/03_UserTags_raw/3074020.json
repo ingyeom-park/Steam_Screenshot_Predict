@@ -1,0 +1,26 @@
+{
+  "appid": 3074020,
+  "success": true,
+  "tags": {
+    "Adventure": 106,
+    "Action": 100,
+    "RPG": 97,
+    "Action-Adventure": 94,
+    "Action RPG": 91,
+    "Female Protagonist": 85,
+    "Spectacle fighter": 83,
+    "Hack and Slash": 81,
+    "3D": 78,
+    "Third Person": 76,
+    "Drama": 73,
+    "Fantasy": 70,
+    "Survival": 68,
+    "Combat": 65,
+    "Singleplayer": 61,
+    "Online Co-Op": 56,
+    "Indie": 51,
+    "Massively Multiplayer": 50,
+    "Sexual Content": 41,
+    "Multiplayer": 32
+  }
+}

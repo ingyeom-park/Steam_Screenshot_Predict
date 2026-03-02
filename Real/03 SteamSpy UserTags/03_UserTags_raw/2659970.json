@@ -1,0 +1,23 @@
+{
+  "appid": 2659970,
+  "success": true,
+  "tags": {
+    "Strategy": 60,
+    "Rogue-lite": 50,
+    "Card Game": 45,
+    "Rogue-like": 40,
+    "Card Battler": 35,
+    "Pixel Graphics": 32,
+    "Relaxing": 28,
+    "Turn-Based Combat": 26,
+    "Deckbuilding": 25,
+    "Funny": 24,
+    "Casual": 22,
+    "Stylized": 22,
+    "Indie": 20,
+    "Simulation": 18,
+    "Cartoon": 16,
+    "2D": 14,
+    "Singleplayer": 14
+  }
+}

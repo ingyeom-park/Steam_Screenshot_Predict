@@ -1,0 +1,26 @@
+{
+  "appid": 766630,
+  "success": true,
+  "tags": {
+    "Indie": 135,
+    "Adventure": 129,
+    "RPG": 126,
+    "Casual": 122,
+    "Turn-Based Strategy": 119,
+    "2D": 109,
+    "Story Rich": 107,
+    "Turn-Based Combat": 98,
+    "Singleplayer": 92,
+    "Design & Illustration": 86,
+    "Rogue-like": 80,
+    "Strategy RPG": 77,
+    "Turn-Based Tactics": 73,
+    "Replay Value": 67,
+    "Choose Your Own Adventure": 66,
+    "Tactical": 61,
+    "Tabletop": 59,
+    "Rogue-lite": 51,
+    "Isometric": 46,
+    "Medieval": 36
+  }
+}

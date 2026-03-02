@@ -1,0 +1,26 @@
+{
+  "appid": 230820,
+  "success": true,
+  "tags": {
+    "Adventure": 139,
+    "Point & Click": 104,
+    "Indie": 63,
+    "Fantasy": 39,
+    "Puzzle": 32,
+    "Story Rich": 32,
+    "Singleplayer": 32,
+    "Retro": 30,
+    "Classic": 29,
+    "Cult Classic": 29,
+    "Atmospheric": 26,
+    "1990's": 24,
+    "Great Soundtrack": 17,
+    "Remake": 15,
+    "Escape Room": 12,
+    "Hand-drawn": 12,
+    "2D": 11,
+    "Third Person": 9,
+    "Hidden Object": 7,
+    "Magic": 5
+  }
+}

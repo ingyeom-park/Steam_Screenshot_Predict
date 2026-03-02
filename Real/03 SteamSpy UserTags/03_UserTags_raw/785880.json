@@ -1,0 +1,24 @@
+{
+  "appid": 785880,
+  "success": true,
+  "tags": {
+    "Indie": 68,
+    "Action": 66,
+    "Platformer": 52,
+    "Pixel Graphics": 29,
+    "Difficult": 21,
+    "Horror": 20,
+    "2D": 20,
+    "Singleplayer": 18,
+    "Perma Death": 16,
+    "Retro": 15,
+    "Great Soundtrack": 14,
+    "Dark": 13,
+    "Fast-Paced": 12,
+    "Metroidvania": 11,
+    "Controller": 11,
+    "Violent": 10,
+    "Twin Stick Shooter": 10,
+    "Souls-like": 8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1671410,
+  "success": true,
+  "tags": {
+    "Atmospheric": 151,
+    "Emotional": 137,
+    "Adventure": 135,
+    "Story Rich": 131,
+    "Puzzle": 125,
+    "Cinematic": 125,
+    "Action-Adventure": 116,
+    "Multiple Endings": 115,
+    "Dark": 114,
+    "Indie": 113,
+    "Ambient": 104,
+    "Narrative": 99,
+    "Sci-fi": 97,
+    "2.5D": 78,
+    "3D": 77,
+    "Singleplayer": 66,
+    "Mystery": 38,
+    "Horror": 37,
+    "Walking Simulator": 32,
+    "Beautiful": 31
+  }
+}

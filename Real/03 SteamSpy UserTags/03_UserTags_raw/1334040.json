@@ -1,0 +1,26 @@
+{
+  "appid": 1334040,
+  "success": true,
+  "tags": {
+    "Horror": 141,
+    "FPS": 131,
+    "Dating Sim": 125,
+    "Shooter": 117,
+    "Action-Adventure": 108,
+    "Psychological Horror": 108,
+    "Survival Horror": 101,
+    "Adventure": 94,
+    "Action": 89,
+    "First-Person": 86,
+    "Stealth": 83,
+    "3D": 75,
+    "Indie": 60,
+    "Singleplayer": 47,
+    "Sexual Content": 45,
+    "Supernatural": 42,
+    "RPG": 35,
+    "Puzzle": 32,
+    "Thriller": 23,
+    "Survival": 15
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 223220,
+  "success": true,
+  "tags": {
+    "Side Scroller": 330,
+    "Difficult": 322,
+    "Platformer": 320,
+    "Arcade": 291,
+    "Female Protagonist": 284,
+    "2.5D": 278,
+    "2D": 272,
+    "Controller": 266,
+    "Action": 260,
+    "Fantasy": 253,
+    "Anime": 253,
+    "Adventure": 252,
+    "Retro": 245,
+    "Local Co-Op": 244,
+    "Local Multiplayer": 236,
+    "Multiplayer": 228,
+    "Singleplayer": 224,
+    "Indie": 215,
+    "Kickstarter": 124,
+    "Great Soundtrack": 114
+  }
+}

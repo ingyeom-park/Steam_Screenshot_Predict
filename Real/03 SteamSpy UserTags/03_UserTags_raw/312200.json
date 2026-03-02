@@ -1,0 +1,22 @@
+{
+  "appid": 312200,
+  "success": true,
+  "tags": {
+    "Metroidvania": 98,
+    "Indie": 78,
+    "Pixel Graphics": 78,
+    "Adventure": 69,
+    "Action": 66,
+    "RPG": 64,
+    "Platformer": 53,
+    "2D": 44,
+    "Procedural Generation": 43,
+    "Side Scroller": 35,
+    "Singleplayer": 23,
+    "Rogue-like": 12,
+    "Retro": 11,
+    "Fantasy": 10,
+    "Action RPG": 10,
+    "Kickstarter": 5
+  }
+}

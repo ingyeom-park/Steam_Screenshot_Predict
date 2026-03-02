@@ -1,0 +1,26 @@
+{
+  "appid": 668320,
+  "success": true,
+  "tags": {
+    "Action": 61,
+    "Indie": 60,
+    "Violent": 33,
+    "Gore": 33,
+    "FPS": 22,
+    "Singleplayer": 16,
+    "Retro": 16,
+    "Sci-fi": 15,
+    "First-Person": 15,
+    "Old School": 13,
+    "Fast-Paced": 13,
+    "Shooter": 12,
+    "Space": 12,
+    "Combat": 12,
+    "Classic": 12,
+    "3D": 12,
+    "Futuristic": 12,
+    "Aliens": 12,
+    "Moddable": 11,
+    "Science": 11
+  }
+}

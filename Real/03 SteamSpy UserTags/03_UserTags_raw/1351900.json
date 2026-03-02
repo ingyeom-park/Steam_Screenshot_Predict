@@ -1,0 +1,26 @@
+{
+  "appid": 1351900,
+  "success": true,
+  "tags": {
+    "Action": 214,
+    "Rogue-like": 186,
+    "Action-Adventure": 183,
+    "Action RPG": 177,
+    "Dungeon Crawler": 174,
+    "Rogue-lite": 167,
+    "2D": 157,
+    "Pixel Graphics": 152,
+    "Top-Down": 142,
+    "Survival": 131,
+    "Post-apocalyptic": 120,
+    "Sci-fi": 118,
+    "Perma Death": 104,
+    "Procedural Generation": 94,
+    "Gun Customization": 77,
+    "Bullet Time": 60,
+    "PvE": 44,
+    "Action Roguelike": 28,
+    "Singleplayer": 27,
+    "Indie": 22
+  }
+}

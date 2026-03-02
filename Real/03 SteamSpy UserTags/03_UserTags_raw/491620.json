@@ -1,0 +1,26 @@
+{
+  "appid": 491620,
+  "success": true,
+  "tags": {
+    "Platformer": 204,
+    "Action": 198,
+    "Casual": 194,
+    "Indie": 191,
+    "Level Editor": 188,
+    "Time Attack": 181,
+    "Fast-Paced": 176,
+    "Singleplayer": 173,
+    "Puzzle": 166,
+    "Difficult": 164,
+    "Destruction": 158,
+    "Gore": 153,
+    "Sandbox": 144,
+    "2D Platformer": 142,
+    "Side Scroller": 137,
+    "Time Management": 123,
+    "2D": 121,
+    "Blood": 110,
+    "Parody ": 100,
+    "Stylized": 96
+  }
+}

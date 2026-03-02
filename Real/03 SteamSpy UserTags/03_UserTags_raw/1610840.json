@@ -1,0 +1,26 @@
+{
+  "appid": 1610840,
+  "success": true,
+  "tags": {
+    "Action": 175,
+    "Western": 170,
+    "Puzzle-Platformer": 167,
+    "Pixel Graphics": 165,
+    "Shoot 'Em Up": 159,
+    "Casual": 153,
+    "Singleplayer": 148,
+    "Cute": 141,
+    "Platformer": 139,
+    "Puzzle": 130,
+    "Shooter": 127,
+    "2D Platformer": 120,
+    "Indie": 118,
+    "Real Time Tactics": 113,
+    "Cartoony": 110,
+    "2D": 96,
+    "Strategy": 84,
+    "Controller": 76,
+    "PvE": 57,
+    "Choices Matter": 41
+  }
+}

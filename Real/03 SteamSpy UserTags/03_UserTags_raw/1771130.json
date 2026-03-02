@@ -1,0 +1,23 @@
+{
+  "appid": 1771130,
+  "success": true,
+  "tags": {
+    "Thriller": 129,
+    "Psychological Horror": 126,
+    "Atmospheric": 125,
+    "First-Person": 111,
+    "Puzzle": 105,
+    "Dark": 102,
+    "Hidden Object": 92,
+    "Exploration": 85,
+    "Singleplayer": 76,
+    "Action": 70,
+    "Casual": 68,
+    "Indie": 50,
+    "Violent": 49,
+    "Gore": 47,
+    "Survival Horror": 28,
+    "Horror": 14,
+    "Psychological": 10
+  }
+}

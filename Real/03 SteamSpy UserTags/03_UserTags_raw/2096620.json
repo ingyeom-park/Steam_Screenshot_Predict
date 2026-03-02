@@ -1,0 +1,26 @@
+{
+  "appid": 2096620,
+  "success": true,
+  "tags": {
+    "Rogue-like": 169,
+    "Hack and Slash": 164,
+    "Hand-drawn": 161,
+    "Colorful": 157,
+    "2D": 153,
+    "Dark Fantasy": 148,
+    "Indie": 141,
+    "Combat": 140,
+    "Inventory Management": 133,
+    "Singleplayer": 128,
+    "Action": 118,
+    "Cartoon": 110,
+    "Cartoony": 104,
+    "Cute": 95,
+    "1990's": 93,
+    "Steampunk": 88,
+    "Procedural Generation": 85,
+    "Dark": 79,
+    "Adventure": 72,
+    "Action-Adventure": 58
+  }
+}

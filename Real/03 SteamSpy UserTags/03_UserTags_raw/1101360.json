@@ -1,0 +1,26 @@
+{
+  "appid": 1101360,
+  "success": true,
+  "tags": {
+    "Strategy": 226,
+    "Action": 221,
+    "Comedy": 213,
+    "Indie": 212,
+    "Racing": 211,
+    "Funny": 207,
+    "Destruction": 200,
+    "Multiplayer": 192,
+    "Adventure": 180,
+    "Casual": 176,
+    "Puzzle": 172,
+    "Turn-Based Strategy": 162,
+    "Arcade": 150,
+    "Third Person": 143,
+    "Cartoony": 140,
+    "Surreal": 139,
+    "Building": 130,
+    "PvP": 120,
+    "Level Editor": 114,
+    "Tower Defense": 113
+  }
+}

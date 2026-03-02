@@ -1,0 +1,22 @@
+{
+  "appid": 1276800,
+  "success": true,
+  "tags": {
+    "2D Platformer": 115,
+    "Adventure": 107,
+    "Time Manipulation": 104,
+    "Singleplayer": 100,
+    "Metroidvania": 99,
+    "Combat": 98,
+    "Colorful": 89,
+    "Stylized": 87,
+    "Platformer": 85,
+    "Indie": 84,
+    "Fantasy": 62,
+    "Action": 58,
+    "Linear": 54,
+    "2D": 38,
+    "Exploration": 37,
+    "Parkour": 35
+  }
+}

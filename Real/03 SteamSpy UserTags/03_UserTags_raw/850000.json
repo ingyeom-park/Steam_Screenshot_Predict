@@ -1,0 +1,26 @@
+{
+  "appid": 850000,
+  "success": true,
+  "tags": {
+    "Adventure": 134,
+    "RPG": 128,
+    "RPGMaker": 128,
+    "Indie": 125,
+    "Anime": 116,
+    "Story Rich": 113,
+    "Female Protagonist": 110,
+    "2D": 105,
+    "Cute": 103,
+    "Singleplayer": 99,
+    "Casual": 91,
+    "Puzzle": 91,
+    "Horror": 89,
+    "Visual Novel": 86,
+    "Psychological Horror": 74,
+    "LGBTQ+": 74,
+    "Dark Fantasy": 68,
+    "Great Soundtrack": 61,
+    "Classic": 30,
+    "Nudity": 26
+  }
+}

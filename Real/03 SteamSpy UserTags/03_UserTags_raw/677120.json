@@ -1,0 +1,26 @@
+{
+  "appid": 677120,
+  "success": true,
+  "tags": {
+    "Rogue-lite": 229,
+    "Action Roguelike": 211,
+    "Co-op": 178,
+    "Pixel Graphics": 177,
+    "Multiplayer": 150,
+    "Dungeon Crawler": 150,
+    "RPG": 150,
+    "Online Co-Op": 100,
+    "Indie": 90,
+    "Action": 77,
+    "Adventure": 59,
+    "2D": 57,
+    "Hack and Slash": 47,
+    "Procedural Generation": 47,
+    "Top-Down": 46,
+    "Rogue-like": 40,
+    "Bullet Hell": 33,
+    "Singleplayer": 32,
+    "Action RPG": 30,
+    "Fantasy": 29
+  }
+}

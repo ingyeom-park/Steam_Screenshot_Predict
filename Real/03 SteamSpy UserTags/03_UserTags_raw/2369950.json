@@ -1,0 +1,26 @@
+{
+  "appid": 2369950,
+  "success": true,
+  "tags": {
+    "Action": 280,
+    "Action Roguelike": 278,
+    "Hack and Slash": 273,
+    "2D": 268,
+    "Indie": 264,
+    "Pixel Graphics": 259,
+    "2D Platformer": 254,
+    "Dark": 251,
+    "Comedy": 248,
+    "Rogue-like": 247,
+    "Rogue-lite": 243,
+    "Action-Adventure": 232,
+    "Platformer": 229,
+    "Dark Humor": 224,
+    "Adventure": 216,
+    "Combat": 208,
+    "Roguevania": 205,
+    "Singleplayer": 202,
+    "Side Scroller": 185,
+    "Beat 'em up": 169
+  }
+}

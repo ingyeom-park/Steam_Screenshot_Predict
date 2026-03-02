@@ -1,0 +1,26 @@
+{
+  "appid": 2017370,
+  "success": true,
+  "tags": {
+    "Adventure": 181,
+    "Action-Adventure": 155,
+    "Choose Your Own Adventure": 151,
+    "3D": 151,
+    "Pixel Graphics": 149,
+    "First-Person": 133,
+    "1980s": 131,
+    "Assassin": 116,
+    "Atmospheric": 112,
+    "Retro": 107,
+    "Old School": 103,
+    "Horror": 96,
+    "Dark": 87,
+    "Psychological Horror": 62,
+    "Choices Matter": 42,
+    "Singleplayer": 30,
+    "Story Rich": 30,
+    "Indie": 27,
+    "Gore": 26,
+    "Violent": 25
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 3201570,
+  "success": true,
+  "tags": {
+    "Racing": 98,
+    "Simulation": 92,
+    "Sailing": 89,
+    "Sports": 85,
+    "Action": 79,
+    "Casual": 69,
+    "VR": 64,
+    "Immersive Sim": 60,
+    "Action-Adventure": 58,
+    "Action Roguelike": 56,
+    "Indie": 54,
+    "3D Vision": 33,
+    "Transportation": 31,
+    "Driving": 29,
+    "Singleplayer": 27,
+    "6DOF": 25,
+    "Physics": 23,
+    "Asymmetric VR": 21
+  }
+}

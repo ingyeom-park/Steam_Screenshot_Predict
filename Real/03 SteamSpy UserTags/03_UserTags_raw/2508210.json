@@ -1,0 +1,26 @@
+{
+  "appid": 2508210,
+  "success": true,
+  "tags": {
+    "Horror": 198,
+    "Psychological Horror": 191,
+    "Puzzle": 185,
+    "Walking Simulator": 181,
+    "3D": 174,
+    "First-Person": 165,
+    "Simulation": 161,
+    "Realistic": 158,
+    "Linear": 149,
+    "Logic": 132,
+    "Thriller": 122,
+    "Psychedelic": 120,
+    "Psychological": 107,
+    "Adventure": 97,
+    "Emotional": 92,
+    "Dark": 62,
+    "Singleplayer": 45,
+    "Controller": 29,
+    "Physics": 27,
+    "Indie": 22
+  }
+}

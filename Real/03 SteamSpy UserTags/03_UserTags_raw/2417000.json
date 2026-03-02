@@ -1,0 +1,20 @@
+{
+  "appid": 2417000,
+  "success": true,
+  "tags": {
+    "Casual": 61,
+    "RPG": 58,
+    "Adventure": 55,
+    "Horror": 50,
+    "Werewolves": 47,
+    "Text-Based": 38,
+    "Interactive Fiction": 33,
+    "Choose Your Own Adventure": 31,
+    "Modern": 23,
+    "Supernatural": 22,
+    "Indie": 21,
+    "Character Customization": 19,
+    "Choices Matter": 19,
+    "Singleplayer": 15
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2416500,
+  "success": true,
+  "tags": {
+    "RPG": 129,
+    "Choose Your Own Adventure": 124,
+    "Interactive Fiction": 121,
+    "Story Rich": 118,
+    "Nonlinear": 112,
+    "Choices Matter": 106,
+    "Multiple Endings": 100,
+    "Adventure": 92,
+    "Narration": 90,
+    "Visual Novel": 89,
+    "Crime": 87,
+    "Romance": 75,
+    "Stylized": 72,
+    "Fantasy": 70,
+    "Medieval": 70,
+    "Atmospheric": 66,
+    "Indie": 51,
+    "Hand-drawn": 36,
+    "Text-Based": 36,
+    "Singleplayer": 31
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2476100,
+  "success": true,
+  "tags": {
+    "Adventure": 186,
+    "Atmospheric": 181,
+    "Dark": 178,
+    "Puzzle": 174,
+    "Indie": 171,
+    "2D": 160,
+    "Action-Adventure": 155,
+    "Mystery": 151,
+    "Side Scroller": 148,
+    "Narration": 142,
+    "Cartoony": 131,
+    "Hand-drawn": 121,
+    "Cute": 117,
+    "Lore-Rich": 116,
+    "Point & Click": 113,
+    "Escape Room": 111,
+    "Linear": 108,
+    "Exploration": 101,
+    "Singleplayer": 97,
+    "Action": 83
+  }
+}

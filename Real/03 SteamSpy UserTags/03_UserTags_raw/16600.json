@@ -1,0 +1,11 @@
+{
+  "appid": 16600,
+  "success": true,
+  "tags": {
+    "Racing": 32,
+    "Indie": 27,
+    "Sports": 26,
+    "Difficult": 7,
+    "Physics": 5
+  }
+}

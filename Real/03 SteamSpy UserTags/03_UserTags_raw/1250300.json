@@ -1,0 +1,26 @@
+{
+  "appid": 1250300,
+  "success": true,
+  "tags": {
+    "Indie": 128,
+    "Simulation": 122,
+    "VR": 62,
+    "Exploration": 59,
+    "Space": 53,
+    "Early Access": 50,
+    "Experience": 50,
+    "Education": 48,
+    "Space Sim": 46,
+    "Psychedelic": 43,
+    "Realistic": 41,
+    "Atmospheric": 39,
+    "Science": 37,
+    "Surreal": 33,
+    "Nature": 31,
+    "Philosophical": 29,
+    "Relaxing": 27,
+    "Linear": 25,
+    "Procedural Generation": 23,
+    "Singleplayer": 21
+  }
+}

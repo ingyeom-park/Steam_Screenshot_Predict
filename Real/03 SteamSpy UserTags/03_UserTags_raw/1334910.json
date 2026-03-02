@@ -1,0 +1,21 @@
+{
+  "appid": 1334910,
+  "success": true,
+  "tags": {
+    "Casual": 64,
+    "Arcade": 51,
+    "Action": 49,
+    "PvP": 40,
+    "Adventure": 39,
+    "Psychedelic": 38,
+    "Relaxing": 35,
+    "Colorful": 27,
+    "Space": 25,
+    "Cute": 22,
+    "Indie": 21,
+    "Multiplayer": 19,
+    "Singleplayer": 17,
+    "3D Fighter": 14,
+    "VR": 7
+  }
+}

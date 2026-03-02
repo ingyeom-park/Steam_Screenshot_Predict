@@ -1,0 +1,26 @@
+{
+  "appid": 1134020,
+  "success": true,
+  "tags": {
+    "Tower Defense": 192,
+    "RTS": 190,
+    "Competitive": 186,
+    "Auto Battler": 176,
+    "Board Game": 172,
+    "PvP": 168,
+    "e-sports": 164,
+    "Strategy": 158,
+    "3D": 157,
+    "Split Screen": 148,
+    "Action": 143,
+    "Fantasy": 133,
+    "Mythology": 132,
+    "Family Friendly": 130,
+    "Multiplayer": 120,
+    "Local Multiplayer": 117,
+    "Singleplayer": 111,
+    "Indie": 98,
+    "Controller": 42,
+    "Fast-Paced": 31
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 527720,
+  "success": true,
+  "tags": {
+    "Archery": 103,
+    "VR": 98,
+    "Action": 93,
+    "Tower Defense": 89,
+    "Fantasy": 84,
+    "Arena Shooter": 78,
+    "Resource Management": 75,
+    "Magic": 73,
+    "RPG": 71,
+    "Score Attack": 69,
+    "PvE": 67,
+    "FPS": 65,
+    "First-Person": 63,
+    "Shooter": 61,
+    "Adventure": 59,
+    "Colorful": 57,
+    "Singleplayer": 55,
+    "Action-Adventure": 52,
+    "Indie": 49,
+    "Early Access": 27
+  }
+}

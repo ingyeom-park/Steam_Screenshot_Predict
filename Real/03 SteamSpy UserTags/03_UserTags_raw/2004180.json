@@ -1,0 +1,26 @@
+{
+  "appid": 2004180,
+  "success": true,
+  "tags": {
+    "Gambling": 227,
+    "Open World": 220,
+    "Adventure": 216,
+    "RPGMaker": 214,
+    "Simulation": 211,
+    "Tabletop": 198,
+    "Comedy": 192,
+    "Solitaire": 182,
+    "Trading": 174,
+    "Puzzle": 164,
+    "Card Game": 154,
+    "Board Game": 141,
+    "Funny": 128,
+    "Parody ": 114,
+    "2D": 99,
+    "Casual": 84,
+    "Top-Down": 82,
+    "Singleplayer": 66,
+    "Indie": 48,
+    "Crowdfunded": 26
+  }
+}

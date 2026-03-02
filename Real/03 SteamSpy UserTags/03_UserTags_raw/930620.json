@@ -1,0 +1,16 @@
+{
+  "appid": 930620,
+  "success": true,
+  "tags": {
+    "Music": 102,
+    "Action": 101,
+    "Rhythm": 60,
+    "FPS": 57,
+    "Indie": 53,
+    "Shooter": 50,
+    "Retro": 50,
+    "First-Person": 41,
+    "Music-Based Procedural Generation": 38,
+    "Procedural Generation": 27
+  }
+}

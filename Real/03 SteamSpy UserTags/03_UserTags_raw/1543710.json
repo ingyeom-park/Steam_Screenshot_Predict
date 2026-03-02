@@ -1,0 +1,26 @@
+{
+  "appid": 1543710,
+  "success": true,
+  "tags": {
+    "RPG": 264,
+    "Adventure": 255,
+    "Action": 248,
+    "Sci-fi": 247,
+    "2D": 240,
+    "Exploration": 235,
+    "Turn-Based Combat": 230,
+    "Cyberpunk": 230,
+    "Singleplayer": 216,
+    "Party-Based RPG": 209,
+    "Pixel Graphics": 200,
+    "Story Rich": 199,
+    "Futuristic": 194,
+    "Indie": 192,
+    "JRPG": 190,
+    "Space": 189,
+    "2.5D": 186,
+    "Atmospheric": 183,
+    "Retro": 181,
+    "Soundtrack": 177
+  }
+}

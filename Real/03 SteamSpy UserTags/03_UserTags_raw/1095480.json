@@ -1,0 +1,26 @@
+{
+  "appid": 1095480,
+  "success": true,
+  "tags": {
+    "Top-Down Shooter": 219,
+    "Multiplayer": 214,
+    "Action": 210,
+    "Tactical": 207,
+    "PvE": 206,
+    "PvP": 202,
+    "Shooter": 194,
+    "War": 191,
+    "Military": 187,
+    "Top-Down": 180,
+    "Casual": 171,
+    "Strategy": 169,
+    "Team-Based": 138,
+    "Combat": 93,
+    "Vehicular Combat": 91,
+    "Indie": 89,
+    "3D": 80,
+    "Early Access": 78,
+    "2D": 54,
+    "Violent": 46
+  }
+}

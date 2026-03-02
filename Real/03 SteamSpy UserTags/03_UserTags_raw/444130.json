@@ -1,0 +1,26 @@
+{
+  "appid": 444130,
+  "success": true,
+  "tags": {
+    "Strategy": 198,
+    "Casual": 191,
+    "Indie": 188,
+    "RTS": 186,
+    "Minimalist": 181,
+    "RPG": 174,
+    "Rhythm": 171,
+    "Grand Strategy": 168,
+    "Space Sim": 164,
+    "Real Time Tactics": 159,
+    "Tactical RPG": 154,
+    "3D": 148,
+    "Colorful": 141,
+    "Psychedelic": 132,
+    "Stylized": 124,
+    "Relaxing": 120,
+    "Atmospheric": 112,
+    "Space": 105,
+    "Tactical": 94,
+    "Choices Matter": 88
+  }
+}

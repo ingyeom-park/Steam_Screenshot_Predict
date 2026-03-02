@@ -1,0 +1,13 @@
+{
+  "appid": 33950,
+  "success": true,
+  "tags": {
+    "Indie": 45,
+    "Casual": 44,
+    "Puzzle": 33,
+    "Difficult": 11,
+    "Funny": 9,
+    "Singleplayer": 8,
+    "Sokoban": 5
+  }
+}

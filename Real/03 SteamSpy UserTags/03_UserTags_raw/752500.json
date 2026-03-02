@@ -1,0 +1,26 @@
+{
+  "appid": 752500,
+  "success": true,
+  "tags": {
+    "Action": 140,
+    "Adventure": 134,
+    "Indie": 130,
+    "Casual": 127,
+    "Platformer": 125,
+    "Pixel Graphics": 117,
+    "Retro": 115,
+    "Action-Adventure": 110,
+    "Puzzle-Platformer": 106,
+    "Metroidvania": 100,
+    "Side Scroller": 98,
+    "2D": 97,
+    "Singleplayer": 94,
+    "RPG": 90,
+    "Arcade": 86,
+    "Exploration": 82,
+    "Hack and Slash": 74,
+    "2D Platformer": 64,
+    "Precision Platformer": 61,
+    "Anime": 59
+  }
+}

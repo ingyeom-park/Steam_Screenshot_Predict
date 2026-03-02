@@ -1,0 +1,26 @@
+{
+  "appid": 1428420,
+  "success": true,
+  "tags": {
+    "Simulation": 309,
+    "Realistic": 298,
+    "First-Person": 285,
+    "Experimental": 285,
+    "FPS": 283,
+    "Singleplayer": 281,
+    "Indie": 271,
+    "3D": 271,
+    "Strategy": 267,
+    "Walking Simulator": 262,
+    "Science": 261,
+    "Immersive Sim": 260,
+    "Action": 258,
+    "Sci-fi": 252,
+    "Artificial Intelligence": 246,
+    "Investigation": 235,
+    "Logic": 226,
+    "Modern": 226,
+    "Resource Management": 220,
+    "Robots": 215
+  }
+}

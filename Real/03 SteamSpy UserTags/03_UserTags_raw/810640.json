@@ -1,0 +1,26 @@
+{
+  "appid": 810640,
+  "success": true,
+  "tags": {
+    "Turn-Based": 134,
+    "Turn-Based Strategy": 129,
+    "Board Game": 125,
+    "Experimental": 121,
+    "Procedural Generation": 119,
+    "Strategy": 111,
+    "Colorful": 109,
+    "Minimalist": 106,
+    "Stylized": 104,
+    "Economy": 102,
+    "Tactical": 99,
+    "Hex Grid": 98,
+    "Level Editor": 92,
+    "Resource Management": 81,
+    "Atmospheric": 81,
+    "Singleplayer": 70,
+    "Addictive": 62,
+    "Indie": 51,
+    "Replay Value": 32,
+    "Split Screen": 29
+  }
+}

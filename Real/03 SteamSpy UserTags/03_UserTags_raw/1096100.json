@@ -1,0 +1,26 @@
+{
+  "appid": 1096100,
+  "success": true,
+  "tags": {
+    "Action": 34,
+    "Adventure": 27,
+    "Indie": 27,
+    "2.5D": 17,
+    "Pixel Graphics": 16,
+    "Family Friendly": 13,
+    "Cute": 13,
+    "Colorful": 13,
+    "Action-Adventure": 13,
+    "Voxel": 13,
+    "Zombies": 13,
+    "RPG": 13,
+    "Funny": 12,
+    "Stylized": 12,
+    "Puzzle": 12,
+    "2D": 11,
+    "Exploration": 11,
+    "Cartoony": 11,
+    "Action RPG": 11,
+    "Character Customization": 10
+  }
+}

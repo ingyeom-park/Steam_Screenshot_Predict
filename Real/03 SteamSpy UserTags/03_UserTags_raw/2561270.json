@@ -1,0 +1,26 @@
+{
+  "appid": 2561270,
+  "success": true,
+  "tags": {
+    "Action": 128,
+    "Shooter": 119,
+    "FPS": 117,
+    "Combat": 112,
+    "Memes": 107,
+    "Arena Shooter": 105,
+    "3D": 99,
+    "PvE": 98,
+    "Singleplayer": 96,
+    "Psychological Horror": 91,
+    "Bullet Hell": 79,
+    "Boomer Shooter": 77,
+    "First-Person": 66,
+    "Indie": 32,
+    "Sexual Content": 26,
+    "Casual": 22,
+    "Great Soundtrack": 15,
+    "Difficult": 14,
+    "Fast-Paced": 14,
+    "Comedy": 11
+  }
+}

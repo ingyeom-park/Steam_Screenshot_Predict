@@ -1,0 +1,26 @@
+{
+  "appid": 40400,
+  "success": true,
+  "tags": {
+    "Strategy": 515,
+    "RTS": 161,
+    "Space": 153,
+    "Indie": 118,
+    "Sci-fi": 109,
+    "Co-op": 105,
+    "4X": 104,
+    "Grand Strategy": 102,
+    "Difficult": 86,
+    "Tactical": 76,
+    "Great Soundtrack": 75,
+    "Singleplayer": 59,
+    "Multiplayer": 55,
+    "Tower Defense": 50,
+    "Simulation": 40,
+    "2D": 37,
+    "Replay Value": 34,
+    "Real-Time with Pause": 32,
+    "Cult Classic": 29,
+    "Classic": 26
+  }
+}

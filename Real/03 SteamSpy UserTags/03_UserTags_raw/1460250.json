@@ -1,0 +1,22 @@
+{
+  "appid": 1460250,
+  "success": true,
+  "tags": {
+    "Action": 77,
+    "Arcade": 50,
+    "Platformer": 48,
+    "2D Platformer": 45,
+    "Beat 'em up": 39,
+    "Side Scroller": 35,
+    "Precision Platformer": 32,
+    "Arena Shooter": 30,
+    "2D": 28,
+    "Pixel Graphics": 25,
+    "Minimalist": 25,
+    "Indie": 24,
+    "Military": 22,
+    "Heist": 19,
+    "Combat": 18,
+    "Singleplayer": 17
+  }
+}

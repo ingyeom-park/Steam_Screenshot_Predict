@@ -1,0 +1,26 @@
+{
+  "appid": 1309200,
+  "success": true,
+  "tags": {
+    "Casual": 319,
+    "Indie": 312,
+    "Simulation": 310,
+    "Sports": 306,
+    "Strategy": 304,
+    "Logic": 302,
+    "Tutorial": 296,
+    "Puzzle": 292,
+    "Singleplayer": 288,
+    "Experimental": 284,
+    "Competitive": 281,
+    "Education": 280,
+    "Difficult": 267,
+    "Chess": 260,
+    "Tabletop": 250,
+    "Board Game": 245,
+    "Clicker": 242,
+    "LEGO": 240,
+    "Programming": 237,
+    "Science": 229
+  }
+}

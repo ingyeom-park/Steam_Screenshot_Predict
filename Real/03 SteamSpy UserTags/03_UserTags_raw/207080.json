@@ -1,0 +1,20 @@
+{
+  "appid": 207080,
+  "success": true,
+  "tags": {
+    "Movie": 386,
+    "Documentary": 316,
+    "Indie": 272,
+    "Great Soundtrack": 74,
+    "Linear": 72,
+    "Story Rich": 64,
+    "Emotional": 35,
+    "Game Development": 34,
+    "Feature Film": 28,
+    "Singleplayer": 10,
+    "Dystopian ": 9,
+    "Post-apocalyptic": 7,
+    "Anime": 6,
+    "Female Protagonist": 6
+  }
+}

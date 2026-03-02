@@ -1,0 +1,25 @@
+{
+  "appid": 330100,
+  "success": true,
+  "tags": {
+    "Indie": 38,
+    "Action": 37,
+    "RPG": 37,
+    "Simulation": 35,
+    "Space": 28,
+    "Building": 22,
+    "2D": 18,
+    "Singleplayer": 14,
+    "Top-Down": 13,
+    "Destruction": 12,
+    "Exploration": 12,
+    "Futuristic": 12,
+    "Physics": 12,
+    "Sci-fi": 12,
+    "Arcade": 12,
+    "Survival": 12,
+    "Shooter": 11,
+    "Bullet Hell": 11,
+    "Management": 11
+  }
+}

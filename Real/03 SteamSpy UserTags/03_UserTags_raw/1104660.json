@@ -1,0 +1,25 @@
+{
+  "appid": 1104660,
+  "success": true,
+  "tags": {
+    "Indie": 103,
+    "Action": 96,
+    "Adventure": 95,
+    "Pixel Graphics": 89,
+    "Puzzle-Platformer": 79,
+    "Platformer": 65,
+    "Sci-fi": 60,
+    "Gore": 56,
+    "Atmospheric": 55,
+    "Singleplayer": 55,
+    "Cute": 54,
+    "2D": 53,
+    "Great Soundtrack": 45,
+    "Story Rich": 43,
+    "Violent": 41,
+    "Side Scroller": 34,
+    "Difficult": 29,
+    "Dark Fantasy": 13,
+    "Puzzle": 10
+  }
+}

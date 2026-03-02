@@ -1,0 +1,17 @@
+{
+  "appid": 650220,
+  "success": true,
+  "tags": {
+    "Strategy": 44,
+    "Simulation": 35,
+    "Indie": 32,
+    "Space": 27,
+    "Turn-Based Strategy": 21,
+    "Turn-Based": 20,
+    "Multiplayer": 15,
+    "Turn-Based Tactics": 14,
+    "Sci-fi": 10,
+    "Singleplayer": 10,
+    "Local Multiplayer": 8
+  }
+}

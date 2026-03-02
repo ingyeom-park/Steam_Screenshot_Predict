@@ -1,0 +1,26 @@
+{
+  "appid": 1227280,
+  "success": true,
+  "tags": {
+    "Auto Battler": 208,
+    "Pixel Graphics": 198,
+    "Rogue-like": 197,
+    "Tactical": 189,
+    "Indie": 182,
+    "RPG": 164,
+    "Turn-Based Tactics": 164,
+    "2D": 160,
+    "Dark Humor": 159,
+    "Rogue-lite": 157,
+    "Singleplayer": 150,
+    "Strategy": 147,
+    "Adventure": 144,
+    "Survival": 134,
+    "Asynchronous Multiplayer": 131,
+    "Atmospheric": 122,
+    "Dungeon Crawler": 120,
+    "Procedural Generation": 111,
+    "Replay Value": 106,
+    "Turn-Based": 52
+  }
+}

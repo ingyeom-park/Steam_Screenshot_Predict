@@ -1,0 +1,26 @@
+{
+  "appid": 686200,
+  "success": true,
+  "tags": {
+    "2D Platformer": 293,
+    "Pixel Graphics": 288,
+    "Local Co-Op": 262,
+    "Retro": 262,
+    "Action": 255,
+    "Online Co-Op": 250,
+    "2D": 241,
+    "Shooter": 240,
+    "Simulation": 238,
+    "Tactical": 232,
+    "Zombies": 230,
+    "Level Editor": 222,
+    "Co-op": 220,
+    "Local Multiplayer": 210,
+    "Indie": 203,
+    "Procedural Generation": 203,
+    "Singleplayer": 202,
+    "Soundtrack": 194,
+    "Casual": 190,
+    "Multiplayer": 186
+  }
+}

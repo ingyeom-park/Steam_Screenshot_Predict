@@ -1,0 +1,26 @@
+{
+  "appid": 1269520,
+  "success": true,
+  "tags": {
+    "Action": 201,
+    "Horror": 196,
+    "Mystery": 190,
+    "Creature Collector": 184,
+    "Puzzle": 182,
+    "Detective": 177,
+    "Exploration": 169,
+    "Crafting": 165,
+    "Adventure": 164,
+    "Indie": 162,
+    "Third Person": 160,
+    "Singleplayer": 158,
+    "Cute": 153,
+    "Cartoon": 148,
+    "Atmospheric": 145,
+    "Supernatural": 130,
+    "Survival Horror": 125,
+    "Cartoony": 113,
+    "Dark Fantasy": 106,
+    "Story Rich": 90
+  }
+}

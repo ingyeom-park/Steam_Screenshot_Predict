@@ -1,0 +1,26 @@
+{
+  "appid": 1108590,
+  "success": true,
+  "tags": {
+    "Pixel Graphics": 250,
+    "Souls-like": 241,
+    "Dark Fantasy": 236,
+    "Action RPG": 229,
+    "Singleplayer": 224,
+    "Difficult": 220,
+    "Indie": 202,
+    "Hack and Slash": 190,
+    "Isometric": 182,
+    "Action": 163,
+    "Lore-Rich": 162,
+    "Boss Rush": 110,
+    "Fantasy": 85,
+    "Adventure": 84,
+    "Anime": 72,
+    "Medieval": 71,
+    "Lovecraftian": 70,
+    "Combat": 69,
+    "RPG": 61,
+    "Violent": 40
+  }
+}

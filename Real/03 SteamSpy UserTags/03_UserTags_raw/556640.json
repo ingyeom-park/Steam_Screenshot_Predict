@@ -1,0 +1,26 @@
+{
+  "appid": 556640,
+  "success": true,
+  "tags": {
+    "VR": 107,
+    "Gore": 103,
+    "Action": 100,
+    "Violent": 100,
+    "Swordplay": 99,
+    "Rome": 92,
+    "Indie": 91,
+    "Fighting": 86,
+    "Adventure": 76,
+    "3D Fighter": 73,
+    "Sandbox": 71,
+    "Dungeon Crawler": 66,
+    "Hack and Slash": 64,
+    "Historical": 60,
+    "Medieval": 55,
+    "Combat": 54,
+    "Moddable": 47,
+    "Singleplayer": 42,
+    "Early Access": 39,
+    "First-Person": 34
+  }
+}

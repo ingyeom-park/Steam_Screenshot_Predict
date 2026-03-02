@@ -1,0 +1,26 @@
+{
+  "appid": 2146570,
+  "success": true,
+  "tags": {
+    "Action": 235,
+    "Adventure": 227,
+    "Indie": 222,
+    "Singleplayer": 198,
+    "Atmospheric": 192,
+    "Third Person": 184,
+    "Anime": 174,
+    "Platformer": 170,
+    "Female Protagonist": 164,
+    "Parkour": 151,
+    "Fast-Paced": 141,
+    "Robots": 127,
+    "Futuristic": 126,
+    "Controller": 111,
+    "Colorful": 97,
+    "Dystopian ": 80,
+    "3D Platformer": 68,
+    "Stylized": 47,
+    "3D": 27,
+    "Music": 25
+  }
+}

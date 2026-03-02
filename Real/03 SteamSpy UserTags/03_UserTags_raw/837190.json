@@ -1,0 +1,26 @@
+{
+  "appid": 837190,
+  "success": true,
+  "tags": {
+    "Indie": 120,
+    "Retro": 115,
+    "Platformer": 110,
+    "Exploration": 108,
+    "Side Scroller": 102,
+    "Puzzle-Platformer": 96,
+    "Pixel Graphics": 94,
+    "1990's": 90,
+    "Arcade": 86,
+    "2D": 85,
+    "Cute": 82,
+    "Action": 80,
+    "Anime": 75,
+    "Colorful": 71,
+    "Parkour": 65,
+    "Adventure": 55,
+    "Singleplayer": 44,
+    "Great Soundtrack": 37,
+    "Classic": 32,
+    "Remake": 27
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 796510,
+  "success": true,
+  "tags": {
+    "Adventure": 259,
+    "Indie": 252,
+    "RPG": 250,
+    "Platformer": 247,
+    "Action": 246,
+    "Side Scroller": 244,
+    "2D": 236,
+    "Atmospheric": 231,
+    "Singleplayer": 228,
+    "Arcade": 223,
+    "Action-Adventure": 217,
+    "2D Platformer": 214,
+    "Puzzle-Platformer": 211,
+    "Exploration": 209,
+    "Cute": 205,
+    "Cartoony": 200,
+    "Colorful": 193,
+    "Relaxing": 185,
+    "Funny": 175,
+    "Superhero": 165
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1428710,
+  "success": true,
+  "tags": {
+    "Action": 273,
+    "RPG": 254,
+    "Souls-like": 253,
+    "Dark Fantasy": 249,
+    "Combat": 237,
+    "Pixel Graphics": 229,
+    "2D": 223,
+    "Singleplayer": 220,
+    "Platformer": 208,
+    "2D Platformer": 198,
+    "Story Rich": 196,
+    "Lore-Rich": 194,
+    "Metroidvania": 183,
+    "Dark": 177,
+    "Atmospheric": 173,
+    "Character Customization": 169,
+    "Multiple Endings": 144,
+    "Indie": 141,
+    "Violent": 122,
+    "Gore": 107
+  }
+}

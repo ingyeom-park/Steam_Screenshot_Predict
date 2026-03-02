@@ -1,0 +1,26 @@
+{
+  "appid": 2951840,
+  "success": true,
+  "tags": {
+    "Action": 147,
+    "Action RPG": 143,
+    "Pixel Graphics": 140,
+    "Beat 'em up": 136,
+    "RPG": 131,
+    "Adventure": 125,
+    "Fantasy": 122,
+    "Combat": 118,
+    "JRPG": 114,
+    "2.5D": 110,
+    "Anime": 109,
+    "2D Platformer": 101,
+    "Hand-drawn": 99,
+    "Character Customization": 92,
+    "Medieval": 79,
+    "Alternate History": 68,
+    "Magic": 65,
+    "Indie": 54,
+    "Controller": 52,
+    "Singleplayer": 40
+  }
+}

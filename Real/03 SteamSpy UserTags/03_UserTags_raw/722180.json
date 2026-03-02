@@ -1,0 +1,22 @@
+{
+  "appid": 722180,
+  "success": true,
+  "tags": {
+    "VR": 62,
+    "Zombies": 60,
+    "Action": 46,
+    "Adventure": 32,
+    "Simulation": 32,
+    "Indie": 29,
+    "Co-op": 26,
+    "Violent": 24,
+    "Gore": 23,
+    "Multiplayer": 20,
+    "Survival": 17,
+    "Online Co-Op": 17,
+    "Horror": 16,
+    "Co-op Campaign": 15,
+    "FPS": 6,
+    "Open World": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1874170,
+  "success": true,
+  "tags": {
+    "Sports": 153,
+    "Snowboarding": 146,
+    "Realistic": 144,
+    "Multiplayer": 140,
+    "Singleplayer": 137,
+    "Open World": 128,
+    "Nature": 125,
+    "Physics": 123,
+    "Character Customization": 121,
+    "3D": 116,
+    "Third Person": 106,
+    "Controller": 99,
+    "Atmospheric": 94,
+    "Simulation": 87,
+    "Indie": 62,
+    "Action": 57,
+    "Online Co-Op": 53,
+    "Co-op": 50,
+    "Arcade": 31,
+    "VR": 29
+  }
+}

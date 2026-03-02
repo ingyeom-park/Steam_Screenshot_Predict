@@ -1,0 +1,26 @@
+{
+  "appid": 1231970,
+  "success": true,
+  "tags": {
+    "Indie": 349,
+    "Violent": 343,
+    "Action": 339,
+    "VR": 334,
+    "Shooter": 330,
+    "3D": 324,
+    "RPG": 320,
+    "Singleplayer": 316,
+    "Crime": 315,
+    "Action RPG": 312,
+    "Action-Adventure": 310,
+    "Character Action Game": 304,
+    "Strategy RPG": 299,
+    "Tactical RPG": 293,
+    "Combat": 291,
+    "Casual": 283,
+    "Simulation": 273,
+    "Education": 269,
+    "Arcade": 259,
+    "Immersive Sim": 235
+  }
+}

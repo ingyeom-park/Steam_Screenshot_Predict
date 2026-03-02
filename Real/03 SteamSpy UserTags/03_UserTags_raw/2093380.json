@@ -1,0 +1,26 @@
+{
+  "appid": 2093380,
+  "success": true,
+  "tags": {
+    "Exploration": 126,
+    "Survival": 121,
+    "First-Person": 119,
+    "PvE": 114,
+    "Adventure": 112,
+    "Open World": 106,
+    "Survival Horror": 103,
+    "Procedural Generation": 102,
+    "Sandbox": 96,
+    "Horror": 94,
+    "Realistic": 90,
+    "3D": 86,
+    "Indie": 84,
+    "Stealth": 82,
+    "Loot": 79,
+    "Crafting": 75,
+    "Atmospheric": 62,
+    "Singleplayer": 56,
+    "Walking Simulator": 51,
+    "Building": 49
+  }
+}

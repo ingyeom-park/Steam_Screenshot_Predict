@@ -1,0 +1,26 @@
+{
+  "appid": 525620,
+  "success": true,
+  "tags": {
+    "Action": 127,
+    "Action Roguelike": 119,
+    "Shoot 'Em Up": 117,
+    "Indie": 113,
+    "Casual": 107,
+    "Strategy": 101,
+    "Rogue-like": 93,
+    "Rogue-lite": 90,
+    "Funny": 86,
+    "Destruction": 81,
+    "Singleplayer": 79,
+    "2D": 73,
+    "Arcade": 68,
+    "Tower Defense": 63,
+    "Cartoony": 61,
+    "Family Friendly": 58,
+    "Underwater": 55,
+    "Controller": 52,
+    "Mechs": 46,
+    "Mouse only": 42
+  }
+}

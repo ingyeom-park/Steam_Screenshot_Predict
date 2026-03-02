@@ -1,0 +1,17 @@
+{
+  "appid": 1493060,
+  "success": true,
+  "tags": {
+    "Action": 60,
+    "Adventure": 56,
+    "VR": 50,
+    "Horror": 33,
+    "First-Person": 30,
+    "FPS": 24,
+    "Shooter": 23,
+    "Indie": 21,
+    "Singleplayer": 21,
+    "Gore": 21,
+    "Violent": 21
+  }
+}

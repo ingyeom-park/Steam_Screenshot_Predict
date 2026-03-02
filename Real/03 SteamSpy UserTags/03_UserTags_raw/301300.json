@@ -1,0 +1,14 @@
+{
+  "appid": 301300,
+  "success": true,
+  "tags": {
+    "Action": 42,
+    "Indie": 42,
+    "Casual": 42,
+    "Shoot 'Em Up": 17,
+    "Co-op": 6,
+    "Arcade": 6,
+    "Shooter": 6,
+    "Bullet Hell": 6
+  }
+}

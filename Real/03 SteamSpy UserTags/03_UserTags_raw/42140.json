@@ -1,0 +1,26 @@
+{
+  "appid": 42140,
+  "success": true,
+  "tags": {
+    "Local Co-Op": 118,
+    "Adventure": 110,
+    "3D Platformer": 108,
+    "Puzzle-Platformer": 105,
+    "Puzzle": 105,
+    "Family Friendly": 98,
+    "Casual": 89,
+    "Indie": 84,
+    "Platformer": 80,
+    "Singleplayer": 77,
+    "Controller": 74,
+    "Arcade": 70,
+    "Local Multiplayer": 66,
+    "Lovecraftian": 66,
+    "Action": 61,
+    "Anime": 42,
+    "Dark": 39,
+    "FPS": 33,
+    "Funny": 31,
+    "Competitive": 24
+  }
+}

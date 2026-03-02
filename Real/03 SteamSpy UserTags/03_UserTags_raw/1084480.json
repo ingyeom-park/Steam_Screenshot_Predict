@@ -1,0 +1,26 @@
+{
+  "appid": 1084480,
+  "success": true,
+  "tags": {
+    "Tactical": 165,
+    "Turn-Based Strategy": 155,
+    "Turn-Based Tactics": 150,
+    "Zombies": 145,
+    "Difficult": 140,
+    "Puzzle": 130,
+    "Survival": 120,
+    "Strategy": 117,
+    "Turn-Based": 114,
+    "Pixel Graphics": 111,
+    "Post-apocalyptic": 101,
+    "Singleplayer": 95,
+    "2D": 92,
+    "Indie": 87,
+    "Rogue-like": 61,
+    "Free to Play": 50,
+    "Adventure": 34,
+    "RPG": 32,
+    "Strategy RPG": 31,
+    "Action": 28
+  }
+}

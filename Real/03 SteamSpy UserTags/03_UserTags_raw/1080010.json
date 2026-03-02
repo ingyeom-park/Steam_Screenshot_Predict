@@ -1,0 +1,26 @@
+{
+  "appid": 1080010,
+  "success": true,
+  "tags": {
+    "Multiplayer": 142,
+    "Online Co-Op": 136,
+    "Local Co-Op": 134,
+    "Co-op": 133,
+    "Casual": 127,
+    "Funny": 118,
+    "Indie": 114,
+    "Action": 113,
+    "4 Player Local": 111,
+    "Local Multiplayer": 108,
+    "Family Friendly": 105,
+    "Controller": 100,
+    "Cooking": 96,
+    "Cute": 94,
+    "Comedy": 89,
+    "Singleplayer": 85,
+    "Difficult": 75,
+    "Simulation": 73,
+    "Colorful": 49,
+    "Strategy": 42
+  }
+}

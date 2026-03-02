@@ -1,0 +1,26 @@
+{
+  "appid": 1061180,
+  "success": true,
+  "tags": {
+    "3D Platformer": 129,
+    "Platformer": 119,
+    "Indie": 116,
+    "Action": 109,
+    "Adventure": 107,
+    "Parkour": 103,
+    "Physics": 102,
+    "Cute": 94,
+    "Destruction": 94,
+    "Funny": 87,
+    "4 Player Local": 79,
+    "Casual": 79,
+    "Local Co-Op": 69,
+    "Singleplayer": 66,
+    "Co-op": 60,
+    "Split Screen": 60,
+    "Party Game": 58,
+    "Exploration": 55,
+    "Multiplayer": 53,
+    "Local Multiplayer": 53
+  }
+}

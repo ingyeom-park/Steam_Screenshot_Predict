@@ -1,0 +1,25 @@
+{
+  "appid": 1823730,
+  "success": true,
+  "tags": {
+    "Puzzle": 139,
+    "Sokoban": 133,
+    "Logic": 130,
+    "Relaxing": 127,
+    "2D": 124,
+    "Stylized": 118,
+    "Minimalist": 116,
+    "Colorful": 114,
+    "Indie": 112,
+    "Difficult": 112,
+    "Casual": 106,
+    "Surreal": 100,
+    "Nonlinear": 98,
+    "Controller": 96,
+    "Grid-Based Movement": 94,
+    "Atmospheric": 90,
+    "Singleplayer": 76,
+    "Abstract": 63,
+    "Strategy": 47
+  }
+}

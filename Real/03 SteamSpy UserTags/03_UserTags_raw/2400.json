@@ -1,0 +1,26 @@
+{
+  "appid": 2400,
+  "success": true,
+  "tags": {
+    "Multiplayer": 384,
+    "Indie": 174,
+    "First-Person": 155,
+    "Action": 151,
+    "Stealth": 140,
+    "Mystery": 121,
+    "RPG": 120,
+    "Assassin": 111,
+    "Funny": 81,
+    "Survival": 63,
+    "FPS": 54,
+    "Simulation": 54,
+    "Singleplayer": 52,
+    "Comedy": 51,
+    "Shooter": 44,
+    "Adventure": 41,
+    "Strategy": 41,
+    "Difficult": 31,
+    "Stylized": 28,
+    "Replay Value": 28
+  }
+}

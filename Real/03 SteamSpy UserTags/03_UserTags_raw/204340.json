@@ -1,0 +1,26 @@
+{
+  "appid": 204340,
+  "success": true,
+  "tags": {
+    "Action": 298,
+    "FPS": 255,
+    "Co-op": 194,
+    "Comedy": 182,
+    "Multiplayer": 169,
+    "Shooter": 148,
+    "First-Person": 145,
+    "Gore": 134,
+    "Funny": 117,
+    "Classic": 103,
+    "Singleplayer": 103,
+    "Adventure": 98,
+    "Indie": 68,
+    "Sci-fi": 67,
+    "Online Co-Op": 59,
+    "Colorful": 57,
+    "Great Soundtrack": 51,
+    "Atmospheric": 40,
+    "Boomer Shooter": 35,
+    "Difficult": 31
+  }
+}

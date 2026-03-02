@@ -1,0 +1,26 @@
+{
+  "appid": 1203360,
+  "success": true,
+  "tags": {
+    "Tower Defense": 132,
+    "Difficult": 114,
+    "Replay Value": 109,
+    "Deckbuilding": 108,
+    "Minimalist": 103,
+    "Casual": 95,
+    "Rogue-like": 92,
+    "Strategy": 90,
+    "Addictive": 88,
+    "2D": 85,
+    "Singleplayer": 79,
+    "Procedural Generation": 66,
+    "Rogue-lite": 61,
+    "Indie": 55,
+    "Top-Down": 39,
+    "Retro": 35,
+    "Sci-fi": 35,
+    "Tactical": 32,
+    "Touch-Friendly": 28,
+    "Choices Matter": 27
+  }
+}

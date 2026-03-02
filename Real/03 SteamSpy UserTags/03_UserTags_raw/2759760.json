@@ -1,0 +1,26 @@
+{
+  "appid": 2759760,
+  "success": true,
+  "tags": {
+    "Difficult": 248,
+    "Indie": 239,
+    "Sokoban": 235,
+    "Puzzle": 234,
+    "Logic": 217,
+    "Wholesome": 212,
+    "Minimalist": 209,
+    "Cute": 207,
+    "2D": 205,
+    "Singleplayer": 203,
+    "Nature": 197,
+    "Family Friendly": 191,
+    "Controller": 179,
+    "Relaxing": 146,
+    "Turn-Based": 135,
+    "Casual": 131,
+    "Grid-Based Movement": 90,
+    "Linear": 71,
+    "Top-Down": 56,
+    "Strategy": 52
+  }
+}

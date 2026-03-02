@@ -1,0 +1,26 @@
+{
+  "appid": 233980,
+  "success": true,
+  "tags": {
+    "RPG": 415,
+    "Indie": 296,
+    "Metroidvania": 239,
+    "Platformer": 216,
+    "Action": 205,
+    "Comedy": 200,
+    "2D": 159,
+    "Exploration": 117,
+    "Fantasy": 116,
+    "Adventure": 99,
+    "Co-op": 95,
+    "Singleplayer": 92,
+    "Multiplayer": 83,
+    "Funny": 75,
+    "Side Scroller": 56,
+    "Pixel Graphics": 53,
+    "Retro": 50,
+    "Magic": 47,
+    "Epic": 40,
+    "Online Co-Op": 38
+  }
+}

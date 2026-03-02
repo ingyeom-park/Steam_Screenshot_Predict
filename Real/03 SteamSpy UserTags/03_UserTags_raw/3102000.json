@@ -1,0 +1,23 @@
+{
+  "appid": 3102000,
+  "success": true,
+  "tags": {
+    "Simulation": 74,
+    "Action-Adventure": 48,
+    "First-Person": 44,
+    "Idler": 43,
+    "Indie": 40,
+    "Psychedelic": 38,
+    "Violent": 38,
+    "Realistic": 33,
+    "Adventure": 32,
+    "Psychological": 31,
+    "Supernatural": 30,
+    "Thriller": 29,
+    "Horror": 28,
+    "Story Rich": 23,
+    "Singleplayer": 23,
+    "Psychological Horror": 18,
+    "Walking Simulator": 12
+  }
+}

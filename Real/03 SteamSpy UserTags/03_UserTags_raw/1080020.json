@@ -1,0 +1,26 @@
+{
+  "appid": 1080020,
+  "success": true,
+  "tags": {
+    "Simulation": 218,
+    "Education": 202,
+    "Immersive Sim": 192,
+    "First-Person": 185,
+    "Indie": 183,
+    "Life Sim": 181,
+    "Singleplayer": 176,
+    "Family Friendly": 168,
+    "Difficult": 165,
+    "Casual": 162,
+    "3D": 157,
+    "Relaxing": 146,
+    "Realistic": 141,
+    "Replay Value": 141,
+    "Destruction": 130,
+    "Puzzle": 123,
+    "Crafting": 112,
+    "Funny": 109,
+    "Logic": 107,
+    "Choices Matter": 98
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 1895860,
+  "success": true,
+  "tags": {
+    "Mystery Dungeon": 65,
+    "RPG": 61,
+    "Simulation": 54,
+    "Rogue-like": 52,
+    "Strategy": 48,
+    "Hack and Slash": 44,
+    "Turn-Based Tactics": 32,
+    "Singleplayer": 32,
+    "Turn-Based Strategy": 29,
+    "Procedural Generation": 27,
+    "Traditional Roguelike": 22,
+    "Fantasy": 22,
+    "Cute": 21,
+    "Indie": 21,
+    "Atmospheric": 18,
+    "Magic": 16,
+    "3D": 12,
+    "Anime": 9
+  }
+}

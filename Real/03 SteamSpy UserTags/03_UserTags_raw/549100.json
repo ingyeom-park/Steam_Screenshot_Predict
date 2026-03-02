@@ -1,0 +1,26 @@
+{
+  "appid": 549100,
+  "success": true,
+  "tags": {
+    "Side Scroller": 198,
+    "Precision Platformer": 192,
+    "2D Platformer": 190,
+    "Difficult": 186,
+    "Platformer": 183,
+    "Action-Adventure": 178,
+    "2D": 175,
+    "Cute": 173,
+    "Linear": 170,
+    "Action": 162,
+    "Abstract": 154,
+    "Cartoony": 150,
+    "Colorful": 148,
+    "Pixel Graphics": 147,
+    "Minimalist": 144,
+    "Logic": 141,
+    "Family Friendly": 137,
+    "Score Attack": 130,
+    "Physics": 123,
+    "Retro": 118
+  }
+}

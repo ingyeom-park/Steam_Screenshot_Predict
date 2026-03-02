@@ -1,0 +1,26 @@
+{
+  "appid": 1018130,
+  "success": true,
+  "tags": {
+    "Action": 110,
+    "Arcade": 104,
+    "1980s": 102,
+    "2D": 97,
+    "Physics": 92,
+    "Top-Down Shooter": 85,
+    "Retro": 85,
+    "Singleplayer": 82,
+    "Robots": 80,
+    "Colorful": 79,
+    "Mouse only": 77,
+    "Casual": 65,
+    "1990's": 63,
+    "Procedural Generation": 62,
+    "Old School": 60,
+    "Top-Down": 58,
+    "Shooter": 56,
+    "PvE": 54,
+    "Score Attack": 52,
+    "Indie": 24
+  }
+}

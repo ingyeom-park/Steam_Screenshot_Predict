@@ -1,0 +1,23 @@
+{
+  "appid": 2082410,
+  "success": true,
+  "tags": {
+    "Turn-Based Tactics": 178,
+    "Turn-Based Strategy": 171,
+    "Turn-Based": 166,
+    "Turn-Based Combat": 165,
+    "Party-Based RPG": 161,
+    "Rogue-lite": 142,
+    "Strategy": 136,
+    "Rogue-like": 133,
+    "2D": 100,
+    "Singleplayer": 100,
+    "Indie": 93,
+    "Sci-fi": 93,
+    "Cute": 76,
+    "Anime": 74,
+    "Mechs": 67,
+    "Deckbuilding": 12,
+    "Roguelike Deckbuilder": 10
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2083900,
+  "success": true,
+  "tags": {
+    "Action": 196,
+    "Rogue-like": 167,
+    "PvE": 166,
+    "Arcade": 162,
+    "Action Roguelike": 154,
+    "Score Attack": 146,
+    "Resource Management": 138,
+    "Rogue-lite": 133,
+    "2D": 123,
+    "Pixel Graphics": 115,
+    "Casual": 107,
+    "Singleplayer": 104,
+    "Retro": 102,
+    "Perma Death": 73,
+    "Combat": 58,
+    "Class-Based": 42,
+    "Abstract": 27,
+    "Arena Shooter": 26,
+    "Indie": 23,
+    "Tower Defense": 18
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 242880,
+  "success": true,
+  "tags": {
+    "Survival": 293,
+    "Stealth": 281,
+    "Indie": 212,
+    "Robots": 208,
+    "First-Person": 197,
+    "Procedural Generation": 178,
+    "Action": 139,
+    "Singleplayer": 110,
+    "Open World": 108,
+    "Steampunk": 102,
+    "Atmospheric": 101,
+    "Comedy": 93,
+    "Horror": 93,
+    "FPS": 75,
+    "Multiplayer": 64,
+    "Exploration": 58,
+    "Kickstarter": 56,
+    "Sandbox": 52,
+    "Adventure": 48,
+    "Rogue-like": 46
+  }
+}

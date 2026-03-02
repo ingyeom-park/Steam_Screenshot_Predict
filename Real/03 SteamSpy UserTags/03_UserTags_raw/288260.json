@@ -1,0 +1,22 @@
+{
+  "appid": 288260,
+  "success": true,
+  "tags": {
+    "Strategy": 49,
+    "Indie": 46,
+    "Action": 37,
+    "Casual": 32,
+    "Space": 18,
+    "Multiplayer": 17,
+    "Adventure": 16,
+    "Singleplayer": 16,
+    "Fast-Paced": 15,
+    "Sci-fi": 15,
+    "Physics": 15,
+    "Funny": 15,
+    "Co-op": 14,
+    "Competitive": 13,
+    "RTS": 7,
+    "2D": 6
+  }
+}

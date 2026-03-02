@@ -1,0 +1,26 @@
+{
+  "appid": 1401150,
+  "success": true,
+  "tags": {
+    "Casual": 214,
+    "Simulation": 210,
+    "Experimental": 204,
+    "Space Sim": 199,
+    "Sandbox": 194,
+    "3D": 186,
+    "3D Platformer": 186,
+    "3D Vision": 182,
+    "Realistic": 177,
+    "Minimalist": 167,
+    "Stylized": 159,
+    "Relaxing": 150,
+    "Science": 143,
+    "Sci-fi": 133,
+    "Nature": 119,
+    "Physics": 107,
+    "Procedural Generation": 100,
+    "Singleplayer": 67,
+    "Open World": 51,
+    "Indie": 48
+  }
+}

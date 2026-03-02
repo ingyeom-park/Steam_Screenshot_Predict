@@ -1,0 +1,26 @@
+{
+  "appid": 994140,
+  "success": true,
+  "tags": {
+    "Logic": 196,
+    "Indie": 168,
+    "Adventure": 163,
+    "Puzzle": 89,
+    "First-Person": 74,
+    "Sci-fi": 55,
+    "3D": 52,
+    "Atmospheric": 51,
+    "Science": 49,
+    "Dark Comedy": 48,
+    "Dynamic Narration": 45,
+    "Narration": 42,
+    "Futuristic": 38,
+    "Dark": 38,
+    "Puzzle-Platformer": 33,
+    "Lore-Rich": 31,
+    "FPS": 27,
+    "Difficult": 20,
+    "Controller": 19,
+    "Old School": 15
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 3198320,
+  "success": true,
+  "tags": {
+    "Horror": 161,
+    "Survival Horror": 154,
+    "Action": 150,
+    "Dark": 150,
+    "Psychological Horror": 146,
+    "Procedural Generation": 139,
+    "Exploration": 123,
+    "FPS": 115,
+    "Collectathon": 107,
+    "First-Person": 97,
+    "Walking Simulator": 95,
+    "Action-Adventure": 83,
+    "Nonlinear": 70,
+    "Supernatural": 56,
+    "Indie": 45,
+    "Hidden Object": 40,
+    "Stealth": 27,
+    "Adventure": 22
+  }
+}

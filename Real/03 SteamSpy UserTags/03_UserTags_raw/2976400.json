@@ -1,0 +1,25 @@
+{
+  "appid": 2976400,
+  "success": true,
+  "tags": {
+    "Indie": 178,
+    "Horror": 172,
+    "Jump Scare": 160,
+    "Walking Simulator": 148,
+    "Singleplayer": 143,
+    "First-Person": 135,
+    "Survival Horror": 124,
+    "Zombies": 115,
+    "Puzzle": 112,
+    "Adventure": 104,
+    "Psychological": 101,
+    "Atmospheric": 96,
+    "Exploration": 73,
+    "Immersive Sim": 57,
+    "Casual": 47,
+    "3D": 41,
+    "Linear": 28,
+    "Simulation": 22,
+    "Psychological Horror": 5
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 599080,
+  "success": true,
+  "tags": {
+    "Horror": 120,
+    "Co-op": 108,
+    "Indie": 106,
+    "Multiplayer": 104,
+    "Action": 103,
+    "Simulation": 84,
+    "Psychological Horror": 52,
+    "First-Person": 49,
+    "Online Co-Op": 44,
+    "Stealth": 42,
+    "Survival": 18,
+    "Survival Horror": 14,
+    "Atmospheric": 11,
+    "Procedural Generation": 10,
+    "Singleplayer": 9,
+    "FPS": 6,
+    "Story Rich": 6,
+    "Early Access": 6
+  }
+}

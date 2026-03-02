@@ -1,0 +1,26 @@
+{
+  "appid": 622670,
+  "success": true,
+  "tags": {
+    "Anime": 173,
+    "Visual Novel": 167,
+    "Indie": 163,
+    "RPG": 160,
+    "Adventure": 157,
+    "Strategy": 151,
+    "Tower Defense": 148,
+    "Cute": 145,
+    "RTS": 142,
+    "Casual": 137,
+    "Hack and Slash": 134,
+    "JRPG": 131,
+    "Tactical": 120,
+    "Funny": 109,
+    "FPS": 106,
+    "Fantasy": 103,
+    "Story Rich": 93,
+    "Singleplayer": 91,
+    "Battle Royale": 82,
+    "2D Platformer": 76
+  }
+}

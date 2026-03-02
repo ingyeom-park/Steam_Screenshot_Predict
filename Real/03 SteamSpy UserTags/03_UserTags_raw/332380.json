@@ -1,0 +1,26 @@
+{
+  "appid": 332380,
+  "success": true,
+  "tags": {
+    "RPG": 122,
+    "Indie": 106,
+    "Adventure": 100,
+    "Epic": 90,
+    "Exploration": 89,
+    "RPGMaker": 86,
+    "Casual": 78,
+    "JRPG": 77,
+    "Singleplayer": 75,
+    "Turn-Based": 73,
+    "Fantasy": 69,
+    "Female Protagonist": 65,
+    "Story Rich": 63,
+    "Character Customization": 61,
+    "Replay Value": 59,
+    "Great Soundtrack": 56,
+    "Strategy": 53,
+    "2D": 52,
+    "Open World": 41,
+    "Nonlinear": 39
+  }
+}

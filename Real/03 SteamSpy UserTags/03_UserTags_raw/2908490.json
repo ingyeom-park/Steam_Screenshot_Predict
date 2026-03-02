@@ -1,0 +1,26 @@
+{
+  "appid": 2908490,
+  "success": true,
+  "tags": {
+    "Simulation": 139,
+    "Survival": 133,
+    "Crafting": 131,
+    "Mystery Dungeon": 126,
+    "Exploration": 121,
+    "Combat": 115,
+    "Adventure": 112,
+    "Immersive Sim": 107,
+    "Mystery": 106,
+    "Dungeon Crawler": 103,
+    "Action-Adventure": 101,
+    "Life Sim": 97,
+    "Fantasy": 93,
+    "Medieval": 88,
+    "Indie": 86,
+    "Casual": 82,
+    "Singleplayer": 80,
+    "3D": 72,
+    "Cute": 69,
+    "First-Person": 54
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1222300,
+  "success": true,
+  "tags": {
+    "Simulation": 252,
+    "Action": 239,
+    "Casual": 234,
+    "Multiplayer": 229,
+    "Indie": 226,
+    "Third Person": 219,
+    "Sandbox": 218,
+    "Early Access": 210,
+    "Third-Person Shooter": 209,
+    "FPS": 208,
+    "Immersive Sim": 204,
+    "First-Person": 200,
+    "Driving": 192,
+    "America": 186,
+    "Education": 178,
+    "Family Friendly": 164,
+    "Modern": 163,
+    "Open World": 157,
+    "PvE": 143,
+    "Tutorial": 126
+  }
+}

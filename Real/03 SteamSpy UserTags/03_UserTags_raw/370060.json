@@ -1,0 +1,26 @@
+{
+  "appid": 370060,
+  "success": true,
+  "tags": {
+    "Simulation": 104,
+    "Management": 100,
+    "Casual": 93,
+    "Strategy": 86,
+    "Indie": 83,
+    "Cooking": 70,
+    "Economy": 68,
+    "Singleplayer": 66,
+    "Early Access": 63,
+    "Top-Down": 58,
+    "3D": 55,
+    "Cartoon": 52,
+    "Cute": 51,
+    "Building": 48,
+    "Relaxing": 47,
+    "Resource Management": 45,
+    "Free to Play": 38,
+    "RPG": 34,
+    "Classic": 30,
+    "Point & Click": 28
+  }
+}

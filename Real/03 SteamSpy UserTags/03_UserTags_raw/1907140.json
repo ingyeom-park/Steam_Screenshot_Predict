@@ -1,0 +1,26 @@
+{
+  "appid": 1907140,
+  "success": true,
+  "tags": {
+    "Card Game": 179,
+    "Fantasy": 171,
+    "Singleplayer": 168,
+    "Card Battler": 165,
+    "Deckbuilding": 156,
+    "Rogue-like": 146,
+    "Rogue-lite": 139,
+    "Dungeon Crawler": 131,
+    "Character Customization": 122,
+    "Logic": 113,
+    "RPG": 109,
+    "Turn-Based Combat": 103,
+    "Magic": 101,
+    "Relaxing": 73,
+    "Adventure": 64,
+    "Colorful": 58,
+    "Atmospheric": 28,
+    "3D": 26,
+    "Strategy": 22,
+    "Indie": 21
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1195290,
+  "success": true,
+  "tags": {
+    "Puzzle": 267,
+    "Casual": 243,
+    "Indie": 237,
+    "Singleplayer": 233,
+    "Drama": 228,
+    "Adventure": 217,
+    "Atmospheric": 125,
+    "Surreal": 124,
+    "Cartoon": 119,
+    "Abstract": 117,
+    "Experimental": 113,
+    "Exploration": 107,
+    "3D": 100,
+    "Sandbox": 95,
+    "First-Person": 87,
+    "Puzzle-Platformer": 87,
+    "3D Platformer": 86,
+    "Clicker": 86,
+    "Dungeon Crawler": 78,
+    "Simulation": 77
+  }
+}

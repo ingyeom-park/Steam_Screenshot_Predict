@@ -1,0 +1,26 @@
+{
+  "appid": 384740,
+  "success": true,
+  "tags": {
+    "Cats": 204,
+    "Adventure": 197,
+    "Cyberpunk": 194,
+    "Atmospheric": 191,
+    "Cute": 188,
+    "Third Person": 181,
+    "Exploration": 179,
+    "Robots": 178,
+    "Singleplayer": 177,
+    "Sci-fi": 173,
+    "Horror": 169,
+    "Indie": 162,
+    "Action": 156,
+    "Puzzle": 155,
+    "Open World": 144,
+    "Space": 128,
+    "Story Rich": 124,
+    "Realistic": 122,
+    "Interactive Fiction": 119,
+    "Simulation": 118
+  }
+}

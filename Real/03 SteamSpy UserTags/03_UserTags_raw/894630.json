@@ -1,0 +1,26 @@
+{
+  "appid": 894630,
+  "success": true,
+  "tags": {
+    "Strategy": 143,
+    "Turn-Based": 137,
+    "Spaceships": 131,
+    "Hex Grid": 128,
+    "4X": 123,
+    "Sci-fi": 114,
+    "Turn-Based Tactics": 111,
+    "Turn-Based Strategy": 107,
+    "Turn-Based Combat": 100,
+    "Space": 95,
+    "Tactical": 92,
+    "3D": 90,
+    "PvE": 88,
+    "Futuristic": 85,
+    "Singleplayer": 78,
+    "Local Multiplayer": 67,
+    "Indie": 52,
+    "War": 31,
+    "PvP": 29,
+    "Multiplayer": 27
+  }
+}

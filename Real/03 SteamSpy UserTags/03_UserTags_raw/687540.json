@@ -1,0 +1,26 @@
+{
+  "appid": 687540,
+  "success": true,
+  "tags": {
+    "Casual": 119,
+    "Action": 112,
+    "Adventure": 108,
+    "Indie": 106,
+    "Funny": 102,
+    "Singleplayer": 93,
+    "Villain Protagonist": 88,
+    "Strategy": 80,
+    "Simulation": 79,
+    "Arcade": 76,
+    "Sandbox": 74,
+    "Cute": 72,
+    "2D": 69,
+    "Post-apocalyptic": 66,
+    "Relaxing": 57,
+    "Comedy": 53,
+    "Controller": 46,
+    "Replay Value": 45,
+    "Top-Down Shooter": 38,
+    "Addictive": 32
+  }
+}

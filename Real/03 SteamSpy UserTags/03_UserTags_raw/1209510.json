@@ -1,0 +1,26 @@
+{
+  "appid": 1209510,
+  "success": true,
+  "tags": {
+    "Puzzle-Platformer": 106,
+    "Platformer": 97,
+    "Split Screen": 96,
+    "2D Platformer": 90,
+    "Local Co-Op": 87,
+    "Controller": 81,
+    "Singleplayer": 73,
+    "Adventure": 71,
+    "Fantasy": 62,
+    "Atmospheric": 60,
+    "Emotional": 58,
+    "Relaxing": 56,
+    "Team-Based": 54,
+    "Indie": 52,
+    "2D": 31,
+    "Hand-drawn": 29,
+    "Magic": 27,
+    "Nature": 25,
+    "Linear": 23,
+    "Co-op": 13
+  }
+}

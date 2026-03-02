@@ -1,0 +1,26 @@
+{
+  "appid": 1110620,
+  "success": true,
+  "tags": {
+    "Puzzle": 137,
+    "Logic": 131,
+    "Difficult": 127,
+    "Adventure": 122,
+    "Colorful": 118,
+    "Puzzle-Platformer": 112,
+    "Exploration": 110,
+    "Singleplayer": 105,
+    "Side Scroller": 98,
+    "Surreal": 96,
+    "Atmospheric": 92,
+    "Narrative": 81,
+    "2D": 71,
+    "Relaxing": 69,
+    "Nonlinear": 64,
+    "Physics": 60,
+    "Indie": 51,
+    "Cute": 37,
+    "Story Rich": 33,
+    "Platformer": 29
+  }
+}

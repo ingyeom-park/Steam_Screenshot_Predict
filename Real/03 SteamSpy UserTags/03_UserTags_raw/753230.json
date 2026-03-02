@@ -1,0 +1,26 @@
+{
+  "appid": 753230,
+  "success": true,
+  "tags": {
+    "Indie": 136,
+    "Adventure": 122,
+    "Choices Matter": 109,
+    "Story Rich": 104,
+    "Puzzle": 102,
+    "Pixel Graphics": 95,
+    "Thriller": 91,
+    "Horror": 90,
+    "Choose Your Own Adventure": 86,
+    "Dark": 80,
+    "Atmospheric": 79,
+    "Psychological": 75,
+    "Multiple Endings": 71,
+    "Interactive Fiction": 67,
+    "Visual Novel": 65,
+    "Side Scroller": 59,
+    "Singleplayer": 53,
+    "Text-Based": 52,
+    "Retro": 48,
+    "Narration": 46
+  }
+}

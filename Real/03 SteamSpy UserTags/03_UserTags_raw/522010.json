@@ -1,0 +1,16 @@
+{
+  "appid": 522010,
+  "success": true,
+  "tags": {
+    "Adventure": 80,
+    "Casual": 34,
+    "Indie": 31,
+    "Action": 30,
+    "Simulation": 29,
+    "Interactive Fiction": 13,
+    "Detective": 12,
+    "Story Rich": 10,
+    "Choices Matter": 10,
+    "Space Sim": 10
+  }
+}

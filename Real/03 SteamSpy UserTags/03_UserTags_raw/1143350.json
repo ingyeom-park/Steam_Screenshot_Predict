@@ -1,0 +1,26 @@
+{
+  "appid": 1143350,
+  "success": true,
+  "tags": {
+    "Difficult": 162,
+    "Precision Platformer": 156,
+    "Side Scroller": 152,
+    "Puzzle-Platformer": 148,
+    "Unforgiving": 145,
+    "2D Platformer": 139,
+    "Psychedelic": 130,
+    "Platformer": 122,
+    "Arcade": 117,
+    "Adventure": 115,
+    "Action": 111,
+    "2D": 104,
+    "Physics": 100,
+    "Indie": 95,
+    "Fast-Paced": 92,
+    "Stealth": 85,
+    "Minimalist": 83,
+    "Abstract": 81,
+    "Short": 78,
+    "Singleplayer": 74
+  }
+}

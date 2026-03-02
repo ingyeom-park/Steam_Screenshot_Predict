@@ -1,0 +1,26 @@
+{
+  "appid": 94400,
+  "success": true,
+  "tags": {
+    "Local Multiplayer": 248,
+    "Indie": 227,
+    "Swordplay": 176,
+    "Fighting": 173,
+    "Action": 170,
+    "Multiplayer": 164,
+    "Pixel Graphics": 128,
+    "2D Fighter": 127,
+    "PvP": 104,
+    "2D": 100,
+    "Party Game": 91,
+    "Fast-Paced": 69,
+    "Sports": 67,
+    "Competitive": 61,
+    "Funny": 61,
+    "Controller": 54,
+    "Local Co-Op": 36,
+    "Platformer": 31,
+    "Great Soundtrack": 30,
+    "GameMaker": 28
+  }
+}

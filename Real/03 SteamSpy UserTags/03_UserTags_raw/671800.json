@@ -1,0 +1,13 @@
+{
+  "appid": 671800,
+  "success": true,
+  "tags": {
+    "Strategy": 42,
+    "Casual": 42,
+    "Adventure": 40,
+    "Indie": 36,
+    "Zombies": 29,
+    "Survival": 23,
+    "Violent": 9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1906180,
+  "success": true,
+  "tags": {
+    "Wholesome": 111,
+    "Puzzle": 105,
+    "Casual": 102,
+    "Relaxing": 97,
+    "Indie": 93,
+    "Minimalist": 81,
+    "First-Person": 75,
+    "Family Friendly": 69,
+    "Psychological": 67,
+    "Atmospheric": 65,
+    "Realistic": 64,
+    "Sandbox": 61,
+    "Philosophical": 56,
+    "Simulation": 52,
+    "Immersive Sim": 35,
+    "Time Travel": 33,
+    "Building": 33,
+    "Point & Click": 31,
+    "3D": 29,
+    "Singleplayer": 28
+  }
+}

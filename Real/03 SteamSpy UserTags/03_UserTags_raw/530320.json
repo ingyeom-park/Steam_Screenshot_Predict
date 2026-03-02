@@ -1,0 +1,26 @@
+{
+  "appid": 530320,
+  "success": true,
+  "tags": {
+    "Music": 129,
+    "Adventure": 112,
+    "Comedy": 98,
+    "Indie": 95,
+    "Emotional": 92,
+    "Story Rich": 87,
+    "Great Soundtrack": 82,
+    "Colorful": 74,
+    "Cute": 73,
+    "Funny": 63,
+    "Casual": 53,
+    "Platformer": 49,
+    "Family Friendly": 45,
+    "Stylized": 41,
+    "Side Scroller": 33,
+    "Rhythm": 31,
+    "2D": 31,
+    "Cartoony": 30,
+    "Exploration": 24,
+    "Experimental": 22
+  }
+}

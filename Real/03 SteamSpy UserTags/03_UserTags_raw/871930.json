@@ -1,0 +1,26 @@
+{
+  "appid": 871930,
+  "success": true,
+  "tags": {
+    "Strategy": 273,
+    "Artificial Intelligence": 260,
+    "Competitive": 247,
+    "Multiplayer": 232,
+    "PvE": 213,
+    "Singleplayer": 165,
+    "PvP": 157,
+    "Programming": 65,
+    "Simulation": 46,
+    "Robots": 45,
+    "Indie": 44,
+    "Logic": 39,
+    "Tactical": 31,
+    "Asynchronous Multiplayer": 28,
+    "Automation": 16,
+    "Education": 13,
+    "Auto Battler": 11,
+    "Difficult": 10,
+    "Sci-fi": 9,
+    "Early Access": 9
+  }
+}

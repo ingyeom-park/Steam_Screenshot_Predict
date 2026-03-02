@@ -1,0 +1,26 @@
+{
+  "appid": 407230,
+  "success": true,
+  "tags": {
+    "Anime": 62,
+    "RPG": 45,
+    "RPGMaker": 43,
+    "Indie": 34,
+    "Adventure": 33,
+    "Action": 25,
+    "Pixel Graphics": 16,
+    "JRPG": 13,
+    "2D": 12,
+    "Singleplayer": 12,
+    "Fantasy": 10,
+    "Puzzle": 9,
+    "Shoot 'Em Up": 9,
+    "Open World": 8,
+    "Casual": 8,
+    "Turn-Based": 7,
+    "Exploration": 7,
+    "Survival": 6,
+    "Horror": 6,
+    "Great Soundtrack": 5
+  }
+}

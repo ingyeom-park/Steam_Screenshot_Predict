@@ -1,0 +1,26 @@
+{
+  "appid": 2689470,
+  "success": true,
+  "tags": {
+    "Action": 84,
+    "First-Person": 72,
+    "Boomer Shooter": 65,
+    "Rogue-like": 64,
+    "Procedural Generation": 59,
+    "Perma Death": 55,
+    "Shooter": 54,
+    "FPS": 50,
+    "Pixel Graphics": 45,
+    "Gore": 44,
+    "Violent": 39,
+    "Indie": 39,
+    "Horror": 36,
+    "Post-apocalyptic": 31,
+    "Shoot 'Em Up": 31,
+    "Singleplayer": 26,
+    "3D": 26,
+    "Adventure": 25,
+    "Combat": 17,
+    "Choices Matter": 15
+  }
+}

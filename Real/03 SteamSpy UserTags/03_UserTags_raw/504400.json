@@ -1,0 +1,11 @@
+{
+  "appid": 504400,
+  "success": true,
+  "tags": {
+    "Casual": 45,
+    "Indie": 39,
+    "Adventure": 34,
+    "Puzzle": 10,
+    "Physics": 9
+  }
+}

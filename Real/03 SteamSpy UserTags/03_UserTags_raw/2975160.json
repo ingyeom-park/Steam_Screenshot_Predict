@@ -1,0 +1,23 @@
+{
+  "appid": 2975160,
+  "success": true,
+  "tags": {
+    "Adventure": 110,
+    "First-Person": 104,
+    "Horror": 101,
+    "Singleplayer": 98,
+    "Simulation": 94,
+    "Indie": 87,
+    "Violent": 82,
+    "Walking Simulator": 76,
+    "Idler": 68,
+    "Story Rich": 59,
+    "Action-Adventure": 57,
+    "Psychedelic": 50,
+    "Psychological": 44,
+    "Psychological Horror": 36,
+    "Realistic": 34,
+    "Supernatural": 27,
+    "Thriller": 25
+  }
+}

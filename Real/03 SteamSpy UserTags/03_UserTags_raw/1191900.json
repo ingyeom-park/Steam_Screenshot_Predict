@@ -1,0 +1,26 @@
+{
+  "appid": 1191900,
+  "success": true,
+  "tags": {
+    "Indie": 233,
+    "Funny": 227,
+    "Comedy": 223,
+    "Singleplayer": 218,
+    "Casual": 217,
+    "Cute": 209,
+    "Colorful": 202,
+    "Satire": 197,
+    "Experimental": 193,
+    "Adventure": 192,
+    "Action": 183,
+    "Action-Adventure": 172,
+    "Beat 'em up": 172,
+    "Arcade": 168,
+    "On-Rails Shooter": 167,
+    "Cartoon": 165,
+    "Cartoony": 160,
+    "Third-Person Shooter": 156,
+    "Pixel Graphics": 142,
+    "Stylized": 125
+  }
+}

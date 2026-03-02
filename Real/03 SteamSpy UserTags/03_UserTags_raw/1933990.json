@@ -1,0 +1,26 @@
+{
+  "appid": 1933990,
+  "success": true,
+  "tags": {
+    "Casual": 121,
+    "Simulation": 115,
+    "Strategy": 108,
+    "Cooking": 107,
+    "Pixel Graphics": 94,
+    "Life Sim": 71,
+    "City Builder": 69,
+    "2D": 63,
+    "2D Platformer": 62,
+    "Cute": 59,
+    "Indie": 57,
+    "Management": 55,
+    "Colorful": 54,
+    "Economy": 50,
+    "Singleplayer": 48,
+    "Adventure": 31,
+    "Colony Sim": 29,
+    "Sandbox": 28,
+    "Modern": 25,
+    "Resource Management": 24
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 503560,
+  "success": true,
+  "tags": {
+    "Simulation": 325,
+    "Strategy": 289,
+    "Management": 230,
+    "Singleplayer": 179,
+    "Indie": 165,
+    "Casual": 152,
+    "Realistic": 116,
+    "Crime": 101,
+    "Choices Matter": 100,
+    "Education": 81,
+    "Tactical": 78,
+    "Real Time Tactics": 78,
+    "2D": 74,
+    "Atmospheric": 63,
+    "Addictive": 62,
+    "Modern": 61,
+    "Minimalist": 58,
+    "Moddable": 53,
+    "Mature": 50,
+    "Drama": 49
+  }
+}

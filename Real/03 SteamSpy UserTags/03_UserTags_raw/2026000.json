@@ -1,0 +1,26 @@
+{
+  "appid": 2026000,
+  "success": true,
+  "tags": {
+    "Turn-Based Tactics": 144,
+    "Management": 137,
+    "Party-Based RPG": 134,
+    "Character Customization": 130,
+    "RPG": 121,
+    "2D": 111,
+    "Turn-Based Strategy": 110,
+    "Anime": 101,
+    "Indie": 95,
+    "Dungeon Crawler": 91,
+    "Fantasy": 78,
+    "Hand-drawn": 77,
+    "Strategy": 72,
+    "Class-Based": 65,
+    "Turn-Based Combat": 60,
+    "Singleplayer": 55,
+    "Tactical": 52,
+    "Tactical RPG": 45,
+    "Strategy RPG": 38,
+    "Old School": 34
+  }
+}

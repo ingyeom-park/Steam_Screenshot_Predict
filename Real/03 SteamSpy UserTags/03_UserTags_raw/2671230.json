@@ -1,0 +1,26 @@
+{
+  "appid": 2671230,
+  "success": true,
+  "tags": {
+    "Metroidvania": 155,
+    "Side Scroller": 145,
+    "Exploration": 142,
+    "2D Platformer": 138,
+    "Martial Arts": 132,
+    "Platformer": 128,
+    "2D": 125,
+    "Action RPG": 123,
+    "Cyberpunk": 121,
+    "Action": 118,
+    "Pixel Graphics": 116,
+    "Dystopian ": 101,
+    "Ninja": 98,
+    "Demons": 94,
+    "Sci-fi": 93,
+    "Mystery": 82,
+    "Atmospheric": 80,
+    "Futuristic": 71,
+    "Singleplayer": 66,
+    "Indie": 56
+  }
+}

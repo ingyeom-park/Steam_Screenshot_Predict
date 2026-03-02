@@ -1,0 +1,26 @@
+{
+  "appid": 572430,
+  "success": true,
+  "tags": {
+    "Indie": 119,
+    "Violent": 112,
+    "Action": 100,
+    "Pixel Graphics": 100,
+    "Stealth": 97,
+    "Strategy": 90,
+    "Simulation": 73,
+    "Great Soundtrack": 69,
+    "Singleplayer": 66,
+    "Adventure": 66,
+    "Psychedelic": 51,
+    "Difficult": 50,
+    "Funny": 50,
+    "Top-Down": 47,
+    "Villain Protagonist": 47,
+    "Tactical": 44,
+    "Multiplayer": 44,
+    "Music": 43,
+    "Gore": 41,
+    "Co-op": 37
+  }
+}

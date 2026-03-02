@@ -1,0 +1,23 @@
+{
+  "appid": 983450,
+  "success": true,
+  "tags": {
+    "Strategy": 74,
+    "Indie": 62,
+    "Card Game": 49,
+    "Puzzle": 45,
+    "Fantasy": 39,
+    "Card Battler": 32,
+    "Board Game": 32,
+    "2D": 29,
+    "Hand-drawn": 27,
+    "Local Multiplayer": 25,
+    "Singleplayer": 23,
+    "Magic": 21,
+    "Adventure": 21,
+    "PvP": 19,
+    "Artificial Intelligence": 16,
+    "PvE": 15,
+    "Turn-Based Combat": 13
+  }
+}

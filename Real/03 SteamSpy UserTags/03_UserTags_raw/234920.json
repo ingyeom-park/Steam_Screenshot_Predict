@@ -1,0 +1,16 @@
+{
+  "appid": 234920,
+  "success": true,
+  "tags": {
+    "Adventure": 44,
+    "Indie": 42,
+    "Casual": 34,
+    "Simulation": 33,
+    "Choose Your Own Adventure": 32,
+    "Choices Matter": 25,
+    "Survival": 21,
+    "Female Protagonist": 14,
+    "Singleplayer": 10,
+    "Multiple Endings": 6
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appid": 2541310,
+  "success": true,
+  "tags": {
+    "Strategy": 95,
+    "Simulation": 89,
+    "Puzzle": 85,
+    "Casual": 82,
+    "Management": 79,
+    "Minimalist": 73,
+    "Top-Down": 71,
+    "Singleplayer": 69,
+    "Rogue-like": 67,
+    "3D": 65,
+    "Stylized": 63,
+    "Procedural Generation": 61,
+    "Family Friendly": 59,
+    "Funny": 57,
+    "Building": 55,
+    "Economy": 53,
+    "Choices Matter": 51,
+    "Tutorial": 49,
+    "Indie": 47
+  }
+}

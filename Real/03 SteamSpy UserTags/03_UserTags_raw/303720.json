@@ -1,0 +1,26 @@
+{
+  "appid": 303720,
+  "success": true,
+  "tags": {
+    "Action": 137,
+    "Indie": 130,
+    "Twin Stick Shooter": 128,
+    "Zombies": 125,
+    "Co-op": 122,
+    "Shooter": 115,
+    "Shoot 'Em Up": 112,
+    "Top-Down Shooter": 109,
+    "Bullet Hell": 105,
+    "Third Person": 102,
+    "Hex Grid": 99,
+    "Local Co-Op": 94,
+    "Action Roguelike": 90,
+    "Arcade": 86,
+    "Arena Shooter": 79,
+    "Top-Down": 76,
+    "3D": 74,
+    "Choices Matter": 71,
+    "Female Protagonist": 62,
+    "PvE": 61
+  }
+}

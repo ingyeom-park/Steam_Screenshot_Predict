@@ -1,0 +1,26 @@
+{
+  "appid": 710070,
+  "success": true,
+  "tags": {
+    "Horror": 238,
+    "Atmospheric": 232,
+    "Psychological Horror": 229,
+    "Indie": 226,
+    "Retro": 223,
+    "Multiple Endings": 217,
+    "First-Person": 216,
+    "Adventure": 213,
+    "Lovecraftian": 211,
+    "Exploration": 206,
+    "Pixel Graphics": 200,
+    "Survival Horror": 195,
+    "Mystery": 191,
+    "Stealth": 188,
+    "Violent": 184,
+    "Singleplayer": 177,
+    "Mature": 169,
+    "Walking Simulator": 166,
+    "3D": 164,
+    "Dark": 162
+  }
+}

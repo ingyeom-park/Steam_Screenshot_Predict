@@ -1,0 +1,26 @@
+{
+  "appid": 811320,
+  "success": true,
+  "tags": {
+    "Rogue-like": 155,
+    "Turn-Based": 71,
+    "Strategy": 65,
+    "Traditional Roguelike": 65,
+    "RPG": 61,
+    "Indie": 57,
+    "Grid-Based Movement": 45,
+    "Gore": 42,
+    "Violent": 35,
+    "Sci-fi": 31,
+    "Horror": 30,
+    "Procedural Generation": 21,
+    "Singleplayer": 17,
+    "Replay Value": 15,
+    "Top-Down": 15,
+    "Perma Death": 12,
+    "Turn-Based Combat": 12,
+    "Great Soundtrack": 7,
+    "Shooter": 7,
+    "Demons": 6
+  }
+}

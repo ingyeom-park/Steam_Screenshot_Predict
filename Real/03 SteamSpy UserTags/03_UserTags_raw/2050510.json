@@ -1,0 +1,26 @@
+{
+  "appid": 2050510,
+  "success": true,
+  "tags": {
+    "Tower Defense": 204,
+    "2D": 198,
+    "Strategy": 194,
+    "Casual": 190,
+    "Building": 187,
+    "RTS": 178,
+    "Singleplayer": 174,
+    "Cartoon": 172,
+    "2D Platformer": 167,
+    "Historical": 161,
+    "Medieval": 157,
+    "Indie": 153,
+    "Adventure": 151,
+    "Drama": 146,
+    "Combat": 143,
+    "War": 141,
+    "Simulation": 139,
+    "Wargame": 136,
+    "Hand-drawn": 134,
+    "Management": 131
+  }
+}

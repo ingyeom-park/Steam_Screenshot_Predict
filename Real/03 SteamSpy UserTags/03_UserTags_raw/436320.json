@@ -1,0 +1,26 @@
+{
+  "appid": 436320,
+  "success": true,
+  "tags": {
+    "VR": 239,
+    "Action": 234,
+    "Shoot 'Em Up": 229,
+    "Co-op": 225,
+    "Multiplayer": 222,
+    "Strategy": 216,
+    "Sci-fi": 214,
+    "FPS": 211,
+    "Shooter": 207,
+    "Co-op Campaign": 206,
+    "Singleplayer": 202,
+    "Robots": 199,
+    "PvP": 197,
+    "Hero Shooter": 191,
+    "Arcade": 188,
+    "Cyberpunk": 188,
+    "Online Co-Op": 178,
+    "6DOF": 170,
+    "Indie": 160,
+    "Futuristic": 151
+  }
+}

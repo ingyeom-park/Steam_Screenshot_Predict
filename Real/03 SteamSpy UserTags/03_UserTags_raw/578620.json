@@ -1,0 +1,25 @@
+{
+  "appid": 578620,
+  "success": true,
+  "tags": {
+    "VR": 156,
+    "Action": 130,
+    "Violent": 116,
+    "3D Fighter": 113,
+    "Gore": 104,
+    "Indie": 100,
+    "Funny": 72,
+    "Fighting": 67,
+    "Blood": 61,
+    "First-Person": 50,
+    "Singleplayer": 45,
+    "Early Access": 40,
+    "Swordplay": 34,
+    "Local Multiplayer": 30,
+    "Medieval": 24,
+    "Moddable": 15,
+    "Horror": 8,
+    "Nudity": 6,
+    "Asymmetric VR": 5
+  }
+}

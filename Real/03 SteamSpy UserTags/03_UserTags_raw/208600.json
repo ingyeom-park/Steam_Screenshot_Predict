@@ -1,0 +1,17 @@
+{
+  "appid": 208600,
+  "success": true,
+  "tags": {
+    "Simulation": 91,
+    "VR": 63,
+    "Space": 53,
+    "Indie": 50,
+    "Flight": 35,
+    "Physics": 32,
+    "Realistic": 25,
+    "Multiplayer": 12,
+    "Singleplayer": 12,
+    "Difficult": 10,
+    "TrackIR": 6
+  }
+}

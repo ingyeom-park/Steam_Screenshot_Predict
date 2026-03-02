@@ -1,0 +1,26 @@
+{
+  "appid": 2415540,
+  "success": true,
+  "tags": {
+    "Indie": 222,
+    "Adventure": 218,
+    "Puzzle": 213,
+    "Point & Click": 207,
+    "Horror": 191,
+    "Psychological Horror": 181,
+    "Hidden Object": 172,
+    "Mystery": 166,
+    "Clicker": 156,
+    "2D": 148,
+    "Hand-drawn": 138,
+    "Dark": 126,
+    "Story Rich": 124,
+    "Multiple Endings": 110,
+    "Casual": 99,
+    "Singleplayer": 97,
+    "Dark Comedy": 61,
+    "Gore": 44,
+    "Surreal": 43,
+    "Atmospheric": 27
+  }
+}

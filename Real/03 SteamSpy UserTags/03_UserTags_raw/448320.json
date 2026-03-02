@@ -1,0 +1,26 @@
+{
+  "appid": 448320,
+  "success": true,
+  "tags": {
+    "Zombies": 232,
+    "Shoot 'Em Up": 223,
+    "Side Scroller": 218,
+    "Base-Building": 216,
+    "4 Player Local": 210,
+    "Co-op": 203,
+    "Shooter": 197,
+    "Arcade": 194,
+    "Character Customization": 194,
+    "2D": 193,
+    "Controller": 182,
+    "Action": 180,
+    "Cartoony": 177,
+    "Adventure": 170,
+    "Combat": 159,
+    "Online Co-Op": 154,
+    "Singleplayer": 148,
+    "Indie": 143,
+    "Violent": 142,
+    "Werewolves": 123
+  }
+}

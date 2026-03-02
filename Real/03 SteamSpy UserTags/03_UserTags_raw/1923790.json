@@ -1,0 +1,23 @@
+{
+  "appid": 1923790,
+  "success": true,
+  "tags": {
+    "Casual": 70,
+    "Puzzle": 59,
+    "Strategy": 52,
+    "Relaxing": 46,
+    "Sokoban": 42,
+    "Exploration": 42,
+    "2D": 32,
+    "Top-Down": 30,
+    "Nonlinear": 26,
+    "Abstract": 26,
+    "Minimalist": 25,
+    "Indie": 23,
+    "Logic": 21,
+    "Stylized": 20,
+    "Grid-Based Movement": 17,
+    "Sci-fi": 17,
+    "Singleplayer": 14
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2143050,
+  "success": true,
+  "tags": {
+    "RPG": 118,
+    "Puzzle": 110,
+    "Mystery": 102,
+    "Thriller": 95,
+    "Psychological Horror": 90,
+    "Horror": 78,
+    "Pixel Graphics": 72,
+    "Female Protagonist": 72,
+    "Hidden Object": 65,
+    "2D": 64,
+    "Detective": 61,
+    "Indie": 61,
+    "Story Rich": 56,
+    "1990's": 53,
+    "Singleplayer": 50,
+    "RPGMaker": 45,
+    "Adventure": 40,
+    "Interactive Fiction": 37,
+    "JRPG": 36,
+    "Visual Novel": 35
+  }
+}

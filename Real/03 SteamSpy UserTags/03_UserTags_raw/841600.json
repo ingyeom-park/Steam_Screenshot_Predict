@@ -1,0 +1,26 @@
+{
+  "appid": 841600,
+  "success": true,
+  "tags": {
+    "Rogue-like": 131,
+    "Platformer": 125,
+    "Metroidvania": 121,
+    "Souls-like": 116,
+    "Side Scroller": 112,
+    "Roguevania": 106,
+    "Pixel Graphics": 103,
+    "Rogue-lite": 100,
+    "Procedural Generation": 98,
+    "Difficult": 96,
+    "Retro": 94,
+    "Action Roguelike": 91,
+    "Action": 86,
+    "Adventure": 82,
+    "Singleplayer": 78,
+    "Indie": 74,
+    "2D": 62,
+    "Replay Value": 56,
+    "Perma Death": 54,
+    "Great Soundtrack": 41
+  }
+}

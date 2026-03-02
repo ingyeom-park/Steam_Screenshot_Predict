@@ -1,0 +1,20 @@
+{
+  "appid": 325520,
+  "success": true,
+  "tags": {
+    "Adventure": 50,
+    "Casual": 39,
+    "Indie": 32,
+    "Point & Click": 26,
+    "Puzzle": 24,
+    "2D": 12,
+    "Funny": 12,
+    "Comedy": 10,
+    "Short": 9,
+    "Great Soundtrack": 6,
+    "Singleplayer": 6,
+    "Family Friendly": 6,
+    "Exploration": 5,
+    "Cute": 5
+  }
+}

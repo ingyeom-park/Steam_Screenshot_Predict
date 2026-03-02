@@ -1,0 +1,26 @@
+{
+  "appid": 1343750,
+  "success": true,
+  "tags": {
+    "VR": 136,
+    "Casual": 129,
+    "Asynchronous Multiplayer": 125,
+    "Racing": 123,
+    "Singleplayer": 119,
+    "Flight": 114,
+    "Arcade": 111,
+    "Futuristic": 108,
+    "Third Person": 100,
+    "Driving": 94,
+    "Sports": 92,
+    "Action": 88,
+    "Indie": 81,
+    "Soundtrack": 75,
+    "e-sports": 71,
+    "Sci-fi": 69,
+    "PvP": 63,
+    "Music": 59,
+    "Massively Multiplayer": 53,
+    "Physics": 32
+  }
+}

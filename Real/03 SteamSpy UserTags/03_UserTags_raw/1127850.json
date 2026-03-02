@@ -1,0 +1,26 @@
+{
+  "appid": 1127850,
+  "success": true,
+  "tags": {
+    "Indie": 219,
+    "Action": 214,
+    "Adventure": 210,
+    "Gore": 204,
+    "Pixel Graphics": 200,
+    "2D": 194,
+    "Retro": 190,
+    "Short": 188,
+    "Singleplayer": 182,
+    "Action RPG": 178,
+    "Action-Adventure": 172,
+    "Exploration": 170,
+    "Controller": 165,
+    "Cute": 163,
+    "Violent": 162,
+    "Hack and Slash": 162,
+    "Dark": 157,
+    "Side Scroller": 156,
+    "Atmospheric": 150,
+    "Mystery": 140
+  }
+}

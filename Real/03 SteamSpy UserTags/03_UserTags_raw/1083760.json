@@ -1,0 +1,26 @@
+{
+  "appid": 1083760,
+  "success": true,
+  "tags": {
+    "CRPG": 229,
+    "Tactical RPG": 219,
+    "Turn-Based Tactics": 218,
+    "Party-Based RPG": 215,
+    "Exploration": 211,
+    "Character Customization": 205,
+    "2D": 203,
+    "RPG": 203,
+    "Isometric": 199,
+    "Fantasy": 195,
+    "Open World": 188,
+    "Lore-Rich": 184,
+    "Turn-Based Combat": 180,
+    "Choices Matter": 172,
+    "Dungeon Crawler": 168,
+    "Dungeons & Dragons": 166,
+    "Pixel Graphics": 165,
+    "Tutorial": 162,
+    "Singleplayer": 160,
+    "Indie": 157
+  }
+}

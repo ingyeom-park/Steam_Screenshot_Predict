@@ -1,0 +1,23 @@
+{
+  "appid": 368180,
+  "success": true,
+  "tags": {
+    "Racing": 106,
+    "Indie": 100,
+    "Action": 96,
+    "Simulation": 90,
+    "Casual": 82,
+    "3D Platformer": 52,
+    "Physics": 46,
+    "Platformer": 39,
+    "Difficult": 39,
+    "Time Attack": 36,
+    "Fast-Paced": 35,
+    "Controller": 30,
+    "Arcade": 25,
+    "Multiplayer": 21,
+    "Singleplayer": 14,
+    "Classic": 14,
+    "Early Access": 6
+  }
+}

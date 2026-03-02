@@ -1,0 +1,26 @@
+{
+  "appid": 332800,
+  "success": true,
+  "tags": {
+    "Horror": 2435,
+    "Singleplayer": 1726,
+    "Survival Horror": 1634,
+    "Robots": 1545,
+    "Psychological Horror": 1492,
+    "Difficult": 1475,
+    "First-Person": 1231,
+    "Indie": 1177,
+    "Dark": 1176,
+    "Survival": 1133,
+    "Point & Click": 1060,
+    "Strategy": 1032,
+    "Atmospheric": 702,
+    "Story Rich": 570,
+    "Mystery": 481,
+    "Fast-Paced": 408,
+    "Jump Scare": 363,
+    "Resource Management": 331,
+    "Historical": 152,
+    "Perma Death": 134
+  }
+}

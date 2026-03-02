@@ -1,0 +1,26 @@
+{
+  "appid": 740080,
+  "success": true,
+  "tags": {
+    "Indie": 116,
+    "Action": 99,
+    "Rogue-lite": 92,
+    "Casual": 90,
+    "Action Roguelike": 88,
+    "Strategy": 86,
+    "Zombies": 83,
+    "Pixel Graphics": 58,
+    "Survival": 51,
+    "Post-apocalyptic": 38,
+    "Difficult": 33,
+    "Singleplayer": 26,
+    "Procedural Generation": 26,
+    "Perma Death": 23,
+    "Comedy": 22,
+    "Retro": 22,
+    "Addictive": 22,
+    "Early Access": 16,
+    "Tactical": 15,
+    "Rogue-like": 14
+  }
+}

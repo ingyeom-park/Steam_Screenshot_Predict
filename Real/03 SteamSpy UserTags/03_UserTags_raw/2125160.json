@@ -1,0 +1,26 @@
+{
+  "appid": 2125160,
+  "success": true,
+  "tags": {
+    "RPG": 117,
+    "Detective": 111,
+    "Strategy": 108,
+    "Casual": 103,
+    "Simulation": 100,
+    "Indie": 92,
+    "Multiplayer": 87,
+    "Social Deduction": 78,
+    "Co-op": 75,
+    "First-Person": 72,
+    "Cute": 69,
+    "Online Co-Op": 67,
+    "Tactical RPG": 63,
+    "Choose Your Own Adventure": 55,
+    "PvP": 50,
+    "Strategy RPG": 46,
+    "Quick-Time Events": 41,
+    "Team-Based": 34,
+    "Singleplayer": 30,
+    "Local Multiplayer": 28
+  }
+}

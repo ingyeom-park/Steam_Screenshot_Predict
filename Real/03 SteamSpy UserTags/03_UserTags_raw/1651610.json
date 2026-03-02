@@ -1,0 +1,26 @@
+{
+  "appid": 1651610,
+  "success": true,
+  "tags": {
+    "Souls-like": 108,
+    "Indie": 103,
+    "Action-Adventure": 100,
+    "Exploration": 98,
+    "Metroidvania": 95,
+    "Dungeon Crawler": 90,
+    "Action RPG": 86,
+    "RPG": 83,
+    "2D": 81,
+    "Third Person": 77,
+    "Pixel Graphics": 74,
+    "Action": 74,
+    "Fantasy": 62,
+    "Dark Fantasy": 60,
+    "Magic": 57,
+    "Medieval": 55,
+    "Atmospheric": 53,
+    "Adventure": 50,
+    "Dark": 29,
+    "Singleplayer": 28
+  }
+}

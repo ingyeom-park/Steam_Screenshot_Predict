@@ -1,0 +1,26 @@
+{
+  "appid": 1205900,
+  "success": true,
+  "tags": {
+    "Metroidvania": 180,
+    "2D Platformer": 171,
+    "Puzzle-Platformer": 166,
+    "Exploration": 161,
+    "Platformer": 159,
+    "Pixel Graphics": 157,
+    "Action-Adventure": 155,
+    "Female Protagonist": 149,
+    "Indie": 143,
+    "Retro": 141,
+    "2D": 138,
+    "Fantasy": 135,
+    "Cute": 135,
+    "Magic": 127,
+    "Adventure": 120,
+    "Action": 74,
+    "Singleplayer": 50,
+    "Colorful": 48,
+    "Soundtrack": 46,
+    "Old School": 44
+  }
+}

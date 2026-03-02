@@ -1,0 +1,26 @@
+{
+  "appid": 1273250,
+  "success": true,
+  "tags": {
+    "Casual": 441,
+    "Arcade": 414,
+    "Score Attack": 409,
+    "Twin Stick Shooter": 406,
+    "Colorful": 400,
+    "Retro": 394,
+    "Fast-Paced": 389,
+    "Space": 384,
+    "2D": 383,
+    "Top-Down": 381,
+    "Top-Down Shooter": 378,
+    "Difficult": 376,
+    "Sci-fi": 372,
+    "Action": 369,
+    "Hack and Slash": 364,
+    "Shooter": 362,
+    "Shoot 'Em Up": 358,
+    "Futuristic": 348,
+    "Indie": 345,
+    "Controller": 343
+  }
+}

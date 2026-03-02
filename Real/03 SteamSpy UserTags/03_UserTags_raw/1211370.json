@@ -1,0 +1,20 @@
+{
+  "appid": 1211370,
+  "success": true,
+  "tags": {
+    "Casual": 70,
+    "Action": 65,
+    "Family Friendly": 45,
+    "Multiplayer": 43,
+    "Funny": 38,
+    "Cute": 36,
+    "Indie": 31,
+    "3D Fighter": 30,
+    "PvP": 29,
+    "PvE": 29,
+    "Colorful": 24,
+    "Singleplayer": 21,
+    "3D Platformer": 17,
+    "3D": 16
+  }
+}

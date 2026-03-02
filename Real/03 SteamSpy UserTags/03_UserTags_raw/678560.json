@@ -1,0 +1,26 @@
+{
+  "appid": 678560,
+  "success": true,
+  "tags": {
+    "CRPG": 128,
+    "Martial Arts": 122,
+    "JRPG": 119,
+    "RPG": 116,
+    "Third Person": 113,
+    "3D": 107,
+    "Top-Down": 105,
+    "Alternate History": 103,
+    "Turn-Based Combat": 102,
+    "Base-Building": 94,
+    "Fantasy": 92,
+    "Drama": 86,
+    "Singleplayer": 80,
+    "Indie": 77,
+    "Adventure": 65,
+    "Steampunk": 53,
+    "Foreign": 42,
+    "Illuminati": 34,
+    "Puzzle": 32,
+    "Story Rich": 27
+  }
+}

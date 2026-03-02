@@ -1,0 +1,23 @@
+{
+  "appid": 1399300,
+  "success": true,
+  "tags": {
+    "Casual": 70,
+    "Sokoban": 65,
+    "Puzzle": 46,
+    "Arcade": 40,
+    "Puzzle-Platformer": 37,
+    "Turn-Based Tactics": 34,
+    "Minimalist": 28,
+    "Top-Down": 27,
+    "Pixel Graphics": 23,
+    "Colorful": 21,
+    "Indie": 21,
+    "Mystery": 19,
+    "Linear": 17,
+    "Singleplayer": 16,
+    "Cute": 11,
+    "Beautiful": 11,
+    "LGBTQ+": 9
+  }
+}

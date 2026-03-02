@@ -1,0 +1,16 @@
+{
+  "appid": 485490,
+  "success": true,
+  "tags": {
+    "Casual": 93,
+    "RPG": 30,
+    "Indie": 29,
+    "Action": 26,
+    "Adventure": 24,
+    "Simulation": 22,
+    "Dungeon Crawler": 7,
+    "Rogue-like": 5,
+    "2D": 5,
+    "Singleplayer": 5
+  }
+}

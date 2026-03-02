@@ -1,0 +1,23 @@
+{
+  "appid": 492500,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 72,
+    "RPG": 67,
+    "Grid-Based Movement": 56,
+    "Action": 53,
+    "First-Person": 53,
+    "Indie": 51,
+    "Adventure": 49,
+    "Party-Based RPG": 46,
+    "Fantasy": 41,
+    "Magic": 36,
+    "Singleplayer": 31,
+    "Real-Time": 30,
+    "Retro": 23,
+    "Atmospheric": 21,
+    "Character Customization": 21,
+    "Turn-Based Combat": 10,
+    "Turn-Based": 7
+  }
+}

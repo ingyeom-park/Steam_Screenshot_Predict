@@ -1,0 +1,26 @@
+{
+  "appid": 674750,
+  "success": true,
+  "tags": {
+    "Zombies": 177,
+    "Top-Down Shooter": 164,
+    "Tower Defense": 161,
+    "Violent": 160,
+    "Gore": 153,
+    "Strategy": 151,
+    "Shooter": 141,
+    "Arena Shooter": 135,
+    "Base-Building": 132,
+    "Twin Stick Shooter": 122,
+    "Isometric": 121,
+    "Survival": 118,
+    "Action": 116,
+    "Co-op": 113,
+    "Multiplayer": 111,
+    "Indie": 97,
+    "Online Co-Op": 92,
+    "Local Multiplayer": 80,
+    "4 Player Local": 76,
+    "Local Co-Op": 70
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2454060,
+  "success": true,
+  "tags": {
+    "Adventure": 200,
+    "Exploration": 195,
+    "First-Person": 192,
+    "Cute": 190,
+    "Walking Simulator": 187,
+    "Hidden Object": 177,
+    "3D Platformer": 174,
+    "Puzzle": 169,
+    "Puzzle-Platformer": 161,
+    "3D": 151,
+    "Atmospheric": 140,
+    "Story Rich": 127,
+    "Psychological Horror": 113,
+    "Surreal": 101,
+    "Singleplayer": 87,
+    "Controller": 84,
+    "Psychological": 66,
+    "Casual": 50,
+    "Indie": 48,
+    "Nudity": 27
+  }
+}

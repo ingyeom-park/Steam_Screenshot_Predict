@@ -1,0 +1,26 @@
+{
+  "appid": 1229240,
+  "success": true,
+  "tags": {
+    "RPG": 194,
+    "Pixel Graphics": 127,
+    "Turn-Based": 121,
+    "Indie": 116,
+    "JRPG": 107,
+    "Turn-Based Combat": 70,
+    "Retro": 48,
+    "2D": 45,
+    "Exploration": 42,
+    "Story Rich": 38,
+    "Mechs": 34,
+    "Party-Based RPG": 29,
+    "Fantasy": 27,
+    "Open World": 21,
+    "Anime": 18,
+    "Singleplayer": 17,
+    "Great Soundtrack": 15,
+    "Adventure": 14,
+    "Character Customization": 8,
+    "Old School": 5
+  }
+}

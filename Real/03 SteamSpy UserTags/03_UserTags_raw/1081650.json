@@ -1,0 +1,26 @@
+{
+  "appid": 1081650,
+  "success": true,
+  "tags": {
+    "Parkour": 136,
+    "Precision Platformer": 130,
+    "3D Platformer": 127,
+    "First-Person": 123,
+    "Runner": 119,
+    "Racing": 112,
+    "Level Editor": 107,
+    "Multiplayer": 105,
+    "Action": 102,
+    "Time Attack": 101,
+    "Colorful": 99,
+    "Stylized": 96,
+    "Platformer": 93,
+    "Singleplayer": 85,
+    "Fast-Paced": 82,
+    "Abstract": 75,
+    "Minimalist": 70,
+    "Competitive": 64,
+    "FPS": 58,
+    "Indie": 55
+  }
+}

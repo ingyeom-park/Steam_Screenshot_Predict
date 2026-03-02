@@ -1,0 +1,26 @@
+{
+  "appid": 242680,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 565,
+    "Rogue-like": 535,
+    "Pixel Graphics": 386,
+    "Indie": 384,
+    "Difficult": 376,
+    "Bullet Hell": 364,
+    "Action": 317,
+    "Rogue-lite": 289,
+    "Top-Down Shooter": 264,
+    "Great Soundtrack": 223,
+    "Post-apocalyptic": 196,
+    "Shooter": 181,
+    "Local Co-Op": 180,
+    "Top-Down": 158,
+    "Singleplayer": 157,
+    "2D": 156,
+    "Twin Stick Shooter": 143,
+    "Perma Death": 136,
+    "RPG": 116,
+    "Local Multiplayer": 98
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1321010,
+  "success": true,
+  "tags": {
+    "Hack and Slash": 143,
+    "Action RPG": 136,
+    "Dungeon Crawler": 134,
+    "Pixel Graphics": 130,
+    "RPG": 128,
+    "Procedural Generation": 119,
+    "Local Multiplayer": 115,
+    "Local Co-Op": 113,
+    "Action": 109,
+    "Indie": 106,
+    "Co-op": 103,
+    "Fantasy": 101,
+    "Old School": 96,
+    "Singleplayer": 92,
+    "Multiplayer": 86,
+    "2D": 81,
+    "Controller": 72,
+    "Adventure": 57,
+    "Rogue-like": 49,
+    "Rogue-lite": 43
+  }
+}

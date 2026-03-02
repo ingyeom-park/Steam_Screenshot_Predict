@@ -1,0 +1,26 @@
+{
+  "appid": 261510,
+  "success": true,
+  "tags": {
+    "FMV": 126,
+    "Adventure": 122,
+    "Detective": 111,
+    "Noir": 105,
+    "Cyberpunk": 92,
+    "Mystery": 70,
+    "Indie": 59,
+    "First-Person": 51,
+    "Atmospheric": 47,
+    "Multiple Endings": 44,
+    "Dystopian ": 43,
+    "Comedy": 35,
+    "Cinematic": 33,
+    "Surreal": 31,
+    "Nonlinear": 31,
+    "Dynamic Narration": 31,
+    "Difficult": 29,
+    "Mouse only": 28,
+    "Point & Click": 17,
+    "Sci-fi": 16
+  }
+}

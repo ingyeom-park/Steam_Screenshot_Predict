@@ -1,0 +1,22 @@
+{
+  "appid": 395160,
+  "success": true,
+  "tags": {
+    "Indie": 42,
+    "Adventure": 36,
+    "Platformer": 26,
+    "Singleplayer": 24,
+    "Atmospheric": 22,
+    "Side Scroller": 21,
+    "2D": 20,
+    "Dark": 20,
+    "Surreal": 19,
+    "Puzzle": 18,
+    "Puzzle-Platformer": 18,
+    "Action": 16,
+    "Casual": 15,
+    "Controller": 15,
+    "Horror": 13,
+    "Difficult": 13
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 965820,
+  "success": true,
+  "tags": {
+    "JRPG": 113,
+    "RPG": 107,
+    "Story Rich": 103,
+    "Funny": 99,
+    "Adventure": 96,
+    "Anime": 87,
+    "Indie": 80,
+    "Fantasy": 74,
+    "Pixel Graphics": 68,
+    "Casual": 68,
+    "CRPG": 60,
+    "RPGMaker": 60,
+    "2D": 58,
+    "Singleplayer": 55,
+    "Drama": 49,
+    "Turn-Based": 47,
+    "Turn-Based Combat": 44,
+    "Retro": 39,
+    "Cute": 35,
+    "Foreign": 33
+  }
+}

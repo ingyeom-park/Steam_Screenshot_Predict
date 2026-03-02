@@ -1,0 +1,12 @@
+{
+  "appid": 80300,
+  "success": true,
+  "tags": {
+    "Adventure": 33,
+    "Indie": 24,
+    "Puzzle": 20,
+    "Point & Click": 18,
+    "Singleplayer": 8,
+    "Robots": 8
+  }
+}

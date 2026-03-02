@@ -1,0 +1,16 @@
+{
+  "appid": 482300,
+  "success": true,
+  "tags": {
+    "Adventure": 50,
+    "Indie": 47,
+    "Horror": 42,
+    "Atmospheric": 34,
+    "Simulation": 33,
+    "Walking Simulator": 33,
+    "Post-apocalyptic": 20,
+    "Violent": 20,
+    "Singleplayer": 15,
+    "First-Person": 12
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 618140,
+  "success": true,
+  "tags": {
+    "Indie": 129,
+    "Racing": 123,
+    "Sports": 119,
+    "Multiplayer": 118,
+    "PvP": 113,
+    "Arcade": 107,
+    "Driving": 102,
+    "Simulation": 99,
+    "Automobile Sim": 98,
+    "Time Attack": 96,
+    "Local Multiplayer": 87,
+    "Immersive Sim": 84,
+    "Singleplayer": 80,
+    "Split Screen": 76,
+    "Casual": 67,
+    "Trading Card Game": 54,
+    "Cartoony": 50,
+    "Local Co-Op": 45,
+    "Adventure": 40,
+    "Cartoon": 34
+  }
+}

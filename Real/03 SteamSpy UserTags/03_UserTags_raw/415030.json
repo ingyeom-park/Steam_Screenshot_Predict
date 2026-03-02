@@ -1,0 +1,22 @@
+{
+  "appid": 415030,
+  "success": true,
+  "tags": {
+    "RPG": 88,
+    "Action Roguelike": 78,
+    "Dungeon Crawler": 77,
+    "Indie": 63,
+    "Action": 62,
+    "Rogue-like": 59,
+    "FPS": 58,
+    "Pixel Graphics": 57,
+    "First-Person": 39,
+    "Rogue-lite": 39,
+    "Retro": 31,
+    "Singleplayer": 27,
+    "Loot": 18,
+    "Voxel": 9,
+    "Fantasy": 6,
+    "Procedural Generation": 5
+  }
+}

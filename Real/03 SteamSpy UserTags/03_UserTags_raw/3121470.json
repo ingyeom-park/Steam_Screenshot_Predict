@@ -1,0 +1,26 @@
+{
+  "appid": 3121470,
+  "success": true,
+  "tags": {
+    "Puzzle": 105,
+    "Adventure": 99,
+    "First-Person": 96,
+    "Logic": 93,
+    "Colorful": 90,
+    "Mystery": 82,
+    "Exploration": 78,
+    "Minimalist": 74,
+    "Stylized": 72,
+    "Indie": 69,
+    "Open World": 67,
+    "Atmospheric": 65,
+    "Walking Simulator": 63,
+    "Sci-fi": 61,
+    "3D": 59,
+    "Singleplayer": 53,
+    "Surreal": 47,
+    "Controller": 44,
+    "Comedy": 42,
+    "Nonlinear": 40
+  }
+}

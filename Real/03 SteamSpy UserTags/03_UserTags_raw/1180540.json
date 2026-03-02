@@ -1,0 +1,26 @@
+{
+  "appid": 1180540,
+  "success": true,
+  "tags": {
+    "Sokoban": 205,
+    "Puzzle": 200,
+    "Difficult": 197,
+    "Turn-Based": 190,
+    "Logic": 188,
+    "Isometric": 179,
+    "Strategy": 173,
+    "Cute": 172,
+    "Relaxing": 166,
+    "Controller": 156,
+    "Nonlinear": 149,
+    "Funny": 145,
+    "Casual": 142,
+    "Minimalist": 134,
+    "Colorful": 124,
+    "Family Friendly": 118,
+    "Grid-Based Movement": 114,
+    "Singleplayer": 102,
+    "Indie": 84,
+    "Great Soundtrack": 32
+  }
+}

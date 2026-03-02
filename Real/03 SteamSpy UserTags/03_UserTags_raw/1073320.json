@@ -1,0 +1,26 @@
+{
+  "appid": 1073320,
+  "success": true,
+  "tags": {
+    "Card Game": 137,
+    "Rogue-lite": 126,
+    "Deckbuilding": 123,
+    "Indie": 117,
+    "Strategy": 110,
+    "RPG": 104,
+    "Roguelike Deckbuilder": 99,
+    "Card Battler": 87,
+    "Cartoony": 70,
+    "Hand-drawn": 66,
+    "Dungeon Crawler": 65,
+    "Rogue-like": 62,
+    "Casual": 59,
+    "Puzzle": 58,
+    "Colorful": 53,
+    "Stylized": 46,
+    "Procedural Generation": 41,
+    "Singleplayer": 39,
+    "Sequel": 33,
+    "Early Access": 26
+  }
+}

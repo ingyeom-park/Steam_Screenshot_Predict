@@ -1,0 +1,26 @@
+{
+  "appid": 541930,
+  "success": true,
+  "tags": {
+    "VR": 269,
+    "Asymmetric VR": 262,
+    "Indie": 261,
+    "Local Multiplayer": 257,
+    "Party Game": 252,
+    "Stealth": 244,
+    "Runner": 242,
+    "Hidden Object": 239,
+    "Shooter": 236,
+    "Casual": 233,
+    "Action": 231,
+    "Family Friendly": 229,
+    "Atmospheric": 227,
+    "Stylized": 226,
+    "Dystopian ": 223,
+    "PvP": 217,
+    "First-Person": 202,
+    "3D": 191,
+    "Platformer": 184,
+    "6DOF": 173
+  }
+}

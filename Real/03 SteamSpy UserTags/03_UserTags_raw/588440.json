@@ -1,0 +1,26 @@
+{
+  "appid": 588440,
+  "success": true,
+  "tags": {
+    "FPS": 172,
+    "First-Person": 166,
+    "Multiplayer": 163,
+    "Indie": 160,
+    "Action": 156,
+    "Team-Based": 151,
+    "Casual": 147,
+    "PvP": 144,
+    "Zombies": 142,
+    "Shooter": 140,
+    "Arena Shooter": 136,
+    "4 Player Local": 133,
+    "Split Screen": 125,
+    "Local Multiplayer": 120,
+    "Controller": 113,
+    "Sports": 109,
+    "Singleplayer": 99,
+    "Character Customization": 86,
+    "Stylized": 84,
+    "Sniper": 82
+  }
+}

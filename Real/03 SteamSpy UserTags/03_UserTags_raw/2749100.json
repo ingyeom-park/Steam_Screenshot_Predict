@@ -1,0 +1,24 @@
+{
+  "appid": 2749100,
+  "success": true,
+  "tags": {
+    "City Builder": 176,
+    "Board Game": 171,
+    "Card Game": 166,
+    "Strategy": 165,
+    "Tabletop": 161,
+    "Turn-Based Strategy": 155,
+    "2D": 138,
+    "Post-apocalyptic": 130,
+    "Steampunk": 122,
+    "Deckbuilding": 113,
+    "Dark Fantasy": 102,
+    "Fantasy": 100,
+    "Management": 87,
+    "Hex Grid": 73,
+    "Building": 58,
+    "Resource Management": 43,
+    "Singleplayer": 27,
+    "Indie": 25
+  }
+}

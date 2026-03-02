@@ -1,0 +1,26 @@
+{
+  "appid": 2413640,
+  "success": true,
+  "tags": {
+    "Strategy": 158,
+    "Tower Defense": 152,
+    "Singleplayer": 148,
+    "2D": 146,
+    "Tactical": 140,
+    "Fantasy": 132,
+    "Casual": 130,
+    "Action": 128,
+    "Adventure": 126,
+    "Funny": 124,
+    "Indie": 121,
+    "Medieval": 117,
+    "Action-Adventure": 115,
+    "Touch-Friendly": 109,
+    "RPG": 96,
+    "Difficult": 82,
+    "Tactical RPG": 68,
+    "Pixel Graphics": 59,
+    "Top-Down": 56,
+    "War": 48
+  }
+}

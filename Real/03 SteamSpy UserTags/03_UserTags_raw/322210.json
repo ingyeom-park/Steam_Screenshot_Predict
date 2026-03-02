@@ -1,0 +1,26 @@
+{
+  "appid": 322210,
+  "success": true,
+  "tags": {
+    "Action": 120,
+    "Side Scroller": 105,
+    "2D": 100,
+    "Co-op": 93,
+    "Gore": 91,
+    "Zombies": 86,
+    "Shoot 'Em Up": 83,
+    "Indie": 76,
+    "Platformer": 74,
+    "Local Multiplayer": 72,
+    "Shooter": 65,
+    "Funny": 55,
+    "Arcade": 50,
+    "Comedy": 49,
+    "Cartoon": 48,
+    "4 Player Local": 47,
+    "Violent": 44,
+    "Great Soundtrack": 42,
+    "Classic": 41,
+    "Beat 'em up": 38
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 410340,
+  "success": true,
+  "tags": {
+    "Simulation": 248,
+    "Flight": 237,
+    "Racing": 205,
+    "Realistic": 198,
+    "First-Person": 190,
+    "Sports": 183,
+    "Multiplayer": 181,
+    "Immersive Sim": 163,
+    "Indie": 160,
+    "Early Access": 157,
+    "Crafting": 155,
+    "Level Editor": 150,
+    "Singleplayer": 144,
+    "Atmospheric": 133,
+    "Exploration": 127,
+    "Education": 116,
+    "3D": 110,
+    "Modern": 88,
+    "Parkour": 76,
+    "Science": 72
+  }
+}

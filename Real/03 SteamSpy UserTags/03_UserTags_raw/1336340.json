@@ -1,0 +1,26 @@
+{
+  "appid": 1336340,
+  "success": true,
+  "tags": {
+    "Precision Platformer": 141,
+    "Puzzle-Platformer": 133,
+    "2D Platformer": 132,
+    "Pixel Graphics": 128,
+    "Cute": 124,
+    "Action-Adventure": 117,
+    "Fast-Paced": 116,
+    "Platformer": 112,
+    "2D": 108,
+    "Parkour": 100,
+    "Adventure": 98,
+    "Indie": 89,
+    "Old School": 83,
+    "Retro": 80,
+    "Singleplayer": 78,
+    "Puzzle": 75,
+    "Minimalist": 74,
+    "Stylized": 71,
+    "Linear": 69,
+    "Controller": 65
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "appid": 668210,
+  "success": true,
+  "tags": {
+    "Action": 51,
+    "Adventure": 51,
+    "Indie": 50,
+    "Casual": 44,
+    "Platformer": 44,
+    "Parkour": 41,
+    "2D": 37,
+    "Multiplayer": 28,
+    "Singleplayer": 27,
+    "Great Soundtrack": 26,
+    "Fast-Paced": 22,
+    "Stylized": 20,
+    "Side Scroller": 14,
+    "Hand-drawn": 14,
+    "Classic": 10,
+    "2D Platformer": 6
+  }
+}

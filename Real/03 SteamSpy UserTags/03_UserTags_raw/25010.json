@@ -1,0 +1,24 @@
+{
+  "appid": 25010,
+  "success": true,
+  "tags": {
+    "Action": 87,
+    "3D Fighter": 86,
+    "Indie": 55,
+    "Martial Arts": 53,
+    "Parkour": 51,
+    "Beat 'em up": 50,
+    "Singleplayer": 47,
+    "Fighting": 45,
+    "Difficult": 37,
+    "Adventure": 27,
+    "Open World": 26,
+    "Sandbox": 23,
+    "Atmospheric": 23,
+    "RPG": 23,
+    "Swordplay": 22,
+    "3D": 13,
+    "Third Person": 11,
+    "Gore": 5
+  }
+}

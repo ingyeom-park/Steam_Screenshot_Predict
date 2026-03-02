@@ -1,0 +1,26 @@
+{
+  "appid": 603420,
+  "success": true,
+  "tags": {
+    "Beat 'em up": 97,
+    "2D": 91,
+    "4 Player Local": 88,
+    "Platformer": 85,
+    "Action": 82,
+    "Adventure": 76,
+    "Indie": 74,
+    "Casual": 71,
+    "2D Fighter": 68,
+    "Dinosaurs": 68,
+    "Local Co-Op": 65,
+    "Side Scroller": 63,
+    "Co-op": 60,
+    "Arcade": 55,
+    "Female Protagonist": 51,
+    "Singleplayer": 47,
+    "Pixel Graphics": 43,
+    "Colorful": 39,
+    "Retro": 34,
+    "PvP": 32
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 733110,
+  "success": true,
+  "tags": {
+    "JRPG": 188,
+    "Story Rich": 177,
+    "Turn-Based": 174,
+    "Party-Based RPG": 171,
+    "RPG": 170,
+    "Exploration": 159,
+    "2D": 158,
+    "Turn-Based Combat": 150,
+    "Pixel Graphics": 148,
+    "Linear": 148,
+    "Fantasy": 139,
+    "Adventure": 135,
+    "Old School": 131,
+    "Retro": 127,
+    "Singleplayer": 116,
+    "Strategy": 113,
+    "Sequel": 110,
+    "RPGMaker": 110,
+    "Soundtrack": 108,
+    "Indie": 102
+  }
+}

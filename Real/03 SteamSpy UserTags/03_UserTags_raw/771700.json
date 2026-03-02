@@ -1,0 +1,26 @@
+{
+  "appid": 771700,
+  "success": true,
+  "tags": {
+    "Indie": 81,
+    "Adventure": 80,
+    "Action": 61,
+    "Puzzle-Platformer": 33,
+    "Metroidvania": 33,
+    "Atmospheric": 32,
+    "Puzzle": 31,
+    "Surreal": 30,
+    "Difficult": 22,
+    "Singleplayer": 22,
+    "Platformer": 22,
+    "Physics": 21,
+    "Side Scroller": 21,
+    "Dark": 21,
+    "Great Soundtrack": 20,
+    "Cute": 20,
+    "Beautiful": 20,
+    "Emotional": 20,
+    "Mystery": 20,
+    "2.5D": 13
+  }
+}

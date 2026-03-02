@@ -1,0 +1,24 @@
+{
+  "appid": 1610230,
+  "success": true,
+  "tags": {
+    "Interactive Fiction": 161,
+    "Visual Novel": 154,
+    "Puzzle": 150,
+    "Logic": 145,
+    "Detective": 139,
+    "Mystery": 130,
+    "Casual": 127,
+    "Story Rich": 122,
+    "Adventure": 117,
+    "Multiple Endings": 115,
+    "Strategy": 115,
+    "RPG": 103,
+    "Puzzle-Platformer": 70,
+    "2D": 56,
+    "Anime": 42,
+    "Drama": 27,
+    "Singleplayer": 25,
+    "Indie": 21
+  }
+}

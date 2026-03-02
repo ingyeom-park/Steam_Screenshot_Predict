@@ -1,0 +1,26 @@
+{
+  "appid": 773740,
+  "success": true,
+  "tags": {
+    "Experimental": 150,
+    "Rhythm": 146,
+    "Fast-Paced": 140,
+    "Music": 139,
+    "Level Editor": 135,
+    "Action": 128,
+    "Adventure": 126,
+    "First-Person": 125,
+    "Indie": 123,
+    "Difficult": 120,
+    "Casual": 118,
+    "Colorful": 115,
+    "Singleplayer": 110,
+    "Controller": 102,
+    "Games Workshop": 95,
+    "3D": 94,
+    "Sci-fi": 91,
+    "Alternate History": 88,
+    "FPS": 82,
+    "Minimalist": 75
+  }
+}

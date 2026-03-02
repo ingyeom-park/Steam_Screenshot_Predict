@@ -1,0 +1,26 @@
+{
+  "appid": 383230,
+  "success": true,
+  "tags": {
+    "RPG": 81,
+    "Action Roguelike": 78,
+    "Pixel Graphics": 77,
+    "Dungeon Crawler": 72,
+    "Indie": 64,
+    "Action": 61,
+    "Rogue-like": 61,
+    "Rogue-lite": 54,
+    "Adventure": 48,
+    "Hack and Slash": 44,
+    "2D": 32,
+    "Procedural Generation": 21,
+    "Singleplayer": 19,
+    "Perma Death": 18,
+    "Bullet Hell": 18,
+    "Top-Down": 14,
+    "Local Co-Op": 13,
+    "Loot": 13,
+    "Multiplayer": 12,
+    "Souls-like": 10
+  }
+}

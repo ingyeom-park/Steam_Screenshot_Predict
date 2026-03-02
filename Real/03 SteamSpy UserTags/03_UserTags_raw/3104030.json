@@ -1,0 +1,26 @@
+{
+  "appid": 3104030,
+  "success": true,
+  "tags": {
+    "Casual": 180,
+    "Software": 153,
+    "Interactive Fiction": 151,
+    "Visual Novel": 147,
+    "2D": 141,
+    "Abstract": 131,
+    "Hand-drawn": 123,
+    "Minimalist": 115,
+    "Stylized": 108,
+    "Atmospheric": 99,
+    "Dark": 96,
+    "Emotional": 85,
+    "Romance": 70,
+    "Choices Matter": 57,
+    "Controller": 41,
+    "Indie": 33,
+    "RPG": 33,
+    "Text-Based": 27,
+    "Singleplayer": 25,
+    "Music": 11
+  }
+}

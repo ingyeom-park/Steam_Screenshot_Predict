@@ -1,0 +1,20 @@
+{
+  "appid": 595780,
+  "success": true,
+  "tags": {
+    "Action": 99,
+    "Adventure": 76,
+    "RPG": 73,
+    "Indie": 70,
+    "Pixel Graphics": 52,
+    "RPGMaker": 46,
+    "2D": 43,
+    "Retro": 42,
+    "Action RPG": 38,
+    "CRPG": 36,
+    "Modern": 32,
+    "Linear": 30,
+    "Singleplayer": 28,
+    "Controller": 26
+  }
+}

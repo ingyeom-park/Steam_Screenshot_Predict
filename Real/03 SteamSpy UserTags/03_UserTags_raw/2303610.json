@@ -1,0 +1,25 @@
+{
+  "appid": 2303610,
+  "success": true,
+  "tags": {
+    "Adventure": 177,
+    "Action": 171,
+    "Exploration": 169,
+    "Futuristic": 163,
+    "Psychedelic": 159,
+    "Colorful": 146,
+    "Surreal": 146,
+    "Walking Simulator": 131,
+    "Action-Adventure": 123,
+    "Atmospheric": 114,
+    "3D Platformer": 103,
+    "Third Person": 102,
+    "3D": 89,
+    "Music-Based Procedural Generation": 73,
+    "Character Customization": 59,
+    "Controller": 42,
+    "Singleplayer": 28,
+    "Physics": 27,
+    "Indie": 23
+  }
+}

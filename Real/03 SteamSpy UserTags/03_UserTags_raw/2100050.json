@@ -1,0 +1,25 @@
+{
+  "appid": 2100050,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 137,
+    "Rogue-lite": 129,
+    "Rogue-like": 124,
+    "Action": 123,
+    "Survival": 119,
+    "Arcade": 113,
+    "Beat 'em up": 111,
+    "Bullet Hell": 107,
+    "Third Person": 100,
+    "Fantasy": 96,
+    "Magic": 90,
+    "Combat": 88,
+    "3D": 79,
+    "Colorful": 75,
+    "Pixel Graphics": 73,
+    "Stylized": 70,
+    "PvE": 65,
+    "Singleplayer": 61,
+    "Indie": 47
+  }
+}

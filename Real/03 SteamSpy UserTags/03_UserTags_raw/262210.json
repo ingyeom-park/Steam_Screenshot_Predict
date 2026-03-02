@@ -1,0 +1,21 @@
+{
+  "appid": 262210,
+  "success": true,
+  "tags": {
+    "Action": 44,
+    "Adventure": 41,
+    "Indie": 41,
+    "Casual": 40,
+    "Runner": 23,
+    "Third Person": 19,
+    "Procedural Generation": 19,
+    "Cartoony": 15,
+    "Character Customization": 12,
+    "3D Platformer": 11,
+    "Arcade": 11,
+    "Fantasy": 8,
+    "Platformer": 6,
+    "Anime": 5,
+    "Rogue-like": 5
+  }
+}

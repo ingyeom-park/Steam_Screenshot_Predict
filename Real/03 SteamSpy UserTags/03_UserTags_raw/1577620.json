@@ -1,0 +1,26 @@
+{
+  "appid": 1577620,
+  "success": true,
+  "tags": {
+    "Puzzle": 187,
+    "Logic": 175,
+    "Simulation": 166,
+    "Automation": 159,
+    "Programming": 148,
+    "Indie": 144,
+    "Sandbox": 135,
+    "Level Editor": 131,
+    "Moddable": 126,
+    "Tutorial": 116,
+    "Dystopian ": 105,
+    "Futuristic": 91,
+    "Hacking": 89,
+    "Singleplayer": 82,
+    "Robots": 78,
+    "2D": 75,
+    "Post-apocalyptic": 70,
+    "Cyberpunk": 69,
+    "Sci-fi": 57,
+    "Agriculture": 29
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1140890,
+  "success": true,
+  "tags": {
+    "Souls-like": 92,
+    "Action": 85,
+    "Adventure": 81,
+    "Lovecraftian": 78,
+    "RPG": 73,
+    "Pixel Graphics": 55,
+    "Action RPG": 52,
+    "Dark Fantasy": 46,
+    "Indie": 42,
+    "Horror": 41,
+    "Steampunk": 38,
+    "Gore": 36,
+    "Female Protagonist": 35,
+    "Third Person": 30,
+    "Fantasy": 29,
+    "Atmospheric": 28,
+    "Violent": 28,
+    "Singleplayer": 24,
+    "Combat": 19,
+    "Cyberpunk": 18
+  }
+}

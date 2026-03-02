@@ -1,0 +1,26 @@
+{
+  "appid": 49600,
+  "success": true,
+  "tags": {
+    "Rhythm": 544,
+    "Music-Based Procedural Generation": 538,
+    "Twin Stick Shooter": 535,
+    "Bullet Hell": 531,
+    "Shoot 'Em Up": 528,
+    "Music": 519,
+    "2D": 363,
+    "Space": 322,
+    "Indie": 319,
+    "Action": 257,
+    "Arcade": 201,
+    "Shooter": 198,
+    "Casual": 192,
+    "Colorful": 171,
+    "Co-op": 150,
+    "Local Co-Op": 126,
+    "Multiplayer": 122,
+    "Atmospheric": 117,
+    "Singleplayer": 114,
+    "Replay Value": 111
+  }
+}

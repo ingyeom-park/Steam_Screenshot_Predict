@@ -1,0 +1,24 @@
+{
+  "appid": 817230,
+  "success": true,
+  "tags": {
+    "FPS": 111,
+    "Stealth": 106,
+    "Parkour": 103,
+    "Minimalist": 97,
+    "Fast-Paced": 94,
+    "Cyberpunk": 89,
+    "Difficult": 85,
+    "Futuristic": 83,
+    "3D": 81,
+    "Shooter": 79,
+    "Action": 73,
+    "Indie": 61,
+    "Singleplayer": 49,
+    "First-Person": 46,
+    "Gore": 31,
+    "Story Rich": 23,
+    "Violent": 11,
+    "Blood": 11
+  }
+}

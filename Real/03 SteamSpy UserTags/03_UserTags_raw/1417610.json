@@ -1,0 +1,26 @@
+{
+  "appid": 1417610,
+  "success": true,
+  "tags": {
+    "Adventure": 166,
+    "Puzzle": 161,
+    "Narration": 155,
+    "Exploration": 153,
+    "Investigation": 148,
+    "Singleplayer": 142,
+    "Hidden Object": 140,
+    "Indie": 137,
+    "Casual": 134,
+    "Story Rich": 133,
+    "Point & Click": 131,
+    "Walking Simulator": 129,
+    "First-Person": 126,
+    "Stylized": 120,
+    "Atmospheric": 115,
+    "Sci-fi": 110,
+    "Detective": 106,
+    "Drama": 99,
+    "Mystery": 97,
+    "Difficult": 94
+  }
+}

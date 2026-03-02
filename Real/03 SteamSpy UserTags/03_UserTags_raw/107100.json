@@ -1,0 +1,26 @@
+{
+  "appid": 107100,
+  "success": true,
+  "tags": {
+    "Great Soundtrack": 1685,
+    "Indie": 1480,
+    "Action": 1304,
+    "Singleplayer": 1145,
+    "Narration": 1140,
+    "RPG": 1036,
+    "Hack and Slash": 979,
+    "Story Rich": 952,
+    "Dynamic Narration": 860,
+    "Isometric": 795,
+    "Adventure": 711,
+    "Action RPG": 640,
+    "Fantasy": 374,
+    "Atmospheric": 351,
+    "Colorful": 250,
+    "Post-apocalyptic": 219,
+    "2D": 148,
+    "Music": 128,
+    "Twin Stick Shooter": 109,
+    "Controller": 101
+  }
+}

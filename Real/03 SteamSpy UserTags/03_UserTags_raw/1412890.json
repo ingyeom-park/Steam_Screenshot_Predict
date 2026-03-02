@@ -1,0 +1,26 @@
+{
+  "appid": 1412890,
+  "success": true,
+  "tags": {
+    "JRPG": 285,
+    "Visual Novel": 279,
+    "Dark": 275,
+    "Story Rich": 270,
+    "Turn-Based Combat": 269,
+    "2D": 256,
+    "Singleplayer": 252,
+    "Horror": 249,
+    "Indie": 248,
+    "Lovecraftian": 246,
+    "Mystery": 241,
+    "Old School": 237,
+    "Drama": 235,
+    "Pixel Graphics": 234,
+    "Mature": 230,
+    "NSFW": 217,
+    "RPG": 215,
+    "RPGMaker": 182,
+    "Hand-drawn": 174,
+    "Nudity": 160
+  }
+}

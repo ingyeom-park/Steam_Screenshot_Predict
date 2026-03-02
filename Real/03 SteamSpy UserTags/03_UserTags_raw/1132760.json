@@ -1,0 +1,26 @@
+{
+  "appid": 1132760,
+  "success": true,
+  "tags": {
+    "Action-Adventure": 149,
+    "Tower Defense": 145,
+    "Pixel Graphics": 141,
+    "Dungeon Crawler": 141,
+    "RPG": 139,
+    "Story Rich": 132,
+    "Action RPG": 125,
+    "Tactical RPG": 120,
+    "Strategy RPG": 118,
+    "Action": 107,
+    "CRPG": 106,
+    "Tactical": 104,
+    "Adventure": 104,
+    "Strategy": 97,
+    "Hack and Slash": 93,
+    "Fantasy": 88,
+    "Real Time Tactics": 77,
+    "Difficult": 74,
+    "Indie": 71,
+    "Retro": 66
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1297390,
+  "success": true,
+  "tags": {
+    "Metroidvania": 166,
+    "Platformer": 160,
+    "Action": 157,
+    "Pixel Graphics": 153,
+    "RPG": 150,
+    "Indie": 142,
+    "Adventure": 140,
+    "Retro": 67,
+    "Singleplayer": 65,
+    "Remake": 62,
+    "Arcade": 57,
+    "Exploration": 55,
+    "Anime": 50,
+    "Colorful": 48,
+    "Comedy": 43,
+    "Magic": 41,
+    "Character Customization": 38,
+    "Short": 37,
+    "Female Protagonist": 33,
+    "Co-op": 29
+  }
+}

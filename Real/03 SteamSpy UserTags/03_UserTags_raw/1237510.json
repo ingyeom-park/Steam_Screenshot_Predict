@@ -1,0 +1,26 @@
+{
+  "appid": 1237510,
+  "success": true,
+  "tags": {
+    "Escape Room": 216,
+    "Puzzle": 209,
+    "Detective": 205,
+    "Narration": 200,
+    "Adventure": 198,
+    "Logic": 190,
+    "Atmospheric": 186,
+    "Stylized": 178,
+    "Mystery": 172,
+    "Emotional": 168,
+    "Exploration": 166,
+    "First-Person": 165,
+    "Indie": 150,
+    "3D": 141,
+    "Singleplayer": 139,
+    "Linear": 132,
+    "Walking Simulator": 130,
+    "Experience": 119,
+    "Physics": 103,
+    "Relaxing": 80
+  }
+}

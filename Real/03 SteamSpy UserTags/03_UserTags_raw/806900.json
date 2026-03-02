@@ -1,0 +1,26 @@
+{
+  "appid": 806900,
+  "success": true,
+  "tags": {
+    "Local Co-Op": 173,
+    "Board Game": 163,
+    "Puzzle": 161,
+    "Local Multiplayer": 151,
+    "Conversation": 142,
+    "Family Friendly": 128,
+    "Casual": 114,
+    "Indie": 112,
+    "Co-op": 97,
+    "Tabletop": 91,
+    "Team-Based": 89,
+    "Diplomacy": 84,
+    "Education": 80,
+    "2D": 78,
+    "First-Person": 75,
+    "Realistic": 72,
+    "Atmospheric": 69,
+    "Logic": 69,
+    "Thriller": 62,
+    "Multiplayer": 62
+  }
+}

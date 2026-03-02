@@ -1,0 +1,26 @@
+{
+  "appid": 1071290,
+  "success": true,
+  "tags": {
+    "RPG": 48,
+    "Action": 46,
+    "Adventure": 45,
+    "Indie": 45,
+    "Western": 39,
+    "Open World": 36,
+    "Magic": 32,
+    "FPS": 31,
+    "Singleplayer": 30,
+    "Exploration": 29,
+    "Fantasy": 28,
+    "Loot": 28,
+    "Character Customization": 27,
+    "First-Person": 27,
+    "Shooter": 27,
+    "Atmospheric": 26,
+    "3D": 25,
+    "Early Access": 24,
+    "Action RPG": 22,
+    "Crafting": 22
+  }
+}

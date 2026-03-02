@@ -1,0 +1,26 @@
+{
+  "appid": 2321880,
+  "success": true,
+  "tags": {
+    "RPG": 217,
+    "Action": 198,
+    "Open World": 191,
+    "Adventure": 185,
+    "Exploration": 184,
+    "Combat": 172,
+    "Action RPG": 155,
+    "Stylized": 147,
+    "Mystery": 139,
+    "Fantasy": 131,
+    "Magic": 119,
+    "Nature": 117,
+    "Relaxing": 104,
+    "Multiplayer": 99,
+    "Singleplayer": 75,
+    "Third Person": 59,
+    "PvE": 43,
+    "PvP": 26,
+    "3D": 24,
+    "Indie": 20
+  }
+}

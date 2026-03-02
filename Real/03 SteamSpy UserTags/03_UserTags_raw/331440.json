@@ -1,0 +1,21 @@
+{
+  "appid": 331440,
+  "success": true,
+  "tags": {
+    "RPG": 70,
+    "Action Roguelike": 59,
+    "Pixel Graphics": 58,
+    "Indie": 55,
+    "Action": 51,
+    "Adventure": 49,
+    "Rogue-like": 37,
+    "Dungeon Crawler": 32,
+    "2D": 25,
+    "Singleplayer": 24,
+    "Rogue-lite": 16,
+    "Perma Death": 13,
+    "Multiplayer": 9,
+    "Action-Adventure": 5,
+    "Top-Down": 5
+  }
+}

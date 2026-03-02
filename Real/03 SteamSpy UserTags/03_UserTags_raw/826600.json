@@ -1,0 +1,26 @@
+{
+  "appid": 826600,
+  "success": true,
+  "tags": {
+    "Turn-Based Tactics": 3606,
+    "Strategy": 3592,
+    "Sci-fi": 217,
+    "1980s": 214,
+    "Tactical": 211,
+    "Retro": 205,
+    "Space": 203,
+    "Atmospheric": 201,
+    "Isometric": 198,
+    "Singleplayer": 195,
+    "Turn-Based Strategy": 192,
+    "Real Time Tactics": 189,
+    "Turn-Based Combat": 187,
+    "Stylized": 185,
+    "Turn-Based": 165,
+    "Online Co-Op": 145,
+    "Multiplayer": 118,
+    "Indie": 101,
+    "PvP": 97,
+    "Co-op": 94
+  }
+}

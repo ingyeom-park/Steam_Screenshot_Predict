@@ -1,0 +1,26 @@
+{
+  "appid": 363930,
+  "success": true,
+  "tags": {
+    "RPG": 134,
+    "Zombies": 122,
+    "Strategy": 98,
+    "Survival": 91,
+    "Turn-Based Combat": 91,
+    "Adventure": 89,
+    "Casual": 84,
+    "Simulation": 84,
+    "Action": 79,
+    "Indie": 78,
+    "Turn-Based": 67,
+    "Post-apocalyptic": 65,
+    "Singleplayer": 56,
+    "Party-Based RPG": 50,
+    "Rogue-like": 45,
+    "Crafting": 40,
+    "Rogue-lite": 38,
+    "Turn-Based Strategy": 37,
+    "Dungeon Crawler": 35,
+    "Procedural Generation": 29
+  }
+}

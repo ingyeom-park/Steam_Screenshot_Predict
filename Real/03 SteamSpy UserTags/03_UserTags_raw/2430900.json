@@ -1,0 +1,26 @@
+{
+  "appid": 2430900,
+  "success": true,
+  "tags": {
+    "Horror": 162,
+    "Psychological Horror": 156,
+    "Survival Horror": 153,
+    "First-Person": 150,
+    "Dark": 146,
+    "Atmospheric": 140,
+    "FPS": 138,
+    "Indie": 134,
+    "Exploration": 130,
+    "Story Rich": 128,
+    "Puzzle": 126,
+    "Action": 123,
+    "Realistic": 121,
+    "Adventure": 113,
+    "Mystery": 100,
+    "Old School": 88,
+    "Retro": 75,
+    "Gore": 64,
+    "Singleplayer": 61,
+    "Violent": 49
+  }
+}

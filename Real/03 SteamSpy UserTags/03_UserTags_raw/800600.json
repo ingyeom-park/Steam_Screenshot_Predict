@@ -1,0 +1,19 @@
+{
+  "appid": 800600,
+  "success": true,
+  "tags": {
+    "RPG": 35,
+    "Indie": 35,
+    "Adventure": 34,
+    "Text-Based": 24,
+    "Choose Your Own Adventure": 20,
+    "Interactive Fiction": 16,
+    "Romance": 15,
+    "LGBTQ+": 11,
+    "Detective": 9,
+    "Choices Matter": 8,
+    "Supernatural": 7,
+    "Story Rich": 6,
+    "Singleplayer": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1309620,
+  "success": true,
+  "tags": {
+    "Singleplayer": 344,
+    "Adventure": 286,
+    "FPS": 281,
+    "3D Platformer": 274,
+    "Action-Adventure": 268,
+    "Family Friendly": 262,
+    "Action": 260,
+    "Funny": 258,
+    "Comedy": 257,
+    "Sci-fi": 257,
+    "Shooter": 251,
+    "Boomer Shooter": 246,
+    "Cartoony": 243,
+    "Retro": 239,
+    "First-Person": 231,
+    "Combat": 227,
+    "3D": 217,
+    "Bullet Hell": 212,
+    "Fast-Paced": 202,
+    "Indie": 201
+  }
+}

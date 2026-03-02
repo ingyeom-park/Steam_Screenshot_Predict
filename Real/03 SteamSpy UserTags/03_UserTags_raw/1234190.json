@@ -1,0 +1,26 @@
+{
+  "appid": 1234190,
+  "success": true,
+  "tags": {
+    "Action": 160,
+    "Adventure": 151,
+    "Anime": 146,
+    "Shooter": 139,
+    "Singleplayer": 136,
+    "Atmospheric": 128,
+    "Military": 127,
+    "Modern": 122,
+    "War": 120,
+    "Story Rich": 117,
+    "Memes": 113,
+    "Psychological Horror": 112,
+    "Indie": 105,
+    "Third-Person Shooter": 99,
+    "Visual Novel": 97,
+    "Realistic": 93,
+    "Third Person": 92,
+    "Stealth": 81,
+    "Sniper": 76,
+    "Tactical": 71
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 239800,
+  "success": true,
+  "tags": {
+    "Action": 157,
+    "Indie": 133,
+    "Platformer": 124,
+    "Female Protagonist": 94,
+    "Fast-Paced": 87,
+    "2D": 78,
+    "Shooter": 72,
+    "Pixel Graphics": 66,
+    "Difficult": 63,
+    "Local Co-Op": 48,
+    "Singleplayer": 43,
+    "Bullet Time": 35,
+    "Arcade": 33,
+    "Side Scroller": 30,
+    "Shoot 'Em Up": 25,
+    "Short": 22,
+    "Retro": 20,
+    "Cute": 18,
+    "Co-op": 17,
+    "Local Multiplayer": 16
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 259550,
+  "success": true,
+  "tags": {
+    "Casual": 182,
+    "Adventure": 133,
+    "Indie": 108,
+    "Point & Click": 100,
+    "RPG": 93,
+    "Singleplayer": 93,
+    "Hidden Object": 76,
+    "Resource Management": 71,
+    "Fantasy": 70,
+    "Short": 63,
+    "Isometric": 35,
+    "Strategy": 30,
+    "Medieval": 24,
+    "Story Rich": 21,
+    "Clicker": 17,
+    "Colorful": 13,
+    "Puzzle": 13,
+    "2D": 7
+  }
+}

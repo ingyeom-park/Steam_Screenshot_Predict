@@ -1,0 +1,26 @@
+{
+  "appid": 2648660,
+  "success": true,
+  "tags": {
+    "Indie": 266,
+    "Adventure": 262,
+    "Horror": 252,
+    "Action": 241,
+    "Retro": 237,
+    "Psychological Horror": 231,
+    "Action-Adventure": 214,
+    "Survival Horror": 206,
+    "Exploration": 197,
+    "Thriller": 187,
+    "FPS": 177,
+    "3D": 166,
+    "Noir": 153,
+    "First-Person": 151,
+    "Singleplayer": 136,
+    "Shooter": 120,
+    "Investigation": 103,
+    "Dark": 85,
+    "Multiple Endings": 66,
+    "Choices Matter": 46
+  }
+}

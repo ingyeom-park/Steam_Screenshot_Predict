@@ -1,0 +1,26 @@
+{
+  "appid": 1607040,
+  "success": true,
+  "tags": {
+    "Strategy": 216,
+    "Rogue-like": 190,
+    "Mystery Dungeon": 185,
+    "Rogue-lite": 177,
+    "Real Time Tactics": 172,
+    "2D": 165,
+    "Isometric": 161,
+    "Pixel Graphics": 154,
+    "Atmospheric": 140,
+    "Dark Fantasy": 131,
+    "Demons": 120,
+    "Magic": 118,
+    "Supernatural": 106,
+    "Tactical": 94,
+    "Character Customization": 76,
+    "Combat": 60,
+    "Grid-Based Movement": 45,
+    "Turn-Based Combat": 33,
+    "Singleplayer": 27,
+    "Indie": 23
+  }
+}

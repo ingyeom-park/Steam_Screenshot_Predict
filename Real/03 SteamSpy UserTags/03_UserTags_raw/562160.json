@@ -1,0 +1,26 @@
+{
+  "appid": 562160,
+  "success": true,
+  "tags": {
+    "Time Manipulation": 139,
+    "Puzzle": 134,
+    "Puzzle-Platformer": 133,
+    "Dark": 128,
+    "Short": 127,
+    "Pixel Graphics": 120,
+    "Mystery": 115,
+    "Retro": 111,
+    "Atmospheric": 109,
+    "Singleplayer": 106,
+    "Horror": 99,
+    "Platformer": 90,
+    "Linear": 83,
+    "Casual": 74,
+    "Adventure": 70,
+    "Indie": 57,
+    "2D": 38,
+    "Side Scroller": 33,
+    "Action-Adventure": 31,
+    "Mature": 27
+  }
+}

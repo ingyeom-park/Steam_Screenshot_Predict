@@ -1,0 +1,26 @@
+{
+  "appid": 1216490,
+  "success": true,
+  "tags": {
+    "Indie": 49,
+    "Action": 45,
+    "Adventure": 40,
+    "Casual": 30,
+    "RPG": 29,
+    "Simulation": 28,
+    "Replay Value": 28,
+    "Singleplayer": 26,
+    "Atmospheric": 26,
+    "Mystery": 24,
+    "Zombies": 23,
+    "Survival": 23,
+    "Experimental": 22,
+    "Horror": 22,
+    "2D": 21,
+    "Comedy": 21,
+    "Hand-drawn": 21,
+    "Difficult": 20,
+    "Addictive": 20,
+    "Top-Down": 18
+  }
+}

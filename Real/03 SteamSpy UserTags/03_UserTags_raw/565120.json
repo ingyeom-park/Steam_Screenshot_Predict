@@ -1,0 +1,21 @@
+{
+  "appid": 565120,
+  "success": true,
+  "tags": {
+    "Indie": 40,
+    "Adventure": 38,
+    "Story Rich": 28,
+    "Sci-fi": 27,
+    "Atmospheric": 25,
+    "Space": 24,
+    "Walking Simulator": 22,
+    "First-Person": 18,
+    "Short": 16,
+    "Puzzle": 14,
+    "Simulation": 13,
+    "Mystery": 12,
+    "Horror": 9,
+    "Exploration": 8,
+    "Singleplayer": 8
+  }
+}

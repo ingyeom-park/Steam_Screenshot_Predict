@@ -1,0 +1,25 @@
+{
+  "appid": 1947750,
+  "success": true,
+  "tags": {
+    "Adventure": 216,
+    "RPG": 209,
+    "Strategy": 203,
+    "Party-Based RPG": 179,
+    "CRPG": 176,
+    "Dungeon Crawler": 163,
+    "Tactical RPG": 156,
+    "2D": 148,
+    "Isometric": 139,
+    "Fantasy": 131,
+    "Old School": 120,
+    "Retro": 119,
+    "Base-Building": 106,
+    "Grid-Based Movement": 92,
+    "Open World": 76,
+    "Story Rich": 61,
+    "Turn-Based Combat": 47,
+    "Indie": 47,
+    "Singleplayer": 27
+  }
+}

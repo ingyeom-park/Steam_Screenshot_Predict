@@ -1,0 +1,24 @@
+{
+  "appid": 2009450,
+  "success": true,
+  "tags": {
+    "Casual": 183,
+    "Rhythm": 173,
+    "Music": 163,
+    "3D": 155,
+    "Colorful": 150,
+    "Space": 130,
+    "Futuristic": 122,
+    "Singleplayer": 118,
+    "PvP": 115,
+    "4 Player Local": 105,
+    "Multiplayer": 98,
+    "Local Multiplayer": 93,
+    "Controller": 81,
+    "Indie": 71,
+    "Arcade": 58,
+    "Party": 37,
+    "Difficult": 36,
+    "Action": 21
+  }
+}

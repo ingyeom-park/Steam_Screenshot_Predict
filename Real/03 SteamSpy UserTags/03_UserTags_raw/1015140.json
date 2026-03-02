@@ -1,0 +1,24 @@
+{
+  "appid": 1015140,
+  "success": true,
+  "tags": {
+    "Strategy": 42,
+    "Action": 39,
+    "Indie": 35,
+    "Zombies": 35,
+    "Action Roguelike": 30,
+    "Top-Down": 27,
+    "Top-Down Shooter": 26,
+    "Violent": 26,
+    "Gore": 25,
+    "Online Co-Op": 20,
+    "Survival": 20,
+    "Post-apocalyptic": 19,
+    "Loot": 17,
+    "Co-op": 15,
+    "Isometric": 15,
+    "Rogue-lite": 13,
+    "Multiplayer": 7,
+    "Procedural Generation": 6
+  }
+}

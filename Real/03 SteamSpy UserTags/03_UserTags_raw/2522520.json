@@ -1,0 +1,20 @@
+{
+  "appid": 2522520,
+  "success": true,
+  "tags": {
+    "Casual": 70,
+    "Parkour": 64,
+    "Multiplayer": 52,
+    "Online Co-Op": 50,
+    "Action": 48,
+    "Adventure": 47,
+    "Co-op": 40,
+    "3D Platformer": 37,
+    "Platformer": 30,
+    "Third Person": 28,
+    "Indie": 24,
+    "PvP": 24,
+    "Singleplayer": 22,
+    "Psychological Horror": 16
+  }
+}

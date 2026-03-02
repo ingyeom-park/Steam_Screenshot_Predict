@@ -1,0 +1,26 @@
+{
+  "appid": 365160,
+  "success": true,
+  "tags": {
+    "Survival": 167,
+    "Adventure": 166,
+    "Detective": 164,
+    "Atmospheric": 152,
+    "First-Person": 147,
+    "Open World": 142,
+    "Exploration": 130,
+    "Singleplayer": 123,
+    "Horror": 121,
+    "Story Rich": 117,
+    "Indie": 115,
+    "Walking Simulator": 108,
+    "Survival Horror": 78,
+    "Narration": 76,
+    "Surreal": 65,
+    "Great Soundtrack": 64,
+    "Puzzle": 57,
+    "Casual": 42,
+    "Kickstarter": 40,
+    "Crowdfunded": 38
+  }
+}

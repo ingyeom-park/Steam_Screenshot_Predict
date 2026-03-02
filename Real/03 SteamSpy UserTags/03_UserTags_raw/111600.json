@@ -1,0 +1,16 @@
+{
+  "appid": 111600,
+  "success": true,
+  "tags": {
+    "Action": 74,
+    "Indie": 59,
+    "Platformer": 50,
+    "Shooter": 29,
+    "2D": 28,
+    "Comedy": 24,
+    "Gore": 19,
+    "Local Co-Op": 16,
+    "Side Scroller": 7,
+    "Singleplayer": 6
+  }
+}

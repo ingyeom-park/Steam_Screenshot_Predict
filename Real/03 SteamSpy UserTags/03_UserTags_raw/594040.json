@@ -1,0 +1,26 @@
+{
+  "appid": 594040,
+  "success": true,
+  "tags": {
+    "Simulation": 196,
+    "Indie": 188,
+    "Strategy": 186,
+    "Management": 182,
+    "Casual": 181,
+    "RTS": 169,
+    "Life Sim": 167,
+    "Colony Sim": 165,
+    "Strategy RPG": 162,
+    "City Builder": 161,
+    "Immersive Sim": 158,
+    "Political Sim": 155,
+    "2D": 150,
+    "Stealth": 136,
+    "Science": 121,
+    "Choices Matter": 106,
+    "Open World": 91,
+    "Singleplayer": 75,
+    "Early Access": 59,
+    "Movie": 44
+  }
+}

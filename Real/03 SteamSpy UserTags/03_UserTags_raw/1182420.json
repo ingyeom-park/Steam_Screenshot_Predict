@@ -1,0 +1,26 @@
+{
+  "appid": 1182420,
+  "success": true,
+  "tags": {
+    "RPG": 275,
+    "Story Rich": 272,
+    "Turn-Based": 268,
+    "Hand-drawn": 266,
+    "Dice": 261,
+    "Choices Matter": 250,
+    "Visual Novel": 246,
+    "Rogue-like": 241,
+    "Turn-Based Combat": 235,
+    "2D": 230,
+    "Singleplayer": 229,
+    "Turn-Based Tactics": 225,
+    "Emotional": 220,
+    "Indie": 207,
+    "Adventure": 198,
+    "Dark Fantasy": 196,
+    "Dark": 188,
+    "Fantasy": 183,
+    "Rogue-lite": 178,
+    "Strategy RPG": 172
+  }
+}

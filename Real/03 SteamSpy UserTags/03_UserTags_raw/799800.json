@@ -1,0 +1,26 @@
+{
+  "appid": 799800,
+  "success": true,
+  "tags": {
+    "Casual": 90,
+    "Indie": 85,
+    "Puzzle": 82,
+    "Atmospheric": 77,
+    "Logic": 75,
+    "Relaxing": 69,
+    "Singleplayer": 67,
+    "Card Game": 66,
+    "Tabletop": 64,
+    "Education": 61,
+    "Exploration": 58,
+    "Clicker": 57,
+    "Trading Card Game": 54,
+    "Hidden Object": 52,
+    "2D": 51,
+    "Cute": 48,
+    "Cats": 45,
+    "Family Friendly": 34,
+    "Time Manipulation": 30,
+    "Tutorial": 29
+  }
+}

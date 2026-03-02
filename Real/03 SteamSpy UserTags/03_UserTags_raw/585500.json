@@ -1,0 +1,26 @@
+{
+  "appid": 585500,
+  "success": true,
+  "tags": {
+    "Action": 93,
+    "Casual": 87,
+    "Indie": 84,
+    "VR": 75,
+    "Shooter": 72,
+    "Singleplayer": 66,
+    "First-Person": 64,
+    "Comedy": 62,
+    "Arcade": 60,
+    "FPS": 58,
+    "On-Rails Shooter": 56,
+    "Shoot 'Em Up": 54,
+    "3D": 52,
+    "America": 50,
+    "Funny": 48,
+    "Nature": 46,
+    "Tactical": 44,
+    "Western": 42,
+    "PvP": 40,
+    "Combat": 38
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appid": 2812610,
+  "success": true,
+  "tags": {
+    "Card Battler": 165,
+    "Card Game": 158,
+    "Strategy": 158,
+    "Rogue-lite": 154,
+    "Rogue-like": 150,
+    "Deckbuilding": 148,
+    "Roguelike Deckbuilder": 141,
+    "2D": 133,
+    "Relaxing": 127,
+    "Funny": 122,
+    "Turn-Based Combat": 119,
+    "Cartoony": 112,
+    "Pixel Graphics": 109,
+    "Procedural Generation": 104,
+    "Resource Management": 91,
+    "Board Game": 89,
+    "Singleplayer": 80,
+    "Casual": 74,
+    "Indie": 49
+  }
+}

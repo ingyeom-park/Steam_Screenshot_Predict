@@ -1,0 +1,21 @@
+{
+  "appid": 2751610,
+  "success": true,
+  "tags": {
+    "Casual": 70,
+    "RPG": 64,
+    "Turn-Based Strategy": 41,
+    "Party-Based RPG": 38,
+    "2D Platformer": 35,
+    "Colorful": 29,
+    "1980s": 27,
+    "Swordplay": 25,
+    "Historical": 23,
+    "Retro": 21,
+    "Indie": 20,
+    "Martial Arts": 19,
+    "Turn-Based Combat": 17,
+    "Turn-Based Tactics": 15,
+    "Singleplayer": 13
+  }
+}

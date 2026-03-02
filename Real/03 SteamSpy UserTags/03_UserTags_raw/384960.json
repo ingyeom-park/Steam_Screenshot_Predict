@@ -1,0 +1,26 @@
+{
+  "appid": 384960,
+  "success": true,
+  "tags": {
+    "Early Access": 450,
+    "Action": 199,
+    "Indie": 193,
+    "Strategy": 188,
+    "FPS": 185,
+    "Multiplayer": 172,
+    "Shooter": 169,
+    "First-Person": 163,
+    "Casual": 161,
+    "Arena Shooter": 154,
+    "Massively Multiplayer": 145,
+    "PvP": 136,
+    "3D": 131,
+    "Old School": 128,
+    "War": 124,
+    "Violent": 120,
+    "Team-Based": 117,
+    "Combat": 114,
+    "Singleplayer": 110,
+    "Modern": 108
+  }
+}

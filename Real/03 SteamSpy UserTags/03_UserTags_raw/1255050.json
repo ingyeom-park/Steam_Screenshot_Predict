@@ -1,0 +1,26 @@
+{
+  "appid": 1255050,
+  "success": true,
+  "tags": {
+    "Simulation": 128,
+    "RPG": 122,
+    "Indie": 119,
+    "Strategy": 114,
+    "Action": 111,
+    "Crafting": 105,
+    "Survival": 100,
+    "Tower Defense": 99,
+    "Rogue-lite": 98,
+    "Building": 92,
+    "Rogue-like": 87,
+    "3D": 87,
+    "Early Access": 80,
+    "Hand-drawn": 78,
+    "Linear": 77,
+    "Base-Building": 74,
+    "Perma Death": 71,
+    "Singleplayer": 67,
+    "Arcade": 59,
+    "2D": 51
+  }
+}

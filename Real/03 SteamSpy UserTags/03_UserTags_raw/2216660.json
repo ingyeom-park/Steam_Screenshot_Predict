@@ -1,0 +1,26 @@
+{
+  "appid": 2216660,
+  "success": true,
+  "tags": {
+    "Turn-Based Tactics": 150,
+    "Rogue-lite": 144,
+    "Management": 141,
+    "Tactical RPG": 138,
+    "Turn-Based Combat": 133,
+    "Old School": 127,
+    "Replay Value": 125,
+    "Turn-Based Strategy": 122,
+    "Grid-Based Movement": 116,
+    "Tactical": 114,
+    "Rogue-like": 109,
+    "Party-Based RPG": 108,
+    "Retro": 105,
+    "Top-Down": 96,
+    "Strategy RPG": 88,
+    "Procedural Generation": 83,
+    "Simulation": 78,
+    "Strategy": 76,
+    "Singleplayer": 75,
+    "RPG": 71
+  }
+}

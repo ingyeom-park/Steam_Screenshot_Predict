@@ -1,0 +1,26 @@
+{
+  "appid": 635850,
+  "success": true,
+  "tags": {
+    "Adventure": 143,
+    "Indie": 136,
+    "Sci-fi": 134,
+    "Multiple Endings": 127,
+    "Futuristic": 124,
+    "Story Rich": 118,
+    "Robots": 118,
+    "Atmospheric": 107,
+    "Nonlinear": 102,
+    "Space": 99,
+    "Post-apocalyptic": 98,
+    "RPGMaker": 97,
+    "Cyberpunk": 90,
+    "Pixel Graphics": 85,
+    "Choices Matter": 82,
+    "Point & Click": 79,
+    "RPG": 73,
+    "2D": 67,
+    "Singleplayer": 54,
+    "Exploration": 46
+  }
+}

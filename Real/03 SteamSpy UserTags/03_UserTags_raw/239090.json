@@ -1,0 +1,26 @@
+{
+  "appid": 239090,
+  "success": true,
+  "tags": {
+    "4 Player Local": 171,
+    "2D Fighter": 164,
+    "Fighting": 162,
+    "Local Multiplayer": 160,
+    "Multiplayer": 155,
+    "Pixel Graphics": 145,
+    "PvP": 143,
+    "Competitive": 137,
+    "Arcade": 133,
+    "2D": 129,
+    "Swordplay": 128,
+    "Controller": 122,
+    "Action": 119,
+    "Combat": 115,
+    "Co-op": 110,
+    "Local Co-Op": 96,
+    "Singleplayer": 82,
+    "Indie": 79,
+    "Party Game": 60,
+    "Great Soundtrack": 38
+  }
+}

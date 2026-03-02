@@ -1,0 +1,21 @@
+{
+  "appid": 318130,
+  "success": true,
+  "tags": {
+    "RPG": 86,
+    "Indie": 64,
+    "RPGMaker": 49,
+    "Turn-Based Combat": 46,
+    "Comedy": 42,
+    "Fantasy": 38,
+    "Strategy": 26,
+    "JRPG": 21,
+    "Pixel Graphics": 17,
+    "Singleplayer": 16,
+    "2D": 15,
+    "Funny": 13,
+    "Adventure": 10,
+    "Turn-Based": 5,
+    "Exploration": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2155280,
+  "success": true,
+  "tags": {
+    "Rogue-lite": 266,
+    "Bullet Hell": 260,
+    "Top-Down Shooter": 257,
+    "Combat": 254,
+    "Rogue-like": 250,
+    "Action Roguelike": 244,
+    "Survival": 242,
+    "RPG": 240,
+    "Action": 238,
+    "Adventure": 234,
+    "Sci-fi": 228,
+    "Indie": 224,
+    "Casual": 215,
+    "Controller": 211,
+    "Aliens": 209,
+    "Futuristic": 207,
+    "Military": 203,
+    "Singleplayer": 201,
+    "Dystopian ": 198,
+    "3D": 196
+  }
+}

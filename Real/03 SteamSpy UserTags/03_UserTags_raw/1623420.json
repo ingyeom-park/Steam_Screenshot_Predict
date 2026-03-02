@@ -1,0 +1,21 @@
+{
+  "appid": 1623420,
+  "success": true,
+  "tags": {
+    "Action": 63,
+    "Arcade": 53,
+    "Runner": 47,
+    "Platformer": 39,
+    "2D Platformer": 37,
+    "Side Scroller": 32,
+    "2D": 28,
+    "Cartoony": 26,
+    "Hand-drawn": 26,
+    "Funny": 23,
+    "Indie": 21,
+    "Sci-fi": 20,
+    "Controller": 18,
+    "Singleplayer": 17,
+    "Linear": 16
+  }
+}

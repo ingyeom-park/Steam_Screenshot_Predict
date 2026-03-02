@@ -1,0 +1,15 @@
+{
+  "appid": 401120,
+  "success": true,
+  "tags": {
+    "Casual": 25,
+    "Action": 23,
+    "Indie": 23,
+    "Puzzle": 20,
+    "Competitive": 15,
+    "Local Multiplayer": 15,
+    "Arcade": 11,
+    "2D": 10,
+    "Colorful": 9
+  }
+}

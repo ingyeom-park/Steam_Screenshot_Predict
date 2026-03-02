@@ -1,0 +1,26 @@
+{
+  "appid": 2387410,
+  "success": true,
+  "tags": {
+    "Exploration": 101,
+    "Short": 97,
+    "Collectathon": 92,
+    "Hidden Object": 88,
+    "Walking Simulator": 86,
+    "Adventure": 79,
+    "Casual": 77,
+    "Abstract": 72,
+    "Dungeon Crawler": 69,
+    "Post-apocalyptic": 67,
+    "Atmospheric": 66,
+    "Space": 64,
+    "Time Travel": 61,
+    "Surreal": 60,
+    "Relaxing": 57,
+    "Experimental": 55,
+    "Text-Based": 53,
+    "First-Person": 52,
+    "Indie": 50,
+    "Singleplayer": 28
+  }
+}

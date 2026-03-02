@@ -1,0 +1,26 @@
+{
+  "appid": 1630910,
+  "success": true,
+  "tags": {
+    "Action": 237,
+    "Platformer": 232,
+    "Indie": 230,
+    "Precision Platformer": 227,
+    "Difficult": 222,
+    "Casual": 214,
+    "Arcade": 201,
+    "Music": 186,
+    "Rhythm": 177,
+    "Female Protagonist": 168,
+    "Action Roguelike": 157,
+    "Singleplayer": 146,
+    "Soundtrack": 143,
+    "Pixel Graphics": 130,
+    "Character Customization": 115,
+    "Retro": 100,
+    "Cute": 82,
+    "Atmospheric": 64,
+    "Fast-Paced": 45,
+    "Unforgiving": 27
+  }
+}

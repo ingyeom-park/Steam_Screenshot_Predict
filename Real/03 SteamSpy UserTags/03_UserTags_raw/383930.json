@@ -1,0 +1,26 @@
+{
+  "appid": 383930,
+  "success": true,
+  "tags": {
+    "Horror": 166,
+    "Adventure": 161,
+    "Action": 158,
+    "Indie": 155,
+    "Lovecraftian": 150,
+    "Gore": 144,
+    "Demons": 142,
+    "Psychological Horror": 140,
+    "Survival Horror": 138,
+    "First-Person": 136,
+    "Difficult": 134,
+    "Survival": 132,
+    "Walking Simulator": 131,
+    "Dark": 129,
+    "Singleplayer": 127,
+    "Puzzle": 121,
+    "Third Person": 118,
+    "Story Rich": 106,
+    "Mature": 104,
+    "3D Platformer": 100
+  }
+}

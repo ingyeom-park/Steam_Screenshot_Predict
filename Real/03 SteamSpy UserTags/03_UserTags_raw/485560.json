@@ -1,0 +1,12 @@
+{
+  "appid": 485560,
+  "success": true,
+  "tags": {
+    "Indie": 88,
+    "Casual": 34,
+    "Action": 32,
+    "Adventure": 31,
+    "Pixel Graphics": 14,
+    "Platformer": 6
+  }
+}

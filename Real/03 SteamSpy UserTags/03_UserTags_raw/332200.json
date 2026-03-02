@@ -1,0 +1,26 @@
+{
+  "appid": 332200,
+  "success": true,
+  "tags": {
+    "Metroidvania": 321,
+    "Indie": 188,
+    "Pixel Graphics": 184,
+    "Platformer": 167,
+    "Action": 148,
+    "Great Soundtrack": 145,
+    "2D": 137,
+    "Sci-fi": 130,
+    "Adventure": 124,
+    "Retro": 110,
+    "Exploration": 83,
+    "Singleplayer": 61,
+    "Atmospheric": 58,
+    "Cyberpunk": 48,
+    "Side Scroller": 42,
+    "Difficult": 39,
+    "Aliens": 21,
+    "Shooter": 19,
+    "Horror": 16,
+    "Story Rich": 10
+  }
+}

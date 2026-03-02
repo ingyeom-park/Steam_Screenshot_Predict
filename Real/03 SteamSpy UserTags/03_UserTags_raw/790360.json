@@ -1,0 +1,26 @@
+{
+  "appid": 790360,
+  "success": true,
+  "tags": {
+    "Souls-like": 260,
+    "Metroidvania": 255,
+    "Platformer": 250,
+    "Side Scroller": 247,
+    "Great Soundtrack": 240,
+    "Difficult": 237,
+    "Cute": 234,
+    "2D": 226,
+    "Atmospheric": 226,
+    "Exploration": 225,
+    "Dark Fantasy": 221,
+    "RPG": 217,
+    "Precision Platformer": 216,
+    "Open World": 193,
+    "Story Rich": 189,
+    "Action": 173,
+    "Adventure": 160,
+    "Singleplayer": 151,
+    "Indie": 138,
+    "Fantasy": 44
+  }
+}

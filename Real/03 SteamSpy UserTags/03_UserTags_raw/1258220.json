@@ -1,0 +1,26 @@
+{
+  "appid": 1258220,
+  "success": true,
+  "tags": {
+    "Action": 113,
+    "Side Scroller": 106,
+    "Adventure": 104,
+    "Mystery": 98,
+    "Action-Adventure": 97,
+    "2.5D": 90,
+    "Combat": 88,
+    "Hack and Slash": 84,
+    "Stealth": 78,
+    "Singleplayer": 72,
+    "Indie": 71,
+    "Violent": 67,
+    "2D": 62,
+    "Beat 'em up": 57,
+    "2D Fighter": 51,
+    "Atmospheric": 50,
+    "3D Platformer": 47,
+    "Dark Fantasy": 45,
+    "Fantasy": 44,
+    "Controller": 42
+  }
+}

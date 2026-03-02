@@ -1,0 +1,26 @@
+{
+  "appid": 568910,
+  "success": true,
+  "tags": {
+    "Turn-Based Strategy": 160,
+    "Strategy": 154,
+    "Strategy RPG": 151,
+    "Turn-Based Tactics": 146,
+    "Cute": 141,
+    "Isometric": 134,
+    "Indie": 129,
+    "Simulation": 125,
+    "Colorful": 119,
+    "Pixel Graphics": 115,
+    "Medieval": 111,
+    "Tactical": 107,
+    "Magic": 104,
+    "RPG": 91,
+    "Grid-Based Movement": 85,
+    "Turn-Based Combat": 83,
+    "Grand Strategy": 79,
+    "Singleplayer": 75,
+    "Retro": 64,
+    "Turn-Based": 55
+  }
+}

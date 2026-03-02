@@ -1,0 +1,26 @@
+{
+  "appid": 926540,
+  "success": true,
+  "tags": {
+    "Action": 227,
+    "Strategy": 222,
+    "Indie": 216,
+    "RPG": 213,
+    "War": 207,
+    "Multiplayer": 188,
+    "Fighting": 184,
+    "Shooter": 176,
+    "Strategy RPG": 166,
+    "FPS": 164,
+    "Tactical RPG": 162,
+    "Casual": 155,
+    "Wargame": 152,
+    "First-Person": 149,
+    "Action RPG": 122,
+    "Simulation": 107,
+    "Sandbox": 96,
+    "Action RTS": 90,
+    "Real Time Tactics": 82,
+    "Third-Person Shooter": 80
+  }
+}

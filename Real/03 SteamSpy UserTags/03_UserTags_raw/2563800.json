@@ -1,0 +1,22 @@
+{
+  "appid": 2563800,
+  "success": true,
+  "tags": {
+    "Action": 65,
+    "Action Roguelike": 49,
+    "Rogue-lite": 40,
+    "Top-Down Shooter": 38,
+    "2D": 35,
+    "Top-Down": 30,
+    "Co-op": 27,
+    "Local Co-Op": 25,
+    "Singleplayer": 23,
+    "Indie": 21,
+    "4 Player Local": 21,
+    "Adventure": 20,
+    "Multiplayer": 19,
+    "Local Multiplayer": 17,
+    "Pixel Graphics": 16,
+    "Retro": 12
+  }
+}

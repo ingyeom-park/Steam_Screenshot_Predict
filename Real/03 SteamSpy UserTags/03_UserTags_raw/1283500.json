@@ -1,0 +1,26 @@
+{
+  "appid": 1283500,
+  "success": true,
+  "tags": {
+    "Indie": 35,
+    "Simulation": 34,
+    "Adventure": 33,
+    "Strategy": 20,
+    "Casual": 20,
+    "First-Person": 17,
+    "Puzzle": 16,
+    "Mystery": 15,
+    "Action": 13,
+    "Singleplayer": 13,
+    "Atmospheric": 13,
+    "Action-Adventure": 13,
+    "Sci-fi": 13,
+    "Exploration": 13,
+    "Difficult": 12,
+    "Cyberpunk": 12,
+    "Great Soundtrack": 12,
+    "Story Rich": 12,
+    "Robots": 12,
+    "Nonlinear": 12
+  }
+}

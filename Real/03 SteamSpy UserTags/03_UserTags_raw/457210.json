@@ -1,0 +1,26 @@
+{
+  "appid": 457210,
+  "success": true,
+  "tags": {
+    "3D Platformer": 125,
+    "Parkour": 123,
+    "Precision Platformer": 119,
+    "First-Person": 115,
+    "Platformer": 105,
+    "Racing": 102,
+    "Difficult": 97,
+    "FPS": 82,
+    "Fast-Paced": 82,
+    "Action": 82,
+    "Level Editor": 78,
+    "Puzzle-Platformer": 75,
+    "Indie": 63,
+    "Great Soundtrack": 60,
+    "Puzzle": 59,
+    "Multiplayer": 54,
+    "Horror": 40,
+    "Singleplayer": 25,
+    "Runner": 25,
+    "Demons": 21
+  }
+}

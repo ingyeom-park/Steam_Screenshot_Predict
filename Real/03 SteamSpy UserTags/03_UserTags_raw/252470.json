@@ -1,0 +1,26 @@
+{
+  "appid": 252470,
+  "success": true,
+  "tags": {
+    "Space": 130,
+    "Strategy": 107,
+    "Action": 99,
+    "Indie": 87,
+    "RPG": 78,
+    "Zombies": 73,
+    "Open World": 72,
+    "Simulation": 61,
+    "Adventure": 53,
+    "Pirates": 51,
+    "Sci-fi": 50,
+    "Sandbox": 46,
+    "Singleplayer": 43,
+    "Survival": 42,
+    "Building": 36,
+    "Procedural Generation": 32,
+    "VR": 28,
+    "Gore": 20,
+    "Exploration": 18,
+    "Crafting": 14
+  }
+}

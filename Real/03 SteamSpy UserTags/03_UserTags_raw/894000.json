@@ -1,0 +1,26 @@
+{
+  "appid": 894000,
+  "success": true,
+  "tags": {
+    "Action": 33,
+    "Adventure": 30,
+    "RPG": 30,
+    "Action Roguelike": 25,
+    "Rogue-lite": 16,
+    "Pixel Graphics": 13,
+    "GameMaker": 11,
+    "Great Soundtrack": 11,
+    "2D": 11,
+    "Singleplayer": 11,
+    "Bullet Hell": 11,
+    "Indie": 11,
+    "Addictive": 10,
+    "Cartoony": 10,
+    "Stylized": 10,
+    "Colorful": 10,
+    "Dark": 10,
+    "Cartoon": 10,
+    "Cute": 10,
+    "Crowdfunded": 10
+  }
+}

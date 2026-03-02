@@ -1,0 +1,26 @@
+{
+  "appid": 1986010,
+  "success": true,
+  "tags": {
+    "Indie": 229,
+    "Exploration": 223,
+    "Open World": 221,
+    "RPG": 214,
+    "Story Rich": 214,
+    "Word Game": 195,
+    "Adventure": 179,
+    "Drama": 177,
+    "Dungeon Crawler": 175,
+    "Hidden Object": 146,
+    "Conversation": 138,
+    "2D": 127,
+    "Strategy RPG": 127,
+    "Cartoony": 110,
+    "Colorful": 95,
+    "Stylized": 79,
+    "Relaxing": 62,
+    "Turn-Based Combat": 43,
+    "Time Manipulation": 27,
+    "Singleplayer": 26
+  }
+}

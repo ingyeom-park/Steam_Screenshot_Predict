@@ -1,0 +1,26 @@
+{
+  "appid": 2180150,
+  "success": true,
+  "tags": {
+    "Action": 232,
+    "Fast-Paced": 206,
+    "First-Person": 202,
+    "Racing": 201,
+    "Difficult": 197,
+    "Singleplayer": 191,
+    "Runner": 174,
+    "Indie": 168,
+    "Platformer": 166,
+    "Arcade": 157,
+    "Mystery": 138,
+    "Cyberpunk": 126,
+    "Multiple Endings": 124,
+    "Futuristic": 110,
+    "Sci-fi": 95,
+    "Driving": 79,
+    "Soundtrack": 62,
+    "Shooter": 44,
+    "Level Editor": 27,
+    "Precision Platformer": 25
+  }
+}

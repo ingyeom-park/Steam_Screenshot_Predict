@@ -1,0 +1,26 @@
+{
+  "appid": 420550,
+  "success": true,
+  "tags": {
+    "Multiplayer": 182,
+    "Arcade": 179,
+    "Retro": 176,
+    "Story Rich": 173,
+    "Football (Soccer)": 170,
+    "Casual": 161,
+    "Local Multiplayer": 154,
+    "Indie": 148,
+    "1980s": 141,
+    "1990's": 139,
+    "Sports": 138,
+    "Singleplayer": 134,
+    "4 Player Local": 125,
+    "2D": 115,
+    "Top-Down": 113,
+    "Controller": 107,
+    "Physics": 100,
+    "Real Time Tactics": 97,
+    "Pixel Graphics": 95,
+    "PvP": 90
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 685400,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 37,
+    "Rogue-lite": 34,
+    "Indie": 30,
+    "Action": 28,
+    "Rogue-like": 28,
+    "Pixel Graphics": 26,
+    "Dungeon Crawler": 24,
+    "Hack and Slash": 22,
+    "Adventure": 21,
+    "Procedural Generation": 21,
+    "Difficult": 20,
+    "Singleplayer": 19,
+    "Perma Death": 18,
+    "Great Soundtrack": 18,
+    "Replay Value": 18,
+    "Top-Down": 18,
+    "Atmospheric": 16,
+    "GameMaker": 15,
+    "Card Game": 12,
+    "2D": 11
+  }
+}

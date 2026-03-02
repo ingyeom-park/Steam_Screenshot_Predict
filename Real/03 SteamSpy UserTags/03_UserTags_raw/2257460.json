@@ -1,0 +1,26 @@
+{
+  "appid": 2257460,
+  "success": true,
+  "tags": {
+    "Adventure": 156,
+    "Psychological Horror": 153,
+    "Survival Horror": 147,
+    "Dark": 145,
+    "Walking Simulator": 142,
+    "Singleplayer": 135,
+    "Exploration": 130,
+    "First-Person": 125,
+    "Indie": 122,
+    "Gore": 119,
+    "Horror": 118,
+    "Violent": 116,
+    "Atmospheric": 113,
+    "Action": 106,
+    "Realistic": 104,
+    "Surreal": 101,
+    "Story Rich": 95,
+    "Co-op": 82,
+    "Hidden Object": 60,
+    "3D": 57
+  }
+}

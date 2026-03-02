@@ -1,0 +1,16 @@
+{
+  "appid": 510240,
+  "success": true,
+  "tags": {
+    "Indie": 26,
+    "Action": 25,
+    "Adventure": 24,
+    "Exploration": 17,
+    "2D": 15,
+    "Singleplayer": 14,
+    "Metroidvania": 13,
+    "Open World": 13,
+    "Side Scroller": 13,
+    "Controller": 12
+  }
+}

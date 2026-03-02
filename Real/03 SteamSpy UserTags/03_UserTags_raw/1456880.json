@@ -1,0 +1,22 @@
+{
+  "appid": 1456880,
+  "success": true,
+  "tags": {
+    "Puzzle-Platformer": 115,
+    "Puzzle": 99,
+    "Platformer": 93,
+    "Pixel Graphics": 88,
+    "Linear": 88,
+    "Action": 85,
+    "Retro": 74,
+    "Adventure": 73,
+    "Singleplayer": 68,
+    "Indie": 63,
+    "2D": 42,
+    "2D Platformer": 40,
+    "Minimalist": 34,
+    "Robots": 34,
+    "Cute": 32,
+    "Controller": 25
+  }
+}

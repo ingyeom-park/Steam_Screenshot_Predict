@@ -1,0 +1,26 @@
+{
+  "appid": 1171320,
+  "success": true,
+  "tags": {
+    "Comedy": 212,
+    "Funny": 205,
+    "Short": 202,
+    "Casual": 200,
+    "Cute": 192,
+    "Mystery": 188,
+    "Detective": 176,
+    "Exploration": 156,
+    "Investigation": 152,
+    "Colorful": 144,
+    "Relaxing": 130,
+    "Walking Simulator": 123,
+    "Point & Click": 112,
+    "Sequel": 100,
+    "Soundtrack": 78,
+    "Indie": 73,
+    "Interactive Fiction": 64,
+    "Adventure": 52,
+    "Singleplayer": 38,
+    "LGBTQ+": 11
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1661360,
+  "success": true,
+  "tags": {
+    "Tactical RPG": 122,
+    "Turn-Based Combat": 116,
+    "Strategy": 112,
+    "RPG": 111,
+    "Turn-Based Tactics": 107,
+    "Dungeon Crawler": 101,
+    "Party-Based RPG": 97,
+    "Strategy RPG": 94,
+    "Turn-Based Strategy": 92,
+    "Character Customization": 90,
+    "Open World": 88,
+    "2D": 85,
+    "Dark Fantasy": 71,
+    "Fantasy": 69,
+    "Magic": 68,
+    "Adventure": 56,
+    "Tactical": 54,
+    "Singleplayer": 50,
+    "Indie": 49,
+    "Combat": 29
+  }
+}

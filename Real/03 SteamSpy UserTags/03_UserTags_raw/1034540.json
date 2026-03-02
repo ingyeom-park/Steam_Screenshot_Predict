@@ -1,0 +1,26 @@
+{
+  "appid": 1034540,
+  "success": true,
+  "tags": {
+    "Board Game": 116,
+    "Economy": 111,
+    "Turn-Based Strategy": 108,
+    "Resource Management": 102,
+    "Historical": 94,
+    "Strategy": 91,
+    "Early Access": 85,
+    "Grand Strategy": 80,
+    "Turn-Based": 77,
+    "Score Attack": 75,
+    "Singleplayer": 73,
+    "Multiplayer": 71,
+    "Card Game": 69,
+    "Competitive": 67,
+    "Tabletop": 65,
+    "Medieval": 63,
+    "Lore-Rich": 61,
+    "Indie": 58,
+    "2D": 50,
+    "Tactical": 48
+  }
+}

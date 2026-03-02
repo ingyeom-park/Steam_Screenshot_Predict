@@ -1,0 +1,26 @@
+{
+  "appid": 2444290,
+  "success": true,
+  "tags": {
+    "Arcade": 330,
+    "Casual": 324,
+    "Action": 320,
+    "Indie": 316,
+    "Retro": 313,
+    "Space": 307,
+    "Replay Value": 302,
+    "Family Friendly": 296,
+    "Bullet Hell": 294,
+    "Score Attack": 290,
+    "Collectathon": 288,
+    "Puzzle": 286,
+    "Fast-Paced": 284,
+    "Old School": 282,
+    "1990's": 279,
+    "1980s": 268,
+    "Spaceships": 259,
+    "PvP": 253,
+    "Local Multiplayer": 243,
+    "Adventure": 238
+  }
+}

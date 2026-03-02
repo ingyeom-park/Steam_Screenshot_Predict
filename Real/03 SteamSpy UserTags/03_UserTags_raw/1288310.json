@@ -1,0 +1,26 @@
+{
+  "appid": 1288310,
+  "success": true,
+  "tags": {
+    "Horror": 272,
+    "Indie": 236,
+    "Puzzle": 189,
+    "Drama": 166,
+    "2D": 152,
+    "Mystery": 137,
+    "Atmospheric": 116,
+    "Singleplayer": 113,
+    "Psychological Horror": 113,
+    "Visual Novel": 101,
+    "Thriller": 83,
+    "Old School": 80,
+    "Hand-drawn": 79,
+    "Retro": 77,
+    "Supernatural": 76,
+    "RPG": 59,
+    "Puzzle-Platformer": 50,
+    "Narration": 48,
+    "Conversation": 46,
+    "Text-Based": 46
+  }
+}

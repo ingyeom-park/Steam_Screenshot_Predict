@@ -1,0 +1,26 @@
+{
+  "appid": 1515210,
+  "success": true,
+  "tags": {
+    "Co-op": 301,
+    "Puzzle": 261,
+    "Online Co-Op": 182,
+    "Multiplayer": 145,
+    "Escape Room": 130,
+    "Horror": 121,
+    "Mystery": 112,
+    "Point & Click": 82,
+    "Adventure": 75,
+    "Indie": 60,
+    "Psychological Horror": 56,
+    "Local Co-Op": 46,
+    "Story Rich": 40,
+    "Atmospheric": 36,
+    "Local Multiplayer": 35,
+    "Asynchronous Multiplayer": 32,
+    "Thriller": 30,
+    "2D": 26,
+    "Surreal": 20,
+    "3D": 20
+  }
+}

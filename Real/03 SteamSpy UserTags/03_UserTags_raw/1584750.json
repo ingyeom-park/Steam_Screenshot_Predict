@@ -1,0 +1,25 @@
+{
+  "appid": 1584750,
+  "success": true,
+  "tags": {
+    "Action": 198,
+    "Arcade": 175,
+    "Shooter": 170,
+    "Shoot 'Em Up": 159,
+    "Twin Stick Shooter": 158,
+    "Top-Down Shooter": 149,
+    "3D": 140,
+    "Top-Down": 132,
+    "Post-apocalyptic": 123,
+    "Retro": 114,
+    "Robots": 102,
+    "Sci-fi": 100,
+    "Military": 88,
+    "Old School": 74,
+    "Controller": 58,
+    "Score Attack": 44,
+    "Singleplayer": 29,
+    "Multiplayer": 26,
+    "Indie": 24
+  }
+}

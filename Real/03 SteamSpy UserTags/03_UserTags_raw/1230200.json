@@ -1,0 +1,26 @@
+{
+  "appid": 1230200,
+  "success": true,
+  "tags": {
+    "Adventure": 437,
+    "Indie": 429,
+    "RPG": 427,
+    "Female Protagonist": 424,
+    "Story Rich": 421,
+    "Lore-Rich": 413,
+    "LGBTQ+": 409,
+    "Point & Click": 404,
+    "Dating Sim": 401,
+    "Romance": 398,
+    "Casual": 396,
+    "Alternate History": 394,
+    "CRPG": 392,
+    "Narration": 391,
+    "Atmospheric": 388,
+    "Historical": 386,
+    "Relaxing": 384,
+    "Soundtrack": 379,
+    "Isometric": 375,
+    "Singleplayer": 368
+  }
+}

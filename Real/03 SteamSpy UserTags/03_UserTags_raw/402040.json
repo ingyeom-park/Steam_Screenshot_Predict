@@ -1,0 +1,19 @@
+{
+  "appid": 402040,
+  "success": true,
+  "tags": {
+    "Indie": 50,
+    "Puzzle": 50,
+    "Adventure": 46,
+    "Horror": 38,
+    "Mystery": 34,
+    "Atmospheric": 28,
+    "First-Person": 25,
+    "Walking Simulator": 17,
+    "Psychological Horror": 15,
+    "Short": 9,
+    "Exploration": 8,
+    "Singleplayer": 8,
+    "Escape Room": 6
+  }
+}

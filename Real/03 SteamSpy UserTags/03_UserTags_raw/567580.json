@@ -1,0 +1,13 @@
+{
+  "appid": 567580,
+  "success": true,
+  "tags": {
+    "Action": 42,
+    "Casual": 38,
+    "Indie": 37,
+    "Shoot 'Em Up": 12,
+    "Space": 9,
+    "Bullet Hell": 8,
+    "Shooter": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 651280,
+  "success": true,
+  "tags": {
+    "RPG": 136,
+    "Indie": 130,
+    "Adventure": 127,
+    "Pixel Graphics": 124,
+    "Horror": 118,
+    "Early Access": 110,
+    "RPGMaker": 105,
+    "2D": 101,
+    "Psychological Horror": 98,
+    "Singleplayer": 96,
+    "Arcade": 88,
+    "Puzzle": 81,
+    "Free to Play": 80,
+    "Exploration": 77,
+    "Cute": 72,
+    "Fantasy": 68,
+    "Survival": 66,
+    "Survival Horror": 59,
+    "Story Rich": 50,
+    "Combat": 40
+  }
+}

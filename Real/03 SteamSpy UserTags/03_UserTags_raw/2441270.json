@@ -1,0 +1,26 @@
+{
+  "appid": 2441270,
+  "success": true,
+  "tags": {
+    "Action": 234,
+    "Western": 213,
+    "Arcade": 206,
+    "Female Protagonist": 206,
+    "Top-Down Shooter": 200,
+    "Pixel Graphics": 186,
+    "Arena Shooter": 180,
+    "Bullet Time": 163,
+    "Score Attack": 154,
+    "2D": 146,
+    "Atmospheric": 134,
+    "Dark Fantasy": 129,
+    "Post-apocalyptic": 114,
+    "Twin Stick Shooter": 107,
+    "Shoot 'Em Up": 91,
+    "Beat 'em up": 66,
+    "Shooter": 59,
+    "Indie": 52,
+    "Top-Down": 45,
+    "Singleplayer": 43
+  }
+}

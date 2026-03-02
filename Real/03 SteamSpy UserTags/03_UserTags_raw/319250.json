@@ -1,0 +1,26 @@
+{
+  "appid": 319250,
+  "success": true,
+  "tags": {
+    "Magic": 68,
+    "Adventure": 64,
+    "RPG": 62,
+    "Indie": 62,
+    "Action": 61,
+    "Character Customization": 51,
+    "Crafting": 51,
+    "Platformer": 50,
+    "2D": 42,
+    "Singleplayer": 40,
+    "Fantasy": 36,
+    "Bullet Hell": 28,
+    "Procedural Generation": 28,
+    "Comedy": 26,
+    "Loot": 26,
+    "Colorful": 25,
+    "Action Roguelike": 25,
+    "Exploration": 22,
+    "Casual": 22,
+    "Soundtrack": 22
+  }
+}

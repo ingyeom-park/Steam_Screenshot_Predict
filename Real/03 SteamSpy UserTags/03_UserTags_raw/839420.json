@@ -1,0 +1,26 @@
+{
+  "appid": 839420,
+  "success": true,
+  "tags": {
+    "Horror": 185,
+    "Adventure": 179,
+    "Indie": 176,
+    "Action": 173,
+    "Psychological Horror": 170,
+    "Atmospheric": 161,
+    "First-Person": 159,
+    "Exploration": 153,
+    "3D": 149,
+    "Dark": 144,
+    "Story Rich": 139,
+    "Survival Horror": 134,
+    "Singleplayer": 126,
+    "Surreal": 119,
+    "Mystery": 114,
+    "Supernatural": 106,
+    "Action-Adventure": 103,
+    "Stealth": 101,
+    "Thriller": 88,
+    "Multiplayer": 71
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 809230,
+  "success": true,
+  "tags": {
+    "Strategy": 155,
+    "World War II": 120,
+    "Simulation": 100,
+    "Turn-Based": 98,
+    "Indie": 95,
+    "Grand Strategy": 82,
+    "Wargame": 82,
+    "Turn-Based Strategy": 77,
+    "Military": 66,
+    "Hex Grid": 65,
+    "War": 62,
+    "Turn-Based Combat": 58,
+    "Historical": 57,
+    "Singleplayer": 53,
+    "Turn-Based Tactics": 51,
+    "Alternate History": 47,
+    "Tactical": 45,
+    "Action": 32,
+    "Multiplayer": 7,
+    "Puzzle": 6
+  }
+}

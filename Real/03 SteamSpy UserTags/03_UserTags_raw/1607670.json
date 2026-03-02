@@ -1,0 +1,23 @@
+{
+  "appid": 1607670,
+  "success": true,
+  "tags": {
+    "Action": 70,
+    "Adventure": 65,
+    "Puzzle-Platformer": 55,
+    "Platformer": 45,
+    "Puzzle": 38,
+    "Score Attack": 33,
+    "2D Platformer": 32,
+    "Old School": 29,
+    "2D": 28,
+    "Pixel Graphics": 27,
+    "Retro": 23,
+    "Level Editor": 22,
+    "Indie": 21,
+    "Robots": 18,
+    "Stealth": 16,
+    "Controller": 14,
+    "Singleplayer": 13
+  }
+}

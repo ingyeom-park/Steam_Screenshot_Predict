@@ -1,0 +1,26 @@
+{
+  "appid": 594050,
+  "success": true,
+  "tags": {
+    "Action": 152,
+    "Adventure": 146,
+    "Singleplayer": 143,
+    "First-Person": 140,
+    "Dystopian ": 136,
+    "Shooter": 128,
+    "FPS": 127,
+    "Sci-fi": 125,
+    "Indie": 117,
+    "Atmospheric": 115,
+    "Horror": 108,
+    "Modern": 103,
+    "PvE": 98,
+    "Violent": 96,
+    "Survival": 93,
+    "Nostalgia": 86,
+    "Zombies": 85,
+    "Linear": 82,
+    "Survival Horror": 79,
+    "Dark": 77
+  }
+}

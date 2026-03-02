@@ -1,0 +1,25 @@
+{
+  "appid": 841660,
+  "success": true,
+  "tags": {
+    "Adventure": 32,
+    "Indie": 32,
+    "Action": 30,
+    "RPG": 29,
+    "Strategy": 29,
+    "Singleplayer": 13,
+    "2D": 13,
+    "Great Soundtrack": 12,
+    "Bullet Hell": 12,
+    "Atmospheric": 12,
+    "Turn-Based": 12,
+    "Side Scroller": 11,
+    "Platformer": 11,
+    "Strategy RPG": 10,
+    "Pixel Graphics": 9,
+    "Difficult": 9,
+    "Relaxing": 9,
+    "Action RPG": 9,
+    "Turn-Based Strategy": 8
+  }
+}

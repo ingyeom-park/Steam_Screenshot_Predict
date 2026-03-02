@@ -1,0 +1,26 @@
+{
+  "appid": 724300,
+  "success": true,
+  "tags": {
+    "Indie": 98,
+    "Action": 92,
+    "Fighting": 89,
+    "2D Fighter": 86,
+    "Pixel Graphics": 82,
+    "Multiplayer": 76,
+    "2D": 74,
+    "Local Multiplayer": 73,
+    "Retro": 68,
+    "Arcade": 64,
+    "Casual": 59,
+    "Early Access": 59,
+    "Platformer": 56,
+    "Martial Arts": 54,
+    "4 Player Local": 52,
+    "Beat 'em up": 50,
+    "Singleplayer": 48,
+    "Stylized": 46,
+    "Ninja": 42,
+    "Spectacle fighter": 37
+  }
+}

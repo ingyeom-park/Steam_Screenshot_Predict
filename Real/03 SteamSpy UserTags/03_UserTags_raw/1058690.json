@@ -1,0 +1,26 @@
+{
+  "appid": 1058690,
+  "success": true,
+  "tags": {
+    "Indie": 134,
+    "RPG": 129,
+    "Casual": 126,
+    "Adventure": 122,
+    "Card Game": 122,
+    "Interactive Fiction": 113,
+    "Visual Novel": 111,
+    "Choices Matter": 110,
+    "Deckbuilding": 103,
+    "Choose Your Own Adventure": 94,
+    "Conversation": 86,
+    "Text-Based": 85,
+    "Narrative": 83,
+    "Story Rich": 79,
+    "Exploration": 76,
+    "Relaxing": 74,
+    "Singleplayer": 65,
+    "2D": 59,
+    "Mouse only": 51,
+    "Colorful": 49
+  }
+}

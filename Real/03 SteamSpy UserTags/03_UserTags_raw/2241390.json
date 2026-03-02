@@ -1,0 +1,24 @@
+{
+  "appid": 2241390,
+  "success": true,
+  "tags": {
+    "Arena Shooter": 162,
+    "Bullet Hell": 155,
+    "Top-Down Shooter": 152,
+    "PvE": 147,
+    "Arcade": 141,
+    "Action": 137,
+    "Rogue-like": 131,
+    "Top-Down": 124,
+    "Pixel Graphics": 109,
+    "Space": 98,
+    "Sci-fi": 97,
+    "Score Attack": 84,
+    "Robots": 72,
+    "Aliens": 58,
+    "Futuristic": 42,
+    "Retro": 28,
+    "Singleplayer": 27,
+    "Indie": 22
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 311250,
+  "success": true,
+  "tags": {
+    "Horror": 172,
+    "Adventure": 165,
+    "Action": 162,
+    "Indie": 158,
+    "Survival Horror": 154,
+    "First-Person": 145,
+    "VR": 140,
+    "Dark": 139,
+    "Psychological Horror": 137,
+    "Singleplayer": 133,
+    "Mature": 126,
+    "Stealth": 120,
+    "Gore": 116,
+    "Violent": 110,
+    "Puzzle-Platformer": 107,
+    "Atmospheric": 97,
+    "Detective": 83,
+    "Mystery": 70,
+    "3D Vision": 66,
+    "Puzzle": 63
+  }
+}

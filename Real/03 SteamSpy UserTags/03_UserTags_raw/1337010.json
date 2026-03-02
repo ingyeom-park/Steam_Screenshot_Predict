@@ -1,0 +1,26 @@
+{
+  "appid": 1337010,
+  "success": true,
+  "tags": {
+    "Casual": 267,
+    "Wholesome": 262,
+    "Cozy": 255,
+    "Family Friendly": 250,
+    "Nature": 246,
+    "Female Protagonist": 234,
+    "Adventure": 228,
+    "Exploration": 216,
+    "Action-Adventure": 208,
+    "3D": 205,
+    "Open World": 204,
+    "Story Rich": 192,
+    "Funny": 188,
+    "Singleplayer": 186,
+    "Indie": 186,
+    "Cute": 179,
+    "Cartoony": 178,
+    "Creature Collector": 169,
+    "Collectathon": 163,
+    "Colorful": 145
+  }
+}

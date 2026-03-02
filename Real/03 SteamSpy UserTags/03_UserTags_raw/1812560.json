@@ -1,0 +1,26 @@
+{
+  "appid": 1812560,
+  "success": true,
+  "tags": {
+    "Puzzle": 140,
+    "Adventure": 134,
+    "Rhythm": 131,
+    "Indie": 127,
+    "Funny": 122,
+    "Co-op": 113,
+    "Co-op Campaign": 111,
+    "Singleplayer": 104,
+    "Online Co-Op": 102,
+    "Local Co-Op": 98,
+    "Local Multiplayer": 97,
+    "4 Player Local": 94,
+    "Multiplayer": 91,
+    "Action": 87,
+    "Arcade": 82,
+    "Family Friendly": 78,
+    "Music": 76,
+    "Comedy": 58,
+    "Colorful": 52,
+    "Cartoony": 49
+  }
+}

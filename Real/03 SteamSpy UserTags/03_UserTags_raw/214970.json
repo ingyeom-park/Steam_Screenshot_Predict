@@ -1,0 +1,20 @@
+{
+  "appid": 214970,
+  "success": true,
+  "tags": {
+    "Action": 132,
+    "Indie": 120,
+    "Platformer": 92,
+    "2D": 77,
+    "Physics": 60,
+    "Shooter": 48,
+    "Sci-fi": 42,
+    "Singleplayer": 38,
+    "Side Scroller": 33,
+    "Difficult": 26,
+    "Shoot 'Em Up": 20,
+    "Great Soundtrack": 19,
+    "Mechs": 10,
+    "Robots": 8
+  }
+}

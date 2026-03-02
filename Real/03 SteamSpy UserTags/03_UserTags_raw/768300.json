@@ -1,0 +1,26 @@
+{
+  "appid": 768300,
+  "success": true,
+  "tags": {
+    "Indie": 134,
+    "Casual": 128,
+    "Simulation": 124,
+    "Funny": 121,
+    "Economy": 118,
+    "Singleplayer": 109,
+    "Experimental": 103,
+    "Mouse only": 97,
+    "Resource Management": 93,
+    "Clicker": 91,
+    "Management": 86,
+    "Trading": 79,
+    "Text-Based": 70,
+    "Minimalist": 61,
+    "Stylized": 59,
+    "Magic": 55,
+    "Gambling": 52,
+    "Real-Time": 42,
+    "Short": 33,
+    "Action": 31
+  }
+}

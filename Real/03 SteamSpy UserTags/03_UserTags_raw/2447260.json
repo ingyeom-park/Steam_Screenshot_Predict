@@ -1,0 +1,26 @@
+{
+  "appid": 2447260,
+  "success": true,
+  "tags": {
+    "Action": 933,
+    "Adventure": 586,
+    "Voxel": 565,
+    "Tower Defense": 557,
+    "Indie": 547,
+    "RTS": 528,
+    "Cats": 527,
+    "Co-op": 522,
+    "Strategy": 521,
+    "Puzzle": 515,
+    "Zombies": 508,
+    "Match 3": 504,
+    "Pixel Graphics": 500,
+    "Funny": 499,
+    "Cute": 497,
+    "Casual": 483,
+    "Family Friendly": 481,
+    "Singleplayer": 478,
+    "Local Co-Op": 475,
+    "Deckbuilding": 473
+  }
+}

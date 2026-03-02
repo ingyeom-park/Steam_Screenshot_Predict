@@ -1,0 +1,26 @@
+{
+  "appid": 1376760,
+  "success": true,
+  "tags": {
+    "Adventure": 245,
+    "Point & Click": 237,
+    "Puzzle": 229,
+    "Sci-fi": 219,
+    "Indie": 214,
+    "Cyberpunk": 211,
+    "Robots": 204,
+    "Atmospheric": 188,
+    "Soundtrack": 177,
+    "Hand-drawn": 169,
+    "Funny": 159,
+    "Stylized": 146,
+    "Cute": 144,
+    "Steampunk": 133,
+    "Colorful": 115,
+    "Story Rich": 99,
+    "Comedy": 83,
+    "Dystopian ": 65,
+    "Singleplayer": 47,
+    "2D": 30
+  }
+}

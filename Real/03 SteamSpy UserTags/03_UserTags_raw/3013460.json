@@ -1,0 +1,25 @@
+{
+  "appid": 3013460,
+  "success": true,
+  "tags": {
+    "Casual": 214,
+    "Funny": 188,
+    "Cute": 185,
+    "Indie": 183,
+    "Party Game": 181,
+    "2D": 173,
+    "PvP": 156,
+    "Local Multiplayer": 149,
+    "Arcade": 140,
+    "Top-Down": 131,
+    "Minigames": 120,
+    "Controller": 118,
+    "Cartoony": 105,
+    "Colorful": 91,
+    "Action": 80,
+    "Family Friendly": 77,
+    "Comedy": 43,
+    "4 Player Local": 30,
+    "Fast-Paced": 25
+  }
+}

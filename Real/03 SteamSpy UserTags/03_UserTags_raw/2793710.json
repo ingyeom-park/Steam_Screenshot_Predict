@@ -1,0 +1,26 @@
+{
+  "appid": 2793710,
+  "success": true,
+  "tags": {
+    "Simulation": 195,
+    "Horror": 186,
+    "3D": 180,
+    "Psychological Horror": 176,
+    "First-Person": 174,
+    "Supernatural": 157,
+    "Controller": 139,
+    "Walking Simulator": 132,
+    "Multiple Endings": 126,
+    "Linear": 123,
+    "Hidden Object": 102,
+    "Realistic": 101,
+    "Thriller": 98,
+    "Atmospheric": 89,
+    "Adventure": 77,
+    "Dark": 44,
+    "Mystery": 38,
+    "Singleplayer": 35,
+    "Indie": 24,
+    "Multiplayer": 6
+  }
+}

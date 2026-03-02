@@ -1,0 +1,26 @@
+{
+  "appid": 2907190,
+  "success": true,
+  "tags": {
+    "Simulation": 165,
+    "Thriller": 162,
+    "Psychological Horror": 160,
+    "Walking Simulator": 153,
+    "Cinematic": 140,
+    "3D Platformer": 126,
+    "Exploration": 123,
+    "3D": 115,
+    "First-Person": 110,
+    "Realistic": 98,
+    "Psychedelic": 95,
+    "1990's": 84,
+    "Atmospheric": 72,
+    "Mystery": 57,
+    "Horror": 56,
+    "Singleplayer": 29,
+    "Linear": 27,
+    "Indie": 24,
+    "Violent": 22,
+    "Adventure": 22
+  }
+}

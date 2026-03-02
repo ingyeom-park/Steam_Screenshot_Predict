@@ -1,0 +1,26 @@
+{
+  "appid": 1001800,
+  "success": true,
+  "tags": {
+    "Indie": 127,
+    "Action": 125,
+    "Adventure": 114,
+    "Metroidvania": 38,
+    "Platformer": 33,
+    "Great Soundtrack": 27,
+    "Pixel Graphics": 25,
+    "2D": 24,
+    "Ninja": 23,
+    "Singleplayer": 19,
+    "Side Scroller": 18,
+    "Hack and Slash": 17,
+    "Post-apocalyptic": 17,
+    "Cute": 17,
+    "Parkour": 16,
+    "Open World": 15,
+    "Casual": 14,
+    "Exploration": 14,
+    "Atmospheric": 14,
+    "Fantasy": 13
+  }
+}

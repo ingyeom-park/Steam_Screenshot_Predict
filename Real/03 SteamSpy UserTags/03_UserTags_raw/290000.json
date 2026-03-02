@@ -1,0 +1,15 @@
+{
+  "appid": 290000,
+  "success": true,
+  "tags": {
+    "Indie": 36,
+    "Casual": 32,
+    "Action": 30,
+    "Music": 24,
+    "Arcade": 19,
+    "Shoot 'Em Up": 11,
+    "Bullet Hell": 10,
+    "Shooter": 9,
+    "Rhythm": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1240550,
+  "success": true,
+  "tags": {
+    "Management": 131,
+    "Strategy": 128,
+    "Minigames": 125,
+    "Resource Management": 121,
+    "Turn-Based Combat": 115,
+    "Auto Battler": 113,
+    "Pixel Graphics": 112,
+    "World War II": 107,
+    "Turn-Based Strategy": 103,
+    "Turn-Based Tactics": 101,
+    "Historical": 98,
+    "Military": 94,
+    "Top-Down": 89,
+    "War": 85,
+    "Singleplayer": 83,
+    "2D": 77,
+    "Indie": 69,
+    "Colorful": 65,
+    "Simulation": 49,
+    "Wargame": 32
+  }
+}

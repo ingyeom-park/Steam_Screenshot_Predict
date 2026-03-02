@@ -1,0 +1,25 @@
+{
+  "appid": 1225560,
+  "success": true,
+  "tags": {
+    "Action": 92,
+    "Puzzle": 87,
+    "Adventure": 84,
+    "Singleplayer": 67,
+    "Family Friendly": 66,
+    "Atmospheric": 63,
+    "Colorful": 56,
+    "Platformer": 51,
+    "Co-op": 38,
+    "Puzzle-Platformer": 34,
+    "Beautiful": 27,
+    "Great Soundtrack": 24,
+    "Multiplayer": 23,
+    "Side Scroller": 21,
+    "Indie": 18,
+    "Cute": 18,
+    "2D Platformer": 13,
+    "Controller": 8,
+    "Physics": 7
+  }
+}

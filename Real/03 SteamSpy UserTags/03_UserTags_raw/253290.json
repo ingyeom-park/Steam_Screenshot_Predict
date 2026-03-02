@@ -1,0 +1,26 @@
+{
+  "appid": 253290,
+  "success": true,
+  "tags": {
+    "Indie": 127,
+    "Action": 121,
+    "First-Person": 119,
+    "Abstract": 115,
+    "Runner": 110,
+    "Great Soundtrack": 103,
+    "Parkour": 100,
+    "Local Multiplayer": 98,
+    "Minimalist": 95,
+    "Platformer": 92,
+    "Arcade": 89,
+    "Cult Classic": 84,
+    "Casual": 82,
+    "3D Platformer": 77,
+    "Split Screen": 74,
+    "Atmospheric": 74,
+    "Fast-Paced": 71,
+    "Singleplayer": 70,
+    "Precision Platformer": 65,
+    "Psychedelic": 64
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 407290,
+  "success": true,
+  "tags": {
+    "Dinosaurs": 128,
+    "Difficult": 121,
+    "Short": 118,
+    "Colorful": 112,
+    "Precision Platformer": 106,
+    "Pixel Graphics": 99,
+    "Retro": 96,
+    "Controller": 93,
+    "Platformer": 90,
+    "Singleplayer": 82,
+    "Adventure": 74,
+    "Indie": 64,
+    "2D": 43,
+    "Action": 40,
+    "Action-Adventure": 35,
+    "Fantasy": 33,
+    "Supernatural": 31,
+    "Side Scroller": 31,
+    "Sandbox": 26,
+    "Physics": 24
+  }
+}

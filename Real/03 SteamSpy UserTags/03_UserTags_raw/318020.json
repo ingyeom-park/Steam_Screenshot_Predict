@@ -1,0 +1,22 @@
+{
+  "appid": 318020,
+  "success": true,
+  "tags": {
+    "Strategy": 204,
+    "RTS": 198,
+    "Base-Building": 116,
+    "Multiplayer": 108,
+    "Military": 106,
+    "War": 66,
+    "Singleplayer": 61,
+    "Action": 36,
+    "Classic": 31,
+    "Indie": 30,
+    "Tactical": 27,
+    "Co-op": 21,
+    "Real-Time": 16,
+    "Real Time Tactics": 15,
+    "Tanks": 15,
+    "Simulation": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 3201240,
+  "success": true,
+  "tags": {
+    "RPG": 86,
+    "Pixel Graphics": 80,
+    "Adventure": 77,
+    "Exploration": 74,
+    "Investigation": 71,
+    "Psychological Horror": 65,
+    "Story Rich": 63,
+    "Singleplayer": 61,
+    "Dark Comedy": 59,
+    "JRPG": 57,
+    "Indie": 55,
+    "Grid-Based Movement": 35,
+    "2D": 33,
+    "Comic Book": 31,
+    "Hand-drawn": 29,
+    "1990's": 27,
+    "Retro": 25,
+    "Psychological": 23,
+    "Detective": 21,
+    "Conversation": 19
+  }
+}

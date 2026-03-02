@@ -1,0 +1,26 @@
+{
+  "appid": 835430,
+  "success": true,
+  "tags": {
+    "Action-Adventure": 256,
+    "Metroidvania": 254,
+    "Puzzle-Platformer": 244,
+    "Souls-like": 241,
+    "Difficult": 240,
+    "2D Platformer": 230,
+    "Exploration": 219,
+    "Precision Platformer": 219,
+    "2D": 216,
+    "Puzzle": 214,
+    "Platformer": 210,
+    "Female Protagonist": 205,
+    "Controller": 188,
+    "Action": 187,
+    "Pixel Graphics": 182,
+    "Adventure": 172,
+    "Singleplayer": 165,
+    "Retro": 152,
+    "Indie": 142,
+    "Kickstarter": 99
+  }
+}

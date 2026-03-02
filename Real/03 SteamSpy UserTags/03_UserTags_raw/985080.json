@@ -1,0 +1,26 @@
+{
+  "appid": 985080,
+  "success": true,
+  "tags": {
+    "Casual": 136,
+    "Indie": 131,
+    "Visual Novel": 128,
+    "Anime": 126,
+    "Cute": 121,
+    "Dating Sim": 114,
+    "Simulation": 112,
+    "Story Rich": 110,
+    "RPG": 109,
+    "Colorful": 106,
+    "Romance": 101,
+    "Funny": 94,
+    "Strategy": 85,
+    "2D Platformer": 71,
+    "2D": 70,
+    "Multiple Endings": 63,
+    "Singleplayer": 58,
+    "Psychological Horror": 44,
+    "FPS": 41,
+    "Hentai": 39
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appid": 2256360,
+  "success": true,
+  "tags": {
+    "Side Scroller": 176,
+    "2D Platformer": 170,
+    "Shoot 'Em Up": 165,
+    "Platformer": 161,
+    "Shooter": 154,
+    "2D": 145,
+    "Controller": 137,
+    "Action": 133,
+    "Linear": 129,
+    "Multiple Endings": 121,
+    "Cartoony": 102,
+    "Pixel Graphics": 100,
+    "Space": 86,
+    "Aliens": 73,
+    "Old School": 58,
+    "Retro": 42,
+    "Combat": 26,
+    "Singleplayer": 25,
+    "Indie": 21
+  }
+}

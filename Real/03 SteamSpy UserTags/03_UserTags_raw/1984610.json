@@ -1,0 +1,26 @@
+{
+  "appid": 1984610,
+  "success": true,
+  "tags": {
+    "VR": 143,
+    "Hack and Slash": 137,
+    "Action RPG": 134,
+    "Swordplay": 131,
+    "RPG": 128,
+    "Beat 'em up": 121,
+    "Strategy": 120,
+    "First-Person": 118,
+    "Third Person": 115,
+    "Funny": 111,
+    "Base-Building": 107,
+    "Fantasy": 101,
+    "Building": 97,
+    "Action": 92,
+    "Comedy": 88,
+    "Combat": 75,
+    "Asynchronous Multiplayer": 66,
+    "Singleplayer": 61,
+    "Gore": 51,
+    "Indie": 49
+  }
+}

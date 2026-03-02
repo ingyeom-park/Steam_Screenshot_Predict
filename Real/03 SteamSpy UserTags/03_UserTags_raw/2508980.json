@@ -1,0 +1,26 @@
+{
+  "appid": 2508980,
+  "success": true,
+  "tags": {
+    "Survival Horror": 100,
+    "FPS": 94,
+    "Horror": 91,
+    "Zombies": 89,
+    "Shooter": 83,
+    "Singleplayer": 73,
+    "First-Person": 71,
+    "Action": 67,
+    "Indie": 65,
+    "Adventure": 63,
+    "Gore": 61,
+    "Atmospheric": 59,
+    "Dark": 55,
+    "Casual": 52,
+    "Physics": 45,
+    "Linear": 36,
+    "Exploration": 33,
+    "Story Rich": 31,
+    "Controller": 29,
+    "Local Multiplayer": 27
+  }
+}

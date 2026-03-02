@@ -1,0 +1,26 @@
+{
+  "appid": 237430,
+  "success": true,
+  "tags": {
+    "RPG": 150,
+    "Strategy": 118,
+    "Turn-Based": 109,
+    "Indie": 77,
+    "Turn-Based Strategy": 73,
+    "Historical": 66,
+    "Tactical": 55,
+    "Exploration": 55,
+    "Isometric": 41,
+    "Turn-Based Combat": 38,
+    "Story Rich": 38,
+    "Multiple Endings": 32,
+    "CRPG": 27,
+    "Survival": 27,
+    "Adventure": 26,
+    "Singleplayer": 23,
+    "Kickstarter": 21,
+    "Hex Grid": 14,
+    "Character Customization": 12,
+    "Choices Matter": 8
+  }
+}

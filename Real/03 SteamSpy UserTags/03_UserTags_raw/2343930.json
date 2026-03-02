@@ -1,0 +1,26 @@
+{
+  "appid": 2343930,
+  "success": true,
+  "tags": {
+    "Strategy": 326,
+    "Online Co-Op": 298,
+    "RTS": 295,
+    "Wargame": 281,
+    "Stylized": 246,
+    "Isometric": 240,
+    "Procedural Generation": 236,
+    "Third Person": 231,
+    "Resource Management": 221,
+    "Base-Building": 198,
+    "Medieval": 189,
+    "City Builder": 187,
+    "Replay Value": 182,
+    "Tactical": 167,
+    "Action": 160,
+    "Real Time Tactics": 158,
+    "Military": 151,
+    "Singleplayer": 146,
+    "Indie": 143,
+    "Historical": 141
+  }
+}

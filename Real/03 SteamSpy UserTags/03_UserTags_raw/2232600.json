@@ -1,0 +1,26 @@
+{
+  "appid": 2232600,
+  "success": true,
+  "tags": {
+    "Online Co-Op": 218,
+    "Hidden Object": 205,
+    "Puzzle": 203,
+    "Psychological Horror": 203,
+    "Horror": 193,
+    "Casual": 187,
+    "Walking Simulator": 184,
+    "Multiplayer": 169,
+    "Singleplayer": 146,
+    "Co-op": 141,
+    "Exploration": 127,
+    "Choices Matter": 122,
+    "Linear": 108,
+    "Atmospheric": 97,
+    "Psychological": 84,
+    "First-Person": 66,
+    "Adventure": 49,
+    "3D": 46,
+    "PvE": 30,
+    "Indie": 26
+  }
+}

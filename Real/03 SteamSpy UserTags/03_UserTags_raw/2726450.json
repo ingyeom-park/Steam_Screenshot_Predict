@@ -1,0 +1,26 @@
+{
+  "appid": 2726450,
+  "success": true,
+  "tags": {
+    "Action": 163,
+    "Indie": 161,
+    "Action Roguelike": 152,
+    "Bullet Hell": 150,
+    "Arcade": 146,
+    "2D": 137,
+    "Twin Stick Shooter": 137,
+    "Experimental": 132,
+    "Minimalist": 131,
+    "Moddable": 129,
+    "Perma Death": 125,
+    "Score Attack": 114,
+    "Singleplayer": 113,
+    "Co-op": 107,
+    "Rogue-lite": 105,
+    "Local Co-Op": 95,
+    "Controller": 75,
+    "Local Multiplayer": 60,
+    "Multiplayer": 59,
+    "Gun Customization": 46
+  }
+}

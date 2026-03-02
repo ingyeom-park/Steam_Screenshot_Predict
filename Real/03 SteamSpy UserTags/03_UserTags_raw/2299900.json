@@ -1,0 +1,26 @@
+{
+  "appid": 2299900,
+  "success": true,
+  "tags": {
+    "RPG": 137,
+    "Medieval": 121,
+    "Dark Fantasy": 119,
+    "Pixel Graphics": 110,
+    "JRPG": 109,
+    "2D": 108,
+    "Hand-drawn": 106,
+    "RPGMaker": 102,
+    "Atmospheric": 101,
+    "Surreal": 95,
+    "Top-Down": 95,
+    "Turn-Based Combat": 95,
+    "Historical": 91,
+    "Singleplayer": 82,
+    "Combat": 79,
+    "Linear": 78,
+    "Indie": 68,
+    "Exploration": 34,
+    "Retro": 16,
+    "Stylized": 14
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1949300,
+  "success": true,
+  "tags": {
+    "Adventure": 197,
+    "Puzzle": 171,
+    "Mystery Dungeon": 163,
+    "2D": 160,
+    "3D": 155,
+    "Hand-drawn": 146,
+    "America": 138,
+    "Detective": 130,
+    "Investigation": 123,
+    "Logic": 113,
+    "Mystery": 102,
+    "Time Travel": 100,
+    "Narration": 87,
+    "Linear": 73,
+    "Tutorial": 58,
+    "Multiple Endings": 42,
+    "Singleplayer": 28,
+    "Time Manipulation": 27,
+    "Indie": 21,
+    "Escape Room": 8
+  }
+}

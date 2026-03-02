@@ -1,0 +1,26 @@
+{
+  "appid": 758190,
+  "success": true,
+  "tags": {
+    "RPG": 267,
+    "Strategy": 172,
+    "Idler": 158,
+    "Loot": 155,
+    "Pixel Graphics": 134,
+    "Casual": 126,
+    "Adventure": 121,
+    "Clicker": 121,
+    "Management": 105,
+    "Indie": 102,
+    "Simulation": 98,
+    "Dungeon Crawler": 85,
+    "Turn-Based Combat": 60,
+    "Singleplayer": 43,
+    "2D": 41,
+    "Turn-Based": 41,
+    "Hack and Slash": 36,
+    "Fantasy": 29,
+    "JRPG": 28,
+    "Auto Battler": 28
+  }
+}

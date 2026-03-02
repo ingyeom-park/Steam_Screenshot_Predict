@@ -1,0 +1,21 @@
+{
+  "appid": 415920,
+  "success": true,
+  "tags": {
+    "RPG": 46,
+    "Indie": 44,
+    "Strategy": 41,
+    "Tactical RPG": 25,
+    "Turn-Based Tactics": 25,
+    "Turn-Based": 22,
+    "Pixel Graphics": 21,
+    "Party-Based RPG": 17,
+    "Exploration": 16,
+    "Class-Based": 16,
+    "2D": 16,
+    "Strategy RPG": 15,
+    "Top-Down": 13,
+    "Turn-Based Strategy": 12,
+    "Character Customization": 11
+  }
+}

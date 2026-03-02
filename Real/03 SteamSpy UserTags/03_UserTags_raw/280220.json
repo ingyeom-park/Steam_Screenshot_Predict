@@ -1,0 +1,26 @@
+{
+  "appid": 280220,
+  "success": true,
+  "tags": {
+    "Tower Defense": 367,
+    "Strategy": 222,
+    "Indie": 124,
+    "RTS": 112,
+    "Singleplayer": 109,
+    "Sci-fi": 103,
+    "Real-Time with Pause": 93,
+    "Simulation": 68,
+    "Base-Building": 57,
+    "Level Editor": 52,
+    "Top-Down": 45,
+    "Addictive": 34,
+    "Resource Management": 29,
+    "2D": 28,
+    "Survival": 21,
+    "Real-Time": 14,
+    "Pixel Graphics": 13,
+    "Sandbox": 11,
+    "Great Soundtrack": 9,
+    "Casual": 5
+  }
+}

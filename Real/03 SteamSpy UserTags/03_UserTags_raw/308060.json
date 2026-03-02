@@ -1,0 +1,26 @@
+{
+  "appid": 308060,
+  "success": true,
+  "tags": {
+    "Indie": 79,
+    "Adventure": 77,
+    "Action": 72,
+    "Atmospheric": 60,
+    "Platformer": 59,
+    "Puzzle-Platformer": 58,
+    "Puzzle": 58,
+    "Dystopian ": 57,
+    "Story Rich": 51,
+    "Dark": 51,
+    "2.5D": 51,
+    "Singleplayer": 50,
+    "Political": 49,
+    "Horror": 48,
+    "Stealth": 47,
+    "Side Scroller": 46,
+    "Sci-fi": 46,
+    "Cinematic": 44,
+    "Survival": 43,
+    "Classic": 39
+  }
+}

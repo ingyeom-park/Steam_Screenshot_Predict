@@ -1,0 +1,26 @@
+{
+  "appid": 3830,
+  "success": true,
+  "tags": {
+    "Platformer": 688,
+    "Comedy": 604,
+    "Adventure": 522,
+    "Cult Classic": 496,
+    "Singleplayer": 453,
+    "Action": 397,
+    "Funny": 364,
+    "Third Person": 322,
+    "3D Platformer": 319,
+    "Classic": 275,
+    "Story Rich": 221,
+    "Psychological": 202,
+    "Great Soundtrack": 157,
+    "Surreal": 126,
+    "Cartoony": 119,
+    "Collectathon": 114,
+    "Exploration": 99,
+    "Action-Adventure": 72,
+    "3D": 66,
+    "Indie": 30
+  }
+}

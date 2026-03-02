@@ -1,0 +1,26 @@
+{
+  "appid": 576420,
+  "success": true,
+  "tags": {
+    "Traditional Roguelike": 145,
+    "Fantasy": 139,
+    "Hack and Slash": 134,
+    "Dungeon Crawler": 132,
+    "Loot": 129,
+    "Procedural Generation": 122,
+    "Turn-Based": 118,
+    "Strategy": 116,
+    "Rogue-like": 111,
+    "Perma Death": 107,
+    "Adventure": 103,
+    "RPG": 93,
+    "2D": 91,
+    "Grid-Based Movement": 88,
+    "Magic": 84,
+    "Retro": 79,
+    "Pixel Graphics": 74,
+    "Singleplayer": 65,
+    "Indie": 57,
+    "Action": 53
+  }
+}

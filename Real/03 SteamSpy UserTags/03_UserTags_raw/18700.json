@@ -1,0 +1,17 @@
+{
+  "appid": 18700,
+  "success": true,
+  "tags": {
+    "Platformer": 131,
+    "Indie": 114,
+    "Puzzle": 84,
+    "2D": 63,
+    "Casual": 51,
+    "Singleplayer": 48,
+    "Experimental": 34,
+    "Action": 26,
+    "Puzzle-Platformer": 11,
+    "Surreal": 10,
+    "Physics": 7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 12900,
+  "success": true,
+  "tags": {
+    "Music": 902,
+    "Rhythm": 591,
+    "Indie": 520,
+    "Casual": 351,
+    "Music-Based Procedural Generation": 338,
+    "Arcade": 222,
+    "Colorful": 220,
+    "Singleplayer": 192,
+    "Relaxing": 188,
+    "Score Attack": 162,
+    "Addictive": 159,
+    "Local Co-Op": 138,
+    "Procedural Generation": 138,
+    "Replay Value": 99,
+    "Puzzle": 87,
+    "Fast-Paced": 79,
+    "Great Soundtrack": 79,
+    "Racing": 68,
+    "Co-op": 60,
+    "Local Multiplayer": 57
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 241600,
+  "success": true,
+  "tags": {
+    "Roguevania": 1912,
+    "Platformer": 1821,
+    "Rogue-like": 1561,
+    "Indie": 1036,
+    "Action Roguelike": 900,
+    "Action": 572,
+    "Singleplayer": 530,
+    "2D": 528,
+    "Metroidvania": 509,
+    "RPG": 470,
+    "Rogue-lite": 344,
+    "Pixel Graphics": 330,
+    "Side Scroller": 277,
+    "Fantasy": 246,
+    "Controller": 235,
+    "Addictive": 219,
+    "Adventure": 217,
+    "Medieval": 216,
+    "Exploration": 214,
+    "Arcade": 213
+  }
+}

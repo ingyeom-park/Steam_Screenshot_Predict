@@ -1,0 +1,26 @@
+{
+  "appid": 206190,
+  "success": true,
+  "tags": {
+    "Stealth": 670,
+    "Indie": 501,
+    "Puzzle": 493,
+    "2D": 352,
+    "Pixel Graphics": 341,
+    "Singleplayer": 313,
+    "Comedy": 306,
+    "Action": 303,
+    "Strategy": 279,
+    "Noir": 265,
+    "Platformer": 233,
+    "Great Soundtrack": 223,
+    "Funny": 219,
+    "Short": 173,
+    "Hacking": 145,
+    "Level Editor": 109,
+    "GameMaker": 88,
+    "Story Rich": 80,
+    "Adventure": 77,
+    "Sci-fi": 51
+  }
+}

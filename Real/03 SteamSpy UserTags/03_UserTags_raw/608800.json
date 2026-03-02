@@ -1,0 +1,23 @@
+{
+  "appid": 608800,
+  "success": true,
+  "tags": {
+    "Indie": 1286,
+    "Action": 101,
+    "Adventure": 90,
+    "Simulation": 83,
+    "Steampunk": 82,
+    "Multiplayer": 72,
+    "Team-Based": 65,
+    "Co-op": 63,
+    "First-Person": 20,
+    "Competitive": 17,
+    "Great Soundtrack": 14,
+    "Shooter": 13,
+    "Online Co-Op": 13,
+    "Flight": 11,
+    "FPS": 10,
+    "Family Friendly": 9,
+    "PvE": 9
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appid": 1461680,
+  "success": true,
+  "tags": {
+    "RPG": 119,
+    "Interactive Fiction": 117,
+    "2D": 113,
+    "JRPG": 113,
+    "Adventure": 108,
+    "Story Rich": 101,
+    "First-Person": 100,
+    "Linear": 98,
+    "Multiple Endings": 97,
+    "Text-Based": 94,
+    "Puzzle": 93,
+    "Casual": 90,
+    "Indie": 87,
+    "Anime": 86,
+    "Mystery": 81,
+    "Emotional": 79,
+    "Singleplayer": 77,
+    "Puzzle-Platformer": 73,
+    "2D Platformer": 72
+  }
+}

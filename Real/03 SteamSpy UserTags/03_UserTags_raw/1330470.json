@@ -1,0 +1,26 @@
+{
+  "appid": 1330470,
+  "success": true,
+  "tags": {
+    "Metroidvania": 500,
+    "Platformer": 456,
+    "Action": 450,
+    "Steampunk": 434,
+    "Adventure": 426,
+    "2D Platformer": 422,
+    "Singleplayer": 419,
+    "Story Rich": 404,
+    "Exploration": 401,
+    "Action-Adventure": 383,
+    "Retro": 257,
+    "Linear": 246,
+    "Indie": 239,
+    "2.5D": 212,
+    "Combat": 209,
+    "3D Vision": 208,
+    "Simulation": 193,
+    "Old School": 189,
+    "Third Person": 168,
+    "Stylized": 165
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 747200,
+  "success": true,
+  "tags": {
+    "Adventure": 168,
+    "Exploration": 168,
+    "Sandbox": 168,
+    "Survival": 159,
+    "Open World": 157,
+    "Building": 149,
+    "Sci-fi": 139,
+    "Casual": 131,
+    "RPG": 113,
+    "Multiplayer": 107,
+    "Indie": 99,
+    "Simulation": 88,
+    "2D": 88,
+    "Base-Building": 66,
+    "Crafting": 63,
+    "Top-Down": 57,
+    "Singleplayer": 52,
+    "Pixel Graphics": 48,
+    "Action": 43,
+    "Character Customization": 42
+  }
+}

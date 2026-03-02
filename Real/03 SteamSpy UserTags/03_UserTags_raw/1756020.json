@@ -1,0 +1,26 @@
+{
+  "appid": 1756020,
+  "success": true,
+  "tags": {
+    "Metroidvania": 258,
+    "Exploration": 251,
+    "Hand-drawn": 249,
+    "Platformer": 246,
+    "Action": 243,
+    "Action-Adventure": 236,
+    "2D Platformer": 234,
+    "2D": 231,
+    "Sci-fi": 227,
+    "Adventure": 224,
+    "Family Friendly": 222,
+    "Robots": 220,
+    "1980s": 215,
+    "Shoot 'Em Up": 212,
+    "Indie": 205,
+    "RPG": 202,
+    "1990's": 196,
+    "Retro": 193,
+    "Aliens": 191,
+    "Combat": 189
+  }
+}

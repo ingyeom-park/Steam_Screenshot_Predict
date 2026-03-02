@@ -1,0 +1,26 @@
+{
+  "appid": 726200,
+  "success": true,
+  "tags": {
+    "Casual": 48,
+    "Adventure": 46,
+    "Indie": 45,
+    "Point & Click": 32,
+    "Atmospheric": 25,
+    "Interactive Fiction": 24,
+    "Story Rich": 24,
+    "Hand-drawn": 24,
+    "Short": 24,
+    "Text-Based": 20,
+    "Singleplayer": 17,
+    "Puzzle": 17,
+    "Sci-fi": 14,
+    "Futuristic": 14,
+    "Linear": 14,
+    "Mouse only": 13,
+    "Choose Your Own Adventure": 12,
+    "2D": 12,
+    "Touch-Friendly": 12,
+    "Hidden Object": 10
+  }
+}

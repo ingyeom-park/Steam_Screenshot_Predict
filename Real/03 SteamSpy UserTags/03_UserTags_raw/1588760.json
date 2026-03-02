@@ -1,0 +1,26 @@
+{
+  "appid": 1588760,
+  "success": true,
+  "tags": {
+    "Arcade": 190,
+    "Physics": 184,
+    "Casual": 180,
+    "Puzzle-Platformer": 176,
+    "3D Platformer": 171,
+    "Immersive Sim": 161,
+    "Puzzle": 160,
+    "Board Game": 151,
+    "Realistic": 145,
+    "Logic": 138,
+    "Controller": 132,
+    "Indie": 128,
+    "Platformer": 122,
+    "Adventure": 116,
+    "Precision Platformer": 107,
+    "Simulation": 96,
+    "Retro": 88,
+    "3D": 85,
+    "Singleplayer": 71,
+    "Family Friendly": 69
+  }
+}

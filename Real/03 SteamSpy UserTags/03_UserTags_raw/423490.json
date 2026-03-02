@@ -1,0 +1,19 @@
+{
+  "appid": 423490,
+  "success": true,
+  "tags": {
+    "Simulation": 73,
+    "Flight": 63,
+    "Action": 54,
+    "Military": 42,
+    "Casual": 41,
+    "Indie": 38,
+    "Multiplayer": 34,
+    "Shooter": 29,
+    "Co-op": 28,
+    "Realistic": 27,
+    "Tactical": 21,
+    "Team-Based": 18,
+    "Singleplayer": 13
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "appid": 403940,
+  "success": true,
+  "tags": {
+    "RPG": 41,
+    "Indie": 39,
+    "Action": 33,
+    "Dungeon Crawler": 28,
+    "Action Roguelike": 27,
+    "Puzzle": 23,
+    "Strategy": 22,
+    "Rogue-like": 21,
+    "Loot": 13,
+    "Rogue-lite": 11,
+    "Singleplayer": 5
+  }
+}

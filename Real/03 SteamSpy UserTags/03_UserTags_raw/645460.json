@@ -1,0 +1,26 @@
+{
+  "appid": 645460,
+  "success": true,
+  "tags": {
+    "Casual": 163,
+    "Space": 155,
+    "PvP": 153,
+    "PvE": 150,
+    "RTS": 143,
+    "Arcade": 137,
+    "Strategy": 135,
+    "2D": 132,
+    "Relaxing": 130,
+    "Action": 124,
+    "Simulation": 121,
+    "Puzzle": 118,
+    "Tactical": 115,
+    "Sci-fi": 106,
+    "Atmospheric": 98,
+    "Futuristic": 86,
+    "Massively Multiplayer": 78,
+    "Multiplayer": 77,
+    "Singleplayer": 72,
+    "Indie": 63
+  }
+}

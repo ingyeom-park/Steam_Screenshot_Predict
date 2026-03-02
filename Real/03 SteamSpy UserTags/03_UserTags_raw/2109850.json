@@ -1,0 +1,26 @@
+{
+  "appid": 2109850,
+  "success": true,
+  "tags": {
+    "Job Simulator": 160,
+    "Cozy": 154,
+    "Comedy": 151,
+    "Relaxing": 147,
+    "Cute": 143,
+    "Immersive Sim": 136,
+    "VR": 133,
+    "Time Management": 128,
+    "Funny": 123,
+    "Cartoon": 121,
+    "Stylized": 114,
+    "Indie": 112,
+    "Sandbox": 100,
+    "Singleplayer": 99,
+    "Casual": 97,
+    "Simulation": 89,
+    "Management": 80,
+    "Tutorial": 62,
+    "Cartoony": 45,
+    "Realistic": 32
+  }
+}

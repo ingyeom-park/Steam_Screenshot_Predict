@@ -1,0 +1,26 @@
+{
+  "appid": 1570010,
+  "success": true,
+  "tags": {
+    "Atmospheric": 211,
+    "Action-Adventure": 208,
+    "Post-apocalyptic": 204,
+    "Puzzle-Platformer": 202,
+    "2.5D": 202,
+    "Platformer": 184,
+    "Adventure": 181,
+    "Puzzle": 172,
+    "Stylized": 158,
+    "Action": 151,
+    "Hand-drawn": 146,
+    "Emotional": 131,
+    "Relaxing": 125,
+    "Underwater": 108,
+    "Controller": 82,
+    "Linear": 67,
+    "Singleplayer": 61,
+    "Mystery": 39,
+    "Indie": 34,
+    "Soundtrack": 33
+  }
+}

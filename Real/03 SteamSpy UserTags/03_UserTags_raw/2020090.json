@@ -1,0 +1,26 @@
+{
+  "appid": 2020090,
+  "success": true,
+  "tags": {
+    "Mystery": 154,
+    "Adventure": 146,
+    "Puzzle": 146,
+    "RPGMaker": 146,
+    "Story Rich": 140,
+    "Lore-Rich": 130,
+    "2D": 128,
+    "Top-Down": 125,
+    "Pixel Graphics": 118,
+    "Atmospheric": 115,
+    "Drama": 112,
+    "Emotional": 108,
+    "Investigation": 104,
+    "Psychological": 98,
+    "Modern": 91,
+    "Supernatural": 87,
+    "Indie": 81,
+    "Singleplayer": 75,
+    "Horror": 67,
+    "Crowdfunded": 63
+  }
+}

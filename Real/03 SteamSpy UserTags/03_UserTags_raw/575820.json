@@ -1,0 +1,23 @@
+{
+  "appid": 575820,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 55,
+    "Action": 53,
+    "Indie": 50,
+    "Rogue-lite": 42,
+    "Local Co-Op": 38,
+    "Difficult": 37,
+    "Shoot 'Em Up": 36,
+    "Runner": 22,
+    "Destruction": 21,
+    "Singleplayer": 18,
+    "Rogue-like": 17,
+    "Procedural Generation": 16,
+    "Co-op": 11,
+    "Voxel": 9,
+    "Bullet Hell": 9,
+    "Shooter": 7,
+    "Top-Down Shooter": 6
+  }
+}

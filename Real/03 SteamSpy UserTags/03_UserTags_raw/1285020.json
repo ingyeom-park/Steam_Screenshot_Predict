@@ -1,0 +1,26 @@
+{
+  "appid": 1285020,
+  "success": true,
+  "tags": {
+    "Indie": 288,
+    "Arcade": 282,
+    "Puzzle": 278,
+    "Match 3": 275,
+    "Anime": 271,
+    "Local Multiplayer": 265,
+    "Funny": 261,
+    "4 Player Local": 255,
+    "Casual": 251,
+    "Controller": 247,
+    "Remake": 241,
+    "Cute": 238,
+    "PvP": 233,
+    "Colorful": 227,
+    "Female Protagonist": 214,
+    "2D": 202,
+    "Split Screen": 191,
+    "Linear": 186,
+    "Procedural Generation": 183,
+    "Multiplayer": 180
+  }
+}

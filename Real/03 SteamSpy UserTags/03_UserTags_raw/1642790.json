@@ -1,0 +1,26 @@
+{
+  "appid": 1642790,
+  "success": true,
+  "tags": {
+    "Difficult": 238,
+    "Souls-like": 222,
+    "Exploration": 220,
+    "Metroidvania": 214,
+    "Platformer": 208,
+    "Side Scroller": 206,
+    "Singleplayer": 196,
+    "Controller": 193,
+    "Action RPG": 193,
+    "Indie": 192,
+    "Action-Adventure": 190,
+    "RPG": 185,
+    "Lore-Rich": 181,
+    "Story Rich": 177,
+    "Open World": 169,
+    "Dark": 162,
+    "Action": 159,
+    "Dark Fantasy": 140,
+    "Adventure": 136,
+    "Demons": 132
+  }
+}

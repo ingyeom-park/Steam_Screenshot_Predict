@@ -1,0 +1,22 @@
+{
+  "appid": 2289400,
+  "success": true,
+  "tags": {
+    "Casual": 60,
+    "Singleplayer": 53,
+    "Open World": 45,
+    "Arcade": 43,
+    "Simulation": 38,
+    "Platformer": 38,
+    "Adventure": 32,
+    "Puzzle-Platformer": 31,
+    "Physics": 28,
+    "Action-Adventure": 27,
+    "3D": 25,
+    "Third Person": 24,
+    "Indie": 21,
+    "Relaxing": 21,
+    "Score Attack": 17,
+    "Emotional": 15
+  }
+}

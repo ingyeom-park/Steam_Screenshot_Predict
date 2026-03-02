@@ -1,0 +1,24 @@
+{
+  "appid": 1256490,
+  "success": true,
+  "tags": {
+    "Casual": 119,
+    "Strategy": 113,
+    "Board Game": 110,
+    "Minimalist": 107,
+    "Stylized": 104,
+    "PvP": 98,
+    "Tabletop": 92,
+    "Turn-Based Tactics": 87,
+    "2D": 86,
+    "Co-op": 84,
+    "Local Co-Op": 81,
+    "Local Multiplayer": 74,
+    "Multiplayer": 63,
+    "Singleplayer": 56,
+    "Indie": 50,
+    "Turn-Based": 41,
+    "Tactical": 30,
+    "Logic": 27
+  }
+}

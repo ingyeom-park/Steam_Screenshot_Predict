@@ -1,0 +1,26 @@
+{
+  "appid": 429280,
+  "success": true,
+  "tags": {
+    "Casual": 109,
+    "Match 3": 103,
+    "Puzzle": 100,
+    "Adventure": 96,
+    "Singleplayer": 93,
+    "Strategy": 85,
+    "Arcade": 84,
+    "Cartoony": 81,
+    "Colorful": 77,
+    "Cute": 73,
+    "Minimalist": 67,
+    "Family Friendly": 63,
+    "Historical": 58,
+    "Logic": 55,
+    "Medieval": 53,
+    "PvE": 48,
+    "Short": 45,
+    "Touch-Friendly": 36,
+    "Indie": 28,
+    "Free to Play": 28
+  }
+}

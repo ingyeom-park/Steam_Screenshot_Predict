@@ -1,0 +1,26 @@
+{
+  "appid": 1518690,
+  "success": true,
+  "tags": {
+    "Souls-like": 193,
+    "Hack and Slash": 190,
+    "Rogue-like": 182,
+    "Lovecraftian": 180,
+    "Action RPG": 178,
+    "Pixel Graphics": 173,
+    "Dark Fantasy": 171,
+    "Dark": 165,
+    "Combat": 159,
+    "Top-Down": 158,
+    "Gothic": 147,
+    "Magic": 142,
+    "2D": 138,
+    "Demons": 129,
+    "Indie": 115,
+    "Action": 106,
+    "PvE": 101,
+    "Medieval": 96,
+    "Adventure": 84,
+    "Singleplayer": 67
+  }
+}

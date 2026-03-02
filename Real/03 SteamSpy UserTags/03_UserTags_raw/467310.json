@@ -1,0 +1,24 @@
+{
+  "appid": 467310,
+  "success": true,
+  "tags": {
+    "Adventure": 129,
+    "Indie": 123,
+    "RPG": 120,
+    "RPGMaker": 117,
+    "Fantasy": 111,
+    "Retro": 104,
+    "Family Friendly": 102,
+    "Modern": 96,
+    "Singleplayer": 91,
+    "Puzzle": 88,
+    "Open World": 83,
+    "Turn-Based": 75,
+    "Pixel Graphics": 68,
+    "2D": 63,
+    "JRPG": 61,
+    "Top-Down": 48,
+    "Turn-Based Combat": 40,
+    "Great Soundtrack": 36
+  }
+}

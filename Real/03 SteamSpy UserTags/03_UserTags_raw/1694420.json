@@ -1,0 +1,25 @@
+{
+  "appid": 1694420,
+  "success": true,
+  "tags": {
+    "Survival": 101,
+    "Adventure": 95,
+    "Card Game": 93,
+    "Simulation": 86,
+    "Singleplayer": 81,
+    "Crafting": 74,
+    "Perma Death": 68,
+    "Strategy": 66,
+    "Indie": 62,
+    "Hand-drawn": 61,
+    "Text-Based": 58,
+    "Rogue-like": 52,
+    "Open World Survival Craft": 50,
+    "Turn-Based": 48,
+    "Resource Management": 41,
+    "Psychological Horror": 37,
+    "Board Game": 33,
+    "Early Access": 29,
+    "Rogue-lite": 28
+  }
+}

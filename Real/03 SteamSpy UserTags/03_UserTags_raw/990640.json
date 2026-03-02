@@ -1,0 +1,26 @@
+{
+  "appid": 990640,
+  "success": true,
+  "tags": {
+    "Clicker": 188,
+    "Casual": 182,
+    "Rogue-lite": 179,
+    "Indie": 176,
+    "Replay Value": 173,
+    "Adventure": 167,
+    "Family Friendly": 165,
+    "RPG": 163,
+    "Pixel Graphics": 161,
+    "2D": 154,
+    "Retro": 145,
+    "Singleplayer": 135,
+    "Fantasy": 132,
+    "Rogue-like": 125,
+    "Action Roguelike": 117,
+    "Dungeon Crawler": 108,
+    "Side Scroller": 106,
+    "Minimalist": 99,
+    "Medieval": 86,
+    "Perma Death": 77
+  }
+}

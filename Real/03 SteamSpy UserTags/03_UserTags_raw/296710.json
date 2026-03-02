@@ -1,0 +1,26 @@
+{
+  "appid": 296710,
+  "success": true,
+  "tags": {
+    "Horror": 236,
+    "Survival Horror": 187,
+    "Action Roguelike": 184,
+    "Indie": 131,
+    "First-Person": 97,
+    "Rogue-like": 80,
+    "Survival": 69,
+    "Singleplayer": 67,
+    "Atmospheric": 53,
+    "Procedural Generation": 47,
+    "Rogue-lite": 46,
+    "Difficult": 43,
+    "Perma Death": 43,
+    "Stealth": 39,
+    "VR": 34,
+    "Action": 22,
+    "Psychological Horror": 21,
+    "Dark": 17,
+    "Strategy": 10,
+    "Replay Value": 10
+  }
+}

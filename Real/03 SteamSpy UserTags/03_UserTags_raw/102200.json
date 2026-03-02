@@ -1,0 +1,15 @@
+{
+  "appid": 102200,
+  "success": true,
+  "tags": {
+    "Card Battler": 50,
+    "Card Game": 47,
+    "Deckbuilding": 46,
+    "RPG": 43,
+    "Indie": 42,
+    "Casual": 29,
+    "Adventure": 25,
+    "Fantasy": 18,
+    "Singleplayer": 15
+  }
+}

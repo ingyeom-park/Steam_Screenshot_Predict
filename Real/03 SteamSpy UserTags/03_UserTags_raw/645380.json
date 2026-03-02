@@ -1,0 +1,26 @@
+{
+  "appid": 645380,
+  "success": true,
+  "tags": {
+    "RPG": 157,
+    "Indie": 152,
+    "Side Scroller": 148,
+    "2D Platformer": 146,
+    "Pixel Graphics": 139,
+    "2D": 131,
+    "Co-op": 128,
+    "Action": 126,
+    "Multiplayer": 118,
+    "Online Co-Op": 115,
+    "Retro": 107,
+    "Action RPG": 102,
+    "Platformer": 96,
+    "Party-Based RPG": 92,
+    "Hack and Slash": 87,
+    "Dungeon Crawler": 75,
+    "Metroidvania": 65,
+    "Third Person": 62,
+    "Colorful": 59,
+    "CRPG": 57
+  }
+}

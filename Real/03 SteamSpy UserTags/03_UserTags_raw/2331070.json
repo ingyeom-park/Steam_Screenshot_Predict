@@ -1,0 +1,26 @@
+{
+  "appid": 2331070,
+  "success": true,
+  "tags": {
+    "Horror": 128,
+    "Adventure": 122,
+    "Hand-drawn": 118,
+    "Singleplayer": 115,
+    "Atmospheric": 112,
+    "Cartoony": 105,
+    "Dark": 102,
+    "Casual": 100,
+    "Faith": 96,
+    "Linear": 92,
+    "Mythology": 90,
+    "Dark Fantasy": 86,
+    "Action-Adventure": 82,
+    "Family Friendly": 75,
+    "Indie": 73,
+    "Female Protagonist": 66,
+    "Controller": 61,
+    "2D": 53,
+    "Side Scroller": 44,
+    "Stylized": 39
+  }
+}

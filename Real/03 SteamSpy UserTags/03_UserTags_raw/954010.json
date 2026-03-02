@@ -1,0 +1,26 @@
+{
+  "appid": 954010,
+  "success": true,
+  "tags": {
+    "Action": 177,
+    "Top-Down": 171,
+    "Bullet Time": 168,
+    "Difficult": 165,
+    "Twin Stick Shooter": 162,
+    "Fast-Paced": 156,
+    "Co-op": 154,
+    "2.5D": 151,
+    "Hack and Slash": 149,
+    "Shoot 'Em Up": 141,
+    "Indie": 133,
+    "Singleplayer": 131,
+    "Shooter": 129,
+    "Stealth": 126,
+    "Multiplayer": 118,
+    "4 Player Local": 112,
+    "Local Co-Op": 109,
+    "Controller": 103,
+    "Casual": 100,
+    "Party Game": 95
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 63710,
+  "success": true,
+  "tags": {
+    "Rhythm": 300,
+    "Platformer": 295,
+    "Runner": 290,
+    "Music": 286,
+    "Action": 283,
+    "Singleplayer": 277,
+    "2D": 275,
+    "Pixel Graphics": 271,
+    "Arcade": 269,
+    "Minimalist": 265,
+    "Side Scroller": 263,
+    "Controller": 259,
+    "Colorful": 254,
+    "Atmospheric": 252,
+    "Linear": 249,
+    "Indie": 246,
+    "Difficult": 155,
+    "Retro": 124,
+    "Great Soundtrack": 116,
+    "Addictive": 57
+  }
+}

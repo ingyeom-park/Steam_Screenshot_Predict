@@ -1,0 +1,26 @@
+{
+  "appid": 1202170,
+  "success": true,
+  "tags": {
+    "Action": 214,
+    "RPG": 211,
+    "Indie": 207,
+    "Simulation": 203,
+    "Time Management": 202,
+    "Singleplayer": 198,
+    "Sports": 197,
+    "Arcade": 174,
+    "Action-Adventure": 171,
+    "Point & Click": 164,
+    "Exploration": 163,
+    "2D": 162,
+    "Cartoony": 155,
+    "Comedy": 150,
+    "Funny": 146,
+    "Cooking": 140,
+    "Fantasy": 132,
+    "Story Rich": 125,
+    "Remake": 120,
+    "Casual": 115
+  }
+}

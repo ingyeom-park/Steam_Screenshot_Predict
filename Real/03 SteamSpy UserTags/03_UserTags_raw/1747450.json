@@ -1,0 +1,26 @@
+{
+  "appid": 1747450,
+  "success": true,
+  "tags": {
+    "Casual": 129,
+    "Puzzle": 97,
+    "Exploration": 92,
+    "Cartoon": 87,
+    "Cartoony": 82,
+    "Cute": 72,
+    "Hand-drawn": 69,
+    "Drama": 66,
+    "Relaxing": 62,
+    "Atmospheric": 60,
+    "Indie": 58,
+    "Linear": 55,
+    "Singleplayer": 52,
+    "Mature": 43,
+    "Anime": 41,
+    "2D": 39,
+    "Emotional": 37,
+    "Sokoban": 35,
+    "Story Rich": 33,
+    "Wholesome": 31
+  }
+}

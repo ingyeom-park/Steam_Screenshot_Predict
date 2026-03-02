@@ -1,0 +1,26 @@
+{
+  "appid": 1982130,
+  "success": true,
+  "tags": {
+    "Action": 215,
+    "Adventure": 208,
+    "Action-Adventure": 184,
+    "Platformer": 180,
+    "2D Platformer": 175,
+    "Precision Platformer": 162,
+    "Side Scroller": 157,
+    "2D": 150,
+    "Pixel Graphics": 142,
+    "1980s": 131,
+    "1990's": 120,
+    "Dark": 119,
+    "Demons": 105,
+    "Horror": 93,
+    "Old School": 76,
+    "Retro": 62,
+    "Zombies": 43,
+    "Combat": 27,
+    "Singleplayer": 26,
+    "Indie": 22
+  }
+}

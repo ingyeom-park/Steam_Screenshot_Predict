@@ -1,0 +1,26 @@
+{
+  "appid": 41050,
+  "success": true,
+  "tags": {
+    "Action": 161,
+    "FPS": 160,
+    "Classic": 131,
+    "Shooter": 78,
+    "Gore": 75,
+    "Co-op": 68,
+    "Indie": 63,
+    "Comedy": 60,
+    "Multiplayer": 60,
+    "Singleplayer": 58,
+    "Local Co-Op": 54,
+    "First-Person": 53,
+    "Sci-fi": 41,
+    "Great Soundtrack": 35,
+    "Split Screen": 33,
+    "Old School": 33,
+    "Difficult": 32,
+    "Funny": 28,
+    "Adventure": 28,
+    "Violent": 27
+  }
+}

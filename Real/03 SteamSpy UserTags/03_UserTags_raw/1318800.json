@@ -1,0 +1,26 @@
+{
+  "appid": 1318800,
+  "success": true,
+  "tags": {
+    "Indie": 191,
+    "Visual Novel": 185,
+    "Soundtrack": 181,
+    "Interactive Fiction": 178,
+    "LGBTQ+": 175,
+    "Retro": 169,
+    "Text-Based": 167,
+    "Adventure": 162,
+    "Typing": 153,
+    "Abstract": 145,
+    "Stylized": 142,
+    "Atmospheric": 135,
+    "Cyberpunk": 127,
+    "Emotional": 125,
+    "Funny": 123,
+    "Psychological Horror": 115,
+    "Mystery": 113,
+    "Sci-fi": 109,
+    "Surreal": 103,
+    "Female Protagonist": 99
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1525890,
+  "success": true,
+  "tags": {
+    "Horror": 136,
+    "Survival Horror": 130,
+    "Difficult": 127,
+    "Sci-fi": 124,
+    "Atmospheric": 121,
+    "Adventure": 115,
+    "Exploration": 113,
+    "FPS": 110,
+    "Gore": 107,
+    "Puzzle": 100,
+    "Shooter": 96,
+    "Multiple Endings": 93,
+    "Psychological Horror": 87,
+    "Dark": 85,
+    "Arcade": 82,
+    "Singleplayer": 78,
+    "Indie": 70,
+    "Replay Value": 57,
+    "Action": 53,
+    "First-Person": 39
+  }
+}

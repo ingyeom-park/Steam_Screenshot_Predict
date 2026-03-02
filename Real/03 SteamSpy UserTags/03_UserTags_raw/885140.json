@@ -1,0 +1,16 @@
+{
+  "appid": 885140,
+  "success": true,
+  "tags": {
+    "Casual": 45,
+    "Indie": 42,
+    "Adventure": 40,
+    "Violent": 23,
+    "Gore": 22,
+    "Visual Novel": 20,
+    "Mystery": 18,
+    "Story Rich": 12,
+    "Anime": 8,
+    "Cute": 5
+  }
+}

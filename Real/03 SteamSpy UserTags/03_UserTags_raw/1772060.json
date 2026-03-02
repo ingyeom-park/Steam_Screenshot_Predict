@@ -1,0 +1,26 @@
+{
+  "appid": 1772060,
+  "success": true,
+  "tags": {
+    "Horror": 124,
+    "Mystery": 117,
+    "Drama": 114,
+    "Exploration": 111,
+    "Thriller": 106,
+    "RPG": 98,
+    "Interactive Fiction": 92,
+    "Psychological Horror": 90,
+    "Atmospheric": 84,
+    "Adventure": 80,
+    "Choices Matter": 79,
+    "Third Person": 75,
+    "3D": 70,
+    "Anime": 66,
+    "Story Rich": 61,
+    "Lore-Rich": 59,
+    "Singleplayer": 58,
+    "Detective": 53,
+    "Indie": 48,
+    "Old School": 29
+  }
+}

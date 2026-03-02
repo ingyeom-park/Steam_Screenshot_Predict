@@ -1,0 +1,26 @@
+{
+  "appid": 115100,
+  "success": true,
+  "tags": {
+    "RPG": 246,
+    "Adventure": 198,
+    "Comedy": 152,
+    "Casual": 136,
+    "Singleplayer": 127,
+    "Family Friendly": 124,
+    "Turn-Based": 117,
+    "Cute": 109,
+    "Indie": 75,
+    "Funny": 51,
+    "Short": 45,
+    "Turn-Based Strategy": 33,
+    "Turn-Based Combat": 32,
+    "Female Protagonist": 31,
+    "Puzzle": 26,
+    "Cartoony": 22,
+    "Quick-Time Events": 18,
+    "Controller": 17,
+    "Fantasy": 16,
+    "Action": 8
+  }
+}

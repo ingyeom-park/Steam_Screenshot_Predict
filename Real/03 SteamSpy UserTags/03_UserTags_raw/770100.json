@@ -1,0 +1,26 @@
+{
+  "appid": 770100,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 214,
+    "Board Game": 209,
+    "Rogue-lite": 207,
+    "Perma Death": 202,
+    "Card Game": 200,
+    "Tabletop": 194,
+    "Rogue-like": 191,
+    "Female Protagonist": 186,
+    "RPG": 183,
+    "Strategy": 180,
+    "Fantasy": 170,
+    "Magic": 165,
+    "Adventure": 162,
+    "Co-op": 156,
+    "Local Co-Op": 145,
+    "Local Multiplayer": 138,
+    "Singleplayer": 135,
+    "Multiplayer": 127,
+    "Roguelike Deckbuilder": 107,
+    "Indie": 54
+  }
+}

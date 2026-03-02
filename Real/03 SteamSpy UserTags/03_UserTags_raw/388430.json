@@ -1,0 +1,26 @@
+{
+  "appid": 388430,
+  "success": true,
+  "tags": {
+    "Action": 124,
+    "Indie": 118,
+    "Online Co-Op": 115,
+    "Multiplayer": 112,
+    "PvP": 109,
+    "Shooter": 103,
+    "Tanks": 99,
+    "Team-Based": 94,
+    "War": 90,
+    "Tactical": 86,
+    "Military": 84,
+    "Futuristic": 79,
+    "Fast-Paced": 78,
+    "Competitive": 76,
+    "Funny": 75,
+    "FPS": 72,
+    "Gore": 70,
+    "Arcade": 67,
+    "Third-Person Shooter": 63,
+    "Arena Shooter": 58
+  }
+}

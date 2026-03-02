@@ -1,0 +1,22 @@
+{
+  "appid": 511540,
+  "success": true,
+  "tags": {
+    "Adventure": 37,
+    "Action": 35,
+    "Indie": 35,
+    "Rogue-lite": 20,
+    "Rogue-like": 19,
+    "2D": 19,
+    "Pixel Graphics": 17,
+    "Procedural Generation": 16,
+    "Open World Survival Craft": 14,
+    "Platformer": 13,
+    "Survival": 13,
+    "Dungeon Crawler": 12,
+    "Singleplayer": 11,
+    "Perma Death": 10,
+    "Replay Value": 10,
+    "Action Roguelike": 10
+  }
+}

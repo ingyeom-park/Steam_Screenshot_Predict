@@ -1,0 +1,26 @@
+{
+  "appid": 396900,
+  "success": true,
+  "tags": {
+    "Racing": 207,
+    "Action": 121,
+    "Indie": 95,
+    "Automobile Sim": 90,
+    "Futuristic": 87,
+    "Combat Racing": 68,
+    "Multiplayer": 67,
+    "Fast-Paced": 65,
+    "Split Screen": 58,
+    "Local Multiplayer": 53,
+    "Driving": 47,
+    "Arcade": 41,
+    "Great Soundtrack": 39,
+    "Sci-fi": 39,
+    "Vehicular Combat": 30,
+    "VR": 27,
+    "Singleplayer": 26,
+    "Shooter": 22,
+    "Combat": 20,
+    "Classic": 10
+  }
+}

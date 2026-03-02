@@ -1,0 +1,26 @@
+{
+  "appid": 965600,
+  "success": true,
+  "tags": {
+    "Strategy": 150,
+    "Indie": 142,
+    "Board Game": 142,
+    "Medieval": 137,
+    "Tabletop": 130,
+    "Turn-Based": 124,
+    "Card Game": 119,
+    "Casual": 118,
+    "Simulation": 113,
+    "Turn-Based Strategy": 107,
+    "Turn-Based Tactics": 100,
+    "Wargame": 98,
+    "2D": 93,
+    "Hand-drawn": 85,
+    "Fantasy": 83,
+    "Historical": 80,
+    "War": 78,
+    "PvP": 75,
+    "Tutorial": 72,
+    "Multiplayer": 69
+  }
+}

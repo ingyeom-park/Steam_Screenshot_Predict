@@ -1,0 +1,26 @@
+{
+  "appid": 1932570,
+  "success": true,
+  "tags": {
+    "Precision Platformer": 241,
+    "2D Platformer": 236,
+    "Platformer": 231,
+    "2D": 230,
+    "Combat": 225,
+    "Indie": 217,
+    "Linear": 215,
+    "Action": 213,
+    "Side Scroller": 207,
+    "Hack and Slash": 205,
+    "Pixel Graphics": 203,
+    "Singleplayer": 191,
+    "Story Rich": 180,
+    "Lore-Rich": 171,
+    "Magic": 157,
+    "Colorful": 152,
+    "Cute": 146,
+    "Fantasy": 141,
+    "Post-apocalyptic": 128,
+    "Supernatural": 110
+  }
+}

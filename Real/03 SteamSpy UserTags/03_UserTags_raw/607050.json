@@ -1,0 +1,26 @@
+{
+  "appid": 607050,
+  "success": true,
+  "tags": {
+    "Strategy": 272,
+    "Turn-Based Tactics": 237,
+    "Pixel Graphics": 223,
+    "Turn-Based Strategy": 220,
+    "Tactical RPG": 212,
+    "Indie": 200,
+    "Strategy RPG": 168,
+    "Turn-Based": 167,
+    "Tactical": 165,
+    "Multiplayer": 153,
+    "Singleplayer": 153,
+    "Local Co-Op": 149,
+    "Online Co-Op": 143,
+    "Local Multiplayer": 140,
+    "4 Player Local": 133,
+    "Co-op Campaign": 130,
+    "PvP": 122,
+    "Family Friendly": 122,
+    "Controller": 122,
+    "Co-op": 114
+  }
+}

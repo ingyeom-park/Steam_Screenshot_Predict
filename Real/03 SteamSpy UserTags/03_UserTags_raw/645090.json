@@ -1,0 +1,26 @@
+{
+  "appid": 645090,
+  "success": true,
+  "tags": {
+    "Puzzle": 141,
+    "Casual": 133,
+    "Indie": 107,
+    "Fast-Paced": 93,
+    "2D": 92,
+    "Physics": 87,
+    "Short": 83,
+    "Relaxing": 81,
+    "Minimalist": 75,
+    "Puzzle-Platformer": 71,
+    "Singleplayer": 64,
+    "Point & Click": 64,
+    "Cute": 54,
+    "Action": 52,
+    "Pixel Graphics": 49,
+    "Survival": 45,
+    "Logic": 37,
+    "Horror": 34,
+    "Difficult": 32,
+    "Trading Card Game": 30
+  }
+}

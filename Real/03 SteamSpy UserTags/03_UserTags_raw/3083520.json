@@ -1,0 +1,21 @@
+{
+  "appid": 3083520,
+  "success": true,
+  "tags": {
+    "Casual": 66,
+    "Strategy": 63,
+    "Puzzle": 52,
+    "Relaxing": 40,
+    "Singleplayer": 37,
+    "3D Platformer": 31,
+    "Puzzle-Platformer": 29,
+    "3D": 27,
+    "Top-Down": 25,
+    "Third Person": 23,
+    "Indie": 22,
+    "Stylized": 21,
+    "Tactical": 19,
+    "Magic": 17,
+    "Turn-Based Tactics": 15
+  }
+}

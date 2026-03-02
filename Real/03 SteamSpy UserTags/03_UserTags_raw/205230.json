@@ -1,0 +1,25 @@
+{
+  "appid": 205230,
+  "success": true,
+  "tags": {
+    "Platformer": 150,
+    "Action": 119,
+    "2D": 91,
+    "Comedy": 68,
+    "Singleplayer": 62,
+    "Funny": 59,
+    "Metroidvania": 54,
+    "Gore": 39,
+    "Adventure": 32,
+    "Great Soundtrack": 25,
+    "Side Scroller": 16,
+    "Violent": 15,
+    "Indie": 14,
+    "Controller": 11,
+    "Cartoony": 8,
+    "Cute": 8,
+    "Dark Humor": 8,
+    "Colorful": 7,
+    "Difficult": 7
+  }
+}

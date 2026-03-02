@@ -1,0 +1,19 @@
+{
+  "appid": 567800,
+  "success": true,
+  "tags": {
+    "Casual": 46,
+    "Strategy": 41,
+    "Indie": 39,
+    "Time Management": 22,
+    "Resource Management": 16,
+    "Singleplayer": 15,
+    "Puzzle": 13,
+    "Mythology": 13,
+    "Adventure": 11,
+    "Family Friendly": 11,
+    "Mouse only": 11,
+    "Investigation": 10,
+    "Point & Click": 5
+  }
+}

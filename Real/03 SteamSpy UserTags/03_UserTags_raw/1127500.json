@@ -1,0 +1,26 @@
+{
+  "appid": 1127500,
+  "success": true,
+  "tags": {
+    "Strategy": 224,
+    "Simulation": 200,
+    "Casual": 195,
+    "Indie": 146,
+    "Management": 144,
+    "Minimalist": 137,
+    "Puzzle": 124,
+    "Relaxing": 113,
+    "Transportation": 103,
+    "Singleplayer": 88,
+    "Building": 88,
+    "Stylized": 80,
+    "Top-Down": 64,
+    "City Builder": 60,
+    "Beautiful": 56,
+    "Resource Management": 42,
+    "Family Friendly": 41,
+    "Great Soundtrack": 36,
+    "Touch-Friendly": 29,
+    "Rogue-like": 11
+  }
+}

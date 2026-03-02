@@ -1,0 +1,26 @@
+{
+  "appid": 1441670,
+  "success": true,
+  "tags": {
+    "2D Platformer": 155,
+    "Platformer": 150,
+    "Action-Adventure": 144,
+    "2D": 140,
+    "Nonlinear": 122,
+    "Minimalist": 108,
+    "Pixel Graphics": 101,
+    "Comedy": 95,
+    "Emotional": 84,
+    "Adventure": 75,
+    "Robots": 71,
+    "Retro": 43,
+    "Indie": 31,
+    "Action": 31,
+    "Singleplayer": 25,
+    "Metroidvania": 18,
+    "Short": 13,
+    "Difficult": 11,
+    "Sci-fi": 11,
+    "Cute": 11
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 1422200,
+  "success": true,
+  "tags": {
+    "Casual": 180,
+    "Strategy": 173,
+    "Management": 148,
+    "Survival": 145,
+    "Real Time Tactics": 139,
+    "2D": 130,
+    "Colorful": 122,
+    "Pixel Graphics": 121,
+    "Cute": 108,
+    "PvP": 97,
+    "PvE": 95,
+    "Stealth": 83,
+    "Singleplayer": 71,
+    "Multiplayer": 57,
+    "Local Multiplayer": 43,
+    "Local Co-Op": 28,
+    "Co-op": 26,
+    "Indie": 21
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 428080,
+  "success": true,
+  "tags": {
+    "VR": 256,
+    "Sports": 250,
+    "Co-op": 247,
+    "Casual": 244,
+    "Music": 242,
+    "Stylized": 234,
+    "Soundtrack": 231,
+    "Arcade": 227,
+    "Moddable": 222,
+    "Fast-Paced": 214,
+    "Multiplayer": 206,
+    "Level Editor": 201,
+    "Singleplayer": 198,
+    "Indie": 193,
+    "First-Person": 188,
+    "Pinball": 183,
+    "Colorful": 172,
+    "Simulation": 170,
+    "PvP": 160,
+    "Retro": 154
+  }
+}

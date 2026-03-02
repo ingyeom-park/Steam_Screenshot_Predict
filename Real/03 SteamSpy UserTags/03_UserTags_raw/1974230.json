@@ -1,0 +1,26 @@
+{
+  "appid": 1974230,
+  "success": true,
+  "tags": {
+    "Horror": 120,
+    "Dark": 114,
+    "Adventure": 111,
+    "Puzzle": 108,
+    "Singleplayer": 104,
+    "Atmospheric": 95,
+    "Psychological Horror": 92,
+    "Puzzle-Platformer": 91,
+    "2.5D": 87,
+    "Side Scroller": 85,
+    "Third Person": 83,
+    "Surreal": 81,
+    "Action-Adventure": 78,
+    "Psychedelic": 77,
+    "Thriller": 74,
+    "Mystery": 72,
+    "Controller": 67,
+    "Linear": 54,
+    "Female Protagonist": 50,
+    "Indie": 48
+  }
+}

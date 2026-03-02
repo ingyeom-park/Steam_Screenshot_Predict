@@ -1,0 +1,26 @@
+{
+  "appid": 379610,
+  "success": true,
+  "tags": {
+    "Puzzle": 189,
+    "Casual": 183,
+    "Family Friendly": 180,
+    "Touch-Friendly": 177,
+    "Turn-Based": 174,
+    "Relaxing": 168,
+    "Nature": 166,
+    "Replay Value": 164,
+    "Atmospheric": 162,
+    "Singleplayer": 158,
+    "Multiplayer": 150,
+    "Board Game": 147,
+    "Tabletop": 138,
+    "Asynchronous Multiplayer": 127,
+    "2D": 113,
+    "PvP": 102,
+    "Level Editor": 99,
+    "Indie": 91,
+    "Realistic": 89,
+    "Colorful": 79
+  }
+}

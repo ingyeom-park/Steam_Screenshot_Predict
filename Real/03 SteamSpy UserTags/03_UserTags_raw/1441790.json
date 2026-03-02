@@ -1,0 +1,26 @@
+{
+  "appid": 1441790,
+  "success": true,
+  "tags": {
+    "Mining": 170,
+    "Loot": 164,
+    "Adventure": 159,
+    "Relaxing": 159,
+    "Platformer": 157,
+    "2D Platformer": 153,
+    "Procedural Generation": 147,
+    "Simulation": 146,
+    "Underground": 143,
+    "Exploration": 140,
+    "Singleplayer": 130,
+    "2D": 128,
+    "Choices Matter": 121,
+    "Open World": 113,
+    "Sandbox": 105,
+    "Atmospheric": 102,
+    "Casual": 91,
+    "Indie": 76,
+    "Minimalist": 68,
+    "Family Friendly": 65
+  }
+}

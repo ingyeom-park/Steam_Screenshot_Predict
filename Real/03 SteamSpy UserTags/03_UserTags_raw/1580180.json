@@ -1,0 +1,24 @@
+{
+  "appid": 1580180,
+  "success": true,
+  "tags": {
+    "Side Scroller": 248,
+    "Exploration": 242,
+    "Platformer": 230,
+    "Difficult": 216,
+    "Action Roguelike": 208,
+    "2D": 198,
+    "Noir": 182,
+    "Funny": 168,
+    "Pixel Graphics": 166,
+    "Action": 161,
+    "Controller": 159,
+    "Adventure": 141,
+    "Singleplayer": 131,
+    "Combat": 130,
+    "Mature": 117,
+    "Story Rich": 18,
+    "Indie": 13,
+    "Metroidvania": 5
+  }
+}

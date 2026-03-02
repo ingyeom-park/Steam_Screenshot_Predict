@@ -1,0 +1,26 @@
+{
+  "appid": 698640,
+  "success": true,
+  "tags": {
+    "Roguelike Deckbuilder": 120,
+    "RPG": 116,
+    "Strategy": 108,
+    "Card Battler": 108,
+    "Deckbuilding": 101,
+    "Indie": 95,
+    "Turn-Based Combat": 68,
+    "Space": 61,
+    "Dungeon Crawler": 60,
+    "Turn-Based": 59,
+    "Rogue-lite": 54,
+    "Sci-fi": 45,
+    "Comic Book": 44,
+    "Rogue-like": 44,
+    "Card Game": 40,
+    "Tactical": 35,
+    "Atmospheric": 27,
+    "Dark Fantasy": 26,
+    "Team-Based": 24,
+    "Great Soundtrack": 20
+  }
+}

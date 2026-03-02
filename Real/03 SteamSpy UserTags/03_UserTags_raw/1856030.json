@@ -1,0 +1,26 @@
+{
+  "appid": 1856030,
+  "success": true,
+  "tags": {
+    "First-Person": 203,
+    "3D": 202,
+    "Realistic": 179,
+    "Indie": 175,
+    "Early Access": 174,
+    "FPS": 168,
+    "Family Friendly": 165,
+    "Simulation": 165,
+    "Story Rich": 159,
+    "Casual": 148,
+    "Immersive Sim": 141,
+    "Atmospheric": 127,
+    "Relaxing": 124,
+    "Funny": 89,
+    "Action": 78,
+    "Sandbox": 76,
+    "Singleplayer": 57,
+    "Education": 29,
+    "Building": 26,
+    "Adventure": 23
+  }
+}

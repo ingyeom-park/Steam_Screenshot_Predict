@@ -1,0 +1,26 @@
+{
+  "appid": 2108060,
+  "success": true,
+  "tags": {
+    "Action": 181,
+    "Adventure": 175,
+    "Action-Adventure": 152,
+    "Platformer": 147,
+    "Puzzle": 140,
+    "2D Platformer": 132,
+    "Exploration": 125,
+    "Metroidvania": 120,
+    "2D": 110,
+    "Colorful": 99,
+    "Cute": 98,
+    "Pixel Graphics": 87,
+    "1990's": 72,
+    "Funny": 58,
+    "Nature": 42,
+    "Retro": 29,
+    "Singleplayer": 26,
+    "Indie": 22,
+    "RPG": 22,
+    "Casual": 21
+  }
+}

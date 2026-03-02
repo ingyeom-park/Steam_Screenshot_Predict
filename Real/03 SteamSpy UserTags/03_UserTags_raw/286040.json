@@ -1,0 +1,24 @@
+{
+  "appid": 286040,
+  "success": true,
+  "tags": {
+    "Zombies": 123,
+    "FPS": 117,
+    "Action": 116,
+    "Horror": 83,
+    "Shooter": 71,
+    "Singleplayer": 70,
+    "Indie": 66,
+    "Multiplayer": 66,
+    "Survival": 59,
+    "Sci-fi": 57,
+    "Gore": 55,
+    "First-Person": 46,
+    "Space": 43,
+    "Survival Horror": 27,
+    "Atmospheric": 25,
+    "Bullet Time": 21,
+    "Co-op": 11,
+    "Short": 6
+  }
+}

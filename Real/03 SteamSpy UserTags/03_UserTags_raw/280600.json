@@ -1,0 +1,16 @@
+{
+  "appid": 280600,
+  "success": true,
+  "tags": {
+    "RPG": 56,
+    "Vampire": 48,
+    "Action": 43,
+    "Indie": 40,
+    "Dungeon Crawler": 30,
+    "Action RPG": 12,
+    "Horror": 9,
+    "Singleplayer": 8,
+    "Third Person": 5,
+    "Female Protagonist": 5
+  }
+}

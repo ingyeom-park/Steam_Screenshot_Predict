@@ -1,0 +1,26 @@
+{
+  "appid": 273070,
+  "success": true,
+  "tags": {
+    "Strategy": 107,
+    "Space": 77,
+    "Simulation": 70,
+    "Indie": 60,
+    "Turn-Based": 54,
+    "4X": 52,
+    "Sci-fi": 43,
+    "Grand Strategy": 35,
+    "Real-Time with Pause": 26,
+    "Tactical": 25,
+    "Capitalism": 24,
+    "Turn-Based Tactics": 23,
+    "Singleplayer": 23,
+    "Turn-Based Strategy": 23,
+    "Great Soundtrack": 22,
+    "Bullet Hell": 18,
+    "2D": 15,
+    "Aliens": 15,
+    "Futuristic": 13,
+    "Turn-Based Combat": 11
+  }
+}

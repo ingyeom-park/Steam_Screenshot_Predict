@@ -1,0 +1,26 @@
+{
+  "appid": 424250,
+  "success": true,
+  "tags": {
+    "RPG": 568,
+    "Adventure": 557,
+    "Crafting": 556,
+    "Strategy": 551,
+    "Isometric": 543,
+    "Open World": 539,
+    "Indie": 535,
+    "Survival": 528,
+    "Sandbox": 528,
+    "Fantasy": 522,
+    "CRPG": 517,
+    "Turn-Based Combat": 510,
+    "Building": 501,
+    "2D": 489,
+    "Singleplayer": 488,
+    "Old School": 474,
+    "Turn-Based": 472,
+    "Exploration": 467,
+    "Retro": 467,
+    "Farming": 464
+  }
+}

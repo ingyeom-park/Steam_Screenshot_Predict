@@ -1,0 +1,26 @@
+{
+  "appid": 586660,
+  "success": true,
+  "tags": {
+    "Casual": 39,
+    "Adventure": 39,
+    "Indie": 37,
+    "Puzzle": 22,
+    "Interactive Fiction": 18,
+    "Atmospheric": 17,
+    "Text-Based": 15,
+    "Walking Simulator": 15,
+    "Singleplayer": 13,
+    "First-Person": 12,
+    "Philosophical": 12,
+    "Stylized": 11,
+    "Great Soundtrack": 11,
+    "Experimental": 11,
+    "Word Game": 11,
+    "Old School": 10,
+    "Beautiful": 10,
+    "Mystery": 10,
+    "Relaxing": 10,
+    "Cyberpunk": 5
+  }
+}

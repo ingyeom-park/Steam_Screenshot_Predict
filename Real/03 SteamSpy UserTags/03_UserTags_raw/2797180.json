@@ -1,0 +1,26 @@
+{
+  "appid": 2797180,
+  "success": true,
+  "tags": {
+    "Casual": 212,
+    "Adventure": 205,
+    "Simulation": 201,
+    "Word Game": 196,
+    "Visual Novel": 191,
+    "2D Platformer": 179,
+    "2D": 174,
+    "LGBTQ+": 168,
+    "Anime": 166,
+    "Drama": 148,
+    "Emotional": 126,
+    "Atmospheric": 122,
+    "Story Rich": 108,
+    "Text-Based": 94,
+    "Otome": 86,
+    "Female Protagonist": 82,
+    "Conversation": 61,
+    "Indie": 46,
+    "Choices Matter": 44,
+    "Singleplayer": 27
+  }
+}

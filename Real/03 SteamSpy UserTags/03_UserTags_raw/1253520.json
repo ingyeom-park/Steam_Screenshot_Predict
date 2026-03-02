@@ -1,0 +1,26 @@
+{
+  "appid": 1253520,
+  "success": true,
+  "tags": {
+    "Dark Fantasy": 164,
+    "Horror": 157,
+    "Swordplay": 153,
+    "Medieval": 148,
+    "Adventure": 143,
+    "Action": 138,
+    "Arcade": 134,
+    "Platformer": 128,
+    "2D Platformer": 127,
+    "Side Scroller": 119,
+    "Pixel Graphics": 110,
+    "Gore": 103,
+    "Hack and Slash": 95,
+    "Alternate History": 87,
+    "Nudity": 81,
+    "Fantasy": 71,
+    "Indie": 68,
+    "Metroidvania": 56,
+    "Zombies": 49,
+    "2D Fighter": 42
+  }
+}

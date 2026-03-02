@@ -1,0 +1,26 @@
+{
+  "appid": 1300600,
+  "success": true,
+  "tags": {
+    "Action": 222,
+    "Arcade": 216,
+    "Immersive": 213,
+    "Story Rich": 210,
+    "Short": 207,
+    "Funny": 202,
+    "Action-Adventure": 199,
+    "Dark Humor": 196,
+    "Driving": 193,
+    "Thriller": 180,
+    "Narration": 150,
+    "Minimalist": 144,
+    "Stylized": 133,
+    "Atmospheric": 131,
+    "Fast-Paced": 129,
+    "Singleplayer": 126,
+    "Indie": 123,
+    "Experimental": 121,
+    "Automobile Sim": 91,
+    "Racing": 89
+  }
+}

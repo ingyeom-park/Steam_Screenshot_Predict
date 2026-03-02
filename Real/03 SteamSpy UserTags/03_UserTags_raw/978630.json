@@ -1,0 +1,26 @@
+{
+  "appid": 978630,
+  "success": true,
+  "tags": {
+    "Top-Down": 129,
+    "Isometric": 124,
+    "Indie": 121,
+    "Adventure": 118,
+    "Puzzle": 115,
+    "Singleplayer": 109,
+    "3D": 106,
+    "Funny": 104,
+    "Action": 102,
+    "Puzzle-Platformer": 100,
+    "Loot": 96,
+    "Casual": 94,
+    "Relaxing": 88,
+    "Combat": 80,
+    "Controller": 72,
+    "RPG": 69,
+    "Historical": 56,
+    "Hack and Slash": 43,
+    "3D Platformer": 35,
+    "Cute": 33
+  }
+}

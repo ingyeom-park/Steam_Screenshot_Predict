@@ -1,0 +1,25 @@
+{
+  "appid": 2936130,
+  "success": true,
+  "tags": {
+    "Party Game": 93,
+    "Multiplayer": 88,
+    "PvP": 84,
+    "Online Co-Op": 81,
+    "Casual": 78,
+    "Co-op": 68,
+    "Team-Based": 66,
+    "Rogue-lite": 64,
+    "Action": 62,
+    "Arcade": 60,
+    "Hack and Slash": 59,
+    "Combat": 56,
+    "2.5D": 54,
+    "Indie": 52,
+    "Cute": 33,
+    "Pixel Graphics": 29,
+    "Fantasy": 27,
+    "Retro": 25,
+    "Bullet Hell": 23
+  }
+}

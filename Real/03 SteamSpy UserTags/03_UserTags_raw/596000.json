@@ -1,0 +1,16 @@
+{
+  "appid": 596000,
+  "success": true,
+  "tags": {
+    "Adventure": 90,
+    "Indie": 88,
+    "Thriller": 30,
+    "Atmospheric": 23,
+    "Psychological": 23,
+    "First-Person": 21,
+    "Horror": 16,
+    "Story Rich": 16,
+    "Walking Simulator": 11,
+    "Psychological Horror": 10
+  }
+}

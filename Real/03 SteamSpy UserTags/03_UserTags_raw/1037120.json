@@ -1,0 +1,26 @@
+{
+  "appid": 1037120,
+  "success": true,
+  "tags": {
+    "Indie": 198,
+    "Adventure": 195,
+    "Detective": 195,
+    "Point & Click": 193,
+    "Mystery": 187,
+    "Atmospheric": 169,
+    "Puzzle": 157,
+    "2D": 145,
+    "Singleplayer": 136,
+    "Third Person": 127,
+    "Cartoony": 126,
+    "Funny": 120,
+    "Cute": 115,
+    "Hand-drawn": 106,
+    "Comedy": 50,
+    "Sci-fi": 24,
+    "Fantasy": 23,
+    "Retro": 22,
+    "Story Rich": 22,
+    "Classic": 22
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 858860,
+  "success": true,
+  "tags": {
+    "Action": 64,
+    "Strategy": 64,
+    "Indie": 53,
+    "VR": 40,
+    "Multiplayer": 34,
+    "Competitive": 31,
+    "Fast-Paced": 30,
+    "Arcade": 30,
+    "Cartoony": 29,
+    "Addictive": 28,
+    "Tabletop": 28,
+    "Colorful": 27,
+    "Early Access": 25,
+    "PvP": 21,
+    "Real-Time": 21,
+    "Top-Down": 20,
+    "Zombies": 17,
+    "Fantasy": 16,
+    "Magic": 16,
+    "Funny": 13
+  }
+}

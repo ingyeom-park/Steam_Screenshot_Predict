@@ -1,0 +1,25 @@
+{
+  "appid": 1608590,
+  "success": true,
+  "tags": {
+    "RPG": 196,
+    "Turn-Based Strategy": 169,
+    "Dungeon Crawler": 168,
+    "Procedural Generation": 161,
+    "Exploration": 155,
+    "2D": 146,
+    "Hand-drawn": 140,
+    "Dark Fantasy": 132,
+    "Tactical RPG": 124,
+    "Singleplayer": 113,
+    "Female Protagonist": 103,
+    "Colorful": 101,
+    "Turn-Based Tactics": 88,
+    "Isometric": 73,
+    "Fantasy": 58,
+    "Tactical": 42,
+    "Lore-Rich": 27,
+    "Class-Based": 26,
+    "Indie": 21
+  }
+}

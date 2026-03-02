@@ -1,0 +1,26 @@
+{
+  "appid": 2333510,
+  "success": true,
+  "tags": {
+    "Strategy": 139,
+    "Anime": 133,
+    "Real Time Tactics": 130,
+    "Indie": 127,
+    "Visual Novel": 123,
+    "Tactical RPG": 119,
+    "Real-Time with Pause": 117,
+    "RPG": 114,
+    "Singleplayer": 109,
+    "Strategy RPG": 105,
+    "Party-Based RPG": 102,
+    "Story Rich": 99,
+    "Stylized": 95,
+    "Vampire": 90,
+    "2D": 82,
+    "Tactical": 76,
+    "Dark Fantasy": 72,
+    "RTS": 62,
+    "Demons": 54,
+    "Lore-Rich": 48
+  }
+}

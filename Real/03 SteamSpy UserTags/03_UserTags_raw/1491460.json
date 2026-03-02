@@ -1,0 +1,26 @@
+{
+  "appid": 1491460,
+  "success": true,
+  "tags": {
+    "RPG": 358,
+    "Action Roguelike": 349,
+    "Rogue-lite": 343,
+    "Hack and Slash": 337,
+    "Co-op": 333,
+    "Rogue-like": 320,
+    "Dungeon Crawler": 317,
+    "Multiplayer": 314,
+    "Pixel Graphics": 311,
+    "Action RPG": 309,
+    "Online Co-Op": 302,
+    "2D": 287,
+    "Top-Down": 259,
+    "Procedural Generation": 257,
+    "Action": 255,
+    "Difficult": 253,
+    "Singleplayer": 251,
+    "Indie": 234,
+    "Class-Based": 222,
+    "Fantasy": 219
+  }
+}

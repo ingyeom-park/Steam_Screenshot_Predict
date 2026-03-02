@@ -1,0 +1,26 @@
+{
+  "appid": 1683100,
+  "success": true,
+  "tags": {
+    "Difficult": 242,
+    "Action": 235,
+    "Hack and Slash": 232,
+    "Action RPG": 231,
+    "Action Roguelike": 221,
+    "Indie": 215,
+    "Singleplayer": 215,
+    "Third Person": 214,
+    "Sci-fi": 209,
+    "Post-apocalyptic": 206,
+    "Character Action Game": 202,
+    "Combat": 202,
+    "Spectacle fighter": 200,
+    "Violent": 190,
+    "Anime": 185,
+    "Controller": 174,
+    "3D": 164,
+    "Robots": 158,
+    "PvE": 155,
+    "RPG": 151
+  }
+}

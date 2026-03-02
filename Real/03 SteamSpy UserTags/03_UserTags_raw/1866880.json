@@ -1,0 +1,22 @@
+{
+  "appid": 1866880,
+  "success": true,
+  "tags": {
+    "RPG": 60,
+    "Action Roguelike": 56,
+    "Rogue-lite": 46,
+    "Bullet Hell": 45,
+    "Action": 44,
+    "Rogue-like": 40,
+    "2D": 33,
+    "Top-Down": 31,
+    "Mythology": 29,
+    "Pixel Graphics": 25,
+    "Procedural Generation": 25,
+    "Indie": 22,
+    "Adventure": 21,
+    "Singleplayer": 18,
+    "Combat": 16,
+    "Martial Arts": 13
+  }
+}

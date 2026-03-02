@@ -1,0 +1,26 @@
+{
+  "appid": 603530,
+  "success": true,
+  "tags": {
+    "Metroidvania": 119,
+    "Roguevania": 112,
+    "Action Roguelike": 106,
+    "Action": 101,
+    "Rogue-lite": 99,
+    "Indie": 81,
+    "Gore": 77,
+    "Violent": 76,
+    "Pixel Graphics": 73,
+    "Procedural Generation": 73,
+    "Platformer": 72,
+    "2D": 71,
+    "Retro": 67,
+    "Robots": 64,
+    "Rogue-like": 59,
+    "Local Co-Op": 52,
+    "Local Multiplayer": 49,
+    "4 Player Local": 47,
+    "Nonlinear": 43,
+    "Split Screen": 39
+  }
+}

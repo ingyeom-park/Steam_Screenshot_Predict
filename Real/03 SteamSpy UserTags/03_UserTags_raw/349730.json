@@ -1,0 +1,26 @@
+{
+  "appid": 349730,
+  "success": true,
+  "tags": {
+    "RPG": 67,
+    "Strategy": 62,
+    "Indie": 51,
+    "Dungeon Crawler": 46,
+    "Turn-Based": 42,
+    "Rogue-like": 40,
+    "Tabletop": 34,
+    "Moddable": 33,
+    "Turn-Based Strategy": 32,
+    "Turn-Based Tactics": 32,
+    "Tactical RPG": 30,
+    "Rogue-lite": 30,
+    "Party-Based RPG": 27,
+    "Fantasy": 27,
+    "Sci-fi": 25,
+    "Choices Matter": 25,
+    "Story Rich": 25,
+    "Tactical": 25,
+    "Character Customization": 23,
+    "Replay Value": 17
+  }
+}

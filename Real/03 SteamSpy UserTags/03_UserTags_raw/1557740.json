@@ -1,0 +1,26 @@
+{
+  "appid": 1557740,
+  "success": true,
+  "tags": {
+    "Multiplayer": 821,
+    "Fighting": 725,
+    "Local Multiplayer": 708,
+    "2D Fighter": 702,
+    "Deckbuilding": 679,
+    "Rogue-lite": 667,
+    "Action": 662,
+    "Indie": 649,
+    "Physics": 643,
+    "Card Battler": 643,
+    "PvP": 634,
+    "2D": 624,
+    "Roguelike Deckbuilder": 605,
+    "Card Game": 589,
+    "Party Game": 584,
+    "Platformer": 584,
+    "2D Platformer": 569,
+    "Side Scroller": 563,
+    "Arcade": 556,
+    "Twin Stick Shooter": 531
+  }
+}

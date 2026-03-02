@@ -1,0 +1,26 @@
+{
+  "appid": 922530,
+  "success": true,
+  "tags": {
+    "Board Game": 90,
+    "MOBA": 83,
+    "Hex Grid": 82,
+    "2D": 79,
+    "Turn-Based Tactics": 74,
+    "Strategy": 67,
+    "Competitive": 65,
+    "Turn-Based": 64,
+    "Dark Fantasy": 61,
+    "Fantasy": 60,
+    "Dwarf": 59,
+    "Turn-Based Combat": 56,
+    "Multiplayer": 52,
+    "PvP": 49,
+    "Magic": 47,
+    "Tactical": 43,
+    "Indie": 39,
+    "Replay Value": 35,
+    "Singleplayer": 34,
+    "PvE": 28
+  }
+}

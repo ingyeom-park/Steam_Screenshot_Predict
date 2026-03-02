@@ -1,0 +1,26 @@
+{
+  "appid": 764580,
+  "success": true,
+  "tags": {
+    "Casual": 152,
+    "Adventure": 146,
+    "Simulation": 143,
+    "Strategy": 140,
+    "Sandbox": 135,
+    "Singleplayer": 126,
+    "Action": 119,
+    "Indie": 114,
+    "Pixel Graphics": 111,
+    "Building": 107,
+    "Crafting": 100,
+    "Survival": 96,
+    "Multiplayer": 94,
+    "Puzzle": 92,
+    "Rogue-like": 89,
+    "3D Platformer": 85,
+    "Exploration": 79,
+    "Anime": 73,
+    "Voxel": 70,
+    "3D": 63
+  }
+}

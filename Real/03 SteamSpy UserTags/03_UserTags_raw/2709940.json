@@ -1,0 +1,25 @@
+{
+  "appid": 2709940,
+  "success": true,
+  "tags": {
+    "Adventure": 181,
+    "Action": 175,
+    "Simulation": 171,
+    "Walking Simulator": 145,
+    "Exploration": 139,
+    "Immersive Sim": 130,
+    "Cinematic": 122,
+    "Stylized": 115,
+    "First-Person": 108,
+    "Horror": 101,
+    "Realistic": 97,
+    "1990's": 96,
+    "Atmospheric": 84,
+    "Psychological Horror": 62,
+    "Linear": 41,
+    "Singleplayer": 28,
+    "Perma Death": 27,
+    "Casual": 20,
+    "Indie": 20
+  }
+}

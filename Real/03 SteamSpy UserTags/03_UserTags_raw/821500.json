@@ -1,0 +1,25 @@
+{
+  "appid": 821500,
+  "success": true,
+  "tags": {
+    "Adventure": 101,
+    "Indie": 96,
+    "Action": 92,
+    "Psychological Horror": 88,
+    "Difficult": 85,
+    "Horror": 77,
+    "Platformer": 76,
+    "Simulation": 73,
+    "Arcade": 70,
+    "2D": 69,
+    "Cute": 65,
+    "Singleplayer": 62,
+    "2D Platformer": 57,
+    "Fantasy": 50,
+    "Physics": 47,
+    "Intentionally Awkward Controls": 43,
+    "Survival Horror": 38,
+    "Psychological": 26,
+    "Beautiful": 24
+  }
+}

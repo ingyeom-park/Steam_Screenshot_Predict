@@ -1,0 +1,26 @@
+{
+  "appid": 1316800,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 149,
+    "Bullet Hell": 147,
+    "Top-Down Shooter": 141,
+    "Shoot 'Em Up": 139,
+    "Twin Stick Shooter": 136,
+    "Difficult": 128,
+    "Survival": 124,
+    "Arcade": 123,
+    "Rogue-like": 117,
+    "RPG": 117,
+    "Split Screen": 109,
+    "Top-Down": 106,
+    "Cyberpunk": 105,
+    "Bullet Time": 102,
+    "Procedural Generation": 99,
+    "Action": 98,
+    "Indie": 82,
+    "Local Co-Op": 37,
+    "Sci-fi": 35,
+    "Score Attack": 32
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1323900,
+  "success": true,
+  "tags": {
+    "Building": 134,
+    "Survival": 130,
+    "Multiplayer": 123,
+    "Co-op": 118,
+    "Online Co-Op": 115,
+    "Adventure": 108,
+    "Sandbox": 105,
+    "Exploration": 101,
+    "Open World Survival Craft": 97,
+    "Top-Down": 94,
+    "Crafting": 92,
+    "Open World": 88,
+    "Base-Building": 83,
+    "Atmospheric": 79,
+    "Post-apocalyptic": 73,
+    "Mystery": 73,
+    "Robots": 65,
+    "Singleplayer": 59,
+    "Indie": 56,
+    "Steampunk": 41
+  }
+}

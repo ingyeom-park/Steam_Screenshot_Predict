@@ -1,0 +1,26 @@
+{
+  "appid": 867960,
+  "success": true,
+  "tags": {
+    "Action": 248,
+    "Indie": 238,
+    "Gore": 232,
+    "FPS": 224,
+    "Violent": 224,
+    "Horror": 213,
+    "Survival Horror": 209,
+    "Psychological Horror": 205,
+    "Shooter": 194,
+    "Puzzle": 188,
+    "Action-Adventure": 184,
+    "Exploration": 183,
+    "First-Person": 180,
+    "Atmospheric": 177,
+    "Dark": 175,
+    "Story Rich": 174,
+    "Singleplayer": 171,
+    "Controller": 171,
+    "Open World": 170,
+    "3D": 165
+  }
+}

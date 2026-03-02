@@ -1,0 +1,26 @@
+{
+  "appid": 252110,
+  "success": true,
+  "tags": {
+    "Local Co-Op": 232,
+    "4 Player Local": 163,
+    "Co-op": 160,
+    "Local Multiplayer": 159,
+    "Multiplayer": 151,
+    "Co-op Campaign": 148,
+    "Action": 136,
+    "Space": 135,
+    "Indie": 124,
+    "Cute": 118,
+    "2D": 98,
+    "Colorful": 95,
+    "Shoot 'Em Up": 91,
+    "Sci-fi": 90,
+    "Casual": 87,
+    "Stylized": 86,
+    "Shooter": 82,
+    "Action-Adventure": 80,
+    "Cartoony": 76,
+    "Combat": 75
+  }
+}

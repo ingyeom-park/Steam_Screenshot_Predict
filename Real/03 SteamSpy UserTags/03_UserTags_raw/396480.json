@@ -1,0 +1,24 @@
+{
+  "appid": 396480,
+  "success": true,
+  "tags": {
+    "Strategy": 54,
+    "Space": 53,
+    "Simulation": 41,
+    "Rogue-like": 33,
+    "Indie": 32,
+    "Action": 31,
+    "Rogue-lite": 25,
+    "2D": 20,
+    "Sci-fi": 18,
+    "Singleplayer": 17,
+    "Pixel Graphics": 15,
+    "Real-Time with Pause": 14,
+    "Open World": 12,
+    "Survival": 11,
+    "Replay Value": 11,
+    "Perma Death": 10,
+    "RTS": 7,
+    "Turn-Based": 6
+  }
+}

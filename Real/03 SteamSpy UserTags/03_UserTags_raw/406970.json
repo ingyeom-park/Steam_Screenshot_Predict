@@ -1,0 +1,26 @@
+{
+  "appid": 406970,
+  "success": true,
+  "tags": {
+    "Adventure": 139,
+    "Indie": 97,
+    "Robots": 95,
+    "Atmospheric": 91,
+    "Sci-fi": 90,
+    "Puzzle": 82,
+    "Story Rich": 72,
+    "Point & Click": 71,
+    "Singleplayer": 63,
+    "Cyberpunk": 58,
+    "Post-apocalyptic": 55,
+    "Futuristic": 47,
+    "Episodic": 46,
+    "Third Person": 40,
+    "Great Soundtrack": 38,
+    "Hidden Object": 35,
+    "Short": 34,
+    "Choices Matter": 23,
+    "Walking Simulator": 21,
+    "Horror": 14
+  }
+}

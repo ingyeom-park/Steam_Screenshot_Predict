@@ -1,0 +1,19 @@
+{
+  "appid": 283080,
+  "success": true,
+  "tags": {
+    "Action": 52,
+    "Adventure": 50,
+    "Indie": 48,
+    "RPG": 46,
+    "2D": 27,
+    "Action RPG": 24,
+    "Side Scroller": 18,
+    "Singleplayer": 18,
+    "Family Friendly": 14,
+    "Classic": 12,
+    "Hack and Slash": 7,
+    "Cute": 7,
+    "Platformer": 6
+  }
+}

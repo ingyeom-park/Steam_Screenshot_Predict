@@ -1,0 +1,26 @@
+{
+  "appid": 1799560,
+  "success": true,
+  "tags": {
+    "Puzzle": 127,
+    "Point & Click": 121,
+    "Adventure": 118,
+    "Atmospheric": 115,
+    "2D": 111,
+    "Hand-drawn": 105,
+    "Horror": 102,
+    "Psychological Horror": 99,
+    "Story Rich": 92,
+    "Escape Room": 83,
+    "Funny": 76,
+    "Dark": 73,
+    "Surreal": 71,
+    "Linear": 69,
+    "Hidden Object": 67,
+    "Dark Humor": 64,
+    "Logic": 59,
+    "Mystery": 57,
+    "Indie": 50,
+    "Singleplayer": 41
+  }
+}

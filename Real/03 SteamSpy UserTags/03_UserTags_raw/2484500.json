@@ -1,0 +1,26 @@
+{
+  "appid": 2484500,
+  "success": true,
+  "tags": {
+    "Psychological Horror": 98,
+    "Atmospheric": 92,
+    "Mystery": 89,
+    "Story Rich": 86,
+    "Action": 83,
+    "Adventure": 77,
+    "Jump Scare": 75,
+    "Horror": 73,
+    "Psychological": 68,
+    "Exploration": 66,
+    "Multiple Endings": 64,
+    "Thriller": 62,
+    "Walking Simulator": 60,
+    "First-Person": 58,
+    "Indie": 56,
+    "Singleplayer": 35,
+    "Linear": 33,
+    "Dark": 31,
+    "Puzzle": 29,
+    "Survival Horror": 27
+  }
+}

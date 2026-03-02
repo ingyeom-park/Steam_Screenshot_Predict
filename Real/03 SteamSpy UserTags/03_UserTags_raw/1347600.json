@@ -1,0 +1,26 @@
+{
+  "appid": 1347600,
+  "success": true,
+  "tags": {
+    "2D Platformer": 227,
+    "Hidden Object": 221,
+    "Surreal": 218,
+    "Horror": 215,
+    "Psychological Horror": 212,
+    "Puzzle": 206,
+    "Dark": 203,
+    "Fantasy": 199,
+    "Story Rich": 196,
+    "Point & Click": 194,
+    "RPG": 190,
+    "2D": 182,
+    "Casual": 159,
+    "Anime": 155,
+    "Hand-drawn": 151,
+    "Adventure": 137,
+    "Singleplayer": 89,
+    "Indie": 77,
+    "Cartoony": 29,
+    "Stylized": 27
+  }
+}

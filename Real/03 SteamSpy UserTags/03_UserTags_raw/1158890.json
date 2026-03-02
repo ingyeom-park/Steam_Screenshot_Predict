@@ -1,0 +1,26 @@
+{
+  "appid": 1158890,
+  "success": true,
+  "tags": {
+    "Puzzle": 200,
+    "Adventure": 189,
+    "Atmospheric": 189,
+    "Platformer": 185,
+    "Story Rich": 183,
+    "Indie": 174,
+    "Dark Fantasy": 169,
+    "Exploration": 165,
+    "Singleplayer": 163,
+    "Horror": 162,
+    "Difficult": 155,
+    "Action-Adventure": 154,
+    "Action": 152,
+    "Puzzle-Platformer": 149,
+    "Dark": 143,
+    "Stealth": 130,
+    "Gore": 122,
+    "Violent": 117,
+    "Cinematic": 106,
+    "Dystopian ": 99
+  }
+}

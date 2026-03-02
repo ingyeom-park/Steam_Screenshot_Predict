@@ -1,0 +1,25 @@
+{
+  "appid": 42120,
+  "success": true,
+  "tags": {
+    "Western": 159,
+    "Action": 132,
+    "PvP": 116,
+    "Multiplayer": 115,
+    "Third-Person Shooter": 113,
+    "Team-Based": 103,
+    "Co-op": 100,
+    "Shooter": 97,
+    "Class-Based": 92,
+    "Third Person": 89,
+    "Funny": 84,
+    "Indie": 83,
+    "3D": 80,
+    "Atmospheric": 67,
+    "Singleplayer": 50,
+    "Competitive": 28,
+    "Anime": 28,
+    "Replay Value": 25,
+    "Nudity": 25
+  }
+}

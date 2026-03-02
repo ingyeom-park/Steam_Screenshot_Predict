@@ -1,0 +1,26 @@
+{
+  "appid": 690560,
+  "success": true,
+  "tags": {
+    "Rogue-like": 131,
+    "Turn-Based": 125,
+    "Dungeon Crawler": 120,
+    "RPG": 117,
+    "Traditional Roguelike": 113,
+    "Singleplayer": 104,
+    "2D": 102,
+    "Top-Down": 102,
+    "Pixel Graphics": 98,
+    "Casual": 95,
+    "Fantasy": 88,
+    "Funny": 84,
+    "Loot": 82,
+    "Perma Death": 80,
+    "Replay Value": 78,
+    "Puzzle": 76,
+    "Procedural Generation": 73,
+    "Comedy": 67,
+    "Adventure": 61,
+    "Indie": 54
+  }
+}

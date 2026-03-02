@@ -1,0 +1,26 @@
+{
+  "appid": 661790,
+  "success": true,
+  "tags": {
+    "Horror": 212,
+    "Survival Horror": 202,
+    "Action": 184,
+    "Survival": 183,
+    "Atmospheric": 182,
+    "Open World": 176,
+    "FPS": 169,
+    "Supernatural": 168,
+    "Adventure": 165,
+    "Singleplayer": 162,
+    "Shooter": 148,
+    "Hunting": 140,
+    "Psychological Horror": 138,
+    "First-Person": 136,
+    "Exploration": 132,
+    "Loot": 117,
+    "Gothic": 115,
+    "Difficult": 103,
+    "Gore": 92,
+    "Indie": 82
+  }
+}

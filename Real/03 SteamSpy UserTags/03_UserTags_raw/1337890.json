@@ -1,0 +1,26 @@
+{
+  "appid": 1337890,
+  "success": true,
+  "tags": {
+    "Card Game": 243,
+    "Singleplayer": 237,
+    "Strategy": 234,
+    "Choices Matter": 231,
+    "Indie": 202,
+    "Medieval": 198,
+    "Choose Your Own Adventure": 192,
+    "Turn-Based": 186,
+    "Life Sim": 182,
+    "RPG": 171,
+    "Casual": 169,
+    "Replay Value": 166,
+    "Funny": 164,
+    "Multiple Endings": 158,
+    "Adventure": 154,
+    "Turn-Based Strategy": 148,
+    "2D": 146,
+    "Simulation": 144,
+    "Fantasy": 142,
+    "Roguelike Deckbuilder": 134
+  }
+}

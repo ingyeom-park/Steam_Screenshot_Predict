@@ -1,0 +1,24 @@
+{
+  "appid": 231330,
+  "success": true,
+  "tags": {
+    "Adventure": 143,
+    "Action": 127,
+    "FPS": 104,
+    "Shooter": 73,
+    "First-Person": 70,
+    "Multiplayer": 68,
+    "Singleplayer": 63,
+    "Puzzle": 60,
+    "Zombies": 39,
+    "Co-op": 31,
+    "Indie": 28,
+    "Horror": 19,
+    "Survival": 18,
+    "Exploration": 17,
+    "Action-Adventure": 8,
+    "World War II": 8,
+    "Open World": 6,
+    "Strategy": 5
+  }
+}

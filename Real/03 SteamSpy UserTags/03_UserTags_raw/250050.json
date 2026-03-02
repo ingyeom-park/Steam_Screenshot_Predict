@@ -1,0 +1,26 @@
+{
+  "appid": 250050,
+  "success": true,
+  "tags": {
+    "Dark Humor": 179,
+    "Funny": 179,
+    "Platformer": 175,
+    "Puzzle": 170,
+    "Fantasy": 165,
+    "Family Friendly": 153,
+    "Comedy": 148,
+    "Puzzle-Platformer": 115,
+    "Indie": 78,
+    "Casual": 68,
+    "Singleplayer": 53,
+    "Great Soundtrack": 45,
+    "Adventure": 43,
+    "Side Scroller": 40,
+    "Physics": 40,
+    "2D": 35,
+    "2.5D": 34,
+    "Action": 33,
+    "Controller": 30,
+    "Atmospheric": 13
+  }
+}

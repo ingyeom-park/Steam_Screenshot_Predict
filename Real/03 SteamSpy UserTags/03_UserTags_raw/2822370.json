@@ -1,0 +1,26 @@
+{
+  "appid": 2822370,
+  "success": true,
+  "tags": {
+    "Simulation": 104,
+    "Cooking": 97,
+    "Atmospheric": 92,
+    "Family Friendly": 90,
+    "Cute": 88,
+    "Casual": 82,
+    "First-Person": 77,
+    "Singleplayer": 73,
+    "Indie": 72,
+    "Economy": 67,
+    "Education": 64,
+    "Funny": 61,
+    "Stylized": 57,
+    "Relaxing": 56,
+    "Action": 54,
+    "Adventure": 52,
+    "Steampunk": 50,
+    "Artificial Intelligence": 37,
+    "Crafting": 30,
+    "Resource Management": 29
+  }
+}

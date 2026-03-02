@@ -1,0 +1,26 @@
+{
+  "appid": 530020,
+  "success": true,
+  "tags": {
+    "Indie": 105,
+    "Adventure": 100,
+    "Action": 96,
+    "Action-Adventure": 72,
+    "RPG": 65,
+    "Exploration": 61,
+    "Top-Down": 57,
+    "Singleplayer": 52,
+    "Action RPG": 46,
+    "Retro": 44,
+    "Puzzle": 43,
+    "Family Friendly": 40,
+    "Funny": 36,
+    "Fantasy": 36,
+    "Atmospheric": 28,
+    "Colorful": 28,
+    "Great Soundtrack": 26,
+    "Story Rich": 25,
+    "Cute": 22,
+    "Isometric": 22
+  }
+}

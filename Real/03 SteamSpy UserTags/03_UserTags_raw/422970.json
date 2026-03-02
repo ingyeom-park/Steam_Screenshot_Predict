@@ -1,0 +1,26 @@
+{
+  "appid": 422970,
+  "success": true,
+  "tags": {
+    "FPS": 241,
+    "Difficult": 196,
+    "Indie": 176,
+    "Fast-Paced": 171,
+    "Action": 166,
+    "Horror": 143,
+    "Retro": 131,
+    "Shooter": 126,
+    "First-Person": 119,
+    "Arena Shooter": 118,
+    "Singleplayer": 115,
+    "Bullet Hell": 106,
+    "Pixel Graphics": 95,
+    "Atmospheric": 93,
+    "Demons": 79,
+    "Survival": 74,
+    "Arcade": 67,
+    "Lovecraftian": 54,
+    "Gore": 44,
+    "Dark": 33
+  }
+}

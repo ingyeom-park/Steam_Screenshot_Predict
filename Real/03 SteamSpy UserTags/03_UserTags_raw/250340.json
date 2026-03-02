@@ -1,0 +1,26 @@
+{
+  "appid": 250340,
+  "success": true,
+  "tags": {
+    "Sandbox": 466,
+    "Building": 351,
+    "Multiplayer": 343,
+    "LEGO": 274,
+    "Open World": 272,
+    "Action": 263,
+    "Indie": 248,
+    "Moddable": 221,
+    "First-Person": 196,
+    "Funny": 172,
+    "Adventure": 153,
+    "Co-op": 140,
+    "FPS": 139,
+    "Third Person": 134,
+    "Singleplayer": 132,
+    "Shooter": 124,
+    "Racing": 114,
+    "Zombies": 104,
+    "RPG": 81,
+    "Horror": 54
+  }
+}

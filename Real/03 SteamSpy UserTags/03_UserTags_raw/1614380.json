@@ -1,0 +1,26 @@
+{
+  "appid": 1614380,
+  "success": true,
+  "tags": {
+    "Steampunk": 144,
+    "Puzzle": 138,
+    "Mystery": 134,
+    "Singleplayer": 131,
+    "Atmospheric": 126,
+    "Dark": 119,
+    "Retro": 112,
+    "Exploration": 108,
+    "Puzzle-Platformer": 106,
+    "Relaxing": 104,
+    "Point & Click": 98,
+    "Indie": 89,
+    "Realistic": 82,
+    "Adventure": 77,
+    "Linear": 74,
+    "Physics": 72,
+    "Stylized": 70,
+    "Cinematic": 68,
+    "Sci-fi": 61,
+    "3D Platformer": 56
+  }
+}

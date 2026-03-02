@@ -1,0 +1,20 @@
+{
+  "appid": 327670,
+  "success": true,
+  "tags": {
+    "Strategy": 39,
+    "Match 3": 39,
+    "Indie": 30,
+    "Steampunk": 29,
+    "RPG": 27,
+    "Mechs": 24,
+    "Puzzle": 20,
+    "Rogue-lite": 17,
+    "Perma Death": 14,
+    "Singleplayer": 13,
+    "Rogue-like": 10,
+    "Casual": 7,
+    "Turn-Based": 6,
+    "Epic": 5
+  }
+}

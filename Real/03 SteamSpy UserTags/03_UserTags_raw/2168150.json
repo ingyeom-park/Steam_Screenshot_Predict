@@ -1,0 +1,26 @@
+{
+  "appid": 2168150,
+  "success": true,
+  "tags": {
+    "Adventure": 254,
+    "Action": 244,
+    "Puzzle": 229,
+    "Platformer": 220,
+    "Action-Adventure": 212,
+    "Steampunk": 203,
+    "Puzzle-Platformer": 198,
+    "Indie": 195,
+    "Metroidvania": 190,
+    "2D": 170,
+    "2D Platformer": 159,
+    "Side Scroller": 146,
+    "Singleplayer": 146,
+    "Colorful": 130,
+    "Stylized": 115,
+    "Atmospheric": 99,
+    "Fantasy": 82,
+    "Logic": 65,
+    "Medieval": 44,
+    "Combat": 26
+  }
+}

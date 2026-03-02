@@ -1,0 +1,26 @@
+{
+  "appid": 1625930,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 124,
+    "Colorful": 118,
+    "Puzzle": 115,
+    "Stylized": 112,
+    "3D": 109,
+    "Cute": 103,
+    "Twin Stick Shooter": 101,
+    "Rogue-lite": 99,
+    "Isometric": 97,
+    "Controller": 95,
+    "Nonlinear": 93,
+    "Procedural Generation": 91,
+    "Action": 89,
+    "Fantasy": 75,
+    "Loot": 73,
+    "Magic": 71,
+    "Adventure": 69,
+    "Singleplayer": 51,
+    "Cozy": 49,
+    "Indie": 47
+  }
+}

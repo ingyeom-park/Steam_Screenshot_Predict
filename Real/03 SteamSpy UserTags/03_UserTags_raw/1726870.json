@@ -1,0 +1,25 @@
+{
+  "appid": 1726870,
+  "success": true,
+  "tags": {
+    "Adventure": 181,
+    "Puzzle": 154,
+    "Exploration": 150,
+    "Survival Horror": 146,
+    "Horror": 139,
+    "First-Person": 131,
+    "Atmospheric": 122,
+    "Story Rich": 115,
+    "Mystery": 107,
+    "Physics": 97,
+    "Artificial Intelligence": 95,
+    "Stealth": 83,
+    "Choices Matter": 70,
+    "Inventory Management": 56,
+    "Linear": 41,
+    "Singleplayer": 27,
+    "3D": 25,
+    "Indie": 22,
+    "Gore": 21
+  }
+}

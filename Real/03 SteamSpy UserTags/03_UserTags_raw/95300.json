@@ -1,0 +1,23 @@
+{
+  "appid": 95300,
+  "success": true,
+  "tags": {
+    "Action": 90,
+    "Indie": 80,
+    "Platformer": 79,
+    "Sci-fi": 51,
+    "Local Co-Op": 37,
+    "2D": 37,
+    "Shooter": 33,
+    "Physics": 23,
+    "Great Soundtrack": 21,
+    "Singleplayer": 16,
+    "Local Multiplayer": 14,
+    "Adventure": 13,
+    "Space": 12,
+    "Beautiful": 10,
+    "Difficult": 7,
+    "Metroidvania": 6,
+    "Atmospheric": 5
+  }
+}

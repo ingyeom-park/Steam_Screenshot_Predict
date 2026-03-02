@@ -1,0 +1,26 @@
+{
+  "appid": 629230,
+  "success": true,
+  "tags": {
+    "Action": 159,
+    "Indie": 153,
+    "Platformer": 112,
+    "2D": 109,
+    "Pixel Graphics": 106,
+    "Cute": 99,
+    "Fantasy": 96,
+    "Female Protagonist": 95,
+    "Family Friendly": 91,
+    "Singleplayer": 86,
+    "Side Scroller": 83,
+    "Atmospheric": 80,
+    "Difficult": 78,
+    "Funny": 76,
+    "Controller": 74,
+    "Fast-Paced": 71,
+    "2D Platformer": 68,
+    "Puzzle-Platformer": 64,
+    "Magic": 60,
+    "Linear": 56
+  }
+}

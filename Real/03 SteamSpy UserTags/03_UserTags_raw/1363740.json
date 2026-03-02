@@ -1,0 +1,26 @@
+{
+  "appid": 1363740,
+  "success": true,
+  "tags": {
+    "World War II": 104,
+    "Turn-Based Tactics": 91,
+    "Tanks": 87,
+    "Turn-Based Strategy": 84,
+    "Turn-Based Combat": 80,
+    "Wargame": 76,
+    "Hex Grid": 69,
+    "Strategy": 68,
+    "Historical": 64,
+    "Military": 63,
+    "Singleplayer": 60,
+    "War": 57,
+    "3D": 55,
+    "Tactical": 52,
+    "Action": 46,
+    "Combat": 40,
+    "PvE": 36,
+    "Indie": 30,
+    "Tabletop": 30,
+    "Vehicular Combat": 28
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1339900,
+  "success": true,
+  "tags": {
+    "Chess": 171,
+    "Survival Horror": 165,
+    "Sci-fi": 162,
+    "Turn-Based Strategy": 159,
+    "Board Game": 155,
+    "Nostalgia": 145,
+    "Funny": 142,
+    "Casual": 139,
+    "Relaxing": 132,
+    "Education": 129,
+    "Indie": 125,
+    "Strategy": 123,
+    "Singleplayer": 120,
+    "Unforgiving": 118,
+    "Puzzle": 114,
+    "2D": 110,
+    "Pixel Graphics": 103,
+    "Artificial Intelligence": 94,
+    "Old School": 85,
+    "Retro": 75
+  }
+}

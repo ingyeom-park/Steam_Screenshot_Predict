@@ -1,0 +1,26 @@
+{
+  "appid": 1078200,
+  "success": true,
+  "tags": {
+    "Platformer": 177,
+    "Rogue-like": 170,
+    "Action Roguelike": 166,
+    "Indie": 162,
+    "Difficult": 159,
+    "2D": 151,
+    "Local Co-Op": 148,
+    "Replay Value": 143,
+    "Procedural Generation": 136,
+    "Arcade": 131,
+    "Action": 126,
+    "Perma Death": 118,
+    "Singleplayer": 116,
+    "Adventure": 114,
+    "Co-op": 105,
+    "Controller": 100,
+    "Side Scroller": 99,
+    "Rogue-lite": 94,
+    "Pixel Graphics": 90,
+    "Precision Platformer": 79
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 250620,
+  "success": true,
+  "tags": {
+    "Horror": 696,
+    "Indie": 316,
+    "Adventure": 282,
+    "Atmospheric": 281,
+    "First-Person": 257,
+    "Singleplayer": 205,
+    "Walking Simulator": 139,
+    "Dark": 125,
+    "Survival Horror": 125,
+    "Puzzle": 111,
+    "Action": 108,
+    "Psychological Horror": 102,
+    "Short": 93,
+    "Story Rich": 85,
+    "Exploration": 83,
+    "Cute": 75,
+    "Stealth": 59,
+    "Survival": 55,
+    "VR": 32,
+    "Simulation": 31
+  }
+}

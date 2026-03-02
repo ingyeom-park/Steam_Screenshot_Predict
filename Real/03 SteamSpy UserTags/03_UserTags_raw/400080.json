@@ -1,0 +1,21 @@
+{
+  "appid": 400080,
+  "success": true,
+  "tags": {
+    "Casual": 85,
+    "Strategy": 80,
+    "Indie": 79,
+    "Multiplayer": 66,
+    "Co-op": 63,
+    "Local Co-Op": 44,
+    "Space": 27,
+    "Local Multiplayer": 18,
+    "Online Co-Op": 17,
+    "4 Player Local": 15,
+    "Controller": 10,
+    "Funny": 9,
+    "Singleplayer": 9,
+    "Sci-fi": 7,
+    "Split Screen": 6
+  }
+}

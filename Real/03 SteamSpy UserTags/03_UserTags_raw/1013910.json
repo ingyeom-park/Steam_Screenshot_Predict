@@ -1,0 +1,22 @@
+{
+  "appid": 1013910,
+  "success": true,
+  "tags": {
+    "Action": 36,
+    "Indie": 36,
+    "RPG": 34,
+    "Adventure": 33,
+    "Open World": 18,
+    "Fantasy": 16,
+    "Action-Adventure": 15,
+    "Action RPG": 15,
+    "Singleplayer": 13,
+    "Crafting": 12,
+    "Dragons": 12,
+    "Atmospheric": 12,
+    "Platformer": 11,
+    "Story Rich": 11,
+    "Zombies": 9,
+    "Souls-like": 5
+  }
+}

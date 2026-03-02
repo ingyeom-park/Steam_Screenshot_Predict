@@ -1,0 +1,26 @@
+{
+  "appid": 307670,
+  "success": true,
+  "tags": {
+    "Western": 151,
+    "Turn-Based Strategy": 124,
+    "Strategy": 123,
+    "RPG": 117,
+    "Turn-Based Combat": 105,
+    "Adventure": 83,
+    "Turn-Based": 81,
+    "Tactical": 71,
+    "Indie": 68,
+    "Turn-Based Tactics": 66,
+    "Isometric": 63,
+    "Singleplayer": 59,
+    "Action": 54,
+    "Horror": 53,
+    "Atmospheric": 41,
+    "Gore": 31,
+    "Survival": 27,
+    "Kickstarter": 23,
+    "Open World": 22,
+    "Third Person": 16
+  }
+}

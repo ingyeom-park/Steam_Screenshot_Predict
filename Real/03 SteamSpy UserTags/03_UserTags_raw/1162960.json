@@ -1,0 +1,26 @@
+{
+  "appid": 1162960,
+  "success": true,
+  "tags": {
+    "Action": 191,
+    "Adventure": 183,
+    "Arcade": 181,
+    "Platformer": 180,
+    "Singleplayer": 180,
+    "Difficult": 172,
+    "Side Scroller": 168,
+    "Funny": 167,
+    "Blood": 160,
+    "Violent": 159,
+    "Gore": 154,
+    "Comedy": 147,
+    "Retro": 145,
+    "Pixel Graphics": 139,
+    "2D Platformer": 129,
+    "Indie": 121,
+    "Memes": 120,
+    "Nudity": 116,
+    "Precision Platformer": 111,
+    "Old School": 102
+  }
+}

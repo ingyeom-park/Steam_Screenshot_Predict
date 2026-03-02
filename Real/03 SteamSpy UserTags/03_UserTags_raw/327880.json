@@ -1,0 +1,26 @@
+{
+  "appid": 327880,
+  "success": true,
+  "tags": {
+    "Indie": 50,
+    "Action": 50,
+    "6DOF": 46,
+    "Rogue-lite": 46,
+    "Action Roguelike": 42,
+    "First-Person": 33,
+    "VR": 30,
+    "Great Soundtrack": 25,
+    "Exploration": 22,
+    "Sci-fi": 21,
+    "Rogue-like": 20,
+    "Atmospheric": 16,
+    "Adventure": 15,
+    "Beautiful": 12,
+    "Shooter": 11,
+    "Procedural Generation": 10,
+    "FPS": 7,
+    "Perma Death": 6,
+    "Retro": 5,
+    "Singleplayer": 5
+  }
+}

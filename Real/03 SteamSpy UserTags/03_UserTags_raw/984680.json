@@ -1,0 +1,26 @@
+{
+  "appid": 984680,
+  "success": true,
+  "tags": {
+    "Strategy": 131,
+    "Indie": 124,
+    "4X": 123,
+    "Sci-fi": 118,
+    "Space": 115,
+    "Turn-Based": 110,
+    "Turn-Based Strategy": 107,
+    "Exploration": 103,
+    "Singleplayer": 101,
+    "Turn-Based Tactics": 95,
+    "Grand Strategy": 91,
+    "Turn-Based Combat": 87,
+    "Procedural Generation": 83,
+    "Replay Value": 78,
+    "Futuristic": 72,
+    "War": 69,
+    "Sandbox": 61,
+    "Military": 56,
+    "Diplomacy": 52,
+    "Open World": 51
+  }
+}

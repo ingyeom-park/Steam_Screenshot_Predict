@@ -1,0 +1,11 @@
+{
+  "appid": 761170,
+  "success": true,
+  "tags": {
+    "Casual": 24,
+    "Indie": 21,
+    "Strategy": 20,
+    "RPG": 18,
+    "Rogue-like": 5
+  }
+}

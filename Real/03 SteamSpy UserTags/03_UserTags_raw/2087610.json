@@ -1,0 +1,26 @@
+{
+  "appid": 2087610,
+  "success": true,
+  "tags": {
+    "2D Platformer": 235,
+    "Puzzle-Platformer": 227,
+    "Puzzle": 224,
+    "PvP": 219,
+    "Platformer": 211,
+    "Arcade": 202,
+    "2D": 195,
+    "Cute": 186,
+    "Action": 179,
+    "Split Screen": 177,
+    "Controller": 168,
+    "Colorful": 147,
+    "Pixel Graphics": 147,
+    "Family Friendly": 130,
+    "Sci-fi": 115,
+    "Space": 99,
+    "Score Attack": 83,
+    "Retro": 64,
+    "Local Multiplayer": 45,
+    "Indie": 30
+  }
+}

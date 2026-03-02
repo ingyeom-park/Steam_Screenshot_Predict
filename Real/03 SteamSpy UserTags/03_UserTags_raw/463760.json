@@ -1,0 +1,26 @@
+{
+  "appid": 463760,
+  "success": true,
+  "tags": {
+    "Indie": 101,
+    "Adventure": 97,
+    "Platformer": 92,
+    "Singleplayer": 79,
+    "Casual": 74,
+    "Cute": 74,
+    "Puzzle": 63,
+    "Atmospheric": 63,
+    "Narration": 61,
+    "Story Rich": 59,
+    "Fantasy": 57,
+    "Beautiful": 51,
+    "Funny": 47,
+    "Emotional": 41,
+    "Puzzle-Platformer": 39,
+    "3D Platformer": 35,
+    "Exploration": 33,
+    "2.5D": 31,
+    "2D": 29,
+    "Retro": 26
+  }
+}

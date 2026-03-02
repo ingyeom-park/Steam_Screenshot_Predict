@@ -1,0 +1,26 @@
+{
+  "appid": 567210,
+  "success": true,
+  "tags": {
+    "Casual": 102,
+    "Adventure": 74,
+    "Strategy": 71,
+    "Indie": 68,
+    "Puzzle": 65,
+    "Puzzle-Platformer": 59,
+    "2D": 57,
+    "Platformer": 54,
+    "2D Platformer": 52,
+    "Sokoban": 50,
+    "Cartoon": 48,
+    "Cartoony": 46,
+    "Cute": 44,
+    "Atmospheric": 42,
+    "Fantasy": 40,
+    "Funny": 38,
+    "Magic": 36,
+    "Parody ": 34,
+    "Retro": 32,
+    "Controller": 30
+  }
+}

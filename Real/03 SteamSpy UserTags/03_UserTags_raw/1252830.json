@@ -1,0 +1,26 @@
+{
+  "appid": 1252830,
+  "success": true,
+  "tags": {
+    "Atmospheric": 295,
+    "Fantasy": 286,
+    "Story Rich": 284,
+    "Puzzle-Platformer": 281,
+    "Platformer": 276,
+    "Narration": 272,
+    "Female Protagonist": 268,
+    "Medieval": 266,
+    "Physics": 257,
+    "Adventure": 254,
+    "Singleplayer": 252,
+    "Indie": 249,
+    "Side Scroller": 244,
+    "2.5D": 234,
+    "Short": 229,
+    "Exploration": 221,
+    "Cinematic": 210,
+    "Wholesome": 204,
+    "Well-Written": 200,
+    "Action": 195
+  }
+}

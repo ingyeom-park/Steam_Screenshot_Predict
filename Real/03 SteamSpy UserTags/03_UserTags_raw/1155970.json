@@ -1,0 +1,26 @@
+{
+  "appid": 1155970,
+  "success": true,
+  "tags": {
+    "RPG": 143,
+    "Text-Based": 122,
+    "Adventure": 105,
+    "Indie": 93,
+    "Pixel Graphics": 88,
+    "Interactive Fiction": 75,
+    "Story Rich": 69,
+    "Choose Your Own Adventure": 63,
+    "Fantasy": 50,
+    "Choices Matter": 48,
+    "Visual Novel": 45,
+    "Multiple Endings": 42,
+    "Dark Fantasy": 37,
+    "Atmospheric": 37,
+    "Mystery": 25,
+    "Singleplayer": 24,
+    "Detective": 22,
+    "Drama": 14,
+    "Crime": 11,
+    "LGBTQ+": 10
+  }
+}

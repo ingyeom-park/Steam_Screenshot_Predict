@@ -1,0 +1,26 @@
+{
+  "appid": 2299660,
+  "success": true,
+  "tags": {
+    "Exploration": 164,
+    "FPS": 161,
+    "Dinosaurs": 159,
+    "Puzzle": 154,
+    "Shooter": 153,
+    "Action RPG": 148,
+    "First-Person": 146,
+    "Horror": 143,
+    "Choices Matter": 131,
+    "Multiple Endings": 126,
+    "Story Rich": 121,
+    "Action": 117,
+    "Realistic": 105,
+    "Adventure": 97,
+    "Survival Horror": 93,
+    "Combat": 80,
+    "Singleplayer": 76,
+    "Indie": 71,
+    "Atmospheric": 58,
+    "Cyberpunk": 52
+  }
+}

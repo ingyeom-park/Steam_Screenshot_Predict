@@ -1,0 +1,26 @@
+{
+  "appid": 356400,
+  "success": true,
+  "tags": {
+    "Rhythm": 131,
+    "Indie": 96,
+    "Action": 88,
+    "Psychedelic": 85,
+    "Great Soundtrack": 79,
+    "Music": 76,
+    "Difficult": 75,
+    "VR": 70,
+    "Atmospheric": 66,
+    "Singleplayer": 58,
+    "Fast-Paced": 56,
+    "Horror": 43,
+    "Dark": 41,
+    "Arcade": 37,
+    "Psychological Horror": 21,
+    "Lovecraftian": 21,
+    "Racing": 17,
+    "Dark Fantasy": 15,
+    "Fantasy": 12,
+    "Controller": 7
+  }
+}

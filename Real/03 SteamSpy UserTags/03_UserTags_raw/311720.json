@@ -1,0 +1,26 @@
+{
+  "appid": 311720,
+  "success": true,
+  "tags": {
+    "Turn-Based": 100,
+    "Procedural Generation": 92,
+    "Grid-Based Movement": 91,
+    "Traditional Roguelike": 70,
+    "Rogue-like": 60,
+    "RPG": 53,
+    "Indie": 51,
+    "Strategy": 51,
+    "Cute": 41,
+    "Turn-Based Combat": 36,
+    "Tactical": 31,
+    "Fantasy": 30,
+    "Turn-Based Tactics": 30,
+    "Great Soundtrack": 28,
+    "Turn-Based Strategy": 27,
+    "Perma Death": 27,
+    "Loot": 27,
+    "Replay Value": 27,
+    "Tactical RPG": 25,
+    "Story Rich": 24
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 2685900,
+  "success": true,
+  "tags": {
+    "Puzzle-Platformer": 113,
+    "Puzzle": 102,
+    "Adventure": 96,
+    "Robots": 96,
+    "Platformer": 90,
+    "2D Platformer": 89,
+    "2D": 84,
+    "Indie": 80,
+    "Logic": 76,
+    "Singleplayer": 72,
+    "Sci-fi": 70,
+    "Controller": 68,
+    "Linear": 62,
+    "Cartoony": 60,
+    "Colorful": 56,
+    "Side Scroller": 51,
+    "Pixel Graphics": 39,
+    "Cute": 5
+  }
+}

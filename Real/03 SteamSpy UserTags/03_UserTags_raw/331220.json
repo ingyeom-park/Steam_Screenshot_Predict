@@ -1,0 +1,26 @@
+{
+  "appid": 331220,
+  "success": true,
+  "tags": {
+    "Action": 112,
+    "Indie": 106,
+    "Local Multiplayer": 103,
+    "4 Player Local": 101,
+    "Stealth": 96,
+    "Multiplayer": 88,
+    "Western": 85,
+    "Pixel Graphics": 80,
+    "2D": 77,
+    "Retro": 71,
+    "Party Game": 68,
+    "Casual": 64,
+    "Arcade": 61,
+    "Split Screen": 58,
+    "1990's": 54,
+    "Illuminati": 52,
+    "Family Friendly": 45,
+    "Funny": 42,
+    "Old School": 40,
+    "Controller": 38
+  }
+}

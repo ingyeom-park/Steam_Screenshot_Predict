@@ -1,0 +1,26 @@
+{
+  "appid": 248610,
+  "success": true,
+  "tags": {
+    "Tactical": 470,
+    "Strategy": 367,
+    "Top-Down": 254,
+    "Simulation": 225,
+    "Action": 205,
+    "Indie": 186,
+    "Singleplayer": 172,
+    "Real-Time with Pause": 163,
+    "2D": 157,
+    "Replay Value": 128,
+    "Co-op": 119,
+    "Real Time Tactics": 115,
+    "RTS": 109,
+    "Shooter": 89,
+    "Top-Down Shooter": 88,
+    "Moddable": 84,
+    "Puzzle": 77,
+    "Level Editor": 73,
+    "Difficult": 58,
+    "Multiplayer": 46
+  }
+}

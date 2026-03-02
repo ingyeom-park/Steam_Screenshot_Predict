@@ -1,0 +1,26 @@
+{
+  "appid": 1334840,
+  "success": true,
+  "tags": {
+    "Indie": 175,
+    "Action": 169,
+    "Survival Horror": 166,
+    "Third Person": 163,
+    "3D": 158,
+    "Colorful": 149,
+    "Psychological Horror": 144,
+    "Horror": 142,
+    "Family Friendly": 133,
+    "Singleplayer": 130,
+    "Atmospheric": 124,
+    "Surreal": 121,
+    "Funny": 117,
+    "Nudity": 110,
+    "Action-Adventure": 105,
+    "Walking Simulator": 103,
+    "3D Platformer": 99,
+    "Third-Person Shooter": 95,
+    "Hidden Object": 81,
+    "Foreign": 71
+  }
+}

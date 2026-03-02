@@ -1,0 +1,26 @@
+{
+  "appid": 1175360,
+  "success": true,
+  "tags": {
+    "Arcade": 218,
+    "Twin Stick Shooter": 202,
+    "Difficult": 196,
+    "Perma Death": 192,
+    "Bullet Hell": 189,
+    "Dungeon Crawler": 185,
+    "Action Roguelike": 160,
+    "2.5D": 160,
+    "Post-apocalyptic": 158,
+    "Cyberpunk": 158,
+    "Pixel Graphics": 153,
+    "Procedural Generation": 153,
+    "Action": 149,
+    "Rogue-lite": 147,
+    "Rogue-like": 135,
+    "Destruction": 133,
+    "Singleplayer": 132,
+    "Indie": 96,
+    "Early Access": 91,
+    "Gore": 76
+  }
+}

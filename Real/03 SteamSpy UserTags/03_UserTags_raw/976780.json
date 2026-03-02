@@ -1,0 +1,26 @@
+{
+  "appid": 976780,
+  "success": true,
+  "tags": {
+    "Adventure": 124,
+    "Indie": 119,
+    "Cyberpunk": 119,
+    "Atmospheric": 114,
+    "Open World": 108,
+    "Walking Simulator": 102,
+    "Detective": 102,
+    "First-Person": 100,
+    "Crime": 96,
+    "Mystery": 89,
+    "FPS": 79,
+    "Casual": 78,
+    "Noir": 69,
+    "Retro": 59,
+    "Sci-fi": 56,
+    "Singleplayer": 45,
+    "Short": 36,
+    "Investigation": 33,
+    "RPG": 33,
+    "Great Soundtrack": 29
+  }
+}

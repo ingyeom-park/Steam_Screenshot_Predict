@@ -1,0 +1,19 @@
+{
+  "appid": 2323980,
+  "success": true,
+  "tags": {
+    "Rogue-lite": 86,
+    "Puzzle": 80,
+    "Match 3": 77,
+    "Strategy": 71,
+    "Casual": 65,
+    "RPG": 59,
+    "Indie": 53,
+    "Fantasy": 38,
+    "Singleplayer": 36,
+    "Rogue-like": 33,
+    "Turn-Based": 32,
+    "2D": 30,
+    "Turn-Based Combat": 27
+  }
+}

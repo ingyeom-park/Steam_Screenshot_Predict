@@ -1,0 +1,26 @@
+{
+  "appid": 259680,
+  "success": true,
+  "tags": {
+    "Traditional Roguelike": 1023,
+    "Rogue-like": 998,
+    "Turn-Based": 997,
+    "Dungeon Crawler": 994,
+    "Perma Death": 987,
+    "Difficult": 973,
+    "RPG": 749,
+    "Procedural Generation": 259,
+    "2D": 256,
+    "Top-Down": 250,
+    "Fantasy": 247,
+    "Open World": 243,
+    "Loot": 241,
+    "Tactical": 238,
+    "Moddable": 229,
+    "Adventure": 215,
+    "Singleplayer": 214,
+    "Indie": 193,
+    "Replay Value": 112,
+    "Character Customization": 67
+  }
+}

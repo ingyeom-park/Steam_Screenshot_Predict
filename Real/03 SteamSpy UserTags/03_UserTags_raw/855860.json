@@ -1,0 +1,26 @@
+{
+  "appid": 855860,
+  "success": true,
+  "tags": {
+    "Action": 101,
+    "Pixel Graphics": 89,
+    "Multiplayer": 87,
+    "Indie": 82,
+    "2D": 82,
+    "Violent": 81,
+    "Gore": 77,
+    "Funny": 55,
+    "Platformer": 54,
+    "Local Multiplayer": 50,
+    "Online Co-Op": 49,
+    "Beat 'em up": 46,
+    "Local Co-Op": 45,
+    "Physics": 45,
+    "Level Editor": 44,
+    "Arcade": 41,
+    "Great Soundtrack": 41,
+    "Shooter": 37,
+    "Co-op": 34,
+    "Co-op Campaign": 31
+  }
+}

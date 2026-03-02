@@ -1,0 +1,26 @@
+{
+  "appid": 449610,
+  "success": true,
+  "tags": {
+    "Adventure": 78,
+    "Action": 75,
+    "Indie": 70,
+    "Metroidvania": 60,
+    "Platformer": 57,
+    "2D": 39,
+    "Side Scroller": 35,
+    "Singleplayer": 35,
+    "Exploration": 34,
+    "Anime": 34,
+    "Cute": 33,
+    "Colorful": 31,
+    "Fantasy": 29,
+    "Great Soundtrack": 28,
+    "Action-Adventure": 28,
+    "Cartoon": 26,
+    "Sequel": 16,
+    "Kickstarter": 12,
+    "Difficult": 10,
+    "Puzzle": 7
+  }
+}

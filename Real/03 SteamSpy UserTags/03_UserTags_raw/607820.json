@@ -1,0 +1,26 @@
+{
+  "appid": 607820,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 159,
+    "Turn-Based Combat": 151,
+    "Party-Based RPG": 148,
+    "Character Customization": 146,
+    "RPG": 142,
+    "Story Rich": 135,
+    "Indie": 128,
+    "Old School": 122,
+    "Grid-Based Movement": 120,
+    "Anime": 117,
+    "Fantasy": 112,
+    "Singleplayer": 109,
+    "Turn-Based": 104,
+    "JRPG": 102,
+    "Exploration": 100,
+    "Tactical RPG": 91,
+    "Hand-drawn": 81,
+    "Retro": 73,
+    "Procedural Generation": 69,
+    "Replay Value": 66
+  }
+}

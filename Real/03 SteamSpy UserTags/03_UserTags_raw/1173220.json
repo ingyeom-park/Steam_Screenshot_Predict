@@ -1,0 +1,26 @@
+{
+  "appid": 1173220,
+  "success": true,
+  "tags": {
+    "Action": 233,
+    "Souls-like": 228,
+    "Adventure": 225,
+    "RPG": 221,
+    "Action RPG": 198,
+    "Action-Adventure": 186,
+    "Exploration": 184,
+    "Open World": 184,
+    "Survival Horror": 152,
+    "Survival": 151,
+    "3D": 141,
+    "Third Person": 139,
+    "Dark": 138,
+    "Horror": 116,
+    "Stealth": 94,
+    "PvP": 74,
+    "Choices Matter": 62,
+    "Crafting": 44,
+    "Singleplayer": 38,
+    "Indie": 34
+  }
+}

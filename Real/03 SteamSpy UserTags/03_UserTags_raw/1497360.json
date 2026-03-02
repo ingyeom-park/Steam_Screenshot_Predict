@@ -1,0 +1,26 @@
+{
+  "appid": 1497360,
+  "success": true,
+  "tags": {
+    "Adventure": 223,
+    "Exploration": 198,
+    "Interactive Fiction": 193,
+    "Story Rich": 186,
+    "Investigation": 185,
+    "2D": 165,
+    "3D": 160,
+    "Cinematic": 152,
+    "First-Person": 147,
+    "Stylized": 135,
+    "Atmospheric": 127,
+    "Detective": 124,
+    "Drama": 107,
+    "Emotional": 96,
+    "Mystery": 84,
+    "Old School": 60,
+    "Retro": 44,
+    "Singleplayer": 35,
+    "Linear": 27,
+    "Indie": 24
+  }
+}

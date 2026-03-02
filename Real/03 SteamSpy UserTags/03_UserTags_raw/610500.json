@@ -1,0 +1,20 @@
+{
+  "appid": 610500,
+  "success": true,
+  "tags": {
+    "RPG": 53,
+    "Adventure": 42,
+    "Indie": 42,
+    "Fantasy": 21,
+    "Tactical RPG": 16,
+    "Turn-Based": 16,
+    "Turn-Based Combat": 15,
+    "Atmospheric": 14,
+    "Comedy": 14,
+    "Singleplayer": 11,
+    "Party-Based RPG": 11,
+    "Turn-Based Tactics": 11,
+    "Early Access": 11,
+    "Isometric": 10
+  }
+}

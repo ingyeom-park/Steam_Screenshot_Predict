@@ -1,0 +1,26 @@
+{
+  "appid": 1980350,
+  "success": true,
+  "tags": {
+    "Strategy": 179,
+    "Rogue-lite": 173,
+    "Action Roguelike": 170,
+    "Top-Down Shooter": 160,
+    "Space": 158,
+    "Shoot 'Em Up": 140,
+    "Shooter": 138,
+    "Arcade": 131,
+    "Rogue-like": 127,
+    "2D": 118,
+    "Procedural Generation": 113,
+    "Action": 109,
+    "Building": 98,
+    "Casual": 95,
+    "Colorful": 91,
+    "Sci-fi": 88,
+    "Retro": 84,
+    "Combat": 82,
+    "Singleplayer": 78,
+    "Indie": 75
+  }
+}

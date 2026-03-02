@@ -1,0 +1,26 @@
+{
+  "appid": 249590,
+  "success": true,
+  "tags": {
+    "Platformer": 163,
+    "Puzzle": 121,
+    "Indie": 112,
+    "Metroidvania": 102,
+    "2D": 89,
+    "Steampunk": 80,
+    "Singleplayer": 69,
+    "Puzzle-Platformer": 67,
+    "Action": 58,
+    "Adventure": 57,
+    "Difficult": 56,
+    "Physics": 50,
+    "Exploration": 49,
+    "Side Scroller": 42,
+    "Atmospheric": 35,
+    "Retro": 34,
+    "Great Soundtrack": 31,
+    "Cute": 25,
+    "Nonlinear": 23,
+    "Dark Fantasy": 22
+  }
+}

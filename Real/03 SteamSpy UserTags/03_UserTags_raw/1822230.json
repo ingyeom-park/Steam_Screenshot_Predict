@@ -1,0 +1,26 @@
+{
+  "appid": 1822230,
+  "success": true,
+  "tags": {
+    "Adventure": 135,
+    "Pixel Graphics": 129,
+    "Anime": 127,
+    "Visual Novel": 121,
+    "Action": 119,
+    "Comic Book": 91,
+    "Indie": 88,
+    "Platformer": 86,
+    "2D Platformer": 83,
+    "Side Scroller": 79,
+    "Cute": 77,
+    "Singleplayer": 67,
+    "Funny": 67,
+    "Female Protagonist": 64,
+    "2D": 61,
+    "Casual": 50,
+    "Exploration": 32,
+    "Comedy": 31,
+    "Remake": 28,
+    "Simulation": 24
+  }
+}

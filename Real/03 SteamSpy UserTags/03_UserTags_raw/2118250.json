@@ -1,0 +1,25 @@
+{
+  "appid": 2118250,
+  "success": true,
+  "tags": {
+    "Casual": 199,
+    "Tower Defense": 175,
+    "Rogue-like": 171,
+    "Rogue-lite": 162,
+    "2D": 156,
+    "Cute": 146,
+    "Isometric": 137,
+    "Pixel Graphics": 136,
+    "Cooking": 129,
+    "Funny": 112,
+    "Space": 101,
+    "Automation": 99,
+    "Controller": 87,
+    "Deckbuilding": 74,
+    "Tutorial": 58,
+    "Singleplayer": 43,
+    "Aliens": 26,
+    "Moddable": 24,
+    "Indie": 20
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 41800,
+  "success": true,
+  "tags": {
+    "Strategy": 173,
+    "Auto Battler": 141,
+    "Space": 138,
+    "Top-Down": 134,
+    "Sci-fi": 132,
+    "Spaceships": 126,
+    "Sandbox": 123,
+    "Indie": 118,
+    "2D": 114,
+    "Building": 107,
+    "Simulation": 104,
+    "Singleplayer": 73,
+    "Moddable": 69,
+    "Action": 67,
+    "RTS": 62,
+    "Difficult": 60,
+    "Multiplayer": 57,
+    "Tower Defense": 54,
+    "Tactical": 52,
+    "Physics": 42
+  }
+}

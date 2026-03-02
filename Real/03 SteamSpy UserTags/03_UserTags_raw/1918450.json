@@ -1,0 +1,26 @@
+{
+  "appid": 1918450,
+  "success": true,
+  "tags": {
+    "Metroidvania": 205,
+    "Female Protagonist": 203,
+    "Action": 201,
+    "Action RPG": 199,
+    "Souls-like": 195,
+    "Adventure": 175,
+    "Side Scroller": 170,
+    "RPG": 160,
+    "2.5D": 157,
+    "Platformer": 136,
+    "Dark Fantasy": 122,
+    "Atmospheric": 119,
+    "Exploration": 107,
+    "Hack and Slash": 95,
+    "3D": 76,
+    "Fantasy": 62,
+    "Indie": 47,
+    "Controller": 47,
+    "Singleplayer": 31,
+    "Anime": 17
+  }
+}

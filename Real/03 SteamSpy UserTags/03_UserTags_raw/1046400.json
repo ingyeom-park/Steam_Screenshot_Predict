@@ -1,0 +1,26 @@
+{
+  "appid": 1046400,
+  "success": true,
+  "tags": {
+    "Fantasy": 280,
+    "Metroidvania": 278,
+    "Exploration": 278,
+    "Action-Adventure": 268,
+    "Pixel Graphics": 246,
+    "Action": 245,
+    "Platformer": 232,
+    "Adventure": 231,
+    "Retro": 226,
+    "2D": 224,
+    "2D Platformer": 217,
+    "Anime": 209,
+    "Old School": 201,
+    "Dark Fantasy": 199,
+    "Singleplayer": 193,
+    "Side Scroller": 179,
+    "Demons": 179,
+    "Hand-drawn": 169,
+    "Magic": 165,
+    "1980s": 164
+  }
+}

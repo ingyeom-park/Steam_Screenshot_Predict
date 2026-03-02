@@ -1,0 +1,26 @@
+{
+  "appid": 2469570,
+  "success": true,
+  "tags": {
+    "Puzzle": 135,
+    "Indie": 128,
+    "Difficult": 125,
+    "Abstract": 121,
+    "Minimalist": 118,
+    "Singleplayer": 113,
+    "Wholesome": 108,
+    "Logic": 107,
+    "2D": 101,
+    "Casual": 92,
+    "Level Editor": 88,
+    "Relaxing": 86,
+    "Psychedelic": 81,
+    "Cute": 73,
+    "Procedural Generation": 61,
+    "Physics": 51,
+    "Clicker": 45,
+    "Board Game": 43,
+    "Card Game": 34,
+    "Design & Illustration": 26
+  }
+}

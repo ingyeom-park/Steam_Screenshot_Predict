@@ -1,0 +1,26 @@
+{
+  "appid": 640800,
+  "success": true,
+  "tags": {
+    "Action": 38,
+    "Indie": 35,
+    "Simulation": 32,
+    "VR": 30,
+    "Shooter": 21,
+    "Multiplayer": 21,
+    "FPS": 20,
+    "Sci-fi": 18,
+    "PvP": 17,
+    "Team-Based": 16,
+    "Online Co-Op": 16,
+    "Futuristic": 16,
+    "First-Person": 16,
+    "Fast-Paced": 15,
+    "Co-op": 14,
+    "Arena Shooter": 14,
+    "Tactical": 14,
+    "Competitive": 13,
+    "War": 13,
+    "Early Access": 13
+  }
+}

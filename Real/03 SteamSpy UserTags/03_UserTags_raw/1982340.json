@@ -1,0 +1,26 @@
+{
+  "appid": 1982340,
+  "success": true,
+  "tags": {
+    "Adventure": 221,
+    "Emotional": 220,
+    "Co-op": 217,
+    "Atmospheric": 212,
+    "Relaxing": 199,
+    "Stylized": 190,
+    "Hand-drawn": 179,
+    "Multiplayer": 173,
+    "Local Co-Op": 169,
+    "Online Co-Op": 152,
+    "Walking Simulator": 141,
+    "Casual": 131,
+    "Indie": 130,
+    "Family Friendly": 129,
+    "Music": 96,
+    "Short": 80,
+    "3D": 64,
+    "Exploration": 45,
+    "Cute": 35,
+    "Local Multiplayer": 25
+  }
+}

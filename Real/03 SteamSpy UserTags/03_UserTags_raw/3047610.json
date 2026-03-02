@@ -1,0 +1,26 @@
+{
+  "appid": 3047610,
+  "success": true,
+  "tags": {
+    "Adventure": 214,
+    "Simulation": 208,
+    "Visual Novel": 182,
+    "Walking Simulator": 179,
+    "Exploration": 173,
+    "3D": 163,
+    "First-Person": 157,
+    "Psychedelic": 148,
+    "Realistic": 140,
+    "Atmospheric": 131,
+    "Drama": 120,
+    "Dark": 118,
+    "Psychological Horror": 105,
+    "Thriller": 91,
+    "Horror": 78,
+    "Conversation": 60,
+    "Story Rich": 45,
+    "Narration": 27,
+    "Singleplayer": 26,
+    "Indie": 23
+  }
+}

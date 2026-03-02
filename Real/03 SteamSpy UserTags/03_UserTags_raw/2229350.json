@@ -1,0 +1,26 @@
+{
+  "appid": 2229350,
+  "success": true,
+  "tags": {
+    "Horror": 252,
+    "Mystery": 246,
+    "Story Rich": 241,
+    "Surreal": 238,
+    "Puzzle": 236,
+    "Psychological Horror": 228,
+    "Realistic": 224,
+    "Crafting": 217,
+    "Adventure": 210,
+    "Atmospheric": 204,
+    "Choices Matter": 197,
+    "Thriller": 189,
+    "Dark": 182,
+    "Singleplayer": 179,
+    "Stealth": 176,
+    "Controller": 172,
+    "First-Person": 168,
+    "Exploration": 153,
+    "Indie": 151,
+    "Nature": 135
+  }
+}

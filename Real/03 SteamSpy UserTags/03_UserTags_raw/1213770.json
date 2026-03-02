@@ -1,0 +1,26 @@
+{
+  "appid": 1213770,
+  "success": true,
+  "tags": {
+    "Abstract": 141,
+    "Procedural Generation": 135,
+    "Physics": 133,
+    "Multiplayer": 129,
+    "PvP": 126,
+    "Pool": 122,
+    "Casual": 118,
+    "Board Game": 115,
+    "Tabletop": 113,
+    "Local Multiplayer": 110,
+    "4 Player Local": 103,
+    "Singleplayer": 101,
+    "Score Attack": 100,
+    "Top-Down": 97,
+    "2D": 94,
+    "Puzzle": 80,
+    "Cute": 64,
+    "Anime": 61,
+    "Colorful": 59,
+    "Indie": 57
+  }
+}

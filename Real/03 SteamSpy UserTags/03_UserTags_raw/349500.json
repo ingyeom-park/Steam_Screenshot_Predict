@@ -1,0 +1,22 @@
+{
+  "appid": 349500,
+  "success": true,
+  "tags": {
+    "RPG": 45,
+    "Indie": 31,
+    "RPGMaker": 28,
+    "Simulation": 20,
+    "Adventure": 17,
+    "Comedy": 16,
+    "Singleplayer": 15,
+    "JRPG": 15,
+    "Fantasy": 13,
+    "Puzzle": 12,
+    "Story Rich": 12,
+    "Surreal": 11,
+    "Difficult": 9,
+    "Atmospheric": 8,
+    "2D": 7,
+    "Walking Simulator": 7
+  }
+}

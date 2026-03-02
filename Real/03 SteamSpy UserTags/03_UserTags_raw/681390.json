@@ -1,0 +1,26 @@
+{
+  "appid": 681390,
+  "success": true,
+  "tags": {
+    "Zombies": 65,
+    "VR": 54,
+    "Violent": 46,
+    "Gore": 44,
+    "Action": 39,
+    "Indie": 37,
+    "RPG": 32,
+    "Shooter": 29,
+    "Horror": 27,
+    "Arcade": 23,
+    "Post-apocalyptic": 21,
+    "Multiplayer": 18,
+    "Blood": 18,
+    "Bullet Time": 17,
+    "Fast-Paced": 16,
+    "Replay Value": 15,
+    "FPS": 9,
+    "Survival": 8,
+    "Third Person": 6,
+    "First-Person": 5
+  }
+}

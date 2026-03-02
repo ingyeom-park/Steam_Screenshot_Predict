@@ -1,0 +1,26 @@
+{
+  "appid": 1120400,
+  "success": true,
+  "tags": {
+    "Turn-Based": 132,
+    "Open World": 127,
+    "Traditional Roguelike": 124,
+    "Sandbox": 119,
+    "Procedural Generation": 115,
+    "Dungeon Crawler": 108,
+    "Tactical RPG": 105,
+    "Turn-Based Tactics": 104,
+    "Perma Death": 97,
+    "Rogue-like": 91,
+    "RPG": 85,
+    "Turn-Based Combat": 76,
+    "Fantasy": 74,
+    "Loot": 71,
+    "Tactical": 70,
+    "Grid-Based Movement": 66,
+    "Singleplayer": 60,
+    "Indie": 53,
+    "Replay Value": 31,
+    "3D": 12
+  }
+}

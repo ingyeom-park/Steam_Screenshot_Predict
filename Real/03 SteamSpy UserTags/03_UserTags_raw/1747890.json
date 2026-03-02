@@ -1,0 +1,26 @@
+{
+  "appid": 1747890,
+  "success": true,
+  "tags": {
+    "3D Platformer": 263,
+    "Precision Platformer": 256,
+    "Collectathon": 254,
+    "Platformer": 250,
+    "Adventure": 242,
+    "Action-Adventure": 211,
+    "Exploration": 185,
+    "Anime": 172,
+    "Colorful": 162,
+    "Cute": 158,
+    "Stylized": 139,
+    "Pixel Graphics": 135,
+    "Third Person": 122,
+    "Comedy": 106,
+    "Demons": 90,
+    "Funny": 80,
+    "Female Protagonist": 61,
+    "Singleplayer": 56,
+    "Indie": 49,
+    "Simulation": 47
+  }
+}

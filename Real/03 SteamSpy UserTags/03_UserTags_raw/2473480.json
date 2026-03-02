@@ -1,0 +1,26 @@
+{
+  "appid": 2473480,
+  "success": true,
+  "tags": {
+    "Action RPG": 296,
+    "Souls-like": 293,
+    "Difficult": 289,
+    "Combat": 285,
+    "Dark Fantasy": 284,
+    "Singleplayer": 277,
+    "Adventure": 269,
+    "Action-Adventure": 249,
+    "Story Rich": 247,
+    "RPG": 243,
+    "2D": 239,
+    "Action": 197,
+    "Narration": 194,
+    "Fantasy": 163,
+    "Atmospheric": 148,
+    "Medieval": 117,
+    "Character Customization": 95,
+    "Indie": 81,
+    "2.5D": 77,
+    "Swordplay": 56
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "appid": 401360,
+  "success": true,
+  "tags": {
+    "Adventure": 48,
+    "Indie": 47,
+    "Action": 45,
+    "Metroidvania": 40,
+    "Underwater": 39,
+    "Pixel Graphics": 31,
+    "2D": 23,
+    "Post-apocalyptic": 20,
+    "Singleplayer": 14,
+    "Exploration": 13,
+    "Difficult": 11,
+    "Boss Rush": 9,
+    "Atmospheric": 8,
+    "Great Soundtrack": 8,
+    "Action-Adventure": 5
+  }
+}

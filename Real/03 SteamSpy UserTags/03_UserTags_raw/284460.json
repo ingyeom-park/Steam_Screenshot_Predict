@@ -1,0 +1,24 @@
+{
+  "appid": 284460,
+  "success": true,
+  "tags": {
+    "Platformer": 88,
+    "Action": 75,
+    "Indie": 62,
+    "FPS": 54,
+    "Parkour": 51,
+    "Difficult": 49,
+    "First-Person": 45,
+    "Sci-fi": 43,
+    "3D Platformer": 43,
+    "Puzzle": 42,
+    "Great Soundtrack": 41,
+    "Fast-Paced": 35,
+    "Singleplayer": 29,
+    "Shooter": 18,
+    "Atmospheric": 9,
+    "Cyberpunk": 7,
+    "Puzzle-Platformer": 7,
+    "Runner": 7
+  }
+}

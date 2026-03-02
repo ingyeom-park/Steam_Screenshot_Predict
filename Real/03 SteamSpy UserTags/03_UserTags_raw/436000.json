@@ -1,0 +1,26 @@
+{
+  "appid": 436000,
+  "success": true,
+  "tags": {
+    "Indie": 117,
+    "Action": 111,
+    "Adventure": 107,
+    "Casual": 103,
+    "Puzzle": 101,
+    "FPS": 96,
+    "First-Person": 94,
+    "Great Soundtrack": 91,
+    "Colorful": 90,
+    "Cute": 87,
+    "Arcade": 87,
+    "Shooter": 84,
+    "Puzzle-Platformer": 81,
+    "3D Platformer": 77,
+    "3D": 74,
+    "Abstract": 71,
+    "Anime": 69,
+    "Cartoony": 65,
+    "Funny": 62,
+    "Archery": 60
+  }
+}

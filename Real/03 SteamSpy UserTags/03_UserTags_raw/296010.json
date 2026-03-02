@@ -1,0 +1,26 @@
+{
+  "appid": 296010,
+  "success": true,
+  "tags": {
+    "FPS": 113,
+    "6DOF": 109,
+    "Sandbox": 104,
+    "Open World": 100,
+    "Action": 97,
+    "RPG": 92,
+    "Sci-fi": 90,
+    "Procedural Generation": 87,
+    "Loot": 82,
+    "Action RPG": 80,
+    "Shooter": 78,
+    "Cyberpunk": 69,
+    "Combat": 67,
+    "Arena Shooter": 64,
+    "Indie": 57,
+    "Rogue-lite": 50,
+    "First-Person": 42,
+    "Funny": 36,
+    "Singleplayer": 36,
+    "Difficult": 32
+  }
+}

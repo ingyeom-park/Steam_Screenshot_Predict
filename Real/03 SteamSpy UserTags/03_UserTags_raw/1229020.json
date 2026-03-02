@@ -1,0 +1,26 @@
+{
+  "appid": 1229020,
+  "success": true,
+  "tags": {
+    "Adventure": 228,
+    "Exploration": 219,
+    "Investigation": 212,
+    "Mystery": 206,
+    "Surreal": 198,
+    "Detective": 185,
+    "Story Rich": 184,
+    "Narration": 181,
+    "Singleplayer": 178,
+    "First-Person": 175,
+    "3D": 173,
+    "Action-Adventure": 168,
+    "Interactive Fiction": 164,
+    "Walking Simulator": 161,
+    "Horror": 155,
+    "Snow": 153,
+    "Sci-fi": 139,
+    "Indie": 126,
+    "Open World": 114,
+    "Choose Your Own Adventure": 107
+  }
+}

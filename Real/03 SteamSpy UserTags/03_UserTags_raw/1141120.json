@@ -1,0 +1,25 @@
+{
+  "appid": 1141120,
+  "success": true,
+  "tags": {
+    "Adventure": 83,
+    "Interactive Fiction": 51,
+    "Investigation": 47,
+    "Visual Novel": 46,
+    "Puzzle-Platformer": 39,
+    "Side Scroller": 34,
+    "2D": 33,
+    "Cartoon": 30,
+    "Comic Book": 28,
+    "Stylized": 25,
+    "Indie": 24,
+    "Choices Matter": 24,
+    "Multiple Endings": 22,
+    "Text-Based": 21,
+    "Singleplayer": 19,
+    "Story Rich": 19,
+    "Female Protagonist": 18,
+    "Puzzle": 17,
+    "Anime": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1286350,
+  "success": true,
+  "tags": {
+    "FPS": 160,
+    "Rhythm": 154,
+    "Rogue-like": 136,
+    "Action": 133,
+    "Indie": 110,
+    "Shooter": 90,
+    "Adventure": 87,
+    "Action Roguelike": 74,
+    "Rock Music": 68,
+    "Great Soundtrack": 67,
+    "Music": 66,
+    "Difficult": 56,
+    "Rogue-lite": 54,
+    "Singleplayer": 53,
+    "First-Person": 39,
+    "Female Protagonist": 31,
+    "Bullet Hell": 27,
+    "Fast-Paced": 27,
+    "Procedural Generation": 22,
+    "Boomer Shooter": 12
+  }
+}

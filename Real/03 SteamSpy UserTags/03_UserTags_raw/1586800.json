@@ -1,0 +1,26 @@
+{
+  "appid": 1586800,
+  "success": true,
+  "tags": {
+    "Casual": 294,
+    "Cozy": 290,
+    "Relaxing": 284,
+    "Cute": 281,
+    "Wholesome": 274,
+    "Family Friendly": 270,
+    "Funny": 252,
+    "Short": 241,
+    "Colorful": 235,
+    "Indie": 200,
+    "LGBTQ+": 194,
+    "Adventure": 170,
+    "3D Platformer": 164,
+    "3D": 129,
+    "Collectathon": 125,
+    "Third Person": 120,
+    "Singleplayer": 111,
+    "Action-Adventure": 92,
+    "Comedy": 89,
+    "RPG": 85
+  }
+}

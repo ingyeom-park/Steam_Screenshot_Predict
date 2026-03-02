@@ -1,0 +1,26 @@
+{
+  "appid": 239840,
+  "success": true,
+  "tags": {
+    "Zombies": 537,
+    "Survival": 440,
+    "RPG": 388,
+    "Turn-Based": 273,
+    "Strategy": 249,
+    "Post-apocalyptic": 158,
+    "Singleplayer": 147,
+    "Turn-Based Strategy": 127,
+    "Indie": 119,
+    "Turn-Based Combat": 111,
+    "Kickstarter": 106,
+    "Horror": 103,
+    "Open World": 94,
+    "Early Access": 85,
+    "Sandbox": 76,
+    "Tactical": 64,
+    "Simulation": 53,
+    "Survival Horror": 52,
+    "Isometric": 46,
+    "Base-Building": 41
+  }
+}

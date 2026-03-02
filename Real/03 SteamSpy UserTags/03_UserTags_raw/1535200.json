@@ -1,0 +1,26 @@
+{
+  "appid": 1535200,
+  "success": true,
+  "tags": {
+    "Simulation": 199,
+    "VR": 198,
+    "Racing": 194,
+    "Skating": 188,
+    "Skateboarding": 184,
+    "Sports": 183,
+    "Action": 177,
+    "Combat Racing": 148,
+    "First-Person": 141,
+    "Realistic": 131,
+    "Shooter": 120,
+    "Driving": 118,
+    "Baseball": 105,
+    "Parkour": 91,
+    "Casual": 80,
+    "Flight": 76,
+    "Physics": 43,
+    "On-Rails Shooter": 27,
+    "Singleplayer": 25,
+    "Indie": 20
+  }
+}

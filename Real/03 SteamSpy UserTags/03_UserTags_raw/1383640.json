@@ -1,0 +1,26 @@
+{
+  "appid": 1383640,
+  "success": true,
+  "tags": {
+    "Strategy": 138,
+    "World War II": 133,
+    "RTS": 125,
+    "Turn-Based": 124,
+    "Level Editor": 120,
+    "Historical": 116,
+    "Top-Down": 113,
+    "Wargame": 112,
+    "Indie": 105,
+    "Grand Strategy": 99,
+    "Real-Time with Pause": 91,
+    "Real-Time": 80,
+    "Military": 71,
+    "Singleplayer": 62,
+    "Hex Grid": 60,
+    "Turn-Based Strategy": 50,
+    "Board Game": 47,
+    "Combat": 37,
+    "Action": 29,
+    "Simulation": 28
+  }
+}

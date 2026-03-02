@@ -1,0 +1,26 @@
+{
+  "appid": 361040,
+  "success": true,
+  "tags": {
+    "RPG": 124,
+    "JRPG": 115,
+    "Comedy": 112,
+    "Indie": 110,
+    "Turn-Based Combat": 106,
+    "Fantasy": 100,
+    "RPGMaker": 99,
+    "Dark Humor": 98,
+    "2D": 88,
+    "Pixel Graphics": 86,
+    "Adventure": 84,
+    "Singleplayer": 81,
+    "Funny": 79,
+    "Turn-Based": 76,
+    "Asynchronous Multiplayer": 74,
+    "Anime": 70,
+    "1990's": 66,
+    "Character Customization": 62,
+    "Colorful": 58,
+    "Sequel": 56
+  }
+}

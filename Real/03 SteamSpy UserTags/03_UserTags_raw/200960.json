@@ -1,0 +1,20 @@
+{
+  "appid": 200960,
+  "success": true,
+  "tags": {
+    "RPG": 76,
+    "Indie": 56,
+    "Isometric": 42,
+    "Strategy": 37,
+    "Turn-Based Combat": 32,
+    "Fantasy": 29,
+    "Turn-Based": 28,
+    "Old School": 24,
+    "Story Rich": 22,
+    "Singleplayer": 22,
+    "CRPG": 12,
+    "Creature Collector": 9,
+    "Classic": 7,
+    "Exploration": 6
+  }
+}

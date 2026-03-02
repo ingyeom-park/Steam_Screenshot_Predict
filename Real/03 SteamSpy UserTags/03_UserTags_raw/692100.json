@@ -1,0 +1,25 @@
+{
+  "appid": 692100,
+  "success": true,
+  "tags": {
+    "Horror": 111,
+    "Psychological Horror": 101,
+    "Gore": 92,
+    "Adventure": 86,
+    "Indie": 82,
+    "Violent": 76,
+    "Atmospheric": 72,
+    "Singleplayer": 70,
+    "First-Person": 66,
+    "Story Rich": 66,
+    "Walking Simulator": 66,
+    "Dark": 62,
+    "Realistic": 60,
+    "Surreal": 51,
+    "Demons": 46,
+    "Exploration": 43,
+    "Interactive Fiction": 40,
+    "Controller": 28,
+    "Multiplayer": 6
+  }
+}

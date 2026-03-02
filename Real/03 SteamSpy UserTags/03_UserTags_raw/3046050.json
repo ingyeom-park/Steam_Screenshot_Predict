@@ -1,0 +1,23 @@
+{
+  "appid": 3046050,
+  "success": true,
+  "tags": {
+    "Action": 86,
+    "Casual": 80,
+    "Arcade": 76,
+    "Rogue-like": 74,
+    "Bullet Hell": 70,
+    "2D": 63,
+    "Colorful": 59,
+    "Cute": 56,
+    "Pixel Graphics": 55,
+    "Indie": 52,
+    "Survival": 50,
+    "Choices Matter": 45,
+    "Singleplayer": 43,
+    "Rogue-lite": 40,
+    "LGBTQ+": 35,
+    "World War I": 30,
+    "World War II": 28
+  }
+}

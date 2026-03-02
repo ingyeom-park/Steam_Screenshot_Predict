@@ -1,0 +1,26 @@
+{
+  "appid": 771010,
+  "success": true,
+  "tags": {
+    "Casual": 97,
+    "Strategy": 91,
+    "Indie": 88,
+    "Simulation": 85,
+    "Puzzle": 70,
+    "Singleplayer": 64,
+    "Turn-Based Strategy": 63,
+    "Level Editor": 61,
+    "Great Soundtrack": 58,
+    "Short": 55,
+    "Turn-Based": 53,
+    "Cute": 51,
+    "Difficult": 49,
+    "Replay Value": 48,
+    "Ambient": 45,
+    "Cartoony": 43,
+    "Minimalist": 41,
+    "2D": 40,
+    "Colorful": 37,
+    "Logic": 35
+  }
+}

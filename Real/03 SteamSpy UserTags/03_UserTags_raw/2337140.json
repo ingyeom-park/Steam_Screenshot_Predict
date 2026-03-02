@@ -1,0 +1,26 @@
+{
+  "appid": 2337140,
+  "success": true,
+  "tags": {
+    "Strategy": 166,
+    "Simulation": 160,
+    "Casual": 156,
+    "Indie": 152,
+    "Management": 149,
+    "Minimalist": 143,
+    "Puzzle": 141,
+    "Relaxing": 139,
+    "Building": 134,
+    "Singleplayer": 127,
+    "Stylized": 120,
+    "Top-Down": 111,
+    "City Builder": 104,
+    "Resource Management": 100,
+    "Grid-Based Movement": 98,
+    "Level Editor": 93,
+    "Hex Grid": 87,
+    "3D": 76,
+    "Turn-Based": 66,
+    "Procedural Generation": 55
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2717260,
+  "success": true,
+  "tags": {
+    "Simulation": 255,
+    "Adventure": 248,
+    "Walking Simulator": 225,
+    "3D Platformer": 217,
+    "Exploration": 213,
+    "3D": 202,
+    "Cinematic": 198,
+    "First-Person": 189,
+    "Psychedelic": 178,
+    "Realistic": 170,
+    "1990's": 159,
+    "Atmospheric": 151,
+    "Dark": 148,
+    "Old School": 131,
+    "Psychological": 119,
+    "Psychological Horror": 113,
+    "Horror": 91,
+    "Retro": 83,
+    "Thriller": 71,
+    "Indie": 35
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1945230,
+  "success": true,
+  "tags": {
+    "Rogue-like": 137,
+    "Adventure": 132,
+    "Strategy": 129,
+    "Strategy RPG": 127,
+    "Time Management": 122,
+    "Exploration": 117,
+    "Indie": 115,
+    "Tabletop": 112,
+    "Rogue-lite": 111,
+    "RPG": 104,
+    "Procedural Generation": 97,
+    "Loot": 94,
+    "Open World": 92,
+    "Casual": 87,
+    "Singleplayer": 79,
+    "2D": 70,
+    "Fantasy": 67,
+    "Resource Management": 64,
+    "Cartoony": 50,
+    "Party-Based RPG": 48
+  }
+}

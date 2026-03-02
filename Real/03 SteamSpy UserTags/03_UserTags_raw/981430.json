@@ -1,0 +1,26 @@
+{
+  "appid": 981430,
+  "success": true,
+  "tags": {
+    "RPG": 335,
+    "Card Game": 328,
+    "Card Battler": 324,
+    "Strategy": 320,
+    "Adventure": 315,
+    "Replay Value": 310,
+    "Indie": 308,
+    "Turn-Based": 306,
+    "Tactical": 305,
+    "Roguelike Deckbuilder": 303,
+    "PvP": 298,
+    "Fantasy": 297,
+    "Deckbuilding": 292,
+    "Turn-Based Combat": 283,
+    "Rogue-like": 277,
+    "Turn-Based Strategy": 273,
+    "Turn-Based Tactics": 271,
+    "Party-Based RPG": 266,
+    "Procedural Generation": 264,
+    "Dice": 256
+  }
+}

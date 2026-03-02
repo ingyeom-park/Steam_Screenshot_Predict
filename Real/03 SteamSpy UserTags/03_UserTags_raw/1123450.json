@@ -1,0 +1,26 @@
+{
+  "appid": 1123450,
+  "success": true,
+  "tags": {
+    "Indie": 202,
+    "Adventure": 179,
+    "RPG": 151,
+    "Cute": 76,
+    "Great Soundtrack": 74,
+    "Colorful": 70,
+    "Emotional": 69,
+    "Story Rich": 64,
+    "Puzzle": 55,
+    "Relaxing": 41,
+    "Local Co-Op": 40,
+    "Funny": 39,
+    "Singleplayer": 31,
+    "2D": 29,
+    "LGBTQ+": 24,
+    "Metroidvania": 23,
+    "Co-op": 21,
+    "Casual": 20,
+    "Family Friendly": 13,
+    "Psychological Horror": 9
+  }
+}

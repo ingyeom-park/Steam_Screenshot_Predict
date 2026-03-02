@@ -1,0 +1,26 @@
+{
+  "appid": 956140,
+  "success": true,
+  "tags": {
+    "Indie": 160,
+    "Adventure": 154,
+    "Flight": 151,
+    "Arcade": 148,
+    "Exploration": 144,
+    "3D": 135,
+    "Abstract": 131,
+    "Colorful": 131,
+    "Minimalist": 124,
+    "Stylized": 117,
+    "Atmospheric": 116,
+    "Family Friendly": 111,
+    "Emotional": 111,
+    "Nature": 108,
+    "Controller": 105,
+    "Linear": 101,
+    "Physics": 97,
+    "Procedural Generation": 93,
+    "Simulation": 88,
+    "Action": 82
+  }
+}

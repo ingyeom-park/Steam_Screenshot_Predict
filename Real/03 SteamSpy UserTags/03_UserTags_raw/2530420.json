@@ -1,0 +1,26 @@
+{
+  "appid": 2530420,
+  "success": true,
+  "tags": {
+    "Adventure": 300,
+    "Story Rich": 293,
+    "RPG": 292,
+    "Deckbuilding": 288,
+    "Drama": 286,
+    "Female Protagonist": 283,
+    "Tabletop": 278,
+    "Lore-Rich": 271,
+    "Singleplayer": 270,
+    "Card Game": 270,
+    "Turn-Based Tactics": 266,
+    "Choose Your Own Adventure": 260,
+    "Card Battler": 259,
+    "Indie": 255,
+    "Atmospheric": 253,
+    "2D": 251,
+    "Turn-Based Combat": 247,
+    "Fantasy": 240,
+    "Multiple Endings": 227,
+    "Strategy": 216
+  }
+}

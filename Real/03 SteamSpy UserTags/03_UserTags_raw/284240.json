@@ -1,0 +1,26 @@
+{
+  "appid": 284240,
+  "success": true,
+  "tags": {
+    "Adventure": 142,
+    "Comedy": 136,
+    "Indie": 132,
+    "Story Rich": 129,
+    "Puzzle": 126,
+    "First-Person": 120,
+    "Funny": 118,
+    "Walking Simulator": 116,
+    "Singleplayer": 113,
+    "Exploration": 109,
+    "Point & Click": 105,
+    "Sci-fi": 98,
+    "Hidden Object": 88,
+    "Atmospheric": 78,
+    "Surreal": 76,
+    "Family Friendly": 67,
+    "Collectathon": 65,
+    "3D": 59,
+    "Realistic": 54,
+    "1980s": 54
+  }
+}

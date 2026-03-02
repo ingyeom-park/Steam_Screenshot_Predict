@@ -1,0 +1,24 @@
+{
+  "appid": 985260,
+  "success": true,
+  "tags": {
+    "VR": 41,
+    "Adventure": 37,
+    "RPG": 36,
+    "Action": 35,
+    "Indie": 34,
+    "Dungeon Crawler": 16,
+    "Medieval": 15,
+    "Fantasy": 14,
+    "First-Person": 14,
+    "Swordplay": 14,
+    "Hack and Slash": 13,
+    "Physics": 13,
+    "Difficult": 12,
+    "Action RPG": 12,
+    "Fast-Paced": 11,
+    "Exploration": 11,
+    "Action-Adventure": 11,
+    "Singleplayer": 10
+  }
+}

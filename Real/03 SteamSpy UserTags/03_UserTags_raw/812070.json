@@ -1,0 +1,26 @@
+{
+  "appid": 812070,
+  "success": true,
+  "tags": {
+    "Action": 251,
+    "Horror": 244,
+    "Indie": 243,
+    "Gore": 240,
+    "Violent": 234,
+    "Nudity": 229,
+    "Survival Horror": 228,
+    "Early Access": 222,
+    "First-Person": 219,
+    "Survival": 211,
+    "Procedural Generation": 207,
+    "Singleplayer": 201,
+    "Action-Adventure": 194,
+    "Exploration": 193,
+    "Realistic": 188,
+    "Atmospheric": 185,
+    "Mystery": 168,
+    "Dark": 150,
+    "1980s": 130,
+    "Demons": 116
+  }
+}

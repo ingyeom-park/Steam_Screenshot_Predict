@@ -1,0 +1,22 @@
+{
+  "appid": 587180,
+  "success": true,
+  "tags": {
+    "Action": 48,
+    "Indie": 45,
+    "Adventure": 42,
+    "Violent": 34,
+    "Beat 'em up": 28,
+    "Gore": 24,
+    "Local Co-Op": 17,
+    "Historical": 16,
+    "Side Scroller": 15,
+    "2D": 14,
+    "Co-op": 13,
+    "Singleplayer": 13,
+    "Controller": 13,
+    "Difficult": 11,
+    "Local Multiplayer": 11,
+    "Great Soundtrack": 10
+  }
+}

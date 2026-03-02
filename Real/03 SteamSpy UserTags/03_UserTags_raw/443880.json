@@ -1,0 +1,17 @@
+{
+  "appid": 443880,
+  "success": true,
+  "tags": {
+    "Indie": 36,
+    "RPG": 34,
+    "Adventure": 32,
+    "Rogue-like": 14,
+    "Hex Grid": 14,
+    "Rogue-lite": 10,
+    "Card Game": 9,
+    "Strategy": 8,
+    "2D": 6,
+    "Difficult": 5,
+    "Loot": 5
+  }
+}

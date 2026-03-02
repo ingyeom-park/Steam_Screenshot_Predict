@@ -1,0 +1,22 @@
+{
+  "appid": 575680,
+  "success": true,
+  "tags": {
+    "Casual": 98,
+    "Indie": 88,
+    "Puzzle": 78,
+    "Puzzle-Platformer": 75,
+    "2D": 72,
+    "Singleplayer": 66,
+    "Adventure": 64,
+    "Platformer": 61,
+    "Walking Simulator": 56,
+    "Minimalist": 55,
+    "Pixel Graphics": 51,
+    "Family Friendly": 48,
+    "Retro": 44,
+    "Physics": 39,
+    "Relaxing": 37,
+    "Short": 27
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 3296200,
+  "success": true,
+  "tags": {
+    "Adventure": 213,
+    "Action": 210,
+    "Puzzle": 184,
+    "Action-Adventure": 178,
+    "Idler": 172,
+    "Exploration": 166,
+    "Hidden Object": 155,
+    "FPS": 150,
+    "3D": 145,
+    "First-Person": 139,
+    "Horror": 130,
+    "Survival Horror": 122,
+    "Dark Humor": 112,
+    "Story Rich": 93,
+    "Dynamic Narration": 75,
+    "PvE": 62,
+    "Character Customization": 45,
+    "Singleplayer": 30,
+    "Multiple Endings": 30,
+    "Indie": 22
+  }
+}

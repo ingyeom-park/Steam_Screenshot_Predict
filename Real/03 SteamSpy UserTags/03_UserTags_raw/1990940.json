@@ -1,0 +1,26 @@
+{
+  "appid": 1990940,
+  "success": true,
+  "tags": {
+    "Difficult": 195,
+    "Platformer": 189,
+    "Rhythm": 185,
+    "Electronic Music": 179,
+    "Level Editor": 175,
+    "PvP": 163,
+    "Abstract": 156,
+    "Multiplayer": 149,
+    "2D Platformer": 140,
+    "Precision Platformer": 132,
+    "Runner": 120,
+    "2D": 118,
+    "Pixel Graphics": 105,
+    "Old School": 91,
+    "Racing": 76,
+    "Skateboarding": 60,
+    "Casual": 47,
+    "Singleplayer": 43,
+    "Soundtrack": 25,
+    "Indie": 21
+  }
+}

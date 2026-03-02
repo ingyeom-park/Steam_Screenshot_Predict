@@ -1,0 +1,24 @@
+{
+  "appid": 1403830,
+  "success": true,
+  "tags": {
+    "Adventure": 199,
+    "Simulation": 192,
+    "Casual": 191,
+    "Sandbox": 168,
+    "Exploration": 159,
+    "God Game": 147,
+    "Choose Your Own Adventure": 137,
+    "Puzzle-Platformer": 129,
+    "Colorful": 128,
+    "Stylized": 121,
+    "Atmospheric": 108,
+    "Logic": 102,
+    "Mystery": 90,
+    "Nature": 81,
+    "Surreal": 68,
+    "Physics": 48,
+    "Indie": 47,
+    "Singleplayer": 33
+  }
+}

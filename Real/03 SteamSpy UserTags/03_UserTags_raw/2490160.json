@@ -1,0 +1,26 @@
+{
+  "appid": 2490160,
+  "success": true,
+  "tags": {
+    "Zombies": 185,
+    "Party-Based RPG": 173,
+    "2D": 168,
+    "Cartoon": 162,
+    "Casual": 158,
+    "Medieval": 156,
+    "Strategy": 149,
+    "Rogue-like": 145,
+    "Point & Click": 121,
+    "Strategy RPG": 112,
+    "2D Platformer": 100,
+    "Tactical RPG": 99,
+    "Exploration": 87,
+    "Clicker": 74,
+    "Hack and Slash": 57,
+    "Rogue-lite": 43,
+    "Cute": 27,
+    "Singleplayer": 25,
+    "Indie": 21,
+    "RPG": 20
+  }
+}

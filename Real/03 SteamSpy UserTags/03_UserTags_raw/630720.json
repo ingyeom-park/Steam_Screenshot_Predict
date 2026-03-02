@@ -1,0 +1,26 @@
+{
+  "appid": 630720,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 163,
+    "Souls-like": 158,
+    "Rogue-lite": 157,
+    "Dungeon Crawler": 154,
+    "Rogue-like": 148,
+    "Difficult": 146,
+    "Action RPG": 143,
+    "2D": 140,
+    "Procedural Generation": 133,
+    "RPG": 129,
+    "Pixel Graphics": 125,
+    "Action": 122,
+    "Dark Fantasy": 116,
+    "Medieval": 111,
+    "Atmospheric": 107,
+    "Combat": 100,
+    "Local Co-Op": 96,
+    "Singleplayer": 94,
+    "Indie": 84,
+    "Adventure": 37
+  }
+}

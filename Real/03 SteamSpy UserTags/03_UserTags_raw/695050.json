@@ -1,0 +1,20 @@
+{
+  "appid": 695050,
+  "success": true,
+  "tags": {
+    "Adventure": 44,
+    "Strategy": 37,
+    "Indie": 35,
+    "Cyberpunk": 24,
+    "Violent": 23,
+    "Gore": 21,
+    "Stealth": 16,
+    "Female Protagonist": 16,
+    "Sci-fi": 15,
+    "Turn-Based": 14,
+    "Choices Matter": 11,
+    "Dystopian ": 8,
+    "Singleplayer": 7,
+    "Turn-Based Combat": 6
+  }
+}

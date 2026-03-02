@@ -1,0 +1,26 @@
+{
+  "appid": 1818570,
+  "success": true,
+  "tags": {
+    "Puzzle": 194,
+    "Match 3": 193,
+    "Relaxing": 182,
+    "Rogue-like": 181,
+    "Turn-Based Tactics": 171,
+    "2D": 164,
+    "Casual": 162,
+    "Cute": 158,
+    "Sokoban": 147,
+    "Abstract": 130,
+    "Minimalist": 122,
+    "Colorful": 119,
+    "Logic": 106,
+    "Score Attack": 94,
+    "Old School": 74,
+    "Grid-Based Movement": 60,
+    "Resource Management": 41,
+    "Singleplayer": 30,
+    "Soundtrack": 24,
+    "Indie": 21
+  }
+}

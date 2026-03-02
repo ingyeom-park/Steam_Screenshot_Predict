@@ -1,0 +1,26 @@
+{
+  "appid": 584640,
+  "success": true,
+  "tags": {
+    "Difficult": 291,
+    "Arcade": 271,
+    "2D": 271,
+    "Cute": 263,
+    "Pixel Graphics": 262,
+    "Action-Adventure": 259,
+    "Funny": 254,
+    "Anime": 251,
+    "Action": 248,
+    "Souls-like": 245,
+    "Colorful": 241,
+    "Indie": 241,
+    "Adventure": 234,
+    "Singleplayer": 231,
+    "Co-op": 229,
+    "Multiplayer": 214,
+    "Local Multiplayer": 208,
+    "Platformer": 206,
+    "Procedural Generation": 201,
+    "Atmospheric": 191
+  }
+}

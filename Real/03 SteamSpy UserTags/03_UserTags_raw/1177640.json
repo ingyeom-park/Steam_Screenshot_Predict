@@ -1,0 +1,26 @@
+{
+  "appid": 1177640,
+  "success": true,
+  "tags": {
+    "Action": 190,
+    "Indie": 184,
+    "Metroidvania": 182,
+    "Side Scroller": 178,
+    "Platformer": 175,
+    "Pixel Graphics": 169,
+    "Singleplayer": 166,
+    "2D": 163,
+    "Mechs": 159,
+    "Science": 153,
+    "Shoot 'Em Up": 150,
+    "Shooter": 148,
+    "Bullet Hell": 145,
+    "RPG": 137,
+    "Adventure": 131,
+    "Puzzle": 127,
+    "Beat 'em up": 121,
+    "Exploration": 115,
+    "2D Platformer": 110,
+    "Anime": 103
+  }
+}

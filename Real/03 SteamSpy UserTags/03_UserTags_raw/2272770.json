@@ -1,0 +1,26 @@
+{
+  "appid": 2272770,
+  "success": true,
+  "tags": {
+    "Adventure": 199,
+    "Open World": 194,
+    "Cute": 188,
+    "Zombies": 184,
+    "Action": 176,
+    "Isometric": 174,
+    "Exploration": 163,
+    "Cartoony": 148,
+    "Action-Adventure": 140,
+    "Shooter": 131,
+    "Demons": 120,
+    "Top-Down Shooter": 118,
+    "Minimalist": 105,
+    "Pixel Graphics": 91,
+    "Mystery": 76,
+    "Nature": 60,
+    "Combat": 43,
+    "Controller": 27,
+    "Singleplayer": 26,
+    "Indie": 21
+  }
+}

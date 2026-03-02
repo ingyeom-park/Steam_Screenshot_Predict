@@ -1,0 +1,26 @@
+{
+  "appid": 2051420,
+  "success": true,
+  "tags": {
+    "Automation": 150,
+    "Base-Building": 141,
+    "Resource Management": 137,
+    "Sandbox": 135,
+    "Simulation": 131,
+    "Abstract": 126,
+    "Strategy": 123,
+    "Idler": 120,
+    "Building": 114,
+    "Crafting": 109,
+    "2D": 103,
+    "Top-Down": 96,
+    "Relaxing": 87,
+    "Open World": 80,
+    "Casual": 72,
+    "Minimalist": 71,
+    "Family Friendly": 69,
+    "Hex Grid": 63,
+    "Indie": 50,
+    "Singleplayer": 30
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 234160,
+  "success": true,
+  "tags": {
+    "Action": 76,
+    "Indie": 60,
+    "Mechs": 59,
+    "Space": 50,
+    "Arcade": 36,
+    "Sci-fi": 32,
+    "Shooter": 27,
+    "Singleplayer": 17,
+    "Simulation": 16,
+    "Fast-Paced": 16,
+    "Controller": 14,
+    "Flight": 14,
+    "Great Soundtrack": 13
+  }
+}

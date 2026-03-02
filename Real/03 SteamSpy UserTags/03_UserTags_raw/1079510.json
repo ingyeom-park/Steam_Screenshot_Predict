@@ -1,0 +1,26 @@
+{
+  "appid": 1079510,
+  "success": true,
+  "tags": {
+    "Simulation": 35,
+    "Strategy": 33,
+    "City Builder": 23,
+    "Historical": 18,
+    "Base-Building": 15,
+    "Sandbox": 14,
+    "Management": 14,
+    "Resource Management": 14,
+    "Economy": 14,
+    "Building": 13,
+    "Singleplayer": 13,
+    "Indie": 12,
+    "Real-Time": 12,
+    "Agriculture": 11,
+    "Realistic": 11,
+    "Top-Down": 10,
+    "Real-Time with Pause": 10,
+    "Trading": 10,
+    "3D": 10,
+    "Relaxing": 10
+  }
+}

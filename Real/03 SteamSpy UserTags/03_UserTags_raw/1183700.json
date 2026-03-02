@@ -1,0 +1,26 @@
+{
+  "appid": 1183700,
+  "success": true,
+  "tags": {
+    "Horror": 122,
+    "Sci-fi": 114,
+    "Narration": 110,
+    "Exploration": 107,
+    "VR": 105,
+    "Indie": 104,
+    "Action-Adventure": 95,
+    "Underwater": 95,
+    "Submarine": 84,
+    "First-Person": 79,
+    "Story Rich": 76,
+    "Choose Your Own Adventure": 74,
+    "Linear": 72,
+    "Realistic": 70,
+    "6DOF": 68,
+    "Adventure": 66,
+    "Cinematic": 64,
+    "Singleplayer": 63,
+    "Action": 60,
+    "Science": 50
+  }
+}

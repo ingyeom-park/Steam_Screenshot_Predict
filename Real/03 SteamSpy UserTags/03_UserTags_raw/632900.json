@@ -1,0 +1,26 @@
+{
+  "appid": 632900,
+  "success": true,
+  "tags": {
+    "RPG": 129,
+    "Anime": 119,
+    "Dungeon Crawler": 115,
+    "Female Protagonist": 111,
+    "Cute": 104,
+    "Singleplayer": 98,
+    "Turn-Based": 96,
+    "JRPG": 90,
+    "Visual Novel": 89,
+    "Adventure": 81,
+    "Turn-Based Combat": 77,
+    "Story Rich": 68,
+    "Comedy": 61,
+    "Dating Sim": 57,
+    "Funny": 55,
+    "Great Soundtrack": 48,
+    "Indie": 46,
+    "Casual": 44,
+    "First-Person": 31,
+    "Party-Based RPG": 29
+  }
+}

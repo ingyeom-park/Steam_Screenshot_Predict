@@ -1,0 +1,26 @@
+{
+  "appid": 2291760,
+  "success": true,
+  "tags": {
+    "Cooking": 149,
+    "Time Management": 123,
+    "Simulation": 116,
+    "Job Simulator": 109,
+    "Casual": 109,
+    "Strategy": 100,
+    "Character Customization": 95,
+    "Management": 91,
+    "Singleplayer": 87,
+    "Indie": 85,
+    "Nostalgia": 69,
+    "2D": 67,
+    "Cult Classic": 52,
+    "Classic": 44,
+    "Family Friendly": 43,
+    "Cute": 30,
+    "Colorful": 29,
+    "Funny": 17,
+    "Action": 14,
+    "Souls-like": 10
+  }
+}

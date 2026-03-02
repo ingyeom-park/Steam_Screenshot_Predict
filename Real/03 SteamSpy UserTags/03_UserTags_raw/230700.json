@@ -1,0 +1,26 @@
+{
+  "appid": 230700,
+  "success": true,
+  "tags": {
+    "Metroidvania": 376,
+    "Difficult": 284,
+    "Platformer": 275,
+    "Indie": 226,
+    "Adventure": 221,
+    "Exploration": 205,
+    "Puzzle": 186,
+    "Great Soundtrack": 168,
+    "Action": 139,
+    "2D": 137,
+    "Retro": 102,
+    "Remake": 96,
+    "Pixel Graphics": 90,
+    "Singleplayer": 72,
+    "Puzzle-Platformer": 43,
+    "Classic": 29,
+    "Side Scroller": 29,
+    "Controller": 24,
+    "Action-Adventure": 21,
+    "RPG": 19
+  }
+}

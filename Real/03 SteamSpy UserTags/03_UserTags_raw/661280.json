@@ -1,0 +1,24 @@
+{
+  "appid": 661280,
+  "success": true,
+  "tags": {
+    "Turn-Based": 109,
+    "Board Game": 101,
+    "Card Game": 99,
+    "Tabletop": 96,
+    "Co-op": 93,
+    "Strategy": 80,
+    "Team-Based": 79,
+    "Casual": 76,
+    "Puzzle": 70,
+    "Local Co-Op": 67,
+    "Local Multiplayer": 64,
+    "Multiplayer": 61,
+    "Online Co-Op": 58,
+    "Singleplayer": 53,
+    "Short": 51,
+    "Indie": 49,
+    "Co-op Campaign": 28,
+    "2D": 26
+  }
+}

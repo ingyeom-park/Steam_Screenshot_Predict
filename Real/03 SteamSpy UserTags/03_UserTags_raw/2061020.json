@@ -1,0 +1,25 @@
+{
+  "appid": 2061020,
+  "success": true,
+  "tags": {
+    "Indie": 141,
+    "Thriller": 131,
+    "Supernatural": 125,
+    "Psychological Horror": 120,
+    "Mystery": 117,
+    "Puzzle": 111,
+    "Hand-drawn": 103,
+    "Adventure": 100,
+    "Point & Click": 92,
+    "Casual": 88,
+    "Linear": 66,
+    "2D": 63,
+    "Stylized": 60,
+    "Colorful": 57,
+    "Conversation": 54,
+    "Singleplayer": 51,
+    "Clicker": 48,
+    "Horror": 38,
+    "Dating Sim": 25
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 407020,
+  "success": true,
+  "tags": {
+    "Casual": 65,
+    "Indie": 59,
+    "Adventure": 58,
+    "Walking Simulator": 35,
+    "Atmospheric": 34,
+    "2D": 31,
+    "Singleplayer": 29,
+    "Simulation": 23,
+    "Exploration": 15,
+    "Side Scroller": 15,
+    "Romance": 15,
+    "Experimental": 15,
+    "Abstract": 14,
+    "Controller": 14,
+    "Minimalist": 13,
+    "Fantasy": 13,
+    "Psychological": 13,
+    "Choices Matter": 13,
+    "Linear": 13,
+    "Runner": 11
+  }
+}

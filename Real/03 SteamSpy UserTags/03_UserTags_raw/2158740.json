@@ -1,0 +1,26 @@
+{
+  "appid": 2158740,
+  "success": true,
+  "tags": {
+    "Adventure": 207,
+    "Exploration": 197,
+    "Atmospheric": 192,
+    "Retro": 181,
+    "Surreal": 178,
+    "Stylized": 165,
+    "Lore-Rich": 157,
+    "Open World": 149,
+    "Multiple Endings": 142,
+    "1990's": 133,
+    "Indie": 128,
+    "Soundtrack": 122,
+    "Nostalgia": 119,
+    "Nonlinear": 93,
+    "3D": 78,
+    "First-Person": 64,
+    "Singleplayer": 47,
+    "Walking Simulator": 33,
+    "Puzzle": 27,
+    "Casual": 23
+  }
+}

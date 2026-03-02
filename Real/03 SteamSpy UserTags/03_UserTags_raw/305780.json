@@ -1,0 +1,26 @@
+{
+  "appid": 305780,
+  "success": true,
+  "tags": {
+    "Survival": 148,
+    "Rogue-lite": 143,
+    "Crafting": 137,
+    "Adventure": 134,
+    "Sandbox": 128,
+    "Exploration": 121,
+    "Pixel Graphics": 118,
+    "Open World": 115,
+    "Singleplayer": 113,
+    "Atmospheric": 111,
+    "Replay Value": 109,
+    "Indie": 106,
+    "2D": 99,
+    "Mystery": 94,
+    "Puzzle": 91,
+    "Survival Horror": 82,
+    "Simulation": 73,
+    "Rogue-like": 69,
+    "Psychological Horror": 63,
+    "GameMaker": 61
+  }
+}

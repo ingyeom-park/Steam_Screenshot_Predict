@@ -1,0 +1,23 @@
+{
+  "appid": 1103880,
+  "success": true,
+  "tags": {
+    "Casual": 119,
+    "Indie": 113,
+    "Action": 109,
+    "VR": 108,
+    "Massively Multiplayer": 105,
+    "Shooter": 97,
+    "Funny": 96,
+    "Multiplayer": 94,
+    "Singleplayer": 90,
+    "Card Game": 84,
+    "3D": 77,
+    "Crime": 69,
+    "Gambling": 62,
+    "Atmospheric": 49,
+    "PvP": 48,
+    "Early Access": 35,
+    "Violent": 30
+  }
+}

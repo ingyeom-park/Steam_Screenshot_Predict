@@ -1,0 +1,26 @@
+{
+  "appid": 1285230,
+  "success": true,
+  "tags": {
+    "Racing": 175,
+    "Top-Down": 166,
+    "2D": 162,
+    "Indie": 157,
+    "Retro": 154,
+    "Multiplayer": 146,
+    "Local Multiplayer": 143,
+    "Arcade": 140,
+    "Automobile Sim": 137,
+    "Simulation": 136,
+    "Crafting": 131,
+    "Combat Racing": 129,
+    "Driving": 127,
+    "Sports": 127,
+    "1990's": 120,
+    "Split Screen": 117,
+    "Singleplayer": 109,
+    "Controller": 101,
+    "Asynchronous Multiplayer": 97,
+    "Vehicular Combat": 93
+  }
+}

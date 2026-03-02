@@ -1,0 +1,19 @@
+{
+  "appid": 1051310,
+  "success": true,
+  "tags": {
+    "Horror": 126,
+    "Adventure": 90,
+    "Thriller": 82,
+    "Action": 59,
+    "Puzzle": 56,
+    "Indie": 56,
+    "Multiplayer": 38,
+    "First-Person": 37,
+    "Dating Sim": 26,
+    "Singleplayer": 24,
+    "Sexual Content": 21,
+    "Survival": 18,
+    "Psychological Horror": 11
+  }
+}

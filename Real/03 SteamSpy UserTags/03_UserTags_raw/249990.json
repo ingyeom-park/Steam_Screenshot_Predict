@@ -1,0 +1,26 @@
+{
+  "appid": 249990,
+  "success": true,
+  "tags": {
+    "Action": 210,
+    "Local Co-Op": 206,
+    "RPG": 198,
+    "Co-op": 194,
+    "Indie": 176,
+    "Online Co-Op": 154,
+    "4 Player Local": 154,
+    "Multiplayer": 150,
+    "Difficult": 150,
+    "Hack and Slash": 148,
+    "Puzzle": 145,
+    "Fantasy": 120,
+    "Local Multiplayer": 109,
+    "PvE": 104,
+    "Top-Down": 103,
+    "Controller": 101,
+    "Adventure": 99,
+    "Action RPG": 85,
+    "Kickstarter": 83,
+    "Action-Adventure": 73
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "appid": 359100,
+  "success": true,
+  "tags": {
+    "Adventure": 109,
+    "Action": 101,
+    "Indie": 101,
+    "Puzzle": 68,
+    "First-Person": 39,
+    "Female Protagonist": 33,
+    "Singleplayer": 29,
+    "Sci-fi": 28,
+    "Simulation": 21,
+    "Space": 19,
+    "Atmospheric": 17,
+    "Great Soundtrack": 16,
+    "3D": 16,
+    "Puzzle-Platformer": 10,
+    "Epic": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1004150,
+  "success": true,
+  "tags": {
+    "Escape Room": 101,
+    "Indie": 95,
+    "Adventure": 92,
+    "Casual": 78,
+    "Puzzle": 75,
+    "Action-Adventure": 69,
+    "Exploration": 67,
+    "2.5D": 65,
+    "Local Co-Op": 63,
+    "Stylized": 60,
+    "Singleplayer": 57,
+    "Story Rich": 54,
+    "Typing": 49,
+    "Dark Fantasy": 44,
+    "Mystery": 40,
+    "Loot": 37,
+    "Atmospheric": 34,
+    "Heist": 31,
+    "City Builder": 28,
+    "Economy": 26
+  }
+}

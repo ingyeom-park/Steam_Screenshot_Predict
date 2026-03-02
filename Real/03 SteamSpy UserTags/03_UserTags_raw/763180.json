@@ -1,0 +1,26 @@
+{
+  "appid": 763180,
+  "success": true,
+  "tags": {
+    "Adventure": 66,
+    "Action": 63,
+    "Indie": 61,
+    "Metroidvania": 50,
+    "2D": 44,
+    "Platformer": 43,
+    "Exploration": 42,
+    "Difficult": 42,
+    "Atmospheric": 42,
+    "Singleplayer": 42,
+    "Action-Adventure": 39,
+    "Controller": 39,
+    "Hand-drawn": 38,
+    "Co-op": 37,
+    "Great Soundtrack": 36,
+    "Local Co-Op": 30,
+    "Local Multiplayer": 29,
+    "Side Scroller": 16,
+    "Colorful": 16,
+    "Beautiful": 16
+  }
+}

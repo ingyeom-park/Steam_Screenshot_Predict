@@ -1,0 +1,26 @@
+{
+  "appid": 1018830,
+  "success": true,
+  "tags": {
+    "Tower Defense": 167,
+    "Real Time Tactics": 152,
+    "Multiplayer": 150,
+    "Fantasy": 146,
+    "Strategy": 144,
+    "PvE": 135,
+    "PvP": 133,
+    "Team-Based": 131,
+    "Competitive": 126,
+    "Character Customization": 121,
+    "RTS": 120,
+    "3D": 113,
+    "Tactical": 110,
+    "Score Attack": 102,
+    "Building": 95,
+    "Co-op": 92,
+    "Online Co-Op": 82,
+    "Singleplayer": 78,
+    "Replay Value": 71,
+    "Indie": 68
+  }
+}

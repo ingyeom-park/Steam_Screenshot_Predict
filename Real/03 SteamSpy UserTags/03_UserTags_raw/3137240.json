@@ -1,0 +1,25 @@
+{
+  "appid": 3137240,
+  "success": true,
+  "tags": {
+    "Adventure": 196,
+    "RPG": 190,
+    "Casual": 182,
+    "Pirates": 166,
+    "Naval": 155,
+    "Naval Combat": 145,
+    "Survival": 138,
+    "Action": 133,
+    "Singleplayer": 130,
+    "3D": 122,
+    "Action RPG": 102,
+    "Fantasy": 100,
+    "Open World": 87,
+    "Exploration": 73,
+    "Sandbox": 58,
+    "Hack and Slash": 42,
+    "Third Person": 27,
+    "Sailing": 25,
+    "Indie": 21
+  }
+}

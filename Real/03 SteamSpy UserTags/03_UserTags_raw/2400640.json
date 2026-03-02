@@ -1,0 +1,26 @@
+{
+  "appid": 2400640,
+  "success": true,
+  "tags": {
+    "Action": 280,
+    "Boss Rush": 277,
+    "Dark": 252,
+    "Action RPG": 242,
+    "Bullet Hell": 221,
+    "Hack and Slash": 218,
+    "Futuristic": 210,
+    "Souls-like": 205,
+    "Spectacle fighter": 193,
+    "2D": 180,
+    "Anime": 175,
+    "Pixel Graphics": 172,
+    "Top-Down": 153,
+    "Dark Fantasy": 134,
+    "Robots": 121,
+    "Sci-fi": 104,
+    "Combat": 86,
+    "Female Protagonist": 75,
+    "Singleplayer": 64,
+    "Indie": 60
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1160330,
+  "success": true,
+  "tags": {
+    "Action": 256,
+    "Indie": 250,
+    "Fighting": 248,
+    "Casual": 244,
+    "Memes": 240,
+    "2D Fighter": 235,
+    "Cute": 230,
+    "Funny": 229,
+    "Local Multiplayer": 226,
+    "Multiplayer": 222,
+    "Adventure": 219,
+    "Action-Adventure": 211,
+    "3D Fighter": 209,
+    "3D": 205,
+    "2.5D": 202,
+    "Cartoon": 191,
+    "Retro": 183,
+    "Relaxing": 176,
+    "Spectacle fighter": 174,
+    "Psychological Horror": 170
+  }
+}

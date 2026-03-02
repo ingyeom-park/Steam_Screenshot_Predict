@@ -1,0 +1,26 @@
+{
+  "appid": 1387590,
+  "success": true,
+  "tags": {
+    "JRPG": 199,
+    "Turn-Based Tactics": 191,
+    "Tactical RPG": 187,
+    "Visual Novel": 179,
+    "Strategy": 176,
+    "Strategy RPG": 173,
+    "RPG": 168,
+    "Turn-Based Strategy": 165,
+    "3D": 141,
+    "Story Rich": 132,
+    "Alternate History": 120,
+    "Romance": 118,
+    "Linear": 105,
+    "Turn-Based Combat": 92,
+    "Medieval": 77,
+    "Magic": 60,
+    "Drama": 43,
+    "Cartoon": 27,
+    "Singleplayer": 25,
+    "Indie": 22
+  }
+}

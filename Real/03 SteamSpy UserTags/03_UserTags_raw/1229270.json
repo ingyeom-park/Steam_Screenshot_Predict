@@ -1,0 +1,26 @@
+{
+  "appid": 1229270,
+  "success": true,
+  "tags": {
+    "Action": 240,
+    "Adventure": 198,
+    "3D Platformer": 194,
+    "Puzzle": 193,
+    "Exploration": 187,
+    "Action-Adventure": 178,
+    "Dark Fantasy": 176,
+    "Open World": 173,
+    "Platformer": 164,
+    "Narration": 149,
+    "Puzzle-Platformer": 136,
+    "Indie": 135,
+    "Conversation": 132,
+    "Sandbox": 129,
+    "Story Rich": 127,
+    "Stealth": 126,
+    "Atmospheric": 123,
+    "Singleplayer": 122,
+    "Psychedelic": 120,
+    "Surreal": 118
+  }
+}

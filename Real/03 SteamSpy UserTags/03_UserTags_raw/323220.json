@@ -1,0 +1,26 @@
+{
+  "appid": 323220,
+  "success": true,
+  "tags": {
+    "Rogue-lite": 188,
+    "Action Roguelike": 175,
+    "Pixel Graphics": 150,
+    "Rogue-like": 119,
+    "RPG": 115,
+    "Adventure": 97,
+    "Roguevania": 96,
+    "Indie": 96,
+    "Online Co-Op": 93,
+    "Platformer": 88,
+    "2D": 86,
+    "Difficult": 85,
+    "Multiplayer": 83,
+    "Local Co-Op": 80,
+    "Action": 80,
+    "Procedural Generation": 74,
+    "Co-op": 71,
+    "4 Player Local": 68,
+    "Perma Death": 65,
+    "Metroidvania": 31
+  }
+}

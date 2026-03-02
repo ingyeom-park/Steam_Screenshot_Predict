@@ -1,0 +1,26 @@
+{
+  "appid": 2892000,
+  "success": true,
+  "tags": {
+    "Adventure": 222,
+    "Horror": 215,
+    "Psychological Horror": 210,
+    "Walking Simulator": 198,
+    "3D": 191,
+    "Cinematic": 181,
+    "First-Person": 174,
+    "Realistic": 167,
+    "Atmospheric": 158,
+    "Dark": 148,
+    "Demons": 138,
+    "Indie": 131,
+    "Mystery": 127,
+    "Supernatural": 125,
+    "Thriller": 95,
+    "Controller": 79,
+    "Linear": 62,
+    "Gore": 47,
+    "Story Rich": 45,
+    "Singleplayer": 31
+  }
+}

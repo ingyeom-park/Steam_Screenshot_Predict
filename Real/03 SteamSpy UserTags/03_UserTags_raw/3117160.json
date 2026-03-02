@@ -1,0 +1,26 @@
+{
+  "appid": 3117160,
+  "success": true,
+  "tags": {
+    "Adventure": 167,
+    "Casual": 162,
+    "2D": 160,
+    "Story Rich": 156,
+    "Indie": 153,
+    "Singleplayer": 147,
+    "Dating Sim": 146,
+    "Anime": 144,
+    "Minigames": 138,
+    "Puzzle": 134,
+    "Dungeon Crawler": 132,
+    "Sokoban": 130,
+    "War": 120,
+    "Fantasy": 118,
+    "Romance": 109,
+    "Medieval": 104,
+    "FPS": 91,
+    "NSFW": 82,
+    "Hentai": 77,
+    "Sexual Content": 73
+  }
+}

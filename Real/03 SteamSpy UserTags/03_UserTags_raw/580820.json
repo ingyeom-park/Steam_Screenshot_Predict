@@ -1,0 +1,26 @@
+{
+  "appid": 580820,
+  "success": true,
+  "tags": {
+    "Casual": 191,
+    "Indie": 185,
+    "Sports": 181,
+    "Racing": 176,
+    "4 Player Local": 174,
+    "Football (Soccer)": 168,
+    "Local Multiplayer": 156,
+    "Local Co-Op": 148,
+    "Singleplayer": 140,
+    "Funny": 135,
+    "Split Screen": 129,
+    "Team-Based": 122,
+    "Co-op": 119,
+    "Competitive": 108,
+    "Fast-Paced": 106,
+    "PvP": 93,
+    "Arcade": 82,
+    "e-sports": 76,
+    "Combat Racing": 68,
+    "2.5D": 62
+  }
+}

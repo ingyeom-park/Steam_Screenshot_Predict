@@ -1,0 +1,26 @@
+{
+  "appid": 3110010,
+  "success": true,
+  "tags": {
+    "Memes": 188,
+    "Horror": 181,
+    "Dark Humor": 177,
+    "Simulation": 175,
+    "Exploration": 169,
+    "Puzzle": 162,
+    "Funny": 158,
+    "Comedy": 155,
+    "Immersive Sim": 149,
+    "Colony Sim": 146,
+    "Survival": 141,
+    "Action-Adventure": 140,
+    "First-Person": 138,
+    "3D": 132,
+    "Linear": 122,
+    "Choices Matter": 113,
+    "Atmospheric": 109,
+    "Adventure": 100,
+    "Survival Horror": 88,
+    "Singleplayer": 77
+  }
+}

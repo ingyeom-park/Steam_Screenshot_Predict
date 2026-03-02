@@ -1,0 +1,20 @@
+{
+  "appid": 280040,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 51,
+    "Rogue-like": 45,
+    "RPG": 44,
+    "Indie": 44,
+    "Rogue-lite": 44,
+    "Action": 40,
+    "Perma Death": 16,
+    "Procedural Generation": 16,
+    "2D": 13,
+    "Adventure": 11,
+    "Dungeon Crawler": 11,
+    "Difficult": 11,
+    "Singleplayer": 10,
+    "Fantasy": 9
+  }
+}

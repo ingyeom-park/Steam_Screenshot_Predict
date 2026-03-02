@@ -1,0 +1,26 @@
+{
+  "appid": 897640,
+  "success": true,
+  "tags": {
+    "Indie": 127,
+    "Action": 121,
+    "Adventure": 117,
+    "Pixel Graphics": 114,
+    "Platformer": 111,
+    "2D": 105,
+    "Retro": 102,
+    "Singleplayer": 101,
+    "Arcade": 94,
+    "Shooter": 92,
+    "Difficult": 85,
+    "Casual": 83,
+    "Shoot 'Em Up": 80,
+    "Atmospheric": 73,
+    "Replay Value": 71,
+    "Female Protagonist": 70,
+    "Side Scroller": 64,
+    "Aliens": 58,
+    "Sci-fi": 55,
+    "Robots": 55
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "appid": 428880,
+  "success": true,
+  "tags": {
+    "RPG": 67,
+    "Dungeon Crawler": 51,
+    "First-Person": 47,
+    "Grid-Based Movement": 47,
+    "Adventure": 38,
+    "Indie": 34,
+    "Open World": 30,
+    "Retro": 28,
+    "Fantasy": 24,
+    "Singleplayer": 20,
+    "Turn-Based": 17,
+    "CRPG": 12,
+    "Pixel Graphics": 10,
+    "Old School": 8
+  }
+}

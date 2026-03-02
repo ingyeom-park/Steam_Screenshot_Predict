@@ -1,0 +1,26 @@
+{
+  "appid": 628350,
+  "success": true,
+  "tags": {
+    "Indie": 35,
+    "Action": 32,
+    "Adventure": 32,
+    "Horror": 24,
+    "Psychological Horror": 15,
+    "Atmospheric": 13,
+    "Survival Horror": 13,
+    "Violent": 13,
+    "First-Person": 12,
+    "Singleplayer": 12,
+    "Gore": 12,
+    "Puzzle": 12,
+    "Dark": 11,
+    "Psychological": 11,
+    "Exploration": 11,
+    "Story Rich": 11,
+    "Stealth": 11,
+    "Survival": 11,
+    "Classic": 10,
+    "Jump Scare": 10
+  }
+}

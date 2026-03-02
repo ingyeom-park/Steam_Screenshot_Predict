@@ -1,0 +1,26 @@
+{
+  "appid": 1264880,
+  "success": true,
+  "tags": {
+    "Souls-like": 133,
+    "Action RPG": 129,
+    "Metroidvania": 127,
+    "Difficult": 124,
+    "Local Co-Op": 118,
+    "Dark Fantasy": 111,
+    "2D": 106,
+    "RPG": 102,
+    "Action": 99,
+    "Action-Adventure": 94,
+    "Indie": 90,
+    "Hack and Slash": 86,
+    "Unforgiving": 83,
+    "Open World": 79,
+    "Side Scroller": 76,
+    "Platformer": 73,
+    "Nonlinear": 64,
+    "Singleplayer": 55,
+    "Controller": 49,
+    "Local Multiplayer": 45
+  }
+}

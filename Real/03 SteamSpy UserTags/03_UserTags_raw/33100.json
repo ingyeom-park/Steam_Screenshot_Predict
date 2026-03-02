@@ -1,0 +1,26 @@
+{
+  "appid": 33100,
+  "success": true,
+  "tags": {
+    "Shooter": 189,
+    "Action": 178,
+    "Gore": 171,
+    "Blood": 169,
+    "Aliens": 158,
+    "Horror": 150,
+    "Top-Down": 146,
+    "Singleplayer": 141,
+    "Sci-fi": 140,
+    "Isometric": 138,
+    "Action RPG": 137,
+    "Top-Down Shooter": 128,
+    "RPG": 127,
+    "Looter Shooter": 120,
+    "Beat 'em up": 117,
+    "Indie": 113,
+    "Arcade": 99,
+    "Atmospheric": 97,
+    "Arena Shooter": 88,
+    "Rogue-like": 75
+  }
+}

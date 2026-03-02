@@ -1,0 +1,26 @@
+{
+  "appid": 1929870,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 131,
+    "Bullet Hell": 124,
+    "Rogue-lite": 122,
+    "Auto Battler": 114,
+    "PvE": 111,
+    "Rogue-like": 102,
+    "2D": 99,
+    "Character Customization": 99,
+    "Top-Down": 95,
+    "Pixel Graphics": 90,
+    "Action": 86,
+    "Deckbuilding": 82,
+    "Fantasy": 77,
+    "Survival": 73,
+    "Retro": 67,
+    "Combat": 64,
+    "Indie": 58,
+    "Singleplayer": 38,
+    "Shoot 'Em Up": 29,
+    "Top-Down Shooter": 27
+  }
+}

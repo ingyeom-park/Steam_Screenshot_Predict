@@ -1,0 +1,26 @@
+{
+  "appid": 2204900,
+  "success": true,
+  "tags": {
+    "Skateboarding": 176,
+    "BMX": 170,
+    "Arcade": 169,
+    "Parkour": 162,
+    "Platformer": 156,
+    "Retro": 147,
+    "Old School": 142,
+    "1990's": 134,
+    "Controller": 124,
+    "Action": 123,
+    "Sports": 121,
+    "Cycling": 115,
+    "3D": 88,
+    "Third Person": 74,
+    "Score Attack": 59,
+    "Physics": 42,
+    "Stylized": 29,
+    "LGBTQ+": 27,
+    "Singleplayer": 26,
+    "Indie": 22
+  }
+}

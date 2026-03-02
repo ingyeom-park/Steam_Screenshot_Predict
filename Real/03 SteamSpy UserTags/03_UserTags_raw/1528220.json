@@ -1,0 +1,26 @@
+{
+  "appid": 1528220,
+  "success": true,
+  "tags": {
+    "Adventure": 127,
+    "Puzzle": 122,
+    "Exploration": 117,
+    "Hidden Object": 113,
+    "3D": 111,
+    "First-Person": 106,
+    "Indie": 103,
+    "Realistic": 101,
+    "Atmospheric": 100,
+    "Conspiracy": 97,
+    "Investigation": 93,
+    "Mystery": 85,
+    "Relaxing": 84,
+    "Story Rich": 71,
+    "Singleplayer": 62,
+    "Logic": 55,
+    "Difficult": 53,
+    "Escape Room": 37,
+    "Beautiful": 11,
+    "Controller": 11
+  }
+}

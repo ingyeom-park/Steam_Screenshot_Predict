@@ -1,0 +1,26 @@
+{
+  "appid": 288160,
+  "success": true,
+  "tags": {
+    "Puzzle": 741,
+    "Mystery": 361,
+    "Point & Click": 330,
+    "Atmospheric": 258,
+    "Singleplayer": 238,
+    "Adventure": 198,
+    "Indie": 181,
+    "Hidden Object": 180,
+    "Short": 121,
+    "Horror": 106,
+    "Casual": 91,
+    "First-Person": 91,
+    "Beautiful": 84,
+    "Escape Room": 74,
+    "Dark": 63,
+    "Steampunk": 58,
+    "Lovecraftian": 48,
+    "Touch-Friendly": 41,
+    "Story Rich": 37,
+    "Multiplayer": 30
+  }
+}

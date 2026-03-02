@@ -1,0 +1,17 @@
+{
+  "appid": 1011830,
+  "success": true,
+  "tags": {
+    "Adventure": 34,
+    "Indie": 32,
+    "Casual": 32,
+    "Strategy": 30,
+    "Simulation": 30,
+    "Card Game": 17,
+    "Visual Novel": 13,
+    "Interactive Fiction": 12,
+    "Story Rich": 11,
+    "Text-Based": 11,
+    "Choose Your Own Adventure": 10
+  }
+}

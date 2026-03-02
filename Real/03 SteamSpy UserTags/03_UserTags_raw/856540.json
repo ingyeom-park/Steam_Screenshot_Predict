@@ -1,0 +1,21 @@
+{
+  "appid": 856540,
+  "success": true,
+  "tags": {
+    "Indie": 35,
+    "Action": 34,
+    "Adventure": 33,
+    "Platformer": 19,
+    "Pixel Graphics": 19,
+    "2D": 18,
+    "Retro": 15,
+    "Singleplayer": 15,
+    "Time Attack": 11,
+    "Side Scroller": 10,
+    "Old School": 10,
+    "Action-Adventure": 10,
+    "Family Friendly": 10,
+    "Exploration": 9,
+    "Metroidvania": 5
+  }
+}

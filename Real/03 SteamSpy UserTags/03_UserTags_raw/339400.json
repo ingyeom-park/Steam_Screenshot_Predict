@@ -1,0 +1,15 @@
+{
+  "appid": 339400,
+  "success": true,
+  "tags": {
+    "Strategy": 79,
+    "RPG": 65,
+    "Rogue-like": 61,
+    "Indie": 59,
+    "Casual": 59,
+    "Rogue-lite": 32,
+    "Turn-Based": 15,
+    "Dungeon Crawler": 11,
+    "Pixel Graphics": 7
+  }
+}

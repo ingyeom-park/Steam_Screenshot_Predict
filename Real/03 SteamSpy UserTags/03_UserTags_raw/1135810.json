@@ -1,0 +1,26 @@
+{
+  "appid": 1135810,
+  "success": true,
+  "tags": {
+    "Indie": 309,
+    "Roguelike Deckbuilder": 308,
+    "Deckbuilding": 300,
+    "Choices Matter": 295,
+    "Strategy": 292,
+    "Card Battler": 287,
+    "Card Game": 287,
+    "Rogue-lite": 276,
+    "Rogue-like": 265,
+    "Procedural Generation": 257,
+    "Early Access": 250,
+    "Difficult": 249,
+    "Adventure": 236,
+    "Exploration": 226,
+    "Board Game": 220,
+    "2D": 216,
+    "Isometric": 198,
+    "Top-Down": 189,
+    "Fantasy": 186,
+    "Singleplayer": 183
+  }
+}

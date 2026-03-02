@@ -1,0 +1,25 @@
+{
+  "appid": 1268370,
+  "success": true,
+  "tags": {
+    "Puzzle": 145,
+    "Arcade": 139,
+    "Local Co-Op": 135,
+    "Physics": 131,
+    "2D": 126,
+    "Underground": 118,
+    "Controller": 114,
+    "Action": 107,
+    "Casual": 101,
+    "Stylized": 97,
+    "Cartoony": 94,
+    "Minimalist": 92,
+    "Space": 90,
+    "Co-op": 88,
+    "Local Multiplayer": 85,
+    "Multiplayer": 82,
+    "Singleplayer": 77,
+    "Indie": 75,
+    "Mouse only": 27
+  }
+}

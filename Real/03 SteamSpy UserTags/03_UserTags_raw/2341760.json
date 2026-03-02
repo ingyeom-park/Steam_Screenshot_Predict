@@ -1,0 +1,22 @@
+{
+  "appid": 2341760,
+  "success": true,
+  "tags": {
+    "Strategy": 60,
+    "Tower Defense": 56,
+    "Casual": 51,
+    "Simulation": 49,
+    "Base-Building": 48,
+    "Rogue-lite": 43,
+    "2D": 37,
+    "Top-Down": 27,
+    "Cute": 25,
+    "PvE": 23,
+    "Indie": 21,
+    "Cartoony": 21,
+    "Zombies": 19,
+    "Tactical": 19,
+    "Singleplayer": 16,
+    "RTS": 13
+  }
+}

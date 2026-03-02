@@ -1,0 +1,26 @@
+{
+  "appid": 1180900,
+  "success": true,
+  "tags": {
+    "World War II": 149,
+    "Strategy": 142,
+    "Simulation": 81,
+    "Historical": 75,
+    "Wargame": 70,
+    "Turn-Based Strategy": 63,
+    "Multiplayer": 61,
+    "Singleplayer": 59,
+    "Alternate History": 57,
+    "2D": 55,
+    "PvP": 52,
+    "War": 49,
+    "Military": 46,
+    "Turn-Based Combat": 44,
+    "Indie": 42,
+    "Epic": 40,
+    "Early Access": 36,
+    "Retro": 32,
+    "Tactical": 29,
+    "Turn-Based Tactics": 27
+  }
+}

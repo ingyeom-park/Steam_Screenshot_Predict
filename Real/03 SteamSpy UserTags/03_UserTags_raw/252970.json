@@ -1,0 +1,26 @@
+{
+  "appid": 252970,
+  "success": true,
+  "tags": {
+    "Third-Person Shooter": 151,
+    "Tower Defense": 145,
+    "Cartoony": 142,
+    "Base-Building": 140,
+    "Robots": 133,
+    "Strategy": 126,
+    "Action": 119,
+    "Indie": 113,
+    "RTS": 108,
+    "Shooter": 98,
+    "Funny": 95,
+    "Character Customization": 91,
+    "3D": 85,
+    "Third Person": 79,
+    "Aliens": 75,
+    "Singleplayer": 72,
+    "Survival": 65,
+    "Co-op": 60,
+    "Multiplayer": 58,
+    "Adventure": 56
+  }
+}

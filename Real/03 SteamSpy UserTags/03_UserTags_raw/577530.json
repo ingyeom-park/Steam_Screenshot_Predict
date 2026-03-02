@@ -1,0 +1,26 @@
+{
+  "appid": 577530,
+  "success": true,
+  "tags": {
+    "VR": 197,
+    "Action": 191,
+    "Retro": 188,
+    "Comedy": 184,
+    "Action-Adventure": 181,
+    "Adventure": 175,
+    "1980s": 170,
+    "Pixel Graphics": 162,
+    "Female Protagonist": 155,
+    "Gaming": 150,
+    "First-Person": 143,
+    "Singleplayer": 138,
+    "RPG": 136,
+    "Old School": 132,
+    "Sci-fi": 127,
+    "Survival": 122,
+    "Simulation": 115,
+    "Indie": 105,
+    "Platformer": 32,
+    "Competitive": 30
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 704000,
+  "success": true,
+  "tags": {
+    "Action": 185,
+    "Indie": 178,
+    "FPS": 176,
+    "Rogue-like": 169,
+    "Rogue-lite": 167,
+    "Mechs": 159,
+    "Cartoony": 151,
+    "First-Person": 147,
+    "Stylized": 143,
+    "Memes": 135,
+    "Robots": 129,
+    "Sci-fi": 128,
+    "Action Roguelike": 121,
+    "Shooter": 113,
+    "Comic Book": 111,
+    "Cyberpunk": 108,
+    "Funny": 104,
+    "Pirates": 102,
+    "Retro": 98,
+    "Anime": 91
+  }
+}

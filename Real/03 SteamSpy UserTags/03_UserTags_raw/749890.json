@@ -1,0 +1,26 @@
+{
+  "appid": 749890,
+  "success": true,
+  "tags": {
+    "Indie": 124,
+    "Adventure": 117,
+    "RPGMaker": 113,
+    "Casual": 111,
+    "Pixel Graphics": 103,
+    "Horror": 99,
+    "Story Rich": 93,
+    "Anime": 88,
+    "Psychological Horror": 85,
+    "Singleplayer": 80,
+    "Violent": 76,
+    "2D": 74,
+    "Dark": 71,
+    "Dark Fantasy": 67,
+    "Fantasy": 64,
+    "Surreal": 62,
+    "RPG": 60,
+    "Atmospheric": 59,
+    "Action-Adventure": 51,
+    "Exploration": 48
+  }
+}

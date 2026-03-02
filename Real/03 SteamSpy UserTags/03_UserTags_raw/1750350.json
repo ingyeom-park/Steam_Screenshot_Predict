@@ -1,0 +1,26 @@
+{
+  "appid": 1750350,
+  "success": true,
+  "tags": {
+    "3D Platformer": 100,
+    "Education": 96,
+    "Puzzle": 93,
+    "City Builder": 89,
+    "Building": 87,
+    "Transportation": 81,
+    "3D": 78,
+    "Simulation": 75,
+    "Narration": 72,
+    "Nonlinear": 70,
+    "Atmospheric": 67,
+    "Singleplayer": 64,
+    "Indie": 62,
+    "Action": 59,
+    "Destruction": 55,
+    "Physics": 53,
+    "Automobile Sim": 51,
+    "First-Person": 49,
+    "Funny": 41,
+    "Satire": 39
+  }
+}

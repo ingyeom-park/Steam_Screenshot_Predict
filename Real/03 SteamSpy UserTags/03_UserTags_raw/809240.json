@@ -1,0 +1,26 @@
+{
+  "appid": 809240,
+  "success": true,
+  "tags": {
+    "Turn-Based Tactics": 105,
+    "Puzzle": 98,
+    "Isometric": 93,
+    "Singleplayer": 92,
+    "Stealth": 89,
+    "Logic": 80,
+    "Hidden Object": 75,
+    "Strategy": 73,
+    "Turn-Based": 67,
+    "Puzzle-Platformer": 66,
+    "Indie": 61,
+    "Casual": 61,
+    "Adventure": 59,
+    "Rogue-like": 41,
+    "Point & Click": 40,
+    "Clicker": 39,
+    "2D": 37,
+    "Top-Down": 34,
+    "Family Friendly": 33,
+    "Tactical": 32
+  }
+}

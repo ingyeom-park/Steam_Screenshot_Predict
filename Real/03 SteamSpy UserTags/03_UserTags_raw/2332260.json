@@ -1,0 +1,26 @@
+{
+  "appid": 2332260,
+  "success": true,
+  "tags": {
+    "Rogue-lite": 126,
+    "Lovecraftian": 120,
+    "Indie": 117,
+    "Rogue-like": 117,
+    "Exploration": 112,
+    "Physics": 104,
+    "Dark": 103,
+    "Underwater": 100,
+    "Procedural Generation": 99,
+    "Horror": 97,
+    "2D": 93,
+    "Action": 91,
+    "Stylized": 87,
+    "Psychological Horror": 86,
+    "Atmospheric": 79,
+    "Survival": 71,
+    "Singleplayer": 66,
+    "Action-Adventure": 65,
+    "Sci-fi": 60,
+    "Adventure": 51
+  }
+}

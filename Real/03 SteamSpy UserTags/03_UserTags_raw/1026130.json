@@ -1,0 +1,26 @@
+{
+  "appid": 1026130,
+  "success": true,
+  "tags": {
+    "Indie": 119,
+    "Casual": 112,
+    "Action": 110,
+    "Funny": 107,
+    "4 Player Local": 106,
+    "Local Multiplayer": 100,
+    "Gore": 97,
+    "2D": 94,
+    "Physics": 89,
+    "Competitive": 83,
+    "Violent": 79,
+    "Platformer": 75,
+    "Horror": 73,
+    "Swordplay": 72,
+    "Controller": 64,
+    "Multiplayer": 54,
+    "Comedy": 47,
+    "Fighting": 46,
+    "Fast-Paced": 44,
+    "2D Fighter": 42
+  }
+}

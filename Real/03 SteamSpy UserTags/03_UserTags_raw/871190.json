@@ -1,0 +1,26 @@
+{
+  "appid": 871190,
+  "success": true,
+  "tags": {
+    "First-Person": 167,
+    "Indie": 162,
+    "Action": 157,
+    "Parkour": 155,
+    "Platformer": 151,
+    "Singleplayer": 144,
+    "3D Platformer": 140,
+    "Short": 134,
+    "Surreal": 128,
+    "Dark": 124,
+    "Atmospheric": 123,
+    "Relaxing": 120,
+    "Retro": 115,
+    "Walking Simulator": 112,
+    "Exploration": 98,
+    "Abstract": 92,
+    "Minimalist": 91,
+    "3D": 89,
+    "Action-Adventure": 85,
+    "Stylized": 83
+  }
+}

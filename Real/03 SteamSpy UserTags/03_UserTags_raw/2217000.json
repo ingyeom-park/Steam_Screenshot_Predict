@@ -1,0 +1,26 @@
+{
+  "appid": 2217000,
+  "success": true,
+  "tags": {
+    "Fighting": 287,
+    "Multiplayer": 277,
+    "Indie": 264,
+    "2D Fighter": 263,
+    "Action": 251,
+    "Local Multiplayer": 244,
+    "4 Player Local": 238,
+    "Fantasy": 232,
+    "Combat": 228,
+    "2.5D": 226,
+    "PvP": 221,
+    "Co-op": 197,
+    "2D Platformer": 136,
+    "Controller": 134,
+    "Platformer": 121,
+    "Competitive": 115,
+    "Fast-Paced": 113,
+    "Colorful": 98,
+    "Games Workshop": 93,
+    "Casual": 90
+  }
+}

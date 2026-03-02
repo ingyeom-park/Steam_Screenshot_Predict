@@ -1,0 +1,14 @@
+{
+  "appid": 300300,
+  "success": true,
+  "tags": {
+    "Casual": 45,
+    "Indie": 40,
+    "Puzzle": 38,
+    "Strategy": 27,
+    "2D": 13,
+    "Singleplayer": 10,
+    "Minimalist": 8,
+    "Touch-Friendly": 6
+  }
+}

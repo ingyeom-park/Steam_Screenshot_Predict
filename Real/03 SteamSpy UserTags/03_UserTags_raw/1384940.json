@@ -1,0 +1,23 @@
+{
+  "appid": 1384940,
+  "success": true,
+  "tags": {
+    "VR": 103,
+    "Puzzle": 97,
+    "Adventure": 93,
+    "Investigation": 89,
+    "Mystery": 85,
+    "Escape Room": 77,
+    "Simulation": 70,
+    "Atmospheric": 67,
+    "Exploration": 64,
+    "Singleplayer": 55,
+    "First-Person": 45,
+    "Logic": 37,
+    "Casual": 35,
+    "Family Friendly": 33,
+    "Immersive Sim": 31,
+    "Funny": 29,
+    "Indie": 27
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1627870,
+  "success": true,
+  "tags": {
+    "Indie": 301,
+    "Music": 280,
+    "Casual": 268,
+    "Rhythm": 266,
+    "Instrumental Music": 264,
+    "Sandbox": 262,
+    "Experimental": 254,
+    "Exploration": 250,
+    "Relaxing": 245,
+    "Colorful": 240,
+    "Cute": 236,
+    "Atmospheric": 232,
+    "Family Friendly": 230,
+    "Minimalist": 228,
+    "Education": 222,
+    "Audio Production": 202,
+    "Singleplayer": 196,
+    "Nature": 193,
+    "Stylized": 191,
+    "Music-Based Procedural Generation": 188
+  }
+}

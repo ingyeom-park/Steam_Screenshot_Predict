@@ -1,0 +1,26 @@
+{
+  "appid": 1349230,
+  "success": true,
+  "tags": {
+    "Chess": 1939,
+    "Time Travel": 1660,
+    "Time Manipulation": 1355,
+    "Board Game": 1120,
+    "Difficult": 978,
+    "Puzzle": 912,
+    "Multiplayer": 841,
+    "Turn-Based Strategy": 787,
+    "Strategy": 706,
+    "Turn-Based Tactics": 619,
+    "Singleplayer": 507,
+    "PvP": 495,
+    "Artificial Intelligence": 383,
+    "Indie": 368,
+    "Psychological": 300,
+    "Sci-fi": 289,
+    "Violent": 163,
+    "Psychedelic": 163,
+    "NSFW": 161,
+    "Colorful": 156
+  }
+}

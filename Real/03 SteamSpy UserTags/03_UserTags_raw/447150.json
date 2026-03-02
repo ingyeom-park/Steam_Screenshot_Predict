@@ -1,0 +1,26 @@
+{
+  "appid": 447150,
+  "success": true,
+  "tags": {
+    "Violent": 190,
+    "Indie": 188,
+    "Top-Down": 174,
+    "Gore": 174,
+    "Action": 173,
+    "Fast-Paced": 155,
+    "Singleplayer": 155,
+    "Difficult": 154,
+    "Stylized": 153,
+    "Beat 'em up": 142,
+    "Music": 139,
+    "Blood": 139,
+    "Arcade": 129,
+    "2D": 129,
+    "Top-Down Shooter": 124,
+    "Music-Based Procedural Generation": 121,
+    "Atmospheric": 115,
+    "Casual": 111,
+    "Surreal": 98,
+    "Soundtrack": 97
+  }
+}

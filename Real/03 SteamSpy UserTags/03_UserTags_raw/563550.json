@@ -1,0 +1,26 @@
+{
+  "appid": 563550,
+  "success": true,
+  "tags": {
+    "Adventure": 39,
+    "Indie": 39,
+    "Action": 38,
+    "Violent": 36,
+    "Gore": 36,
+    "Casual": 35,
+    "Horror": 33,
+    "VR": 23,
+    "Puzzle": 22,
+    "Escape Room": 16,
+    "Lovecraftian": 16,
+    "Story Rich": 16,
+    "Exploration": 15,
+    "Soundtrack": 15,
+    "Demons": 15,
+    "Great Soundtrack": 15,
+    "Difficult": 14,
+    "Cinematic": 13,
+    "First-Person": 11,
+    "Physics": 10
+  }
+}

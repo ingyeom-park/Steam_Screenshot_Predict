@@ -1,0 +1,23 @@
+{
+  "appid": 318970,
+  "success": true,
+  "tags": {
+    "RPG": 89,
+    "Dungeon Crawler": 78,
+    "Indie": 64,
+    "Sci-fi": 56,
+    "Turn-Based Combat": 51,
+    "Grid-Based Movement": 47,
+    "Adventure": 46,
+    "CRPG": 43,
+    "First-Person": 40,
+    "Cyberpunk": 36,
+    "Turn-Based": 31,
+    "Party-Based RPG": 12,
+    "Singleplayer": 9,
+    "Great Soundtrack": 6,
+    "Procedural Generation": 6,
+    "Rogue-like": 5,
+    "Early Access": 5
+  }
+}

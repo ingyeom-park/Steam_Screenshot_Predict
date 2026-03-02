@@ -1,0 +1,25 @@
+{
+  "appid": 1693260,
+  "success": true,
+  "tags": {
+    "Puzzle": 110,
+    "Indie": 103,
+    "Relaxing": 99,
+    "Difficult": 96,
+    "Sokoban": 94,
+    "Logic": 87,
+    "Minimalist": 80,
+    "2D": 77,
+    "Abstract": 75,
+    "Singleplayer": 72,
+    "Casual": 67,
+    "Atmospheric": 65,
+    "Grid-Based Movement": 55,
+    "Mouse only": 53,
+    "Nature": 45,
+    "Side Scroller": 41,
+    "2D Platformer": 35,
+    "Cute": 34,
+    "Nudity": 26
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 658560,
+  "success": true,
+  "tags": {
+    "Puzzle": 128,
+    "Casual": 119,
+    "Indie": 117,
+    "Fast-Paced": 113,
+    "2D": 110,
+    "Physics": 105,
+    "Short": 104,
+    "Relaxing": 101,
+    "Minimalist": 96,
+    "Puzzle-Platformer": 88,
+    "Point & Click": 86,
+    "Cute": 79,
+    "Strategy": 76,
+    "Pixel Graphics": 72,
+    "Singleplayer": 66,
+    "Tactical": 54,
+    "Family Friendly": 50,
+    "Destruction": 45,
+    "Sequel": 42,
+    "Abstract": 40
+  }
+}

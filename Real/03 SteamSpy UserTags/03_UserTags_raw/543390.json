@@ -1,0 +1,25 @@
+{
+  "appid": 543390,
+  "success": true,
+  "tags": {
+    "FPS": 41,
+    "Action": 36,
+    "Adventure": 33,
+    "VR": 29,
+    "Bullet Time": 25,
+    "Indie": 25,
+    "RPG": 21,
+    "Casual": 20,
+    "Simulation": 20,
+    "Horror": 16,
+    "Futuristic": 15,
+    "Robots": 15,
+    "Sci-fi": 15,
+    "Shooter": 15,
+    "Survival": 14,
+    "Multiplayer": 14,
+    "Violent": 14,
+    "Gore": 13,
+    "Zombies": 12
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "appid": 300570,
+  "success": true,
+  "tags": {
+    "Puzzle": 128,
+    "Building": 91,
+    "Automation": 87,
+    "Indie": 85,
+    "Programming": 85,
+    "Sandbox": 79,
+    "Simulation": 75,
+    "Singleplayer": 55,
+    "Difficult": 49,
+    "First-Person": 47,
+    "Sci-fi": 46,
+    "Logic": 38,
+    "Space": 24,
+    "Great Soundtrack": 19,
+    "Strategy": 17
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "appid": 870110,
+  "success": true,
+  "tags": {
+    "RPG": 25,
+    "Horror": 25,
+    "Adventure": 24,
+    "Casual": 24,
+    "Indie": 23,
+    "Strategy": 21,
+    "Simulation": 20,
+    "Drama": 16,
+    "RPGMaker": 14,
+    "Anime": 12
+  }
+}

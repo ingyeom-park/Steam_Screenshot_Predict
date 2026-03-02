@@ -1,0 +1,26 @@
+{
+  "appid": 2162900,
+  "success": true,
+  "tags": {
+    "Adventure": 160,
+    "RPG": 152,
+    "Interactive Fiction": 148,
+    "Puzzle": 144,
+    "Anime": 140,
+    "Drama": 133,
+    "Indie": 129,
+    "Female Protagonist": 124,
+    "Cartoon": 117,
+    "Emotional": 109,
+    "Detective": 101,
+    "Supernatural": 99,
+    "Singleplayer": 88,
+    "Story Rich": 75,
+    "2D": 62,
+    "Top-Down": 59,
+    "Cute": 49,
+    "Fantasy": 38,
+    "Mystery": 28,
+    "Cartoony": 25
+  }
+}

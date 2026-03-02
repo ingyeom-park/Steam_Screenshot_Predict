@@ -1,0 +1,26 @@
+{
+  "appid": 916840,
+  "success": true,
+  "tags": {
+    "VR": 364,
+    "Zombies": 320,
+    "Action": 304,
+    "Gore": 297,
+    "Horror": 294,
+    "Adventure": 293,
+    "Survival Horror": 283,
+    "Shooter": 280,
+    "Violent": 277,
+    "Survival": 276,
+    "Singleplayer": 263,
+    "RPG": 261,
+    "Choices Matter": 260,
+    "Indie": 244,
+    "Simulation": 243,
+    "Strategy": 236,
+    "Open World": 107,
+    "First-Person": 69,
+    "Multiplayer": 65,
+    "FPS": 63
+  }
+}

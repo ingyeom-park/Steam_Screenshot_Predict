@@ -1,0 +1,26 @@
+{
+  "appid": 1456290,
+  "success": true,
+  "tags": {
+    "Beat 'em up": 163,
+    "Sandbox": 157,
+    "Action-Adventure": 152,
+    "Third Person": 151,
+    "Adventure": 149,
+    "Comic Book": 146,
+    "Action": 141,
+    "Superhero": 137,
+    "Combat": 126,
+    "Singleplayer": 116,
+    "Fast-Paced": 108,
+    "Indie": 107,
+    "Third-Person Shooter": 103,
+    "Arcade": 99,
+    "Arena Shooter": 83,
+    "Flight": 71,
+    "PvE": 66,
+    "Casual": 50,
+    "3D": 31,
+    "Time Manipulation": 28
+  }
+}

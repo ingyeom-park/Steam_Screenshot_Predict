@@ -1,0 +1,26 @@
+{
+  "appid": 985940,
+  "success": true,
+  "tags": {
+    "PvP": 206,
+    "Beat 'em up": 199,
+    "Competitive": 196,
+    "Casual": 191,
+    "Fighting": 182,
+    "Action": 168,
+    "Funny": 167,
+    "Family Friendly": 162,
+    "Comedy": 155,
+    "Co-op": 152,
+    "Local Co-Op": 150,
+    "Physics": 144,
+    "Online Co-Op": 143,
+    "Multiplayer": 130,
+    "4 Player Local": 116,
+    "Local Multiplayer": 102,
+    "Indie": 88,
+    "Platformer": 66,
+    "Controller": 63,
+    "Colorful": 59
+  }
+}

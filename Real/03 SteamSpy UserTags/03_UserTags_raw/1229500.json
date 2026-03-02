@@ -1,0 +1,26 @@
+{
+  "appid": 1229500,
+  "success": true,
+  "tags": {
+    "Action": 167,
+    "Indie": 161,
+    "Adventure": 159,
+    "Dystopian ": 155,
+    "Platformer": 152,
+    "Female Protagonist": 145,
+    "Retro": 140,
+    "Pixel Graphics": 137,
+    "2D Platformer": 130,
+    "Cyberpunk": 125,
+    "Casual": 123,
+    "Side Scroller": 122,
+    "Singleplayer": 116,
+    "Combat": 109,
+    "Post-apocalyptic": 107,
+    "Fantasy": 100,
+    "Futuristic": 98,
+    "Story Rich": 96,
+    "Linear": 91,
+    "Hand-drawn": 85
+  }
+}

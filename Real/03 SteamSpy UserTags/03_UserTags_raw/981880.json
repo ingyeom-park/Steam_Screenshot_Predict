@@ -1,0 +1,26 @@
+{
+  "appid": 981880,
+  "success": true,
+  "tags": {
+    "VR": 139,
+    "Rogue-lite": 130,
+    "Action": 127,
+    "Procedural Generation": 125,
+    "Comedy": 122,
+    "Destruction": 114,
+    "Funny": 107,
+    "Replay Value": 100,
+    "Indie": 93,
+    "Singleplayer": 91,
+    "Cartoon": 88,
+    "Colorful": 86,
+    "Arcade": 83,
+    "Simulation": 80,
+    "Rogue-like": 78,
+    "Action Roguelike": 75,
+    "3D": 73,
+    "Casual": 73,
+    "First-Person": 65,
+    "Stealth": 63
+  }
+}

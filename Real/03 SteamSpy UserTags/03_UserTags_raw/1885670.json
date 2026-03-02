@@ -1,0 +1,26 @@
+{
+  "appid": 1885670,
+  "success": true,
+  "tags": {
+    "Action": 99,
+    "Adventure": 92,
+    "Platformer": 90,
+    "Action-Adventure": 86,
+    "2D Platformer": 84,
+    "Puzzle-Platformer": 75,
+    "Precision Platformer": 75,
+    "2D": 73,
+    "Pixel Graphics": 71,
+    "Metroidvania": 70,
+    "Family Friendly": 67,
+    "Retro": 64,
+    "Female Protagonist": 63,
+    "Controller": 63,
+    "Singleplayer": 60,
+    "Side Scroller": 56,
+    "Dungeon Crawler": 53,
+    "Exploration": 52,
+    "Soundtrack": 50,
+    "Indie": 49
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1305820,
+  "success": true,
+  "tags": {
+    "Adventure": 181,
+    "Point & Click": 174,
+    "Puzzle": 171,
+    "Hidden Object": 166,
+    "2D": 161,
+    "Hand-drawn": 157,
+    "Story Rich": 150,
+    "Lore-Rich": 148,
+    "First-Person": 142,
+    "Atmospheric": 138,
+    "Mystery": 133,
+    "Singleplayer": 124,
+    "Linear": 112,
+    "Mythology": 105,
+    "Supernatural": 98,
+    "Dark Fantasy": 88,
+    "Dark": 82,
+    "Indie": 81,
+    "Colorful": 72,
+    "Collectathon": 68
+  }
+}

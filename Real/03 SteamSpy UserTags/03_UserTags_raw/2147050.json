@@ -1,0 +1,26 @@
+{
+  "appid": 2147050,
+  "success": true,
+  "tags": {
+    "Precision Platformer": 116,
+    "Indie": 110,
+    "Casual": 107,
+    "2D Platformer": 104,
+    "Singleplayer": 101,
+    "Platformer": 95,
+    "Cats": 93,
+    "Difficult": 92,
+    "Exploration": 89,
+    "Runner": 87,
+    "Puzzle-Platformer": 85,
+    "Dungeon Crawler": 83,
+    "Puzzle": 81,
+    "Parkour": 79,
+    "Action-Adventure": 77,
+    "Rogue-lite": 75,
+    "2D": 73,
+    "Action": 71,
+    "Cozy": 53,
+    "Controller": 51
+  }
+}

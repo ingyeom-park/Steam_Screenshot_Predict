@@ -1,0 +1,26 @@
+{
+  "appid": 57300,
+  "success": true,
+  "tags": {
+    "Horror": 2707,
+    "Gore": 1094,
+    "Psychological Horror": 1086,
+    "Survival Horror": 1083,
+    "Atmospheric": 1067,
+    "Puzzle": 1064,
+    "First-Person": 1053,
+    "Nudity": 797,
+    "Dark": 791,
+    "Lovecraftian": 776,
+    "Adventure": 769,
+    "Indie": 760,
+    "Singleplayer": 732,
+    "Stealth": 489,
+    "Exploration": 488,
+    "Action": 478,
+    "Walking Simulator": 427,
+    "Physics": 421,
+    "Story Rich": 421,
+    "Surreal": 414
+  }
+}

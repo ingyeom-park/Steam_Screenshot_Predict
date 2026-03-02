@@ -1,0 +1,14 @@
+{
+  "appid": 292200,
+  "success": true,
+  "tags": {
+    "Casual": 35,
+    "Indie": 30,
+    "Strategy": 29,
+    "Education": 19,
+    "Cute": 11,
+    "Science": 11,
+    "Management": 10,
+    "Simulation": 5
+  }
+}

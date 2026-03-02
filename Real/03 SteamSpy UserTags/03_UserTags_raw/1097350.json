@@ -1,0 +1,26 @@
+{
+  "appid": 1097350,
+  "success": true,
+  "tags": {
+    "Western": 328,
+    "Isometric": 319,
+    "RPG": 312,
+    "Immersive Sim": 305,
+    "Story Rich": 279,
+    "Atmospheric": 268,
+    "Action": 267,
+    "Tactical RPG": 267,
+    "Stealth": 265,
+    "Dark Fantasy": 258,
+    "Multiple Endings": 255,
+    "Action RPG": 251,
+    "Supernatural": 250,
+    "Choices Matter": 239,
+    "Indie": 236,
+    "Top-Down": 232,
+    "Violent": 229,
+    "Singleplayer": 209,
+    "Adventure": 204,
+    "Dark": 200
+  }
+}

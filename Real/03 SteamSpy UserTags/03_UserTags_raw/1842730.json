@@ -1,0 +1,26 @@
+{
+  "appid": 1842730,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 162,
+    "Hack and Slash": 158,
+    "Difficult": 154,
+    "Replay Value": 150,
+    "Pixel Graphics": 147,
+    "Rogue-lite": 137,
+    "Rogue-like": 133,
+    "Souls-like": 131,
+    "Metroidvania": 127,
+    "Platformer": 122,
+    "2D": 120,
+    "Controller": 118,
+    "Roguevania": 110,
+    "Action": 106,
+    "Colorful": 100,
+    "Singleplayer": 94,
+    "Procedural Generation": 85,
+    "Choices Matter": 73,
+    "Fantasy": 63,
+    "Indie": 54
+  }
+}

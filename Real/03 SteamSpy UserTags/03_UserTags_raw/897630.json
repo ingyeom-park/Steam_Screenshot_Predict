@@ -1,0 +1,26 @@
+{
+  "appid": 897630,
+  "success": true,
+  "tags": {
+    "Indie": 145,
+    "Adventure": 137,
+    "Pixel Graphics": 135,
+    "Difficult": 130,
+    "Puzzle-Platformer": 125,
+    "2D": 119,
+    "Retro": 116,
+    "Puzzle": 113,
+    "Singleplayer": 108,
+    "Casual": 102,
+    "Arcade": 98,
+    "Atmospheric": 94,
+    "Stylized": 88,
+    "Replay Value": 79,
+    "Platformer": 72,
+    "Stealth": 67,
+    "Exploration": 65,
+    "Controller": 61,
+    "Cute": 51,
+    "Parkour": 46
+  }
+}

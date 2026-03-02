@@ -1,0 +1,26 @@
+{
+  "appid": 1155420,
+  "success": true,
+  "tags": {
+    "Action": 120,
+    "Visual Novel": 116,
+    "Action-Adventure": 110,
+    "Rogue-like": 108,
+    "Third Person": 104,
+    "Casual": 93,
+    "Simulation": 91,
+    "Colorful": 88,
+    "Indie": 31,
+    "Racing": 31,
+    "Adventure": 30,
+    "Sports": 30,
+    "Dinosaurs": 16,
+    "Great Soundtrack": 12,
+    "Gore": 11,
+    "Violent": 11,
+    "Survival": 11,
+    "Sci-fi": 10,
+    "Old School": 10,
+    "Funny": 10
+  }
+}

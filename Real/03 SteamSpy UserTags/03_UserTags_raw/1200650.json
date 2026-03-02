@@ -1,0 +1,26 @@
+{
+  "appid": 1200650,
+  "success": true,
+  "tags": {
+    "Adventure": 219,
+    "Casual": 213,
+    "RPG": 210,
+    "Indie": 207,
+    "RPGMaker": 204,
+    "Anime": 198,
+    "Magic": 192,
+    "Exploration": 189,
+    "JRPG": 187,
+    "Pixel Graphics": 185,
+    "Hand-drawn": 182,
+    "Drama": 178,
+    "Story Rich": 173,
+    "Fantasy": 169,
+    "Retro": 164,
+    "Strategy": 164,
+    "Singleplayer": 154,
+    "Controller": 152,
+    "God Game": 139,
+    "Idler": 132
+  }
+}

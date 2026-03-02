@@ -1,0 +1,26 @@
+{
+  "appid": 285840,
+  "success": true,
+  "tags": {
+    "Action": 121,
+    "Shoot 'Em Up": 117,
+    "Shooter": 110,
+    "Space": 105,
+    "Pixel Graphics": 102,
+    "Bullet Hell": 95,
+    "Arcade": 93,
+    "Side Scroller": 90,
+    "Retro": 88,
+    "Indie": 80,
+    "Local Co-Op": 66,
+    "Multiplayer": 51,
+    "Sci-fi": 48,
+    "2D": 46,
+    "4 Player Local": 45,
+    "Local Multiplayer": 43,
+    "Adventure": 40,
+    "Difficult": 40,
+    "Old School": 36,
+    "Combat": 34
+  }
+}

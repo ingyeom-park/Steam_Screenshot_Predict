@@ -1,0 +1,26 @@
+{
+  "appid": 3084280,
+  "success": true,
+  "tags": {
+    "Drama": 122,
+    "Mystery": 110,
+    "Visual Novel": 107,
+    "Lore-Rich": 104,
+    "Cartoony": 98,
+    "2D Platformer": 88,
+    "Mythology": 84,
+    "Story Rich": 84,
+    "Detective": 83,
+    "Indie": 79,
+    "Singleplayer": 78,
+    "Cute": 77,
+    "2D": 73,
+    "Fantasy": 65,
+    "Adventure": 57,
+    "Puzzle": 48,
+    "Anime": 41,
+    "Puzzle-Platformer": 39,
+    "Action-Adventure": 30,
+    "CRPG": 28
+  }
+}

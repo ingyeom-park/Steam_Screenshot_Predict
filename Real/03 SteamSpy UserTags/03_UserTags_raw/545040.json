@@ -1,0 +1,26 @@
+{
+  "appid": 545040,
+  "success": true,
+  "tags": {
+    "Exploration": 176,
+    "Flight": 170,
+    "Sandbox": 163,
+    "Nature": 158,
+    "Third Person": 152,
+    "Relaxing": 146,
+    "Open World": 140,
+    "Casual": 135,
+    "Simulation": 131,
+    "Stylized": 126,
+    "Atmospheric": 117,
+    "Adventure": 110,
+    "Co-op": 110,
+    "Multiplayer": 102,
+    "Online Co-Op": 99,
+    "Singleplayer": 87,
+    "Music": 86,
+    "Indie": 81,
+    "Experience": 76,
+    "Walking Simulator": 73
+  }
+}

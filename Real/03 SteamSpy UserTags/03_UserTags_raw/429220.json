@@ -1,0 +1,26 @@
+{
+  "appid": 429220,
+  "success": true,
+  "tags": {
+    "Casual": 202,
+    "Action": 197,
+    "Indie": 193,
+    "Shoot 'Em Up": 189,
+    "Arcade": 184,
+    "Shooter": 176,
+    "Singleplayer": 173,
+    "Co-op": 170,
+    "Local Co-Op": 166,
+    "Top-Down Shooter": 162,
+    "2.5D": 157,
+    "3D": 150,
+    "Cartoony": 144,
+    "Colorful": 137,
+    "Stylized": 135,
+    "Top-Down": 129,
+    "Aliens": 125,
+    "Retro": 120,
+    "Sci-fi": 109,
+    "Flight": 92
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 943410,
+  "success": true,
+  "tags": {
+    "Casual": 121,
+    "Strategy": 115,
+    "Indie": 110,
+    "Board Game": 84,
+    "Tabletop": 75,
+    "4 Player Local": 67,
+    "2D": 65,
+    "Mouse only": 64,
+    "Atmospheric": 60,
+    "Family Friendly": 58,
+    "Turn-Based": 57,
+    "Asynchronous Multiplayer": 55,
+    "Local Multiplayer": 51,
+    "Touch-Friendly": 49,
+    "Multiplayer": 47,
+    "Singleplayer": 45,
+    "Relaxing": 40,
+    "Colorful": 39,
+    "Short": 36,
+    "Trading": 32
+  }
+}

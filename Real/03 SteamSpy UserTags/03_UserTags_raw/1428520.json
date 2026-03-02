@@ -1,0 +1,26 @@
+{
+  "appid": 1428520,
+  "success": true,
+  "tags": {
+    "Management": 72,
+    "Mechs": 62,
+    "Character Customization": 60,
+    "Resource Management": 49,
+    "Simulation": 48,
+    "Dungeon Crawler": 48,
+    "Strategy": 44,
+    "Indie": 41,
+    "Building": 40,
+    "Pixel Graphics": 39,
+    "Real Time Tactics": 37,
+    "RTS": 28,
+    "Singleplayer": 25,
+    "Stylized": 23,
+    "Realistic": 22,
+    "2.5D": 18,
+    "2D": 17,
+    "Early Access": 12,
+    "Sci-fi": 6,
+    "Difficult": 6
+  }
+}

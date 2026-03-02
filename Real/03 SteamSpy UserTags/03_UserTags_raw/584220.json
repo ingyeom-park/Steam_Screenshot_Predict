@@ -1,0 +1,26 @@
+{
+  "appid": 584220,
+  "success": true,
+  "tags": {
+    "Pinball": 173,
+    "Zombies": 169,
+    "Casual": 165,
+    "Rogue-lite": 160,
+    "Pixel Graphics": 156,
+    "Indie": 151,
+    "Puzzle": 147,
+    "Score Attack": 143,
+    "Arcade": 135,
+    "Match 3": 127,
+    "Funny": 125,
+    "Physics": 122,
+    "2D": 110,
+    "Cartoon": 98,
+    "Singleplayer": 96,
+    "Stylized": 93,
+    "Relaxing": 92,
+    "Memes": 89,
+    "Turn-Based Combat": 87,
+    "Procedural Generation": 86
+  }
+}

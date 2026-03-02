@@ -1,0 +1,26 @@
+{
+  "appid": 1314770,
+  "success": true,
+  "tags": {
+    "Rogue-like": 159,
+    "Deckbuilding": 153,
+    "Card Battler": 149,
+    "Card Game": 144,
+    "Strategy": 142,
+    "Historical": 137,
+    "Roguelike Deckbuilder": 135,
+    "Rogue-lite": 130,
+    "Choices Matter": 127,
+    "Turn-Based Strategy": 119,
+    "2D": 115,
+    "Turn-Based Combat": 103,
+    "Indie": 93,
+    "PvE": 86,
+    "Adventure": 80,
+    "Simulation": 76,
+    "Turn-Based Tactics": 73,
+    "Hand-drawn": 63,
+    "Singleplayer": 61,
+    "Procedural Generation": 54
+  }
+}

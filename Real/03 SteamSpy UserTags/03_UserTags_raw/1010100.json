@@ -1,0 +1,21 @@
+{
+  "appid": 1010100,
+  "success": true,
+  "tags": {
+    "Action": 31,
+    "Indie": 30,
+    "VR": 20,
+    "Superhero": 11,
+    "Space": 11,
+    "Arcade": 11,
+    "Destruction": 11,
+    "Flight": 11,
+    "Fast-Paced": 10,
+    "Great Soundtrack": 10,
+    "Shooter": 10,
+    "Sci-fi": 10,
+    "Difficult": 10,
+    "Stylized": 10,
+    "Physics": 9
+  }
+}

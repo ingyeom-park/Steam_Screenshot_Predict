@@ -1,0 +1,26 @@
+{
+  "appid": 1489600,
+  "success": true,
+  "tags": {
+    "Horror": 167,
+    "Indie": 161,
+    "Gothic": 157,
+    "Arena Shooter": 154,
+    "FPS": 152,
+    "Rogue-like": 143,
+    "Psychedelic": 142,
+    "Score Attack": 138,
+    "Shooter": 136,
+    "Dark": 130,
+    "Surreal": 129,
+    "First-Person": 117,
+    "Experimental": 113,
+    "Atmospheric": 104,
+    "Survival Horror": 101,
+    "Minimalist": 93,
+    "Abstract": 85,
+    "Noir": 79,
+    "Action": 65,
+    "Singleplayer": 52
+  }
+}

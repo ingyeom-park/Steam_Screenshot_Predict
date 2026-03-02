@@ -1,0 +1,26 @@
+{
+  "appid": 1732220,
+  "success": true,
+  "tags": {
+    "Third Person": 233,
+    "Action": 227,
+    "Fantasy": 223,
+    "Difficult": 219,
+    "Indie": 214,
+    "Platformer": 208,
+    "3D Platformer": 207,
+    "Puzzle": 204,
+    "Parkour": 202,
+    "Mythology": 201,
+    "Souls-like": 198,
+    "Adventure": 196,
+    "3D": 194,
+    "Robots": 192,
+    "Realistic": 190,
+    "Combat": 188,
+    "Singleplayer": 187,
+    "Swordplay": 184,
+    "Lore-Rich": 182,
+    "Ninja": 180
+  }
+}

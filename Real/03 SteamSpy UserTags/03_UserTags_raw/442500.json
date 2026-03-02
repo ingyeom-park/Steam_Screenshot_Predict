@@ -1,0 +1,26 @@
+{
+  "appid": 442500,
+  "success": true,
+  "tags": {
+    "Strategy": 114,
+    "Simulation": 107,
+    "Management": 107,
+    "RPG": 102,
+    "Casual": 98,
+    "Sports": 92,
+    "Indie": 90,
+    "Rome": 87,
+    "Singleplayer": 84,
+    "Turn-Based": 78,
+    "Historical": 76,
+    "Replay Value": 73,
+    "Alternate History": 69,
+    "Text-Based": 65,
+    "Medieval": 65,
+    "Auto Battler": 63,
+    "Strategy RPG": 59,
+    "Turn-Based Strategy": 55,
+    "Grand Strategy": 53,
+    "Adventure": 52
+  }
+}

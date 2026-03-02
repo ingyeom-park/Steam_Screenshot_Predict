@@ -1,0 +1,26 @@
+{
+  "appid": 777200,
+  "success": true,
+  "tags": {
+    "Adventure": 34,
+    "Anime": 24,
+    "Indie": 23,
+    "RPG": 21,
+    "Visual Novel": 21,
+    "Puzzle": 18,
+    "Horror": 18,
+    "Story Rich": 17,
+    "Dark Comedy": 16,
+    "Memes": 16,
+    "Multiple Endings": 16,
+    "Gore": 16,
+    "Funny": 16,
+    "Singleplayer": 15,
+    "Mystery": 15,
+    "Atmospheric": 14,
+    "Survival Horror": 14,
+    "Psychological Horror": 14,
+    "Dark": 13,
+    "Violent": 13
+  }
+}

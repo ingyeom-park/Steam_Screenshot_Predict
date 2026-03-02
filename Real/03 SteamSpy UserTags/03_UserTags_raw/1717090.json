@@ -1,0 +1,26 @@
+{
+  "appid": 1717090,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 127,
+    "Hack and Slash": 122,
+    "Rogue-like": 115,
+    "Dungeon Crawler": 113,
+    "Action RPG": 112,
+    "Action-Adventure": 100,
+    "Dark Fantasy": 98,
+    "Rogue-lite": 93,
+    "RPG": 90,
+    "Loot": 87,
+    "Action": 85,
+    "Pixel Graphics": 81,
+    "Adventure": 76,
+    "Combat": 72,
+    "Inventory Management": 60,
+    "Singleplayer": 57,
+    "Indie": 56,
+    "2D": 38,
+    "Medieval": 33,
+    "Atmospheric": 26
+  }
+}

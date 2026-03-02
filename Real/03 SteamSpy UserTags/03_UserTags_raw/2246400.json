@@ -1,0 +1,26 @@
+{
+  "appid": 2246400,
+  "success": true,
+  "tags": {
+    "Horror": 249,
+    "Indie": 243,
+    "Psychological Horror": 241,
+    "Puzzle": 238,
+    "First-Person": 229,
+    "Mystery": 218,
+    "Hidden Object": 211,
+    "Dark": 210,
+    "Demons": 201,
+    "Surreal": 190,
+    "Atmospheric": 181,
+    "Realistic": 168,
+    "Supernatural": 154,
+    "Adventure": 142,
+    "Exploration": 139,
+    "Investigation": 122,
+    "3D": 105,
+    "Singleplayer": 87,
+    "Interactive Fiction": 68,
+    "Thriller": 51
+  }
+}

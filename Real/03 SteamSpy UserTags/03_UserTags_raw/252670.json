@@ -1,0 +1,24 @@
+{
+  "appid": 252670,
+  "success": true,
+  "tags": {
+    "Indie": 120,
+    "Adventure": 91,
+    "Platformer": 91,
+    "Puzzle": 87,
+    "Casual": 74,
+    "Puzzle-Platformer": 69,
+    "Atmospheric": 61,
+    "2D": 58,
+    "Singleplayer": 55,
+    "Narration": 51,
+    "Great Soundtrack": 41,
+    "Story Rich": 33,
+    "Difficult": 28,
+    "Short": 26,
+    "Beautiful": 21,
+    "Action": 21,
+    "Dark": 16,
+    "Side Scroller": 9
+  }
+}

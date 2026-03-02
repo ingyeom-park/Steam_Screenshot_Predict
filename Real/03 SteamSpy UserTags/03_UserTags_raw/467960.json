@@ -1,0 +1,26 @@
+{
+  "appid": 467960,
+  "success": true,
+  "tags": {
+    "Adventure": 137,
+    "RPG": 111,
+    "Survival": 100,
+    "Indie": 93,
+    "Casual": 83,
+    "Simulation": 68,
+    "Strategy": 68,
+    "Singleplayer": 39,
+    "Side Scroller": 32,
+    "Rogue-lite": 32,
+    "Building": 29,
+    "Mouse only": 23,
+    "2D": 22,
+    "Rogue-like": 21,
+    "Replay Value": 18,
+    "Difficult": 17,
+    "Turn-Based Tactics": 16,
+    "Third Person": 15,
+    "Politics": 15,
+    "Atmospheric": 14
+  }
+}

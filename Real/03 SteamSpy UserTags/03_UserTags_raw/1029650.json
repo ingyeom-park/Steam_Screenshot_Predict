@@ -1,0 +1,26 @@
+{
+  "appid": 1029650,
+  "success": true,
+  "tags": {
+    "Singleplayer": 172,
+    "Top-Down": 163,
+    "Turn-Based Combat": 159,
+    "Short": 156,
+    "Funny": 153,
+    "Conspiracy": 143,
+    "RPG": 139,
+    "Adventure": 138,
+    "Minigames": 134,
+    "Conversation": 132,
+    "Exploration": 129,
+    "RPGMaker": 125,
+    "Cartoony": 120,
+    "Party-Based RPG": 107,
+    "Multiple Endings": 94,
+    "Mystery": 85,
+    "Moddable": 82,
+    "Indie": 80,
+    "Controller": 67,
+    "2D": 59
+  }
+}

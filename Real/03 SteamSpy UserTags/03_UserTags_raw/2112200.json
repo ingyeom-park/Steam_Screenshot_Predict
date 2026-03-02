@@ -1,0 +1,25 @@
+{
+  "appid": 2112200,
+  "success": true,
+  "tags": {
+    "Action": 186,
+    "Action Roguelike": 177,
+    "RPG": 175,
+    "Rogue-lite": 171,
+    "Action RPG": 161,
+    "Rogue-like": 144,
+    "Bullet Hell": 138,
+    "2D": 130,
+    "Survival": 122,
+    "Fantasy": 113,
+    "Dark Fantasy": 102,
+    "Magic": 100,
+    "Female Protagonist": 87,
+    "Dark": 73,
+    "Combat": 58,
+    "Singleplayer": 43,
+    "Casual": 27,
+    "Relaxing": 25,
+    "Indie": 21
+  }
+}

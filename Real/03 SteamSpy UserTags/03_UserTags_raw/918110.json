@@ -1,0 +1,26 @@
+{
+  "appid": 918110,
+  "success": true,
+  "tags": {
+    "Action": 155,
+    "RPG": 149,
+    "Linear": 146,
+    "Fast-Paced": 143,
+    "Action RPG": 139,
+    "Swordplay": 133,
+    "Singleplayer": 130,
+    "Hack and Slash": 128,
+    "3D": 125,
+    "Third Person": 120,
+    "Dark": 117,
+    "Fantasy": 110,
+    "Tactical": 107,
+    "Controller": 96,
+    "Story Rich": 86,
+    "Difficult": 80,
+    "Violent": 68,
+    "Indie": 56,
+    "Souls-like": 50,
+    "Gore": 34
+  }
+}

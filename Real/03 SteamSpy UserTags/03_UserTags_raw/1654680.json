@@ -1,0 +1,25 @@
+{
+  "appid": 1654680,
+  "success": true,
+  "tags": {
+    "Action": 207,
+    "Arcade": 180,
+    "Shooter": 177,
+    "Flight": 171,
+    "Comic Book": 166,
+    "America": 154,
+    "Old School": 140,
+    "Military": 138,
+    "Retro": 133,
+    "World War I": 113,
+    "War": 112,
+    "Combat": 110,
+    "Controller": 97,
+    "PvE": 82,
+    "PvP": 67,
+    "Local Co-Op": 51,
+    "Multiplayer": 36,
+    "Singleplayer": 35,
+    "Indie": 20
+  }
+}

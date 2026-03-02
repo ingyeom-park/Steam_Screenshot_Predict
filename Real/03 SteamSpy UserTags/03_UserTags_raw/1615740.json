@@ -1,0 +1,26 @@
+{
+  "appid": 1615740,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 195,
+    "Pixel Graphics": 190,
+    "Local Co-Op": 188,
+    "Action": 186,
+    "Hack and Slash": 182,
+    "2D": 174,
+    "Adventure": 161,
+    "Platformer": 158,
+    "Multiplayer": 149,
+    "Beat 'em up": 134,
+    "Rogue-like": 118,
+    "Class-Based": 118,
+    "Combat": 105,
+    "Co-op": 94,
+    "Singleplayer": 77,
+    "Co-op Campaign": 62,
+    "Procedural Generation": 43,
+    "Fantasy": 28,
+    "Retro": 25,
+    "Indie": 22
+  }
+}

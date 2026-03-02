@@ -1,0 +1,26 @@
+{
+  "appid": 1153210,
+  "success": true,
+  "tags": {
+    "Simulation": 132,
+    "Casual": 124,
+    "RPG": 121,
+    "Adventure": 119,
+    "Sandbox": 115,
+    "Cooking": 109,
+    "First-Person": 108,
+    "Singleplayer": 105,
+    "Narrative": 102,
+    "Education": 94,
+    "Crafting": 91,
+    "Indie": 83,
+    "Realistic": 77,
+    "3D": 72,
+    "Relaxing": 67,
+    "Interactive Fiction": 66,
+    "Female Protagonist": 65,
+    "Character Customization": 63,
+    "Visual Novel": 59,
+    "Story Rich": 56
+  }
+}

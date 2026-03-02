@@ -1,0 +1,26 @@
+{
+  "appid": 942200,
+  "success": true,
+  "tags": {
+    "Sports": 142,
+    "Parkour": 138,
+    "Racing": 134,
+    "Level Editor": 131,
+    "Platformer": 127,
+    "Asynchronous Multiplayer": 122,
+    "Runner": 120,
+    "Fast-Paced": 116,
+    "Precision Platformer": 114,
+    "3D Platformer": 114,
+    "Collectathon": 105,
+    "Third Person": 101,
+    "Controller": 95,
+    "Physics": 90,
+    "Singleplayer": 85,
+    "Choices Matter": 79,
+    "Time Attack": 73,
+    "Character Customization": 65,
+    "Replay Value": 60,
+    "Action": 35
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2249700,
+  "success": true,
+  "tags": {
+    "Casual": 555,
+    "Action": 540,
+    "Party Game": 530,
+    "Online Co-Op": 526,
+    "Indie": 517,
+    "PvP": 515,
+    "Local Multiplayer": 505,
+    "Funny": 490,
+    "Cartoon": 480,
+    "Cute": 472,
+    "Local Co-Op": 459,
+    "Third Person": 447,
+    "Party-Based RPG": 434,
+    "Physics": 420,
+    "Action-Adventure": 405,
+    "Idler": 390,
+    "Comedy": 374,
+    "Adventure": 374,
+    "3D": 356,
+    "Strategy": 334
+  }
+}

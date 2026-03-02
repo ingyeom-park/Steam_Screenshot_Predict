@@ -1,0 +1,26 @@
+{
+  "appid": 1335940,
+  "success": true,
+  "tags": {
+    "Arcade": 111,
+    "Score Attack": 105,
+    "Bullet Hell": 102,
+    "Souls-like": 96,
+    "Shoot 'Em Up": 94,
+    "Arena Shooter": 89,
+    "Action": 87,
+    "Casual": 79,
+    "Baseball": 70,
+    "2D": 68,
+    "Minimalist": 66,
+    "Top-Down": 64,
+    "Beat 'em up": 61,
+    "Abstract": 60,
+    "Sports": 57,
+    "Stylized": 56,
+    "Singleplayer": 54,
+    "Bullet Time": 52,
+    "Indie": 50,
+    "Procedural Generation": 29
+  }
+}

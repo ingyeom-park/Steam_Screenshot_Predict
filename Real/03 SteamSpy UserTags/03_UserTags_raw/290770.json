@@ -1,0 +1,26 @@
+{
+  "appid": 290770,
+  "success": true,
+  "tags": {
+    "Adventure": 139,
+    "Sci-fi": 129,
+    "Indie": 110,
+    "Atmospheric": 84,
+    "Puzzle": 80,
+    "Action": 78,
+    "Story Rich": 73,
+    "Side Scroller": 71,
+    "Singleplayer": 57,
+    "Point & Click": 50,
+    "Female Protagonist": 47,
+    "Horror": 47,
+    "Robots": 45,
+    "Episodic": 41,
+    "Dark": 40,
+    "2D": 39,
+    "Cyberpunk": 30,
+    "Short": 27,
+    "Kickstarter": 19,
+    "Metroidvania": 12
+  }
+}

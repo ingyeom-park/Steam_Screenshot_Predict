@@ -1,0 +1,26 @@
+{
+  "appid": 2097180,
+  "success": true,
+  "tags": {
+    "Puzzle": 174,
+    "Relaxing": 164,
+    "Casual": 161,
+    "Minimalist": 156,
+    "Singleplayer": 151,
+    "Mouse only": 145,
+    "Logic": 143,
+    "Short": 141,
+    "Indie": 139,
+    "Abstract": 133,
+    "Atmospheric": 129,
+    "3D": 126,
+    "Point & Click": 114,
+    "Tabletop": 109,
+    "Linear": 90,
+    "Puzzle-Platformer": 88,
+    "Cute": 77,
+    "Colorful": 67,
+    "Family Friendly": 54,
+    "Gaming": 28
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appid": 1955390,
+  "success": true,
+  "tags": {
+    "Deckbuilding": 175,
+    "Survival Horror": 171,
+    "3D": 166,
+    "Singleplayer": 161,
+    "Strategy": 158,
+    "Rogue-lite": 157,
+    "Card Game": 145,
+    "Rogue-like": 129,
+    "Adventure": 122,
+    "Action-Adventure": 113,
+    "Card Battler": 102,
+    "Exploration": 100,
+    "First-Person": 88,
+    "Cinematic": 73,
+    "Sci-fi": 58,
+    "Dark": 42,
+    "Logic": 27,
+    "Atmospheric": 25,
+    "Indie": 21
+  }
+}

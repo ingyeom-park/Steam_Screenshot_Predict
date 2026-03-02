@@ -1,0 +1,26 @@
+{
+  "appid": 3110500,
+  "success": true,
+  "tags": {
+    "Clicker": 246,
+    "Idler": 240,
+    "Casual": 237,
+    "Creature Collector": 233,
+    "Relaxing": 231,
+    "Cozy": 224,
+    "Colorful": 222,
+    "Simulation": 219,
+    "Capitalism": 213,
+    "Economy": 210,
+    "Arcade": 206,
+    "Text-Based": 198,
+    "Minimalist": 191,
+    "Indie": 177,
+    "Pixel Graphics": 166,
+    "Family Friendly": 164,
+    "Point & Click": 156,
+    "Singleplayer": 149,
+    "2D": 132,
+    "Collectathon": 115
+  }
+}

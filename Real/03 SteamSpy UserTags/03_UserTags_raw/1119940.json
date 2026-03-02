@@ -1,0 +1,26 @@
+{
+  "appid": 1119940,
+  "success": true,
+  "tags": {
+    "Casual": 99,
+    "Indie": 93,
+    "Match 3": 90,
+    "Puzzle": 85,
+    "Adventure": 82,
+    "2D": 75,
+    "Colorful": 73,
+    "Building": 71,
+    "Medieval": 67,
+    "Controller": 64,
+    "Singleplayer": 62,
+    "City Builder": 58,
+    "Arcade": 52,
+    "Exploration": 50,
+    "Anime": 48,
+    "Funny": 43,
+    "Remake": 41,
+    "Comedy": 36,
+    "Action": 32,
+    "Simulation": 28
+  }
+}

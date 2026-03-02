@@ -1,0 +1,26 @@
+{
+  "appid": 317370,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 168,
+    "RPG": 162,
+    "Fantasy": 159,
+    "Real-Time": 156,
+    "Grid-Based Movement": 153,
+    "Indie": 146,
+    "Exploration": 144,
+    "First-Person": 142,
+    "Singleplayer": 140,
+    "Puzzle": 138,
+    "Old School": 135,
+    "Retro": 128,
+    "Adventure": 125,
+    "Action": 115,
+    "Action-Adventure": 111,
+    "Action RPG": 107,
+    "3D": 102,
+    "Stylized": 97,
+    "Horror": 93,
+    "Magic": 77
+  }
+}

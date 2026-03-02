@@ -1,0 +1,26 @@
+{
+  "appid": 748020,
+  "success": true,
+  "tags": {
+    "Historical": 287,
+    "Adventure": 278,
+    "Puzzle": 267,
+    "Story Rich": 264,
+    "Action-Adventure": 260,
+    "Controller": 257,
+    "Exploration": 251,
+    "Puzzle-Platformer": 249,
+    "Turn-Based Tactics": 245,
+    "Pixel Graphics": 245,
+    "Hack and Slash": 245,
+    "Top-Down": 241,
+    "Isometric": 239,
+    "Indie": 236,
+    "Singleplayer": 233,
+    "Narration": 231,
+    "2D": 229,
+    "Fantasy": 227,
+    "Lore-Rich": 225,
+    "Strategy": 223
+  }
+}

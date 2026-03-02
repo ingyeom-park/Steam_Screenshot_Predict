@@ -1,0 +1,26 @@
+{
+  "appid": 769730,
+  "success": true,
+  "tags": {
+    "Local Multiplayer": 150,
+    "Dark Comedy": 138,
+    "Card Game": 132,
+    "Tabletop": 126,
+    "Conversation": 121,
+    "Casual": 115,
+    "Indie": 113,
+    "Board Game": 107,
+    "Choices Matter": 102,
+    "2D": 99,
+    "Atmospheric": 97,
+    "Horror": 95,
+    "PvP": 93,
+    "Co-op": 92,
+    "Local Co-Op": 89,
+    "Multiplayer": 85,
+    "4 Player Local": 68,
+    "Party": 67,
+    "Party Game": 63,
+    "Singleplayer": 49
+  }
+}

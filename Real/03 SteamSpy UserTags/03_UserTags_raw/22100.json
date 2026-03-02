@@ -1,0 +1,26 @@
+{
+  "appid": 22100,
+  "success": true,
+  "tags": {
+    "RPG": 355,
+    "Medieval": 334,
+    "Open World": 267,
+    "Strategy": 201,
+    "Sandbox": 190,
+    "Action": 165,
+    "Singleplayer": 149,
+    "Adventure": 134,
+    "Third Person": 127,
+    "Multiplayer": 119,
+    "Indie": 102,
+    "Moddable": 98,
+    "Historical": 95,
+    "Action RPG": 90,
+    "Character Customization": 78,
+    "First-Person": 70,
+    "Simulation": 66,
+    "Replay Value": 55,
+    "Fantasy": 36,
+    "War": 20
+  }
+}

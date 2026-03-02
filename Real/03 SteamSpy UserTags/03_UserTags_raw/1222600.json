@@ -1,0 +1,26 @@
+{
+  "appid": 1222600,
+  "success": true,
+  "tags": {
+    "VR": 186,
+    "Cinematic": 180,
+    "Psychological Horror": 177,
+    "Immersive Sim": 174,
+    "Story Rich": 171,
+    "Escape Room": 162,
+    "Puzzle": 155,
+    "Hidden Object": 152,
+    "Visual Novel": 146,
+    "Indie": 142,
+    "Atmospheric": 139,
+    "Action-Adventure": 137,
+    "Physics": 134,
+    "Point & Click": 129,
+    "Exploration": 123,
+    "Adventure": 120,
+    "Action": 117,
+    "Walking Simulator": 115,
+    "First-Person": 113,
+    "Mystery Dungeon": 110
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2331060,
+  "success": true,
+  "tags": {
+    "Puzzle": 139,
+    "Chess": 133,
+    "Logic": 130,
+    "Minimalist": 125,
+    "Cozy": 122,
+    "Relaxing": 115,
+    "Indie": 113,
+    "Casual": 110,
+    "Colorful": 106,
+    "Cute": 101,
+    "Stylized": 95,
+    "Abstract": 89,
+    "Grid-Based Movement": 79,
+    "Tabletop": 68,
+    "Isometric": 58,
+    "Point & Click": 55,
+    "Turn-Based Tactics": 48,
+    "Singleplayer": 38,
+    "3D": 28,
+    "Tutorial": 26
+  }
+}

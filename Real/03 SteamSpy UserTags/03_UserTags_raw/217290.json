@@ -1,0 +1,17 @@
+{
+  "appid": 217290,
+  "success": true,
+  "tags": {
+    "RPG": 42,
+    "Indie": 40,
+    "Action": 38,
+    "Procedural Generation": 26,
+    "Action Roguelike": 23,
+    "Action RPG": 21,
+    "Hack and Slash": 19,
+    "Fantasy": 18,
+    "Dungeon Crawler": 5,
+    "Online Co-Op": 5,
+    "Loot": 5
+  }
+}

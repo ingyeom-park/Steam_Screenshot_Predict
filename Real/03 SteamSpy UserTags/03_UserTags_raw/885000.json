@@ -1,0 +1,26 @@
+{
+  "appid": 885000,
+  "success": true,
+  "tags": {
+    "VR": 190,
+    "Rhythm": 181,
+    "Music": 174,
+    "Indie": 167,
+    "Soundtrack": 166,
+    "Multiplayer": 157,
+    "Action": 152,
+    "Singleplayer": 140,
+    "Swordplay": 140,
+    "First-Person": 134,
+    "Fast-Paced": 126,
+    "Moddable": 121,
+    "Retro": 119,
+    "Arcade": 115,
+    "Cyberpunk": 113,
+    "Casual": 107,
+    "Great Soundtrack": 36,
+    "Difficult": 32,
+    "Sports": 31,
+    "Early Access": 21
+  }
+}

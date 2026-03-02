@@ -1,0 +1,23 @@
+{
+  "appid": 107300,
+  "success": true,
+  "tags": {
+    "JRPG": 308,
+    "RPG": 206,
+    "Funny": 152,
+    "Indie": 150,
+    "Retro": 111,
+    "Comedy": 108,
+    "Pixel Graphics": 74,
+    "Singleplayer": 67,
+    "Turn-Based": 65,
+    "Parody ": 52,
+    "Short": 44,
+    "2D": 29,
+    "Fantasy": 29,
+    "Old School": 27,
+    "Adventure": 26,
+    "Horror": 6,
+    "Top-Down": 5
+  }
+}

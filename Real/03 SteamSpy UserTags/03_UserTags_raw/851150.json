@@ -1,0 +1,26 @@
+{
+  "appid": 851150,
+  "success": true,
+  "tags": {
+    "Rogue-like": 145,
+    "Dungeon Crawler": 139,
+    "Bullet Hell": 136,
+    "Top-Down Shooter": 133,
+    "Rogue-lite": 130,
+    "Difficult": 121,
+    "Perma Death": 115,
+    "Shooter": 113,
+    "Action-Adventure": 105,
+    "Strategy": 103,
+    "RPG": 100,
+    "2D": 100,
+    "Procedural Generation": 90,
+    "Pixel Graphics": 85,
+    "Story Rich": 85,
+    "Action": 84,
+    "Fantasy": 73,
+    "Adventure": 69,
+    "Singleplayer": 54,
+    "Indie": 51
+  }
+}

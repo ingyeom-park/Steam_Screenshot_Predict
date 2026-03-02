@@ -1,0 +1,26 @@
+{
+  "appid": 1755280,
+  "success": true,
+  "tags": {
+    "2D Platformer": 269,
+    "Cute": 257,
+    "Puzzle-Platformer": 251,
+    "Physics": 244,
+    "Exploration": 235,
+    "Pixel Graphics": 222,
+    "Platformer": 213,
+    "2D": 205,
+    "Short": 194,
+    "Precision Platformer": 185,
+    "Indie": 179,
+    "Family Friendly": 172,
+    "Difficult": 159,
+    "Casual": 147,
+    "Colorful": 141,
+    "Side Scroller": 109,
+    "Adventure": 93,
+    "Retro": 91,
+    "Fast-Paced": 54,
+    "Singleplayer": 51
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "appid": 805920,
+  "success": true,
+  "tags": {
+    "Casual": 34,
+    "Indie": 32,
+    "RPG": 31,
+    "Puzzle": 17,
+    "Minimalist": 17,
+    "Rogue-lite": 16,
+    "Pixel Graphics": 14,
+    "Turn-Based": 12,
+    "Tactical": 12,
+    "Dungeon Crawler": 12,
+    "Abstract": 11,
+    "Grid-Based Movement": 11,
+    "Fantasy": 10,
+    "Atmospheric": 10,
+    "Rogue-like": 7
+  }
+}

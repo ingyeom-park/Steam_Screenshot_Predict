@@ -1,0 +1,17 @@
+{
+  "appid": 894270,
+  "success": true,
+  "tags": {
+    "Violent": 34,
+    "Action": 33,
+    "Casual": 33,
+    "Indie": 31,
+    "Strategy": 30,
+    "Puzzle": 15,
+    "Trains": 13,
+    "Sandbox": 10,
+    "Logic": 10,
+    "Simulation": 5,
+    "Gore": 5
+  }
+}

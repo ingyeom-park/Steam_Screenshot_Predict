@@ -1,0 +1,26 @@
+{
+  "appid": 913550,
+  "success": true,
+  "tags": {
+    "Action": 153,
+    "Level Editor": 148,
+    "Platformer": 146,
+    "Action-Adventure": 144,
+    "Adventure": 139,
+    "Puzzle": 132,
+    "Precision Platformer": 129,
+    "Difficult": 129,
+    "Funny": 124,
+    "Psychological Horror": 123,
+    "Indie": 120,
+    "2D Platformer": 116,
+    "Pixel Graphics": 104,
+    "Parkour": 100,
+    "2D": 91,
+    "Singleplayer": 79,
+    "Side Scroller": 73,
+    "Multiplayer": 70,
+    "Local Multiplayer": 66,
+    "Runner": 60
+  }
+}

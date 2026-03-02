@@ -1,0 +1,26 @@
+{
+  "appid": 1514950,
+  "success": true,
+  "tags": {
+    "Racing": 289,
+    "Action": 289,
+    "Indie": 279,
+    "Music": 277,
+    "Arcade": 276,
+    "Atmospheric": 265,
+    "Sci-fi": 261,
+    "Level Editor": 249,
+    "Runner": 239,
+    "Platformer": 229,
+    "Singleplayer": 218,
+    "Driving": 209,
+    "Futuristic": 194,
+    "Abstract": 192,
+    "Fast-Paced": 183,
+    "3D": 165,
+    "Parkour": 145,
+    "Controller": 126,
+    "Surreal": 108,
+    "Psychedelic": 86
+  }
+}

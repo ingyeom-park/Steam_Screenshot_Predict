@@ -1,0 +1,26 @@
+{
+  "appid": 539330,
+  "success": true,
+  "tags": {
+    "JRPG": 236,
+    "Indie": 226,
+    "Anime": 225,
+    "Turn-Based": 220,
+    "Cute": 219,
+    "RPG": 211,
+    "Adventure": 209,
+    "Story Rich": 206,
+    "Post-apocalyptic": 203,
+    "Atmospheric": 200,
+    "Sci-fi": 198,
+    "Singleplayer": 196,
+    "Cyberpunk": 193,
+    "Episodic": 189,
+    "Exploration": 184,
+    "Drama": 180,
+    "Retro": 177,
+    "Turn-Based Strategy": 168,
+    "CRPG": 162,
+    "Tactical RPG": 160
+  }
+}

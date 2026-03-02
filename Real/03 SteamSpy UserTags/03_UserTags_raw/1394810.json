@@ -1,0 +1,26 @@
+{
+  "appid": 1394810,
+  "success": true,
+  "tags": {
+    "Adventure": 262,
+    "Action": 243,
+    "Local Multiplayer": 236,
+    "Anime": 222,
+    "Fighting": 217,
+    "Indie": 217,
+    "Side Scroller": 212,
+    "Beat 'em up": 211,
+    "Colorful": 177,
+    "Funny": 170,
+    "Controller": 168,
+    "Co-op": 157,
+    "2D": 155,
+    "Soundtrack": 130,
+    "Multiple Endings": 125,
+    "Hand-drawn": 109,
+    "Local Co-Op": 92,
+    "Multiplayer": 64,
+    "Co-op Campaign": 55,
+    "Hack and Slash": 27
+  }
+}

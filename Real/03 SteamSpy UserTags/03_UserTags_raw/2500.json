@@ -1,0 +1,26 @@
+{
+  "appid": 2500,
+  "success": true,
+  "tags": {
+    "Top-Down Shooter": 171,
+    "Sci-fi": 165,
+    "Aliens": 161,
+    "Action": 157,
+    "Shooter": 128,
+    "Singleplayer": 123,
+    "Horror": 120,
+    "Top-Down": 120,
+    "Gore": 117,
+    "Isometric": 113,
+    "Adventure": 109,
+    "Twin Stick Shooter": 101,
+    "Indie": 93,
+    "Shoot 'Em Up": 89,
+    "Dark": 88,
+    "PvE": 83,
+    "Local Co-Op": 76,
+    "Combat": 75,
+    "Co-op": 65,
+    "Multiplayer": 39
+  }
+}

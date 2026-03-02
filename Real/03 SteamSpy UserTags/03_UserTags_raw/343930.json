@@ -1,0 +1,26 @@
+{
+  "appid": 343930,
+  "success": true,
+  "tags": {
+    "Tower Defense": 111,
+    "Casual": 99,
+    "Strategy": 96,
+    "RPG": 92,
+    "Indie": 92,
+    "Adventure": 88,
+    "Pirates": 82,
+    "Singleplayer": 78,
+    "Arcade": 67,
+    "Shooter": 65,
+    "Visual Novel": 62,
+    "Exploration": 61,
+    "2D": 59,
+    "Anime": 56,
+    "Isometric": 54,
+    "Tactical": 50,
+    "Female Protagonist": 40,
+    "Co-op": 38,
+    "Sequel": 28,
+    "Remake": 26
+  }
+}

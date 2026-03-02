@@ -1,0 +1,26 @@
+{
+  "appid": 998740,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 214,
+    "Card Game": 211,
+    "Rogue-lite": 193,
+    "Turn-Based": 188,
+    "Difficult": 172,
+    "Rogue-like": 171,
+    "Dark": 155,
+    "Strategy": 147,
+    "RPG": 146,
+    "Stylized": 141,
+    "Lore-Rich": 139,
+    "Dark Fantasy": 133,
+    "Atmospheric": 126,
+    "Horror": 115,
+    "Singleplayer": 107,
+    "Inventory Management": 105,
+    "Indie": 100,
+    "Replay Value": 71,
+    "Mouse only": 69,
+    "Roguelike Deckbuilder": 58
+  }
+}

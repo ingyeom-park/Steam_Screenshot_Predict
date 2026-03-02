@@ -1,0 +1,26 @@
+{
+  "appid": 220460,
+  "success": true,
+  "tags": {
+    "Indie": 148,
+    "Procedural Generation": 143,
+    "Atmospheric": 139,
+    "Rogue-lite": 136,
+    "Platformer": 135,
+    "Action": 128,
+    "Sci-fi": 126,
+    "Score Attack": 124,
+    "Arcade": 119,
+    "Soundtrack": 116,
+    "Action Roguelike": 114,
+    "Funny": 113,
+    "Shooter": 111,
+    "2D Platformer": 101,
+    "Space": 95,
+    "2.5D": 88,
+    "Singleplayer": 78,
+    "Rogue-like": 72,
+    "Casual": 70,
+    "Survival": 56
+  }
+}

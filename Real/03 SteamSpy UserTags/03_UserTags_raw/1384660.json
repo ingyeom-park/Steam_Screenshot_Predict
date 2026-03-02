@@ -1,0 +1,26 @@
+{
+  "appid": 1384660,
+  "success": true,
+  "tags": {
+    "Mini Golf": 117,
+    "Strategy": 111,
+    "Procedural Generation": 108,
+    "Perma Death": 105,
+    "Family Friendly": 102,
+    "Casual": 95,
+    "Sports": 91,
+    "Singleplayer": 89,
+    "Golf": 81,
+    "Physics": 78,
+    "Action": 76,
+    "Simulation": 73,
+    "Arcade": 69,
+    "Local Co-Op": 65,
+    "4 Player Local": 60,
+    "Local Multiplayer": 55,
+    "Indie": 52,
+    "Co-op": 41,
+    "Online Co-Op": 39,
+    "Multiplayer": 31
+  }
+}

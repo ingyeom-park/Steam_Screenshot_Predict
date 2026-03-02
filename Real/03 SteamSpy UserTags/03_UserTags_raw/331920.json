@@ -1,0 +1,26 @@
+{
+  "appid": 331920,
+  "success": true,
+  "tags": {
+    "Simulation": 140,
+    "Management": 136,
+    "Retro": 131,
+    "Economy": 128,
+    "Singleplayer": 124,
+    "Flight": 119,
+    "Indie": 116,
+    "2D": 110,
+    "Multiplayer": 108,
+    "Funny": 102,
+    "Strategy": 100,
+    "Transportation": 99,
+    "RPG": 91,
+    "Point & Click": 88,
+    "Walking Simulator": 79,
+    "FPS": 67,
+    "LEGO": 59,
+    "Old School": 47,
+    "Family Friendly": 37,
+    "Classic": 31
+  }
+}

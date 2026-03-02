@@ -1,0 +1,26 @@
+{
+  "appid": 864060,
+  "success": true,
+  "tags": {
+    "3D Platformer": 128,
+    "Fast-Paced": 122,
+    "Physics": 116,
+    "Arcade": 111,
+    "Racing": 109,
+    "Platformer": 101,
+    "Time Attack": 96,
+    "Action": 89,
+    "Casual": 85,
+    "Colorful": 81,
+    "Singleplayer": 76,
+    "3D": 75,
+    "Abstract": 72,
+    "Surreal": 71,
+    "Level Editor": 70,
+    "Replay Value": 66,
+    "Puzzle-Platformer": 57,
+    "Great Soundtrack": 39,
+    "Puzzle": 33,
+    "Indie": 31
+  }
+}

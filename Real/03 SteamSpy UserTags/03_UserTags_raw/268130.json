@@ -1,0 +1,26 @@
+{
+  "appid": 268130,
+  "success": true,
+  "tags": {
+    "Space": 125,
+    "Stealth": 121,
+    "Indie": 117,
+    "Top-Down": 110,
+    "Rogue-like": 107,
+    "Action": 102,
+    "Strategy": 92,
+    "Sci-fi": 86,
+    "Procedural Generation": 82,
+    "Real-Time with Pause": 79,
+    "Rogue-lite": 76,
+    "Singleplayer": 71,
+    "Adventure": 57,
+    "2D": 49,
+    "Perma Death": 46,
+    "Tactical": 46,
+    "Top-Down Shooter": 44,
+    "Open World": 38,
+    "Bullet Time": 36,
+    "Action Roguelike": 34
+  }
+}

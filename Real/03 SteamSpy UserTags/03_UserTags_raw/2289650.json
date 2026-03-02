@@ -1,0 +1,26 @@
+{
+  "appid": 2289650,
+  "success": true,
+  "tags": {
+    "Simulation": 199,
+    "Strategy": 175,
+    "Flight": 171,
+    "Time Management": 164,
+    "Transportation": 161,
+    "Minimalist": 155,
+    "Jet": 153,
+    "Indie": 151,
+    "Immersive Sim": 149,
+    "Casual": 147,
+    "Management": 126,
+    "2D": 121,
+    "Procedural Generation": 119,
+    "Rogue-like": 117,
+    "Level Editor": 115,
+    "Singleplayer": 113,
+    "Top-Down": 111,
+    "Point & Click": 109,
+    "God Game": 107,
+    "Co-op": 104
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 200900,
+  "success": true,
+  "tags": {
+    "Platformer": 616,
+    "Metroidvania": 563,
+    "Indie": 544,
+    "Great Soundtrack": 476,
+    "Pixel Graphics": 398,
+    "Action": 391,
+    "Adventure": 349,
+    "2D": 328,
+    "Singleplayer": 285,
+    "Retro": 278,
+    "Classic": 264,
+    "Exploration": 200,
+    "Replay Value": 162,
+    "Difficult": 148,
+    "Story Rich": 143,
+    "Shooter": 113,
+    "Remake": 87,
+    "Cute": 82,
+    "Sci-fi": 76,
+    "Anime": 57
+  }
+}

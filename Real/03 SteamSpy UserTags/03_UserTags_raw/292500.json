@@ -1,0 +1,26 @@
+{
+  "appid": 292500,
+  "success": true,
+  "tags": {
+    "Side Scroller": 271,
+    "Shoot 'Em Up": 260,
+    "Platformer": 259,
+    "Difficult": 257,
+    "Shooter": 249,
+    "Arcade": 241,
+    "Silent Protagonist": 235,
+    "2D": 230,
+    "Controller": 218,
+    "Action": 215,
+    "Pixel Graphics": 214,
+    "Fantasy": 199,
+    "Adventure": 194,
+    "Retro": 192,
+    "Singleplayer": 186,
+    "Satire": 183,
+    "Indie": 176,
+    "Great Soundtrack": 96,
+    "Soundtrack": 93,
+    "Classic": 37
+  }
+}

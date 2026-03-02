@@ -1,0 +1,26 @@
+{
+  "appid": 949600,
+  "success": true,
+  "tags": {
+    "Fishing": 147,
+    "RPG": 141,
+    "Simulation": 137,
+    "Procedural Generation": 134,
+    "Relaxing": 128,
+    "Exploration": 119,
+    "Sandbox": 115,
+    "Indie": 113,
+    "Singleplayer": 109,
+    "2D": 103,
+    "Top-Down": 96,
+    "Controller": 92,
+    "Sci-fi": 89,
+    "Story Rich": 83,
+    "Old School": 82,
+    "Open World": 80,
+    "Casual": 77,
+    "Science": 75,
+    "Nature": 63,
+    "Sports": 48
+  }
+}

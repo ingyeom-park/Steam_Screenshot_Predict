@@ -1,0 +1,11 @@
+{
+  "appid": 61100,
+  "success": true,
+  "tags": {
+    "Casual": 42,
+    "Indie": 31,
+    "Puzzle": 24,
+    "Match 3": 11,
+    "Relaxing": 5
+  }
+}

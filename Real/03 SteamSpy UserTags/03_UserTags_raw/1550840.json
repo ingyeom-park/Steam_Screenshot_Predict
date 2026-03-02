@@ -1,0 +1,26 @@
+{
+  "appid": 1550840,
+  "success": true,
+  "tags": {
+    "Horror": 226,
+    "Indie": 219,
+    "2D Platformer": 216,
+    "Difficult": 213,
+    "Puzzle-Platformer": 210,
+    "Blood": 204,
+    "Pixel Graphics": 203,
+    "Multiple Endings": 200,
+    "Lore-Rich": 198,
+    "Story Rich": 196,
+    "Dark Humor": 194,
+    "Singleplayer": 192,
+    "Sci-fi": 189,
+    "Atmospheric": 187,
+    "Linear": 178,
+    "Mystery": 162,
+    "Action": 159,
+    "2D": 157,
+    "Action-Adventure": 155,
+    "Platformer": 153
+  }
+}

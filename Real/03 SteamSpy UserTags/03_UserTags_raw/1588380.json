@@ -1,0 +1,26 @@
+{
+  "appid": 1588380,
+  "success": true,
+  "tags": {
+    "Action": 241,
+    "Adventure": 234,
+    "Metroidvania": 233,
+    "Exploration": 228,
+    "Anime": 225,
+    "Pixel Graphics": 224,
+    "Retro": 218,
+    "Space": 208,
+    "Futuristic": 203,
+    "2D": 196,
+    "Indie": 194,
+    "Singleplayer": 188,
+    "Action-Adventure": 183,
+    "Platformer": 177,
+    "1980s": 163,
+    "1990's": 152,
+    "Old School": 145,
+    "Sci-fi": 139,
+    "Combat": 130,
+    "Drama": 124
+  }
+}

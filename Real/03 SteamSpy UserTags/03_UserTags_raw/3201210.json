@@ -1,0 +1,26 @@
+{
+  "appid": 3201210,
+  "success": true,
+  "tags": {
+    "RPG": 196,
+    "Party-Based RPG": 170,
+    "Action RPG": 166,
+    "Combat": 161,
+    "Female Protagonist": 156,
+    "Strategy RPG": 145,
+    "Puzzle": 138,
+    "Idler": 130,
+    "RTS": 122,
+    "Tactical": 113,
+    "Singleplayer": 102,
+    "Retro": 100,
+    "Dungeon Crawler": 88,
+    "Simulation": 78,
+    "Magic": 73,
+    "Strategy": 62,
+    "3D": 27,
+    "Real Time Tactics": 25,
+    "Indie": 21,
+    "Action": 21
+  }
+}

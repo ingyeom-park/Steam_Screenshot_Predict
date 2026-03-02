@@ -1,0 +1,21 @@
+{
+  "appid": 258010,
+  "success": true,
+  "tags": {
+    "Action": 64,
+    "Indie": 59,
+    "RPG": 57,
+    "Space": 37,
+    "Sci-fi": 34,
+    "Story Rich": 20,
+    "Shooter": 18,
+    "Great Soundtrack": 17,
+    "Multiplayer": 12,
+    "Co-op": 11,
+    "Top-Down": 7,
+    "Flight": 7,
+    "Local Co-Op": 6,
+    "2D": 6,
+    "Shoot 'Em Up": 6
+  }
+}

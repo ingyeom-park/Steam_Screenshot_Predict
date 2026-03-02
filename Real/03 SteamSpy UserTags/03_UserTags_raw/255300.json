@@ -1,0 +1,19 @@
+{
+  "appid": 255300,
+  "success": true,
+  "tags": {
+    "Adventure": 103,
+    "Indie": 67,
+    "Point & Click": 64,
+    "Puzzle": 42,
+    "Comedy": 32,
+    "Singleplayer": 27,
+    "Post-apocalyptic": 23,
+    "Short": 23,
+    "Casual": 10,
+    "Cute": 8,
+    "Controller": 8,
+    "Funny": 5,
+    "Escape Room": 5
+  }
+}

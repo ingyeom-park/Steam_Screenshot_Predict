@@ -1,0 +1,26 @@
+{
+  "appid": 1229460,
+  "success": true,
+  "tags": {
+    "City Builder": 215,
+    "Survival": 202,
+    "Strategy": 198,
+    "Rogue-like": 188,
+    "Real-Time": 186,
+    "RTS": 176,
+    "Board Game": 173,
+    "Indie": 169,
+    "Colony Sim": 167,
+    "Rogue-lite": 165,
+    "Management": 161,
+    "Colorful": 149,
+    "Atmospheric": 144,
+    "Resource Management": 144,
+    "Procedural Generation": 132,
+    "Base-Building": 126,
+    "Medieval": 121,
+    "Building": 115,
+    "Crafting": 111,
+    "Exploration": 105
+  }
+}

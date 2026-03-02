@@ -1,0 +1,26 @@
+{
+  "appid": 2707300,
+  "success": true,
+  "tags": {
+    "Puzzle": 168,
+    "Arcade": 162,
+    "Casual": 159,
+    "Colorful": 156,
+    "Family Friendly": 153,
+    "Singleplayer": 145,
+    "Pixel Graphics": 143,
+    "Physics": 136,
+    "Relaxing": 134,
+    "Score Attack": 129,
+    "Simulation": 125,
+    "Stylized": 118,
+    "Atmospheric": 109,
+    "Cute": 105,
+    "Retro": 94,
+    "2D": 85,
+    "Controller": 78,
+    "Replay Value": 69,
+    "Indie": 51,
+    "Space": 29
+  }
+}

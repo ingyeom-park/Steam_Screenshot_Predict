@@ -1,0 +1,26 @@
+{
+  "appid": 48720,
+  "success": true,
+  "tags": {
+    "RPG": 309,
+    "Open World": 258,
+    "Medieval": 256,
+    "Action": 225,
+    "Strategy": 200,
+    "Historical": 182,
+    "Multiplayer": 175,
+    "War": 168,
+    "Sandbox": 146,
+    "Singleplayer": 144,
+    "Third Person": 119,
+    "Adventure": 114,
+    "Character Customization": 105,
+    "First-Person": 85,
+    "Horses": 80,
+    "Moddable": 78,
+    "Simulation": 73,
+    "Action RPG": 63,
+    "Based On A Novel": 53,
+    "Indie": 41
+  }
+}

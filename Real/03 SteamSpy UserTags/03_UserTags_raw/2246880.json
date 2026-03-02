@@ -1,0 +1,26 @@
+{
+  "appid": 2246880,
+  "success": true,
+  "tags": {
+    "Violent": 197,
+    "Sandbox": 188,
+    "Physics": 163,
+    "Gore": 150,
+    "Action": 127,
+    "3D": 116,
+    "Blood": 108,
+    "Casual": 106,
+    "Singleplayer": 98,
+    "Memes": 79,
+    "Combat": 76,
+    "Bullet Time": 74,
+    "Dark Humor": 72,
+    "Indie": 69,
+    "Futuristic": 61,
+    "Funny": 50,
+    "Moddable": 50,
+    "Colorful": 46,
+    "First-Person": 45,
+    "Psychedelic": 44
+  }
+}

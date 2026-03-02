@@ -1,0 +1,26 @@
+{
+  "appid": 3107330,
+  "success": true,
+  "tags": {
+    "Casual": 252,
+    "Clicker": 240,
+    "Strategy": 238,
+    "Idler": 227,
+    "Simulation": 222,
+    "Arcade": 196,
+    "Management": 186,
+    "2D": 180,
+    "Experimental": 165,
+    "Relaxing": 156,
+    "Abstract": 155,
+    "Minimalist": 140,
+    "Colorful": 134,
+    "Hacking": 113,
+    "Retro": 103,
+    "Pixel Graphics": 98,
+    "Indie": 58,
+    "Artificial Intelligence": 58,
+    "Singleplayer": 48,
+    "Futuristic": 45
+  }
+}

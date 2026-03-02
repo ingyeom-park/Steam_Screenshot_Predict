@@ -1,0 +1,25 @@
+{
+  "appid": 1701330,
+  "success": true,
+  "tags": {
+    "Puzzle": 146,
+    "Logic": 136,
+    "Science": 129,
+    "Grid-Based Movement": 123,
+    "Abstract": 118,
+    "2D": 112,
+    "Controller": 110,
+    "Indie": 106,
+    "Sequel": 102,
+    "Minimalist": 100,
+    "Singleplayer": 95,
+    "Casual": 89,
+    "Sokoban": 85,
+    "Family Friendly": 83,
+    "Automation": 40,
+    "Education": 29,
+    "Colorful": 27,
+    "Ambient": 25,
+    "Relaxing": 23
+  }
+}

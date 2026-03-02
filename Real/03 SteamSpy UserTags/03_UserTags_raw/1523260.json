@@ -1,0 +1,26 @@
+{
+  "appid": 1523260,
+  "success": true,
+  "tags": {
+    "Turn-Based Strategy": 221,
+    "Turn-Based Tactics": 218,
+    "RPG": 206,
+    "Strategy RPG": 204,
+    "Strategy": 201,
+    "Action RPG": 195,
+    "Action-Adventure": 189,
+    "Story Rich": 167,
+    "3D": 167,
+    "Turn-Based Combat": 162,
+    "Simulation": 137,
+    "Fantasy": 135,
+    "Colorful": 126,
+    "Sci-fi": 109,
+    "Drama": 105,
+    "Adventure": 98,
+    "Futuristic": 61,
+    "Indie": 56,
+    "Combat": 44,
+    "Singleplayer": 26
+  }
+}

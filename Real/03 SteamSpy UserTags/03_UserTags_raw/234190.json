@@ -1,0 +1,26 @@
+{
+  "appid": 234190,
+  "success": true,
+  "tags": {
+    "Simulation": 245,
+    "FPS": 240,
+    "Indie": 217,
+    "Rogue-like": 165,
+    "First-Person": 159,
+    "Action": 154,
+    "Procedural Generation": 140,
+    "Difficult": 137,
+    "Singleplayer": 94,
+    "Shooter": 90,
+    "Realistic": 88,
+    "Abstract": 54,
+    "Horror": 47,
+    "Tactical": 44,
+    "Perma Death": 43,
+    "Atmospheric": 37,
+    "Stealth": 30,
+    "Cyberpunk": 30,
+    "Sci-fi": 25,
+    "Survival Horror": 18
+  }
+}

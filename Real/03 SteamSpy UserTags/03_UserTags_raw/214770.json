@@ -1,0 +1,26 @@
+{
+  "appid": 214770,
+  "success": true,
+  "tags": {
+    "Metroidvania": 460,
+    "Platformer": 408,
+    "Action": 313,
+    "Indie": 295,
+    "Beat 'em up": 254,
+    "Local Co-Op": 246,
+    "2D": 205,
+    "Adventure": 202,
+    "Comedy": 158,
+    "Memes": 123,
+    "Colorful": 116,
+    "Funny": 102,
+    "Fighting": 74,
+    "Great Soundtrack": 67,
+    "Exploration": 64,
+    "Co-op": 64,
+    "Singleplayer": 58,
+    "Controller": 45,
+    "Side Scroller": 38,
+    "Local Multiplayer": 33
+  }
+}

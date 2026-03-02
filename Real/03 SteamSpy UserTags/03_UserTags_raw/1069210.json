@@ -1,0 +1,26 @@
+{
+  "appid": 1069210,
+  "success": true,
+  "tags": {
+    "Gore": 192,
+    "Violent": 187,
+    "Horror": 182,
+    "First-Person": 181,
+    "Psychological Horror": 176,
+    "Dark": 171,
+    "Mature": 168,
+    "Adventure": 167,
+    "Walking Simulator": 163,
+    "Psychological": 155,
+    "Action": 151,
+    "Action-Adventure": 144,
+    "Atmospheric": 142,
+    "Puzzle": 140,
+    "3D": 137,
+    "Singleplayer": 134,
+    "Story Rich": 130,
+    "Indie": 114,
+    "Female Protagonist": 98,
+    "Local Multiplayer": 86
+  }
+}

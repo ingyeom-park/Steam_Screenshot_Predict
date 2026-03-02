@@ -1,0 +1,26 @@
+{
+  "appid": 1595710,
+  "success": true,
+  "tags": {
+    "Horror": 133,
+    "Online Co-Op": 116,
+    "Co-op": 103,
+    "Multiplayer": 100,
+    "Survival Horror": 92,
+    "Indie": 86,
+    "Action": 83,
+    "Gore": 82,
+    "Psychological Horror": 76,
+    "First-Person": 72,
+    "Thriller": 68,
+    "Difficult": 65,
+    "Singleplayer": 61,
+    "Violent": 58,
+    "Mystery": 52,
+    "Demons": 50,
+    "PvE": 46,
+    "Shooter": 41,
+    "FPS": 38,
+    "Controller": 35
+  }
+}

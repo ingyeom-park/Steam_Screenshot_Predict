@@ -1,0 +1,26 @@
+{
+  "appid": 1256060,
+  "success": true,
+  "tags": {
+    "VR": 149,
+    "Survival Horror": 143,
+    "Sci-fi": 139,
+    "Atmospheric": 135,
+    "Perma Death": 132,
+    "Survival": 126,
+    "Horror": 123,
+    "Action": 118,
+    "Adventure": 109,
+    "Rogue-like": 106,
+    "Procedural Generation": 103,
+    "Gore": 99,
+    "Space": 90,
+    "Singleplayer": 79,
+    "Immersive": 75,
+    "Rogue-lite": 67,
+    "Difficult": 59,
+    "Indie": 52,
+    "Strategy": 30,
+    "Real-Time": 28
+  }
+}

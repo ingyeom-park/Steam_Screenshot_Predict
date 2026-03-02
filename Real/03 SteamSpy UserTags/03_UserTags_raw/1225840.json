@@ -1,0 +1,26 @@
+{
+  "appid": 1225840,
+  "success": true,
+  "tags": {
+    "Rhythm": 123,
+    "Platformer": 117,
+    "1990's": 114,
+    "Level Editor": 111,
+    "Music": 108,
+    "Retro": 102,
+    "Minimalist": 100,
+    "2D Platformer": 97,
+    "2D": 93,
+    "Action": 83,
+    "Singleplayer": 75,
+    "Tutorial": 70,
+    "Online Co-Op": 66,
+    "Indie": 62,
+    "Dog": 55,
+    "Controller": 52,
+    "Conversation": 50,
+    "Fishing": 46,
+    "Arcade": 43,
+    "Multiple Endings": 40
+  }
+}

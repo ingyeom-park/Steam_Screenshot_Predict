@@ -1,0 +1,26 @@
+{
+  "appid": 1477950,
+  "success": true,
+  "tags": {
+    "Clicker": 164,
+    "Idler": 159,
+    "Auto Battler": 153,
+    "RTS": 149,
+    "Strategy": 146,
+    "RPG": 140,
+    "2D": 139,
+    "Base-Building": 138,
+    "Casual": 135,
+    "Pixel Graphics": 128,
+    "Space": 125,
+    "Sci-fi": 118,
+    "Management": 112,
+    "Moddable": 111,
+    "Building": 100,
+    "Aliens": 89,
+    "Combat": 84,
+    "Singleplayer": 80,
+    "Indie": 71,
+    "Early Access": 26
+  }
+}

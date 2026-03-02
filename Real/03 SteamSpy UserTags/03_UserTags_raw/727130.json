@@ -1,0 +1,26 @@
+{
+  "appid": 727130,
+  "success": true,
+  "tags": {
+    "Space": 107,
+    "RPG": 100,
+    "Action": 92,
+    "Simulation": 92,
+    "Indie": 87,
+    "Strategy": 80,
+    "Adventure": 73,
+    "Space Sim": 69,
+    "Singleplayer": 61,
+    "Sci-fi": 60,
+    "Sandbox": 49,
+    "Early Access": 36,
+    "Open World": 36,
+    "Rogue-lite": 36,
+    "3D": 33,
+    "Tactical RPG": 32,
+    "Survival": 23,
+    "Rogue-like": 23,
+    "Flight": 23,
+    "Exploration": 22
+  }
+}

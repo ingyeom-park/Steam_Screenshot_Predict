@@ -1,0 +1,26 @@
+{
+  "appid": 107200,
+  "success": true,
+  "tags": {
+    "Space": 263,
+    "Action": 181,
+    "Indie": 165,
+    "Sci-fi": 149,
+    "Top-Down": 143,
+    "Strategy": 136,
+    "RPG": 127,
+    "Zombies": 115,
+    "Singleplayer": 110,
+    "Procedural Generation": 106,
+    "2D": 103,
+    "Open World": 96,
+    "Pirates": 89,
+    "Exploration": 81,
+    "Shooter": 69,
+    "Sandbox": 62,
+    "Addictive": 32,
+    "Gore": 19,
+    "Adventure": 18,
+    "Spaceships": 13
+  }
+}

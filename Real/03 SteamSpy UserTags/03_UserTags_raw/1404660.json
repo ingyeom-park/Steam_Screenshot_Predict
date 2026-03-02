@@ -1,0 +1,26 @@
+{
+  "appid": 1404660,
+  "success": true,
+  "tags": {
+    "Horror": 147,
+    "Psychological Horror": 141,
+    "Thriller": 138,
+    "Atmospheric": 133,
+    "Adventure": 130,
+    "Crime": 122,
+    "Action-Adventure": 119,
+    "Exploration": 119,
+    "Emotional": 114,
+    "Dark": 110,
+    "Dynamic Narration": 108,
+    "Puzzle": 106,
+    "Realistic": 103,
+    "Interactive Fiction": 100,
+    "Survival Horror": 90,
+    "Action": 83,
+    "Singleplayer": 75,
+    "Indie": 71,
+    "First-Person": 68,
+    "3D": 58
+  }
+}

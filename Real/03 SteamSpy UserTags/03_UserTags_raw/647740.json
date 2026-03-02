@@ -1,0 +1,26 @@
+{
+  "appid": 647740,
+  "success": true,
+  "tags": {
+    "Action": 118,
+    "Indie": 113,
+    "Strategy": 109,
+    "Building": 105,
+    "Online Co-Op": 102,
+    "Multiplayer": 96,
+    "Steampunk": 94,
+    "Vehicular Combat": 92,
+    "Flight": 87,
+    "Sandbox": 83,
+    "PvP": 76,
+    "PvE": 69,
+    "Co-op": 64,
+    "First-Person": 63,
+    "Crafting": 57,
+    "Open World": 53,
+    "Team-Based": 49,
+    "FPS": 47,
+    "Base-Building": 45,
+    "Shooter": 42
+  }
+}

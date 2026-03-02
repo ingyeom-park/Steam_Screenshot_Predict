@@ -1,0 +1,26 @@
+{
+  "appid": 302970,
+  "success": true,
+  "tags": {
+    "Strategy": 118,
+    "Tower Defense": 112,
+    "Indie": 109,
+    "Casual": 106,
+    "Colorful": 102,
+    "2D": 95,
+    "Space": 93,
+    "Difficult": 90,
+    "Action": 83,
+    "Simulation": 77,
+    "Real Time Tactics": 72,
+    "Wargame": 66,
+    "2.5D": 60,
+    "Cartoon": 56,
+    "Hand-drawn": 52,
+    "Pixel Graphics": 48,
+    "Psychedelic": 45,
+    "Sci-fi": 40,
+    "Aliens": 38,
+    "Lemmings": 36
+  }
+}

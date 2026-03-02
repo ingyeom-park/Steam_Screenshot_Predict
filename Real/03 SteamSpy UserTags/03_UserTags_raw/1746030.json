@@ -1,0 +1,26 @@
+{
+  "appid": 1746030,
+  "success": true,
+  "tags": {
+    "Detective": 130,
+    "Adventure": 128,
+    "Puzzle": 125,
+    "Story Rich": 115,
+    "Indie": 113,
+    "Exploration": 89,
+    "Mystery": 86,
+    "Drama": 84,
+    "Puzzle-Platformer": 84,
+    "Investigation": 74,
+    "Logic": 71,
+    "Historical": 70,
+    "Lore-Rich": 63,
+    "RPG": 60,
+    "Singleplayer": 39,
+    "Text-Based": 36,
+    "Old School": 28,
+    "2D": 27,
+    "First-Person": 27,
+    "Colorful": 26
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 606800,
+  "success": true,
+  "tags": {
+    "Management": 350,
+    "Simulation": 304,
+    "Economy": 226,
+    "Strategy": 201,
+    "Indie": 141,
+    "Casual": 118,
+    "Sandbox": 102,
+    "Building": 98,
+    "Singleplayer": 87,
+    "Early Access": 68,
+    "Crafting": 64,
+    "Moddable": 59,
+    "Real-Time with Pause": 56,
+    "Isometric": 40,
+    "Resource Management": 38,
+    "Clicker": 25,
+    "Family Friendly": 21,
+    "Capitalism": 18,
+    "Great Soundtrack": 16,
+    "Base-Building": 14
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 837400,
+  "success": true,
+  "tags": {
+    "Board Game": 156,
+    "Tabletop": 147,
+    "Simulation": 144,
+    "Indie": 140,
+    "RPG": 135,
+    "Card Game": 127,
+    "Sandbox": 120,
+    "Multiplayer": 117,
+    "Co-op": 115,
+    "Replay Value": 112,
+    "Fantasy": 110,
+    "Physics": 104,
+    "Dungeon Crawler": 99,
+    "Dark Fantasy": 96,
+    "Turn-Based": 94,
+    "CRPG": 91,
+    "3D": 87,
+    "Top-Down": 85,
+    "Beautiful": 83,
+    "Rogue-lite": 79
+  }
+}

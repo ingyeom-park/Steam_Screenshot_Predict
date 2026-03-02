@@ -1,0 +1,26 @@
+{
+  "appid": 435100,
+  "success": true,
+  "tags": {
+    "Indie": 177,
+    "Horror": 177,
+    "Stealth": 173,
+    "Survival Horror": 164,
+    "Strategy": 158,
+    "Puzzle": 152,
+    "Action": 146,
+    "Top-Down": 144,
+    "Psychological Horror": 136,
+    "Exploration": 132,
+    "Singleplayer": 127,
+    "Psychedelic": 114,
+    "Stylized": 112,
+    "2D": 103,
+    "Isometric": 101,
+    "Pixel Graphics": 92,
+    "Third Person": 90,
+    "Voxel": 89,
+    "Adventure": 66,
+    "Dark": 35
+  }
+}

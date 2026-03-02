@@ -1,0 +1,26 @@
+{
+  "appid": 386880,
+  "success": true,
+  "tags": {
+    "Horror": 389,
+    "Multiplayer": 289,
+    "Survival Horror": 248,
+    "Survival": 208,
+    "First-Person": 197,
+    "Hunting": 190,
+    "Open World": 172,
+    "Action": 142,
+    "Indie": 132,
+    "Adventure": 121,
+    "Co-op": 120,
+    "Atmospheric": 103,
+    "Singleplayer": 98,
+    "Simulation": 90,
+    "Shooter": 61,
+    "FPS": 61,
+    "Gore": 54,
+    "Supernatural": 50,
+    "Online Co-Op": 46,
+    "Funny": 34
+  }
+}

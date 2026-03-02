@@ -1,0 +1,26 @@
+{
+  "appid": 1742590,
+  "success": true,
+  "tags": {
+    "Exploration": 126,
+    "Hidden Object": 118,
+    "Point & Click": 116,
+    "First-Person": 115,
+    "VR": 112,
+    "Post-apocalyptic": 101,
+    "Cyberpunk": 99,
+    "Detective": 97,
+    "Story Rich": 95,
+    "Narration": 93,
+    "Controller": 91,
+    "Sci-fi": 89,
+    "Investigation": 87,
+    "Adventure": 85,
+    "Casual": 70,
+    "Indie": 54,
+    "Mystery": 33,
+    "Singleplayer": 31,
+    "Puzzle": 30,
+    "Walking Simulator": 27
+  }
+}

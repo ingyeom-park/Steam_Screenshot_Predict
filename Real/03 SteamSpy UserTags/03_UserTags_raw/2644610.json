@@ -1,0 +1,25 @@
+{
+  "appid": 2644610,
+  "success": true,
+  "tags": {
+    "Roguelike Deckbuilder": 114,
+    "Lovecraftian": 113,
+    "Deckbuilding": 104,
+    "Rogue-like": 104,
+    "Card Battler": 100,
+    "Dark": 87,
+    "Indie": 83,
+    "Card Game": 83,
+    "Rogue-lite": 79,
+    "Adventure": 77,
+    "Strategy": 75,
+    "Noir": 73,
+    "Comic Book": 68,
+    "PvE": 67,
+    "Horror": 67,
+    "Base-Building": 54,
+    "Singleplayer": 53,
+    "Atmospheric": 52,
+    "Simulation": 47
+  }
+}

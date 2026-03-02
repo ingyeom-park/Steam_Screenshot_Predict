@@ -1,0 +1,26 @@
+{
+  "appid": 1278540,
+  "success": true,
+  "tags": {
+    "Strategy": 71,
+    "Management": 67,
+    "Card Battler": 66,
+    "Simulation": 61,
+    "Turn-Based Tactics": 55,
+    "e-sports": 50,
+    "Card Game": 46,
+    "Indie": 44,
+    "Character Customization": 43,
+    "Deckbuilding": 33,
+    "Casual": 32,
+    "Voxel": 31,
+    "Tactical": 30,
+    "Singleplayer": 28,
+    "RPG": 27,
+    "Sports": 22,
+    "3D": 16,
+    "Auto Battler": 15,
+    "Cartoon": 13,
+    "Turn-Based Strategy": 11
+  }
+}

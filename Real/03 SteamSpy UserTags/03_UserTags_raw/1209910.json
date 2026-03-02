@@ -1,0 +1,23 @@
+{
+  "appid": 1209910,
+  "success": true,
+  "tags": {
+    "Simulation": 105,
+    "Atmospheric": 100,
+    "Experience": 96,
+    "Immersive": 92,
+    "Indie": 89,
+    "Adventure": 82,
+    "Action": 62,
+    "Casual": 58,
+    "First-Person": 52,
+    "3D": 49,
+    "Singleplayer": 47,
+    "Walking Simulator": 40,
+    "Historical": 34,
+    "Realistic": 31,
+    "Free to Play": 28,
+    "Exploration": 27,
+    "Immersive Sim": 23
+  }
+}

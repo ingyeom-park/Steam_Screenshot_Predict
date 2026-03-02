@@ -1,0 +1,26 @@
+{
+  "appid": 1120360,
+  "success": true,
+  "tags": {
+    "Adventure": 175,
+    "Casual": 168,
+    "Indie": 164,
+    "RPG": 163,
+    "RPGMaker": 163,
+    "Horror": 162,
+    "Psychological Horror": 159,
+    "Female Protagonist": 153,
+    "Anime": 153,
+    "Gore": 151,
+    "Cute": 137,
+    "Pixel Graphics": 132,
+    "Story Rich": 116,
+    "Puzzle": 100,
+    "Free to Play": 98,
+    "Interactive Fiction": 96,
+    "JRPG": 93,
+    "Survival Horror": 92,
+    "Dungeon Crawler": 79,
+    "LGBTQ+": 75
+  }
+}

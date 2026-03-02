@@ -1,0 +1,26 @@
+{
+  "appid": 259530,
+  "success": true,
+  "tags": {
+    "Action": 125,
+    "Indie": 111,
+    "Great Soundtrack": 109,
+    "Music": 102,
+    "Shoot 'Em Up": 93,
+    "Fast-Paced": 85,
+    "Score Attack": 64,
+    "Bullet Hell": 54,
+    "Arcade": 52,
+    "Short": 52,
+    "Replay Value": 47,
+    "2D": 38,
+    "Singleplayer": 35,
+    "Difficult": 30,
+    "Platformer": 25,
+    "Pixel Graphics": 23,
+    "Retro": 18,
+    "GameMaker": 16,
+    "Controller": 8,
+    "Casual": 7
+  }
+}

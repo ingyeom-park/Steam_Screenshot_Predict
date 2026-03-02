@@ -1,0 +1,26 @@
+{
+  "appid": 1489590,
+  "success": true,
+  "tags": {
+    "Adventure": 780,
+    "Singleplayer": 775,
+    "Indie": 753,
+    "8-bit Music": 723,
+    "Exploration": 711,
+    "Side Scroller": 693,
+    "Metroidvania": 592,
+    "Action-Adventure": 577,
+    "2D Platformer": 551,
+    "Platformer": 547,
+    "Action": 544,
+    "2D": 538,
+    "Story Rich": 533,
+    "Shooter": 529,
+    "Souls-like": 526,
+    "Hidden Object": 520,
+    "Nonlinear": 520,
+    "Pixel Graphics": 507,
+    "Sci-fi": 500,
+    "Precision Platformer": 489
+  }
+}

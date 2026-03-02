@@ -1,0 +1,24 @@
+{
+  "appid": 1111080,
+  "success": true,
+  "tags": {
+    "Indie": 133,
+    "Adventure": 127,
+    "Puzzle": 124,
+    "Immersive Sim": 120,
+    "2D": 117,
+    "Horror": 112,
+    "Atmospheric": 109,
+    "Surreal": 107,
+    "Narration": 104,
+    "Story Rich": 102,
+    "Singleplayer": 98,
+    "Retro": 97,
+    "Action": 83,
+    "Drama": 70,
+    "Abstract": 67,
+    "First-Person": 54,
+    "Mystery": 40,
+    "Sexual Content": 29
+  }
+}

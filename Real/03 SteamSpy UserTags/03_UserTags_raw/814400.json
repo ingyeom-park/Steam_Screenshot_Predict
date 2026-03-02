@@ -1,0 +1,26 @@
+{
+  "appid": 814400,
+  "success": true,
+  "tags": {
+    "Action": 36,
+    "Strategy": 36,
+    "VR": 34,
+    "Adventure": 34,
+    "Casual": 32,
+    "Indie": 32,
+    "Pirates": 31,
+    "Simulation": 30,
+    "Naval": 17,
+    "Fantasy": 14,
+    "First-Person": 14,
+    "Multiplayer": 14,
+    "Survival": 13,
+    "Singleplayer": 13,
+    "Arcade": 12,
+    "Shooter": 12,
+    "PvP": 11,
+    "FPS": 10,
+    "Online Co-Op": 10,
+    "Co-op Campaign": 10
+  }
+}

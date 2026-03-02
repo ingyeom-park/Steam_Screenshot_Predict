@@ -1,0 +1,23 @@
+{
+  "appid": 857180,
+  "success": true,
+  "tags": {
+    "Casual": 95,
+    "Simulation": 89,
+    "Indie": 86,
+    "Time Management": 82,
+    "VR": 78,
+    "PvP": 71,
+    "Cooking": 68,
+    "Management": 64,
+    "3D": 63,
+    "Cartoon": 61,
+    "Cute": 59,
+    "6DOF": 57,
+    "Multiplayer": 55,
+    "Singleplayer": 53,
+    "Co-op": 30,
+    "Early Access": 30,
+    "Massively Multiplayer": 26
+  }
+}

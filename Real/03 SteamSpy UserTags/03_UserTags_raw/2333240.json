@@ -1,0 +1,26 @@
+{
+  "appid": 2333240,
+  "success": true,
+  "tags": {
+    "Puzzle": 118,
+    "Logic": 112,
+    "Difficult": 106,
+    "Procedural Generation": 102,
+    "PvP": 100,
+    "Cozy": 95,
+    "Relaxing": 93,
+    "Family Friendly": 86,
+    "Replay Value": 83,
+    "Touch-Friendly": 82,
+    "Short": 79,
+    "Indie": 78,
+    "2D": 66,
+    "3D": 62,
+    "Isometric": 61,
+    "Detective": 58,
+    "Linear": 57,
+    "Casual": 56,
+    "Cartoony": 33,
+    "Hand-drawn": 32
+  }
+}

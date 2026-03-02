@@ -1,0 +1,26 @@
+{
+  "appid": 2672060,
+  "success": true,
+  "tags": {
+    "Simulation": 274,
+    "Adventure": 260,
+    "Horror": 251,
+    "Puzzle": 248,
+    "Anime": 245,
+    "Visual Novel": 238,
+    "Mystery": 233,
+    "Drama": 226,
+    "Indie": 216,
+    "Exploration": 201,
+    "RPG": 198,
+    "Text-Based": 194,
+    "Psychological Horror": 191,
+    "Story Rich": 187,
+    "Thriller": 185,
+    "Detective": 178,
+    "Multiple Endings": 171,
+    "Choices Matter": 168,
+    "Side Scroller": 165,
+    "Emotional": 164
+  }
+}

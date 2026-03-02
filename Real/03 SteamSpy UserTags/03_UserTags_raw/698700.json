@@ -1,0 +1,26 @@
+{
+  "appid": 698700,
+  "success": true,
+  "tags": {
+    "RPG": 138,
+    "JRPG": 134,
+    "Fantasy": 129,
+    "2D": 124,
+    "Story Rich": 121,
+    "Pixel Graphics": 119,
+    "Anime": 112,
+    "Party-Based RPG": 110,
+    "Turn-Based Combat": 105,
+    "Indie": 104,
+    "Team-Based": 93,
+    "Exploration": 91,
+    "Military": 87,
+    "War": 85,
+    "Pirates": 81,
+    "Drama": 75,
+    "Character Customization": 65,
+    "Singleplayer": 63,
+    "Adventure": 58,
+    "RPGMaker": 56
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 931500,
+  "success": true,
+  "tags": {
+    "RPG": 137,
+    "Adventure": 106,
+    "Indie": 104,
+    "Faith": 82,
+    "Rogue-like": 82,
+    "Mystery Dungeon": 75,
+    "Anime": 65,
+    "Female Protagonist": 58,
+    "Cute": 39,
+    "Dungeon Crawler": 32,
+    "Singleplayer": 32,
+    "Great Soundtrack": 29,
+    "Fantasy": 20,
+    "JRPG": 18,
+    "Turn-Based": 11,
+    "Visual Novel": 10,
+    "2D": 10,
+    "Sexual Content": 7,
+    "Difficult": 6,
+    "Psychological Horror": 5
+  }
+}

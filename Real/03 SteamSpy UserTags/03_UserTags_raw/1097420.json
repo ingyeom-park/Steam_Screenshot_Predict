@@ -1,0 +1,15 @@
+{
+  "appid": 1097420,
+  "success": true,
+  "tags": {
+    "Casual": 64,
+    "Adventure": 62,
+    "RPG": 62,
+    "Strategy": 56,
+    "Indie": 55,
+    "Simulation": 52,
+    "Idler": 42,
+    "Pixel Graphics": 34,
+    "Clicker": 18
+  }
+}

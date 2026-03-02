@@ -1,0 +1,26 @@
+{
+  "appid": 319450,
+  "success": true,
+  "tags": {
+    "Adventure": 161,
+    "Indie": 155,
+    "Local Co-Op": 113,
+    "Platformer": 101,
+    "Local Multiplayer": 101,
+    "Co-op": 98,
+    "Physics": 94,
+    "Puzzle-Platformer": 91,
+    "Controller": 88,
+    "Puzzle": 88,
+    "Side Scroller": 80,
+    "Singleplayer": 77,
+    "2D": 76,
+    "Multiplayer": 74,
+    "Casual": 72,
+    "Arcade": 67,
+    "Exploration": 65,
+    "Metroidvania": 57,
+    "Fantasy": 55,
+    "Funny": 47
+  }
+}

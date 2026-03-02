@@ -1,0 +1,26 @@
+{
+  "appid": 1699860,
+  "success": true,
+  "tags": {
+    "Multiplayer": 180,
+    "Parkour": 175,
+    "Precision Platformer": 174,
+    "Runner": 164,
+    "FPS": 164,
+    "Competitive": 160,
+    "PvP": 156,
+    "Sports": 147,
+    "3D Platformer": 146,
+    "Character Customization": 142,
+    "Difficult": 137,
+    "Platformer": 130,
+    "3D": 117,
+    "First-Person": 110,
+    "Controller": 100,
+    "Action": 87,
+    "Tactical": 73,
+    "Physics": 64,
+    "Fast-Paced": 63,
+    "Indie": 49
+  }
+}

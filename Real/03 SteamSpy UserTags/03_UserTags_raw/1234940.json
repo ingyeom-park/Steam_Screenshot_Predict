@@ -1,0 +1,15 @@
+{
+  "appid": 1234940,
+  "success": true,
+  "tags": {
+    "Strategy": 32,
+    "Indie": 32,
+    "Auto Battler": 30,
+    "RPG": 30,
+    "Casual": 23,
+    "Rogue-like": 19,
+    "Party-Based RPG": 14,
+    "Pixel Graphics": 8,
+    "Rogue-lite": 7
+  }
+}

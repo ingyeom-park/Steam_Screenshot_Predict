@@ -1,0 +1,26 @@
+{
+  "appid": 231160,
+  "success": true,
+  "tags": {
+    "Puzzle": 470,
+    "Sci-fi": 358,
+    "Atmospheric": 310,
+    "Indie": 274,
+    "Space": 268,
+    "Platformer": 214,
+    "Puzzle-Platformer": 184,
+    "Singleplayer": 164,
+    "Adventure": 150,
+    "Philosophical": 118,
+    "Great Soundtrack": 117,
+    "2D": 111,
+    "Psychological Horror": 99,
+    "Metroidvania": 87,
+    "Mystery": 63,
+    "Exploration": 62,
+    "Story Rich": 57,
+    "Action": 54,
+    "Side Scroller": 42,
+    "Difficult": 31
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2394650,
+  "success": true,
+  "tags": {
+    "Metroidvania": 123,
+    "Adventure": 122,
+    "Action": 117,
+    "Exploration": 114,
+    "Atmospheric": 113,
+    "Cute": 106,
+    "Indie": 99,
+    "Action RPG": 91,
+    "Action-Adventure": 88,
+    "Story Rich": 88,
+    "Cats": 84,
+    "Platformer": 83,
+    "Hand-drawn": 79,
+    "Funny": 76,
+    "Nonlinear": 73,
+    "Colorful": 71,
+    "Dungeon Crawler": 66,
+    "Puzzle": 61,
+    "RPG": 49,
+    "Singleplayer": 47
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1438480,
+  "success": true,
+  "tags": {
+    "2D Platformer": 145,
+    "Indie": 139,
+    "Action-Adventure": 136,
+    "Dark Fantasy": 132,
+    "Hand-drawn": 127,
+    "Story Rich": 121,
+    "Puzzle-Platformer": 117,
+    "Hack and Slash": 115,
+    "Stylized": 112,
+    "Atmospheric": 106,
+    "Narration": 100,
+    "Surreal": 98,
+    "Conversation": 94,
+    "Adventure": 91,
+    "Platformer": 90,
+    "Controller": 85,
+    "Multiple Endings": 75,
+    "2D": 73,
+    "Action": 65,
+    "Comic Book": 60
+  }
+}

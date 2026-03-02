@@ -1,0 +1,26 @@
+{
+  "appid": 2100790,
+  "success": true,
+  "tags": {
+    "Adventure": 221,
+    "Indie": 209,
+    "Dark Comedy": 189,
+    "Comedy": 182,
+    "Dark": 175,
+    "Relaxing": 164,
+    "Mystery": 158,
+    "Funny": 154,
+    "Singleplayer": 145,
+    "Psychological Horror": 140,
+    "Surreal": 128,
+    "Horror": 119,
+    "Story Rich": 106,
+    "Cooking": 91,
+    "Design & Illustration": 77,
+    "Puzzle": 63,
+    "Retro": 46,
+    "Point & Click": 27,
+    "Pixel Graphics": 25,
+    "Nudity": 22
+  }
+}

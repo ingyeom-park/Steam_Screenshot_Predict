@@ -1,0 +1,26 @@
+{
+  "appid": 1045580,
+  "success": true,
+  "tags": {
+    "Precision Platformer": 296,
+    "Puzzle-Platformer": 289,
+    "Physics": 287,
+    "2D": 283,
+    "Indie": 280,
+    "Platformer": 272,
+    "Difficult": 270,
+    "Arcade": 261,
+    "Casual": 253,
+    "Family Friendly": 252,
+    "Pixel Graphics": 250,
+    "2D Platformer": 249,
+    "Puzzle": 245,
+    "Action": 243,
+    "Minimalist": 237,
+    "Retro": 217,
+    "Colorful": 215,
+    "Singleplayer": 213,
+    "Logic": 162,
+    "Controller": 112
+  }
+}

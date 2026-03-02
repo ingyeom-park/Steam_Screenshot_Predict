@@ -1,0 +1,26 @@
+{
+  "appid": 795570,
+  "success": true,
+  "tags": {
+    "Indie": 123,
+    "Action": 117,
+    "2D": 113,
+    "Stylized": 110,
+    "Singleplayer": 107,
+    "Difficult": 101,
+    "Soundtrack": 99,
+    "Arcade": 95,
+    "Platformer": 88,
+    "Bullet Hell": 85,
+    "Family Friendly": 75,
+    "Replay Value": 69,
+    "Shooter": 67,
+    "Rhythm": 66,
+    "Exploration": 61,
+    "Side Scroller": 52,
+    "Runner": 46,
+    "Colorful": 44,
+    "Psychedelic": 40,
+    "Atmospheric": 38
+  }
+}

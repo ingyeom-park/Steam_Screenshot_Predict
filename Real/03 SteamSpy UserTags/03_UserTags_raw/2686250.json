@@ -1,0 +1,26 @@
+{
+  "appid": 2686250,
+  "success": true,
+  "tags": {
+    "Simulation": 216,
+    "Adventure": 209,
+    "Family Friendly": 184,
+    "Casual": 183,
+    "Walking Simulator": 179,
+    "Creature Collector": 174,
+    "Nature": 159,
+    "Hidden Object": 147,
+    "Singleplayer": 141,
+    "Action-Adventure": 131,
+    "3D": 121,
+    "Cinematic": 119,
+    "First-Person": 105,
+    "Realistic": 92,
+    "Atmospheric": 77,
+    "Relaxing": 61,
+    "Survival": 44,
+    "Nonlinear": 27,
+    "Open World": 25,
+    "Indie": 22
+  }
+}

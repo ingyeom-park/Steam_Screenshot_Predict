@@ -1,0 +1,26 @@
+{
+  "appid": 670260,
+  "success": true,
+  "tags": {
+    "Survival": 129,
+    "Open World Survival Craft": 124,
+    "Multiplayer": 121,
+    "Crafting": 120,
+    "Open World": 115,
+    "RPG": 108,
+    "Base-Building": 108,
+    "Online Co-Op": 104,
+    "Building": 102,
+    "Sandbox": 100,
+    "Adventure": 94,
+    "Co-op": 91,
+    "Fantasy": 88,
+    "Singleplayer": 84,
+    "PvE": 81,
+    "Exploration": 76,
+    "Third Person": 72,
+    "First-Person": 66,
+    "Indie": 57,
+    "Procedural Generation": 37
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "appid": 440630,
+  "success": true,
+  "tags": {
+    "Action": 34,
+    "VR": 32,
+    "Indie": 28,
+    "Horror": 24,
+    "Shooter": 20,
+    "Zombies": 15,
+    "First-Person": 8
+  }
+}

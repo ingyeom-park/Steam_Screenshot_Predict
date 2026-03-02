@@ -1,0 +1,26 @@
+{
+  "appid": 2019370,
+  "success": true,
+  "tags": {
+    "Simulation": 165,
+    "Strategy": 158,
+    "City Builder": 155,
+    "Colony Sim": 152,
+    "Farming Sim": 149,
+    "Life Sim": 143,
+    "Pixel Graphics": 142,
+    "2D": 139,
+    "Cute": 137,
+    "Retro": 134,
+    "Indie": 133,
+    "Building": 131,
+    "Management": 129,
+    "Resource Management": 127,
+    "Singleplayer": 126,
+    "Real-Time with Pause": 122,
+    "2D Platformer": 120,
+    "2.5D": 118,
+    "Top-Down": 116,
+    "Adventure": 115
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "appid": 1099460,
+  "success": true,
+  "tags": {
+    "Strategy": 125,
+    "Casual": 118,
+    "Indie": 115,
+    "Adventure": 103,
+    "Match 3": 70,
+    "Puzzle": 60,
+    "2D": 58,
+    "Fantasy": 56,
+    "Family Friendly": 54,
+    "Turn-Based Combat": 53,
+    "Singleplayer": 51,
+    "Card Game": 48,
+    "Touch-Friendly": 46,
+    "RPG": 28,
+    "Solitaire": 26
+  }
+}

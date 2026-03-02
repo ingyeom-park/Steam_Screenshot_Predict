@@ -1,0 +1,26 @@
+{
+  "appid": 2726870,
+  "success": true,
+  "tags": {
+    "Strategy": 122,
+    "Tower Defense": 116,
+    "Rogue-like": 113,
+    "Indie": 110,
+    "Survival": 106,
+    "RTS": 100,
+    "Singleplayer": 97,
+    "Auto Battler": 96,
+    "Replay Value": 90,
+    "Automation": 85,
+    "Base-Building": 82,
+    "Top-Down": 80,
+    "Roguelike Deckbuilder": 78,
+    "Hand-drawn": 76,
+    "Relaxing": 74,
+    "Cartoon": 72,
+    "2D": 69,
+    "Minimalist": 55,
+    "Rogue-lite": 52,
+    "Casual": 51
+  }
+}

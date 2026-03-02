@@ -1,0 +1,26 @@
+{
+  "appid": 1882040,
+  "success": true,
+  "tags": {
+    "Base-Building": 177,
+    "Crafting": 171,
+    "Sandbox": 167,
+    "Survival": 165,
+    "Simulation": 160,
+    "RPG": 156,
+    "Building": 152,
+    "Strategy": 148,
+    "Turn-Based Combat": 141,
+    "Strategy RPG": 130,
+    "Rogue-like": 126,
+    "Rogue-lite": 118,
+    "Dungeon Crawler": 112,
+    "Adventure": 109,
+    "Early Access": 99,
+    "Pixel Graphics": 84,
+    "Indie": 77,
+    "Singleplayer": 75,
+    "Combat": 71,
+    "Exploration": 63
+  }
+}

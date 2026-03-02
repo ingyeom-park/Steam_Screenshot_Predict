@@ -1,0 +1,26 @@
+{
+  "appid": 503620,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 180,
+    "Magic": 175,
+    "Destruction": 173,
+    "Third-Person Shooter": 167,
+    "Choose Your Own Adventure": 161,
+    "Rogue-lite": 156,
+    "Action RPG": 150,
+    "Rogue-like": 149,
+    "RPG": 145,
+    "Third Person": 143,
+    "3D": 142,
+    "Funny": 135,
+    "Procedural Generation": 133,
+    "Action": 121,
+    "Colorful": 107,
+    "Fantasy": 95,
+    "Combat": 86,
+    "Singleplayer": 84,
+    "Physics": 78,
+    "Indie": 71
+  }
+}

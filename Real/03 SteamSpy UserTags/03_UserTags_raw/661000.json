@@ -1,0 +1,26 @@
+{
+  "appid": 661000,
+  "success": true,
+  "tags": {
+    "Indie": 114,
+    "Casual": 107,
+    "Difficult": 102,
+    "Minimalist": 100,
+    "Puzzle": 94,
+    "Rhythm": 89,
+    "Relaxing": 86,
+    "Sports": 81,
+    "Action": 79,
+    "Strategy": 79,
+    "Arcade": 77,
+    "Trading Card Game": 72,
+    "FPS": 69,
+    "2D": 64,
+    "Family Friendly": 60,
+    "Funny": 46,
+    "Singleplayer": 44,
+    "Music-Based Procedural Generation": 44,
+    "Great Soundtrack": 33,
+    "Open World": 24
+  }
+}

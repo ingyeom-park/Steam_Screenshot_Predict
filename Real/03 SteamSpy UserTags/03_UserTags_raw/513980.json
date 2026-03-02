@@ -1,0 +1,26 @@
+{
+  "appid": 513980,
+  "success": true,
+  "tags": {
+    "Arcade": 131,
+    "Co-op": 125,
+    "Tanks": 122,
+    "Vehicular Combat": 117,
+    "2.5D": 115,
+    "Retro": 109,
+    "Character Customization": 107,
+    "Online Co-Op": 105,
+    "Puzzle": 104,
+    "Arena Shooter": 97,
+    "Combat Racing": 86,
+    "Pixel Graphics": 83,
+    "Cartoony": 79,
+    "Isometric": 75,
+    "Top-Down": 71,
+    "Destruction": 67,
+    "Family Friendly": 64,
+    "Indie": 56,
+    "Casual": 53,
+    "Combat": 45
+  }
+}

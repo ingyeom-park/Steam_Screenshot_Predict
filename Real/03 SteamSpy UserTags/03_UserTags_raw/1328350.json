@@ -1,0 +1,26 @@
+{
+  "appid": 1328350,
+  "success": true,
+  "tags": {
+    "FPS": 200,
+    "Boomer Shooter": 189,
+    "Action": 159,
+    "Cyberpunk": 143,
+    "Shooter": 142,
+    "Indie": 116,
+    "Retro": 114,
+    "Fast-Paced": 108,
+    "Pixel Graphics": 97,
+    "Violent": 94,
+    "Gore": 92,
+    "Singleplayer": 84,
+    "Combat": 74,
+    "First-Person": 73,
+    "Arena Shooter": 71,
+    "Sci-fi": 66,
+    "Difficult": 66,
+    "Multiplayer": 60,
+    "Great Soundtrack": 60,
+    "Controller": 59
+  }
+}

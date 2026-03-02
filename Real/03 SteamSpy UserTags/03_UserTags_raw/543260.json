@@ -1,0 +1,26 @@
+{
+  "appid": 543260,
+  "success": true,
+  "tags": {
+    "Platformer": 90,
+    "Adventure": 81,
+    "Action": 79,
+    "Remake": 75,
+    "Indie": 67,
+    "Cult Classic": 59,
+    "Metroidvania": 59,
+    "2D": 55,
+    "Hand-drawn": 50,
+    "Great Soundtrack": 49,
+    "Retro": 46,
+    "Singleplayer": 44,
+    "Side Scroller": 42,
+    "Fantasy": 40,
+    "Action-Adventure": 34,
+    "Cute": 34,
+    "Difficult": 29,
+    "Exploration": 21,
+    "Colorful": 16,
+    "Family Friendly": 16
+  }
+}

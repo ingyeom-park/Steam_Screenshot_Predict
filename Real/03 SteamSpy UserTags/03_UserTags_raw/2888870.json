@@ -1,0 +1,25 @@
+{
+  "appid": 2888870,
+  "success": true,
+  "tags": {
+    "3D Platformer": 176,
+    "Puzzle-Platformer": 170,
+    "Platformer": 167,
+    "3D": 161,
+    "Cute": 156,
+    "Third Person": 145,
+    "Action": 142,
+    "Funny": 138,
+    "Controller": 130,
+    "Cartoony": 113,
+    "Colorful": 102,
+    "Pixel Graphics": 100,
+    "Adventure": 93,
+    "Stylized": 87,
+    "Cartoon": 58,
+    "1990's": 42,
+    "Retro": 27,
+    "Singleplayer": 25,
+    "Indie": 21
+  }
+}

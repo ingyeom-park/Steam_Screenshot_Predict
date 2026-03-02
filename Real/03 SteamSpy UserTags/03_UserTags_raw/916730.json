@@ -1,0 +1,26 @@
+{
+  "appid": 916730,
+  "success": true,
+  "tags": {
+    "Indie": 89,
+    "Metroidvania": 84,
+    "Action": 72,
+    "Pixel Graphics": 67,
+    "Adventure": 65,
+    "2D": 61,
+    "Cats": 58,
+    "Platformer": 51,
+    "Retro": 45,
+    "Singleplayer": 38,
+    "Cute": 36,
+    "Side Scroller": 30,
+    "Exploration": 27,
+    "Sci-fi": 21,
+    "Controller": 19,
+    "Difficult": 17,
+    "Short": 12,
+    "Female Protagonist": 12,
+    "Great Soundtrack": 10,
+    "Open World": 8
+  }
+}

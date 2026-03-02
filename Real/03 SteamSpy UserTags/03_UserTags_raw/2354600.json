@@ -1,0 +1,26 @@
+{
+  "appid": 2354600,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 275,
+    "Bullet Hell": 263,
+    "Pixel Graphics": 260,
+    "Rogue-lite": 250,
+    "2D": 242,
+    "Vampire": 230,
+    "Singleplayer": 219,
+    "Action": 218,
+    "Gothic": 210,
+    "Casual": 207,
+    "Dark Fantasy": 201,
+    "Action RPG": 176,
+    "Controller": 167,
+    "Arcade": 162,
+    "Rogue-like": 155,
+    "Top-Down Shooter": 149,
+    "Indie": 135,
+    "Top-Down": 129,
+    "Dark Comedy": 119,
+    "Retro": 116
+  }
+}

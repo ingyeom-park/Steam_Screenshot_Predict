@@ -1,0 +1,21 @@
+{
+  "appid": 1266640,
+  "success": true,
+  "tags": {
+    "Strategy": 85,
+    "Simulation": 77,
+    "Wargame": 69,
+    "Turn-Based Strategy": 64,
+    "Historical": 60,
+    "World War II": 55,
+    "2D": 52,
+    "Alternate History": 50,
+    "PvP": 48,
+    "Turn-Based Combat": 46,
+    "Singleplayer": 44,
+    "Multiplayer": 42,
+    "Epic": 39,
+    "Indie": 37,
+    "Retro": 27
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1277130,
+  "success": true,
+  "tags": {
+    "Souls-like": 259,
+    "RPG": 249,
+    "Difficult": 246,
+    "Action RPG": 242,
+    "Violent": 239,
+    "Story Rich": 232,
+    "Dark Fantasy": 228,
+    "Third Person": 226,
+    "Singleplayer": 224,
+    "Atmospheric": 221,
+    "Combat": 218,
+    "Horror": 214,
+    "Sci-fi": 213,
+    "Dystopian ": 211,
+    "Medieval": 208,
+    "Magic": 206,
+    "Indie": 196,
+    "Futuristic": 189,
+    "Action": 184,
+    "Party-Based RPG": 179
+  }
+}

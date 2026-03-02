@@ -1,0 +1,26 @@
+{
+  "appid": 33130,
+  "success": true,
+  "tags": {
+    "Zombies": 141,
+    "Shooter": 134,
+    "Gore": 132,
+    "Action RPG": 131,
+    "Action": 125,
+    "Blood": 118,
+    "Shoot 'Em Up": 109,
+    "Horror": 103,
+    "RPG": 97,
+    "Arcade": 97,
+    "Singleplayer": 96,
+    "Top-Down Shooter": 90,
+    "Indie": 83,
+    "2D": 79,
+    "Rogue-lite": 72,
+    "Twin Stick Shooter": 69,
+    "Survival": 64,
+    "Isometric": 56,
+    "Inventory Management": 52,
+    "CRPG": 49
+  }
+}

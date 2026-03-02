@@ -1,0 +1,25 @@
+{
+  "appid": 1964330,
+  "success": true,
+  "tags": {
+    "Strategy": 169,
+    "Rogue-lite": 161,
+    "Deckbuilding": 154,
+    "Card Game": 145,
+    "Rogue-like": 137,
+    "Singleplayer": 129,
+    "Perma Death": 122,
+    "Card Battler": 115,
+    "2D": 107,
+    "Pixel Graphics": 97,
+    "Tactical": 95,
+    "Fantasy": 83,
+    "Magic": 70,
+    "Grid-Based Movement": 56,
+    "Turn-Based Tactics": 41,
+    "Indie": 31,
+    "Medieval": 27,
+    "Combat": 25,
+    "Roguelike Deckbuilder": 10
+  }
+}

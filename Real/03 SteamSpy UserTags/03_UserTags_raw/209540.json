@@ -1,0 +1,22 @@
+{
+  "appid": 209540,
+  "success": true,
+  "tags": {
+    "Space": 168,
+    "Action": 150,
+    "Mechs": 123,
+    "Sci-fi": 117,
+    "Indie": 106,
+    "Simulation": 89,
+    "Shooter": 75,
+    "Flight": 65,
+    "Singleplayer": 57,
+    "Great Soundtrack": 56,
+    "Space Sim": 49,
+    "Robots": 44,
+    "Third Person": 31,
+    "Third-Person Shooter": 20,
+    "Kickstarter": 15,
+    "Controller": 5
+  }
+}

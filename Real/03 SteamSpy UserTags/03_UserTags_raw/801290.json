@@ -1,0 +1,26 @@
+{
+  "appid": 801290,
+  "success": true,
+  "tags": {
+    "Indie": 201,
+    "Adventure": 194,
+    "Action": 192,
+    "Pixel Graphics": 190,
+    "RPG": 186,
+    "2D": 180,
+    "Singleplayer": 179,
+    "Top-Down": 173,
+    "Hack and Slash": 173,
+    "Top-Down Shooter": 168,
+    "Atmospheric": 160,
+    "Retro": 151,
+    "Action RPG": 139,
+    "Shooter": 136,
+    "Exploration": 130,
+    "Rogue-like": 125,
+    "Bullet Hell": 120,
+    "Mystery Dungeon": 109,
+    "Rogue-lite": 106,
+    "Third Person": 104
+  }
+}

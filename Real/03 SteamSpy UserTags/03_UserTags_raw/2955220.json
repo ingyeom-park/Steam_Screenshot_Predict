@@ -1,0 +1,26 @@
+{
+  "appid": 2955220,
+  "success": true,
+  "tags": {
+    "Cats": 130,
+    "Casual": 126,
+    "Cute": 124,
+    "Exploration": 121,
+    "Strategy": 117,
+    "Tabletop": 114,
+    "Rogue-lite": 107,
+    "2D": 103,
+    "Hand-drawn": 100,
+    "Magic": 91,
+    "Stylized": 88,
+    "Funny": 78,
+    "Gothic": 76,
+    "Singleplayer": 74,
+    "Rogue-like": 71,
+    "Turn-Based Combat": 69,
+    "Adventure": 49,
+    "Indie": 46,
+    "Card Game": 29,
+    "Mystery Dungeon": 29
+  }
+}

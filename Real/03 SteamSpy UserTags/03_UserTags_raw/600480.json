@@ -1,0 +1,26 @@
+{
+  "appid": 600480,
+  "success": true,
+  "tags": {
+    "Casual": 208,
+    "Simulation": 208,
+    "Building": 200,
+    "Sandbox": 191,
+    "Management": 187,
+    "Underwater": 184,
+    "Creature Collector": 182,
+    "Cute": 172,
+    "Relaxing": 135,
+    "Resource Management": 128,
+    "Indie": 123,
+    "Moddable": 116,
+    "Economy": 107,
+    "Family Friendly": 100,
+    "Fishing": 96,
+    "Strategy": 91,
+    "Capitalism": 69,
+    "Singleplayer": 68,
+    "Isometric": 38,
+    "3D": 34
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2338490,
+  "success": true,
+  "tags": {
+    "Adventure": 230,
+    "Point & Click": 224,
+    "Comedy": 220,
+    "Funny": 216,
+    "Pixel Graphics": 211,
+    "Nostalgia": 204,
+    "Story Rich": 197,
+    "Puzzle": 189,
+    "Indie": 183,
+    "2D": 179,
+    "Old School": 167,
+    "Singleplayer": 156,
+    "Retro": 143,
+    "1990's": 128,
+    "Exploration": 114,
+    "Underwater": 97,
+    "Colorful": 80,
+    "Fantasy": 62,
+    "Atmospheric": 45,
+    "Kickstarter": 28
+  }
+}

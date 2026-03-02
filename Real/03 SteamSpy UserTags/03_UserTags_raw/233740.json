@@ -1,0 +1,26 @@
+{
+  "appid": 233740,
+  "success": true,
+  "tags": {
+    "Zombies": 200,
+    "Indie": 153,
+    "Retro": 137,
+    "Strategy": 118,
+    "Post-apocalyptic": 113,
+    "Pixel Graphics": 105,
+    "Singleplayer": 98,
+    "Perma Death": 66,
+    "Adventure": 66,
+    "Survival": 65,
+    "2D": 56,
+    "Simulation": 54,
+    "RPG": 44,
+    "Parody ": 42,
+    "Rogue-like": 29,
+    "Comedy": 29,
+    "Great Soundtrack": 29,
+    "Action": 25,
+    "Horror": 21,
+    "Kickstarter": 17
+  }
+}

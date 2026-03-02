@@ -1,0 +1,26 @@
+{
+  "appid": 1676550,
+  "success": true,
+  "tags": {
+    "Visual Novel": 208,
+    "Minimalist": 201,
+    "Multiple Endings": 195,
+    "Story Rich": 191,
+    "Dystopian ": 184,
+    "Philosophical": 165,
+    "Drama": 159,
+    "Choose Your Own Adventure": 149,
+    "Text-Based": 143,
+    "Narration": 133,
+    "Conversation": 122,
+    "Stylized": 120,
+    "Sci-fi": 105,
+    "Atmospheric": 93,
+    "Emotional": 77,
+    "2D": 62,
+    "Adventure": 47,
+    "Interactive Fiction": 44,
+    "Singleplayer": 26,
+    "Indie": 22
+  }
+}

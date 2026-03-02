@@ -1,0 +1,26 @@
+{
+  "appid": 2101280,
+  "success": true,
+  "tags": {
+    "Simulation": 165,
+    "Strategy": 159,
+    "Casual": 155,
+    "Colony Sim": 151,
+    "Life Sim": 148,
+    "Pixel Graphics": 143,
+    "Historical": 140,
+    "City Builder": 137,
+    "2D": 135,
+    "Cute": 133,
+    "Indie": 130,
+    "Building": 127,
+    "Atmospheric": 124,
+    "Resource Management": 121,
+    "Singleplayer": 114,
+    "Action": 104,
+    "Adventure": 101,
+    "Education": 91,
+    "Exploration": 79,
+    "2D Platformer": 72
+  }
+}

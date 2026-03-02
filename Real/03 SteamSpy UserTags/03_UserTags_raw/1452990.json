@@ -1,0 +1,26 @@
+{
+  "appid": 1452990,
+  "success": true,
+  "tags": {
+    "Indie": 222,
+    "JRPG": 212,
+    "RPGMaker": 209,
+    "Party-Based RPG": 199,
+    "Turn-Based Combat": 195,
+    "Character Action Game": 181,
+    "RPG": 178,
+    "PvE": 175,
+    "2D": 167,
+    "Story Rich": 148,
+    "Pixel Graphics": 139,
+    "Magic": 127,
+    "Medieval": 124,
+    "Fantasy": 110,
+    "Class-Based": 96,
+    "Adventure": 83,
+    "Anime": 80,
+    "Combat": 44,
+    "Singleplayer": 28,
+    "Asynchronous Multiplayer": 26
+  }
+}

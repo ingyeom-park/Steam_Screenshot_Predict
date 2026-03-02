@@ -1,0 +1,26 @@
+{
+  "appid": 2951770,
+  "success": true,
+  "tags": {
+    "Exploration": 131,
+    "Precision Platformer": 122,
+    "2D Platformer": 120,
+    "Puzzle-Platformer": 118,
+    "Metroidvania": 115,
+    "Puzzle": 108,
+    "Platformer": 106,
+    "2D": 104,
+    "Nonlinear": 99,
+    "Action": 91,
+    "Hand-drawn": 87,
+    "Pixel Graphics": 83,
+    "Logic": 81,
+    "Mystery": 78,
+    "Adventure": 72,
+    "Singleplayer": 58,
+    "Retro": 58,
+    "Indie": 54,
+    "Short": 31,
+    "Multiplayer": 27
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 275390,
+  "success": true,
+  "tags": {
+    "Platformer": 6905,
+    "2D": 6900,
+    "Metroidvania": 6899,
+    "Beat 'em up": 425,
+    "Action": 421,
+    "Colorful": 310,
+    "Cartoony": 287,
+    "Indie": 286,
+    "Local Co-Op": 281,
+    "Adventure": 249,
+    "Funny": 233,
+    "Difficult": 216,
+    "Action-Adventure": 199,
+    "Co-op": 198,
+    "Singleplayer": 196,
+    "4 Player Local": 194,
+    "Wrestling": 190,
+    "Action RPG": 187,
+    "2D Platformer": 186,
+    "Side Scroller": 183
+  }
+}

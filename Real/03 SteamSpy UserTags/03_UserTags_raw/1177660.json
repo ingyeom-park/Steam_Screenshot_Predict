@@ -1,0 +1,26 @@
+{
+  "appid": 1177660,
+  "success": true,
+  "tags": {
+    "Survival Horror": 196,
+    "Psychological Horror": 190,
+    "Horror": 184,
+    "First-Person": 181,
+    "Violent": 179,
+    "Gore": 171,
+    "Atmospheric": 162,
+    "Singleplayer": 158,
+    "Mystery": 155,
+    "Assassin": 151,
+    "Story Rich": 144,
+    "Indie": 133,
+    "Action": 125,
+    "Dark": 111,
+    "Adventure": 111,
+    "Strategy": 109,
+    "Action-Adventure": 95,
+    "Exploration": 90,
+    "Multiplayer": 75,
+    "3D": 74
+  }
+}

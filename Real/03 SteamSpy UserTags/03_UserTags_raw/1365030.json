@@ -1,0 +1,25 @@
+{
+  "appid": 1365030,
+  "success": true,
+  "tags": {
+    "FPS": 162,
+    "Action": 160,
+    "Parkour": 156,
+    "Retro": 154,
+    "Racing": 148,
+    "Arcade": 145,
+    "Shooter": 123,
+    "Combat Racing": 115,
+    "3D Platformer": 109,
+    "3D": 97,
+    "First-Person": 96,
+    "Colorful": 84,
+    "1980s": 70,
+    "Futuristic": 56,
+    "Physics": 41,
+    "Linear": 27,
+    "Singleplayer": 25,
+    "Indie": 22,
+    "Adventure": 20
+  }
+}

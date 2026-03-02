@@ -1,0 +1,26 @@
+{
+  "appid": 1650860,
+  "success": true,
+  "tags": {
+    "Board Game": 190,
+    "Base-Building": 184,
+    "Puzzle": 180,
+    "Turn-Based": 176,
+    "Relaxing": 173,
+    "Tabletop": 167,
+    "Family Friendly": 165,
+    "Logic": 160,
+    "Replay Value": 154,
+    "Rogue-lite": 149,
+    "Procedural Generation": 147,
+    "Turn-Based Tactics": 142,
+    "Villain Protagonist": 142,
+    "Strategy": 138,
+    "Casual": 129,
+    "Colorful": 126,
+    "Tactical": 114,
+    "Top-Down": 104,
+    "Building": 96,
+    "Singleplayer": 86
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1292240,
+  "success": true,
+  "tags": {
+    "Chess": 204,
+    "Turn-Based Tactics": 198,
+    "Tabletop": 195,
+    "Board Game": 194,
+    "Puzzle": 189,
+    "Simulation": 181,
+    "PvP": 180,
+    "Education": 178,
+    "Strategy": 173,
+    "Relaxing": 169,
+    "Casual": 162,
+    "Family Friendly": 157,
+    "Logic": 154,
+    "Tactical": 151,
+    "Atmospheric": 142,
+    "Minimalist": 131,
+    "Multiplayer": 117,
+    "Singleplayer": 109,
+    "Indie": 106,
+    "Sports": 88
+  }
+}

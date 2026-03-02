@@ -1,0 +1,26 @@
+{
+  "appid": 318650,
+  "success": true,
+  "tags": {
+    "Strategy": 144,
+    "Indie": 138,
+    "RTS": 136,
+    "Base-Building": 132,
+    "Sci-fi": 130,
+    "Isometric": 123,
+    "2.5D": 121,
+    "2D": 117,
+    "Old School": 116,
+    "Action": 112,
+    "Post-apocalyptic": 110,
+    "Retro": 105,
+    "Robots": 101,
+    "War": 95,
+    "Atmospheric": 77,
+    "Building": 66,
+    "1990's": 59,
+    "Story Rich": 57,
+    "Multiplayer": 50,
+    "Singleplayer": 37
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1374290,
+  "success": true,
+  "tags": {
+    "Escape Room": 300,
+    "Hidden Object": 298,
+    "Point & Click": 296,
+    "Adventure": 291,
+    "Puzzle": 285,
+    "Investigation": 279,
+    "Sci-fi": 274,
+    "Mystery": 249,
+    "Casual": 140,
+    "Cinematic": 134,
+    "Detective": 121,
+    "Singleplayer": 118,
+    "Psychological": 112,
+    "Thriller": 103,
+    "3D": 101,
+    "Indie": 99,
+    "Walking Simulator": 96,
+    "First-Person": 88,
+    "Atmospheric": 75,
+    "Story Rich": 61
+  }
+}

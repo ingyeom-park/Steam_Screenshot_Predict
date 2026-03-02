@@ -1,0 +1,26 @@
+{
+  "appid": 1359120,
+  "success": true,
+  "tags": {
+    "Turn-Based Tactics": 155,
+    "Auto Battler": 149,
+    "Rogue-lite": 145,
+    "Tactical RPG": 142,
+    "Perma Death": 140,
+    "Turn-Based Strategy": 131,
+    "Rogue-like": 128,
+    "Strategy": 123,
+    "2D": 120,
+    "Turn-Based Combat": 119,
+    "Pixel Graphics": 114,
+    "Tactical": 112,
+    "Retro": 102,
+    "Fantasy": 95,
+    "Dungeon Crawler": 91,
+    "Procedural Generation": 90,
+    "Indie": 85,
+    "Singleplayer": 77,
+    "Combat": 67,
+    "PvE": 59
+  }
+}

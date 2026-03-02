@@ -1,0 +1,26 @@
+{
+  "appid": 2024300,
+  "success": true,
+  "tags": {
+    "Horror": 114,
+    "Indie": 108,
+    "Dark": 103,
+    "Psychological Horror": 99,
+    "Realistic": 94,
+    "Demons": 88,
+    "Atmospheric": 86,
+    "Singleplayer": 81,
+    "Difficult": 79,
+    "First-Person": 71,
+    "Thriller": 69,
+    "Survival Horror": 66,
+    "Mystery": 63,
+    "Psychological": 59,
+    "Action": 51,
+    "Adventure": 49,
+    "Multiplayer": 39,
+    "Co-op": 31,
+    "Sexual Content": 29,
+    "Cinematic": 27
+  }
+}

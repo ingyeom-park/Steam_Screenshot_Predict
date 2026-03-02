@@ -1,0 +1,11 @@
+{
+  "appid": 23600,
+  "success": true,
+  "tags": {
+    "RPG": 40,
+    "Strategy": 39,
+    "Indie": 38,
+    "Action RPG": 26,
+    "Singleplayer": 20
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2862970,
+  "success": true,
+  "tags": {
+    "Action RPG": 158,
+    "Adventure": 155,
+    "Tower Defense": 152,
+    "Strategy": 149,
+    "Indie": 146,
+    "RPG": 142,
+    "2D": 132,
+    "Pixel Graphics": 130,
+    "Singleplayer": 127,
+    "Dark": 121,
+    "Futuristic": 115,
+    "Cyberpunk": 108,
+    "Sci-fi": 101,
+    "Horror": 96,
+    "Dystopian ": 88,
+    "Controller": 84,
+    "Action": 82,
+    "Arcade": 71,
+    "Top-Down Shooter": 59,
+    "Top-Down": 44
+  }
+}

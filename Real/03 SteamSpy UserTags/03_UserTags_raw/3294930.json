@@ -1,0 +1,26 @@
+{
+  "appid": 3294930,
+  "success": true,
+  "tags": {
+    "Exploration": 213,
+    "Puzzle-Platformer": 204,
+    "Puzzle": 202,
+    "2D": 197,
+    "Isometric": 191,
+    "Surreal": 181,
+    "Mystery": 174,
+    "Controller": 166,
+    "Linear": 157,
+    "Story Rich": 148,
+    "Adventure": 146,
+    "Pixel Graphics": 138,
+    "Magic": 124,
+    "Fantasy": 110,
+    "Casual": 99,
+    "Atmospheric": 95,
+    "Action": 62,
+    "Indie": 45,
+    "Combat": 43,
+    "Singleplayer": 28
+  }
+}

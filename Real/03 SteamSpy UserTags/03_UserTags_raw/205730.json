@@ -1,0 +1,22 @@
+{
+  "appid": 205730,
+  "success": true,
+  "tags": {
+    "Metroidvania": 79,
+    "Adventure": 69,
+    "Indie": 66,
+    "Action": 63,
+    "2D": 48,
+    "Exploration": 45,
+    "Sci-fi": 37,
+    "Singleplayer": 28,
+    "Puzzle": 27,
+    "Local Co-Op": 26,
+    "Controller": 23,
+    "Psychedelic": 15,
+    "Atmospheric": 9,
+    "Co-op": 7,
+    "Action-Adventure": 6,
+    "Side Scroller": 5
+  }
+}

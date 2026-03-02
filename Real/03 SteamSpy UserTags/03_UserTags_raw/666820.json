@@ -1,0 +1,26 @@
+{
+  "appid": 666820,
+  "success": true,
+  "tags": {
+    "World War II": 41,
+    "Strategy": 40,
+    "Action": 37,
+    "Indie": 36,
+    "Violent": 33,
+    "Simulation": 32,
+    "Difficult": 30,
+    "Casual": 24,
+    "Tower Defense": 21,
+    "Tactical": 20,
+    "Top-Down": 20,
+    "War": 19,
+    "Singleplayer": 18,
+    "RTS": 17,
+    "Gore": 17,
+    "Real-Time with Pause": 16,
+    "Replay Value": 15,
+    "2D": 11,
+    "Perma Death": 11,
+    "Psychological Horror": 11
+  }
+}

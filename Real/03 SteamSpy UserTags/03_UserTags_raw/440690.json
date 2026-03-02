@@ -1,0 +1,12 @@
+{
+  "appid": 440690,
+  "success": true,
+  "tags": {
+    "Indie": 32,
+    "Action": 23,
+    "Adventure": 21,
+    "Horror": 14,
+    "Exploration": 12,
+    "Puzzle": 10
+  }
+}

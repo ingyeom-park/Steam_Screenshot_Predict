@@ -1,0 +1,26 @@
+{
+  "appid": 1092660,
+  "success": true,
+  "tags": {
+    "Adventure": 104,
+    "Horror": 103,
+    "Psychological Horror": 92,
+    "Indie": 90,
+    "First-Person": 64,
+    "Violent": 58,
+    "Dog": 56,
+    "Walking Simulator": 50,
+    "Dark": 49,
+    "Atmospheric": 48,
+    "Singleplayer": 44,
+    "Story Rich": 43,
+    "Investigation": 39,
+    "Survival Horror": 38,
+    "Cinematic": 35,
+    "Survival": 34,
+    "Mature": 32,
+    "Psychological": 28,
+    "Multiplayer": 24,
+    "Co-op": 17
+  }
+}

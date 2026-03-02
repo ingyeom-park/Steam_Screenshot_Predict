@@ -1,0 +1,25 @@
+{
+  "appid": 666610,
+  "success": true,
+  "tags": {
+    "Flight": 167,
+    "Management": 163,
+    "Immersive Sim": 163,
+    "Realistic": 155,
+    "Simulation": 148,
+    "Minimalist": 144,
+    "Procedural Generation": 140,
+    "2D": 137,
+    "Real Time Tactics": 137,
+    "Score Attack": 136,
+    "Relaxing": 131,
+    "Puzzle": 117,
+    "Singleplayer": 109,
+    "Strategy": 92,
+    "Moddable": 78,
+    "Top-Down": 77,
+    "Tactical": 74,
+    "Casual": 70,
+    "Indie": 51
+  }
+}

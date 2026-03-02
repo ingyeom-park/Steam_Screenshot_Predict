@@ -1,0 +1,26 @@
+{
+  "appid": 2218460,
+  "success": true,
+  "tags": {
+    "Multiplayer": 200,
+    "PvP": 194,
+    "Competitive": 191,
+    "Fast-Paced": 187,
+    "Arcade": 182,
+    "Parkour": 172,
+    "Platformer": 170,
+    "Precision Platformer": 167,
+    "Metroidvania": 162,
+    "3D": 156,
+    "Cute": 154,
+    "Third Person": 153,
+    "Controller": 151,
+    "Funny": 148,
+    "Action": 139,
+    "Action-Adventure": 122,
+    "Adventure": 110,
+    "Atmospheric": 106,
+    "Family Friendly": 101,
+    "3D Platformer": 88
+  }
+}

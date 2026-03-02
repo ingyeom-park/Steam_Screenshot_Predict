@@ -1,0 +1,26 @@
+{
+  "appid": 513340,
+  "success": true,
+  "tags": {
+    "Indie": 119,
+    "Adventure": 112,
+    "Singleplayer": 110,
+    "Time Travel": 105,
+    "Mystery": 102,
+    "Puzzle": 97,
+    "Story Rich": 87,
+    "Point & Click": 85,
+    "Drama": 83,
+    "Narration": 80,
+    "Exploration": 75,
+    "Atmospheric": 70,
+    "2D": 67,
+    "Hand-drawn": 62,
+    "Sci-fi": 58,
+    "Hidden Object": 46,
+    "Short": 39,
+    "Sequel": 32,
+    "Linear": 30,
+    "Surreal": 29
+  }
+}

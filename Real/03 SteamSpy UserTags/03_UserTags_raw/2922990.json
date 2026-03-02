@@ -1,0 +1,26 @@
+{
+  "appid": 2922990,
+  "success": true,
+  "tags": {
+    "Action": 195,
+    "Adventure": 189,
+    "Strategy": 187,
+    "Arcade": 162,
+    "3D": 156,
+    "First-Person": 146,
+    "1990's": 138,
+    "Atmospheric": 130,
+    "Dark": 122,
+    "Demons": 113,
+    "Horror": 105,
+    "Psychological Horror": 101,
+    "Stealth": 89,
+    "Survival Horror": 75,
+    "Thriller": 58,
+    "Nonlinear": 42,
+    "Singleplayer": 28,
+    "Jump Scare": 25,
+    "Indie": 24,
+    "Gore": 22
+  }
+}

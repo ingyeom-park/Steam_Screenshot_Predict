@@ -1,0 +1,26 @@
+{
+  "appid": 921800,
+  "success": true,
+  "tags": {
+    "CRPG": 371,
+    "Turn-Based Combat": 369,
+    "Strategy": 359,
+    "Post-apocalyptic": 359,
+    "RPG": 357,
+    "Isometric": 257,
+    "Sci-fi": 240,
+    "Adventure": 238,
+    "Exploration": 218,
+    "Story Rich": 181,
+    "Choices Matter": 169,
+    "Atmospheric": 165,
+    "Turn-Based": 165,
+    "Indie": 162,
+    "Singleplayer": 159,
+    "Open World": 157,
+    "Tactical": 146,
+    "Multiple Endings": 134,
+    "Survival": 130,
+    "Alternate History": 122
+  }
+}

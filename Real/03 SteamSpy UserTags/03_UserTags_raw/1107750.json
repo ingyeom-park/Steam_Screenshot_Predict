@@ -1,0 +1,26 @@
+{
+  "appid": 1107750,
+  "success": true,
+  "tags": {
+    "Exploration": 154,
+    "Puzzle": 149,
+    "First-Person": 145,
+    "3D": 143,
+    "Multiple Endings": 137,
+    "Narration": 128,
+    "Linear": 125,
+    "Realistic": 121,
+    "Sci-fi": 120,
+    "Mythology": 119,
+    "Logic": 115,
+    "Atmospheric": 112,
+    "Mystery": 110,
+    "Artificial Intelligence": 104,
+    "Adventure": 100,
+    "Aliens": 98,
+    "Futuristic": 97,
+    "Singleplayer": 85,
+    "Indie": 78,
+    "Puzzle-Platformer": 70
+  }
+}

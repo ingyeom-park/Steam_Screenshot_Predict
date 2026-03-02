@@ -1,0 +1,26 @@
+{
+  "appid": 724330,
+  "success": true,
+  "tags": {
+    "Steampunk": 160,
+    "CRPG": 153,
+    "Story Rich": 150,
+    "Turn-Based": 147,
+    "Western": 143,
+    "Indie": 136,
+    "Lore-Rich": 132,
+    "RPG": 130,
+    "Fantasy": 127,
+    "Turn-Based Strategy": 122,
+    "Turn-Based Tactics": 118,
+    "Tactical RPG": 106,
+    "2D": 95,
+    "Strategy RPG": 93,
+    "Text-Based": 88,
+    "Turn-Based Combat": 86,
+    "Loot": 83,
+    "Strategy": 81,
+    "Tactical": 77,
+    "Singleplayer": 73
+  }
+}

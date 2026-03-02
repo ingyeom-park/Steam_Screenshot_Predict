@@ -1,0 +1,23 @@
+{
+  "appid": 1692210,
+  "success": true,
+  "tags": {
+    "Action": 72,
+    "Adventure": 65,
+    "Casual": 63,
+    "Action-Adventure": 39,
+    "Arcade": 37,
+    "3D Fighter": 30,
+    "Shooter": 29,
+    "Third-Person Shooter": 27,
+    "Arena Shooter": 27,
+    "3D": 23,
+    "Third Person": 22,
+    "Indie": 21,
+    "Zombies": 19,
+    "Realistic": 17,
+    "PvE": 15,
+    "Memes": 14,
+    "Singleplayer": 13
+  }
+}

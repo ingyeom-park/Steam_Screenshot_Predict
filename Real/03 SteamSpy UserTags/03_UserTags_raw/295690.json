@@ -1,0 +1,26 @@
+{
+  "appid": 295690,
+  "success": true,
+  "tags": {
+    "Indie": 60,
+    "Action": 44,
+    "Adventure": 34,
+    "Arcade": 29,
+    "2D": 19,
+    "Great Soundtrack": 17,
+    "Local Co-Op": 16,
+    "Multiplayer": 16,
+    "Local Multiplayer": 15,
+    "Retro": 14,
+    "Shoot 'Em Up": 14,
+    "4 Player Local": 13,
+    "Casual": 11,
+    "Singleplayer": 11,
+    "Space": 10,
+    "Shooter": 9,
+    "Sandbox": 8,
+    "Pixel Graphics": 8,
+    "Exploration": 6,
+    "Difficult": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 747910,
+  "success": true,
+  "tags": {
+    "Simulation": 195,
+    "Indie": 188,
+    "Realistic": 181,
+    "Destruction": 180,
+    "Physics": 175,
+    "Puzzle": 167,
+    "Sandbox": 163,
+    "Action": 158,
+    "Building": 156,
+    "Hidden Object": 151,
+    "Shooter": 148,
+    "Bullet Hell": 143,
+    "Flight": 142,
+    "Shoot 'Em Up": 130,
+    "3D": 126,
+    "Relaxing": 118,
+    "Transportation": 116,
+    "Bullet Time": 115,
+    "Driving": 109,
+    "Vehicular Combat": 102
+  }
+}

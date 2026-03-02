@@ -1,0 +1,25 @@
+{
+  "appid": 1008920,
+  "success": true,
+  "tags": {
+    "Indie": 34,
+    "Adventure": 33,
+    "Casual": 22,
+    "Pixel Graphics": 21,
+    "Simulation": 20,
+    "Story Rich": 17,
+    "Puzzle": 16,
+    "Narration": 16,
+    "Retro": 16,
+    "2D": 15,
+    "Dark": 15,
+    "Singleplayer": 15,
+    "Great Soundtrack": 14,
+    "Touch-Friendly": 14,
+    "Atmospheric": 13,
+    "Stylized": 13,
+    "Horror": 12,
+    "Mystery": 10,
+    "Hidden Object": 7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 907820,
+  "success": true,
+  "tags": {
+    "RPG": 64,
+    "Indie": 56,
+    "Dungeon Crawler": 50,
+    "Grid-Based Movement": 47,
+    "Party-Based RPG": 39,
+    "Post-apocalyptic": 37,
+    "Singleplayer": 37,
+    "Choose Your Own Adventure": 35,
+    "Adventure": 33,
+    "Choices Matter": 33,
+    "Replay Value": 31,
+    "First-Person": 29,
+    "CRPG": 27,
+    "Fantasy": 16,
+    "Pixel Graphics": 15,
+    "Real-Time": 14,
+    "Story Rich": 13,
+    "Sci-fi": 12,
+    "Action": 12,
+    "Action RPG": 11
+  }
+}

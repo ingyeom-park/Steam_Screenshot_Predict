@@ -1,0 +1,26 @@
+{
+  "appid": 802120,
+  "success": true,
+  "tags": {
+    "Online Co-Op": 220,
+    "RPG": 214,
+    "Level Editor": 210,
+    "Difficult": 207,
+    "Action": 204,
+    "Indie": 199,
+    "Steampunk": 196,
+    "Kickstarter": 191,
+    "Strategy": 189,
+    "Moddable": 185,
+    "Competitive": 177,
+    "Multiplayer": 171,
+    "Singleplayer": 163,
+    "Co-op": 156,
+    "Party-Based RPG": 149,
+    "3D": 145,
+    "Third Person": 143,
+    "Fantasy": 139,
+    "Magic": 137,
+    "MMORPG": 133
+  }
+}

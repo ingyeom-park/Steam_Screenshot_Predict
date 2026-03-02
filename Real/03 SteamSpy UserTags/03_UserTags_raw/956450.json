@@ -1,0 +1,26 @@
+{
+  "appid": 956450,
+  "success": true,
+  "tags": {
+    "Traditional Roguelike": 275,
+    "Rogue-like": 139,
+    "RPG": 86,
+    "Indie": 79,
+    "Adventure": 71,
+    "Strategy": 66,
+    "Dungeon Crawler": 60,
+    "Pixel Graphics": 60,
+    "Turn-Based": 57,
+    "Singleplayer": 54,
+    "Procedural Generation": 51,
+    "Replay Value": 50,
+    "Character Customization": 47,
+    "Difficult": 46,
+    "Top-Down": 44,
+    "Fantasy": 41,
+    "Loot": 39,
+    "Tactical": 37,
+    "2D": 34,
+    "Strategy RPG": 30
+  }
+}

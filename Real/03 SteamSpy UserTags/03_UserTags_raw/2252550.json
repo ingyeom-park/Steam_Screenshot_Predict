@@ -1,0 +1,22 @@
+{
+  "appid": 2252550,
+  "success": true,
+  "tags": {
+    "Casual": 63,
+    "Singleplayer": 52,
+    "Strategy": 49,
+    "Emotional": 46,
+    "Puzzle-Platformer": 40,
+    "Platformer": 37,
+    "Puzzle": 31,
+    "2D": 27,
+    "Minimalist": 25,
+    "Pixel Graphics": 23,
+    "Indie": 21,
+    "Education": 21,
+    "Logic": 19,
+    "Level Editor": 17,
+    "Linear": 15,
+    "Character Customization": 13
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1801110,
+  "success": true,
+  "tags": {
+    "Online Co-Op": 250,
+    "Adventure": 215,
+    "Pixel Graphics": 205,
+    "Action": 203,
+    "Co-op": 202,
+    "Psychological Horror": 183,
+    "2D": 177,
+    "Multiplayer": 173,
+    "Puzzle-Platformer": 168,
+    "Story Rich": 165,
+    "Action-Adventure": 153,
+    "Casual": 151,
+    "Cute": 150,
+    "Emotional": 148,
+    "Indie": 142,
+    "Drama": 137,
+    "Atmospheric": 136,
+    "Local Co-Op": 88,
+    "Local Multiplayer": 78,
+    "Early Access": 60
+  }
+}

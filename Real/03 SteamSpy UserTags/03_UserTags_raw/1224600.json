@@ -1,0 +1,26 @@
+{
+  "appid": 1224600,
+  "success": true,
+  "tags": {
+    "Indie": 103,
+    "Action": 101,
+    "Adventure": 98,
+    "Cyberpunk": 47,
+    "Violent": 40,
+    "FPS": 37,
+    "Sci-fi": 36,
+    "Atmospheric": 35,
+    "Female Protagonist": 29,
+    "Sexual Content": 28,
+    "Futuristic": 26,
+    "Gore": 25,
+    "Old School": 21,
+    "Dystopian ": 21,
+    "Horror": 21,
+    "Immersive": 20,
+    "Shooter": 20,
+    "Retro": 17,
+    "Exploration": 14,
+    "First-Person": 10
+  }
+}

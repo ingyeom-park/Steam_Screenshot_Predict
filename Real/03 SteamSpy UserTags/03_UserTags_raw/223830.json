@@ -1,0 +1,26 @@
+{
+  "appid": 223830,
+  "success": true,
+  "tags": {
+    "Turn-Based Strategy": 276,
+    "Turn-Based Tactics": 275,
+    "Turn-Based Combat": 270,
+    "Base-Building": 255,
+    "Grand Strategy": 249,
+    "Management": 246,
+    "Singleplayer": 242,
+    "Strategy": 235,
+    "Tactical": 216,
+    "Aliens": 206,
+    "Sci-fi": 193,
+    "Indie": 186,
+    "Isometric": 183,
+    "Simulation": 180,
+    "Turn-Based": 175,
+    "Kickstarter": 174,
+    "Cold War": 174,
+    "2D": 69,
+    "Remake": 69,
+    "Atmospheric": 64
+  }
+}

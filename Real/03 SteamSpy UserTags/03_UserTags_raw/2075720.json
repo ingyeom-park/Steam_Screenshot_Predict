@@ -1,0 +1,23 @@
+{
+  "appid": 2075720,
+  "success": true,
+  "tags": {
+    "Adventure": 92,
+    "Action": 80,
+    "Open World": 67,
+    "Singleplayer": 56,
+    "Magic": 55,
+    "Fantasy": 55,
+    "Sandbox": 52,
+    "RPG": 51,
+    "Third Person": 43,
+    "Atmospheric": 38,
+    "Exploration": 35,
+    "Action RPG": 34,
+    "Multiplayer": 31,
+    "Superhero": 29,
+    "Destruction": 26,
+    "Indie": 10,
+    "Co-op": 5
+  }
+}

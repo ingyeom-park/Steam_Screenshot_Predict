@@ -1,0 +1,26 @@
+{
+  "appid": 349690,
+  "success": true,
+  "tags": {
+    "Bullet Hell": 116,
+    "Shoot 'Em Up": 112,
+    "Side Scroller": 108,
+    "Action": 104,
+    "Indie": 100,
+    "Pixel Graphics": 94,
+    "Shooter": 90,
+    "Robots": 90,
+    "Mechs": 89,
+    "2D": 83,
+    "Retro": 78,
+    "Sci-fi": 76,
+    "Singleplayer": 73,
+    "Controller": 73,
+    "Arcade": 72,
+    "1980s": 65,
+    "Space": 62,
+    "Short": 52,
+    "Aliens": 44,
+    "Sequel": 37
+  }
+}

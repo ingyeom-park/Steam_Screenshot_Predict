@@ -1,0 +1,26 @@
+{
+  "appid": 1434880,
+  "success": true,
+  "tags": {
+    "Action": 157,
+    "Indie": 151,
+    "Fighting": 146,
+    "Mechs": 144,
+    "Robots": 139,
+    "2D Fighter": 135,
+    "Pixel Graphics": 127,
+    "Retro": 122,
+    "1980s": 119,
+    "1990's": 115,
+    "2D": 107,
+    "PvP": 100,
+    "Multiplayer": 97,
+    "Singleplayer": 91,
+    "Adventure": 88,
+    "Simulation": 86,
+    "Arcade": 85,
+    "Exploration": 82,
+    "Anime": 80,
+    "Remake": 78
+  }
+}

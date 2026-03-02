@@ -1,0 +1,26 @@
+{
+  "appid": 400180,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 196,
+    "Action": 186,
+    "Indie": 180,
+    "Comedy": 177,
+    "Mythology": 175,
+    "Singleplayer": 155,
+    "Rogue-like": 149,
+    "2.5D": 144,
+    "Strategy": 142,
+    "Arcade": 138,
+    "Pixel Graphics": 135,
+    "Rogue-lite": 127,
+    "Procedural Generation": 122,
+    "Historical": 117,
+    "Violent": 113,
+    "Difficult": 108,
+    "Retro": 103,
+    "Perma Death": 93,
+    "Real Time Tactics": 82,
+    "Funny": 76
+  }
+}

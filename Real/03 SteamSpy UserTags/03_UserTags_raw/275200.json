@@ -1,0 +1,26 @@
+{
+  "appid": 275200,
+  "success": true,
+  "tags": {
+    "Western": 124,
+    "Pixel Graphics": 104,
+    "Open World": 95,
+    "Adventure": 80,
+    "Indie": 80,
+    "Action": 76,
+    "Detective": 45,
+    "Local Co-Op": 43,
+    "2D": 37,
+    "Retro": 37,
+    "Great Soundtrack": 31,
+    "Singleplayer": 30,
+    "RPG": 13,
+    "Shooter": 12,
+    "Funny": 12,
+    "Replay Value": 11,
+    "Atmospheric": 10,
+    "Co-op": 5,
+    "Choices Matter": 5,
+    "Local Multiplayer": 5
+  }
+}

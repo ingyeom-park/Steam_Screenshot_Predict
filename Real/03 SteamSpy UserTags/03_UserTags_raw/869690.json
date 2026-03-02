@@ -1,0 +1,26 @@
+{
+  "appid": 869690,
+  "success": true,
+  "tags": {
+    "Casual": 121,
+    "Strategy": 113,
+    "Cats": 110,
+    "Card Game": 107,
+    "Solitaire": 97,
+    "Tabletop": 94,
+    "Board Game": 91,
+    "Singleplayer": 88,
+    "Indie": 84,
+    "Cute": 82,
+    "Puzzle": 78,
+    "2D": 73,
+    "Cartoon": 70,
+    "Colorful": 62,
+    "Hand-drawn": 56,
+    "PvP": 48,
+    "Resource Management": 45,
+    "Tutorial": 37,
+    "Multiplayer": 29,
+    "Local Multiplayer": 28
+  }
+}

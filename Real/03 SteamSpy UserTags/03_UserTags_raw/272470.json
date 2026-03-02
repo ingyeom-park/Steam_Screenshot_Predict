@@ -1,0 +1,26 @@
+{
+  "appid": 272470,
+  "success": true,
+  "tags": {
+    "RPG": 247,
+    "Action": 183,
+    "Adventure": 167,
+    "Hack and Slash": 160,
+    "Action RPG": 145,
+    "Indie": 119,
+    "Co-op": 114,
+    "Steampunk": 102,
+    "Multiplayer": 100,
+    "Singleplayer": 83,
+    "Dungeon Crawler": 79,
+    "Isometric": 78,
+    "Fantasy": 73,
+    "Dark Fantasy": 72,
+    "Loot": 69,
+    "Vampire": 63,
+    "Magic": 62,
+    "Funny": 62,
+    "Gothic": 59,
+    "Tower Defense": 58
+  }
+}

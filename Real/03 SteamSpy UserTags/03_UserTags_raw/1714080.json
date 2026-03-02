@@ -1,0 +1,26 @@
+{
+  "appid": 1714080,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 221,
+    "Top-Down Shooter": 209,
+    "Puzzle": 206,
+    "Sci-fi": 203,
+    "Difficult": 200,
+    "Action": 187,
+    "Destruction": 176,
+    "Physics": 174,
+    "Top-Down": 172,
+    "Pixel Graphics": 157,
+    "2D": 155,
+    "Tactical": 152,
+    "Space": 117,
+    "Procedural Generation": 106,
+    "Singleplayer": 104,
+    "Combat": 77,
+    "Indie": 75,
+    "Cyberpunk": 73,
+    "Rogue-lite": 71,
+    "Retro": 68
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2633950,
+  "success": true,
+  "tags": {
+    "Action": 131,
+    "Adventure": 119,
+    "Retro": 98,
+    "Action-Adventure": 88,
+    "Cartoon": 86,
+    "Pixel Graphics": 75,
+    "1990's": 69,
+    "Old School": 67,
+    "2D Platformer": 66,
+    "Co-op": 63,
+    "Local Co-Op": 58,
+    "Indie": 58,
+    "Local Multiplayer": 54,
+    "Multiplayer": 50,
+    "Singleplayer": 49,
+    "Platformer": 34,
+    "Arcade": 33,
+    "2D": 31,
+    "Colorful": 27,
+    "Cute": 25
+  }
+}

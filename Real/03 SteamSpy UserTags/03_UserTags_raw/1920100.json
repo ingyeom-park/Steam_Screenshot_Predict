@@ -1,0 +1,20 @@
+{
+  "appid": 1920100,
+  "success": true,
+  "tags": {
+    "Adventure": 67,
+    "Narration": 51,
+    "Comedy": 42,
+    "Casual": 41,
+    "First-Person": 40,
+    "Story Rich": 35,
+    "Puzzle": 30,
+    "Exploration": 30,
+    "Funny": 26,
+    "Singleplayer": 23,
+    "Indie": 21,
+    "3D": 20,
+    "Physics": 15,
+    "Minimalist": 15
+  }
+}

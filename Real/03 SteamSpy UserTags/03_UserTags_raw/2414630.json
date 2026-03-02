@@ -1,0 +1,26 @@
+{
+  "appid": 2414630,
+  "success": true,
+  "tags": {
+    "Horror": 216,
+    "Adventure": 201,
+    "Psychological Horror": 201,
+    "Dark": 194,
+    "Survival Horror": 193,
+    "Multiple Endings": 180,
+    "Stealth": 180,
+    "First-Person": 176,
+    "Indie": 171,
+    "Atmospheric": 168,
+    "Story Rich": 164,
+    "Realistic": 160,
+    "Thriller": 156,
+    "Walking Simulator": 150,
+    "Singleplayer": 146,
+    "Surreal": 141,
+    "Exploration": 138,
+    "Retro": 126,
+    "1980s": 122,
+    "Controller": 106
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 310510,
+  "success": true,
+  "tags": {
+    "Tower Defense": 173,
+    "RPG": 135,
+    "Action": 131,
+    "Strategy": 127,
+    "Indie": 123,
+    "Co-op": 121,
+    "Fantasy": 116,
+    "Multiplayer": 111,
+    "Isometric": 103,
+    "Controller": 97,
+    "Action RPG": 95,
+    "Dark Fantasy": 90,
+    "Singleplayer": 85,
+    "Hack and Slash": 80,
+    "Blood": 79,
+    "Online Co-Op": 77,
+    "Gothic": 75,
+    "Steampunk": 73,
+    "Magic": 72,
+    "Crafting": 67
+  }
+}

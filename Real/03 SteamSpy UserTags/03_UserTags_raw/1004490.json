@@ -1,0 +1,26 @@
+{
+  "appid": 1004490,
+  "success": true,
+  "tags": {
+    "Casual": 260,
+    "Indie": 252,
+    "Simulation": 250,
+    "Action": 240,
+    "Adventure": 218,
+    "Local Co-Op": 118,
+    "Multiplayer": 95,
+    "Local Multiplayer": 91,
+    "4 Player Local": 90,
+    "Co-op": 85,
+    "Funny": 76,
+    "Co-op Campaign": 75,
+    "Family Friendly": 74,
+    "Singleplayer": 66,
+    "Colorful": 65,
+    "Cute": 57,
+    "Great Soundtrack": 44,
+    "Difficult": 42,
+    "Split Screen": 27,
+    "Memes": 20
+  }
+}

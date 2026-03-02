@@ -1,0 +1,26 @@
+{
+  "appid": 15700,
+  "success": true,
+  "tags": {
+    "Adventure": 2068,
+    "Platformer": 176,
+    "Classic": 149,
+    "Puzzle": 114,
+    "2D": 110,
+    "Singleplayer": 98,
+    "Cult Classic": 92,
+    "Retro": 72,
+    "Dark": 63,
+    "Funny": 53,
+    "Comedy": 43,
+    "Atmospheric": 43,
+    "1990's": 42,
+    "Difficult": 42,
+    "Puzzle-Platformer": 34,
+    "Cinematic": 32,
+    "Action": 25,
+    "Gore": 22,
+    "Fantasy": 21,
+    "Indie": 14
+  }
+}

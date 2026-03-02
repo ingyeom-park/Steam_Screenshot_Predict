@@ -1,0 +1,26 @@
+{
+  "appid": 1375930,
+  "success": true,
+  "tags": {
+    "Puzzle": 118,
+    "Casual": 111,
+    "Logic": 110,
+    "Strategy": 106,
+    "Rogue-like": 101,
+    "Solitaire": 95,
+    "Match 3": 91,
+    "Rogue-lite": 88,
+    "Hidden Object": 81,
+    "Old School": 76,
+    "Relaxing": 74,
+    "2D": 72,
+    "Pixel Graphics": 69,
+    "Singleplayer": 67,
+    "Loot": 63,
+    "Procedural Generation": 58,
+    "Tutorial": 55,
+    "Indie": 53,
+    "Hex Grid": 37,
+    "Cute": 35
+  }
+}

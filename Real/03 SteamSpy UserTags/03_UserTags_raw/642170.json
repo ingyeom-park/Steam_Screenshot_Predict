@@ -1,0 +1,26 @@
+{
+  "appid": 642170,
+  "success": true,
+  "tags": {
+    "Hunting": 123,
+    "Indie": 116,
+    "VR": 113,
+    "Casual": 110,
+    "Realistic": 107,
+    "Atmospheric": 101,
+    "Action": 99,
+    "Adventure": 97,
+    "Simulation": 95,
+    "Sports": 90,
+    "Arcade": 88,
+    "Shooter": 86,
+    "Early Access": 81,
+    "Action-Adventure": 75,
+    "Survival Horror": 62,
+    "FPS": 54,
+    "Horror": 52,
+    "First-Person": 49,
+    "Beautiful": 48,
+    "Medieval": 45
+  }
+}

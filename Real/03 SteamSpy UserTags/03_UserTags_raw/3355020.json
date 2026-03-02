@@ -1,0 +1,26 @@
+{
+  "appid": 3355020,
+  "success": true,
+  "tags": {
+    "Driving": 127,
+    "Transportation": 122,
+    "Simulation": 118,
+    "Automobile Sim": 114,
+    "Sandbox": 110,
+    "Immersive Sim": 104,
+    "Relaxing": 102,
+    "Building": 100,
+    "Adventure": 98,
+    "Time Attack": 96,
+    "Score Attack": 94,
+    "Casual": 92,
+    "Controller": 79,
+    "Realistic": 77,
+    "Atmospheric": 75,
+    "Singleplayer": 74,
+    "Indie": 71,
+    "Family Friendly": 53,
+    "Colorful": 52,
+    "3D": 50
+  }
+}

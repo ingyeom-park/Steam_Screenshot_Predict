@@ -1,0 +1,26 @@
+{
+  "appid": 1414020,
+  "success": true,
+  "tags": {
+    "Casual": 125,
+    "Puzzle": 121,
+    "Colorful": 117,
+    "Arcade": 113,
+    "Abstract": 108,
+    "Music": 103,
+    "Minimalist": 101,
+    "Relaxing": 97,
+    "Atmospheric": 97,
+    "Match 3": 93,
+    "Action": 88,
+    "Score Attack": 85,
+    "2D": 79,
+    "Pixel Graphics": 76,
+    "Moddable": 73,
+    "Singleplayer": 70,
+    "Soundtrack": 66,
+    "Controller": 62,
+    "Indie": 54,
+    "Family Friendly": 31
+  }
+}

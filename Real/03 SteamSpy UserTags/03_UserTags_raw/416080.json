@@ -1,0 +1,20 @@
+{
+  "appid": 416080,
+  "success": true,
+  "tags": {
+    "Indie": 30,
+    "Simulation": 27,
+    "Strategy": 26,
+    "Action": 25,
+    "Adventure": 20,
+    "God Game": 12,
+    "Puzzle": 11,
+    "Casual": 8,
+    "2D": 8,
+    "Singleplayer": 8,
+    "Arcade": 6,
+    "Fantasy": 5,
+    "Retro": 5,
+    "Shoot 'Em Up": 5
+  }
+}

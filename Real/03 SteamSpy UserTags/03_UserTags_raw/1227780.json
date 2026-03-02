@@ -1,0 +1,26 @@
+{
+  "appid": 1227780,
+  "success": true,
+  "tags": {
+    "Tower Defense": 72,
+    "Strategy": 68,
+    "Action": 47,
+    "Base-Building": 45,
+    "Indie": 44,
+    "Sci-fi": 38,
+    "RTS": 32,
+    "Singleplayer": 32,
+    "Robots": 28,
+    "Real Time Tactics": 26,
+    "Futuristic": 25,
+    "Tactical": 24,
+    "Destruction": 23,
+    "Minimalist": 21,
+    "Top-Down Shooter": 21,
+    "War": 21,
+    "Top-Down": 20,
+    "Atmospheric": 20,
+    "Automation": 20,
+    "Space": 18
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 32900,
+  "success": true,
+  "tags": {
+    "Economy": 235,
+    "Management": 231,
+    "Cooking": 228,
+    "Simulation": 220,
+    "Life Sim": 217,
+    "Strategy": 208,
+    "Resource Management": 207,
+    "Agriculture": 203,
+    "Capitalism": 199,
+    "Casual": 199,
+    "Family Friendly": 196,
+    "Relaxing": 193,
+    "Building": 191,
+    "Indie": 187,
+    "Singleplayer": 186,
+    "Memes": 178,
+    "Adventure": 166,
+    "Walking Simulator": 149,
+    "Free to Play": 127,
+    "Remake": 114
+  }
+}

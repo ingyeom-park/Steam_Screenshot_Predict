@@ -1,0 +1,26 @@
+{
+  "appid": 1745510,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 282,
+    "Dark Fantasy": 239,
+    "First-Person": 231,
+    "RPG": 181,
+    "Retro": 159,
+    "Atmospheric": 141,
+    "Souls-like": 127,
+    "Action RPG": 123,
+    "Singleplayer": 111,
+    "Indie": 104,
+    "Metroidvania": 103,
+    "3D": 100,
+    "Horror": 96,
+    "Stylized": 86,
+    "Open World": 58,
+    "Combat": 52,
+    "PvE": 47,
+    "Violent": 45,
+    "Gore": 41,
+    "LGBTQ+": 26
+  }
+}

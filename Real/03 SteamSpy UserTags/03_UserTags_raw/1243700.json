@@ -1,0 +1,16 @@
+{
+  "appid": 1243700,
+  "success": true,
+  "tags": {
+    "Casual": 46,
+    "Indie": 32,
+    "Adventure": 31,
+    "RPG": 31,
+    "Action": 21,
+    "Simulation": 20,
+    "Visual Novel": 11,
+    "Pixel Graphics": 11,
+    "Drama": 11,
+    "Word Game": 10
+  }
+}

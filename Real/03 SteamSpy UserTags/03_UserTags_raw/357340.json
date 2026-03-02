@@ -1,0 +1,26 @@
+{
+  "appid": 357340,
+  "success": true,
+  "tags": {
+    "Action": 64,
+    "Indie": 54,
+    "Adventure": 52,
+    "Multiplayer": 38,
+    "Platformer": 38,
+    "2D": 35,
+    "Shooter": 34,
+    "Local Multiplayer": 26,
+    "Robots": 25,
+    "Bullet Time": 17,
+    "Sci-fi": 16,
+    "Level Editor": 16,
+    "Co-op": 10,
+    "Side Scroller": 9,
+    "4 Player Local": 7,
+    "Fast-Paced": 6,
+    "Controller": 6,
+    "Great Soundtrack": 5,
+    "Local Co-Op": 5,
+    "Funny": 5
+  }
+}

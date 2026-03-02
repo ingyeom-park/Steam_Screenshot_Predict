@@ -1,0 +1,26 @@
+{
+  "appid": 252030,
+  "success": true,
+  "tags": {
+    "Metroidvania": 335,
+    "Action": 199,
+    "Platformer": 186,
+    "RPG": 176,
+    "Indie": 164,
+    "2D": 118,
+    "Difficult": 87,
+    "Great Soundtrack": 83,
+    "Singleplayer": 81,
+    "Exploration": 70,
+    "Fantasy": 59,
+    "Action RPG": 45,
+    "Side Scroller": 40,
+    "Female Protagonist": 39,
+    "Adventure": 32,
+    "Kickstarter": 29,
+    "Story Rich": 25,
+    "Beat 'em up": 21,
+    "Anime": 19,
+    "GameMaker": 19
+  }
+}

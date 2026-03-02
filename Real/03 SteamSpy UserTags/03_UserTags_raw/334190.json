@@ -1,0 +1,26 @@
+{
+  "appid": 334190,
+  "success": true,
+  "tags": {
+    "Action": 58,
+    "Casual": 54,
+    "Indie": 51,
+    "Pixel Graphics": 48,
+    "Platformer": 47,
+    "Retro": 46,
+    "2D": 44,
+    "Gore": 41,
+    "Violent": 38,
+    "Great Soundtrack": 37,
+    "Horror": 37,
+    "Arcade": 36,
+    "Demons": 36,
+    "1990's": 34,
+    "1980s": 32,
+    "Difficult": 31,
+    "Local Co-Op": 30,
+    "Dark Fantasy": 29,
+    "Singleplayer": 28,
+    "Local Multiplayer": 25
+  }
+}

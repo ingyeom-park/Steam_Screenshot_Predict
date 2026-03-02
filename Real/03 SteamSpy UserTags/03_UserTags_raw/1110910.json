@@ -1,0 +1,26 @@
+{
+  "appid": 1110910,
+  "success": true,
+  "tags": {
+    "Souls-like": 238,
+    "Dark Fantasy": 164,
+    "Action": 154,
+    "RPG": 142,
+    "Difficult": 120,
+    "Violent": 114,
+    "Singleplayer": 110,
+    "Action RPG": 93,
+    "Third Person": 80,
+    "Hack and Slash": 74,
+    "Atmospheric": 72,
+    "Adventure": 64,
+    "Open World": 57,
+    "Gore": 53,
+    "Indie": 51,
+    "Horror": 49,
+    "Multiplayer": 48,
+    "Sexual Content": 41,
+    "Nudity": 39,
+    "Co-op": 34
+  }
+}

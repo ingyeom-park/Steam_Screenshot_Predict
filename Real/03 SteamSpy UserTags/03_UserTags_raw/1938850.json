@@ -1,0 +1,26 @@
+{
+  "appid": 1938850,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 234,
+    "Rhythm": 224,
+    "Rogue-like": 223,
+    "Music": 219,
+    "Bullet Hell": 216,
+    "Action": 207,
+    "Arcade": 202,
+    "Music-Based Procedural Generation": 195,
+    "Minimalist": 178,
+    "Difficult": 169,
+    "Hack and Slash": 159,
+    "Twin Stick Shooter": 147,
+    "Colorful": 144,
+    "Pixel Graphics": 132,
+    "Top-Down": 115,
+    "Rogue-lite": 101,
+    "Perma Death": 81,
+    "2D": 65,
+    "Indie": 48,
+    "Combat": 46
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1364690,
+  "success": true,
+  "tags": {
+    "Racing": 207,
+    "Automobile Sim": 202,
+    "Multiplayer": 196,
+    "Casual": 193,
+    "Indie": 189,
+    "Arcade": 183,
+    "Singleplayer": 182,
+    "Third Person": 179,
+    "Atmospheric": 175,
+    "Controller": 172,
+    "Relaxing": 167,
+    "Retro": 165,
+    "Local Multiplayer": 160,
+    "Local Co-Op": 152,
+    "Driving": 147,
+    "PvP": 143,
+    "PvE": 138,
+    "Destruction": 134,
+    "3D": 130,
+    "Family Friendly": 114
+  }
+}

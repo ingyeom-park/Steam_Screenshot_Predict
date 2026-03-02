@@ -1,0 +1,26 @@
+{
+  "appid": 454250,
+  "success": true,
+  "tags": {
+    "Adventure": 141,
+    "Puzzle": 137,
+    "Mystery": 130,
+    "Point & Click": 127,
+    "Logic": 119,
+    "First-Person": 114,
+    "Hidden Object": 112,
+    "Exploration": 106,
+    "Atmospheric": 103,
+    "Investigation": 100,
+    "Difficult": 98,
+    "Old School": 96,
+    "Sci-fi": 93,
+    "Female Protagonist": 87,
+    "Story Rich": 80,
+    "3D": 78,
+    "Singleplayer": 77,
+    "Casual": 70,
+    "Indie": 62,
+    "Retro": 58
+  }
+}

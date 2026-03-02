@@ -1,0 +1,26 @@
+{
+  "appid": 341090,
+  "success": true,
+  "tags": {
+    "Adventure": 44,
+    "Action": 37,
+    "Indie": 37,
+    "Casual": 36,
+    "Platformer": 34,
+    "Arcade": 32,
+    "Retro": 31,
+    "Colorful": 25,
+    "Family Friendly": 23,
+    "Classic": 19,
+    "Funny": 19,
+    "Fantasy": 18,
+    "Puzzle-Platformer": 18,
+    "Pinball": 16,
+    "Singleplayer": 16,
+    "Puzzle": 15,
+    "Stylized": 11,
+    "Atmospheric": 10,
+    "Action-Adventure": 10,
+    "Great Soundtrack": 10
+  }
+}

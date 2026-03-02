@@ -1,0 +1,25 @@
+{
+  "appid": 906600,
+  "success": true,
+  "tags": {
+    "Indie": 36,
+    "Action": 35,
+    "Platformer": 17,
+    "Arcade": 16,
+    "2D": 15,
+    "Pixel Graphics": 15,
+    "Retro": 13,
+    "Addictive": 13,
+    "Singleplayer": 13,
+    "Difficult": 13,
+    "Shooter": 13,
+    "Shoot 'Em Up": 12,
+    "Bullet Hell": 12,
+    "Fast-Paced": 11,
+    "Replay Value": 11,
+    "Twin Stick Shooter": 11,
+    "Gun Customization": 11,
+    "Side Scroller": 10,
+    "Arena Shooter": 6
+  }
+}

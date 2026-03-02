@@ -1,0 +1,26 @@
+{
+  "appid": 666940,
+  "success": true,
+  "tags": {
+    "Indie": 143,
+    "Action": 141,
+    "Casual": 137,
+    "Adventure": 134,
+    "Platformer": 132,
+    "LGBTQ+": 129,
+    "Puzzle": 123,
+    "Arcade": 118,
+    "Shooter": 110,
+    "Exploration": 101,
+    "Puzzle-Platformer": 99,
+    "Choose Your Own Adventure": 91,
+    "Third-Person Shooter": 85,
+    "2D Platformer": 83,
+    "2D": 71,
+    "Third Person": 61,
+    "Cute": 60,
+    "Atmospheric": 57,
+    "Story Rich": 55,
+    "Comedy": 50
+  }
+}

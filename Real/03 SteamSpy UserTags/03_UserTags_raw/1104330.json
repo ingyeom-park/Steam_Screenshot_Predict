@@ -1,0 +1,26 @@
+{
+  "appid": 1104330,
+  "success": true,
+  "tags": {
+    "Colony Sim": 111,
+    "Base-Building": 78,
+    "City Builder": 73,
+    "Simulation": 66,
+    "Building": 63,
+    "Strategy": 62,
+    "Survival": 54,
+    "Sandbox": 53,
+    "Indie": 51,
+    "Management": 43,
+    "Resource Management": 37,
+    "Character Customization": 36,
+    "Economy": 30,
+    "Crafting": 27,
+    "Medieval": 24,
+    "Cartoony": 17,
+    "Procedural Generation": 16,
+    "Colorful": 14,
+    "Family Friendly": 12,
+    "Singleplayer": 11
+  }
+}

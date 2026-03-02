@@ -1,0 +1,26 @@
+{
+  "appid": 1455900,
+  "success": true,
+  "tags": {
+    "Online Co-Op": 375,
+    "Indie": 360,
+    "Combat": 354,
+    "Tactical": 353,
+    "Local Multiplayer": 330,
+    "2D Fighter": 322,
+    "Multiplayer": 316,
+    "2D Platformer": 305,
+    "Co-op": 301,
+    "Retro": 301,
+    "Party Game": 295,
+    "Swordplay": 289,
+    "Platformer": 283,
+    "Casual": 279,
+    "PvP": 278,
+    "Pixel Graphics": 276,
+    "Team-Based": 257,
+    "Local Co-Op": 254,
+    "Singleplayer": 249,
+    "Arcade": 245
+  }
+}

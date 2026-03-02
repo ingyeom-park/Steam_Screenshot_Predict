@@ -1,0 +1,26 @@
+{
+  "appid": 1689270,
+  "success": true,
+  "tags": {
+    "Side Scroller": 146,
+    "Precision Platformer": 140,
+    "Puzzle-Platformer": 137,
+    "Difficult": 134,
+    "Platformer": 129,
+    "Female Protagonist": 121,
+    "2D": 118,
+    "Linear": 116,
+    "Controller": 109,
+    "Action": 102,
+    "Colorful": 100,
+    "Pixel Graphics": 95,
+    "Logic": 91,
+    "Mythology": 88,
+    "Magic": 81,
+    "Adventure": 67,
+    "Retro": 56,
+    "Singleplayer": 54,
+    "Indie": 48,
+    "Soundtrack": 27
+  }
+}

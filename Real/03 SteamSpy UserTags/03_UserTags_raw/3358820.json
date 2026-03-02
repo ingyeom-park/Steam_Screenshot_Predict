@@ -1,0 +1,26 @@
+{
+  "appid": 3358820,
+  "success": true,
+  "tags": {
+    "Indie": 106,
+    "Horror": 101,
+    "Psychological Horror": 95,
+    "First-Person": 92,
+    "Dark": 89,
+    "Atmospheric": 80,
+    "Adventure": 78,
+    "Mystery": 70,
+    "Jump Scare": 68,
+    "Exploration": 66,
+    "Story Rich": 64,
+    "Singleplayer": 62,
+    "Action-Adventure": 60,
+    "Hidden Object": 58,
+    "Visual Novel": 56,
+    "3D": 54,
+    "Point & Click": 51,
+    "Realistic": 50,
+    "Gore": 48,
+    "Artificial Intelligence": 28
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "appid": 3384610,
+  "success": true,
+  "tags": {
+    "Simulation": 133,
+    "Flight": 127,
+    "VR": 125,
+    "Driving": 121,
+    "3D Vision": 118,
+    "First-Person": 112,
+    "Immersive Sim": 110,
+    "Indie": 108,
+    "Action-Adventure": 99,
+    "Sports": 97,
+    "Physics": 86,
+    "Singleplayer": 84,
+    "Action": 82,
+    "3D Platformer": 68,
+    "3D": 66,
+    "Casual": 64,
+    "Software Training": 47
+  }
+}

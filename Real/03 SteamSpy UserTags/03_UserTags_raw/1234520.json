@@ -1,0 +1,19 @@
+{
+  "appid": 1234520,
+  "success": true,
+  "tags": {
+    "Adventure": 63,
+    "Puzzle": 25,
+    "Point & Click": 17,
+    "Escape Room": 17,
+    "Casual": 15,
+    "First-Person": 15,
+    "Singleplayer": 15,
+    "Touch-Friendly": 15,
+    "Physics": 14,
+    "Indie": 13,
+    "Hidden Object": 13,
+    "Atmospheric": 12,
+    "3D": 12
+  }
+}

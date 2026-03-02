@@ -1,0 +1,23 @@
+{
+  "appid": 1575300,
+  "success": true,
+  "tags": {
+    "Arcade": 92,
+    "Action": 86,
+    "Flight": 80,
+    "Mystery Dungeon": 78,
+    "Perma Death": 75,
+    "Pixel Graphics": 71,
+    "3D": 68,
+    "2.5D": 65,
+    "Violent": 64,
+    "Top-Down": 60,
+    "Underground": 58,
+    "Singleplayer": 53,
+    "Mining": 53,
+    "Indie": 51,
+    "Retro": 32,
+    "Linear": 28,
+    "Nature": 25
+  }
+}

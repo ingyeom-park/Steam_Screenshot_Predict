@@ -1,0 +1,26 @@
+{
+  "appid": 1465070,
+  "success": true,
+  "tags": {
+    "VR": 266,
+    "Online Co-Op": 238,
+    "Swordplay": 226,
+    "Action": 210,
+    "Medieval": 206,
+    "Gore": 198,
+    "Fantasy": 182,
+    "Magic": 171,
+    "Adventure": 165,
+    "Action RPG": 159,
+    "RPG": 148,
+    "Dark Fantasy": 142,
+    "Combat": 129,
+    "Souls-like": 102,
+    "Action-Adventure": 99,
+    "Dungeon Crawler": 80,
+    "PvE": 76,
+    "Indie": 74,
+    "Simulation": 72,
+    "Hack and Slash": 70
+  }
+}

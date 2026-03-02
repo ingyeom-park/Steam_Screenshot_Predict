@@ -1,0 +1,26 @@
+{
+  "appid": 1797610,
+  "success": true,
+  "tags": {
+    "Indie": 154,
+    "Racing": 149,
+    "Sports": 142,
+    "Multiplayer": 141,
+    "PvP": 136,
+    "Arcade": 129,
+    "Driving": 125,
+    "Automobile Sim": 120,
+    "Immersive Sim": 115,
+    "Simulation": 113,
+    "Time Attack": 113,
+    "Local Multiplayer": 108,
+    "Singleplayer": 106,
+    "Split Screen": 99,
+    "Casual": 95,
+    "4 Player Local": 91,
+    "Sequel": 84,
+    "Third Person": 76,
+    "3D": 61,
+    "Action": 50
+  }
+}

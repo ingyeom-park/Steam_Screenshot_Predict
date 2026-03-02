@@ -1,0 +1,26 @@
+{
+  "appid": 471810,
+  "success": true,
+  "tags": {
+    "Puzzle": 190,
+    "Local Co-Op": 183,
+    "Co-op": 179,
+    "Funny": 176,
+    "Sokoban": 173,
+    "4 Player Local": 167,
+    "Minimalist": 162,
+    "Family Friendly": 154,
+    "Singleplayer": 151,
+    "Casual": 149,
+    "Indie": 139,
+    "Local Multiplayer": 134,
+    "Co-op Campaign": 132,
+    "Robots": 131,
+    "Artificial Intelligence": 128,
+    "Controller": 126,
+    "Difficult": 122,
+    "Satire": 120,
+    "Dark Humor": 114,
+    "Dynamic Narration": 99
+  }
+}

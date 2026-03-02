@@ -1,0 +1,24 @@
+{
+  "appid": 1303010,
+  "success": true,
+  "tags": {
+    "Action": 197,
+    "Simulation": 192,
+    "Flight": 175,
+    "Military": 163,
+    "Indie": 159,
+    "War": 157,
+    "World War II": 152,
+    "Arcade": 132,
+    "Shooter": 123,
+    "Wargame": 114,
+    "3D": 104,
+    "Third Person": 101,
+    "PvE": 88,
+    "Vehicular Combat": 74,
+    "Singleplayer": 59,
+    "Combat": 44,
+    "Fighting": 29,
+    "Realistic": 26
+  }
+}

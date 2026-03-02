@@ -1,0 +1,26 @@
+{
+  "appid": 1492250,
+  "success": true,
+  "tags": {
+    "Horror": 278,
+    "Stealth": 272,
+    "Rogue-like": 267,
+    "Action Roguelike": 266,
+    "Action": 263,
+    "Action RTS": 254,
+    "Procedural Generation": 252,
+    "Multiple Endings": 250,
+    "First-Person": 248,
+    "Strategy": 245,
+    "Indie": 241,
+    "RTS": 234,
+    "FPS": 231,
+    "Zombies": 220,
+    "Perma Death": 206,
+    "Singleplayer": 190,
+    "3D": 173,
+    "Psychological Horror": 155,
+    "Gore": 143,
+    "Dark": 134
+  }
+}

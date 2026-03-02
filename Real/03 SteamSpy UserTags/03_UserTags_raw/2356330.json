@@ -1,0 +1,26 @@
+{
+  "appid": 2356330,
+  "success": true,
+  "tags": {
+    "Adventure": 229,
+    "Lovecraftian": 213,
+    "Old School": 203,
+    "1980s": 198,
+    "1990's": 192,
+    "Interactive Fiction": 183,
+    "Clicker": 173,
+    "Puzzle": 167,
+    "2D": 158,
+    "Drama": 149,
+    "Gothic": 137,
+    "Mystery": 126,
+    "Retro": 126,
+    "Multiple Endings": 111,
+    "Conversation": 95,
+    "2D Platformer": 79,
+    "Text-Based": 62,
+    "Indie": 45,
+    "Psychological Horror": 44,
+    "Singleplayer": 28
+  }
+}

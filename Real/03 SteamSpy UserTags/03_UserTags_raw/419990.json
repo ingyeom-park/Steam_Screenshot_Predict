@@ -1,0 +1,26 @@
+{
+  "appid": 419990,
+  "success": true,
+  "tags": {
+    "Sports": 124,
+    "Strategy": 117,
+    "RPG": 114,
+    "Turn-Based": 112,
+    "Football (Soccer)": 109,
+    "Anime": 102,
+    "Indie": 95,
+    "Casual": 91,
+    "Turn-Based Tactics": 90,
+    "2D": 87,
+    "Strategy RPG": 85,
+    "Turn-Based Strategy": 82,
+    "Tactical RPG": 74,
+    "Colorful": 65,
+    "Tactical": 61,
+    "Character Customization": 54,
+    "Controller": 50,
+    "Grid-Based Movement": 46,
+    "4 Player Local": 42,
+    "Multiplayer": 31
+  }
+}

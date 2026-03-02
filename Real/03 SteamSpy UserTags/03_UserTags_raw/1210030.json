@@ -1,0 +1,26 @@
+{
+  "appid": 1210030,
+  "success": true,
+  "tags": {
+    "Simulation": 94,
+    "Adventure": 80,
+    "Indie": 78,
+    "Visual Novel": 74,
+    "Mystery": 72,
+    "Detective": 70,
+    "Thriller": 47,
+    "Puzzle": 42,
+    "Anime": 42,
+    "Singleplayer": 38,
+    "Horror": 33,
+    "Story Rich": 32,
+    "Dating Sim": 27,
+    "Drama": 24,
+    "Dark": 23,
+    "Atmospheric": 22,
+    "Exploration": 22,
+    "Surreal": 18,
+    "Survival": 17,
+    "Great Soundtrack": 16
+  }
+}

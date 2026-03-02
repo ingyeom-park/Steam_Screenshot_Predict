@@ -1,0 +1,26 @@
+{
+  "appid": 598330,
+  "success": true,
+  "tags": {
+    "Flight": 236,
+    "City Builder": 220,
+    "Management": 216,
+    "Casual": 214,
+    "Base-Building": 211,
+    "Economy": 210,
+    "Building": 206,
+    "Sandbox": 195,
+    "Strategy": 188,
+    "Simulation": 184,
+    "2D": 183,
+    "Pixel Graphics": 174,
+    "Resource Management": 108,
+    "Singleplayer": 107,
+    "Indie": 95,
+    "Early Access": 87,
+    "Action": 28,
+    "Funny": 26,
+    "Free to Play": 6,
+    "Multiplayer": 5
+  }
+}

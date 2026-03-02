@@ -1,0 +1,24 @@
+{
+  "appid": 1175200,
+  "success": true,
+  "tags": {
+    "Indie": 36,
+    "Action": 35,
+    "Adventure": 31,
+    "Massively Multiplayer": 31,
+    "FPS": 21,
+    "Co-op": 20,
+    "Shooter": 19,
+    "First-Person": 18,
+    "Multiplayer": 18,
+    "Singleplayer": 15,
+    "Gore": 14,
+    "Demons": 14,
+    "Tower Defense": 13,
+    "Sci-fi": 11,
+    "Difficult": 11,
+    "Atmospheric": 10,
+    "Survival": 6,
+    "Base-Building": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1121720,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 123,
+    "Party-Based RPG": 117,
+    "Character Customization": 113,
+    "RPG": 110,
+    "2D": 106,
+    "Isometric": 100,
+    "Procedural Generation": 98,
+    "Turn-Based Combat": 96,
+    "Dark Fantasy": 91,
+    "Fantasy": 89,
+    "Loot": 87,
+    "Tactical": 79,
+    "Old School": 70,
+    "Retro": 68,
+    "Singleplayer": 61,
+    "Indie": 54,
+    "Strategy": 52,
+    "Adventure": 50,
+    "Rogue-like": 35,
+    "Turn-Based": 32
+  }
+}

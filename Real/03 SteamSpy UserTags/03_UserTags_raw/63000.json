@@ -1,0 +1,17 @@
+{
+  "appid": 63000,
+  "success": true,
+  "tags": {
+    "Casual": 89,
+    "Strategy": 75,
+    "Dragons": 75,
+    "Indie": 72,
+    "Action": 68,
+    "Fantasy": 54,
+    "Multiplayer": 50,
+    "Arcade": 37,
+    "Singleplayer": 30,
+    "Co-op": 18,
+    "Top-Down": 5
+  }
+}

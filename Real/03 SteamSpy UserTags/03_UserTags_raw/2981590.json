@@ -1,0 +1,26 @@
+{
+  "appid": 2981590,
+  "success": true,
+  "tags": {
+    "Simulation": 138,
+    "Economy": 103,
+    "Management": 101,
+    "Life Sim": 97,
+    "Capitalism": 94,
+    "Immersive Sim": 88,
+    "Resource Management": 85,
+    "Inventory Management": 79,
+    "Singleplayer": 77,
+    "Automobile Sim": 72,
+    "Casual": 68,
+    "Realistic": 65,
+    "Indie": 63,
+    "Multiplayer": 62,
+    "Automation": 60,
+    "First-Person": 57,
+    "Building": 51,
+    "Base-Building": 48,
+    "Crafting": 40,
+    "Time Management": 39
+  }
+}

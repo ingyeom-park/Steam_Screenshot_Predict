@@ -1,0 +1,26 @@
+{
+  "appid": 382140,
+  "success": true,
+  "tags": {
+    "Survival": 135,
+    "Action Roguelike": 115,
+    "Adventure": 106,
+    "Indie": 101,
+    "Post-apocalyptic": 94,
+    "Rogue-like": 84,
+    "Zombies": 65,
+    "Simulation": 64,
+    "RPG": 61,
+    "2D": 56,
+    "Singleplayer": 52,
+    "Atmospheric": 50,
+    "Crafting": 45,
+    "Point & Click": 44,
+    "Horror": 39,
+    "Turn-Based Combat": 34,
+    "Action": 30,
+    "Difficult": 30,
+    "Replay Value": 28,
+    "Side Scroller": 22
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appid": 1860900,
+  "success": true,
+  "tags": {
+    "Casual": 196,
+    "Emotional": 170,
+    "Cartoon": 166,
+    "Nature": 161,
+    "Story Rich": 155,
+    "Cute": 149,
+    "Puzzle-Platformer": 138,
+    "Exploration": 130,
+    "First-Person": 121,
+    "Cartoony": 113,
+    "Puzzle": 105,
+    "Point & Click": 99,
+    "Drama": 87,
+    "Hand-drawn": 73,
+    "Detective": 58,
+    "Relaxing": 42,
+    "Narration": 27,
+    "Singleplayer": 25,
+    "Indie": 21
+  }
+}

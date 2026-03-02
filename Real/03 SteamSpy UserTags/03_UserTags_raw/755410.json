@@ -1,0 +1,21 @@
+{
+  "appid": 755410,
+  "success": true,
+  "tags": {
+    "Action": 35,
+    "Adventure": 33,
+    "Indie": 33,
+    "RPG": 30,
+    "VR": 25,
+    "Archery": 14,
+    "Fantasy": 13,
+    "Magic": 13,
+    "Action RPG": 13,
+    "Dungeon Crawler": 12,
+    "Exploration": 12,
+    "Epic": 12,
+    "Difficult": 12,
+    "Character Customization": 12,
+    "Action-Adventure": 11
+  }
+}

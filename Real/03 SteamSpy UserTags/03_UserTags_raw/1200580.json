@@ -1,0 +1,26 @@
+{
+  "appid": 1200580,
+  "success": true,
+  "tags": {
+    "Action": 174,
+    "Indie": 167,
+    "Pixel Graphics": 167,
+    "Retro": 162,
+    "Platformer": 161,
+    "2D Platformer": 152,
+    "Exploration": 147,
+    "Precision Platformer": 143,
+    "Side Scroller": 141,
+    "Puzzle-Platformer": 140,
+    "Cute": 137,
+    "Atmospheric": 135,
+    "Funny": 133,
+    "Singleplayer": 130,
+    "Difficult": 122,
+    "Adventure": 113,
+    "Puzzle": 110,
+    "2D": 100,
+    "Controller": 92,
+    "Linear": 91
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 3206410,
+  "success": true,
+  "tags": {
+    "Psychological Horror": 369,
+    "Survival Horror": 362,
+    "Supernatural": 358,
+    "Linear": 353,
+    "Foreign": 347,
+    "Lore-Rich": 337,
+    "Dark": 330,
+    "Psychological": 322,
+    "Story Rich": 313,
+    "Drama": 303,
+    "Atmospheric": 292,
+    "First-Person": 282,
+    "Immersive Sim": 268,
+    "Singleplayer": 255,
+    "Violent": 240,
+    "Nature": 238,
+    "Adventure": 223,
+    "Realistic": 221,
+    "Casual": 204,
+    "Exploration": 164
+  }
+}

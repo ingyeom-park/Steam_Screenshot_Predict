@@ -1,0 +1,22 @@
+{
+  "appid": 384000,
+  "success": true,
+  "tags": {
+    "Action": 46,
+    "Adventure": 43,
+    "Indie": 43,
+    "Atmospheric": 29,
+    "Singleplayer": 28,
+    "Action-Adventure": 22,
+    "Action RPG": 22,
+    "Top-Down": 20,
+    "Story Rich": 19,
+    "Colorful": 18,
+    "Casual": 17,
+    "Hand-drawn": 17,
+    "Great Soundtrack": 16,
+    "Hack and Slash": 13,
+    "Historical": 11,
+    "RPG": 10
+  }
+}

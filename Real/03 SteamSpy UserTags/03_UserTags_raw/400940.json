@@ -1,0 +1,20 @@
+{
+  "appid": 400940,
+  "success": true,
+  "tags": {
+    "Action": 121,
+    "Adventure": 110,
+    "VR": 110,
+    "Indie": 99,
+    "Stealth": 85,
+    "Singleplayer": 76,
+    "Robots": 56,
+    "Horror": 37,
+    "Colorful": 25,
+    "First-Person": 18,
+    "Psychological Horror": 14,
+    "FPS": 11,
+    "Sci-fi": 9,
+    "Atmospheric": 6
+  }
+}

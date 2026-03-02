@@ -1,0 +1,26 @@
+{
+  "appid": 360940,
+  "success": true,
+  "tags": {
+    "Action": 152,
+    "Multiplayer": 145,
+    "Third-Person Shooter": 118,
+    "Shooter": 104,
+    "Funny": 95,
+    "Indie": 88,
+    "Great Soundtrack": 55,
+    "Colorful": 44,
+    "Co-op": 25,
+    "Fast-Paced": 21,
+    "Online Co-Op": 20,
+    "FPS": 20,
+    "First-Person": 18,
+    "Singleplayer": 17,
+    "Military": 16,
+    "Casual": 16,
+    "Cartoony": 9,
+    "Family Friendly": 9,
+    "World War II": 7,
+    "Atmospheric": 6
+  }
+}

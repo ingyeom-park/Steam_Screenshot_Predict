@@ -1,0 +1,26 @@
+{
+  "appid": 3188050,
+  "success": true,
+  "tags": {
+    "Sci-fi": 127,
+    "Adventure": 121,
+    "Interactive Fiction": 119,
+    "Indie": 115,
+    "Story Rich": 112,
+    "Mystery": 106,
+    "Cyberpunk": 104,
+    "Narrative": 102,
+    "Stylized": 97,
+    "Retro": 87,
+    "Dystopian ": 76,
+    "1980s": 64,
+    "Surreal": 58,
+    "Walking Simulator": 56,
+    "Atmospheric": 54,
+    "Visual Novel": 52,
+    "Choose Your Own Adventure": 50,
+    "Psychological": 48,
+    "Singleplayer": 46,
+    "Isometric": 44
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appid": 324070,
+  "success": true,
+  "tags": {
+    "Indie": 30,
+    "Action": 26,
+    "Racing": 24,
+    "Physics": 18,
+    "Puzzle": 16,
+    "Puzzle-Platformer": 14,
+    "2D": 10,
+    "Platformer": 5
+  }
+}

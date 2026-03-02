@@ -1,0 +1,25 @@
+{
+  "appid": 754890,
+  "success": true,
+  "tags": {
+    "Puzzle": 189,
+    "Adventure": 185,
+    "Exploration": 180,
+    "Mystery": 172,
+    "Story Rich": 168,
+    "Singleplayer": 151,
+    "Walking Simulator": 141,
+    "VR": 135,
+    "3D": 134,
+    "Atmospheric": 118,
+    "Steampunk": 106,
+    "Narration": 102,
+    "Family Friendly": 88,
+    "Investigation": 77,
+    "Soundtrack": 61,
+    "Cinematic": 45,
+    "Dystopian ": 29,
+    "Fantasy": 28,
+    "Indie": 22
+  }
+}

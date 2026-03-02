@@ -1,0 +1,26 @@
+{
+  "appid": 551110,
+  "success": true,
+  "tags": {
+    "Indie": 78,
+    "Puzzle": 71,
+    "Casual": 69,
+    "Singleplayer": 50,
+    "Difficult": 47,
+    "Minimalist": 40,
+    "Strategy": 34,
+    "Atmospheric": 32,
+    "Relaxing": 28,
+    "Stylized": 27,
+    "2D": 19,
+    "Abstract": 15,
+    "Family Friendly": 15,
+    "Top-Down": 13,
+    "Replay Value": 12,
+    "Pixel Graphics": 9,
+    "Simulation": 8,
+    "Point & Click": 7,
+    "Utilities": 7,
+    "Design & Illustration": 7
+  }
+}

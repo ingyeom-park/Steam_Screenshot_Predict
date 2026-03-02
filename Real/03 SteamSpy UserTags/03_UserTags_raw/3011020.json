@@ -1,0 +1,26 @@
+{
+  "appid": 3011020,
+  "success": true,
+  "tags": {
+    "Psychological Horror": 213,
+    "Dark": 206,
+    "Horror": 204,
+    "Atmospheric": 198,
+    "Adventure": 194,
+    "Psychological": 191,
+    "Realistic": 181,
+    "Story Rich": 166,
+    "Simulation": 158,
+    "Exploration": 157,
+    "Walking Simulator": 148,
+    "Supernatural": 126,
+    "Mystery": 124,
+    "First-Person": 111,
+    "Psychedelic": 95,
+    "Linear": 79,
+    "3D": 62,
+    "Indie": 45,
+    "Singleplayer": 44,
+    "Cinematic": 27
+  }
+}

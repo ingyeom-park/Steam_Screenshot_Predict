@@ -1,0 +1,26 @@
+{
+  "appid": 406160,
+  "success": true,
+  "tags": {
+    "Strategy": 130,
+    "Sci-fi": 120,
+    "Space": 118,
+    "Real Time Tactics": 116,
+    "4X": 111,
+    "Tactical": 106,
+    "Simulation": 104,
+    "Real-Time": 103,
+    "Space Sim": 100,
+    "Indie": 94,
+    "3D": 54,
+    "Wargame": 50,
+    "Third Person": 42,
+    "Base-Building": 42,
+    "Military": 41,
+    "RTS": 40,
+    "Combat": 36,
+    "Singleplayer": 35,
+    "PvE": 35,
+    "Turn-Based Combat": 27
+  }
+}

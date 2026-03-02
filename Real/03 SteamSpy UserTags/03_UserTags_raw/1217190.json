@@ -1,0 +1,26 @@
+{
+  "appid": 1217190,
+  "success": true,
+  "tags": {
+    "Casual": 334,
+    "Adventure": 328,
+    "Indie": 325,
+    "RPG": 322,
+    "RPGMaker": 317,
+    "Fantasy": 309,
+    "Turn-Based Strategy": 306,
+    "Exploration": 304,
+    "Visual Novel": 302,
+    "JRPG": 300,
+    "2D Platformer": 297,
+    "Tactical RPG": 296,
+    "2D": 294,
+    "Anime": 291,
+    "Third Person": 287,
+    "Tactical": 282,
+    "Strategy": 274,
+    "Swordplay": 271,
+    "Drama": 266,
+    "Retro": 252
+  }
+}

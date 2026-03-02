@@ -1,0 +1,25 @@
+{
+  "appid": 1389890,
+  "success": true,
+  "tags": {
+    "Adventure": 195,
+    "Exploration": 169,
+    "Platformer": 168,
+    "2D Platformer": 163,
+    "Puzzle-Platformer": 156,
+    "2D": 146,
+    "Colorful": 139,
+    "Cute": 131,
+    "Pixel Graphics": 124,
+    "Cats": 117,
+    "Family Friendly": 102,
+    "Fantasy": 97,
+    "Game Development": 84,
+    "Magic": 71,
+    "Mystery": 57,
+    "Mythology": 39,
+    "Singleplayer": 26,
+    "Surreal": 26,
+    "Indie": 23
+  }
+}

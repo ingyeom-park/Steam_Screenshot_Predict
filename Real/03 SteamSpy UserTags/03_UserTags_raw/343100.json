@@ -1,0 +1,26 @@
+{
+  "appid": 343100,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 62,
+    "Indie": 59,
+    "RPG": 52,
+    "Action": 52,
+    "Pixel Graphics": 44,
+    "Rogue-like": 37,
+    "Adventure": 36,
+    "Bullet Hell": 36,
+    "Dungeon Crawler": 34,
+    "Casual": 33,
+    "Rogue-lite": 30,
+    "Strategy": 26,
+    "Loot": 25,
+    "Retro": 23,
+    "2D": 16,
+    "Hack and Slash": 15,
+    "Singleplayer": 14,
+    "Difficult": 11,
+    "Great Soundtrack": 10,
+    "Twin Stick Shooter": 10
+  }
+}

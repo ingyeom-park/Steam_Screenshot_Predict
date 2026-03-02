@@ -1,0 +1,26 @@
+{
+  "appid": 212110,
+  "success": true,
+  "tags": {
+    "Indie": 97,
+    "Platformer": 87,
+    "Action": 84,
+    "Puzzle-Platformer": 81,
+    "2D": 78,
+    "Singleplayer": 72,
+    "Casual": 69,
+    "Soundtrack": 65,
+    "Cute": 64,
+    "Difficult": 60,
+    "Puzzle": 55,
+    "Short": 52,
+    "2D Platformer": 49,
+    "Colorful": 46,
+    "Comic Book": 43,
+    "Family Friendly": 41,
+    "Controller": 39,
+    "Multiple Endings": 36,
+    "Anime": 33,
+    "e-sports": 32
+  }
+}

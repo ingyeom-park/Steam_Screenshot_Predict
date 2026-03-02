@@ -1,0 +1,26 @@
+{
+  "appid": 1016360,
+  "success": true,
+  "tags": {
+    "Action": 45,
+    "Violent": 44,
+    "Gore": 44,
+    "Indie": 42,
+    "Rogue-lite": 36,
+    "Online Co-Op": 33,
+    "First-Person": 31,
+    "FPS": 30,
+    "Multiplayer": 25,
+    "Demons": 25,
+    "Singleplayer": 24,
+    "PvE": 24,
+    "Shooter": 22,
+    "Mature": 15,
+    "Co-op": 14,
+    "Atmospheric": 14,
+    "Blood": 13,
+    "Great Soundtrack": 12,
+    "Difficult": 12,
+    "Hack and Slash": 12
+  }
+}

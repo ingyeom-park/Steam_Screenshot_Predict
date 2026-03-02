@@ -1,0 +1,26 @@
+{
+  "appid": 1592340,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 230,
+    "Destruction": 227,
+    "Lemmings": 222,
+    "Exploration": 216,
+    "Pixel Graphics": 214,
+    "Simulation": 212,
+    "Puzzle-Platformer": 201,
+    "Physics": 189,
+    "Level Editor": 178,
+    "Indie": 178,
+    "Tactical": 168,
+    "Atmospheric": 146,
+    "Point & Click": 143,
+    "Mining": 130,
+    "Logic": 115,
+    "Female Protagonist": 98,
+    "Puzzle": 84,
+    "Strategy": 82,
+    "2D": 48,
+    "Building": 27
+  }
+}

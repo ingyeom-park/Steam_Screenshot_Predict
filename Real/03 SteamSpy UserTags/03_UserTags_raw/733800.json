@@ -1,0 +1,17 @@
+{
+  "appid": 733800,
+  "success": true,
+  "tags": {
+    "Strategy": 25,
+    "Action": 24,
+    "Indie": 24,
+    "Horror": 23,
+    "Survival": 20,
+    "Survival Horror": 19,
+    "Psychological Horror": 18,
+    "Atmospheric": 18,
+    "First-Person": 8,
+    "VR": 7,
+    "Singleplayer": 6
+  }
+}

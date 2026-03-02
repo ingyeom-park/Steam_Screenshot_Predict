@@ -1,0 +1,26 @@
+{
+  "appid": 496650,
+  "success": true,
+  "tags": {
+    "Action": 141,
+    "Indie": 135,
+    "Horror": 132,
+    "Comedy": 128,
+    "Funny": 123,
+    "Walking Simulator": 116,
+    "First-Person": 112,
+    "Psychological Horror": 107,
+    "Singleplayer": 105,
+    "Adventure": 101,
+    "Puzzle": 99,
+    "Action-Adventure": 96,
+    "Exploration": 93,
+    "Hidden Object": 86,
+    "Atmospheric": 85,
+    "Aliens": 72,
+    "Dark Comedy": 55,
+    "Dark Humor": 39,
+    "Story Rich": 29,
+    "FMV": 27
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "appid": 839340,
+  "success": true,
+  "tags": {
+    "Casual": 76,
+    "Indie": 73,
+    "Sokoban": 70,
+    "Puzzle": 69,
+    "Minimalist": 66,
+    "Singleplayer": 63,
+    "Abstract": 56,
+    "Strategy": 52,
+    "Turn-Based Strategy": 50,
+    "2D": 44,
+    "Logic": 37,
+    "Perma Death": 32,
+    "Grid-Based Movement": 31,
+    "Difficult": 28
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appid": 2943280,
+  "success": true,
+  "tags": {
+    "Simulation": 127,
+    "RPG": 120,
+    "Strategy": 117,
+    "Survival": 114,
+    "Management": 113,
+    "Pixel Graphics": 105,
+    "Trading": 102,
+    "Adventure": 100,
+    "Sandbox": 93,
+    "Drama": 88,
+    "Open World Survival Craft": 87,
+    "Economy": 87,
+    "Exploration": 87,
+    "Building": 82,
+    "Post-apocalyptic": 80,
+    "Zombies": 78,
+    "Indie": 58,
+    "Singleplayer": 45,
+    "2D": 41
+  }
+}

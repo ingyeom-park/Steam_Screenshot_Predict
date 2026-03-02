@@ -1,0 +1,26 @@
+{
+  "appid": 2113490,
+  "success": true,
+  "tags": {
+    "Simulation": 253,
+    "2D": 227,
+    "Immersive Sim": 220,
+    "Casual": 219,
+    "Physics": 212,
+    "Retro": 202,
+    "Comedy": 195,
+    "Colorful": 187,
+    "Parody ": 178,
+    "Indie": 171,
+    "Cozy": 160,
+    "Relaxing": 150,
+    "Funny": 145,
+    "Top-Down": 131,
+    "Pixel Graphics": 117,
+    "Blood": 100,
+    "Controller": 83,
+    "Singleplayer": 66,
+    "Time Management": 44,
+    "Sandbox": 26
+  }
+}

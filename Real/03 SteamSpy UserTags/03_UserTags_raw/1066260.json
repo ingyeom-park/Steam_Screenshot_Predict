@@ -1,0 +1,23 @@
+{
+  "appid": 1066260,
+  "success": true,
+  "tags": {
+    "Indie": 35,
+    "Casual": 35,
+    "Action": 35,
+    "Adventure": 34,
+    "Sports": 31,
+    "Gore": 26,
+    "Violent": 25,
+    "Pixel Graphics": 22,
+    "Memes": 18,
+    "2D": 14,
+    "Retro": 14,
+    "Parody ": 12,
+    "Side Scroller": 11,
+    "Great Soundtrack": 10,
+    "Cute": 9,
+    "Controller": 8,
+    "Comedy": 5
+  }
+}

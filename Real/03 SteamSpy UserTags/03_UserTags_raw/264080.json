@@ -1,0 +1,26 @@
+{
+  "appid": 264080,
+  "success": true,
+  "tags": {
+    "Racing": 101,
+    "Adventure": 90,
+    "Psychedelic": 81,
+    "Action": 79,
+    "Atmospheric": 75,
+    "Indie": 70,
+    "Classic": 70,
+    "Voxel": 64,
+    "Story Rich": 57,
+    "Surreal": 56,
+    "Open World": 48,
+    "RPG": 48,
+    "Retro": 47,
+    "Top-Down": 46,
+    "Sci-fi": 45,
+    "Great Soundtrack": 43,
+    "Psychological Horror": 41,
+    "Singleplayer": 41,
+    "Difficult": 37,
+    "Sandbox": 36
+  }
+}

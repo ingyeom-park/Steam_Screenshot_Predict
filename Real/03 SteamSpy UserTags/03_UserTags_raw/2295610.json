@@ -1,0 +1,26 @@
+{
+  "appid": 2295610,
+  "success": true,
+  "tags": {
+    "Platformer": 112,
+    "Pixel Graphics": 106,
+    "2D": 104,
+    "Action": 98,
+    "Indie": 92,
+    "Retro": 88,
+    "Difficult": 84,
+    "Side Scroller": 80,
+    "Adventure": 76,
+    "Souls-like": 72,
+    "2D Platformer": 70,
+    "Multiplayer": 67,
+    "Co-op": 63,
+    "Local Co-Op": 62,
+    "Funny": 55,
+    "Precision Platformer": 49,
+    "Singleplayer": 49,
+    "Old School": 42,
+    "Hack and Slash": 40,
+    "Local Multiplayer": 38
+  }
+}

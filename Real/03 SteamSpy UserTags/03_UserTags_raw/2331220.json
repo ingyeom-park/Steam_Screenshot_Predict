@@ -1,0 +1,22 @@
+{
+  "appid": 2331220,
+  "success": true,
+  "tags": {
+    "Action": 64,
+    "Casual": 52,
+    "Vehicular Combat": 52,
+    "Singleplayer": 46,
+    "Arcade": 40,
+    "Zombies": 38,
+    "Auto Battler": 29,
+    "Sandbox": 27,
+    "Bullet Hell": 25,
+    "Shoot 'Em Up": 24,
+    "Indie": 21,
+    "3D": 21,
+    "Third Person": 19,
+    "Comic Book": 17,
+    "Combat": 13,
+    "Nonlinear": 11
+  }
+}

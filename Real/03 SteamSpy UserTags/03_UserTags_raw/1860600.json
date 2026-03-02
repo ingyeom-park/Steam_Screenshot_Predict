@@ -1,0 +1,25 @@
+{
+  "appid": 1860600,
+  "success": true,
+  "tags": {
+    "Cute": 115,
+    "Roguelike Deckbuilder": 110,
+    "Post-apocalyptic": 106,
+    "Deckbuilding": 103,
+    "Rogue-like": 99,
+    "Adventure": 92,
+    "Card Game": 89,
+    "Simulation": 82,
+    "Turn-Based Strategy": 77,
+    "Visual Novel": 74,
+    "2D": 69,
+    "2D Platformer": 67,
+    "Casual": 66,
+    "Indie": 53,
+    "Singleplayer": 31,
+    "Dystopian ": 31,
+    "Turn-Based Tactics": 26,
+    "Sci-fi": 25,
+    "Multiple Endings": 24
+  }
+}

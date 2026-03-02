@@ -1,0 +1,26 @@
+{
+  "appid": 489360,
+  "success": true,
+  "tags": {
+    "Horror": 287,
+    "Robots": 184,
+    "Survival Horror": 182,
+    "First-Person": 171,
+    "Singleplayer": 160,
+    "Psychological Horror": 156,
+    "Indie": 149,
+    "Stealth": 145,
+    "Sci-fi": 136,
+    "Survival": 124,
+    "Action": 119,
+    "Simulation": 114,
+    "Multiplayer": 107,
+    "Adventure": 101,
+    "Dark": 99,
+    "Difficult": 96,
+    "Atmospheric": 96,
+    "Gore": 88,
+    "Story Rich": 80,
+    "Action-Adventure": 80
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 3010070,
+  "success": true,
+  "tags": {
+    "Choose Your Own Adventure": 160,
+    "Interactive Fiction": 155,
+    "Visual Novel": 154,
+    "2D": 146,
+    "Comic Book": 139,
+    "Noir": 131,
+    "Choices Matter": 124,
+    "Casual": 118,
+    "Multiple Endings": 118,
+    "Story Rich": 108,
+    "Pixel Graphics": 98,
+    "Stylized": 84,
+    "Thriller": 71,
+    "Atmospheric": 60,
+    "Crime": 42,
+    "Singleplayer": 27,
+    "Drama": 27,
+    "Indie": 21
+  }
+}

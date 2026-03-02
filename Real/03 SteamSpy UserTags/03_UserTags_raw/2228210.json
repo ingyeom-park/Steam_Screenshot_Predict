@@ -1,0 +1,26 @@
+{
+  "appid": 2228210,
+  "success": true,
+  "tags": {
+    "Tower Defense": 300,
+    "Indie": 297,
+    "Automation": 295,
+    "Crafting": 291,
+    "Economy": 287,
+    "Base-Building": 283,
+    "Space": 274,
+    "PvE": 270,
+    "Aliens": 261,
+    "Singleplayer": 258,
+    "Strategy": 254,
+    "Gun Customization": 243,
+    "Resource Management": 229,
+    "Simulation": 225,
+    "Logic": 218,
+    "Sci-fi": 213,
+    "Futuristic": 203,
+    "Combat": 200,
+    "Programming": 198,
+    "3D": 196
+  }
+}

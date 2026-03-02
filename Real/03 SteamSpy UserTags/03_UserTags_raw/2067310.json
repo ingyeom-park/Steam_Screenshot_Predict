@@ -1,0 +1,26 @@
+{
+  "appid": 2067310,
+  "success": true,
+  "tags": {
+    "Adventure": 305,
+    "Cyberpunk": 300,
+    "2.5D": 297,
+    "Pixel Graphics": 294,
+    "Story Rich": 288,
+    "Sci-fi": 282,
+    "Indie": 277,
+    "Singleplayer": 275,
+    "Turn-Based Combat": 274,
+    "RPG": 265,
+    "Puzzle": 264,
+    "Detective": 257,
+    "2D": 249,
+    "Investigation": 249,
+    "Quick-Time Events": 245,
+    "Exploration": 240,
+    "Crime": 239,
+    "Tactical RPG": 235,
+    "Noir": 231,
+    "JRPG": 228
+  }
+}

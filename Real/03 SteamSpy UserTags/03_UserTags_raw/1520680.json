@@ -1,0 +1,22 @@
+{
+  "appid": 1520680,
+  "success": true,
+  "tags": {
+    "RPG": 56,
+    "Rogue-lite": 51,
+    "PvE": 43,
+    "Rogue-like": 40,
+    "2.5D": 35,
+    "Turn-Based Combat": 30,
+    "Puzzle": 28,
+    "Hand-drawn": 24,
+    "Sci-fi": 23,
+    "Indie": 21,
+    "Gore": 21,
+    "Strategy": 20,
+    "Science": 20,
+    "Cartoon": 18,
+    "Singleplayer": 16,
+    "Anime": 6
+  }
+}

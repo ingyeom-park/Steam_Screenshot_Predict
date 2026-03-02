@@ -1,0 +1,26 @@
+{
+  "appid": 989430,
+  "success": true,
+  "tags": {
+    "Emotional": 209,
+    "Narrative": 203,
+    "Interactive Fiction": 200,
+    "Atmospheric": 197,
+    "Story Rich": 194,
+    "RPG": 188,
+    "Walking Simulator": 184,
+    "Pixel Graphics": 182,
+    "Drama": 179,
+    "Relaxing": 176,
+    "Adventure": 172,
+    "Hidden Object": 166,
+    "Visual Novel": 154,
+    "Indie": 148,
+    "Retro": 144,
+    "Psychological": 139,
+    "Exploration": 137,
+    "Casual": 124,
+    "2D": 107,
+    "Singleplayer": 87
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 2258480,
+  "success": true,
+  "tags": {
+    "Action": 181,
+    "Action Roguelike": 154,
+    "Rogue-like": 150,
+    "Shooter": 145,
+    "Arena Shooter": 140,
+    "Bullet Hell": 129,
+    "Rogue-lite": 123,
+    "Top-Down Shooter": 116,
+    "Twin Stick Shooter": 108,
+    "2D": 99,
+    "Pixel Graphics": 98,
+    "Crafting": 83,
+    "Fantasy": 70,
+    "Funny": 57,
+    "Combat": 41,
+    "Gun Customization": 27,
+    "Singleplayer": 26,
+    "Indie": 22
+  }
+}

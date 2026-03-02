@@ -1,0 +1,26 @@
+{
+  "appid": 1213220,
+  "success": true,
+  "tags": {
+    "VR": 258,
+    "Tower Defense": 250,
+    "Strategy": 246,
+    "RTS": 241,
+    "Sci-fi": 231,
+    "Action": 223,
+    "Robots": 222,
+    "Space": 216,
+    "Action RTS": 206,
+    "Real Time Tactics": 205,
+    "3D": 194,
+    "Atmospheric": 186,
+    "Futuristic": 179,
+    "Indie": 177,
+    "Military": 163,
+    "War": 147,
+    "Survival": 134,
+    "Artificial Intelligence": 123,
+    "Old School": 120,
+    "Destruction": 109
+  }
+}

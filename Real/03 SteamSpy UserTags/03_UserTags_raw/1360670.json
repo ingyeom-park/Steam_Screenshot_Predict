@@ -1,0 +1,26 @@
+{
+  "appid": 1360670,
+  "success": true,
+  "tags": {
+    "Casual": 640,
+    "Simulation": 634,
+    "Strategy": 631,
+    "God Game": 627,
+    "RTS": 625,
+    "Base-Building": 616,
+    "Idler": 612,
+    "City Builder": 610,
+    "Open World": 605,
+    "Colony Sim": 596,
+    "Indie": 590,
+    "Political Sim": 588,
+    "Pixel Graphics": 579,
+    "Minimalist": 572,
+    "Medieval": 570,
+    "Singleplayer": 565,
+    "2D": 560,
+    "Anime": 553,
+    "Early Access": 545,
+    "Grand Strategy": 530
+  }
+}

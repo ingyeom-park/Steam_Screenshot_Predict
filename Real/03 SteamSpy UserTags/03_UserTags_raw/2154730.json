@@ -1,0 +1,25 @@
+{
+  "appid": 2154730,
+  "success": true,
+  "tags": {
+    "Sandbox": 127,
+    "Building": 119,
+    "PvP": 115,
+    "Action": 110,
+    "Shooter": 110,
+    "3D": 108,
+    "Simulation": 100,
+    "First-Person": 95,
+    "Voxel": 90,
+    "Destruction": 85,
+    "Realistic": 83,
+    "Multiplayer": 74,
+    "Singleplayer": 61,
+    "Online Co-Op": 58,
+    "PvE": 50,
+    "FPS": 39,
+    "Level Editor": 31,
+    "Co-op": 28,
+    "Indie": 24
+  }
+}

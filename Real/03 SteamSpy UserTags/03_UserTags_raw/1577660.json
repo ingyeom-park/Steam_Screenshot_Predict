@@ -1,0 +1,26 @@
+{
+  "appid": 1577660,
+  "success": true,
+  "tags": {
+    "Metroidvania": 194,
+    "2D Platformer": 190,
+    "Exploration": 185,
+    "Precision Platformer": 180,
+    "Bullet Hell": 174,
+    "Cute": 163,
+    "Retro": 157,
+    "Action": 152,
+    "Stylized": 149,
+    "Controller": 140,
+    "Pixel Graphics": 120,
+    "Minimalist": 120,
+    "2D": 106,
+    "Platformer": 93,
+    "Sci-fi": 76,
+    "Robots": 60,
+    "Adventure": 48,
+    "Atmospheric": 43,
+    "Singleplayer": 26,
+    "Indie": 22
+  }
+}

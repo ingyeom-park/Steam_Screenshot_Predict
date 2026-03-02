@@ -1,0 +1,26 @@
+{
+  "appid": 3015620,
+  "success": true,
+  "tags": {
+    "Tactical": 215,
+    "Real-Time with Pause": 208,
+    "Real Time Tactics": 205,
+    "Top-Down": 203,
+    "Action": 193,
+    "Strategy": 190,
+    "Indie": 187,
+    "Military": 177,
+    "Action RTS": 158,
+    "RTS": 149,
+    "Simulation": 148,
+    "Singleplayer": 141,
+    "Wargame": 125,
+    "Choices Matter": 110,
+    "Sandbox": 99,
+    "Gun Customization": 80,
+    "Management": 62,
+    "2D": 49,
+    "Outbreak Sim": 29,
+    "Multiple Endings": 26
+  }
+}

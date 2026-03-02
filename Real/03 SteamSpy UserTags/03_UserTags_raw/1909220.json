@@ -1,0 +1,26 @@
+{
+  "appid": 1909220,
+  "success": true,
+  "tags": {
+    "Indie": 216,
+    "Multiplayer": 208,
+    "Movie": 206,
+    "Funny": 202,
+    "Simulation": 197,
+    "First-Person": 191,
+    "Comedy": 180,
+    "Arcade": 173,
+    "Sandbox": 167,
+    "Massively Multiplayer": 156,
+    "Story Rich": 148,
+    "Realistic": 141,
+    "Casual": 137,
+    "Immersive Sim": 136,
+    "3D": 131,
+    "Dating Sim": 123,
+    "Adventure": 120,
+    "Life Sim": 115,
+    "Online Co-Op": 111,
+    "Co-op": 105
+  }
+}

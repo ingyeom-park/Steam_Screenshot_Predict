@@ -1,0 +1,23 @@
+{
+  "appid": 247240,
+  "success": true,
+  "tags": {
+    "Platformer": 164,
+    "Difficult": 151,
+    "Action": 128,
+    "Indie": 117,
+    "Retro": 98,
+    "2D": 94,
+    "Adventure": 79,
+    "Singleplayer": 72,
+    "Arcade": 70,
+    "Old School": 54,
+    "Vikings": 48,
+    "Pixel Graphics": 44,
+    "Side Scroller": 38,
+    "Fantasy": 37,
+    "Gore": 16,
+    "2D Platformer": 14,
+    "Metroidvania": 5
+  }
+}

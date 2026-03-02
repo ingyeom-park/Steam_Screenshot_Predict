@@ -1,0 +1,26 @@
+{
+  "appid": 965580,
+  "success": true,
+  "tags": {
+    "Board Game": 292,
+    "Tabletop": 277,
+    "Strategy": 275,
+    "War": 255,
+    "Wargame": 251,
+    "Cute": 244,
+    "Indie": 228,
+    "Turn-Based Strategy": 225,
+    "Simulation": 224,
+    "PvP": 223,
+    "Multiplayer": 214,
+    "Singleplayer": 214,
+    "Touch-Friendly": 208,
+    "Asynchronous Multiplayer": 207,
+    "Card Game": 185,
+    "Puzzle": 181,
+    "Solitaire": 175,
+    "Early Access": 175,
+    "Top-Down": 164,
+    "Cartoony": 149
+  }
+}

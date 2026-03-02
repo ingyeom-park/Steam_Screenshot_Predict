@@ -1,0 +1,23 @@
+{
+  "appid": 1955110,
+  "success": true,
+  "tags": {
+    "Adventure": 101,
+    "Puzzle": 100,
+    "Casual": 93,
+    "Logic": 90,
+    "Programming": 90,
+    "Difficult": 80,
+    "Wholesome": 78,
+    "Relaxing": 72,
+    "Cute": 66,
+    "3D": 62,
+    "Singleplayer": 61,
+    "Strategy": 54,
+    "Indie": 52,
+    "Third Person": 43,
+    "Automation": 38,
+    "Atmospheric": 34,
+    "Family Friendly": 27
+  }
+}

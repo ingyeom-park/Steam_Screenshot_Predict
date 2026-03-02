@@ -1,0 +1,26 @@
+{
+  "appid": 1804170,
+  "success": true,
+  "tags": {
+    "Horror": 179,
+    "Comedy": 173,
+    "Online Co-Op": 170,
+    "Action": 167,
+    "Sci-fi": 162,
+    "Minigames": 152,
+    "3D": 148,
+    "Survival": 146,
+    "Dungeon Crawler": 144,
+    "Shooter": 142,
+    "Co-op": 134,
+    "Psychological Horror": 125,
+    "Party Game": 122,
+    "Multiplayer": 120,
+    "Atmospheric": 117,
+    "Survival Horror": 107,
+    "First-Person": 101,
+    "Space": 95,
+    "Indie": 93,
+    "Procedural Generation": 84
+  }
+}

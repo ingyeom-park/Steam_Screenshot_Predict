@@ -1,0 +1,26 @@
+{
+  "appid": 696140,
+  "success": true,
+  "tags": {
+    "Strategy": 154,
+    "Indie": 148,
+    "Tower Defense": 145,
+    "Medieval": 141,
+    "Local Co-Op": 137,
+    "Local Multiplayer": 131,
+    "4 Player Local": 128,
+    "Fantasy": 123,
+    "Online Co-Op": 120,
+    "Pixel Graphics": 113,
+    "2D": 103,
+    "Adventure": 97,
+    "Casual": 95,
+    "Simulation": 92,
+    "Action": 83,
+    "Platformer": 71,
+    "Co-op": 67,
+    "Multiplayer": 58,
+    "Controller": 51,
+    "Management": 47
+  }
+}

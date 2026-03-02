@@ -1,0 +1,25 @@
+{
+  "appid": 1902300,
+  "success": true,
+  "tags": {
+    "Action": 172,
+    "Hacking": 157,
+    "Indie": 153,
+    "Strategy": 149,
+    "Simulation": 145,
+    "Action Roguelike": 141,
+    "Rogue-lite": 139,
+    "Atmospheric": 135,
+    "Puzzle": 131,
+    "Crime": 130,
+    "2D": 124,
+    "Procedural Generation": 122,
+    "Linear": 117,
+    "Pixel Graphics": 113,
+    "Controller": 112,
+    "Sci-fi": 104,
+    "Futuristic": 75,
+    "Dark": 65,
+    "Singleplayer": 63
+  }
+}

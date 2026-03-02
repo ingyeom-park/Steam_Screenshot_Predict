@@ -1,0 +1,26 @@
+{
+  "appid": 612370,
+  "success": true,
+  "tags": {
+    "Driving": 141,
+    "Arcade": 135,
+    "Action": 133,
+    "Vehicular Combat": 130,
+    "Automobile Sim": 126,
+    "Singleplayer": 120,
+    "Combat Racing": 119,
+    "Action Roguelike": 112,
+    "3D": 106,
+    "Controller": 103,
+    "Shooter": 101,
+    "Top-Down": 100,
+    "Twin Stick Shooter": 97,
+    "Atmospheric": 94,
+    "Retro": 89,
+    "1980s": 87,
+    "Old School": 77,
+    "Indie": 68,
+    "Violent": 64,
+    "Racing": 58
+  }
+}

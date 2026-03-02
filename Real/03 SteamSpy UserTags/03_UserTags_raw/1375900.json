@@ -1,0 +1,26 @@
+{
+  "appid": 1375900,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 186,
+    "Bullet Hell": 181,
+    "Rogue-lite": 164,
+    "Action RPG": 162,
+    "Pixel Graphics": 160,
+    "Rogue-like": 156,
+    "RPG": 148,
+    "2D": 146,
+    "Mechs": 145,
+    "Steampunk": 135,
+    "Controller": 123,
+    "Procedural Generation": 116,
+    "Top-Down": 110,
+    "Action": 107,
+    "Casual": 98,
+    "Sci-fi": 96,
+    "Robots": 92,
+    "Retro": 87,
+    "Singleplayer": 84,
+    "Soundtrack": 77
+  }
+}

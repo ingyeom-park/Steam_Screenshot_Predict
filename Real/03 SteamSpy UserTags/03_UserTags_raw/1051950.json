@@ -1,0 +1,26 @@
+{
+  "appid": 1051950,
+  "success": true,
+  "tags": {
+    "Adventure": 127,
+    "Hand-drawn": 122,
+    "Short": 117,
+    "Walking Simulator": 112,
+    "Cinematic": 112,
+    "Atmospheric": 104,
+    "Co-op": 101,
+    "2D": 99,
+    "Mystery": 93,
+    "Sci-fi": 91,
+    "Female Protagonist": 86,
+    "Emotional": 81,
+    "Relaxing": 79,
+    "Casual": 73,
+    "Local Co-Op": 72,
+    "Singleplayer": 67,
+    "Platformer": 62,
+    "Side Scroller": 60,
+    "Exploration": 56,
+    "Indie": 55
+  }
+}

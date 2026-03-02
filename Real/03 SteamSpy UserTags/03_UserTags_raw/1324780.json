@@ -1,0 +1,26 @@
+{
+  "appid": 1324780,
+  "success": true,
+  "tags": {
+    "World War II": 232,
+    "Action": 213,
+    "Singleplayer": 210,
+    "FPS": 209,
+    "Simulation": 199,
+    "Multiplayer": 192,
+    "Strategy": 189,
+    "Indie": 187,
+    "War": 179,
+    "Gore": 179,
+    "Violent": 172,
+    "Shooter": 168,
+    "Sandbox": 167,
+    "Realistic": 160,
+    "Wargame": 143,
+    "Atmospheric": 140,
+    "Historical": 133,
+    "Team-Based": 117,
+    "Immersive Sim": 116,
+    "First-Person": 114
+  }
+}

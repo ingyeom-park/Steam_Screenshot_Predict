@@ -1,0 +1,26 @@
+{
+  "appid": 1330570,
+  "success": true,
+  "tags": {
+    "Casual": 229,
+    "Third Person": 193,
+    "Funny": 168,
+    "Cartoony": 139,
+    "Colorful": 125,
+    "Fantasy": 110,
+    "Nature": 80,
+    "Indie": 32,
+    "Action": 32,
+    "Racing": 31,
+    "Adventure": 31,
+    "Physics": 25,
+    "Arcade": 13,
+    "Runner": 13,
+    "Minimalist": 12,
+    "Singleplayer": 12,
+    "3D": 12,
+    "Stylized": 12,
+    "Cute": 12,
+    "3D Platformer": 12
+  }
+}

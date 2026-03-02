@@ -1,0 +1,26 @@
+{
+  "appid": 323060,
+  "success": true,
+  "tags": {
+    "Board Game": 230,
+    "Space": 222,
+    "Strategy": 219,
+    "Survival": 212,
+    "Singleplayer": 207,
+    "Rogue-like": 190,
+    "Rogue-lite": 183,
+    "Sci-fi": 181,
+    "Horror": 175,
+    "Difficult": 170,
+    "Perma Death": 163,
+    "Turn-Based": 160,
+    "Mars": 143,
+    "RPG": 132,
+    "Indie": 119,
+    "Management": 116,
+    "Gambling": 99,
+    "Touch-Friendly": 90,
+    "3D": 87,
+    "Colorful": 85
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1235120,
+  "success": true,
+  "tags": {
+    "Action": 415,
+    "Casual": 408,
+    "Platformer": 385,
+    "2D Platformer": 379,
+    "Colorful": 373,
+    "Comedy": 363,
+    "Memes": 358,
+    "Dark Comedy": 356,
+    "Indie": 352,
+    "Funny": 349,
+    "Psychedelic": 319,
+    "Illuminati": 310,
+    "3D Platformer": 292,
+    "Runner": 281,
+    "Game Development": 265,
+    "2.5D": 249,
+    "2D": 247,
+    "3D": 229,
+    "Cartoony": 212,
+    "Aliens": 191
+  }
+}

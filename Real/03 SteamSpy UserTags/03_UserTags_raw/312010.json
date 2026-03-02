@@ -1,0 +1,11 @@
+{
+  "appid": 312010,
+  "success": true,
+  "tags": {
+    "Action": 31,
+    "Adventure": 25,
+    "Indie": 23,
+    "Shooter": 10,
+    "2D": 6
+  }
+}

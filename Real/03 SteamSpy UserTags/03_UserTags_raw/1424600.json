@@ -1,0 +1,26 @@
+{
+  "appid": 1424600,
+  "success": true,
+  "tags": {
+    "Interactive Fiction": 168,
+    "Steampunk": 163,
+    "Dystopian ": 162,
+    "Narrative": 159,
+    "Pixel Graphics": 156,
+    "Atmospheric": 151,
+    "Adventure": 148,
+    "Exploration": 137,
+    "Puzzle": 133,
+    "Old School": 130,
+    "Story Rich": 126,
+    "Hidden Object": 110,
+    "Choices Matter": 103,
+    "Conversation": 100,
+    "Submarine": 88,
+    "Underwater": 75,
+    "Point & Click": 67,
+    "2D": 62,
+    "Singleplayer": 59,
+    "Indie": 54
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 518670,
+  "success": true,
+  "tags": {
+    "Arcade": 123,
+    "Character Customization": 117,
+    "Voxel": 114,
+    "3D": 109,
+    "Funny": 106,
+    "Parody ": 98,
+    "Action": 95,
+    "Simulation": 92,
+    "Pixel Graphics": 90,
+    "Comedy": 88,
+    "Memes": 86,
+    "Satire": 84,
+    "Singleplayer": 82,
+    "Fast-Paced": 78,
+    "Indie": 76,
+    "Mature": 74,
+    "Nudity": 70,
+    "Sexual Content": 57,
+    "Short": 53,
+    "Survival Horror": 34
+  }
+}

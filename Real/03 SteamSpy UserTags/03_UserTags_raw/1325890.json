@@ -1,0 +1,26 @@
+{
+  "appid": 1325890,
+  "success": true,
+  "tags": {
+    "Puzzle": 183,
+    "Atmospheric": 170,
+    "Adventure": 170,
+    "Horror": 164,
+    "Dark": 161,
+    "Surreal": 150,
+    "Indie": 144,
+    "Hand-drawn": 144,
+    "Puzzle-Platformer": 135,
+    "Underwater": 134,
+    "Cinematic": 125,
+    "Side Scroller": 124,
+    "Exploration": 123,
+    "Dark Fantasy": 118,
+    "Interactive Fiction": 106,
+    "Psychedelic": 95,
+    "2D": 87,
+    "Philosophical": 86,
+    "Singleplayer": 84,
+    "Third Person": 75
+  }
+}

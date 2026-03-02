@@ -1,0 +1,26 @@
+{
+  "appid": 389650,
+  "success": true,
+  "tags": {
+    "Shoot 'Em Up": 188,
+    "Shooter": 178,
+    "Mechs": 177,
+    "Side Scroller": 172,
+    "Local Co-Op": 169,
+    "Anime": 162,
+    "Arcade": 160,
+    "Bullet Hell": 157,
+    "4 Player Local": 153,
+    "Twin Stick Shooter": 141,
+    "PvE": 133,
+    "Character Customization": 127,
+    "Action": 126,
+    "Space": 118,
+    "Sci-fi": 113,
+    "Robots": 107,
+    "Atmospheric": 101,
+    "Adventure": 94,
+    "Indie": 92,
+    "Co-op Campaign": 82
+  }
+}

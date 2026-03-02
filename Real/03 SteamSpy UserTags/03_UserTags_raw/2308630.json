@@ -1,0 +1,26 @@
+{
+  "appid": 2308630,
+  "success": true,
+  "tags": {
+    "Pixel Graphics": 366,
+    "Rogue-lite": 307,
+    "Strategy": 300,
+    "City Builder": 292,
+    "Rogue-like": 279,
+    "Base-Building": 273,
+    "Resource Management": 269,
+    "Puzzle": 264,
+    "Turn-Based Strategy": 253,
+    "Exploration": 248,
+    "2D": 243,
+    "Casual": 240,
+    "Relaxing": 236,
+    "Survival": 234,
+    "Building": 225,
+    "Controller": 222,
+    "Choices Matter": 219,
+    "Singleplayer": 214,
+    "Sandbox": 212,
+    "Dark": 211
+  }
+}

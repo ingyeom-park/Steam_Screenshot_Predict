@@ -1,0 +1,20 @@
+{
+  "appid": 512250,
+  "success": true,
+  "tags": {
+    "Comedy": 78,
+    "Indie": 73,
+    "Simulation": 65,
+    "Funny": 64,
+    "Multiplayer": 58,
+    "Local Multiplayer": 50,
+    "2D": 32,
+    "Singleplayer": 27,
+    "Pixel Graphics": 24,
+    "Turn-Based": 21,
+    "Strategy": 14,
+    "Casual": 14,
+    "Fighting": 6,
+    "Great Soundtrack": 6
+  }
+}

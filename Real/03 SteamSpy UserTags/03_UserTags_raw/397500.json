@@ -1,0 +1,26 @@
+{
+  "appid": 397500,
+  "success": true,
+  "tags": {
+    "RPGMaker": 49,
+    "RPG": 36,
+    "Anime": 35,
+    "Adventure": 30,
+    "Indie": 29,
+    "Action": 26,
+    "2D": 15,
+    "Pixel Graphics": 15,
+    "Fantasy": 12,
+    "Open World": 12,
+    "Singleplayer": 11,
+    "Shoot 'Em Up": 10,
+    "Story Rich": 9,
+    "Turn-Based": 8,
+    "Retro": 8,
+    "Great Soundtrack": 7,
+    "Atmospheric": 7,
+    "JRPG": 7,
+    "Puzzle": 6,
+    "Shooter": 5
+  }
+}

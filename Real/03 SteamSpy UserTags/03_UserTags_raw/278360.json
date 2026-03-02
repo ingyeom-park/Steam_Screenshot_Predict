@@ -1,0 +1,26 @@
+{
+  "appid": 278360,
+  "success": true,
+  "tags": {
+    "Adventure": 7139,
+    "First-Person": 454,
+    "Parkour": 449,
+    "Singleplayer": 347,
+    "Indie": 322,
+    "Atmospheric": 285,
+    "Platformer": 279,
+    "Story Rich": 236,
+    "3D Platformer": 180,
+    "Puzzle": 179,
+    "Fantasy": 165,
+    "Casual": 148,
+    "Short": 126,
+    "Sci-fi": 122,
+    "Relaxing": 114,
+    "Narration": 97,
+    "Action": 94,
+    "Family Friendly": 85,
+    "Great Soundtrack": 83,
+    "Difficult": 80
+  }
+}

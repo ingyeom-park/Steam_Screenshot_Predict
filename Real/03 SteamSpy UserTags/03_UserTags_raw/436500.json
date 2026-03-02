@@ -1,0 +1,26 @@
+{
+  "appid": 436500,
+  "success": true,
+  "tags": {
+    "Indie": 52,
+    "Adventure": 49,
+    "Casual": 45,
+    "Simulation": 41,
+    "Pixel Graphics": 36,
+    "RPG": 34,
+    "Female Protagonist": 22,
+    "LGBTQ+": 19,
+    "Exploration": 16,
+    "Atmospheric": 16,
+    "Open World": 14,
+    "Surreal": 13,
+    "Colorful": 12,
+    "Space": 9,
+    "Great Soundtrack": 9,
+    "Sci-fi": 9,
+    "Singleplayer": 9,
+    "Walking Simulator": 9,
+    "Aliens": 9,
+    "Third Person": 6
+  }
+}

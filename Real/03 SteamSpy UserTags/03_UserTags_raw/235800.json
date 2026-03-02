@@ -1,0 +1,26 @@
+{
+  "appid": 235800,
+  "success": true,
+  "tags": {
+    "Music": 334,
+    "Rhythm": 209,
+    "Indie": 174,
+    "Music-Based Procedural Generation": 167,
+    "Moddable": 111,
+    "Casual": 99,
+    "Singleplayer": 84,
+    "Arcade": 69,
+    "Local Multiplayer": 55,
+    "Racing": 49,
+    "Great Soundtrack": 43,
+    "Puzzle": 42,
+    "Mouse only": 38,
+    "Local Co-Op": 37,
+    "Multiplayer": 35,
+    "Procedural Generation": 32,
+    "Colorful": 27,
+    "Controller": 23,
+    "Difficult": 18,
+    "Action": 15
+  }
+}

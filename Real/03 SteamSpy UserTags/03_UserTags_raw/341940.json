@@ -1,0 +1,26 @@
+{
+  "appid": 341940,
+  "success": true,
+  "tags": {
+    "Gore": 853,
+    "Violent": 829,
+    "Action": 575,
+    "Dark": 512,
+    "Mature": 500,
+    "Shooter": 396,
+    "Villain Protagonist": 390,
+    "Indie": 320,
+    "Isometric": 319,
+    "Singleplayer": 303,
+    "Twin Stick Shooter": 245,
+    "Psychological Horror": 219,
+    "Open World": 206,
+    "Horror": 180,
+    "Top-Down Shooter": 179,
+    "Dark Humor": 171,
+    "Third-Person Shooter": 155,
+    "Survival": 138,
+    "Difficult": 131,
+    "Dark Fantasy": 82
+  }
+}

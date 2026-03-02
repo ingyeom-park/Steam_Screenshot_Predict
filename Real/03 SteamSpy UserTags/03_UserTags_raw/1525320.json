@@ -1,0 +1,22 @@
+{
+  "appid": 1525320,
+  "success": true,
+  "tags": {
+    "Action": 64,
+    "Adventure": 60,
+    "Platformer": 53,
+    "Puzzle-Platformer": 46,
+    "Cute": 40,
+    "2D Platformer": 33,
+    "Pixel Graphics": 29,
+    "Cartoony": 29,
+    "1990's": 24,
+    "Funny": 23,
+    "Old School": 22,
+    "Retro": 21,
+    "Indie": 21,
+    "2D": 17,
+    "Controller": 15,
+    "Singleplayer": 14
+  }
+}

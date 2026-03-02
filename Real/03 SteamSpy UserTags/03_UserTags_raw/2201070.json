@@ -1,0 +1,25 @@
+{
+  "appid": 2201070,
+  "success": true,
+  "tags": {
+    "Horror": 180,
+    "Multiplayer": 172,
+    "Investigation": 166,
+    "Mystery": 161,
+    "Psychological Horror": 156,
+    "Demons": 145,
+    "Realistic": 138,
+    "3D": 130,
+    "Action": 122,
+    "First-Person": 122,
+    "Adventure": 120,
+    "Controller": 114,
+    "Dark": 87,
+    "Supernatural": 74,
+    "Co-op": 60,
+    "Online Co-Op": 44,
+    "Singleplayer": 27,
+    "Early Access": 26,
+    "Indie": 22
+  }
+}

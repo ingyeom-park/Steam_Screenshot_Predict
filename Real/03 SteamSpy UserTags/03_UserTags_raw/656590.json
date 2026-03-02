@@ -1,0 +1,26 @@
+{
+  "appid": 656590,
+  "success": true,
+  "tags": {
+    "Casual": 171,
+    "Strategy": 164,
+    "Indie": 162,
+    "Board Game": 159,
+    "4 Player Local": 156,
+    "Short": 149,
+    "Turn-Based": 147,
+    "Asynchronous Multiplayer": 145,
+    "Multiplayer": 144,
+    "Local Multiplayer": 140,
+    "Singleplayer": 138,
+    "Touch-Friendly": 132,
+    "Family Friendly": 124,
+    "Turn-Based Strategy": 122,
+    "Colorful": 120,
+    "Relaxing": 118,
+    "Simulation": 115,
+    "Tabletop": 113,
+    "Wargame": 109,
+    "2D": 105
+  }
+}

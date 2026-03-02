@@ -1,0 +1,26 @@
+{
+  "appid": 1347970,
+  "success": true,
+  "tags": {
+    "Adventure": 461,
+    "Creature Collector": 390,
+    "Rogue-lite": 389,
+    "Base-Building": 386,
+    "Bullet Hell": 385,
+    "Shoot 'Em Up": 355,
+    "Arena Shooter": 349,
+    "Co-op": 342,
+    "Twin Stick Shooter": 337,
+    "Action Roguelike": 337,
+    "Action": 336,
+    "Metroidvania": 334,
+    "Puzzle": 318,
+    "Local Multiplayer": 318,
+    "Arcade": 314,
+    "Procedural Generation": 310,
+    "Difficult": 303,
+    "Dungeon Crawler": 294,
+    "Roguevania": 278,
+    "Indie": 276
+  }
+}

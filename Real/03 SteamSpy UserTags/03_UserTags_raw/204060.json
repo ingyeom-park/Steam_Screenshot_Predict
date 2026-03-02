@@ -1,0 +1,26 @@
+{
+  "appid": 204060,
+  "success": true,
+  "tags": {
+    "Adventure": 264,
+    "Indie": 233,
+    "Pixel Graphics": 205,
+    "Point & Click": 202,
+    "Great Soundtrack": 200,
+    "Atmospheric": 133,
+    "Female Protagonist": 122,
+    "Singleplayer": 116,
+    "Fantasy": 97,
+    "Puzzle": 82,
+    "Relaxing": 78,
+    "Beautiful": 56,
+    "2D": 55,
+    "Casual": 53,
+    "Music": 47,
+    "Story Rich": 37,
+    "Touch-Friendly": 36,
+    "Exploration": 33,
+    "Retro": 24,
+    "Walking Simulator": 18
+  }
+}

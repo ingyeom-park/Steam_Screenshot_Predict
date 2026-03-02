@@ -1,0 +1,26 @@
+{
+  "appid": 1304420,
+  "success": true,
+  "tags": {
+    "Precision Platformer": 120,
+    "2D Platformer": 114,
+    "Platformer": 111,
+    "Indie": 107,
+    "Retro": 104,
+    "Pixel Graphics": 99,
+    "Experimental": 96,
+    "Cute": 95,
+    "Local Co-Op": 92,
+    "Action": 86,
+    "Atmospheric": 80,
+    "Singleplayer": 78,
+    "Local Multiplayer": 76,
+    "Multiplayer": 72,
+    "Co-op": 70,
+    "2D": 65,
+    "Split Screen": 59,
+    "Colorful": 53,
+    "Choices Matter": 46,
+    "Multiple Endings": 44
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2582540,
+  "success": true,
+  "tags": {
+    "Collectathon": 148,
+    "Rogue-lite": 142,
+    "Puzzle": 138,
+    "Turn-Based Strategy": 135,
+    "Strategy": 132,
+    "2D": 126,
+    "Relaxing": 124,
+    "Choices Matter": 122,
+    "Casual": 120,
+    "Abstract": 116,
+    "Colorful": 111,
+    "Minimalist": 109,
+    "Stylized": 104,
+    "Gothic": 96,
+    "Medieval": 84,
+    "Score Attack": 73,
+    "Resource Management": 67,
+    "Singleplayer": 60,
+    "Indie": 49,
+    "Turn-Based Tactics": 30
+  }
+}

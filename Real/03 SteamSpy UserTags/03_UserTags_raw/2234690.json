@@ -1,0 +1,26 @@
+{
+  "appid": 2234690,
+  "success": true,
+  "tags": {
+    "Adventure": 218,
+    "Visual Novel": 193,
+    "Fantasy": 188,
+    "Medieval": 184,
+    "Psychological": 174,
+    "Time Travel": 164,
+    "Stylized": 157,
+    "Hand-drawn": 150,
+    "Magic": 141,
+    "Multiple Endings": 134,
+    "Story Rich": 122,
+    "Quick-Time Events": 120,
+    "Female Protagonist": 108,
+    "Soundtrack": 93,
+    "Text-Based": 77,
+    "Realistic": 61,
+    "First-Person": 44,
+    "2D": 28,
+    "Singleplayer": 26,
+    "Indie": 23
+  }
+}

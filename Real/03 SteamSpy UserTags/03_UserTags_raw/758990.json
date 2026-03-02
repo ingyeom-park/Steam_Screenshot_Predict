@@ -1,0 +1,26 @@
+{
+  "appid": 758990,
+  "success": true,
+  "tags": {
+    "Sandbox": 118,
+    "Simulation": 108,
+    "Action": 104,
+    "Strategy": 93,
+    "Indie": 87,
+    "War": 76,
+    "Games Workshop": 75,
+    "Moddable": 74,
+    "Singleplayer": 71,
+    "Physics": 66,
+    "Shooter": 64,
+    "FPS": 61,
+    "First-Person": 60,
+    "Funny": 55,
+    "Early Access": 53,
+    "Historical": 48,
+    "Zombies": 42,
+    "Strategy RPG": 40,
+    "Building": 39,
+    "Pixel Graphics": 36
+  }
+}

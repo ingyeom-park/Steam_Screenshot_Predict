@@ -1,0 +1,26 @@
+{
+  "appid": 449510,
+  "success": true,
+  "tags": {
+    "Puzzle": 285,
+    "Puzzle-Platformer": 278,
+    "3D Platformer": 275,
+    "First-Person": 272,
+    "Singleplayer": 267,
+    "Story Rich": 259,
+    "Adventure": 259,
+    "Indie": 255,
+    "Psychological Horror": 254,
+    "Horror": 249,
+    "Atmospheric": 244,
+    "Mystery": 242,
+    "Platformer": 235,
+    "Exploration": 227,
+    "3D": 222,
+    "Dark": 219,
+    "Investigation": 213,
+    "Drama": 210,
+    "Lore-Rich": 208,
+    "Walking Simulator": 206
+  }
+}

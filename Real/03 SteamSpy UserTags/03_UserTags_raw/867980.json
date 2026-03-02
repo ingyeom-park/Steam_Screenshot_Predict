@@ -1,0 +1,26 @@
+{
+  "appid": 867980,
+  "success": true,
+  "tags": {
+    "Casual": 133,
+    "PvP": 129,
+    "Competitive": 123,
+    "Action": 118,
+    "Adventure": 114,
+    "Simulation": 109,
+    "4 Player Local": 107,
+    "Co-op": 106,
+    "Co-op Campaign": 104,
+    "Local Co-Op": 101,
+    "Local Multiplayer": 99,
+    "Online Co-Op": 98,
+    "Multiplayer": 91,
+    "Singleplayer": 88,
+    "Party Game": 88,
+    "Colorful": 81,
+    "Controller": 75,
+    "Indie": 71,
+    "Family Friendly": 51,
+    "Funny": 47
+  }
+}

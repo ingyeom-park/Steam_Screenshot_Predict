@@ -1,0 +1,22 @@
+{
+  "appid": 1454090,
+  "success": true,
+  "tags": {
+    "Difficult": 101,
+    "Logic": 95,
+    "Arcade": 92,
+    "Abstract": 88,
+    "Tabletop": 85,
+    "Card Game": 78,
+    "Education": 77,
+    "Casual": 72,
+    "Procedural Generation": 69,
+    "Solitaire": 63,
+    "Strategy": 56,
+    "Singleplayer": 54,
+    "Indie": 50,
+    "2D": 32,
+    "Puzzle": 29,
+    "Pixel Graphics": 27
+  }
+}

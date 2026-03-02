@@ -1,0 +1,26 @@
+{
+  "appid": 900290,
+  "success": true,
+  "tags": {
+    "Adventure": 116,
+    "Point & Click": 110,
+    "Puzzle": 107,
+    "Sci-fi": 103,
+    "Atmospheric": 100,
+    "First-Person": 93,
+    "Mystery": 90,
+    "Story Rich": 87,
+    "Exploration": 85,
+    "Science": 82,
+    "Singleplayer": 78,
+    "2D": 75,
+    "Realistic": 72,
+    "Dark": 68,
+    "Narrative": 65,
+    "Difficult": 63,
+    "Indie": 57,
+    "Horror": 55,
+    "Casual": 48,
+    "Retro": 45
+  }
+}

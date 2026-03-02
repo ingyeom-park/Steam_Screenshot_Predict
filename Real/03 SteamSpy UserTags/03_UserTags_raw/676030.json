@@ -1,0 +1,26 @@
+{
+  "appid": 676030,
+  "success": true,
+  "tags": {
+    "VR": 104,
+    "RTS": 98,
+    "Strategy": 93,
+    "Space": 90,
+    "Tactical": 87,
+    "Action": 80,
+    "Rogue-like": 78,
+    "Space Sim": 74,
+    "Action RTS": 71,
+    "Real Time Tactics": 69,
+    "Simulation": 65,
+    "Sci-fi": 63,
+    "War": 60,
+    "Military": 58,
+    "Futuristic": 56,
+    "Cinematic": 54,
+    "Indie": 50,
+    "Inventory Management": 46,
+    "Singleplayer": 41,
+    "Spaceships": 38
+  }
+}

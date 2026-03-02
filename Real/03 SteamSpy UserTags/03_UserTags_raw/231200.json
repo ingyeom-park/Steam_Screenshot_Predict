@@ -1,0 +1,26 @@
+{
+  "appid": 231200,
+  "success": true,
+  "tags": {
+    "Adventure": 205,
+    "Atmospheric": 180,
+    "Indie": 160,
+    "Point & Click": 159,
+    "Surreal": 144,
+    "Story Rich": 103,
+    "Episodic": 75,
+    "Great Soundtrack": 69,
+    "Narrative": 63,
+    "Mystery": 57,
+    "Beautiful": 43,
+    "Exploration": 28,
+    "Singleplayer": 26,
+    "Visual Novel": 19,
+    "Experimental": 18,
+    "2D": 12,
+    "Stylized": 10,
+    "Walking Simulator": 10,
+    "Kickstarter": 7,
+    "Female Protagonist": 5
+  }
+}

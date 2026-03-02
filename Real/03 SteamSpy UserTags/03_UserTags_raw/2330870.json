@@ -1,0 +1,26 @@
+{
+  "appid": 2330870,
+  "success": true,
+  "tags": {
+    "Indie": 1366,
+    "3D": 1277,
+    "Tower Defense": 1043,
+    "Card Battler": 1041,
+    "Rogue-like": 1034,
+    "Deckbuilding": 1028,
+    "Dark": 1025,
+    "Card Game": 1021,
+    "Strategy": 1012,
+    "Rogue-lite": 1009,
+    "Replay Value": 1006,
+    "Procedural Generation": 996,
+    "Dungeon Crawler": 990,
+    "Dark Fantasy": 987,
+    "Singleplayer": 982,
+    "Casual": 977,
+    "Adventure": 969,
+    "Real Time Tactics": 966,
+    "Magic": 959,
+    "Cartoon": 958
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "appid": 1416460,
+  "success": true,
+  "tags": {
+    "Horror": 121,
+    "Exploration": 112,
+    "Puzzle": 109,
+    "Mystery": 105,
+    "Atmospheric": 103,
+    "Adventure": 96,
+    "Immersive": 91,
+    "3D": 84,
+    "First-Person": 77,
+    "Realistic": 72,
+    "Singleplayer": 64,
+    "Short": 52,
+    "Gore": 40,
+    "Indie": 26,
+    "Psychological Horror": 11
+  }
+}

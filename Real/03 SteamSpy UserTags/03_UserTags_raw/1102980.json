@@ -1,0 +1,26 @@
+{
+  "appid": 1102980,
+  "success": true,
+  "tags": {
+    "RPG": 85,
+    "Adventure": 77,
+    "Strategy": 74,
+    "Indie": 71,
+    "Retro": 69,
+    "RPGMaker": 62,
+    "Turn-Based Strategy": 61,
+    "2D Platformer": 57,
+    "Turn-Based Tactics": 56,
+    "2D": 55,
+    "Pixel Graphics": 52,
+    "Cartoony": 48,
+    "Cute": 46,
+    "Colorful": 39,
+    "Stylized": 37,
+    "Foreign": 35,
+    "1980s": 33,
+    "1990's": 31,
+    "Drama": 29,
+    "Story Rich": 27
+  }
+}

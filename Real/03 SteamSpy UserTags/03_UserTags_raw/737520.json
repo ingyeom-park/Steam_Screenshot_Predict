@@ -1,0 +1,26 @@
+{
+  "appid": 737520,
+  "success": true,
+  "tags": {
+    "Adventure": 136,
+    "Indie": 130,
+    "Action": 129,
+    "2D": 128,
+    "Pixel Graphics": 127,
+    "Platformer": 123,
+    "Action-Adventure": 112,
+    "Fantasy": 111,
+    "Side Scroller": 110,
+    "Singleplayer": 107,
+    "Action RPG": 101,
+    "Atmospheric": 98,
+    "Casual": 93,
+    "Combat": 87,
+    "GameMaker": 78,
+    "Beat 'em up": 71,
+    "Fast-Paced": 65,
+    "Difficult": 60,
+    "Zombies": 52,
+    "Metroidvania": 44
+  }
+}

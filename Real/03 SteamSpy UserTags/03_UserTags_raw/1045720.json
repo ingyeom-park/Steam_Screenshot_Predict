@@ -1,0 +1,26 @@
+{
+  "appid": 1045720,
+  "success": true,
+  "tags": {
+    "Horror": 225,
+    "Adventure": 200,
+    "Indie": 177,
+    "Singleplayer": 149,
+    "Survival Horror": 143,
+    "Action": 137,
+    "Female Protagonist": 100,
+    "2D": 90,
+    "Anime": 82,
+    "Story Rich": 77,
+    "Survival": 73,
+    "Atmospheric": 69,
+    "Visual Novel": 67,
+    "Psychological Horror": 62,
+    "Exploration": 56,
+    "Dark": 54,
+    "Violent": 51,
+    "Sexual Content": 49,
+    "Inventory Management": 48,
+    "Gore": 46
+  }
+}

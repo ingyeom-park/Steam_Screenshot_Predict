@@ -1,0 +1,26 @@
+{
+  "appid": 300280,
+  "success": true,
+  "tags": {
+    "Adventure": 97,
+    "Level Editor": 91,
+    "Point & Click": 88,
+    "Sandbox": 85,
+    "Indie": 82,
+    "Game Development": 76,
+    "Singleplayer": 74,
+    "Kickstarter": 73,
+    "Casual": 70,
+    "Cartoony": 68,
+    "Stylized": 66,
+    "3D": 60,
+    "Isometric": 55,
+    "Comedy": 52,
+    "Fantasy": 50,
+    "Medieval": 48,
+    "Character Customization": 46,
+    "Multiple Endings": 44,
+    "Cute": 42,
+    "Trading Card Game": 39
+  }
+}

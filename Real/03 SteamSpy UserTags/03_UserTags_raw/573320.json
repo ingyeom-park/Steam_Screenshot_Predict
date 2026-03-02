@@ -1,0 +1,26 @@
+{
+  "appid": 573320,
+  "success": true,
+  "tags": {
+    "RPG": 242,
+    "Platformer": 211,
+    "Story Rich": 199,
+    "Singleplayer": 168,
+    "Pixel Graphics": 159,
+    "Turn-Based Combat": 157,
+    "Villain Protagonist": 153,
+    "2D": 150,
+    "Linear": 144,
+    "JRPG": 116,
+    "Funny": 105,
+    "Colorful": 89,
+    "Cute": 75,
+    "Indie": 73,
+    "Adventure": 67,
+    "2D Platformer": 62,
+    "Great Soundtrack": 56,
+    "Puzzle": 54,
+    "Comedy": 46,
+    "Side Scroller": 43
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 17710,
+  "success": true,
+  "tags": {
+    "Strategy": 211,
+    "FPS": 170,
+    "Action": 163,
+    "RTS": 139,
+    "Multiplayer": 133,
+    "Post-apocalyptic": 124,
+    "Sci-fi": 122,
+    "Shooter": 119,
+    "Tactical": 117,
+    "First-Person": 112,
+    "Team-Based": 109,
+    "Real-Time": 105,
+    "Indie": 104,
+    "Futuristic": 103,
+    "Real Time Tactics": 100,
+    "Dystopian ": 100,
+    "3D": 99,
+    "Top-Down": 96,
+    "Alternate History": 91,
+    "Base-Building": 91
+  }
+}

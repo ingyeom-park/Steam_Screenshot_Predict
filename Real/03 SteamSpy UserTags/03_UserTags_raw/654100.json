@@ -1,0 +1,26 @@
+{
+  "appid": 654100,
+  "success": true,
+  "tags": {
+    "Bullet Hell": 169,
+    "PvP": 162,
+    "Competitive": 158,
+    "Shoot 'Em Up": 154,
+    "Multiplayer": 148,
+    "2D": 137,
+    "Indie": 134,
+    "Cute": 131,
+    "Difficult": 130,
+    "Fast-Paced": 127,
+    "Arcade": 123,
+    "Shooter": 120,
+    "Funny": 112,
+    "Sci-fi": 109,
+    "Pixel Graphics": 97,
+    "Singleplayer": 86,
+    "Action": 77,
+    "Top-Down Shooter": 75,
+    "Anime": 64,
+    "Local Multiplayer": 53
+  }
+}

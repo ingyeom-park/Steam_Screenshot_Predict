@@ -1,0 +1,26 @@
+{
+  "appid": 1273690,
+  "success": true,
+  "tags": {
+    "Adventure": 299,
+    "Survival": 273,
+    "Post-apocalyptic": 270,
+    "Resource Management": 261,
+    "Indie": 256,
+    "Multiple Endings": 255,
+    "Narrative": 245,
+    "Choices Matter": 230,
+    "Interactive Fiction": 218,
+    "Choose Your Own Adventure": 210,
+    "Survival Horror": 201,
+    "3D": 190,
+    "Stylized": 177,
+    "Atmospheric": 174,
+    "Management": 158,
+    "Mystery": 142,
+    "Dark": 125,
+    "Emotional": 107,
+    "Conversation": 88,
+    "Nonlinear": 68
+  }
+}

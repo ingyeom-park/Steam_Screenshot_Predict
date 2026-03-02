@@ -1,0 +1,24 @@
+{
+  "appid": 2506450,
+  "success": true,
+  "tags": {
+    "Puzzle-Platformer": 162,
+    "Puzzle": 156,
+    "Action-Adventure": 152,
+    "Top-Down": 148,
+    "Stylized": 144,
+    "Exploration": 137,
+    "Lovecraftian": 134,
+    "Atmospheric": 127,
+    "Story Rich": 125,
+    "Logic": 118,
+    "Psychological Horror": 115,
+    "Mythology": 113,
+    "Controller": 111,
+    "Mystery": 108,
+    "Adventure": 99,
+    "Singleplayer": 57,
+    "Indie": 49,
+    "Action Roguelike": 27
+  }
+}

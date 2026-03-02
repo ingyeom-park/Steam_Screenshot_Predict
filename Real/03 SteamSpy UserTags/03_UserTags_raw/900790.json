@@ -1,0 +1,26 @@
+{
+  "appid": 900790,
+  "success": true,
+  "tags": {
+    "Casual": 121,
+    "Indie": 115,
+    "Strategy": 112,
+    "Simulation": 109,
+    "Puzzle": 106,
+    "Co-op": 99,
+    "Multiplayer": 96,
+    "Singleplayer": 94,
+    "Online Co-Op": 91,
+    "Logic": 89,
+    "Funny": 86,
+    "Adventure": 84,
+    "Difficult": 83,
+    "Character Customization": 82,
+    "Replay Value": 81,
+    "Stylized": 78,
+    "Tactical": 74,
+    "Comedy": 71,
+    "Action": 70,
+    "Competitive": 69
+  }
+}

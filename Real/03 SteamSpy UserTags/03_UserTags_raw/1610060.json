@@ -1,0 +1,23 @@
+{
+  "appid": 1610060,
+  "success": true,
+  "tags": {
+    "Adventure": 75,
+    "Casual": 68,
+    "Interactive Fiction": 48,
+    "Visual Novel": 48,
+    "2D": 40,
+    "Hand-drawn": 35,
+    "Psychedelic": 31,
+    "Text-Based": 30,
+    "Stylized": 28,
+    "Dark": 27,
+    "Atmospheric": 26,
+    "Indie": 24,
+    "Horror": 22,
+    "Emotional": 20,
+    "Detective": 20,
+    "Psychological Horror": 18,
+    "Singleplayer": 15
+  }
+}

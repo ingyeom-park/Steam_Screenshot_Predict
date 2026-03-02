@@ -1,0 +1,26 @@
+{
+  "appid": 312230,
+  "success": true,
+  "tags": {
+    "Atmospheric": 309,
+    "Sci-fi": 306,
+    "Adventure": 301,
+    "Space": 298,
+    "Immersive Sim": 296,
+    "Exploration": 289,
+    "FPS": 288,
+    "Indie": 286,
+    "Singleplayer": 284,
+    "Action": 280,
+    "Action-Adventure": 268,
+    "Mystery": 262,
+    "Story Rich": 258,
+    "Female Protagonist": 252,
+    "Horror": 247,
+    "Psychological Horror": 241,
+    "Shooter": 235,
+    "First-Person": 229,
+    "Open World": 219,
+    "Great Soundtrack": 211
+  }
+}

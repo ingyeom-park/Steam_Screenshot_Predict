@@ -1,0 +1,26 @@
+{
+  "appid": 2627600,
+  "success": true,
+  "tags": {
+    "RPG": 245,
+    "Casual": 238,
+    "Simulation": 236,
+    "Indie": 231,
+    "Adventure": 229,
+    "Sandbox": 220,
+    "Dating Sim": 218,
+    "Life Sim": 215,
+    "Farming Sim": 210,
+    "Early Access": 205,
+    "2.5D": 200,
+    "Cute": 187,
+    "Pixel Graphics": 174,
+    "Crafting": 160,
+    "Fishing": 145,
+    "Dark": 134,
+    "Agriculture": 131,
+    "Collectathon": 120,
+    "Open World": 115,
+    "Singleplayer": 99
+  }
+}

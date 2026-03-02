@@ -1,0 +1,26 @@
+{
+  "appid": 1085160,
+  "success": true,
+  "tags": {
+    "Horror": 52,
+    "Violent": 45,
+    "Indie": 42,
+    "Psychological Horror": 34,
+    "Survival Horror": 30,
+    "Dark": 28,
+    "First-Person": 27,
+    "Singleplayer": 26,
+    "Gore": 26,
+    "Puzzle": 23,
+    "Mature": 21,
+    "Adventure": 20,
+    "Early Access": 20,
+    "Atmospheric": 19,
+    "Walking Simulator": 19,
+    "Stealth": 19,
+    "Choices Matter": 17,
+    "Difficult": 17,
+    "Blood": 16,
+    "Exploration": 16
+  }
+}

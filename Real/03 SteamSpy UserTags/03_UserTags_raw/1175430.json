@@ -1,0 +1,26 @@
+{
+  "appid": 1175430,
+  "success": true,
+  "tags": {
+    "Arcade": 211,
+    "Rogue-lite": 209,
+    "Shoot 'Em Up": 199,
+    "Great Soundtrack": 198,
+    "Shooter": 193,
+    "Comedy": 188,
+    "2D": 182,
+    "Singleplayer": 174,
+    "Local Co-Op": 163,
+    "Rogue-like": 156,
+    "Pixel Graphics": 143,
+    "Action Roguelike": 142,
+    "Funny": 74,
+    "Action": 74,
+    "Procedural Generation": 51,
+    "Indie": 23,
+    "Casual": 22,
+    "Adventure": 22,
+    "Multiple Endings": 16,
+    "Local Multiplayer": 10
+  }
+}

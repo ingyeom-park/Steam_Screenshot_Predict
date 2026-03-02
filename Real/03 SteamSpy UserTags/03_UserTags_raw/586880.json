@@ -1,0 +1,20 @@
+{
+  "appid": 586880,
+  "success": true,
+  "tags": {
+    "Action": 35,
+    "Indie": 32,
+    "Adventure": 29,
+    "Casual": 28,
+    "Metroidvania": 25,
+    "Retro": 21,
+    "2D": 17,
+    "Pixel Graphics": 15,
+    "Platformer": 14,
+    "Female Protagonist": 11,
+    "Level Editor": 10,
+    "Character Customization": 7,
+    "Side Scroller": 6,
+    "Singleplayer": 6
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "appid": 248330,
+  "success": true,
+  "tags": {
+    "Dinosaurs": 83,
+    "Pixel Graphics": 77,
+    "Indie": 72,
+    "Racing": 70,
+    "Action": 64,
+    "Runner": 56,
+    "2D": 50,
+    "Platformer": 39,
+    "Arcade": 36,
+    "Multiplayer": 34,
+    "Side Scroller": 33,
+    "Retro": 28,
+    "Singleplayer": 14,
+    "Casual": 6
+  }
+}

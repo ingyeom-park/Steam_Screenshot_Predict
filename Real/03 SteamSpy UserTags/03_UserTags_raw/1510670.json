@@ -1,0 +1,26 @@
+{
+  "appid": 1510670,
+  "success": true,
+  "tags": {
+    "Arcade": 97,
+    "Action": 95,
+    "Retro": 91,
+    "Platformer": 87,
+    "2D Platformer": 85,
+    "2D": 83,
+    "1980s": 74,
+    "Side Scroller": 72,
+    "Indie": 69,
+    "Adventure": 58,
+    "Pixel Graphics": 39,
+    "Minimalist": 35,
+    "Battle Royale": 34,
+    "Funny": 33,
+    "Old School": 31,
+    "Medieval": 29,
+    "Parody ": 28,
+    "Linear": 24,
+    "PvE": 22,
+    "Singleplayer": 21
+  }
+}

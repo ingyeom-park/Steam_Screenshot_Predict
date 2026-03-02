@@ -1,0 +1,26 @@
+{
+  "appid": 215510,
+  "success": true,
+  "tags": {
+    "Indie": 147,
+    "Platformer": 138,
+    "Action": 132,
+    "Adventure": 127,
+    "Local Co-Op": 124,
+    "2D": 117,
+    "Co-op": 114,
+    "Shooter": 111,
+    "Funny": 111,
+    "Puzzle": 109,
+    "Online Co-Op": 106,
+    "Singleplayer": 105,
+    "Multiplayer": 102,
+    "Controller": 101,
+    "Side Scroller": 99,
+    "Comedy": 96,
+    "Story Rich": 94,
+    "Local Multiplayer": 94,
+    "Gore": 91,
+    "Action-Adventure": 89
+  }
+}

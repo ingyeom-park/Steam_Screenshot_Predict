@@ -1,0 +1,26 @@
+{
+  "appid": 2061150,
+  "success": true,
+  "tags": {
+    "Casual": 115,
+    "Action": 109,
+    "Action Roguelike": 108,
+    "Bullet Hell": 103,
+    "Online Co-Op": 100,
+    "Multiplayer": 91,
+    "PvE": 85,
+    "Pixel Graphics": 78,
+    "Indie": 76,
+    "Real-Time": 74,
+    "Co-op": 72,
+    "2D": 71,
+    "Top-Down": 65,
+    "Retro": 63,
+    "1980s": 58,
+    "Strategy": 51,
+    "Rogue-lite": 50,
+    "Singleplayer": 49,
+    "Foreign": 30,
+    "Difficult": 28
+  }
+}

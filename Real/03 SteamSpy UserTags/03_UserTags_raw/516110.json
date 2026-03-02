@@ -1,0 +1,26 @@
+{
+  "appid": 516110,
+  "success": true,
+  "tags": {
+    "Adventure": 56,
+    "Indie": 55,
+    "Casual": 48,
+    "Retro": 39,
+    "Rogue-lite": 36,
+    "Co-op": 29,
+    "Funny": 29,
+    "Cartoony": 26,
+    "Local Co-Op": 25,
+    "Rogue-like": 13,
+    "Online Co-Op": 12,
+    "Great Soundtrack": 11,
+    "Kickstarter": 11,
+    "Local Multiplayer": 10,
+    "Multiplayer": 9,
+    "Comedy": 9,
+    "Nostalgia": 8,
+    "4 Player Local": 6,
+    "Singleplayer": 6,
+    "Sci-fi": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1345440,
+  "success": true,
+  "tags": {
+    "Cartoony": 411,
+    "Tanks": 369,
+    "Arcade": 369,
+    "Action": 363,
+    "Physics": 360,
+    "PvP": 357,
+    "Co-op Campaign": 352,
+    "Level Editor": 346,
+    "4 Player Local": 338,
+    "Top-Down Shooter": 337,
+    "Twin Stick Shooter": 332,
+    "Combat": 324,
+    "Casual": 317,
+    "Arena Shooter": 312,
+    "Adventure": 308,
+    "Indie": 306,
+    "Vehicular Combat": 303,
+    "Cute": 301,
+    "Family Friendly": 295,
+    "Colorful": 288
+  }
+}

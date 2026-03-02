@@ -1,0 +1,25 @@
+{
+  "appid": 623160,
+  "success": true,
+  "tags": {
+    "Casual": 99,
+    "Solitaire": 83,
+    "Indie": 79,
+    "Card Game": 77,
+    "Zombies": 74,
+    "Match 3": 66,
+    "Strategy": 62,
+    "Puzzle": 59,
+    "2D": 57,
+    "Colorful": 53,
+    "Historical": 47,
+    "Family Friendly": 45,
+    "Relaxing": 44,
+    "Mouse only": 43,
+    "Replay Value": 40,
+    "Deckbuilding": 33,
+    "Turn-Based Tactics": 31,
+    "Singleplayer": 29,
+    "Free to Play": 22
+  }
+}

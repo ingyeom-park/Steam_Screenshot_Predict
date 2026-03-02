@@ -1,0 +1,26 @@
+{
+  "appid": 312720,
+  "success": true,
+  "tags": {
+    "Asynchronous Multiplayer": 264,
+    "Board Game": 258,
+    "Tabletop": 256,
+    "Indie": 252,
+    "Strategy": 249,
+    "Chess": 241,
+    "Abstract": 236,
+    "Casual": 231,
+    "Singleplayer": 229,
+    "Multiplayer": 221,
+    "Turn-Based Strategy": 212,
+    "Family Friendly": 210,
+    "Local Multiplayer": 206,
+    "Turn-Based": 204,
+    "Action": 202,
+    "Puzzle": 200,
+    "Education": 197,
+    "Solitaire": 189,
+    "Turn-Based Tactics": 180,
+    "2.5D": 174
+  }
+}

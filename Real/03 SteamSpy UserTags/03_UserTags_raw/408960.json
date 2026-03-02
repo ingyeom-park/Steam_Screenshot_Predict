@@ -1,0 +1,24 @@
+{
+  "appid": 408960,
+  "success": true,
+  "tags": {
+    "RPG": 42,
+    "Action": 41,
+    "Indie": 39,
+    "Zombies": 23,
+    "Hack and Slash": 18,
+    "Action RPG": 18,
+    "Procedural Generation": 15,
+    "Isometric": 14,
+    "Multiplayer": 14,
+    "Singleplayer": 12,
+    "Loot": 12,
+    "Co-op": 11,
+    "Real-Time": 10,
+    "Character Customization": 10,
+    "Medieval": 10,
+    "Rogue-lite": 10,
+    "Fantasy": 10,
+    "Choices Matter": 9
+  }
+}

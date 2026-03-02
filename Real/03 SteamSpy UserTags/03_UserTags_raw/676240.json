@@ -1,0 +1,26 @@
+{
+  "appid": 676240,
+  "success": true,
+  "tags": {
+    "Horror": 123,
+    "Survival": 117,
+    "Survival Horror": 114,
+    "Top-Down": 109,
+    "Atmospheric": 104,
+    "Dark": 100,
+    "Indie": 93,
+    "Lovecraftian": 89,
+    "Adventure": 88,
+    "Singleplayer": 84,
+    "Action": 79,
+    "Pixel Graphics": 78,
+    "Psychological": 74,
+    "Perma Death": 73,
+    "Exploration": 67,
+    "Mythology": 66,
+    "Story Rich": 60,
+    "Thriller": 59,
+    "Runner": 55,
+    "Psychological Horror": 54
+  }
+}

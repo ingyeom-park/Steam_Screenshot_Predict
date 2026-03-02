@@ -1,0 +1,26 @@
+{
+  "appid": 505330,
+  "success": true,
+  "tags": {
+    "Horror": 227,
+    "Hand-drawn": 221,
+    "Point & Click": 221,
+    "Story Rich": 212,
+    "Adventure": 210,
+    "Singleplayer": 202,
+    "Indie": 199,
+    "Mature": 197,
+    "Atmospheric": 197,
+    "Puzzle": 191,
+    "Stylized": 182,
+    "Post-apocalyptic": 181,
+    "Action": 165,
+    "Exploration": 159,
+    "Medieval": 156,
+    "Choices Matter": 146,
+    "Simulation": 136,
+    "Experimental": 133,
+    "Hidden Object": 124,
+    "Dark": 119
+  }
+}

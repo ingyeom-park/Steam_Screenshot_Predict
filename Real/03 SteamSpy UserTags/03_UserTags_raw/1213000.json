@@ -1,0 +1,26 @@
+{
+  "appid": 1213000,
+  "success": true,
+  "tags": {
+    "RPG": 177,
+    "Casual": 171,
+    "Indie": 168,
+    "Action": 165,
+    "Card Game": 107,
+    "Visual Novel": 101,
+    "Deckbuilding": 99,
+    "Anime": 97,
+    "Detective": 92,
+    "Choices Matter": 86,
+    "Difficult": 81,
+    "Text-Based": 79,
+    "Mystery": 76,
+    "Cyberpunk": 74,
+    "Story Rich": 69,
+    "Rhythm": 66,
+    "Card Battler": 64,
+    "Time Management": 60,
+    "Cats": 58,
+    "Singleplayer": 55
+  }
+}

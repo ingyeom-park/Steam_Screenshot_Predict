@@ -1,0 +1,25 @@
+{
+  "appid": 1917810,
+  "success": true,
+  "tags": {
+    "VR": 222,
+    "Puzzle": 208,
+    "Adventure": 208,
+    "Indie": 198,
+    "Mystery": 186,
+    "Story Rich": 172,
+    "Singleplayer": 155,
+    "Escape Room": 147,
+    "Online Co-Op": 147,
+    "Co-op": 140,
+    "Psychological Horror": 130,
+    "Investigation": 128,
+    "Atmospheric": 117,
+    "Multiple Endings": 90,
+    "Multiplayer": 77,
+    "Co-op Campaign": 59,
+    "Exploration": 42,
+    "Mystery Dungeon": 27,
+    "Hidden Object": 24
+  }
+}

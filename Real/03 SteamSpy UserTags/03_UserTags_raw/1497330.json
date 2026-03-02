@@ -1,0 +1,23 @@
+{
+  "appid": 1497330,
+  "success": true,
+  "tags": {
+    "Adventure": 108,
+    "Action": 102,
+    "Singleplayer": 98,
+    "Third Person": 94,
+    "Exploration": 90,
+    "Action-Adventure": 82,
+    "Story Rich": 78,
+    "Puzzle": 73,
+    "Stealth": 63,
+    "Atmospheric": 59,
+    "Indie": 54,
+    "Third-Person Shooter": 53,
+    "Parkour": 51,
+    "Shooter": 47,
+    "Driving": 39,
+    "Quick-Time Events": 30,
+    "Open World": 27
+  }
+}

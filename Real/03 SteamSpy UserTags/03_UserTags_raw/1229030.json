@@ -1,0 +1,16 @@
+{
+  "appid": 1229030,
+  "success": true,
+  "tags": {
+    "Indie": 39,
+    "Adventure": 31,
+    "Investigation": 28,
+    "Conspiracy": 25,
+    "Mystery": 23,
+    "Historical": 21,
+    "Thriller": 16,
+    "Detective": 10,
+    "First-Person": 7,
+    "Political": 6
+  }
+}

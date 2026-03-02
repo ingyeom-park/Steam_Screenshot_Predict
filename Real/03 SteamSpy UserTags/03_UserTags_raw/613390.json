@@ -1,0 +1,16 @@
+{
+  "appid": 613390,
+  "success": true,
+  "tags": {
+    "RPG": 42,
+    "Indie": 41,
+    "Adventure": 39,
+    "Rogue-like": 19,
+    "Gore": 18,
+    "Violent": 18,
+    "CRPG": 16,
+    "Retro": 12,
+    "Pixel Graphics": 8,
+    "Turn-Based": 5
+  }
+}

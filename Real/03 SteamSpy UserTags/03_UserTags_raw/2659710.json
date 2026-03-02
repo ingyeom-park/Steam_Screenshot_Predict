@@ -1,0 +1,26 @@
+{
+  "appid": 2659710,
+  "success": true,
+  "tags": {
+    "Strategy": 190,
+    "Indie": 185,
+    "Management": 181,
+    "Casual": 180,
+    "Sandbox": 176,
+    "Building": 171,
+    "Automobile Sim": 164,
+    "Resource Management": 160,
+    "Simulation": 157,
+    "Design & Illustration": 154,
+    "First-Person": 148,
+    "Colorful": 140,
+    "Economy": 136,
+    "Crafting": 127,
+    "Moddable": 112,
+    "PvP": 96,
+    "Singleplayer": 83,
+    "PvE": 83,
+    "Multiplayer": 67,
+    "Vehicular Combat": 51
+  }
+}

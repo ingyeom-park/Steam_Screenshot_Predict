@@ -1,0 +1,26 @@
+{
+  "appid": 750290,
+  "success": true,
+  "tags": {
+    "Adventure": 152,
+    "Puzzle": 148,
+    "Hand-drawn": 145,
+    "Exploration": 137,
+    "2D": 134,
+    "Stylized": 120,
+    "Logic": 115,
+    "Atmospheric": 112,
+    "Hidden Object": 103,
+    "Singleplayer": 103,
+    "Steampunk": 84,
+    "Indie": 82,
+    "Lore-Rich": 69,
+    "Story Rich": 69,
+    "Mystery": 57,
+    "Linear": 55,
+    "Colorful": 50,
+    "Dystopian ": 35,
+    "Music": 35,
+    "Puzzle-Platformer": 33
+  }
+}

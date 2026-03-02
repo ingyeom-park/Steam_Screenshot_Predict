@@ -1,0 +1,26 @@
+{
+  "appid": 405550,
+  "success": true,
+  "tags": {
+    "Platformer": 155,
+    "Tower Defense": 149,
+    "Action": 146,
+    "Local Co-Op": 143,
+    "Local Multiplayer": 139,
+    "4 Player Local": 132,
+    "Indie": 127,
+    "Pixel Graphics": 125,
+    "2D Platformer": 121,
+    "Arcade": 115,
+    "Retro": 108,
+    "Singleplayer": 102,
+    "Difficult": 98,
+    "2D": 88,
+    "Co-op": 84,
+    "Medieval": 75,
+    "Rogue-lite": 69,
+    "Cute": 65,
+    "Swordplay": 50,
+    "PvP": 43
+  }
+}

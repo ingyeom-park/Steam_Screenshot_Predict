@@ -1,0 +1,24 @@
+{
+  "appid": 2700230,
+  "success": true,
+  "tags": {
+    "Casual": 74,
+    "Adventure": 68,
+    "Puzzle": 45,
+    "Exploration": 41,
+    "Clicker": 36,
+    "2D": 33,
+    "Indie": 32,
+    "Hand-drawn": 30,
+    "Stylized": 28,
+    "Drama": 26,
+    "Detective": 25,
+    "Sci-fi": 22,
+    "Strategy": 22,
+    "Investigation": 20,
+    "Story Rich": 18,
+    "Multiple Endings": 16,
+    "Singleplayer": 15,
+    "Point & Click": 5
+  }
+}

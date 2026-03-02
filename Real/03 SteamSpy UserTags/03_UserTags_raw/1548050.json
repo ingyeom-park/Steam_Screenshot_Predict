@@ -1,0 +1,26 @@
+{
+  "appid": 1548050,
+  "success": true,
+  "tags": {
+    "Horror": 94,
+    "Gore": 88,
+    "Blood": 85,
+    "Atmospheric": 82,
+    "Dark": 79,
+    "Crime": 73,
+    "Indie": 67,
+    "Story Rich": 65,
+    "Exploration": 61,
+    "Drama": 59,
+    "Narration": 57,
+    "Action-Adventure": 55,
+    "3D": 53,
+    "First-Person": 49,
+    "Singleplayer": 44,
+    "Adventure": 38,
+    "Action": 36,
+    "Idler": 32,
+    "Hidden Object": 30,
+    "Realistic": 29
+  }
+}

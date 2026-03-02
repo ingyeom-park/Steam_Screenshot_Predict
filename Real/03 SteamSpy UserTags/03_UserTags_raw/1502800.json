@@ -1,0 +1,23 @@
+{
+  "appid": 1502800,
+  "success": true,
+  "tags": {
+    "Adventure": 123,
+    "Puzzle": 95,
+    "Hidden Object": 87,
+    "Point & Click": 84,
+    "Investigation": 77,
+    "3D": 67,
+    "First-Person": 65,
+    "Atmospheric": 62,
+    "Logic": 57,
+    "Indie": 56,
+    "Mystery": 53,
+    "Steampunk": 52,
+    "Linear": 47,
+    "Singleplayer": 44,
+    "Casual": 29,
+    "Exploration": 26,
+    "Escape Room": 26
+  }
+}

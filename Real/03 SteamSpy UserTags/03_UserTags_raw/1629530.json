@@ -1,0 +1,26 @@
+{
+  "appid": 1629530,
+  "success": true,
+  "tags": {
+    "3D Platformer": 195,
+    "3D": 192,
+    "Action": 188,
+    "Platformer": 182,
+    "Hack and Slash": 170,
+    "Third Person": 156,
+    "Exploration": 145,
+    "Singleplayer": 137,
+    "Beat 'em up": 134,
+    "Combat": 127,
+    "Driving": 107,
+    "Sci-fi": 106,
+    "Cartoony": 95,
+    "Colorful": 80,
+    "Fantasy": 61,
+    "1990's": 42,
+    "Indie": 35,
+    "Fast-Paced": 32,
+    "Futuristic": 29,
+    "Retro": 28
+  }
+}

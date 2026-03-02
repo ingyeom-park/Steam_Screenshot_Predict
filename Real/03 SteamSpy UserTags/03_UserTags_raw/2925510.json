@@ -1,0 +1,24 @@
+{
+  "appid": 2925510,
+  "success": true,
+  "tags": {
+    "Horror": 166,
+    "Space": 161,
+    "Sci-fi": 160,
+    "Retro": 147,
+    "Singleplayer": 142,
+    "Exploration": 130,
+    "Puzzle": 123,
+    "Space Sim": 117,
+    "2D": 107,
+    "3D": 99,
+    "Text-Based": 97,
+    "Lovecraftian": 83,
+    "Adventure": 71,
+    "Aliens": 57,
+    "Dark": 42,
+    "Futuristic": 27,
+    "Linear": 26,
+    "Indie": 22
+  }
+}

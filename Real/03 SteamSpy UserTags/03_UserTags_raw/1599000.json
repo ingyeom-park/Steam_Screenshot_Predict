@@ -1,0 +1,26 @@
+{
+  "appid": 1599000,
+  "success": true,
+  "tags": {
+    "Old School": 351,
+    "Retro": 314,
+    "VR": 282,
+    "Action": 276,
+    "Shooter": 273,
+    "FPS": 270,
+    "Competitive": 261,
+    "Soundtrack": 259,
+    "Sci-fi": 256,
+    "Funny": 254,
+    "Time Manipulation": 246,
+    "Bullet Time": 243,
+    "6DOF": 237,
+    "Music": 236,
+    "Military": 230,
+    "Bullet Hell": 224,
+    "War": 215,
+    "Indie": 206,
+    "Cyberpunk": 198,
+    "Singleplayer": 183
+  }
+}

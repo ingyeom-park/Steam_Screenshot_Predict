@@ -1,0 +1,26 @@
+{
+  "appid": 2248430,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 213,
+    "Turn-Based Combat": 197,
+    "First-Person": 194,
+    "Adventure": 187,
+    "Female Protagonist": 182,
+    "RPG": 178,
+    "JRPG": 169,
+    "Party-Based RPG": 146,
+    "Bullet Hell": 138,
+    "Exploration": 122,
+    "Pixel Graphics": 119,
+    "2D": 112,
+    "Faith": 105,
+    "1990's": 98,
+    "Fantasy": 66,
+    "Old School": 61,
+    "Indie": 45,
+    "Singleplayer": 41,
+    "Retro": 39,
+    "Anime": 17
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 345200,
+  "success": true,
+  "tags": {
+    "Casual": 195,
+    "Action": 189,
+    "Indie": 187,
+    "Singleplayer": 183,
+    "Underwater": 180,
+    "Funny": 174,
+    "Local Co-Op": 167,
+    "2D": 161,
+    "Multiplayer": 155,
+    "Free to Play": 151,
+    "Cute": 148,
+    "Survival": 142,
+    "Adventure": 134,
+    "Horror": 119,
+    "Family Friendly": 113,
+    "Local Multiplayer": 107,
+    "Relaxing": 97,
+    "Split Screen": 86,
+    "Comedy": 79,
+    "Controller": 63
+  }
+}

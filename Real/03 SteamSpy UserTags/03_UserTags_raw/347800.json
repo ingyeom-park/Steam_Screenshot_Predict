@@ -1,0 +1,26 @@
+{
+  "appid": 347800,
+  "success": true,
+  "tags": {
+    "Metroidvania": 255,
+    "Sci-fi": 239,
+    "2D": 229,
+    "Action": 224,
+    "Atmospheric": 220,
+    "Platformer": 219,
+    "Indie": 205,
+    "Singleplayer": 199,
+    "Adventure": 196,
+    "Side Scroller": 188,
+    "Dark": 185,
+    "Hand-drawn": 181,
+    "2D Platformer": 168,
+    "Action-Adventure": 166,
+    "Controller": 157,
+    "Horror": 155,
+    "Difficult": 151,
+    "Robots": 151,
+    "Female Protagonist": 151,
+    "Post-apocalyptic": 146
+  }
+}

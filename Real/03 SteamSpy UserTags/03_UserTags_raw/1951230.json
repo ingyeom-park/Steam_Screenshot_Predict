@@ -1,0 +1,26 @@
+{
+  "appid": 1951230,
+  "success": true,
+  "tags": {
+    "Adventure": 977,
+    "Exploration": 965,
+    "Strategy": 924,
+    "Colorful": 915,
+    "Pixel Graphics": 903,
+    "Top-Down": 896,
+    "3D": 896,
+    "Co-op": 850,
+    "Local Co-Op": 840,
+    "Cartoony": 832,
+    "Indie": 813,
+    "Rogue-lite": 803,
+    "Cute": 796,
+    "Casual": 788,
+    "Rogue-like": 784,
+    "Funny": 778,
+    "Stealth": 778,
+    "Cooking": 768,
+    "Controller": 764,
+    "Villain Protagonist": 740
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "appid": 1665280,
+  "success": true,
+  "tags": {
+    "Adventure": 124,
+    "Indie": 112,
+    "Mythology": 104,
+    "Story Rich": 85,
+    "Singleplayer": 83,
+    "Narration": 69,
+    "Casual": 64,
+    "3D Platformer": 64,
+    "Action-Adventure": 60,
+    "Exploration": 57,
+    "Action": 53,
+    "Platformer": 51,
+    "Puzzle": 51,
+    "3D": 48,
+    "Collectathon": 43,
+    "Combat": 39
+  }
+}

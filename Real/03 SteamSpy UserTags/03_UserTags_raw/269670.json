@@ -1,0 +1,24 @@
+{
+  "appid": 269670,
+  "success": true,
+  "tags": {
+    "Indie": 58,
+    "Adventure": 56,
+    "2D": 46,
+    "Action": 43,
+    "Local Co-Op": 42,
+    "Multiplayer": 38,
+    "Platformer": 36,
+    "Co-op": 28,
+    "Puzzle": 27,
+    "Difficult": 24,
+    "Atmospheric": 22,
+    "Puzzle-Platformer": 22,
+    "Side Scroller": 16,
+    "Singleplayer": 15,
+    "Casual": 14,
+    "Local Multiplayer": 14,
+    "4 Player Local": 11,
+    "Survival": 9
+  }
+}

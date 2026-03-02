@@ -1,0 +1,26 @@
+{
+  "appid": 1225570,
+  "success": true,
+  "tags": {
+    "Co-op": 249,
+    "Local Co-Op": 156,
+    "Multiplayer": 150,
+    "Puzzle": 150,
+    "Adventure": 110,
+    "Split Screen": 107,
+    "Action": 82,
+    "Singleplayer": 72,
+    "Cute": 70,
+    "Family Friendly": 66,
+    "Local Multiplayer": 60,
+    "Colorful": 57,
+    "Platformer": 49,
+    "Atmospheric": 49,
+    "Action-Adventure": 44,
+    "Online Co-Op": 36,
+    "Puzzle-Platformer": 34,
+    "Controller": 23,
+    "Indie": 17,
+    "2D": 12
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "appid": 92600,
+  "success": true,
+  "tags": {
+    "Action": 30,
+    "Indie": 28,
+    "FPS": 12,
+    "Arcade": 12,
+    "Sci-fi": 10,
+    "First-Person": 8,
+    "Shooter": 5
+  }
+}

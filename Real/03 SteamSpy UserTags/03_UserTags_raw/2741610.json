@@ -1,0 +1,22 @@
+{
+  "appid": 2741610,
+  "success": true,
+  "tags": {
+    "Parkour": 125,
+    "3D Platformer": 119,
+    "FPS": 115,
+    "Indie": 112,
+    "3D": 107,
+    "First-Person": 100,
+    "Platformer": 98,
+    "Linear": 95,
+    "Action": 93,
+    "Combat": 91,
+    "Singleplayer": 87,
+    "Fast-Paced": 77,
+    "Short": 69,
+    "Violent": 62,
+    "Gore": 47,
+    "Casual": 29
+  }
+}

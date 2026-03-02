@@ -1,0 +1,21 @@
+{
+  "appid": 2450570,
+  "success": true,
+  "tags": {
+    "Action": 70,
+    "Action-Adventure": 44,
+    "Beat 'em up": 41,
+    "2D": 39,
+    "Martial Arts": 36,
+    "Combat": 29,
+    "Rhythm": 27,
+    "Historical": 25,
+    "Top-Down": 23,
+    "Anime": 22,
+    "Indie": 20,
+    "2D Platformer": 19,
+    "Controller": 17,
+    "Linear": 15,
+    "Singleplayer": 13
+  }
+}

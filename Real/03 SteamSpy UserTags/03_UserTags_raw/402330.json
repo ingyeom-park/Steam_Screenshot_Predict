@@ -1,0 +1,26 @@
+{
+  "appid": 402330,
+  "success": true,
+  "tags": {
+    "Comedy": 64,
+    "FMV": 63,
+    "Quick-Time Events": 62,
+    "Action": 45,
+    "Nudity": 44,
+    "Indie": 42,
+    "First-Person": 30,
+    "Choices Matter": 28,
+    "Violent": 27,
+    "Funny": 24,
+    "Casual": 21,
+    "Mature": 20,
+    "Memes": 16,
+    "Gore": 15,
+    "Horror": 15,
+    "Realistic": 12,
+    "Singleplayer": 11,
+    "Sexual Content": 11,
+    "Early Access": 9,
+    "Psychological Horror": 7
+  }
+}

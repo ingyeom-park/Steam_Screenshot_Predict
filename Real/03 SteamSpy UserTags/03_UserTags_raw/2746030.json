@@ -1,0 +1,26 @@
+{
+  "appid": 2746030,
+  "success": true,
+  "tags": {
+    "RTS": 268,
+    "Base-Building": 260,
+    "Tower Defense": 254,
+    "Survival": 253,
+    "Rogue-lite": 249,
+    "Strategy": 241,
+    "Resource Management": 239,
+    "Simulation": 237,
+    "Procedural Generation": 229,
+    "Time Management": 221,
+    "Singleplayer": 212,
+    "Real-Time with Pause": 203,
+    "Post-apocalyptic": 193,
+    "Rogue-like": 191,
+    "Building": 178,
+    "Indie": 163,
+    "Underground": 147,
+    "Top-Down": 145,
+    "Action RTS": 125,
+    "Difficult": 106
+  }
+}

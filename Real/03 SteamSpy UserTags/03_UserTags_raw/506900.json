@@ -1,0 +1,26 @@
+{
+  "appid": 506900,
+  "success": true,
+  "tags": {
+    "Parkour": 74,
+    "First-Person": 60,
+    "Adventure": 55,
+    "Indie": 52,
+    "Open World": 49,
+    "Platformer": 46,
+    "Singleplayer": 45,
+    "Fantasy": 40,
+    "Sci-fi": 35,
+    "Action": 35,
+    "Atmospheric": 35,
+    "Puzzle": 34,
+    "Great Soundtrack": 33,
+    "Story Rich": 32,
+    "Difficult": 31,
+    "Casual": 28,
+    "3D Platformer": 28,
+    "Short": 20,
+    "Family Friendly": 18,
+    "Surreal": 10
+  }
+}

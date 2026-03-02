@@ -1,0 +1,26 @@
+{
+  "appid": 1921780,
+  "success": true,
+  "tags": {
+    "Simulation": 131,
+    "Cooking": 111,
+    "Pixel Graphics": 108,
+    "Strategy": 99,
+    "Singleplayer": 96,
+    "Casual": 91,
+    "Life Sim": 82,
+    "Colony Sim": 80,
+    "Sandbox": 63,
+    "2D": 61,
+    "City Builder": 60,
+    "Cute": 54,
+    "Management": 53,
+    "Indie": 52,
+    "Building": 51,
+    "Economy": 47,
+    "Strategy RPG": 28,
+    "2D Platformer": 26,
+    "Real Time Tactics": 25,
+    "Resource Management": 25
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1415830,
+  "success": true,
+  "tags": {
+    "Bullet Hell": 117,
+    "FPS": 112,
+    "PvE": 109,
+    "PvP": 106,
+    "Shooter": 101,
+    "Arcade": 94,
+    "3D": 92,
+    "First-Person": 89,
+    "Team-Based": 85,
+    "Action": 82,
+    "Colorful": 77,
+    "Online Co-Op": 74,
+    "Multiplayer": 67,
+    "Singleplayer": 58,
+    "Indie": 55,
+    "Arena Shooter": 51,
+    "Military": 48,
+    "Zombies": 45,
+    "Gun Customization": 39,
+    "e-sports": 34
+  }
+}

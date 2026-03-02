@@ -1,0 +1,26 @@
+{
+  "appid": 760810,
+  "success": true,
+  "tags": {
+    "Multiplayer": 400,
+    "Online Co-Op": 394,
+    "Comedy": 391,
+    "Party Game": 388,
+    "Casual": 385,
+    "Shooter": 379,
+    "Family Friendly": 376,
+    "Local Co-Op": 374,
+    "Sports": 372,
+    "Co-op": 370,
+    "Platformer": 368,
+    "Local Multiplayer": 367,
+    "Indie": 364,
+    "Funny": 360,
+    "Singleplayer": 275,
+    "Action": 261,
+    "Fighting": 223,
+    "PvP": 214,
+    "4 Player Local": 169,
+    "Bullet Time": 149
+  }
+}

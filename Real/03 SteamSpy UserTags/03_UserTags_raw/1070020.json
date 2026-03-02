@@ -1,0 +1,12 @@
+{
+  "appid": 1070020,
+  "success": true,
+  "tags": {
+    "Casual": 45,
+    "Adventure": 43,
+    "Indie": 41,
+    "RPG": 39,
+    "Anime": 16,
+    "Visual Novel": 9
+  }
+}

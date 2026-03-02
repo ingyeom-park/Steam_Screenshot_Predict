@@ -1,0 +1,26 @@
+{
+  "appid": 823610,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 149,
+    "RPG": 142,
+    "Grid-Based Movement": 135,
+    "Adventure": 124,
+    "First-Person": 123,
+    "Party-Based RPG": 106,
+    "Fantasy": 106,
+    "Puzzle": 103,
+    "Singleplayer": 100,
+    "Indie": 92,
+    "Strategy": 74,
+    "Retro": 72,
+    "Exploration": 70,
+    "Old School": 65,
+    "Real-Time": 64,
+    "Level Editor": 64,
+    "Horror": 59,
+    "Great Soundtrack": 55,
+    "Dragons": 50,
+    "Tactical": 45
+  }
+}

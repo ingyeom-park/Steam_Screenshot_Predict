@@ -1,0 +1,26 @@
+{
+  "appid": 457520,
+  "success": true,
+  "tags": {
+    "Local Co-Op": 119,
+    "Difficult": 113,
+    "Precision Platformer": 109,
+    "Pixel Graphics": 107,
+    "Retro": 99,
+    "Rogue-lite": 89,
+    "Funny": 86,
+    "Singleplayer": 85,
+    "Side Scroller": 79,
+    "Controller": 75,
+    "Platformer": 68,
+    "Action": 60,
+    "Casual": 57,
+    "Indie": 55,
+    "2D": 53,
+    "Memes": 41,
+    "Fantasy": 33,
+    "Gore": 32,
+    "Blood": 29,
+    "Rogue-like": 25
+  }
+}

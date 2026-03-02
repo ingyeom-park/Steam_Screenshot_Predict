@@ -1,0 +1,26 @@
+{
+  "appid": 97000,
+  "success": true,
+  "tags": {
+    "Space": 208,
+    "Indie": 175,
+    "Casual": 168,
+    "Sandbox": 154,
+    "Relaxing": 113,
+    "Simulation": 108,
+    "Singleplayer": 96,
+    "2D": 96,
+    "Open World": 87,
+    "Physics": 81,
+    "Top-Down": 79,
+    "Comedy": 77,
+    "Short": 75,
+    "God Game": 73,
+    "Atmospheric": 73,
+    "Sci-fi": 72,
+    "Space Sim": 69,
+    "Abstract": 66,
+    "Controller": 65,
+    "Procedural Generation": 60
+  }
+}

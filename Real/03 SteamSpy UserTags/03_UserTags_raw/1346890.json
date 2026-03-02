@@ -1,0 +1,26 @@
+{
+  "appid": 1346890,
+  "success": true,
+  "tags": {
+    "Simulation": 144,
+    "Automobile Sim": 99,
+    "Singleplayer": 84,
+    "Adventure": 82,
+    "Casual": 79,
+    "Racing": 76,
+    "VR": 73,
+    "Motorbike": 59,
+    "Asymmetric VR": 59,
+    "First-Person": 57,
+    "Indie": 53,
+    "3D": 53,
+    "Sports": 46,
+    "Management": 32,
+    "RPG": 32,
+    "Driving": 32,
+    "Sandbox": 32,
+    "Atmospheric": 32,
+    "TrackIR": 32,
+    "Moddable": 30
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1840490,
+  "success": true,
+  "tags": {
+    "Violent": 202,
+    "Action": 201,
+    "Horror": 198,
+    "1980s": 195,
+    "Fast-Paced": 193,
+    "Difficult": 189,
+    "Gore": 181,
+    "Stealth": 178,
+    "Dark Comedy": 170,
+    "Arcade": 166,
+    "Puzzle": 163,
+    "Surreal": 160,
+    "Thriller": 156,
+    "Dark Humor": 153,
+    "Indie": 152,
+    "Psychedelic": 150,
+    "3D": 148,
+    "Retro": 146,
+    "Third Person": 145,
+    "Survival Horror": 133
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 359310,
+  "success": true,
+  "tags": {
+    "RPG": 155,
+    "Adventure": 128,
+    "Indie": 92,
+    "Retro": 81,
+    "Action": 80,
+    "Singleplayer": 75,
+    "Pixel Graphics": 74,
+    "Story Rich": 66,
+    "2D": 53,
+    "Fantasy": 50,
+    "Time Travel": 50,
+    "Great Soundtrack": 35,
+    "Puzzle": 35,
+    "JRPG": 35,
+    "Parody ": 33,
+    "Platformer": 32,
+    "Funny": 24,
+    "Action RPG": 16,
+    "Atmospheric": 11,
+    "Comedy": 10
+  }
+}

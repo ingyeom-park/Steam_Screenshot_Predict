@@ -1,0 +1,20 @@
+{
+  "appid": 550010,
+  "success": true,
+  "tags": {
+    "Simulation": 115,
+    "Gore": 111,
+    "Violent": 104,
+    "Action": 90,
+    "Funny": 82,
+    "Sandbox": 77,
+    "Indie": 76,
+    "Blood": 59,
+    "Physics": 49,
+    "Strategy": 45,
+    "Singleplayer": 38,
+    "2D": 33,
+    "Casual": 16,
+    "Multiplayer": 12
+  }
+}

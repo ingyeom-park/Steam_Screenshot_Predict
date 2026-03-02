@@ -1,0 +1,26 @@
+{
+  "appid": 1836030,
+  "success": true,
+  "tags": {
+    "Souls-like": 171,
+    "2D Platformer": 166,
+    "Adventure": 160,
+    "Action": 157,
+    "Metroidvania": 154,
+    "Pixel Graphics": 122,
+    "Indie": 116,
+    "Platformer": 114,
+    "Action-Adventure": 112,
+    "Swordplay": 109,
+    "Dark": 106,
+    "Fantasy": 104,
+    "Cute": 101,
+    "Conversation": 94,
+    "2D": 93,
+    "Singleplayer": 88,
+    "RPG": 82,
+    "Action RPG": 77,
+    "Combat": 75,
+    "Early Access": 26
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 1843110,
+  "success": true,
+  "tags": {
+    "Action": 114,
+    "Metroidvania": 107,
+    "Action-Adventure": 103,
+    "Pixel Graphics": 99,
+    "Exploration": 94,
+    "Dark Fantasy": 87,
+    "Fantasy": 84,
+    "Adventure": 80,
+    "2D": 77,
+    "2D Platformer": 72,
+    "Side Scroller": 67,
+    "Platformer": 63,
+    "Linear": 59,
+    "Hand-drawn": 58,
+    "Indie": 55,
+    "Atmospheric": 41,
+    "Combat": 38,
+    "Singleplayer": 31
+  }
+}

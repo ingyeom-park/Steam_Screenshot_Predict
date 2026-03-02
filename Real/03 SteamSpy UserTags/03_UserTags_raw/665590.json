@@ -1,0 +1,26 @@
+{
+  "appid": 665590,
+  "success": true,
+  "tags": {
+    "Sports": 157,
+    "Casual": 151,
+    "Indie": 148,
+    "Golf": 145,
+    "Pixel Graphics": 141,
+    "Arcade": 133,
+    "2D": 131,
+    "Dog": 125,
+    "Physics": 123,
+    "e-sports": 116,
+    "Puzzle-Platformer": 108,
+    "Retro": 106,
+    "Procedural Generation": 96,
+    "Score Attack": 86,
+    "Multiplayer": 80,
+    "Singleplayer": 76,
+    "4 Player Local": 73,
+    "Local Co-Op": 71,
+    "Local Multiplayer": 69,
+    "Cute": 66
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 65080,
+  "success": true,
+  "tags": {
+    "Adventure": 233,
+    "Indie": 231,
+    "Point & Click": 228,
+    "Sci-fi": 223,
+    "Comedy": 221,
+    "Puzzle": 218,
+    "Cartoony": 209,
+    "Hand-drawn": 206,
+    "Atmospheric": 202,
+    "Singleplayer": 201,
+    "Exploration": 197,
+    "2D": 195,
+    "Colorful": 194,
+    "Stylized": 189,
+    "Aliens": 187,
+    "Alternate History": 176,
+    "Conspiracy": 164,
+    "Dark Humor": 153,
+    "Funny": 138,
+    "Detective": 138
+  }
+}

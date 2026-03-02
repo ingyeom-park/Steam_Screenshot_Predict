@@ -1,0 +1,15 @@
+{
+  "appid": 865930,
+  "success": true,
+  "tags": {
+    "Casual": 42,
+    "Action": 33,
+    "RPG": 33,
+    "Indie": 33,
+    "Simulation": 31,
+    "Sandbox": 17,
+    "Building": 16,
+    "Classic": 9,
+    "Level Editor": 8
+  }
+}

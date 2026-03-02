@@ -1,0 +1,26 @@
+{
+  "appid": 850320,
+  "success": true,
+  "tags": {
+    "Co-op": 190,
+    "Adventure": 171,
+    "Puzzle-Platformer": 167,
+    "Online Co-Op": 162,
+    "Local Co-Op": 161,
+    "Indie": 160,
+    "3D Platformer": 152,
+    "Physics": 140,
+    "Co-op Campaign": 133,
+    "Dog": 124,
+    "Singleplayer": 122,
+    "Character Customization": 116,
+    "Casual": 98,
+    "Cute": 89,
+    "Puzzle": 63,
+    "Colorful": 59,
+    "Funny": 56,
+    "Cartoony": 49,
+    "Cartoon": 49,
+    "Comedy": 41
+  }
+}

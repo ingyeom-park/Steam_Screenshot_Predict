@@ -1,0 +1,26 @@
+{
+  "appid": 2949580,
+  "success": true,
+  "tags": {
+    "Action RPG": 113,
+    "Action-Adventure": 107,
+    "Dark Fantasy": 102,
+    "Souls-like": 101,
+    "3D": 98,
+    "Exploration": 89,
+    "Indie": 86,
+    "Action": 83,
+    "Controller": 76,
+    "Combat": 72,
+    "Dark": 71,
+    "RPG": 67,
+    "3D Platformer": 65,
+    "Drama": 63,
+    "Third Person": 59,
+    "Adventure": 56,
+    "Stealth": 45,
+    "Singleplayer": 43,
+    "Hack and Slash": 41,
+    "Top-Down": 39
+  }
+}

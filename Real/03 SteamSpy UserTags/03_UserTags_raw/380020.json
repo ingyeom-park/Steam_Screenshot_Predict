@@ -1,0 +1,26 @@
+{
+  "appid": 380020,
+  "success": true,
+  "tags": {
+    "Action": 151,
+    "Fantasy": 145,
+    "Funny": 142,
+    "Hack and Slash": 141,
+    "Indie": 137,
+    "Adventure": 130,
+    "Third Person": 128,
+    "Comedy": 125,
+    "RPG": 121,
+    "Singleplayer": 119,
+    "Family Friendly": 117,
+    "Colorful": 113,
+    "Arcade": 104,
+    "Exploration": 97,
+    "Difficult": 91,
+    "Action RPG": 87,
+    "Action-Adventure": 84,
+    "Cartoony": 82,
+    "Cartoon": 77,
+    "Stylized": 72
+  }
+}

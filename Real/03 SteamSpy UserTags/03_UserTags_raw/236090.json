@@ -1,0 +1,26 @@
+{
+  "appid": 236090,
+  "success": true,
+  "tags": {
+    "Action": 818,
+    "Platformer": 792,
+    "Metroidvania": 728,
+    "Indie": 694,
+    "RPG": 629,
+    "Adventure": 579,
+    "2D": 564,
+    "Singleplayer": 533,
+    "Fantasy": 431,
+    "Great Soundtrack": 409,
+    "Beat 'em up": 371,
+    "Hack and Slash": 322,
+    "Exploration": 263,
+    "Story Rich": 248,
+    "Controller": 226,
+    "Beautiful": 222,
+    "Side Scroller": 189,
+    "Anime": 175,
+    "Action RPG": 167,
+    "Atmospheric": 162
+  }
+}

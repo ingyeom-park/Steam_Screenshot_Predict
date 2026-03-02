@@ -1,0 +1,22 @@
+{
+  "appid": 1905220,
+  "success": true,
+  "tags": {
+    "Action": 72,
+    "Casual": 66,
+    "Simulation": 61,
+    "Shooter": 39,
+    "VR": 38,
+    "Exploration": 35,
+    "Cartoony": 30,
+    "Comedy": 25,
+    "Destruction": 25,
+    "Indie": 22,
+    "Family Friendly": 22,
+    "Funny": 19,
+    "Physics": 17,
+    "PvE": 15,
+    "Singleplayer": 14,
+    "Horror": 10
+  }
+}

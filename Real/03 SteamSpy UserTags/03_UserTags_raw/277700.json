@@ -1,0 +1,26 @@
+{
+  "appid": 277700,
+  "success": true,
+  "tags": {
+    "Indie": 223,
+    "Platformer": 217,
+    "Puzzle-Platformer": 214,
+    "Precision Platformer": 211,
+    "Comic Book": 208,
+    "Singleplayer": 203,
+    "2.5D": 200,
+    "Action": 198,
+    "Cartoony": 193,
+    "Robots": 185,
+    "Narration": 183,
+    "Atmospheric": 181,
+    "Colorful": 174,
+    "2D Platformer": 169,
+    "Sci-fi": 167,
+    "Physics": 164,
+    "Story Rich": 155,
+    "Controller": 147,
+    "Linear": 136,
+    "Score Attack": 117
+  }
+}

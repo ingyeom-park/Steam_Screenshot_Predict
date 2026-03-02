@@ -1,0 +1,26 @@
+{
+  "appid": 909670,
+  "success": true,
+  "tags": {
+    "Side Scroller": 195,
+    "Platformer": 188,
+    "Runner": 186,
+    "Rhythm": 183,
+    "Difficult": 180,
+    "Fast-Paced": 173,
+    "Retro": 166,
+    "Arcade": 165,
+    "Action-Adventure": 161,
+    "Action": 158,
+    "Anime": 152,
+    "Colorful": 148,
+    "Score Attack": 147,
+    "Time Attack": 144,
+    "2D": 142,
+    "Robots": 130,
+    "Singleplayer": 116,
+    "Controller": 100,
+    "Soundtrack": 90,
+    "Indie": 85
+  }
+}

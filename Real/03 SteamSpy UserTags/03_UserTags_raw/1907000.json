@@ -1,0 +1,26 @@
+{
+  "appid": 1907000,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 113,
+    "RPG": 102,
+    "First-Person": 102,
+    "Indie": 93,
+    "FPS": 84,
+    "Pixel Graphics": 83,
+    "Rogue-like": 82,
+    "Adventure": 79,
+    "Action": 75,
+    "Perma Death": 73,
+    "Singleplayer": 73,
+    "Procedural Generation": 71,
+    "Atmospheric": 66,
+    "3D": 65,
+    "Exploration": 64,
+    "Turn-Based Combat": 63,
+    "Fantasy": 61,
+    "Class-Based": 58,
+    "Retro": 53,
+    "Dark": 53
+  }
+}

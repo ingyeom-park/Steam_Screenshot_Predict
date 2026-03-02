@@ -1,0 +1,26 @@
+{
+  "appid": 2120310,
+  "success": true,
+  "tags": {
+    "Adventure": 135,
+    "Indie": 119,
+    "Exploration": 117,
+    "Sailing": 116,
+    "Historical": 115,
+    "Story Rich": 104,
+    "Action-Adventure": 103,
+    "RPG": 99,
+    "Simulation": 92,
+    "2D": 85,
+    "Pixel Graphics": 85,
+    "Puzzle": 81,
+    "Colorful": 79,
+    "Combat": 74,
+    "Turn-Based Combat": 72,
+    "Singleplayer": 70,
+    "JRPG": 69,
+    "Cute": 65,
+    "Medieval": 64,
+    "Early Access": 54
+  }
+}

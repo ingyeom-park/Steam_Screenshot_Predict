@@ -1,0 +1,26 @@
+{
+  "appid": 943810,
+  "success": true,
+  "tags": {
+    "Strategy": 117,
+    "Turn-Based Tactics": 111,
+    "Mechs": 108,
+    "Pixel Graphics": 104,
+    "Grand Strategy": 99,
+    "Robots": 94,
+    "Indie": 92,
+    "Turn-Based": 88,
+    "Sci-fi": 85,
+    "Anime": 82,
+    "Retro": 80,
+    "Turn-Based Strategy": 76,
+    "War": 71,
+    "2D": 70,
+    "Singleplayer": 61,
+    "RPG": 53,
+    "Simulation": 49,
+    "Turn-Based Combat": 32,
+    "Space": 30,
+    "Hack and Slash": 26
+  }
+}

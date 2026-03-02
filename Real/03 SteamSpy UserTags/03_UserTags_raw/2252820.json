@@ -1,0 +1,26 @@
+{
+  "appid": 2252820,
+  "success": true,
+  "tags": {
+    "Puzzle": 221,
+    "Cozy": 215,
+    "Escape Room": 212,
+    "Relaxing": 210,
+    "Logic": 206,
+    "3D": 200,
+    "Exploration": 200,
+    "First-Person": 196,
+    "Detective": 194,
+    "Linear": 192,
+    "Nonlinear": 190,
+    "Casual": 188,
+    "Realistic": 187,
+    "Family Friendly": 175,
+    "Atmospheric": 165,
+    "Investigation": 156,
+    "Mystery": 147,
+    "Adventure": 133,
+    "Singleplayer": 130,
+    "Indie": 112
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "appid": 986680,
+  "success": true,
+  "tags": {
+    "Action": 55,
+    "Adventure": 52,
+    "RPG": 49,
+    "Indie": 49,
+    "Horror": 30,
+    "Casual": 22,
+    "Third Person": 9
+  }
+}

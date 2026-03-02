@@ -1,0 +1,25 @@
+{
+  "appid": 471330,
+  "success": true,
+  "tags": {
+    "Action": 49,
+    "Gore": 45,
+    "Indie": 44,
+    "Zombies": 35,
+    "Survival": 35,
+    "Tower Defense": 34,
+    "Co-op": 32,
+    "Top-Down Shooter": 31,
+    "Twin Stick Shooter": 28,
+    "Top-Down": 24,
+    "Online Co-Op": 24,
+    "Multiplayer": 24,
+    "Strategy": 20,
+    "Base-Building": 19,
+    "Violent": 19,
+    "Shooter": 15,
+    "Walking Simulator": 10,
+    "Open World": 10,
+    "Post-apocalyptic": 8
+  }
+}

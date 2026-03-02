@@ -1,0 +1,11 @@
+{
+  "appid": 550400,
+  "success": true,
+  "tags": {
+    "Casual": 37,
+    "Adventure": 34,
+    "Indie": 33,
+    "Strategy": 31,
+    "Time Management": 15
+  }
+}

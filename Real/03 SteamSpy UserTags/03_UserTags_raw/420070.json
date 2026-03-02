@@ -1,0 +1,16 @@
+{
+  "appid": 420070,
+  "success": true,
+  "tags": {
+    "Action": 26,
+    "Adventure": 25,
+    "Indie": 25,
+    "Platformer": 20,
+    "2D": 16,
+    "Puzzle-Platformer": 15,
+    "Comedy": 13,
+    "Great Soundtrack": 13,
+    "Experimental": 13,
+    "Difficult": 12
+  }
+}

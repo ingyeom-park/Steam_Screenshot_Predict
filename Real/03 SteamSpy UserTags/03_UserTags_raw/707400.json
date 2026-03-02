@@ -1,0 +1,12 @@
+{
+  "appid": 707400,
+  "success": true,
+  "tags": {
+    "Indie": 25,
+    "Action": 24,
+    "Adventure": 20,
+    "Gore": 12,
+    "Violent": 11,
+    "FPS": 5
+  }
+}

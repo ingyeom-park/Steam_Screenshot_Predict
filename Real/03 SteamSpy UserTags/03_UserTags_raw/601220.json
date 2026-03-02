@@ -1,0 +1,26 @@
+{
+  "appid": 601220,
+  "success": true,
+  "tags": {
+    "Puzzle": 183,
+    "Casual": 175,
+    "Indie": 171,
+    "Fast-Paced": 166,
+    "2D": 163,
+    "Physics": 153,
+    "Short": 149,
+    "Relaxing": 146,
+    "Minimalist": 144,
+    "Puzzle-Platformer": 140,
+    "Point & Click": 136,
+    "Mouse only": 134,
+    "Singleplayer": 125,
+    "Cute": 113,
+    "Trading Card Game": 102,
+    "Cyberpunk": 96,
+    "Family Friendly": 89,
+    "Atmospheric": 70,
+    "PvE": 52,
+    "Fighting": 29
+  }
+}

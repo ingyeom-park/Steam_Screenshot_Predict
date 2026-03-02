@@ -1,0 +1,26 @@
+{
+  "appid": 1059460,
+  "success": true,
+  "tags": {
+    "Simulation": 41,
+    "Action": 41,
+    "Indie": 30,
+    "Adventure": 28,
+    "Casual": 27,
+    "Physics": 26,
+    "Fighting": 26,
+    "Funny": 25,
+    "Comedy": 21,
+    "Beat 'em up": 20,
+    "Singleplayer": 20,
+    "Violent": 19,
+    "Intentionally Awkward Controls": 16,
+    "Third Person": 13,
+    "3D": 13,
+    "Blood": 13,
+    "3D Fighter": 13,
+    "Boxing": 13,
+    "Hack and Slash": 12,
+    "Stylized": 12
+  }
+}

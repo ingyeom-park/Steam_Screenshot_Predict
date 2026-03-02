@@ -1,0 +1,26 @@
+{
+  "appid": 2488510,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 223,
+    "Bullet Hell": 216,
+    "Survival": 211,
+    "Zombies": 210,
+    "Rogue-lite": 199,
+    "Top-Down Shooter": 191,
+    "Action": 178,
+    "Arena Shooter": 178,
+    "Action RPG": 170,
+    "Top-Down": 153,
+    "Rogue-like": 146,
+    "RPG": 134,
+    "Post-apocalyptic": 130,
+    "2D": 126,
+    "Procedural Generation": 99,
+    "Singleplayer": 82,
+    "Score Attack": 64,
+    "Indie": 51,
+    "Isometric": 46,
+    "Perma Death": 24
+  }
+}

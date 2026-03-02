@@ -1,0 +1,26 @@
+{
+  "appid": 1291010,
+  "success": true,
+  "tags": {
+    "Strategy": 204,
+    "Tower Defense": 204,
+    "RTS": 198,
+    "War": 181,
+    "Auto Battler": 177,
+    "Resource Management": 166,
+    "Tactical": 160,
+    "Singleplayer": 156,
+    "Pixel Graphics": 142,
+    "Indie": 136,
+    "2.5D": 130,
+    "Base-Building": 123,
+    "Wargame": 107,
+    "Combat": 107,
+    "Action": 97,
+    "Early Access": 95,
+    "Vehicular Combat": 78,
+    "Real Time Tactics": 75,
+    "Stylized": 74,
+    "3D": 65
+  }
+}

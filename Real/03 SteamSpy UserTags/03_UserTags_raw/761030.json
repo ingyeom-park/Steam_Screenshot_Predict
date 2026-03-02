@@ -1,0 +1,26 @@
+{
+  "appid": 761030,
+  "success": true,
+  "tags": {
+    "RPG": 133,
+    "Adventure": 121,
+    "Strategy": 111,
+    "Indie": 102,
+    "Turn-Based Combat": 52,
+    "JRPG": 49,
+    "Turn-Based": 47,
+    "Fantasy": 43,
+    "Singleplayer": 42,
+    "Exploration": 39,
+    "Story Rich": 39,
+    "Party-Based RPG": 37,
+    "Retro": 35,
+    "Atmospheric": 35,
+    "Great Soundtrack": 34,
+    "Classic": 32,
+    "Strategy RPG": 32,
+    "Turn-Based Strategy": 30,
+    "Farming": 21,
+    "Agriculture": 21
+  }
+}

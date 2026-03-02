@@ -1,0 +1,26 @@
+{
+  "appid": 1638390,
+  "success": true,
+  "tags": {
+    "Roguelike Deckbuilder": 275,
+    "Card Game": 268,
+    "Card Battler": 265,
+    "Deckbuilding": 263,
+    "Rogue-like": 260,
+    "Turn-Based": 252,
+    "Strategy": 250,
+    "Singleplayer": 245,
+    "Rogue-lite": 243,
+    "Replay Value": 232,
+    "Indie": 224,
+    "Dungeon Crawler": 217,
+    "RPG": 214,
+    "Fantasy": 212,
+    "Turn-Based Combat": 210,
+    "2D": 208,
+    "Procedural Generation": 206,
+    "Dark Fantasy": 203,
+    "Turn-Based Strategy": 202,
+    "Casual": 199
+  }
+}

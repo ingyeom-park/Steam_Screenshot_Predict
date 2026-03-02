@@ -1,0 +1,26 @@
+{
+  "appid": 1176710,
+  "success": true,
+  "tags": {
+    "Action": 169,
+    "Sci-fi": 161,
+    "Adventure": 158,
+    "Strategy": 154,
+    "Wargame": 150,
+    "Space": 145,
+    "Management": 144,
+    "Indie": 141,
+    "Simulation": 138,
+    "Space Sim": 117,
+    "Singleplayer": 114,
+    "Rogue-lite": 112,
+    "Cartoony": 108,
+    "3D": 108,
+    "Comedy": 102,
+    "Perma Death": 99,
+    "Replay Value": 97,
+    "Difficult": 95,
+    "Rogue-like": 93,
+    "War": 91
+  }
+}

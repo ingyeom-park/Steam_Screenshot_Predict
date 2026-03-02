@@ -1,0 +1,19 @@
+{
+  "appid": 288120,
+  "success": true,
+  "tags": {
+    "Traditional Roguelike": 127,
+    "Rogue-like": 124,
+    "Grid-Based Movement": 56,
+    "RPG": 49,
+    "Indie": 36,
+    "Turn-Based": 36,
+    "Strategy": 28,
+    "Adventure": 27,
+    "Loot": 22,
+    "Dungeon Crawler": 19,
+    "Singleplayer": 13,
+    "2D": 9,
+    "Pixel Graphics": 6
+  }
+}

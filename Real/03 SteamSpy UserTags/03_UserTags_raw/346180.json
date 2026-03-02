@@ -1,0 +1,26 @@
+{
+  "appid": 346180,
+  "success": true,
+  "tags": {
+    "Indie": 144,
+    "Action": 138,
+    "2D Platformer": 135,
+    "Time Manipulation": 131,
+    "Bullet Time": 128,
+    "Abstract": 122,
+    "Difficult": 117,
+    "Physics": 111,
+    "Minimalist": 107,
+    "Singleplayer": 101,
+    "2D": 93,
+    "Platformer": 90,
+    "Short": 84,
+    "Atmospheric": 81,
+    "Space": 75,
+    "Soundtrack": 68,
+    "2D Fighter": 60,
+    "Fast-Paced": 58,
+    "Stylized": 52,
+    "Arena Shooter": 50
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 464100,
+  "success": true,
+  "tags": {
+    "Strategy": 128,
+    "Indie": 121,
+    "Turn-Based": 118,
+    "Sci-fi": 116,
+    "Base-Building": 116,
+    "Space": 115,
+    "Hex Grid": 112,
+    "Wargame": 112,
+    "Mechs": 108,
+    "Turn-Based Strategy": 103,
+    "Turn-Based Tactics": 99,
+    "Robots": 94,
+    "Tactical": 91,
+    "Casual": 76,
+    "Building": 75,
+    "Controller": 71,
+    "3D": 63,
+    "Cartoony": 58,
+    "Political": 54,
+    "Aliens": 53
+  }
+}

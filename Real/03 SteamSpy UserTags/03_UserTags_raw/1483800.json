@@ -1,0 +1,23 @@
+{
+  "appid": 1483800,
+  "success": true,
+  "tags": {
+    "Casual": 64,
+    "2D Platformer": 54,
+    "Runner": 47,
+    "Arcade": 41,
+    "Action-Adventure": 37,
+    "Adventure": 35,
+    "Character Customization": 32,
+    "2D": 30,
+    "Cute": 28,
+    "Funny": 26,
+    "Puzzle": 24,
+    "Colorful": 22,
+    "Indie": 21,
+    "Minimalist": 20,
+    "Logic": 18,
+    "Retro": 14,
+    "Singleplayer": 12
+  }
+}

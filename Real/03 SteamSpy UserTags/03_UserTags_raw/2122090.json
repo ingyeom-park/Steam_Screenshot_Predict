@@ -1,0 +1,26 @@
+{
+  "appid": 2122090,
+  "success": true,
+  "tags": {
+    "Turn-Based Tactics": 191,
+    "Turn-Based Strategy": 185,
+    "Strategy": 182,
+    "Third Person": 178,
+    "3D": 174,
+    "Top-Down": 166,
+    "Isometric": 161,
+    "Historical": 156,
+    "Turn-Based Combat": 152,
+    "Realistic": 142,
+    "Tactical": 133,
+    "World War II": 128,
+    "Military": 122,
+    "Survival": 113,
+    "War": 107,
+    "Atmospheric": 102,
+    "Singleplayer": 92,
+    "Indie": 66,
+    "Gaming": 59,
+    "Beautiful": 56
+  }
+}

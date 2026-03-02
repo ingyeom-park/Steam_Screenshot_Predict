@@ -1,0 +1,26 @@
+{
+  "appid": 3313310,
+  "success": true,
+  "tags": {
+    "Indie": 186,
+    "Casual": 179,
+    "Lovecraftian": 177,
+    "Horror": 174,
+    "Dark": 170,
+    "Relaxing": 165,
+    "Pixel Graphics": 163,
+    "Story Rich": 161,
+    "Retro": 158,
+    "2D": 154,
+    "Singleplayer": 146,
+    "Point & Click": 135,
+    "Idler": 127,
+    "Clicker": 114,
+    "Cute": 110,
+    "Creature Collector": 107,
+    "Fishing": 93,
+    "Collectathon": 74,
+    "1980s": 54,
+    "Arcade": 36
+  }
+}

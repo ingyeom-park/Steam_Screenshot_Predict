@@ -1,0 +1,23 @@
+{
+  "appid": 1706570,
+  "success": true,
+  "tags": {
+    "Action": 197,
+    "Adventure": 170,
+    "Action-Adventure": 165,
+    "Shooter": 161,
+    "Exploration": 155,
+    "FPS": 147,
+    "3D": 138,
+    "Realistic": 131,
+    "Atmospheric": 123,
+    "Horror": 116,
+    "Demons": 114,
+    "Mystery": 103,
+    "PvP": 89,
+    "Co-op": 65,
+    "Online Co-Op": 50,
+    "Indie": 31,
+    "Multiplayer": 24
+  }
+}

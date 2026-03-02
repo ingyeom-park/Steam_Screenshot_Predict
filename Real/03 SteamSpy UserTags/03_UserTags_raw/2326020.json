@@ -1,0 +1,26 @@
+{
+  "appid": 2326020,
+  "success": true,
+  "tags": {
+    "Inventory Management": 194,
+    "Puzzle": 188,
+    "Survival Horror": 184,
+    "Relaxing": 179,
+    "Zombies": 172,
+    "Gun Customization": 162,
+    "Horror": 155,
+    "Parody ": 148,
+    "Controller": 139,
+    "Military": 132,
+    "Minimalist": 118,
+    "Logic": 117,
+    "Casual": 110,
+    "Management": 104,
+    "Atmospheric": 75,
+    "Crafting": 59,
+    "Grid-Based Movement": 43,
+    "Singleplayer": 26,
+    "Resource Management": 25,
+    "Indie": 19
+  }
+}

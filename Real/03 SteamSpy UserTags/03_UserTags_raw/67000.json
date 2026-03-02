@@ -1,0 +1,21 @@
+{
+  "appid": 67000,
+  "success": true,
+  "tags": {
+    "Indie": 62,
+    "Music": 62,
+    "Action": 51,
+    "Rhythm": 50,
+    "Casual": 42,
+    "Psychedelic": 31,
+    "Arcade": 28,
+    "First-Person": 24,
+    "Colorful": 23,
+    "Singleplayer": 21,
+    "Great Soundtrack": 14,
+    "Bullet Hell": 12,
+    "Music-Based Procedural Generation": 12,
+    "Score Attack": 11,
+    "Flight": 10
+  }
+}

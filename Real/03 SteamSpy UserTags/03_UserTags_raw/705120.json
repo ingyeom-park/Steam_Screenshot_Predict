@@ -1,0 +1,20 @@
+{
+  "appid": 705120,
+  "success": true,
+  "tags": {
+    "Casual": 90,
+    "Pixel Graphics": 88,
+    "Strategy": 87,
+    "Puzzle": 71,
+    "Gore": 63,
+    "Adventure": 53,
+    "Violent": 49,
+    "Assassin": 35,
+    "Indie": 31,
+    "Nonlinear": 31,
+    "Singleplayer": 27,
+    "Sandbox": 26,
+    "Simulation": 25,
+    "Cute": 20
+  }
+}

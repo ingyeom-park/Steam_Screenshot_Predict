@@ -1,0 +1,26 @@
+{
+  "appid": 428540,
+  "success": true,
+  "tags": {
+    "Casual": 190,
+    "Indie": 184,
+    "LGBTQ+": 180,
+    "Visual Novel": 178,
+    "Walking Simulator": 173,
+    "Atmospheric": 167,
+    "Story Rich": 162,
+    "Singleplayer": 158,
+    "Interactive Fiction": 156,
+    "Point & Click": 151,
+    "3D": 147,
+    "First-Person": 136,
+    "Dark": 132,
+    "Drama": 124,
+    "Emotional": 121,
+    "Romance": 118,
+    "Narration": 116,
+    "Linear": 112,
+    "Immersive": 104,
+    "Mature": 96
+  }
+}

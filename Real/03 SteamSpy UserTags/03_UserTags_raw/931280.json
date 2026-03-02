@@ -1,0 +1,26 @@
+{
+  "appid": 931280,
+  "success": true,
+  "tags": {
+    "RTS": 209,
+    "Strategy": 200,
+    "Sci-fi": 182,
+    "Singleplayer": 179,
+    "Action": 175,
+    "2D": 169,
+    "Adventure": 166,
+    "Aliens": 135,
+    "Indie": 130,
+    "Cartoony": 117,
+    "Space": 113,
+    "Casual": 105,
+    "Military": 101,
+    "Comedy": 83,
+    "Colorful": 80,
+    "War": 73,
+    "Fantasy": 72,
+    "Cartoon": 68,
+    "Combat": 67,
+    "Family Friendly": 63
+  }
+}

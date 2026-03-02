@@ -1,0 +1,26 @@
+{
+  "appid": 1191070,
+  "success": true,
+  "tags": {
+    "Violent": 55,
+    "Horror": 46,
+    "Indie": 44,
+    "Action": 43,
+    "Adventure": 43,
+    "Gore": 42,
+    "Strategy": 40,
+    "Experience": 35,
+    "War": 34,
+    "Psychological": 33,
+    "Retro": 29,
+    "Survival Horror": 28,
+    "Mature": 27,
+    "Anime": 26,
+    "Psychological Horror": 26,
+    "First-Person": 24,
+    "Singleplayer": 24,
+    "Atmospheric": 23,
+    "Exploration": 23,
+    "Mystery": 23
+  }
+}

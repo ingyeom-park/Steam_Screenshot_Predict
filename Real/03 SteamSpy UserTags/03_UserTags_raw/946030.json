@@ -1,0 +1,22 @@
+{
+  "appid": 946030,
+  "success": true,
+  "tags": {
+    "Action": 77,
+    "Adventure": 69,
+    "Metroidvania": 53,
+    "Platformer": 46,
+    "2D Platformer": 45,
+    "Action-Adventure": 43,
+    "Pixel Graphics": 34,
+    "Side Scroller": 32,
+    "2D": 31,
+    "Sci-fi": 31,
+    "Female Protagonist": 28,
+    "Indie": 24,
+    "Hack and Slash": 19,
+    "Nonlinear": 19,
+    "Singleplayer": 17,
+    "Story Rich": 16
+  }
+}

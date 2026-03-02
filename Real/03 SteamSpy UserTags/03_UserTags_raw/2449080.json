@@ -1,0 +1,24 @@
+{
+  "appid": 2449080,
+  "success": true,
+  "tags": {
+    "Strategy": 116,
+    "Auto Battler": 109,
+    "Match 3": 106,
+    "Deckbuilding": 102,
+    "Rogue-lite": 97,
+    "Rogue-like": 90,
+    "Indie": 87,
+    "2D": 83,
+    "Stylized": 80,
+    "Medieval": 77,
+    "Building": 70,
+    "Tactical": 62,
+    "Fantasy": 55,
+    "War": 48,
+    "Combat": 46,
+    "Procedural Generation": 38,
+    "Story Rich": 28,
+    "Singleplayer": 27
+  }
+}

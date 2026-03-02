@@ -1,0 +1,26 @@
+{
+  "appid": 574090,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 136,
+    "FPS": 130,
+    "Action": 127,
+    "First-Person": 123,
+    "Boomer Shooter": 114,
+    "Crafting": 108,
+    "Gun Customization": 107,
+    "Indie": 100,
+    "Rogue-lite": 95,
+    "Fast-Paced": 90,
+    "Rogue-like": 88,
+    "Online Co-Op": 86,
+    "Bullet Hell": 80,
+    "Singleplayer": 73,
+    "Procedural Generation": 70,
+    "Replay Value": 67,
+    "Co-op": 62,
+    "Sci-fi": 57,
+    "Difficult": 53,
+    "Perma Death": 49
+  }
+}

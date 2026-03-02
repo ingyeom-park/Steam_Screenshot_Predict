@@ -1,0 +1,17 @@
+{
+  "appid": 465240,
+  "success": true,
+  "tags": {
+    "VR": 38,
+    "Action": 37,
+    "Gore": 35,
+    "Indie": 28,
+    "Violent": 22,
+    "Shooter": 16,
+    "Singleplayer": 15,
+    "FPS": 13,
+    "Co-op": 13,
+    "Boomer Shooter": 10,
+    "First-Person": 8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 799640,
+  "success": true,
+  "tags": {
+    "Indie": 340,
+    "Action": 331,
+    "Pixel Graphics": 329,
+    "Adventure": 319,
+    "Funny": 314,
+    "RPG": 312,
+    "Anime": 309,
+    "2D": 300,
+    "Post-apocalyptic": 291,
+    "Singleplayer": 290,
+    "Exploration": 280,
+    "Side Scroller": 277,
+    "Platformer": 275,
+    "Comedy": 271,
+    "Bullet Hell": 269,
+    "Cooking": 266,
+    "Early Access": 263,
+    "Action RPG": 252,
+    "Difficult": 250,
+    "Action-Adventure": 249
+  }
+}

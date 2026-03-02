@@ -1,0 +1,26 @@
+{
+  "appid": 336420,
+  "success": true,
+  "tags": {
+    "Action": 102,
+    "Hack and Slash": 97,
+    "Indie": 95,
+    "MOBA": 94,
+    "Post-apocalyptic": 87,
+    "Co-op": 87,
+    "Survival": 83,
+    "PvE": 76,
+    "Strategy": 72,
+    "Casual": 70,
+    "Adventure": 70,
+    "Sports": 61,
+    "Multiplayer": 60,
+    "Tower Defense": 54,
+    "Singleplayer": 53,
+    "Funny": 42,
+    "RTS": 31,
+    "Massively Multiplayer": 29,
+    "Violent": 21,
+    "Animation & Modeling": 20
+  }
+}

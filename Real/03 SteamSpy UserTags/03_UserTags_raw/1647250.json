@@ -1,0 +1,26 @@
+{
+  "appid": 1647250,
+  "success": true,
+  "tags": {
+    "Casual": 234,
+    "Simulation": 225,
+    "Comic Book": 202,
+    "Funny": 200,
+    "Comedy": 193,
+    "Parody ": 181,
+    "2D": 176,
+    "Cute": 165,
+    "Anime": 157,
+    "Cartoon": 148,
+    "Hand-drawn": 138,
+    "Atmospheric": 126,
+    "Singleplayer": 125,
+    "Multiplayer": 111,
+    "Local Multiplayer": 95,
+    "Local Co-Op": 81,
+    "Indie": 65,
+    "Co-op": 64,
+    "Minigames": 30,
+    "Short": 25
+  }
+}

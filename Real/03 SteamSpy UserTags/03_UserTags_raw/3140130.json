@@ -1,0 +1,20 @@
+{
+  "appid": 3140130,
+  "success": true,
+  "tags": {
+    "Casual": 75,
+    "Simulation": 69,
+    "Singleplayer": 47,
+    "Multiplayer": 38,
+    "Co-op": 32,
+    "Local Multiplayer": 32,
+    "Indie": 31,
+    "Local Co-Op": 25,
+    "Adventure": 11,
+    "Comedy": 11,
+    "Story Rich": 11,
+    "Funny": 11,
+    "Parody ": 11,
+    "Trivia": 11
+  }
+}

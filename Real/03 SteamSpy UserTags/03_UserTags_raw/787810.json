@@ -1,0 +1,26 @@
+{
+  "appid": 787810,
+  "success": true,
+  "tags": {
+    "Co-op": 222,
+    "RPG": 211,
+    "Adventure": 203,
+    "Action": 201,
+    "Pixel Graphics": 197,
+    "Rogue-like": 192,
+    "Rogue-lite": 181,
+    "Indie": 165,
+    "2D": 157,
+    "Online Co-Op": 155,
+    "Local Multiplayer": 141,
+    "Action Roguelike": 123,
+    "Multiplayer": 120,
+    "Exploration": 120,
+    "Singleplayer": 116,
+    "Action-Adventure": 111,
+    "Fantasy": 110,
+    "Action RPG": 108,
+    "Controller": 84,
+    "Fishing": 70
+  }
+}

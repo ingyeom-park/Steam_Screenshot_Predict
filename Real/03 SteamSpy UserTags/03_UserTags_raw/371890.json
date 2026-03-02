@@ -1,0 +1,26 @@
+{
+  "appid": 371890,
+  "success": true,
+  "tags": {
+    "Action": 146,
+    "Indie": 140,
+    "Platformer": 136,
+    "Pixel Graphics": 131,
+    "Retro": 127,
+    "Shooter": 120,
+    "2D": 117,
+    "Local Co-Op": 114,
+    "Arcade": 106,
+    "Side Scroller": 97,
+    "Rogue-lite": 87,
+    "Shoot 'Em Up": 76,
+    "War": 66,
+    "Military": 60,
+    "Female Protagonist": 53,
+    "Procedural Generation": 43,
+    "Singleplayer": 41,
+    "Difficult": 39,
+    "Great Soundtrack": 29,
+    "Local Multiplayer": 27
+  }
+}

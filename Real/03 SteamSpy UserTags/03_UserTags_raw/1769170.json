@@ -1,0 +1,26 @@
+{
+  "appid": 1769170,
+  "success": true,
+  "tags": {
+    "Traditional Roguelike": 230,
+    "Dungeon Crawler": 225,
+    "Rogue-like": 219,
+    "Turn-Based": 208,
+    "RPG": 205,
+    "Mystery Dungeon": 191,
+    "Perma Death": 188,
+    "Indie": 178,
+    "Difficult": 177,
+    "2D": 174,
+    "Procedural Generation": 171,
+    "Replay Value": 164,
+    "Pixel Graphics": 159,
+    "Turn-Based Combat": 153,
+    "Fantasy": 150,
+    "Top-Down": 133,
+    "Adventure": 132,
+    "Singleplayer": 124,
+    "Loot": 124,
+    "Crafting": 111
+  }
+}

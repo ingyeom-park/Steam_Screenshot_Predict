@@ -1,0 +1,26 @@
+{
+  "appid": 1703480,
+  "success": true,
+  "tags": {
+    "Action": 180,
+    "Casual": 174,
+    "Action-Adventure": 149,
+    "Arcade": 145,
+    "Side Scroller": 139,
+    "Exploration": 129,
+    "2D Platformer": 123,
+    "2D": 115,
+    "Minimalist": 107,
+    "Drama": 99,
+    "Logic": 95,
+    "Mystery": 83,
+    "Story Rich": 70,
+    "Controller": 57,
+    "Physics": 41,
+    "Singleplayer": 27,
+    "Dark Fantasy": 25,
+    "Violent": 21,
+    "Indie": 21,
+    "Adventure": 20
+  }
+}

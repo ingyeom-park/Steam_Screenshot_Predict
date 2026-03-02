@@ -1,0 +1,26 @@
+{
+  "appid": 860890,
+  "success": true,
+  "tags": {
+    "Automation": 271,
+    "Base-Building": 259,
+    "Resource Management": 251,
+    "Sandbox": 245,
+    "Simulation": 237,
+    "Crafting": 233,
+    "Management": 229,
+    "City Builder": 224,
+    "Colony Sim": 210,
+    "Economy": 165,
+    "Building": 159,
+    "Strategy": 156,
+    "Transportation": 133,
+    "Moddable": 121,
+    "Trains": 120,
+    "Level Editor": 107,
+    "Singleplayer": 101,
+    "Indie": 91,
+    "3D": 70,
+    "Early Access": 69
+  }
+}

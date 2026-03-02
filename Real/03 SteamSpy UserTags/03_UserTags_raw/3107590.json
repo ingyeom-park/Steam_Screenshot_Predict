@@ -1,0 +1,26 @@
+{
+  "appid": 3107590,
+  "success": true,
+  "tags": {
+    "Rogue-lite": 111,
+    "Bullet Hell": 104,
+    "Difficult": 101,
+    "Indie": 98,
+    "Strategy": 95,
+    "Rogue-like": 85,
+    "Action": 83,
+    "Magic": 76,
+    "Spelling": 74,
+    "Deckbuilding": 72,
+    "Tactical": 70,
+    "Puzzle": 68,
+    "Word Game": 66,
+    "Time Management": 64,
+    "Fantasy": 62,
+    "2D": 60,
+    "Pixel Graphics": 58,
+    "Dark": 56,
+    "Dog": 54,
+    "Cats": 52
+  }
+}

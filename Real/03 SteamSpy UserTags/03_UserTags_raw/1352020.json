@@ -1,0 +1,26 @@
+{
+  "appid": 1352020,
+  "success": true,
+  "tags": {
+    "Action": 200,
+    "VR": 196,
+    "Parkour": 192,
+    "Replay Value": 187,
+    "Adventure": 179,
+    "First-Person": 158,
+    "Indie": 155,
+    "Platformer": 154,
+    "Shooter": 151,
+    "Simulation": 147,
+    "FPS": 146,
+    "Casual": 144,
+    "Singleplayer": 141,
+    "Atmospheric": 138,
+    "Arcade": 134,
+    "Sci-fi": 129,
+    "Exploration": 75,
+    "3D Platformer": 70,
+    "Alternate History": 58,
+    "Cold War": 53
+  }
+}

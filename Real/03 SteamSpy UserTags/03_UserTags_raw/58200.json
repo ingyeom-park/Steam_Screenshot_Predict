@@ -1,0 +1,16 @@
+{
+  "appid": 58200,
+  "success": true,
+  "tags": {
+    "Adventure": 65,
+    "Point & Click": 45,
+    "Indie": 43,
+    "Casual": 32,
+    "Comedy": 28,
+    "Pirates": 24,
+    "Family Friendly": 18,
+    "Singleplayer": 7,
+    "Touch-Friendly": 7,
+    "Puzzle": 6
+  }
+}

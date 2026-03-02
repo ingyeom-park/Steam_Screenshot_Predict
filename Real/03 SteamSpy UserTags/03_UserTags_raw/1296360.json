@@ -1,0 +1,26 @@
+{
+  "appid": 1296360,
+  "success": true,
+  "tags": {
+    "Action": 101,
+    "Adventure": 94,
+    "Bullet Hell": 85,
+    "Pixel Graphics": 81,
+    "Action RPG": 68,
+    "2D": 58,
+    "Co-op": 51,
+    "Fantasy": 41,
+    "Combat": 37,
+    "Singleplayer": 37,
+    "RPG": 37,
+    "Controller": 36,
+    "Local Co-Op": 34,
+    "Indie": 18,
+    "Difficult": 18,
+    "Top-Down": 18,
+    "Rogue-like": 17,
+    "Souls-like": 9,
+    "Action Roguelike": 6,
+    "Multiplayer": 5
+  }
+}

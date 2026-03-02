@@ -1,0 +1,26 @@
+{
+  "appid": 366690,
+  "success": true,
+  "tags": {
+    "Pool": 186,
+    "Snooker": 180,
+    "Simulation": 175,
+    "Touch-Friendly": 174,
+    "Sports": 168,
+    "Multiplayer": 165,
+    "Singleplayer": 159,
+    "Relaxing": 154,
+    "Indie": 149,
+    "Sequel": 144,
+    "Arcade": 135,
+    "e-sports": 128,
+    "Immersive Sim": 122,
+    "2D": 121,
+    "3D": 115,
+    "First-Person": 111,
+    "Realistic": 100,
+    "Top-Down": 94,
+    "PvP": 88,
+    "Physics": 84
+  }
+}

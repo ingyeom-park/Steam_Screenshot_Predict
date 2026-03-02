@@ -1,0 +1,24 @@
+{
+  "appid": 1262040,
+  "success": true,
+  "tags": {
+    "Adventure": 138,
+    "Action": 133,
+    "Indie": 131,
+    "Metroidvania": 128,
+    "Precision Platformer": 122,
+    "Arcade": 113,
+    "Action-Adventure": 105,
+    "Platformer": 103,
+    "2D Platformer": 95,
+    "2D": 90,
+    "Pixel Graphics": 82,
+    "Colorful": 82,
+    "Funny": 69,
+    "Fantasy": 54,
+    "Retro": 42,
+    "Singleplayer": 29,
+    "Multiple Endings": 29,
+    "Cute": 7
+  }
+}

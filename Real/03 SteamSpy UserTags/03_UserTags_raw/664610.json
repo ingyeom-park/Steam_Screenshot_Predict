@@ -1,0 +1,22 @@
+{
+  "appid": 664610,
+  "success": true,
+  "tags": {
+    "Casual": 83,
+    "Indie": 77,
+    "Platformer": 74,
+    "Puzzle": 71,
+    "Puzzle-Platformer": 68,
+    "2D": 62,
+    "Action": 60,
+    "Side Scroller": 58,
+    "2D Platformer": 56,
+    "Pixel Graphics": 50,
+    "Cute": 44,
+    "Colorful": 41,
+    "Retro": 39,
+    "Physics": 37,
+    "Singleplayer": 33,
+    "Difficult": 27
+  }
+}

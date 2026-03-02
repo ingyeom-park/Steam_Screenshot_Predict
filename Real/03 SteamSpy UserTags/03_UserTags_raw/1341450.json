@@ -1,0 +1,26 @@
+{
+  "appid": 1341450,
+  "success": true,
+  "tags": {
+    "Hacking": 189,
+    "Puzzle": 173,
+    "Stealth": 167,
+    "Interactive Fiction": 161,
+    "Simulation": 160,
+    "Choices Matter": 155,
+    "Choose Your Own Adventure": 145,
+    "Point & Click": 128,
+    "Sci-fi": 123,
+    "Cyberpunk": 113,
+    "Education": 109,
+    "3D": 101,
+    "2D": 88,
+    "Casual": 79,
+    "Tutorial": 74,
+    "Puzzle-Platformer": 41,
+    "Text-Based": 28,
+    "Singleplayer": 28,
+    "Indie": 24,
+    "Adventure": 22
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1590910,
+  "success": true,
+  "tags": {
+    "FPS": 189,
+    "Boomer Shooter": 172,
+    "Lovecraftian": 172,
+    "Action": 162,
+    "Shooter": 145,
+    "Retro": 129,
+    "First-Person": 114,
+    "Indie": 106,
+    "3D": 102,
+    "Stylized": 101,
+    "Gore": 98,
+    "Cartoony": 91,
+    "Violent": 88,
+    "Atmospheric": 79,
+    "Psychedelic": 77,
+    "Dark Fantasy": 73,
+    "Singleplayer": 71,
+    "Supernatural": 68,
+    "Mystery": 62,
+    "Combat": 57
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 464150,
+  "success": true,
+  "tags": {
+    "JRPG": 159,
+    "Turn-Based Combat": 152,
+    "Party-Based RPG": 149,
+    "Fantasy": 146,
+    "Singleplayer": 143,
+    "Anime": 137,
+    "RPG": 131,
+    "Funny": 123,
+    "Isometric": 123,
+    "Tactical": 116,
+    "Kickstarter": 112,
+    "Turn-Based Tactics": 110,
+    "Tactical RPG": 99,
+    "Turn-Based Strategy": 89,
+    "Strategy": 87,
+    "Magic": 84,
+    "Story Rich": 79,
+    "Team-Based": 73,
+    "Indie": 71,
+    "Simulation": 58
+  }
+}

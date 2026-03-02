@@ -1,0 +1,26 @@
+{
+  "appid": 1271280,
+  "success": true,
+  "tags": {
+    "Character Customization": 299,
+    "Rogue-like": 251,
+    "Dungeon Crawler": 243,
+    "Perma Death": 238,
+    "Turn-Based": 233,
+    "Magic": 218,
+    "2D": 203,
+    "Turn-Based Combat": 202,
+    "Procedural Generation": 187,
+    "Pixel Graphics": 177,
+    "Minimalist": 173,
+    "Fantasy": 159,
+    "Strategy": 154,
+    "Top-Down": 149,
+    "Traditional Roguelike": 146,
+    "Old School": 135,
+    "Retro": 122,
+    "Singleplayer": 106,
+    "RPG": 66,
+    "Indie": 54
+  }
+}

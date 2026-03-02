@@ -1,0 +1,26 @@
+{
+  "appid": 1240130,
+  "success": true,
+  "tags": {
+    "Indie": 128,
+    "Colorful": 122,
+    "Rogue-like": 119,
+    "Action": 117,
+    "Action Roguelike": 111,
+    "Fast-Paced": 105,
+    "Rogue-lite": 105,
+    "2D": 101,
+    "Difficult": 96,
+    "Replay Value": 95,
+    "Adventure": 83,
+    "Arcade": 72,
+    "Cartoony": 66,
+    "Cute": 64,
+    "Minimalist": 62,
+    "Stylized": 60,
+    "Fantasy": 58,
+    "Perma Death": 56,
+    "Procedural Generation": 51,
+    "Tutorial": 49
+  }
+}

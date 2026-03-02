@@ -1,0 +1,25 @@
+{
+  "appid": 2950000,
+  "success": true,
+  "tags": {
+    "Strategy": 208,
+    "Indie": 199,
+    "Stealth": 194,
+    "Casual": 193,
+    "Ninja": 184,
+    "Action-Adventure": 163,
+    "Difficult": 157,
+    "Puzzle": 148,
+    "2D": 141,
+    "Top-Down": 131,
+    "Singleplayer": 120,
+    "Action": 118,
+    "Collectathon": 105,
+    "Martial Arts": 91,
+    "Logic": 76,
+    "Adventure": 60,
+    "Arcade": 43,
+    "Sequel": 27,
+    "Short": 25
+  }
+}

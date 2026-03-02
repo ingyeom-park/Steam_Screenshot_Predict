@@ -1,0 +1,26 @@
+{
+  "appid": 1212410,
+  "success": true,
+  "tags": {
+    "Puzzle": 134,
+    "Puzzle-Platformer": 124,
+    "First-Person": 123,
+    "Atmospheric": 114,
+    "Adventure": 109,
+    "Female Protagonist": 106,
+    "Controller": 95,
+    "3D Platformer": 94,
+    "Exploration": 88,
+    "Difficult": 85,
+    "Indie": 82,
+    "Mystery": 79,
+    "Singleplayer": 79,
+    "Logic": 71,
+    "Stylized": 67,
+    "Time Manipulation": 63,
+    "Mystery Dungeon": 60,
+    "Relaxing": 53,
+    "Time Travel": 50,
+    "Nature": 38
+  }
+}

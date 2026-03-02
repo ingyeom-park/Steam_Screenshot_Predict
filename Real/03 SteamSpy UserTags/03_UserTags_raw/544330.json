@@ -1,0 +1,26 @@
+{
+  "appid": 544330,
+  "success": true,
+  "tags": {
+    "3D Platformer": 155,
+    "Indie": 144,
+    "Adventure": 136,
+    "Puzzle-Platformer": 135,
+    "Wholesome": 130,
+    "Difficult": 129,
+    "Cute": 126,
+    "Platformer": 122,
+    "Physics": 121,
+    "Casual": 119,
+    "Family Friendly": 117,
+    "Singleplayer": 116,
+    "Puzzle": 102,
+    "Colorful": 100,
+    "Cozy": 99,
+    "Collectathon": 97,
+    "Exploration": 96,
+    "Action": 88,
+    "Simulation": 80,
+    "Atmospheric": 74
+  }
+}

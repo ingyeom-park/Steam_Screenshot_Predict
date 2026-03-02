@@ -1,0 +1,26 @@
+{
+  "appid": 473530,
+  "success": true,
+  "tags": {
+    "Platformer": 153,
+    "Precision Platformer": 148,
+    "2D Platformer": 145,
+    "Difficult": 141,
+    "Funny": 132,
+    "Indie": 124,
+    "Action": 120,
+    "Adventure": 112,
+    "Great Soundtrack": 105,
+    "Pixel Graphics": 100,
+    "Arcade": 97,
+    "Fast-Paced": 96,
+    "Singleplayer": 90,
+    "Puzzle-Platformer": 86,
+    "Anime": 85,
+    "Level Editor": 81,
+    "Local Co-Op": 79,
+    "Local Multiplayer": 69,
+    "Replay Value": 59,
+    "Retro": 46
+  }
+}

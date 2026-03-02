@@ -1,0 +1,25 @@
+{
+  "appid": 602070,
+  "success": true,
+  "tags": {
+    "Beat 'em up": 150,
+    "Action": 144,
+    "Casual": 140,
+    "Indie": 136,
+    "Action-Adventure": 132,
+    "Arcade": 127,
+    "Adventure": 124,
+    "2D": 123,
+    "Singleplayer": 121,
+    "Rogue-lite": 112,
+    "Cartoony": 101,
+    "Cute": 89,
+    "Family Friendly": 76,
+    "Beautiful": 65,
+    "Difficult": 61,
+    "2D Platformer": 50,
+    "Hack and Slash": 47,
+    "Combat": 43,
+    "Fighting": 41
+  }
+}

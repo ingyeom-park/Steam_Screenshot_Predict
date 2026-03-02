@@ -1,0 +1,26 @@
+{
+  "appid": 55040,
+  "success": true,
+  "tags": {
+    "Real Time Tactics": 244,
+    "Tower Defense": 240,
+    "Zombies": 238,
+    "Procedural Generation": 230,
+    "Replay Value": 227,
+    "Sandbox": 221,
+    "RTS": 219,
+    "Strategy": 215,
+    "Top-Down": 195,
+    "Action": 192,
+    "Tactical": 189,
+    "Moddable": 185,
+    "Co-op": 183,
+    "Local Co-Op": 183,
+    "Local Multiplayer": 174,
+    "Multiplayer": 171,
+    "Singleplayer": 167,
+    "Indie": 155,
+    "Great Soundtrack": 62,
+    "Casual": 42
+  }
+}

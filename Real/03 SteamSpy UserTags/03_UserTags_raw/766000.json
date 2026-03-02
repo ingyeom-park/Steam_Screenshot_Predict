@@ -1,0 +1,26 @@
+{
+  "appid": 766000,
+  "success": true,
+  "tags": {
+    "Casual": 138,
+    "Indie": 131,
+    "Puzzle": 129,
+    "Singleplayer": 125,
+    "Turn-Based": 120,
+    "Idler": 112,
+    "Match 3": 111,
+    "3D": 107,
+    "Abstract": 103,
+    "Atmospheric": 102,
+    "Nature": 97,
+    "Surreal": 92,
+    "Linear": 83,
+    "Turn-Based Tactics": 74,
+    "Touch-Friendly": 67,
+    "Robots": 52,
+    "Inventory Management": 39,
+    "Great Soundtrack": 34,
+    "2D": 28,
+    "Strategy": 25
+  }
+}

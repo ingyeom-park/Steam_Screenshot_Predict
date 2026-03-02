@@ -1,0 +1,24 @@
+{
+  "appid": 860950,
+  "success": true,
+  "tags": {
+    "Stealth": 146,
+    "Ninja": 110,
+    "2D": 95,
+    "Action": 87,
+    "Indie": 87,
+    "Platformer": 86,
+    "Violent": 64,
+    "Side Scroller": 60,
+    "Singleplayer": 53,
+    "Gore": 50,
+    "Assassin": 33,
+    "Atmospheric": 22,
+    "Remake": 19,
+    "Adventure": 17,
+    "Puzzle": 15,
+    "Story Rich": 12,
+    "Hack and Slash": 5,
+    "Metroidvania": 5
+  }
+}

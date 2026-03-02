@@ -1,0 +1,26 @@
+{
+  "appid": 232010,
+  "success": true,
+  "tags": {
+    "Simulation": 400,
+    "Automobile Sim": 393,
+    "Driving": 269,
+    "Open World": 208,
+    "Multiplayer": 191,
+    "Singleplayer": 177,
+    "Realistic": 134,
+    "First-Person": 114,
+    "Indie": 111,
+    "Relaxing": 111,
+    "TrackIR": 70,
+    "Moddable": 48,
+    "Adventure": 40,
+    "Third Person": 35,
+    "Atmospheric": 29,
+    "Management": 29,
+    "Exploration": 27,
+    "Sandbox": 26,
+    "Online Co-Op": 23,
+    "Action": 22
+  }
+}

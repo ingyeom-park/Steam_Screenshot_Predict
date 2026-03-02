@@ -1,0 +1,26 @@
+{
+  "appid": 1184420,
+  "success": true,
+  "tags": {
+    "Casual": 102,
+    "Adventure": 96,
+    "Indie": 93,
+    "RPG": 89,
+    "Anime": 87,
+    "Visual Novel": 83,
+    "Dating Sim": 81,
+    "Nudity": 81,
+    "Action": 71,
+    "Interactive Fiction": 68,
+    "Word Game": 61,
+    "JRPG": 60,
+    "Idler": 59,
+    "Cute": 54,
+    "Shoot 'Em Up": 51,
+    "2D": 51,
+    "Cartoon": 48,
+    "Cartoony": 46,
+    "Beautiful": 45,
+    "Colorful": 42
+  }
+}

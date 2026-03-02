@@ -1,0 +1,13 @@
+{
+  "appid": 555050,
+  "success": true,
+  "tags": {
+    "Casual": 44,
+    "Sports": 43,
+    "Indie": 42,
+    "Simulation": 42,
+    "Tennis": 28,
+    "VR": 21,
+    "Fast-Paced": 10
+  }
+}

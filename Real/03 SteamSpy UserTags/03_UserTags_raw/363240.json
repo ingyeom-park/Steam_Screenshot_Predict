@@ -1,0 +1,26 @@
+{
+  "appid": 363240,
+  "success": true,
+  "tags": {
+    "Dinosaurs": 226,
+    "Strategy": 221,
+    "Indie": 217,
+    "Survival": 215,
+    "Comedy": 209,
+    "Co-op": 204,
+    "Destruction": 198,
+    "RTS": 195,
+    "Colony Sim": 192,
+    "Adventure": 189,
+    "Hand-drawn": 187,
+    "Cartoony": 184,
+    "City Builder": 181,
+    "Side Scroller": 176,
+    "2D Platformer": 173,
+    "Action RTS": 170,
+    "2D": 166,
+    "Pixel Graphics": 153,
+    "Colorful": 145,
+    "Zombies": 142
+  }
+}

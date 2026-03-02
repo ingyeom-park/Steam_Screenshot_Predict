@@ -1,0 +1,26 @@
+{
+  "appid": 98800,
+  "success": true,
+  "tags": {
+    "Traditional Roguelike": 872,
+    "Rogue-like": 845,
+    "Turn-Based": 442,
+    "RPG": 435,
+    "Dungeon Crawler": 424,
+    "Indie": 416,
+    "Comedy": 334,
+    "Perma Death": 241,
+    "Replay Value": 211,
+    "Singleplayer": 203,
+    "Fantasy": 196,
+    "Funny": 162,
+    "Casual": 88,
+    "Crafting": 73,
+    "Procedural Generation": 72,
+    "2D": 57,
+    "Moddable": 55,
+    "Top-Down": 49,
+    "Difficult": 46,
+    "Adventure": 34
+  }
+}

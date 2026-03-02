@@ -1,0 +1,26 @@
+{
+  "appid": 562220,
+  "success": true,
+  "tags": {
+    "Puzzle": 175,
+    "Casual": 169,
+    "Indie": 164,
+    "2D": 114,
+    "Fast-Paced": 113,
+    "Physics": 106,
+    "Short": 103,
+    "Relaxing": 102,
+    "Minimalist": 98,
+    "Puzzle-Platformer": 95,
+    "Point & Click": 92,
+    "Singleplayer": 89,
+    "Cute": 66,
+    "Action": 55,
+    "Adventure": 50,
+    "Trading Card Game": 48,
+    "Great Soundtrack": 44,
+    "Free to Play": 44,
+    "Open World": 39,
+    "Horror": 39
+  }
+}

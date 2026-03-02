@@ -1,0 +1,26 @@
+{
+  "appid": 107310,
+  "success": true,
+  "tags": {
+    "JRPG": 730,
+    "Lovecraftian": 532,
+    "Comedy": 508,
+    "RPG": 363,
+    "Indie": 266,
+    "Retro": 178,
+    "Turn-Based": 155,
+    "Fantasy": 110,
+    "Funny": 106,
+    "Singleplayer": 105,
+    "Adventure": 62,
+    "Parody ": 48,
+    "Pixel Graphics": 48,
+    "2D": 40,
+    "Great Soundtrack": 31,
+    "Dark Humor": 28,
+    "Old School": 27,
+    "Action": 16,
+    "Memes": 8,
+    "Horror": 5
+  }
+}

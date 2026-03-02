@@ -1,0 +1,26 @@
+{
+  "appid": 1963900,
+  "success": true,
+  "tags": {
+    "Casual": 215,
+    "Strategy": 209,
+    "Puzzle": 185,
+    "Word Game": 180,
+    "Solitaire": 171,
+    "Spelling": 164,
+    "2D": 157,
+    "Colorful": 146,
+    "Minimalist": 141,
+    "Detective": 129,
+    "Education": 120,
+    "Family Friendly": 119,
+    "Logic": 106,
+    "Modern": 90,
+    "Old School": 74,
+    "Relaxing": 61,
+    "Text-Based": 43,
+    "Singleplayer": 26,
+    "Tabletop": 25,
+    "Indie": 21
+  }
+}

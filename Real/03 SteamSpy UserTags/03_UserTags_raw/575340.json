@@ -1,0 +1,26 @@
+{
+  "appid": 575340,
+  "success": true,
+  "tags": {
+    "Strategy": 98,
+    "Chess": 86,
+    "Turn-Based": 76,
+    "Tactical": 76,
+    "Fantasy": 75,
+    "Turn-Based Strategy": 67,
+    "Turn-Based Tactics": 62,
+    "Simulation": 59,
+    "Indie": 56,
+    "Board Game": 44,
+    "Multiplayer": 43,
+    "Singleplayer": 38,
+    "Sports": 36,
+    "Turn-Based Combat": 34,
+    "Artificial Intelligence": 32,
+    "Puzzle": 27,
+    "Tabletop": 27,
+    "Mouse only": 23,
+    "Crowdfunded": 22,
+    "Strategy RPG": 22
+  }
+}

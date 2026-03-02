@@ -1,0 +1,26 @@
+{
+  "appid": 214340,
+  "success": true,
+  "tags": {
+    "Adventure": 522,
+    "Point & Click": 509,
+    "Comedy": 385,
+    "Puzzle": 281,
+    "Singleplayer": 244,
+    "Funny": 187,
+    "Indie": 174,
+    "Story Rich": 164,
+    "2D": 133,
+    "Dark Humor": 105,
+    "Great Soundtrack": 87,
+    "Hand-drawn": 84,
+    "Escape Room": 72,
+    "Steampunk": 63,
+    "Classic": 50,
+    "Retro": 41,
+    "Sci-fi": 31,
+    "Dystopian ": 28,
+    "Hidden Object": 24,
+    "Cult Classic": 20
+  }
+}

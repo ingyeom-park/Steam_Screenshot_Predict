@@ -1,0 +1,26 @@
+{
+  "appid": 1232010,
+  "success": true,
+  "tags": {
+    "Indie": 152,
+    "Action": 147,
+    "Adventure": 140,
+    "Puzzle": 125,
+    "Pixel Graphics": 122,
+    "Local Multiplayer": 111,
+    "Singleplayer": 110,
+    "Arcade": 108,
+    "Action-Adventure": 105,
+    "2D": 104,
+    "Cartoon": 101,
+    "Cartoony": 99,
+    "Colorful": 98,
+    "Cute": 96,
+    "Family Friendly": 83,
+    "Retro": 78,
+    "Multiplayer": 72,
+    "Difficult": 61,
+    "Competitive": 55,
+    "Great Soundtrack": 54
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1163740,
+  "success": true,
+  "tags": {
+    "Card Battler": 135,
+    "Turn-Based": 128,
+    "Roguelike Deckbuilder": 124,
+    "Deckbuilding": 117,
+    "Rogue-lite": 116,
+    "Turn-Based Strategy": 111,
+    "Comedy": 65,
+    "Funny": 59,
+    "Rogue-like": 54,
+    "Tactical": 45,
+    "Casual": 42,
+    "Strategy": 40,
+    "Tabletop": 40,
+    "Indie": 40,
+    "Local Co-Op": 37,
+    "Card Game": 33,
+    "RPG": 27,
+    "Dungeon Crawler": 15,
+    "2D": 14,
+    "Cartoon": 11
+  }
+}

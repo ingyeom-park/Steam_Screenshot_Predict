@@ -1,0 +1,26 @@
+{
+  "appid": 2242220,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 136,
+    "Physics": 130,
+    "Exploration": 126,
+    "Bullet Hell": 125,
+    "Rogue-lite": 120,
+    "Rogue-like": 112,
+    "Villain Protagonist": 109,
+    "2D": 106,
+    "Top-Down": 97,
+    "Dark Humor": 95,
+    "Open World": 89,
+    "Procedural Generation": 87,
+    "Pixel Graphics": 82,
+    "Action": 81,
+    "Destruction": 70,
+    "Old School": 63,
+    "Retro": 59,
+    "Singleplayer": 56,
+    "Indie": 40,
+    "Addictive": 38
+  }
+}

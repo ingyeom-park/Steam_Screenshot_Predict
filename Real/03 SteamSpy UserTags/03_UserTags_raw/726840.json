@@ -1,0 +1,26 @@
+{
+  "appid": 726840,
+  "success": true,
+  "tags": {
+    "Management": 138,
+    "Simulation": 132,
+    "Building": 128,
+    "Economy": 126,
+    "Sandbox": 122,
+    "Game Development": 118,
+    "Capitalism": 117,
+    "Strategy": 115,
+    "Moddable": 110,
+    "Programming": 107,
+    "City Builder": 102,
+    "Character Customization": 99,
+    "Base-Building": 96,
+    "Singleplayer": 90,
+    "2D": 85,
+    "Immersive Sim": 82,
+    "Isometric": 80,
+    "Crafting": 76,
+    "Casual": 74,
+    "Indie": 71
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 514900,
+  "success": true,
+  "tags": {
+    "Cyberpunk": 240,
+    "Horror": 160,
+    "Psychological Horror": 160,
+    "Atmospheric": 146,
+    "Sci-fi": 124,
+    "Story Rich": 105,
+    "First-Person": 98,
+    "Walking Simulator": 96,
+    "Adventure": 92,
+    "Detective": 91,
+    "Dystopian ": 89,
+    "Singleplayer": 81,
+    "Futuristic": 78,
+    "Indie": 70,
+    "Violent": 70,
+    "Dark": 61,
+    "Gore": 46,
+    "Stealth": 30,
+    "Nudity": 23,
+    "Survival": 17
+  }
+}

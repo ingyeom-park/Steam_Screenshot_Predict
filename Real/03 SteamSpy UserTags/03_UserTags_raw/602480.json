@@ -1,0 +1,16 @@
+{
+  "appid": 602480,
+  "success": true,
+  "tags": {
+    "Action": 35,
+    "Adventure": 33,
+    "Indie": 33,
+    "Casual": 31,
+    "VR": 20,
+    "Stealth": 16,
+    "FPS": 13,
+    "Arcade": 12,
+    "Fantasy": 10,
+    "Rogue-like": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1094390,
+  "success": true,
+  "tags": {
+    "Simulation": 150,
+    "Action": 142,
+    "Magic": 142,
+    "VR": 141,
+    "Combat": 140,
+    "Atmospheric": 127,
+    "Fantasy": 119,
+    "Sandbox": 118,
+    "Horror": 116,
+    "Indie": 111,
+    "Action-Adventure": 110,
+    "Exploration": 107,
+    "First-Person": 105,
+    "Immersive": 104,
+    "Comedy": 104,
+    "Physics": 102,
+    "Dark Fantasy": 91,
+    "Singleplayer": 90,
+    "Dark Humor": 87,
+    "Adventure": 75
+  }
+}

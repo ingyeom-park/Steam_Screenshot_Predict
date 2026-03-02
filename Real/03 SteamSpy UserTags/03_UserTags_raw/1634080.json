@@ -1,0 +1,26 @@
+{
+  "appid": 1634080,
+  "success": true,
+  "tags": {
+    "Side Scroller": 173,
+    "Action-Adventure": 170,
+    "Linear": 165,
+    "Exploration": 160,
+    "Narration": 156,
+    "Action": 153,
+    "Hand-drawn": 149,
+    "Mystery": 147,
+    "2D Platformer": 146,
+    "Dark": 145,
+    "Combat": 142,
+    "Platformer": 141,
+    "2D": 138,
+    "Indie": 137,
+    "Soundtrack": 134,
+    "Singleplayer": 133,
+    "Demons": 129,
+    "Adventure": 129,
+    "Puzzle-Platformer": 125,
+    "Puzzle": 123
+  }
+}

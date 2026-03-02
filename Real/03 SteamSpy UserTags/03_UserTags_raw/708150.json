@@ -1,0 +1,26 @@
+{
+  "appid": 708150,
+  "success": true,
+  "tags": {
+    "Casual": 112,
+    "Strategy": 105,
+    "Management": 103,
+    "Action": 102,
+    "Adventure": 100,
+    "Capitalism": 99,
+    "Time Management": 97,
+    "Point & Click": 90,
+    "Singleplayer": 88,
+    "Puzzle": 86,
+    "2D": 84,
+    "Third Person": 72,
+    "Indie": 69,
+    "Cartoony": 66,
+    "Building": 64,
+    "Story Rich": 59,
+    "PvE": 50,
+    "Simulation": 50,
+    "Real-Time": 38,
+    "Gore": 32
+  }
+}

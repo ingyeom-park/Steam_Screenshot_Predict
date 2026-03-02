@@ -1,0 +1,26 @@
+{
+  "appid": 1817290,
+  "success": true,
+  "tags": {
+    "Adventure": 214,
+    "Strategy": 187,
+    "Exploration": 184,
+    "Puzzle-Platformer": 180,
+    "3D": 173,
+    "Cartoony": 164,
+    "Colorful": 156,
+    "Atmospheric": 149,
+    "Dark Fantasy": 141,
+    "Psychological Horror": 131,
+    "Stealth": 120,
+    "Survival": 118,
+    "Controller": 105,
+    "Story Rich": 91,
+    "Singleplayer": 77,
+    "Puzzle": 61,
+    "Dark": 44,
+    "Horror": 28,
+    "Narrative": 26,
+    "Indie": 22
+  }
+}

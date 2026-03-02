@@ -1,0 +1,26 @@
+{
+  "appid": 1289810,
+  "success": true,
+  "tags": {
+    "Collectathon": 180,
+    "Creature Collector": 175,
+    "Dungeon Crawler": 173,
+    "Party-Based RPG": 167,
+    "Strategy RPG": 163,
+    "Character Customization": 156,
+    "RPG": 152,
+    "Strategy": 149,
+    "2D": 146,
+    "Isometric": 139,
+    "Procedural Generation": 138,
+    "Turn-Based Combat": 133,
+    "Pixel Graphics": 126,
+    "Fantasy": 111,
+    "Loot": 103,
+    "Medieval": 96,
+    "Retro": 92,
+    "Indie": 88,
+    "Turn-Based": 51,
+    "Singleplayer": 37
+  }
+}

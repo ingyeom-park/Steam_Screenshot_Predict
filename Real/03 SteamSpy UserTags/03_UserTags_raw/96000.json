@@ -1,0 +1,26 @@
+{
+  "appid": 96000,
+  "success": true,
+  "tags": {
+    "Point & Click": 4587,
+    "Puzzle": 4587,
+    "Hand-drawn": 4581,
+    "Steampunk": 256,
+    "Retro": 250,
+    "Atmospheric": 247,
+    "2D": 243,
+    "Story Rich": 237,
+    "Casual": 236,
+    "Family Friendly": 233,
+    "Cute": 231,
+    "Stylized": 225,
+    "Surreal": 225,
+    "Adventure": 213,
+    "Hidden Object": 189,
+    "Singleplayer": 184,
+    "Indie": 158,
+    "Minigames": 153,
+    "Logic": 148,
+    "Relaxing": 143
+  }
+}

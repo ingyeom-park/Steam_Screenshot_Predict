@@ -1,0 +1,26 @@
+{
+  "appid": 2097490,
+  "success": true,
+  "tags": {
+    "Action": 109,
+    "Puzzle": 106,
+    "Physics": 100,
+    "Time Manipulation": 99,
+    "Casual": 93,
+    "Sci-fi": 84,
+    "Puzzle-Platformer": 82,
+    "Platformer": 80,
+    "Atmospheric": 78,
+    "Singleplayer": 76,
+    "Indie": 73,
+    "Exploration": 62,
+    "First-Person": 61,
+    "FPS": 58,
+    "Female Protagonist": 56,
+    "Minimalist": 54,
+    "3D Platformer": 52,
+    "Action-Adventure": 50,
+    "Surreal": 49,
+    "Adventure": 46
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 238280,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 110,
+    "Rogue-like": 109,
+    "Indie": 101,
+    "RPG": 90,
+    "Dungeon Crawler": 81,
+    "Local Co-Op": 77,
+    "Pixel Graphics": 76,
+    "Action": 59,
+    "Perma Death": 50,
+    "Procedural Generation": 47,
+    "4 Player Local": 46,
+    "Rogue-lite": 38,
+    "Fantasy": 36,
+    "Singleplayer": 35,
+    "Difficult": 26,
+    "Local Multiplayer": 26,
+    "Multiplayer": 24,
+    "Co-op": 23,
+    "VR": 22,
+    "Kickstarter": 20
+  }
+}

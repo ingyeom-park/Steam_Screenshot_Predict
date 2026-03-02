@@ -1,0 +1,26 @@
+{
+  "appid": 235250,
+  "success": true,
+  "tags": {
+    "Tower Defense": 228,
+    "Strategy": 146,
+    "Isometric": 145,
+    "Singleplayer": 142,
+    "Retro": 137,
+    "Casual": 130,
+    "2D": 129,
+    "Pixel Graphics": 128,
+    "Difficult": 127,
+    "Aliens": 124,
+    "Sci-fi": 122,
+    "Futuristic": 120,
+    "Action": 118,
+    "Indie": 112,
+    "Top-Down": 49,
+    "Replay Value": 47,
+    "Arcade": 45,
+    "Choices Matter": 40,
+    "PvE": 38,
+    "Classic": 33
+  }
+}

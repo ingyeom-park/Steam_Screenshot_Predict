@@ -1,0 +1,26 @@
+{
+  "appid": 620650,
+  "success": true,
+  "tags": {
+    "Casual": 146,
+    "Puzzle": 142,
+    "Indie": 136,
+    "Online Co-Op": 133,
+    "Co-op": 129,
+    "Multiplayer": 124,
+    "Singleplayer": 121,
+    "Board Game": 119,
+    "Family Friendly": 117,
+    "Tabletop": 114,
+    "2D": 108,
+    "Relaxing": 97,
+    "Team-Based": 91,
+    "Anime": 81,
+    "Hand-drawn": 77,
+    "Top-Down": 74,
+    "Colorful": 72,
+    "Cute": 67,
+    "Pixel Graphics": 58,
+    "Atmospheric": 55
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 1233780,
+  "success": true,
+  "tags": {
+    "Indie": 107,
+    "Action": 100,
+    "Casual": 97,
+    "Battle Royale": 75,
+    "Multiplayer": 72,
+    "Fast-Paced": 66,
+    "Arcade": 64,
+    "e-sports": 60,
+    "Abstract": 57,
+    "Colorful": 55,
+    "Massively Multiplayer": 54,
+    "3D": 53,
+    "PvP": 49,
+    "Character Customization": 42,
+    "Physics": 40,
+    "PvE": 38,
+    "Quick-Time Events": 36,
+    "Singleplayer": 31
+  }
+}

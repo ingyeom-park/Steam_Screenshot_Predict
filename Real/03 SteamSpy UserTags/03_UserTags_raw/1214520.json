@@ -1,0 +1,26 @@
+{
+  "appid": 1214520,
+  "success": true,
+  "tags": {
+    "Physics": 135,
+    "Simulation": 128,
+    "Difficult": 126,
+    "Sports": 121,
+    "2.5D": 119,
+    "Realistic": 111,
+    "Action": 108,
+    "Parkour": 106,
+    "Precision Platformer": 105,
+    "Funny": 101,
+    "Controller": 98,
+    "Tutorial": 96,
+    "Sandbox": 92,
+    "Character Customization": 90,
+    "Ninja": 89,
+    "Bullet Time": 81,
+    "Level Editor": 69,
+    "Singleplayer": 59,
+    "Indie": 50,
+    "Casual": 29
+  }
+}

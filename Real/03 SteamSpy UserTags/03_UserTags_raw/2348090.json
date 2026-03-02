@@ -1,0 +1,26 @@
+{
+  "appid": 2348090,
+  "success": true,
+  "tags": {
+    "Roguelike Deckbuilder": 92,
+    "Deckbuilding": 86,
+    "Rogue-like": 83,
+    "Auto Battler": 80,
+    "2D": 77,
+    "Card Game": 71,
+    "Singleplayer": 68,
+    "Strategy": 63,
+    "Indie": 61,
+    "Pixel Graphics": 55,
+    "Farming": 52,
+    "Turn-Based": 49,
+    "Simulation": 43,
+    "Puzzle": 38,
+    "Point & Click": 34,
+    "Turn-Based Strategy": 32,
+    "Survival": 30,
+    "Inventory Management": 28,
+    "Base-Building": 26,
+    "Resource Management": 24
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 239200,
+  "success": true,
+  "tags": {
+    "Horror": 1065,
+    "Walking Simulator": 1060,
+    "Atmospheric": 336,
+    "Story Rich": 335,
+    "First-Person": 333,
+    "Psychological Horror": 325,
+    "Exploration": 320,
+    "Mystery": 315,
+    "Interactive Fiction": 303,
+    "Singleplayer": 301,
+    "Adventure": 300,
+    "Indie": 288,
+    "Survival Horror": 219,
+    "Dark": 217,
+    "Narration": 216,
+    "Short": 208,
+    "Lovecraftian": 178,
+    "Action": 173,
+    "Puzzle": 164,
+    "Linear": 155
+  }
+}

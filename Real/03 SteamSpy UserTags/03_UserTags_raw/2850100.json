@@ -1,0 +1,26 @@
+{
+  "appid": 2850100,
+  "success": true,
+  "tags": {
+    "Strategy": 116,
+    "Auto Battler": 113,
+    "Rogue-like": 108,
+    "2D": 106,
+    "Combat": 100,
+    "RPG": 96,
+    "Class-Based": 90,
+    "Dungeon Crawler": 88,
+    "Rogue-lite": 85,
+    "Indie": 82,
+    "Strategy RPG": 82,
+    "Pixel Graphics": 69,
+    "Medieval": 67,
+    "Fantasy": 65,
+    "Loot": 62,
+    "Magic": 60,
+    "Singleplayer": 59,
+    "Perma Death": 57,
+    "Dark": 54,
+    "Dark Fantasy": 52
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 869170,
+  "success": true,
+  "tags": {
+    "Adventure": 105,
+    "Puzzle": 99,
+    "Surreal": 95,
+    "Escape Room": 94,
+    "Point & Click": 87,
+    "Psychedelic": 82,
+    "Narration": 76,
+    "Hidden Object": 73,
+    "Exploration": 71,
+    "Casual": 68,
+    "Experience": 67,
+    "Indie": 65,
+    "Comedy": 62,
+    "Story Rich": 60,
+    "First-Person": 57,
+    "Action": 55,
+    "Atmospheric": 45,
+    "Singleplayer": 42,
+    "Mystery": 41,
+    "Realistic": 40
+  }
+}

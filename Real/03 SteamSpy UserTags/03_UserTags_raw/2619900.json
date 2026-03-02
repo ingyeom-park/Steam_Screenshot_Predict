@@ -1,0 +1,25 @@
+{
+  "appid": 2619900,
+  "success": true,
+  "tags": {
+    "Indie": 104,
+    "Arcade": 97,
+    "Fantasy": 94,
+    "Retro": 91,
+    "Pixel Graphics": 89,
+    "Rogue-lite": 83,
+    "Action-Adventure": 80,
+    "2D": 78,
+    "Casual": 76,
+    "Mystery Dungeon": 74,
+    "Singleplayer": 72,
+    "Top-Down": 70,
+    "Controller": 68,
+    "Action": 66,
+    "Magic": 54,
+    "Adventure": 52,
+    "Linear": 50,
+    "Action Roguelike": 48,
+    "RPG": 46
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 280180,
+  "success": true,
+  "tags": {
+    "Singleplayer": 241,
+    "Action": 224,
+    "Adventure": 219,
+    "Parkour": 217,
+    "Indie": 212,
+    "Multiplayer": 210,
+    "Platformer": 199,
+    "Soundtrack": 197,
+    "3D Platformer": 196,
+    "Colorful": 191,
+    "Fast-Paced": 187,
+    "Open World": 180,
+    "Cyberpunk": 139,
+    "Great Soundtrack": 121,
+    "Third Person": 110,
+    "First-Person": 99,
+    "Co-op": 96,
+    "Online Co-Op": 93,
+    "Sci-fi": 89,
+    "Stylized": 85
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 1164750,
+  "success": true,
+  "tags": {
+    "Casual": 104,
+    "Action": 103,
+    "VR": 102,
+    "Horror": 98,
+    "Visual Novel": 97,
+    "Psychological Horror": 91,
+    "Atmospheric": 84,
+    "Dark": 81,
+    "Singleplayer": 77,
+    "Indie": 73,
+    "Experience": 32,
+    "Simulation": 21,
+    "Violent": 21
+  }
+}

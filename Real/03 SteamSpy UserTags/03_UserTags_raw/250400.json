@@ -1,0 +1,26 @@
+{
+  "appid": 250400,
+  "success": true,
+  "tags": {
+    "Survival": 770,
+    "Zombies": 711,
+    "Crafting": 485,
+    "Open World Survival Craft": 470,
+    "Action": 418,
+    "Co-op": 416,
+    "Multiplayer": 356,
+    "RPG": 298,
+    "Local Co-Op": 262,
+    "Online Co-Op": 256,
+    "Adventure": 221,
+    "Survival Horror": 199,
+    "Open World": 192,
+    "Hack and Slash": 185,
+    "Post-apocalyptic": 175,
+    "Gore": 172,
+    "Singleplayer": 169,
+    "Third Person": 158,
+    "Comedy": 109,
+    "Indie": 104
+  }
+}

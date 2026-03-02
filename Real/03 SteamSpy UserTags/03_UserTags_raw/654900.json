@@ -1,0 +1,26 @@
+{
+  "appid": 654900,
+  "success": true,
+  "tags": {
+    "Puzzle": 117,
+    "Casual": 110,
+    "Indie": 106,
+    "2D": 89,
+    "Minimalist": 86,
+    "Relaxing": 79,
+    "Singleplayer": 77,
+    "Difficult": 75,
+    "Short": 71,
+    "Atmospheric": 55,
+    "Souls-like": 48,
+    "3D Platformer": 45,
+    "Lovecraftian": 44,
+    "Collectathon": 41,
+    "Cute": 33,
+    "Family Friendly": 31,
+    "Trading Card Game": 31,
+    "Funny": 23,
+    "Psychological": 19,
+    "Nudity": 5
+  }
+}

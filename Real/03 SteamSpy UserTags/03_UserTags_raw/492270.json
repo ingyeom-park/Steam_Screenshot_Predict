@@ -1,0 +1,26 @@
+{
+  "appid": 492270,
+  "success": true,
+  "tags": {
+    "Indie": 128,
+    "Cats": 123,
+    "3D Platformer": 118,
+    "Adventure": 115,
+    "Cute": 109,
+    "Action": 101,
+    "Family Friendly": 100,
+    "Simulation": 93,
+    "Third Person": 85,
+    "Memes": 82,
+    "Action-Adventure": 76,
+    "Cartoony": 70,
+    "Singleplayer": 61,
+    "Stylized": 53,
+    "Colorful": 48,
+    "Atmospheric": 46,
+    "Conversation": 43,
+    "Nonlinear": 38,
+    "Short": 36,
+    "Open World": 32
+  }
+}

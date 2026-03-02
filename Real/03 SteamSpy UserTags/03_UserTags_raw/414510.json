@@ -1,0 +1,26 @@
+{
+  "appid": 414510,
+  "success": true,
+  "tags": {
+    "RPG": 50,
+    "Indie": 42,
+    "Action": 42,
+    "Open World": 28,
+    "VR": 24,
+    "Robots": 24,
+    "Procedural Generation": 24,
+    "Action RPG": 24,
+    "First-Person": 24,
+    "FPS": 24,
+    "Sci-fi": 22,
+    "Co-op": 21,
+    "Multiplayer": 20,
+    "Futuristic": 20,
+    "Gun Customization": 20,
+    "Building": 19,
+    "Stealth": 18,
+    "Sandbox": 17,
+    "Atmospheric": 17,
+    "Multiple Endings": 15
+  }
+}

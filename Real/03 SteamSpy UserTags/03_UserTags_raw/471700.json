@@ -1,0 +1,15 @@
+{
+  "appid": 471700,
+  "success": true,
+  "tags": {
+    "Action": 34,
+    "Adventure": 33,
+    "Indie": 33,
+    "Platformer": 15,
+    "Metroidvania": 15,
+    "2D": 15,
+    "Controller": 13,
+    "Shooter": 12,
+    "Local Co-Op": 5
+  }
+}

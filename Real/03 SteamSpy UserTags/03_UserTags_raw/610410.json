@@ -1,0 +1,26 @@
+{
+  "appid": 610410,
+  "success": true,
+  "tags": {
+    "2.5D": 135,
+    "Arcade": 129,
+    "Singleplayer": 126,
+    "Controller": 124,
+    "Action": 117,
+    "Shoot 'Em Up": 108,
+    "Bullet Hell": 105,
+    "Shooter": 102,
+    "Score Attack": 100,
+    "3D": 99,
+    "Female Protagonist": 97,
+    "Difficult": 89,
+    "Sci-fi": 79,
+    "Space": 72,
+    "Indie": 66,
+    "Colorful": 49,
+    "Great Soundtrack": 46,
+    "Fast-Paced": 42,
+    "Futuristic": 37,
+    "Top-Down Shooter": 34
+  }
+}

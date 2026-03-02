@@ -1,0 +1,26 @@
+{
+  "appid": 1815230,
+  "success": true,
+  "tags": {
+    "Adventure": 204,
+    "Rogue-lite": 200,
+    "Action Roguelike": 196,
+    "2D": 193,
+    "Rogue-like": 188,
+    "Replay Value": 184,
+    "Hack and Slash": 183,
+    "Singleplayer": 180,
+    "Action": 178,
+    "Difficult": 177,
+    "Roguevania": 174,
+    "Atmospheric": 166,
+    "Dark Fantasy": 157,
+    "Procedural Generation": 150,
+    "Funny": 145,
+    "Indie": 135,
+    "Platformer": 133,
+    "Hand-drawn": 124,
+    "Combat": 118,
+    "RPG": 105
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 244410,
+  "success": true,
+  "tags": {
+    "Strategy": 174,
+    "Indie": 166,
+    "Simulation": 164,
+    "Grand Strategy": 161,
+    "World War II": 158,
+    "Historical": 153,
+    "RTS": 146,
+    "War": 143,
+    "Wargame": 141,
+    "Singleplayer": 136,
+    "Sandbox": 134,
+    "Military": 130,
+    "Multiplayer": 126,
+    "Early Access": 121,
+    "Politics": 113,
+    "Real-Time": 108,
+    "Real-Time with Pause": 106,
+    "Turn-Based": 95,
+    "3D": 86,
+    "Hex Grid": 83
+  }
+}

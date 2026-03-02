@@ -1,0 +1,26 @@
+{
+  "appid": 1086840,
+  "success": true,
+  "tags": {
+    "PvP": 195,
+    "Action": 189,
+    "Casual": 186,
+    "Indie": 183,
+    "Simulation": 180,
+    "RPG": 174,
+    "Massively Multiplayer": 170,
+    "Violent": 144,
+    "Funny": 142,
+    "Family Friendly": 138,
+    "Early Access": 135,
+    "First-Person": 133,
+    "Dog": 128,
+    "Multiplayer": 124,
+    "Arcade": 122,
+    "Battle Royale": 120,
+    "Beat 'em up": 117,
+    "FPS": 113,
+    "Rogue-lite": 110,
+    "Cartoon": 108
+  }
+}

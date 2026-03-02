@@ -1,0 +1,18 @@
+{
+  "appid": 98100,
+  "success": true,
+  "tags": {
+    "Indie": 64,
+    "Adventure": 60,
+    "Casual": 44,
+    "Point & Click": 44,
+    "Female Protagonist": 31,
+    "Experimental": 31,
+    "Abstract": 23,
+    "Puzzle": 18,
+    "First-Person": 16,
+    "Short": 14,
+    "Story Rich": 10,
+    "Atmospheric": 5
+  }
+}

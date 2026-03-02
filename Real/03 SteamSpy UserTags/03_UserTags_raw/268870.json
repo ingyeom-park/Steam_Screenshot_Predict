@@ -1,0 +1,26 @@
+{
+  "appid": 268870,
+  "success": true,
+  "tags": {
+    "Cyberpunk": 254,
+    "Strategy": 217,
+    "Action": 144,
+    "Sci-fi": 141,
+    "Indie": 140,
+    "Tactical": 136,
+    "Real-Time": 121,
+    "Open World": 97,
+    "Stealth": 96,
+    "Co-op": 88,
+    "Isometric": 85,
+    "Top-Down": 84,
+    "Class-Based": 72,
+    "Singleplayer": 70,
+    "RPG": 57,
+    "Kickstarter": 55,
+    "RTS": 52,
+    "Multiplayer": 49,
+    "Atmospheric": 39,
+    "Great Soundtrack": 25
+  }
+}

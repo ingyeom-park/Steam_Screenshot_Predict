@@ -1,0 +1,26 @@
+{
+  "appid": 1658960,
+  "success": true,
+  "tags": {
+    "Adventure": 98,
+    "Interactive Fiction": 91,
+    "Visual Novel": 90,
+    "Choose Your Own Adventure": 84,
+    "Colorful": 81,
+    "Comic Book": 75,
+    "Dark": 73,
+    "Family Friendly": 71,
+    "Post-apocalyptic": 70,
+    "Modern": 69,
+    "Psychological": 65,
+    "Choices Matter": 64,
+    "Survival": 63,
+    "Multiple Endings": 59,
+    "Narration": 57,
+    "Story Rich": 56,
+    "Singleplayer": 55,
+    "Indie": 51,
+    "Hand-drawn": 32,
+    "Stylized": 30
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 975270,
+  "success": true,
+  "tags": {
+    "Adventure": 139,
+    "Strategy": 137,
+    "Indie": 131,
+    "Turn-Based Strategy": 127,
+    "Hex Grid": 115,
+    "4X": 114,
+    "2D": 105,
+    "Early Access": 104,
+    "Turn-Based Tactics": 98,
+    "Anime": 95,
+    "JRPG": 85,
+    "Third Person": 76,
+    "Tactical": 69,
+    "Retro": 69,
+    "Magic": 60,
+    "Level Editor": 56,
+    "Singleplayer": 50,
+    "Local Co-Op": 40,
+    "Local Multiplayer": 37,
+    "Turn-Based": 36
+  }
+}

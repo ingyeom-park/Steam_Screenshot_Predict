@@ -1,0 +1,26 @@
+{
+  "appid": 659540,
+  "success": true,
+  "tags": {
+    "Text-Based": 88,
+    "Simulation": 61,
+    "RPG": 59,
+    "Strategy": 53,
+    "Procedural Generation": 40,
+    "Indie": 38,
+    "Singleplayer": 29,
+    "Fantasy": 23,
+    "Sandbox": 23,
+    "Rogue-like": 22,
+    "Open World": 18,
+    "Funny": 16,
+    "Experimental": 16,
+    "Exploration": 15,
+    "Retro": 15,
+    "Medieval": 15,
+    "Choices Matter": 11,
+    "Management": 10,
+    "Action-Adventure": 9,
+    "4X": 9
+  }
+}

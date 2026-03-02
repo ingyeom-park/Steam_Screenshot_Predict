@@ -1,0 +1,25 @@
+{
+  "appid": 434460,
+  "success": true,
+  "tags": {
+    "Strategy": 92,
+    "Action": 68,
+    "Comedy": 67,
+    "Racing": 62,
+    "Indie": 61,
+    "Multiplayer": 57,
+    "Tower Defense": 53,
+    "Funny": 50,
+    "Historical": 33,
+    "Co-op": 23,
+    "Split Screen": 22,
+    "Singleplayer": 19,
+    "Local Multiplayer": 16,
+    "Memes": 14,
+    "Destruction": 11,
+    "Great Soundtrack": 9,
+    "Local Co-Op": 6,
+    "Physics": 5,
+    "Medieval": 5
+  }
+}

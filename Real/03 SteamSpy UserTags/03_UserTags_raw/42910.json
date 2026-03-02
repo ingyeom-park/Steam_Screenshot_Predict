@@ -1,0 +1,26 @@
+{
+  "appid": 42910,
+  "success": true,
+  "tags": {
+    "Comedy": 911,
+    "Co-op": 804,
+    "Action": 757,
+    "Fantasy": 598,
+    "Magic": 555,
+    "Online Co-Op": 551,
+    "Multiplayer": 541,
+    "RPG": 537,
+    "Adventure": 482,
+    "Funny": 421,
+    "Local Co-Op": 301,
+    "4 Player Local": 193,
+    "Indie": 174,
+    "Local Multiplayer": 173,
+    "Difficult": 148,
+    "Singleplayer": 148,
+    "Team-Based": 110,
+    "Action RPG": 106,
+    "Arcade": 88,
+    "Strategy": 75
+  }
+}

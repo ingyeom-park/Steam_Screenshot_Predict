@@ -1,0 +1,21 @@
+{
+  "appid": 1844330,
+  "success": true,
+  "tags": {
+    "Adventure": 71,
+    "Simulation": 64,
+    "Detective": 42,
+    "Puzzle": 41,
+    "Interactive Fiction": 35,
+    "Text-Based": 29,
+    "Immersive Sim": 28,
+    "Minimalist": 25,
+    "Logic": 23,
+    "Indie": 21,
+    "Story Rich": 21,
+    "Violent": 21,
+    "Narration": 19,
+    "Investigation": 18,
+    "Singleplayer": 17
+  }
+}

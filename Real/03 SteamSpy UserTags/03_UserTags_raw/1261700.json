@@ -1,0 +1,26 @@
+{
+  "appid": 1261700,
+  "success": true,
+  "tags": {
+    "Puzzle": 181,
+    "Chess": 175,
+    "Minimalist": 170,
+    "Relaxing": 166,
+    "Tabletop": 164,
+    "Casual": 156,
+    "Indie": 116,
+    "Abstract": 113,
+    "Stylized": 112,
+    "Colorful": 110,
+    "Medieval": 108,
+    "Atmospheric": 100,
+    "Family Friendly": 97,
+    "Cartoony": 94,
+    "Short": 92,
+    "Difficult": 87,
+    "Singleplayer": 84,
+    "Grid-Based Movement": 80,
+    "Great Soundtrack": 59,
+    "Beautiful": 58
+  }
+}

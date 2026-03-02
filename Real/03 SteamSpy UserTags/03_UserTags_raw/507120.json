@@ -1,0 +1,18 @@
+{
+  "appid": 507120,
+  "success": true,
+  "tags": {
+    "Action": 25,
+    "Indie": 25,
+    "Adventure": 24,
+    "Platformer": 17,
+    "2D": 16,
+    "Pixel Graphics": 16,
+    "Sci-fi": 15,
+    "Rogue-lite": 14,
+    "Difficult": 12,
+    "Funny": 11,
+    "Story Rich": 10,
+    "Rogue-like": 8
+  }
+}

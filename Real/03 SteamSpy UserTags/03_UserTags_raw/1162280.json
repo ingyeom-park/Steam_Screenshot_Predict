@@ -1,0 +1,26 @@
+{
+  "appid": 1162280,
+  "success": true,
+  "tags": {
+    "Platformer": 151,
+    "Indie": 142,
+    "Story Rich": 137,
+    "Puzzle-Platformer": 135,
+    "Puzzle": 128,
+    "2D Platformer": 117,
+    "Adventure": 111,
+    "Singleplayer": 110,
+    "2D": 108,
+    "Fantasy": 103,
+    "Cinematic": 94,
+    "Emotional": 90,
+    "Romance": 88,
+    "Atmospheric": 82,
+    "Short": 80,
+    "Physics": 78,
+    "Action": 73,
+    "Exploration": 59,
+    "Horror": 50,
+    "Great Soundtrack": 42
+  }
+}

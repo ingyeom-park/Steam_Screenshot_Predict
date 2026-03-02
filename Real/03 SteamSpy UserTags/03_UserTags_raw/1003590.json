@@ -1,0 +1,26 @@
+{
+  "appid": 1003590,
+  "success": true,
+  "tags": {
+    "Puzzle": 265,
+    "Family Friendly": 258,
+    "Singleplayer": 254,
+    "Multiplayer": 254,
+    "Competitive": 247,
+    "Indie": 231,
+    "Online Co-Op": 227,
+    "Music": 227,
+    "Arcade": 224,
+    "Casual": 224,
+    "Local Co-Op": 220,
+    "Score Attack": 215,
+    "Psychedelic": 214,
+    "Tutorial": 214,
+    "Atmospheric": 211,
+    "Controller": 206,
+    "Local Multiplayer": 204,
+    "VR": 199,
+    "PvP": 190,
+    "Stylized": 172
+  }
+}

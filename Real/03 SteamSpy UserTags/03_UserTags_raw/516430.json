@@ -1,0 +1,16 @@
+{
+  "appid": 516430,
+  "success": true,
+  "tags": {
+    "Action": 35,
+    "Indie": 34,
+    "Adventure": 33,
+    "RPG": 29,
+    "Action Roguelike": 25,
+    "Rogue-lite": 15,
+    "Pixel Graphics": 8,
+    "Local Co-Op": 6,
+    "Difficult": 6,
+    "Rogue-like": 5
+  }
+}

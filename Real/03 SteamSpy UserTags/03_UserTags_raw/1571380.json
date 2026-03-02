@@ -1,0 +1,26 @@
+{
+  "appid": 1571380,
+  "success": true,
+  "tags": {
+    "Casual": 142,
+    "Simulation": 131,
+    "Arcade": 105,
+    "Space Sim": 100,
+    "Time Management": 95,
+    "VR": 83,
+    "3D": 83,
+    "Colorful": 81,
+    "Stylized": 77,
+    "Aliens": 73,
+    "Futuristic": 69,
+    "Sci-fi": 66,
+    "Space": 62,
+    "6DOF": 59,
+    "Physics": 56,
+    "Singleplayer": 53,
+    "Indie": 51,
+    "Life Sim": 29,
+    "Management": 26,
+    "PvP": 25
+  }
+}

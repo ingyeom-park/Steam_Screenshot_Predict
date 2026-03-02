@@ -1,0 +1,26 @@
+{
+  "appid": 314660,
+  "success": true,
+  "tags": {
+    "Puzzle-Platformer": 125,
+    "Platformer": 123,
+    "Adventure": 122,
+    "Remake": 103,
+    "Puzzle": 89,
+    "Classic": 74,
+    "Singleplayer": 74,
+    "Action": 68,
+    "Indie": 47,
+    "2D": 41,
+    "Funny": 41,
+    "Cult Classic": 40,
+    "Stealth": 34,
+    "Side Scroller": 33,
+    "Atmospheric": 32,
+    "Comedy": 30,
+    "2.5D": 27,
+    "Gore": 23,
+    "Violent": 20,
+    "Difficult": 18
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "appid": 323380,
+  "success": true,
+  "tags": {
+    "Adventure": 49,
+    "Puzzle": 42,
+    "Indie": 41,
+    "Story Rich": 38,
+    "Simulation": 32,
+    "First-Person": 31,
+    "Action": 30,
+    "Satire": 28,
+    "Strategy": 27,
+    "Comedy": 27,
+    "Singleplayer": 21,
+    "Programming": 15,
+    "Walking Simulator": 9,
+    "Exploration": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 321980,
+  "success": true,
+  "tags": {
+    "Singleplayer": 235,
+    "Fantasy": 229,
+    "Adventure": 226,
+    "Story Rich": 223,
+    "Choices Matter": 221,
+    "Atmospheric": 212,
+    "Multiple Endings": 209,
+    "Mystery": 205,
+    "Conversation": 203,
+    "Exploration": 197,
+    "Surreal": 192,
+    "Indie": 187,
+    "3D": 182,
+    "Open World": 181,
+    "Choose Your Own Adventure": 175,
+    "Cinematic": 171,
+    "Cartoony": 167,
+    "Cute": 163,
+    "Procedural Generation": 158,
+    "Action-Adventure": 152
+  }
+}

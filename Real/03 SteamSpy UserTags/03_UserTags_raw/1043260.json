@@ -1,0 +1,26 @@
+{
+  "appid": 1043260,
+  "success": true,
+  "tags": {
+    "Strategy": 652,
+    "Auto Battler": 652,
+    "Management": 645,
+    "RPG": 632,
+    "Tactical": 622,
+    "Strategy RPG": 622,
+    "Building": 616,
+    "Medieval": 613,
+    "Rogue-lite": 605,
+    "Tactical RPG": 595,
+    "Turn-Based Tactics": 591,
+    "Base-Building": 586,
+    "RTS": 569,
+    "Pixel Graphics": 559,
+    "Turn-Based": 556,
+    "City Builder": 545,
+    "Singleplayer": 530,
+    "Indie": 523,
+    "Turn-Based Strategy": 514,
+    "Resource Management": 494
+  }
+}

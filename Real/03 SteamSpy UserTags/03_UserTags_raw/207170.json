@@ -1,0 +1,26 @@
+{
+  "appid": 207170,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 592,
+    "RPG": 528,
+    "Grid-Based Movement": 322,
+    "Indie": 301,
+    "Fantasy": 272,
+    "Old School": 246,
+    "Adventure": 222,
+    "Party-Based RPG": 210,
+    "Singleplayer": 209,
+    "First-Person": 151,
+    "Puzzle": 150,
+    "Real-Time": 113,
+    "Atmospheric": 97,
+    "Moddable": 89,
+    "Retro": 54,
+    "Difficult": 41,
+    "Character Customization": 37,
+    "Action": 36,
+    "Tactical": 35,
+    "Level Editor": 29
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 568460,
+  "success": true,
+  "tags": {
+    "Indie": 133,
+    "Puzzle-Platformer": 129,
+    "Adventure": 123,
+    "2D": 118,
+    "Puzzle": 113,
+    "Platformer": 105,
+    "Pixel Graphics": 103,
+    "Singleplayer": 101,
+    "Dark Humor": 96,
+    "Casual": 91,
+    "Logic": 84,
+    "Colorful": 81,
+    "Difficult": 79,
+    "Dungeon Crawler": 77,
+    "Mystery": 75,
+    "Supernatural": 70,
+    "Funny": 67,
+    "Controller": 65,
+    "Retro": 61,
+    "Fantasy": 59
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2083240,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 224,
+    "Bullet Hell": 220,
+    "Rogue-like": 215,
+    "Pixel Graphics": 213,
+    "2D": 209,
+    "Rogue-lite": 200,
+    "Action": 199,
+    "Top-Down Shooter": 198,
+    "Space": 192,
+    "Bullet Time": 191,
+    "Combat": 189,
+    "Tutorial": 186,
+    "Local Co-Op": 185,
+    "Singleplayer": 184,
+    "Co-op": 183,
+    "Local Multiplayer": 181,
+    "Multiplayer": 180,
+    "Top-Down": 177,
+    "Adventure": 174,
+    "Indie": 169
+  }
+}

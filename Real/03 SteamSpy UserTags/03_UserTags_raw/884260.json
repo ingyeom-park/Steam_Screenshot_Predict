@@ -1,0 +1,25 @@
+{
+  "appid": 884260,
+  "success": true,
+  "tags": {
+    "Indie": 87,
+    "Cyberpunk": 79,
+    "Action": 74,
+    "Pixel Graphics": 70,
+    "Gore": 63,
+    "Violent": 58,
+    "Female Protagonist": 56,
+    "Hack and Slash": 49,
+    "Casual": 45,
+    "Arcade": 44,
+    "2D": 32,
+    "Great Soundtrack": 30,
+    "Difficult": 27,
+    "Top-Down": 27,
+    "Singleplayer": 20,
+    "Rogue-like": 15,
+    "Fast-Paced": 9,
+    "Swordplay": 7,
+    "Rogue-lite": 6
+  }
+}

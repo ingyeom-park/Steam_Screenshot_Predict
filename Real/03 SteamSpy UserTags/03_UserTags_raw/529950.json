@@ -1,0 +1,26 @@
+{
+  "appid": 529950,
+  "success": true,
+  "tags": {
+    "Local Multiplayer": 178,
+    "Party Game": 173,
+    "4 Player Local": 167,
+    "Minigames": 161,
+    "Party": 159,
+    "Split Screen": 152,
+    "Family Friendly": 151,
+    "Touch-Friendly": 150,
+    "Team-Based": 143,
+    "Fast-Paced": 140,
+    "2D": 136,
+    "Colorful": 127,
+    "Casual": 122,
+    "Arcade": 118,
+    "Controller": 114,
+    "Competitive": 112,
+    "Multiplayer": 102,
+    "Stylized": 101,
+    "Indie": 82,
+    "Minimalist": 71
+  }
+}

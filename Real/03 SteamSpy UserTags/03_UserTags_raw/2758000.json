@@ -1,0 +1,26 @@
+{
+  "appid": 2758000,
+  "success": true,
+  "tags": {
+    "FMV": 132,
+    "RPG": 125,
+    "Choices Matter": 115,
+    "Story Rich": 107,
+    "Cinematic": 103,
+    "Indie": 97,
+    "Drama": 92,
+    "Immersive Sim": 88,
+    "Simulation": 82,
+    "Interactive Fiction": 78,
+    "Visual Novel": 74,
+    "Word Game": 66,
+    "Singleplayer": 65,
+    "Dating Sim": 63,
+    "Life Sim": 63,
+    "Puzzle-Platformer": 59,
+    "Third Person": 56,
+    "Colorful": 55,
+    "Idler": 55,
+    "1990's": 54
+  }
+}

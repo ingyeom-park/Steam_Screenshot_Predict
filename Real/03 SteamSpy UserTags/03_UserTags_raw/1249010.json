@@ -1,0 +1,26 @@
+{
+  "appid": 1249010,
+  "success": true,
+  "tags": {
+    "Exploration": 290,
+    "Puzzle": 284,
+    "Turn-Based": 280,
+    "Point & Click": 276,
+    "Strategy": 273,
+    "2D": 267,
+    "Surreal": 265,
+    "Story Rich": 261,
+    "Casual": 255,
+    "Cartoony": 254,
+    "Hand-drawn": 248,
+    "Fantasy": 246,
+    "Lovecraftian": 244,
+    "Comedy": 238,
+    "Adventure": 236,
+    "Cartoon": 230,
+    "Singleplayer": 223,
+    "Indie": 215,
+    "Wholesome": 29,
+    "PvE": 27
+  }
+}

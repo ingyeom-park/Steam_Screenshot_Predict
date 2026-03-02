@@ -1,0 +1,26 @@
+{
+  "appid": 2503690,
+  "success": true,
+  "tags": {
+    "Action": 113,
+    "Adventure": 107,
+    "Horror": 107,
+    "Third-Person Shooter": 103,
+    "Story Rich": 96,
+    "Survival Horror": 94,
+    "Action-Adventure": 89,
+    "Third Person": 88,
+    "Realistic": 81,
+    "Indie": 78,
+    "Female Protagonist": 78,
+    "Psychological Horror": 68,
+    "3D": 66,
+    "Singleplayer": 63,
+    "Cinematic": 60,
+    "Drama": 58,
+    "Dark": 56,
+    "Inventory Management": 54,
+    "Combat": 52,
+    "Linear": 49
+  }
+}

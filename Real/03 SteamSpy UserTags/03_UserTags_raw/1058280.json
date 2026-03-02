@@ -1,0 +1,26 @@
+{
+  "appid": 1058280,
+  "success": true,
+  "tags": {
+    "Arcade": 182,
+    "Fast-Paced": 178,
+    "Difficult": 173,
+    "Pixel Graphics": 168,
+    "Retro": 160,
+    "Score Attack": 153,
+    "Runner": 150,
+    "2D Platformer": 147,
+    "Precision Platformer": 141,
+    "Shoot 'Em Up": 137,
+    "Top-Down Shooter": 135,
+    "Vehicular Combat": 130,
+    "Flight": 128,
+    "Psychedelic": 127,
+    "1980s": 120,
+    "Action": 119,
+    "Indie": 115,
+    "Platformer": 112,
+    "Shooter": 110,
+    "Singleplayer": 105
+  }
+}

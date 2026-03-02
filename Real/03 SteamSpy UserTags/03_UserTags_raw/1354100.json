@@ -1,0 +1,26 @@
+{
+  "appid": 1354100,
+  "success": true,
+  "tags": {
+    "Emotional": 110,
+    "Story Rich": 98,
+    "Visual Novel": 94,
+    "Interactive Fiction": 89,
+    "Adventure": 84,
+    "Experimental": 78,
+    "Casual": 73,
+    "Text-Based": 70,
+    "Indie": 69,
+    "Psychological": 66,
+    "2D": 61,
+    "Stylized": 59,
+    "Hand-drawn": 55,
+    "Drama": 52,
+    "1990's": 47,
+    "Singleplayer": 45,
+    "Conversation": 40,
+    "Female Protagonist": 39,
+    "Short": 36,
+    "Narrative": 27
+  }
+}

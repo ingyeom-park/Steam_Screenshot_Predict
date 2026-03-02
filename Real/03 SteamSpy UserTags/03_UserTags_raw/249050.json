@@ -1,0 +1,26 @@
+{
+  "appid": 249050,
+  "success": true,
+  "tags": {
+    "Rogue-like": 416,
+    "Strategy": 360,
+    "Tower Defense": 309,
+    "Pixel Graphics": 304,
+    "Indie": 286,
+    "RPG": 283,
+    "Dungeon Crawler": 231,
+    "Sci-fi": 230,
+    "Adventure": 196,
+    "Perma Death": 187,
+    "Procedural Generation": 176,
+    "Co-op": 167,
+    "Difficult": 159,
+    "Resource Management": 158,
+    "Survival": 150,
+    "Rogue-lite": 146,
+    "Replay Value": 137,
+    "Great Soundtrack": 116,
+    "Singleplayer": 103,
+    "2D": 86
+  }
+}

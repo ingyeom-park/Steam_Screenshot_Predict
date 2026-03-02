@@ -1,0 +1,26 @@
+{
+  "appid": 1100990,
+  "success": true,
+  "tags": {
+    "Action": 207,
+    "FPS": 202,
+    "Shooter": 197,
+    "Software Training": 195,
+    "Indie": 191,
+    "First-Person": 185,
+    "Third Person": 183,
+    "Level Editor": 181,
+    "Singleplayer": 179,
+    "Multiplayer": 177,
+    "PvP": 173,
+    "Controller": 170,
+    "3D": 168,
+    "Sandbox": 165,
+    "PvE": 164,
+    "Utilities": 159,
+    "e-sports": 151,
+    "Software": 143,
+    "Simulation": 139,
+    "Moddable": 136
+  }
+}

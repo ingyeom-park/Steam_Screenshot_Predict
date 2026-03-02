@@ -1,0 +1,26 @@
+{
+  "appid": 2334500,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 100,
+    "Casual": 97,
+    "Bullet Hell": 94,
+    "Magic": 91,
+    "Pixel Graphics": 89,
+    "Nature": 86,
+    "Fantasy": 79,
+    "Action": 75,
+    "PvE": 73,
+    "2D Platformer": 72,
+    "2D": 69,
+    "Colorful": 67,
+    "Stylized": 65,
+    "Medieval": 63,
+    "Old School": 62,
+    "Retro": 59,
+    "Combat": 57,
+    "Procedural Generation": 55,
+    "Singleplayer": 54,
+    "Indie": 52
+  }
+}

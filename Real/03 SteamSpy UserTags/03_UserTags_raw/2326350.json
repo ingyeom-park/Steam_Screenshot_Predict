@@ -1,0 +1,25 @@
+{
+  "appid": 2326350,
+  "success": true,
+  "tags": {
+    "Action": 197,
+    "Platformer": 172,
+    "2D Platformer": 167,
+    "Exploration": 162,
+    "Precision Platformer": 156,
+    "2D": 146,
+    "Pixel Graphics": 139,
+    "Top-Down": 129,
+    "Atmospheric": 123,
+    "Horror": 114,
+    "Surreal": 101,
+    "Retro": 101,
+    "Controller": 87,
+    "Female Protagonist": 75,
+    "Linear": 58,
+    "Multiple Endings": 42,
+    "Indie": 32,
+    "Story Rich": 27,
+    "Singleplayer": 26
+  }
+}

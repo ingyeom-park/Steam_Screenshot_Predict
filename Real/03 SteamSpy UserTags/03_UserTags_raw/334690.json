@@ -1,0 +1,26 @@
+{
+  "appid": 334690,
+  "success": true,
+  "tags": {
+    "2D Platformer": 119,
+    "Precision Platformer": 113,
+    "Pixel Graphics": 110,
+    "Retro": 107,
+    "Controller": 102,
+    "Souls-like": 92,
+    "2D": 90,
+    "Difficult": 85,
+    "Indie": 76,
+    "Action": 69,
+    "Adventure": 66,
+    "Platformer": 60,
+    "Cute": 55,
+    "Singleplayer": 51,
+    "Side Scroller": 47,
+    "Colorful": 43,
+    "GameMaker": 39,
+    "Casual": 36,
+    "Racing": 34,
+    "Survival": 30
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appid": 1998450,
+  "success": true,
+  "tags": {
+    "Adventure": 196,
+    "Strategy": 190,
+    "RPG": 188,
+    "Turn-Based Strategy": 163,
+    "JRPG": 154,
+    "Visual Novel": 146,
+    "Strategy RPG": 143,
+    "Rogue-like": 136,
+    "Tactical RPG": 120,
+    "Anime": 113,
+    "Faith": 101,
+    "Zombies": 99,
+    "Dystopian ": 89,
+    "Aliens": 72,
+    "Turn-Based Tactics": 57,
+    "Story Rich": 44,
+    "Turn-Based Combat": 26,
+    "Singleplayer": 25,
+    "Indie": 20
+  }
+}

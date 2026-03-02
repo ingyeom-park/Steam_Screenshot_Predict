@@ -1,0 +1,26 @@
+{
+  "appid": 1015130,
+  "success": true,
+  "tags": {
+    "Action": 96,
+    "Adventure": 90,
+    "Indie": 89,
+    "Horror": 85,
+    "Violent": 79,
+    "Gore": 74,
+    "First-Person": 70,
+    "Survival Horror": 70,
+    "Survival": 64,
+    "3D": 62,
+    "Atmospheric": 60,
+    "Dark": 58,
+    "Detective": 56,
+    "Mystery": 51,
+    "Thriller": 48,
+    "Zombies": 43,
+    "Multiple Endings": 42,
+    "Singleplayer": 41,
+    "Blood": 36,
+    "Multiplayer": 31
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 237740,
+  "success": true,
+  "tags": {
+    "Platformer": 144,
+    "Indie": 134,
+    "Action": 130,
+    "Difficult": 114,
+    "Adventure": 106,
+    "Retro": 102,
+    "Comedy": 90,
+    "Pixel Graphics": 89,
+    "Singleplayer": 69,
+    "Great Soundtrack": 65,
+    "2D": 58,
+    "Funny": 49,
+    "Memes": 47,
+    "Side Scroller": 45,
+    "Satire": 45,
+    "Nudity": 31,
+    "Gore": 28,
+    "Violent": 22,
+    "Controller": 19,
+    "Old School": 13
+  }
+}

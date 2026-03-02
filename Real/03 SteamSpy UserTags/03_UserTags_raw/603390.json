@@ -1,0 +1,21 @@
+{
+  "appid": 603390,
+  "success": true,
+  "tags": {
+    "RPG": 72,
+    "Adventure": 66,
+    "Casual": 58,
+    "Indie": 53,
+    "Programming": 44,
+    "Retro": 36,
+    "Idler": 33,
+    "Logic": 32,
+    "Text-Based": 28,
+    "Great Soundtrack": 24,
+    "Clicker": 22,
+    "Puzzle": 18,
+    "Minimalist": 15,
+    "Early Access": 12,
+    "Singleplayer": 9
+  }
+}

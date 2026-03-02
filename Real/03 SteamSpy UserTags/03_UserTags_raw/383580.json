@@ -1,0 +1,26 @@
+{
+  "appid": 383580,
+  "success": true,
+  "tags": {
+    "Indie": 126,
+    "Action": 56,
+    "Adventure": 52,
+    "RPG": 52,
+    "Zombies": 47,
+    "Simulation": 33,
+    "Survival": 19,
+    "Retro": 17,
+    "RTS": 16,
+    "Early Access": 15,
+    "Tactical": 13,
+    "Real Time Tactics": 13,
+    "Top-Down": 13,
+    "Sandbox": 12,
+    "Pixel Graphics": 12,
+    "Survival Horror": 12,
+    "Tactical RPG": 11,
+    "Strategy": 9,
+    "2D": 9,
+    "Horror": 6
+  }
+}

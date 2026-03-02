@@ -1,0 +1,26 @@
+{
+  "appid": 2884590,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 154,
+    "Rogue-lite": 146,
+    "Fantasy": 145,
+    "Top-Down Shooter": 141,
+    "2D": 138,
+    "Action": 130,
+    "Action RPG": 128,
+    "Multiplayer": 121,
+    "PvP": 115,
+    "Adventure": 113,
+    "Cartoony": 108,
+    "Casual": 105,
+    "Choices Matter": 103,
+    "Bullet Hell": 101,
+    "RPG": 97,
+    "Perma Death": 85,
+    "Survival": 73,
+    "Singleplayer": 62,
+    "Controller": 61,
+    "Indie": 50
+  }
+}

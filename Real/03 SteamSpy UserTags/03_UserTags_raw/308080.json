@@ -1,0 +1,26 @@
+{
+  "appid": 308080,
+  "success": true,
+  "tags": {
+    "Combat Racing": 148,
+    "Racing": 141,
+    "Sports": 136,
+    "Flight": 134,
+    "Action": 60,
+    "Simulation": 57,
+    "Multiplayer": 45,
+    "Arcade": 42,
+    "Singleplayer": 38,
+    "Online Co-Op": 35,
+    "Controller": 35,
+    "Funny": 34,
+    "Co-op": 33,
+    "Atmospheric": 33,
+    "Destruction": 33,
+    "Split Screen": 32,
+    "Physics": 31,
+    "e-sports": 31,
+    "Indie": 22,
+    "3D": 21
+  }
+}

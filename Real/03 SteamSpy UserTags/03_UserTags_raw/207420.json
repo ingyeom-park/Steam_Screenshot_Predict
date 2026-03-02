@@ -1,0 +1,20 @@
+{
+  "appid": 207420,
+  "success": true,
+  "tags": {
+    "Indie": 84,
+    "Arcade": 70,
+    "Pixel Graphics": 64,
+    "Retro": 56,
+    "Action": 54,
+    "Adventure": 51,
+    "2D": 39,
+    "Singleplayer": 35,
+    "Old School": 30,
+    "Fantasy": 28,
+    "Casual": 26,
+    "Puzzle": 19,
+    "Magic": 15,
+    "RPG": 6
+  }
+}

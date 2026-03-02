@@ -1,0 +1,26 @@
+{
+  "appid": 409560,
+  "success": true,
+  "tags": {
+    "Platformer": 120,
+    "Difficult": 114,
+    "Action": 111,
+    "Adventure": 108,
+    "Comic Book": 105,
+    "2D Platformer": 99,
+    "Puzzle-Platformer": 97,
+    "Singleplayer": 95,
+    "Simulation": 91,
+    "Action-Adventure": 89,
+    "Puzzle": 85,
+    "Controller": 75,
+    "2D": 69,
+    "Indie": 67,
+    "Early Access": 62,
+    "Violent": 53,
+    "Gore": 43,
+    "Dark": 41,
+    "Psychological Horror": 32,
+    "Fantasy": 27
+  }
+}

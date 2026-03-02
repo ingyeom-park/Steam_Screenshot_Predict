@@ -1,0 +1,26 @@
+{
+  "appid": 1709050,
+  "success": true,
+  "tags": {
+    "Indie": 473,
+    "Roguelike Deckbuilder": 462,
+    "Isometric": 458,
+    "1980s": 446,
+    "Martial Arts": 441,
+    "Deckbuilding": 437,
+    "Sci-fi": 415,
+    "Turn-Based": 408,
+    "Atmospheric": 404,
+    "Card Battler": 398,
+    "Turn-Based Combat": 378,
+    "Rogue-like": 372,
+    "Card Game": 355,
+    "Turn-Based Tactics": 340,
+    "Rogue-lite": 333,
+    "Strategy": 308,
+    "Mouse only": 305,
+    "Pixel Graphics": 294,
+    "Soundtrack": 266,
+    "Cyberpunk": 253
+  }
+}

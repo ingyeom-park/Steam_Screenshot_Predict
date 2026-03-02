@@ -1,0 +1,26 @@
+{
+  "appid": 1500970,
+  "success": true,
+  "tags": {
+    "RTS": 153,
+    "Base-Building": 147,
+    "Sci-fi": 143,
+    "Strategy": 139,
+    "Singleplayer": 134,
+    "Space": 128,
+    "Old School": 124,
+    "Action RTS": 122,
+    "Mars": 117,
+    "War": 114,
+    "3D": 112,
+    "Futuristic": 103,
+    "Science": 94,
+    "Combat": 85,
+    "Artificial Intelligence": 80,
+    "Building": 70,
+    "Isometric": 65,
+    "Top-Down": 62,
+    "Resource Management": 55,
+    "Indie": 52
+  }
+}

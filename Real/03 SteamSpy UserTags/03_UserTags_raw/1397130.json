@@ -1,0 +1,26 @@
+{
+  "appid": 1397130,
+  "success": true,
+  "tags": {
+    "Card Battler": 222,
+    "Dungeon Crawler": 219,
+    "Rogue-lite": 202,
+    "Exploration": 194,
+    "Card Game": 193,
+    "Strategy": 190,
+    "Rogue-like": 170,
+    "2D": 155,
+    "Lore-Rich": 145,
+    "Choices Matter": 135,
+    "Colorful": 119,
+    "Hand-drawn": 106,
+    "Fantasy": 91,
+    "Magic": 74,
+    "Inventory Management": 59,
+    "Singleplayer": 57,
+    "Indie": 52,
+    "Deckbuilding": 50,
+    "Turn-Based Strategy": 30,
+    "Medieval": 28
+  }
+}

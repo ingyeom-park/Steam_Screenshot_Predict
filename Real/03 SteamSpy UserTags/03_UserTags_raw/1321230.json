@@ -1,0 +1,26 @@
+{
+  "appid": 1321230,
+  "success": true,
+  "tags": {
+    "RPG": 90,
+    "Adventure": 89,
+    "Indie": 89,
+    "Violent": 32,
+    "Horror": 28,
+    "RPGMaker": 26,
+    "Anime": 23,
+    "Pixel Graphics": 20,
+    "2D": 15,
+    "Singleplayer": 14,
+    "Puzzle": 13,
+    "Psychological Horror": 13,
+    "Story Rich": 13,
+    "Romance": 12,
+    "Dark": 11,
+    "Cute": 11,
+    "Retro": 11,
+    "Short": 11,
+    "Atmospheric": 11,
+    "Fantasy": 10
+  }
+}

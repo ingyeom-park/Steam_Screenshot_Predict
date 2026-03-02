@@ -1,0 +1,23 @@
+{
+  "appid": 2113450,
+  "success": true,
+  "tags": {
+    "Casual": 73,
+    "Strategy": 48,
+    "Puzzle": 46,
+    "City Builder": 40,
+    "Tabletop": 39,
+    "Board Game": 31,
+    "God Game": 29,
+    "Solitaire": 28,
+    "Top-Down": 27,
+    "Pixel Graphics": 26,
+    "Medieval": 22,
+    "Indie": 21,
+    "Fantasy": 20,
+    "Economy": 18,
+    "Controller": 16,
+    "Procedural Generation": 14,
+    "Singleplayer": 13
+  }
+}

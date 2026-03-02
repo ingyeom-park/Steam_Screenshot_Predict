@@ -1,0 +1,26 @@
+{
+  "appid": 1220010,
+  "success": true,
+  "tags": {
+    "Strategy": 164,
+    "RPG": 162,
+    "Adventure": 155,
+    "Rogue-like": 150,
+    "Indie": 146,
+    "Simulation": 145,
+    "Rogue-lite": 140,
+    "Survival": 134,
+    "Female Protagonist": 128,
+    "2D": 117,
+    "Turn-Based Combat": 116,
+    "Loot": 113,
+    "Conversation": 107,
+    "Inventory Management": 105,
+    "Anime": 104,
+    "Story Rich": 101,
+    "Character Customization": 98,
+    "Exploration": 92,
+    "Turn-Based": 88,
+    "Tactical": 72
+  }
+}

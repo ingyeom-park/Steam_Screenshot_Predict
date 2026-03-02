@@ -1,0 +1,26 @@
+{
+  "appid": 1592520,
+  "success": true,
+  "tags": {
+    "RPG": 149,
+    "Casual": 121,
+    "Romance": 106,
+    "Female Protagonist": 95,
+    "Cute": 94,
+    "Fantasy": 93,
+    "Atmospheric": 92,
+    "Emotional": 91,
+    "Magic": 85,
+    "Medieval": 81,
+    "Multiple Endings": 80,
+    "Singleplayer": 72,
+    "JRPG": 49,
+    "Turn-Based Tactics": 43,
+    "3D": 39,
+    "Turn-Based Combat": 38,
+    "Colorful": 36,
+    "Top-Down": 31,
+    "Indie": 29,
+    "Controller": 26
+  }
+}

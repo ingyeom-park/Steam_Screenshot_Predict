@@ -1,0 +1,26 @@
+{
+  "appid": 375320,
+  "success": true,
+  "tags": {
+    "Adventure": 159,
+    "Indie": 153,
+    "Puzzle": 151,
+    "First-Person": 147,
+    "Minimalist": 144,
+    "Colorful": 137,
+    "Platformer": 136,
+    "Simulation": 132,
+    "Exploration": 126,
+    "Hidden Object": 123,
+    "Survival Horror": 115,
+    "Puzzle-Platformer": 113,
+    "Abstract": 109,
+    "3D": 105,
+    "Cute": 101,
+    "Atmospheric": 91,
+    "Survival": 78,
+    "Psychedelic": 67,
+    "Relaxing": 66,
+    "Physics": 58
+  }
+}

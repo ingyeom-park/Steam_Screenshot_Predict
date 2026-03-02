@@ -1,0 +1,26 @@
+{
+  "appid": 1238360,
+  "success": true,
+  "tags": {
+    "Adventure": 155,
+    "Indie": 149,
+    "Lore-Rich": 146,
+    "Story Rich": 141,
+    "Great Soundtrack": 137,
+    "Atmospheric": 131,
+    "Emotional": 130,
+    "Walking Simulator": 125,
+    "Beautiful": 123,
+    "2D": 120,
+    "Exploration": 116,
+    "Psychological": 111,
+    "Narration": 100,
+    "Singleplayer": 98,
+    "Side Scroller": 92,
+    "Third Person": 86,
+    "Colorful": 79,
+    "Stylized": 77,
+    "Dynamic Narration": 75,
+    "Puzzle-Platformer": 74
+  }
+}

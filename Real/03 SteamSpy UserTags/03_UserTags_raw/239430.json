@@ -1,0 +1,25 @@
+{
+  "appid": 239430,
+  "success": true,
+  "tags": {
+    "Puzzle": 97,
+    "Indie": 64,
+    "First-Person": 63,
+    "Adventure": 51,
+    "Action": 48,
+    "Sci-fi": 43,
+    "Singleplayer": 39,
+    "Physics": 32,
+    "Space": 25,
+    "Platformer": 20,
+    "Atmospheric": 20,
+    "Science": 18,
+    "3D": 13,
+    "Soundtrack": 12,
+    "Strategy": 11,
+    "Classic": 8,
+    "Puzzle-Platformer": 8,
+    "Difficult": 6,
+    "VR": 5
+  }
+}

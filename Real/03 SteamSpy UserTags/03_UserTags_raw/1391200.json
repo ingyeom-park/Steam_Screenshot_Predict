@@ -1,0 +1,26 @@
+{
+  "appid": 1391200,
+  "success": true,
+  "tags": {
+    "Casual": 197,
+    "Tabletop": 169,
+    "Board Game": 166,
+    "Online Co-Op": 161,
+    "Relaxing": 155,
+    "Family Friendly": 145,
+    "Pixel Graphics": 138,
+    "Fantasy": 129,
+    "Co-op": 123,
+    "Singleplayer": 113,
+    "Multiplayer": 102,
+    "2D": 100,
+    "Hand-drawn": 87,
+    "Colorful": 73,
+    "Cute": 59,
+    "Atmospheric": 41,
+    "Education": 26,
+    "Anime": 24,
+    "Indie": 21,
+    "Cozy": 10
+  }
+}

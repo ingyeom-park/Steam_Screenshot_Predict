@@ -1,0 +1,26 @@
+{
+  "appid": 2412700,
+  "success": true,
+  "tags": {
+    "Casual": 232,
+    "Simulation": 225,
+    "Indie": 223,
+    "Puzzle": 220,
+    "Strategy": 216,
+    "Time Management": 210,
+    "Puzzle-Platformer": 203,
+    "Real Time Tactics": 196,
+    "Education": 188,
+    "Detective": 180,
+    "Military": 171,
+    "Tutorial": 162,
+    "Point & Click": 160,
+    "RTS": 149,
+    "3D": 135,
+    "2D": 134,
+    "Choices Matter": 116,
+    "Linear": 98,
+    "Abstract": 79,
+    "Logic": 60
+  }
+}

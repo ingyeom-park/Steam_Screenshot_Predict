@@ -1,0 +1,26 @@
+{
+  "appid": 2020860,
+  "success": true,
+  "tags": {
+    "Racing": 144,
+    "Arcade": 135,
+    "Driving": 133,
+    "Simulation": 128,
+    "Automobile Sim": 125,
+    "Multiplayer": 118,
+    "Indie": 110,
+    "Sports": 109,
+    "Retro": 100,
+    "Physics": 95,
+    "Realistic": 89,
+    "PvP": 83,
+    "3D": 83,
+    "Controller": 74,
+    "1990's": 69,
+    "1980s": 67,
+    "Old School": 65,
+    "Offroad": 64,
+    "Asynchronous Multiplayer": 60,
+    "Local Multiplayer": 43
+  }
+}

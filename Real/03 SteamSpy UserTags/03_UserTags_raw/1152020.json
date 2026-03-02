@@ -1,0 +1,26 @@
+{
+  "appid": 1152020,
+  "success": true,
+  "tags": {
+    "Runner": 120,
+    "Side Scroller": 114,
+    "Platformer": 110,
+    "Zombies": 106,
+    "Medieval": 103,
+    "Action-Adventure": 97,
+    "Action": 95,
+    "Adventure": 93,
+    "Colorful": 91,
+    "Procedural Generation": 89,
+    "Arcade": 86,
+    "2D": 81,
+    "Retro": 74,
+    "Pixel Graphics": 68,
+    "Singleplayer": 63,
+    "Magic": 53,
+    "2D Platformer": 51,
+    "Indie": 49,
+    "Casual": 47,
+    "Difficult": 32
+  }
+}

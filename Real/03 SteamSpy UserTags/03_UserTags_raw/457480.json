@@ -1,0 +1,26 @@
+{
+  "appid": 457480,
+  "success": true,
+  "tags": {
+    "Indie": 103,
+    "Casual": 97,
+    "Strategy": 94,
+    "Puzzle": 91,
+    "Physics": 87,
+    "3D": 78,
+    "Singleplayer": 75,
+    "Relaxing": 73,
+    "Action": 70,
+    "Adventure": 69,
+    "Simulation": 65,
+    "First-Person": 59,
+    "Realistic": 58,
+    "Tactical": 55,
+    "Family Friendly": 55,
+    "Logic": 50,
+    "Immersive Sim": 41,
+    "FPS": 32,
+    "Moddable": 31,
+    "Great Soundtrack": 29
+  }
+}

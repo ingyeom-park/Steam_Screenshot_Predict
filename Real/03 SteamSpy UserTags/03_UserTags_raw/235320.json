@@ -1,0 +1,26 @@
+{
+  "appid": 235320,
+  "success": true,
+  "tags": {
+    "Strategy": 179,
+    "RTS": 161,
+    "Sci-fi": 153,
+    "Singleplayer": 152,
+    "Real-Time with Pause": 149,
+    "Time Travel": 141,
+    "RPG": 135,
+    "Indie": 133,
+    "Multiplayer": 132,
+    "Story Rich": 127,
+    "Difficult": 119,
+    "War": 115,
+    "2D": 110,
+    "Wargame": 108,
+    "Real-Time": 106,
+    "Atmospheric": 101,
+    "Moddable": 101,
+    "Co-op": 94,
+    "Online Co-Op": 93,
+    "PvP": 88
+  }
+}

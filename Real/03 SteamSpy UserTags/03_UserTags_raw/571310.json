@@ -1,0 +1,26 @@
+{
+  "appid": 571310,
+  "success": true,
+  "tags": {
+    "Adventure": 143,
+    "Metroidvania": 134,
+    "Indie": 128,
+    "Action": 123,
+    "Platformer": 118,
+    "Mining": 111,
+    "2D": 101,
+    "Steampunk": 98,
+    "Female Protagonist": 73,
+    "Singleplayer": 61,
+    "Exploration": 47,
+    "Great Soundtrack": 41,
+    "Robots": 39,
+    "Controller": 33,
+    "Casual": 25,
+    "Colorful": 21,
+    "Western": 15,
+    "Family Friendly": 15,
+    "2D Platformer": 15,
+    "RPG": 13
+  }
+}

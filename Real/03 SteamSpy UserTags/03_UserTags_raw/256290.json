@@ -1,0 +1,26 @@
+{
+  "appid": 256290,
+  "success": true,
+  "tags": {
+    "RPG": 678,
+    "Fantasy": 481,
+    "Great Soundtrack": 420,
+    "Turn-Based": 396,
+    "Female Protagonist": 392,
+    "Platformer": 352,
+    "Adventure": 342,
+    "2D": 287,
+    "Atmospheric": 273,
+    "Story Rich": 255,
+    "Hand-drawn": 222,
+    "Beautiful": 194,
+    "Singleplayer": 162,
+    "Cute": 140,
+    "Side Scroller": 138,
+    "Local Co-Op": 135,
+    "Turn-Based Strategy": 111,
+    "Indie": 77,
+    "Casual": 69,
+    "Action": 50
+  }
+}

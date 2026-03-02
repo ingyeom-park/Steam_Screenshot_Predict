@@ -1,0 +1,18 @@
+{
+  "appid": 939000,
+  "success": true,
+  "tags": {
+    "Action": 33,
+    "Indie": 32,
+    "Casual": 31,
+    "Violent": 31,
+    "VR": 26,
+    "Shooter": 14,
+    "Multiplayer": 14,
+    "FPS": 13,
+    "Co-op": 12,
+    "First-Person": 11,
+    "Arcade": 10,
+    "Difficult": 10
+  }
+}

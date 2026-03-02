@@ -1,0 +1,26 @@
+{
+  "appid": 1291540,
+  "success": true,
+  "tags": {
+    "Tower Defense": 205,
+    "Card Game": 199,
+    "Deckbuilding": 196,
+    "Roguelike Deckbuilder": 193,
+    "Rogue-lite": 190,
+    "Card Battler": 184,
+    "Cyberpunk": 182,
+    "Sci-fi": 180,
+    "Top-Down": 178,
+    "Trading Card Game": 176,
+    "Strategy": 172,
+    "Singleplayer": 165,
+    "Futuristic": 161,
+    "PvE": 157,
+    "Retro": 149,
+    "Dystopian ": 147,
+    "Tutorial": 141,
+    "Indie": 137,
+    "Stylized": 127,
+    "Atmospheric": 118
+  }
+}

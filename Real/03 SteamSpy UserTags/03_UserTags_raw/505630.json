@@ -1,0 +1,26 @@
+{
+  "appid": 505630,
+  "success": true,
+  "tags": {
+    "Action": 134,
+    "Indie": 131,
+    "Pixel Graphics": 129,
+    "Tower Defense": 129,
+    "2D": 124,
+    "Shooter": 113,
+    "Aliens": 107,
+    "Gore": 101,
+    "Violent": 98,
+    "Survival": 96,
+    "Singleplayer": 91,
+    "Retro": 81,
+    "Shoot 'Em Up": 79,
+    "Sci-fi": 73,
+    "Strategy": 72,
+    "Atmospheric": 69,
+    "Casual": 63,
+    "Arcade": 61,
+    "Horror": 58,
+    "Bullet Hell": 53
+  }
+}

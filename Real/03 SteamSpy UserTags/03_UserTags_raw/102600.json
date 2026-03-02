@@ -1,0 +1,26 @@
+{
+  "appid": 102600,
+  "success": true,
+  "tags": {
+    "Tower Defense": 503,
+    "Action": 303,
+    "Strategy": 261,
+    "Third Person": 208,
+    "Fantasy": 182,
+    "Indie": 170,
+    "Singleplayer": 169,
+    "Comedy": 134,
+    "Funny": 103,
+    "Third-Person Shooter": 98,
+    "Cartoony": 73,
+    "Magic": 65,
+    "Great Soundtrack": 55,
+    "Multiplayer": 50,
+    "Score Attack": 49,
+    "Addictive": 48,
+    "Shooter": 47,
+    "Adventure": 32,
+    "RPG": 30,
+    "Arcade": 28
+  }
+}

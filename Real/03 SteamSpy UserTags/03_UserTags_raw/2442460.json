@@ -1,0 +1,26 @@
+{
+  "appid": 2442460,
+  "success": true,
+  "tags": {
+    "RPG": 231,
+    "Dice": 224,
+    "Cyberpunk": 220,
+    "Story Rich": 217,
+    "Sci-fi": 211,
+    "Narrative": 204,
+    "Tabletop": 200,
+    "Hand-drawn": 195,
+    "Dystopian ": 191,
+    "Artificial Intelligence": 183,
+    "Interactive Fiction": 178,
+    "Text-Based": 170,
+    "Multiple Endings": 167,
+    "Space": 162,
+    "Futuristic": 156,
+    "Exploration": 147,
+    "Atmospheric": 142,
+    "Conversation": 136,
+    "Indie": 129,
+    "Adventure": 115
+  }
+}

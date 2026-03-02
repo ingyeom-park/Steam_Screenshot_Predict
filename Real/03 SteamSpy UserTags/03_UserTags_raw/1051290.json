@@ -1,0 +1,26 @@
+{
+  "appid": 1051290,
+  "success": true,
+  "tags": {
+    "Shooter": 160,
+    "Multiplayer": 154,
+    "FPS": 153,
+    "Action": 150,
+    "Zombies": 147,
+    "Co-op Campaign": 145,
+    "Online Co-Op": 143,
+    "Co-op": 140,
+    "First-Person": 135,
+    "Adventure": 128,
+    "Post-apocalyptic": 117,
+    "Voxel": 113,
+    "Action-Adventure": 112,
+    "Story Rich": 95,
+    "Violent": 90,
+    "Survival": 88,
+    "Horror": 87,
+    "Indie": 83,
+    "Singleplayer": 82,
+    "Blood": 78
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2055910,
+  "success": true,
+  "tags": {
+    "Score Attack": 125,
+    "Arcade": 118,
+    "Indie": 115,
+    "Family Friendly": 112,
+    "Electronic Music": 109,
+    "Controller": 103,
+    "Action": 100,
+    "Runner": 97,
+    "Casual": 94,
+    "Procedural Generation": 89,
+    "2D": 80,
+    "Colorful": 71,
+    "Minimalist": 68,
+    "Retro": 63,
+    "Music": 61,
+    "Difficult": 56,
+    "Singleplayer": 51,
+    "Top-Down": 42,
+    "Touch-Friendly": 37,
+    "Mouse only": 35
+  }
+}

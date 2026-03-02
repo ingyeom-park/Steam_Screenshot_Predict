@@ -1,0 +1,26 @@
+{
+  "appid": 373620,
+  "success": true,
+  "tags": {
+    "Action": 189,
+    "Platformer": 183,
+    "Shoot 'Em Up": 180,
+    "Mechs": 178,
+    "Arcade": 173,
+    "Sci-fi": 167,
+    "Local Co-Op": 166,
+    "Anime": 163,
+    "Controller": 157,
+    "Comedy": 155,
+    "Shooter": 146,
+    "2D Platformer": 144,
+    "Puzzle-Platformer": 130,
+    "Hand-drawn": 119,
+    "Aliens": 111,
+    "Retro": 100,
+    "Co-op": 94,
+    "Singleplayer": 89,
+    "Soundtrack": 84,
+    "Indie": 77
+  }
+}

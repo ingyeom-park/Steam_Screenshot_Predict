@@ -1,0 +1,26 @@
+{
+  "appid": 1683340,
+  "success": true,
+  "tags": {
+    "VR": 87,
+    "Racing": 68,
+    "Realistic": 59,
+    "Simulation": 56,
+    "Immersive Sim": 50,
+    "Nature": 43,
+    "Physics": 40,
+    "Relaxing": 38,
+    "Arcade": 30,
+    "Exploration": 25,
+    "Score Attack": 25,
+    "Casual": 25,
+    "Sports": 23,
+    "Indie": 23,
+    "Adventure": 21,
+    "Linear": 21,
+    "Asynchronous Multiplayer": 21,
+    "6DOF": 19,
+    "Singleplayer": 18,
+    "Multiplayer": 6
+  }
+}

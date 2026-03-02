@@ -1,0 +1,26 @@
+{
+  "appid": 48000,
+  "success": true,
+  "tags": {
+    "Puzzle-Platformer": 1783,
+    "Indie": 1298,
+    "Puzzle": 1120,
+    "Platformer": 1098,
+    "Dark": 1038,
+    "Atmospheric": 970,
+    "2D": 751,
+    "Adventure": 727,
+    "Singleplayer": 719,
+    "Horror": 675,
+    "Surreal": 343,
+    "Short": 301,
+    "Side Scroller": 286,
+    "Difficult": 259,
+    "Minimalist": 231,
+    "Physics": 220,
+    "Action": 199,
+    "Cinematic": 156,
+    "Casual": 152,
+    "Controller": 115
+  }
+}

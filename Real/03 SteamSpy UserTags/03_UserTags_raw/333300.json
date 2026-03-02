@@ -1,0 +1,26 @@
+{
+  "appid": 333300,
+  "success": true,
+  "tags": {
+    "Traditional Roguelike": 290,
+    "CRPG": 287,
+    "Dungeon Crawler": 246,
+    "Perma Death": 236,
+    "Turn-Based": 234,
+    "Rogue-like": 229,
+    "Difficult": 227,
+    "Tabletop": 212,
+    "2D": 157,
+    "RPG": 155,
+    "Strategy": 154,
+    "Procedural Generation": 151,
+    "Pixel Graphics": 136,
+    "Fantasy": 131,
+    "Atmospheric": 121,
+    "Adventure": 114,
+    "Grid-Based Movement": 107,
+    "Singleplayer": 106,
+    "Indie": 99,
+    "Replay Value": 56
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1311540,
+  "success": true,
+  "tags": {
+    "Indie": 248,
+    "Adventure": 240,
+    "Text-Based": 239,
+    "Pixel Graphics": 236,
+    "Atmospheric": 231,
+    "Drama": 225,
+    "Puzzle": 224,
+    "Story Rich": 221,
+    "Simulation": 208,
+    "Experimental": 200,
+    "Exploration": 188,
+    "Hacking": 178,
+    "Visual Novel": 166,
+    "Education": 161,
+    "Immersive Sim": 145,
+    "2D": 138,
+    "Minimalist": 135,
+    "Stylized": 121,
+    "1990's": 102,
+    "Dark": 83
+  }
+}

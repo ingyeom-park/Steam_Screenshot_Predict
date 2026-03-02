@@ -1,0 +1,18 @@
+{
+  "appid": 418300,
+  "success": true,
+  "tags": {
+    "Horror": 62,
+    "Indie": 46,
+    "Adventure": 43,
+    "Action": 42,
+    "Survival Horror": 41,
+    "First-Person": 36,
+    "Psychological Horror": 31,
+    "Atmospheric": 31,
+    "Multiplayer": 12,
+    "Survival": 8,
+    "Singleplayer": 5,
+    "Jump Scare": 5
+  }
+}

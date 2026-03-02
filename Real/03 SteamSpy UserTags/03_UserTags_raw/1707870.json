@@ -1,0 +1,26 @@
+{
+  "appid": 1707870,
+  "success": true,
+  "tags": {
+    "Casual": 140,
+    "Board Game": 132,
+    "Card Game": 129,
+    "Word Game": 127,
+    "Typing": 123,
+    "Cinematic": 115,
+    "Comedy": 112,
+    "Family Friendly": 110,
+    "Funny": 106,
+    "Memes": 100,
+    "Parody ": 91,
+    "PvP": 84,
+    "Multiplayer": 79,
+    "Singleplayer": 73,
+    "Local Multiplayer": 68,
+    "Party Game": 64,
+    "Movie": 59,
+    "Indie": 55,
+    "Party": 52,
+    "FMV": 42
+  }
+}

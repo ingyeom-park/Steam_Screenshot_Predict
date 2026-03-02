@@ -1,0 +1,11 @@
+{
+  "appid": 456810,
+  "success": true,
+  "tags": {
+    "Indie": 26,
+    "Action": 25,
+    "Casual": 25,
+    "Puzzle": 10,
+    "Zombies": 9
+  }
+}

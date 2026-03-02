@@ -1,0 +1,10 @@
+{
+  "appid": 345060,
+  "success": true,
+  "tags": {
+    "Casual": 26,
+    "Indie": 24,
+    "Action": 22,
+    "Puzzle": 11
+  }
+}

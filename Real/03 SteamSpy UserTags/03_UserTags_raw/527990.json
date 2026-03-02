@@ -1,0 +1,26 @@
+{
+  "appid": 527990,
+  "success": true,
+  "tags": {
+    "RPG": 217,
+    "RPGMaker": 212,
+    "Indie": 209,
+    "Action": 203,
+    "Adventure": 200,
+    "Strategy": 195,
+    "Nudity": 193,
+    "Singleplayer": 190,
+    "2D": 188,
+    "Anime": 180,
+    "Fantasy": 175,
+    "Difficult": 162,
+    "Rogue-like": 159,
+    "Third Person": 147,
+    "Tactical": 141,
+    "Open World": 134,
+    "Story Rich": 121,
+    "Turn-Based Strategy": 107,
+    "Rogue-lite": 93,
+    "Tactical RPG": 85
+  }
+}

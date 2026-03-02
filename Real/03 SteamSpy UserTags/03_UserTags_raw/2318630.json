@@ -1,0 +1,26 @@
+{
+  "appid": 2318630,
+  "success": true,
+  "tags": {
+    "Tower Defense": 189,
+    "Strategy": 182,
+    "RTS": 179,
+    "Rogue-lite": 176,
+    "Minimalist": 172,
+    "Isometric": 166,
+    "Casual": 163,
+    "Procedural Generation": 160,
+    "Rogue-like": 158,
+    "Resource Management": 153,
+    "2.5D": 148,
+    "Cartoony": 142,
+    "Building": 140,
+    "Nature": 136,
+    "Singleplayer": 134,
+    "Cute": 130,
+    "Indie": 127,
+    "Fantasy": 119,
+    "Magic": 116,
+    "Top-Down": 112
+  }
+}

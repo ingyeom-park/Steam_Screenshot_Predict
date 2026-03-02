@@ -1,0 +1,26 @@
+{
+  "appid": 1307090,
+  "success": true,
+  "tags": {
+    "Indie": 138,
+    "Racing": 134,
+    "Sports": 132,
+    "Multiplayer": 130,
+    "PvP": 125,
+    "Arcade": 118,
+    "Driving": 114,
+    "Automobile Sim": 113,
+    "Immersive Sim": 108,
+    "Simulation": 107,
+    "Time Attack": 104,
+    "Local Multiplayer": 102,
+    "Singleplayer": 93,
+    "Split Screen": 87,
+    "Casual": 82,
+    "4 Player Local": 78,
+    "Sequel": 72,
+    "3D": 68,
+    "Retro": 64,
+    "Trading Card Game": 62
+  }
+}

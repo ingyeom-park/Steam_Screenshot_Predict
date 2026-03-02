@@ -1,0 +1,26 @@
+{
+  "appid": 2101250,
+  "success": true,
+  "tags": {
+    "Action": 149,
+    "Bullet Hell": 145,
+    "Space": 141,
+    "Indie": 137,
+    "Shoot 'Em Up": 133,
+    "Twin Stick Shooter": 128,
+    "Singleplayer": 127,
+    "Controller": 123,
+    "Arcade": 121,
+    "Top-Down Shooter": 113,
+    "Rogue-lite": 105,
+    "2D": 98,
+    "Action Roguelike": 95,
+    "Top-Down": 89,
+    "Gun Customization": 86,
+    "Casual": 83,
+    "Pixel Graphics": 77,
+    "Survival": 70,
+    "Aliens": 59,
+    "Shooter": 53
+  }
+}

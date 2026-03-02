@@ -1,0 +1,26 @@
+{
+  "appid": 1097620,
+  "success": true,
+  "tags": {
+    "VR": 149,
+    "Online Co-Op": 143,
+    "Tactical": 139,
+    "Asymmetric VR": 135,
+    "Violent": 130,
+    "Cartoony": 124,
+    "Local Co-Op": 122,
+    "Action": 118,
+    "Real Time Tactics": 116,
+    "FPS": 111,
+    "Gore": 108,
+    "Indie": 102,
+    "Singleplayer": 97,
+    "First-Person": 94,
+    "Shooter": 89,
+    "3D": 79,
+    "Bullet Time": 75,
+    "Co-op": 71,
+    "Local Multiplayer": 67,
+    "Crime": 62
+  }
+}

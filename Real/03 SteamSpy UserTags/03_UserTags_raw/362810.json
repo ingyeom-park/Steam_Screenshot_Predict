@@ -1,0 +1,26 @@
+{
+  "appid": 362810,
+  "success": true,
+  "tags": {
+    "Action": 191,
+    "Indie": 184,
+    "Multiplayer": 181,
+    "Platformer": 178,
+    "Fighting": 174,
+    "Local Multiplayer": 168,
+    "2D Fighter": 165,
+    "2D": 164,
+    "Pixel Graphics": 158,
+    "4 Player Local": 152,
+    "Local Co-Op": 150,
+    "Retro": 143,
+    "Co-op": 134,
+    "Online Co-Op": 123,
+    "Singleplayer": 117,
+    "Competitive": 110,
+    "Fast-Paced": 99,
+    "Free to Play": 80,
+    "2D Platformer": 71,
+    "Level Editor": 63
+  }
+}

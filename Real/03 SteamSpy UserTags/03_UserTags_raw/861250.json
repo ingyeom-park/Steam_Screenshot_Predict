@@ -1,0 +1,26 @@
+{
+  "appid": 861250,
+  "success": true,
+  "tags": {
+    "Ninja": 133,
+    "Retro": 127,
+    "Pixel Graphics": 119,
+    "2D": 118,
+    "Platformer": 114,
+    "Metroidvania": 99,
+    "Anime": 99,
+    "Cyberpunk": 94,
+    "Action": 91,
+    "Indie": 88,
+    "Difficult": 74,
+    "Side Scroller": 70,
+    "2D Platformer": 68,
+    "Singleplayer": 67,
+    "Adventure": 62,
+    "Arcade": 58,
+    "Sci-fi": 56,
+    "Great Soundtrack": 51,
+    "Post-apocalyptic": 50,
+    "Rogue-like": 40
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1737070,
+  "success": true,
+  "tags": {
+    "Casual": 201,
+    "RPG": 191,
+    "Adventure": 190,
+    "Dating Sim": 176,
+    "Interactive Fiction": 163,
+    "Word Game": 151,
+    "Visual Novel": 147,
+    "2D Platformer": 130,
+    "Anime": 124,
+    "Cartoony": 112,
+    "First-Person": 104,
+    "Story Rich": 102,
+    "Female Protagonist": 101,
+    "Text-Based": 87,
+    "Multiple Endings": 77,
+    "Otome": 62,
+    "Choices Matter": 45,
+    "Romance": 43,
+    "Singleplayer": 29,
+    "Indie": 21
+  }
+}

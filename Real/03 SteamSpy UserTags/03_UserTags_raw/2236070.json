@@ -1,0 +1,26 @@
+{
+  "appid": 2236070,
+  "success": true,
+  "tags": {
+    "Difficult": 137,
+    "Physics": 134,
+    "Adventure": 124,
+    "Psychological Horror": 115,
+    "Exploration": 105,
+    "Platformer": 104,
+    "Atmospheric": 101,
+    "First-Person": 94,
+    "Singleplayer": 86,
+    "Historical": 85,
+    "Philosophical": 82,
+    "Action": 74,
+    "Nature": 70,
+    "Indie": 69,
+    "Retro": 66,
+    "Realistic": 60,
+    "Story Rich": 56,
+    "Stylized": 44,
+    "3D Platformer": 43,
+    "Parkour": 34
+  }
+}

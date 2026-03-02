@@ -1,0 +1,26 @@
+{
+  "appid": 908070,
+  "success": true,
+  "tags": {
+    "Deckbuilding": 175,
+    "Strategy": 164,
+    "Card Game": 163,
+    "Board Game": 161,
+    "Indie": 160,
+    "Turn-Based Strategy": 144,
+    "Fantasy": 142,
+    "Turn-Based": 138,
+    "Casual": 136,
+    "Tabletop": 130,
+    "Solitaire": 117,
+    "2D": 114,
+    "Colorful": 106,
+    "Hand-drawn": 104,
+    "PvP": 100,
+    "Crafting": 98,
+    "4 Player Local": 93,
+    "Multiplayer": 79,
+    "Singleplayer": 78,
+    "Early Access": 56
+  }
+}

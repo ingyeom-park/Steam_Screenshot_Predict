@@ -1,0 +1,26 @@
+{
+  "appid": 782130,
+  "success": true,
+  "tags": {
+    "Casual": 156,
+    "Indie": 150,
+    "Simulation": 147,
+    "Competitive": 144,
+    "Team-Based": 141,
+    "Local Multiplayer": 135,
+    "Local Co-Op": 130,
+    "Co-op": 127,
+    "4 Player Local": 120,
+    "Tabletop": 118,
+    "Trivia": 114,
+    "3D": 108,
+    "Cartoony": 103,
+    "Colorful": 98,
+    "Education": 90,
+    "Relaxing": 83,
+    "Family Friendly": 81,
+    "Logic": 78,
+    "Funny": 75,
+    "Controller": 69
+  }
+}

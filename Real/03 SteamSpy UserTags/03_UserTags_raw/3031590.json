@@ -1,0 +1,25 @@
+{
+  "appid": 3031590,
+  "success": true,
+  "tags": {
+    "Adventure": 179,
+    "Simulation": 174,
+    "RPG": 168,
+    "Dating Sim": 144,
+    "Rogue-like": 138,
+    "Puzzle": 128,
+    "2D Platformer": 121,
+    "Immersive Sim": 114,
+    "Rogue-lite": 106,
+    "2D": 100,
+    "Pixel Graphics": 100,
+    "Stylized": 82,
+    "Horror": 73,
+    "Psychological Horror": 72,
+    "Mystery": 43,
+    "Singleplayer": 26,
+    "Controller": 26,
+    "Gore": 22,
+    "Indie": 22
+  }
+}

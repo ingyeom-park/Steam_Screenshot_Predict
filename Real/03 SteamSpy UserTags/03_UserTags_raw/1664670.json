@@ -1,0 +1,26 @@
+{
+  "appid": 1664670,
+  "success": true,
+  "tags": {
+    "Tower Defense": 236,
+    "Rogue-lite": 223,
+    "Building": 217,
+    "Turn-Based Tactics": 212,
+    "Strategy": 206,
+    "Pixel Graphics": 198,
+    "Voxel": 188,
+    "Sci-fi": 179,
+    "Indie": 169,
+    "Space": 161,
+    "2D": 161,
+    "Singleplayer": 158,
+    "Resource Management": 156,
+    "Top-Down": 154,
+    "Turn-Based Strategy": 150,
+    "Futuristic": 149,
+    "Casual": 147,
+    "Rogue-like": 144,
+    "Retro": 143,
+    "Combat": 141
+  }
+}

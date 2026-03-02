@@ -1,0 +1,26 @@
+{
+  "appid": 1648100,
+  "success": true,
+  "tags": {
+    "Local Co-Op": 196,
+    "Puzzle-Platformer": 190,
+    "Pixel Graphics": 187,
+    "Colorful": 180,
+    "2D": 174,
+    "Casual": 169,
+    "Co-op": 165,
+    "Adventure": 160,
+    "Platformer": 156,
+    "Local Multiplayer": 133,
+    "Relaxing": 121,
+    "Arcade": 118,
+    "Controller": 107,
+    "Linear": 91,
+    "Puzzle": 77,
+    "Singleplayer": 60,
+    "Strategy": 45,
+    "Co-op Campaign": 43,
+    "2D Platformer": 29,
+    "Indie": 21
+  }
+}

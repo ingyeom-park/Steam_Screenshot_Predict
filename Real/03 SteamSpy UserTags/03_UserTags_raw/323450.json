@@ -1,0 +1,23 @@
+{
+  "appid": 323450,
+  "success": true,
+  "tags": {
+    "RPG": 55,
+    "Adventure": 47,
+    "Action": 46,
+    "JRPG": 30,
+    "Anime": 21,
+    "Turn-Based": 13,
+    "Fantasy": 13,
+    "Singleplayer": 12,
+    "Pixel Graphics": 12,
+    "Old School": 12,
+    "Indie": 12,
+    "Visual Novel": 11,
+    "Story Rich": 11,
+    "Retro": 10,
+    "3D": 10,
+    "Party-Based RPG": 10,
+    "RPGMaker": 6
+  }
+}

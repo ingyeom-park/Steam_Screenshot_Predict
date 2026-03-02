@@ -1,0 +1,26 @@
+{
+  "appid": 1184760,
+  "success": true,
+  "tags": {
+    "Adventure": 66,
+    "Action": 59,
+    "Dungeon Crawler": 58,
+    "Puzzle": 54,
+    "Strategy": 43,
+    "Multiplayer": 34,
+    "Pixel Graphics": 33,
+    "Indie": 29,
+    "PvE": 29,
+    "Singleplayer": 29,
+    "Competitive": 28,
+    "PvP": 26,
+    "Local Multiplayer": 23,
+    "2D": 22,
+    "Rogue-lite": 21,
+    "Multiple Endings": 18,
+    "Difficult": 15,
+    "Perma Death": 15,
+    "Grid-Based Movement": 15,
+    "Rogue-like": 12
+  }
+}

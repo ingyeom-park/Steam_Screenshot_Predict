@@ -1,0 +1,26 @@
+{
+  "appid": 555880,
+  "success": true,
+  "tags": {
+    "Action": 91,
+    "RPG": 76,
+    "Indie": 75,
+    "Strategy": 72,
+    "VR": 62,
+    "Female Protagonist": 59,
+    "Cyberpunk": 38,
+    "Gore": 22,
+    "Ninja": 21,
+    "Violent": 19,
+    "Bullet Time": 19,
+    "First-Person": 18,
+    "Arcade": 15,
+    "FPS": 14,
+    "Robots": 14,
+    "Futuristic": 13,
+    "Action-Adventure": 12,
+    "Horror": 11,
+    "Zombies": 10,
+    "Superhero": 9
+  }
+}

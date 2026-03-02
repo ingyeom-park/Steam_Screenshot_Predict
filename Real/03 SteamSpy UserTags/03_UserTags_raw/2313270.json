@@ -1,0 +1,26 @@
+{
+  "appid": 2313270,
+  "success": true,
+  "tags": {
+    "Simulation": 146,
+    "Crafting": 140,
+    "RPG": 137,
+    "Fantasy": 133,
+    "Medieval": 129,
+    "Indie": 122,
+    "Stylized": 119,
+    "Singleplayer": 117,
+    "Mining": 112,
+    "3D": 107,
+    "First-Person": 102,
+    "Immersive Sim": 97,
+    "Controller": 91,
+    "PvE": 89,
+    "Atmospheric": 87,
+    "Magic": 85,
+    "Management": 83,
+    "Inventory Management": 81,
+    "Puzzle": 78,
+    "Casual": 74
+  }
+}

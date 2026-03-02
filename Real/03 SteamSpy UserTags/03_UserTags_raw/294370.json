@@ -1,0 +1,26 @@
+{
+  "appid": 294370,
+  "success": true,
+  "tags": {
+    "Strategy": 116,
+    "RPG": 111,
+    "Indie": 106,
+    "Rogue-like": 104,
+    "Turn-Based": 103,
+    "Fantasy": 95,
+    "Perma Death": 91,
+    "Hex Grid": 89,
+    "Procedural Generation": 81,
+    "Rogue-lite": 78,
+    "Turn-Based Strategy": 74,
+    "Singleplayer": 72,
+    "Turn-Based Tactics": 71,
+    "Tactical": 65,
+    "Turn-Based Combat": 56,
+    "Cartoony": 49,
+    "Medieval": 42,
+    "Touch-Friendly": 34,
+    "Board Game": 31,
+    "Tabletop": 30
+  }
+}

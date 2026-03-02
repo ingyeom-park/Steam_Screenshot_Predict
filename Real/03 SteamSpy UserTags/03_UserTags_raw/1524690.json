@@ -1,0 +1,25 @@
+{
+  "appid": 1524690,
+  "success": true,
+  "tags": {
+    "Chess": 142,
+    "Puzzle": 136,
+    "Strategy": 133,
+    "Board Game": 130,
+    "Minimalist": 127,
+    "Sokoban": 120,
+    "Logic": 118,
+    "Programming": 114,
+    "Grid-Based Movement": 105,
+    "Relaxing": 98,
+    "Tabletop": 95,
+    "Point & Click": 88,
+    "Turn-Based Strategy": 80,
+    "Turn-Based Tactics": 73,
+    "Singleplayer": 66,
+    "Casual": 51,
+    "Indie": 49,
+    "3D": 29,
+    "Family Friendly": 28
+  }
+}

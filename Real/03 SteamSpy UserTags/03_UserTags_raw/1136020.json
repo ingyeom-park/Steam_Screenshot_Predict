@@ -1,0 +1,26 @@
+{
+  "appid": 1136020,
+  "success": true,
+  "tags": {
+    "Cooking": 158,
+    "Casual": 140,
+    "Indie": 137,
+    "Action": 134,
+    "Co-op": 131,
+    "Multiplayer": 125,
+    "Online Co-Op": 122,
+    "Hack and Slash": 120,
+    "4 Player Local": 115,
+    "Local Co-Op": 109,
+    "Arcade": 106,
+    "Adventure": 97,
+    "Simulation": 87,
+    "Cartoon": 80,
+    "Cartoony": 77,
+    "Singleplayer": 74,
+    "PvP": 71,
+    "Funny": 69,
+    "Colorful": 65,
+    "Violent": 63
+  }
+}

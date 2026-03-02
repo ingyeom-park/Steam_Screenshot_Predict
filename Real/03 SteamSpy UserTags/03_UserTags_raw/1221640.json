@@ -1,0 +1,26 @@
+{
+  "appid": 1221640,
+  "success": true,
+  "tags": {
+    "PvP": 238,
+    "4 Player Local": 232,
+    "Physics": 229,
+    "Arcade": 224,
+    "Family Friendly": 220,
+    "Funny": 214,
+    "Multiplayer": 212,
+    "2D": 210,
+    "Cute": 208,
+    "Casual": 205,
+    "Comedy": 201,
+    "Local Multiplayer": 196,
+    "Cartoony": 192,
+    "Indie": 190,
+    "Colorful": 187,
+    "Singleplayer": 183,
+    "Local Co-Op": 175,
+    "Cooking": 166,
+    "Survival": 128,
+    "Quick-Time Events": 56
+  }
+}

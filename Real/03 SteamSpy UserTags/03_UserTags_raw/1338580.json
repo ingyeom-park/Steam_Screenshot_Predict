@@ -1,0 +1,26 @@
+{
+  "appid": 1338580,
+  "success": true,
+  "tags": {
+    "Adventure": 133,
+    "Pixel Graphics": 128,
+    "Point & Click": 127,
+    "Funny": 123,
+    "2D": 118,
+    "Casual": 107,
+    "Puzzle": 84,
+    "Comedy": 73,
+    "Indie": 65,
+    "Singleplayer": 64,
+    "Minigames": 61,
+    "Exploration": 50,
+    "Choose Your Own Adventure": 50,
+    "2D Platformer": 49,
+    "Cartoony": 47,
+    "Sci-fi": 39,
+    "Surreal": 38,
+    "Linear": 32,
+    "Multiple Endings": 31,
+    "Story Rich": 30
+  }
+}

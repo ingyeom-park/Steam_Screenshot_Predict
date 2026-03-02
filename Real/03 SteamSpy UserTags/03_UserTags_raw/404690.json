@@ -1,0 +1,16 @@
+{
+  "appid": 404690,
+  "success": true,
+  "tags": {
+    "Indie": 33,
+    "Adventure": 28,
+    "Interactive Fiction": 25,
+    "Horror": 23,
+    "Dungeon Crawler": 23,
+    "Choose Your Own Adventure": 21,
+    "RPG": 9,
+    "Lovecraftian": 9,
+    "Text-Based": 9,
+    "Pixel Graphics": 7
+  }
+}

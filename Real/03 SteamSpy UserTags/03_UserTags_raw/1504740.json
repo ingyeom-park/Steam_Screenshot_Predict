@@ -1,0 +1,26 @@
+{
+  "appid": 1504740,
+  "success": true,
+  "tags": {
+    "Simulation": 109,
+    "Horror": 106,
+    "Exploration": 103,
+    "Walking Simulator": 98,
+    "3D Platformer": 90,
+    "Cinematic": 83,
+    "First-Person": 80,
+    "Psychological Horror": 75,
+    "Psychedelic": 75,
+    "Realistic": 73,
+    "Indie": 69,
+    "Violent": 59,
+    "Thriller": 54,
+    "Story Rich": 51,
+    "Singleplayer": 49,
+    "Dark Humor": 42,
+    "Nudity": 34,
+    "Dark": 13,
+    "Short": 12,
+    "Atmospheric": 11
+  }
+}

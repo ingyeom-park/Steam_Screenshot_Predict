@@ -1,0 +1,26 @@
+{
+  "appid": 24420,
+  "success": true,
+  "tags": {
+    "Metroidvania": 217,
+    "Indie": 180,
+    "Exploration": 174,
+    "Female Protagonist": 173,
+    "Great Soundtrack": 149,
+    "Underwater": 141,
+    "Adventure": 139,
+    "2D": 105,
+    "Singleplayer": 102,
+    "Beautiful": 96,
+    "Action": 64,
+    "Fantasy": 60,
+    "Atmospheric": 41,
+    "Immersive": 38,
+    "Open World": 28,
+    "Side Scroller": 25,
+    "Story Rich": 23,
+    "Philosophical": 22,
+    "Platformer": 20,
+    "Puzzle": 13
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1710670,
+  "success": true,
+  "tags": {
+    "Violent": 310,
+    "VR": 286,
+    "Swordplay": 278,
+    "Action": 275,
+    "Co-op Campaign": 272,
+    "Hack and Slash": 269,
+    "Magic": 258,
+    "Co-op": 255,
+    "Multiplayer": 254,
+    "Singleplayer": 250,
+    "First-Person": 248,
+    "Action RPG": 241,
+    "RPG": 239,
+    "Adventure": 233,
+    "Exploration": 228,
+    "Fantasy": 227,
+    "Zombies": 224,
+    "Puzzle": 219,
+    "Souls-like": 201,
+    "Indie": 198
+  }
+}

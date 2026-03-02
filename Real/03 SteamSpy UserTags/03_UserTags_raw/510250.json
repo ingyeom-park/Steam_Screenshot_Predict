@@ -1,0 +1,12 @@
+{
+  "appid": 510250,
+  "success": true,
+  "tags": {
+    "Action": 24,
+    "Casual": 23,
+    "Indie": 22,
+    "Adventure": 21,
+    "Arcade": 8,
+    "Shoot 'Em Up": 7
+  }
+}

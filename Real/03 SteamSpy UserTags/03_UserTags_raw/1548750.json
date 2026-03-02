@@ -1,0 +1,26 @@
+{
+  "appid": 1548750,
+  "success": true,
+  "tags": {
+    "Investigation": 242,
+    "Puzzle": 236,
+    "Cinematic": 233,
+    "Detective": 230,
+    "Exploration": 226,
+    "Story Rich": 217,
+    "Thriller": 215,
+    "Mystery": 210,
+    "Noir": 204,
+    "Atmospheric": 195,
+    "Conversation": 187,
+    "Drama": 183,
+    "Interactive Fiction": 180,
+    "Third Person": 179,
+    "Emotional": 176,
+    "Narration": 170,
+    "Crime": 166,
+    "Psychological": 155,
+    "Singleplayer": 153,
+    "Choices Matter": 152
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 3012630,
+  "success": true,
+  "tags": {
+    "Casual": 121,
+    "RPG": 114,
+    "JRPG": 109,
+    "2D": 104,
+    "2D Platformer": 104,
+    "Anime": 98,
+    "Cute": 91,
+    "Colorful": 89,
+    "Hand-drawn": 86,
+    "Drama": 85,
+    "Relaxing": 83,
+    "Funny": 81,
+    "Atmospheric": 78,
+    "Singleplayer": 77,
+    "Indie": 75,
+    "Interactive Fiction": 61,
+    "Visual Novel": 59,
+    "Comedy": 57,
+    "Dating Sim": 55,
+    "Romance": 53
+  }
+}

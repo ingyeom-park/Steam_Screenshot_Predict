@@ -1,0 +1,26 @@
+{
+  "appid": 589200,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 169,
+    "Horror": 163,
+    "Perma Death": 160,
+    "VR": 158,
+    "Action-Adventure": 154,
+    "Rogue-like": 148,
+    "First-Person": 146,
+    "Survival Horror": 144,
+    "Procedural Generation": 142,
+    "Atmospheric": 140,
+    "Survival": 138,
+    "Psychological Horror": 136,
+    "Mystery": 134,
+    "Action": 132,
+    "Adventure": 126,
+    "Singleplayer": 119,
+    "Immersive": 104,
+    "Indie": 89,
+    "Multiplayer": 74,
+    "Escape Room": 58
+  }
+}

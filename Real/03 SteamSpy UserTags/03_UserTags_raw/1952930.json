@@ -1,0 +1,25 @@
+{
+  "appid": 1952930,
+  "success": true,
+  "tags": {
+    "Strategy": 281,
+    "Rogue-like": 252,
+    "RPG": 251,
+    "Indie": 246,
+    "Strategy RPG": 242,
+    "Adventure": 233,
+    "Turn-Based Strategy": 204,
+    "Board Game": 197,
+    "Tabletop": 186,
+    "Turn-Based Tactics": 177,
+    "Rogue-lite": 166,
+    "2D": 161,
+    "Anime": 146,
+    "Colorful": 132,
+    "Third Person": 115,
+    "Magic": 99,
+    "Dark": 81,
+    "Turn-Based Combat": 65,
+    "Singleplayer": 61
+  }
+}

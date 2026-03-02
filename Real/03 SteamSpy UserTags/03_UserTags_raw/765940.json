@@ -1,0 +1,26 @@
+{
+  "appid": 765940,
+  "success": true,
+  "tags": {
+    "Casual": 81,
+    "Puzzle": 60,
+    "Indie": 60,
+    "Sokoban": 58,
+    "Minimalist": 55,
+    "Difficult": 52,
+    "Singleplayer": 46,
+    "2D": 44,
+    "Logic": 42,
+    "Turn-Based Strategy": 38,
+    "Abstract": 36,
+    "Top-Down": 34,
+    "Cute": 32,
+    "Pixel Graphics": 30,
+    "Colorful": 28,
+    "Retro": 26,
+    "Modern": 24,
+    "1990's": 22,
+    "Atmospheric": 20,
+    "Old School": 18
+  }
+}

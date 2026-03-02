@@ -1,0 +1,26 @@
+{
+  "appid": 465760,
+  "success": true,
+  "tags": {
+    "Adventure": 65,
+    "Indie": 63,
+    "Action": 58,
+    "Robots": 45,
+    "3D Platformer": 44,
+    "Exploration": 41,
+    "Singleplayer": 38,
+    "Post-apocalyptic": 37,
+    "Third Person": 36,
+    "Family Friendly": 35,
+    "Cute": 34,
+    "Atmospheric": 33,
+    "Dragons": 31,
+    "Controller": 28,
+    "Physics": 27,
+    "Short": 20,
+    "Casual": 20,
+    "Platformer": 18,
+    "Puzzle-Platformer": 18,
+    "Puzzle": 15
+  }
+}

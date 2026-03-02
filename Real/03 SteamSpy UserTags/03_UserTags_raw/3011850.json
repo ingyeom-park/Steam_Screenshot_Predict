@@ -1,0 +1,26 @@
+{
+  "appid": 3011850,
+  "success": true,
+  "tags": {
+    "Horror": 154,
+    "Survival Horror": 148,
+    "Psychological Horror": 145,
+    "Adventure": 142,
+    "Third Person": 139,
+    "3D": 133,
+    "Realistic": 129,
+    "Atmospheric": 127,
+    "Cinematic": 125,
+    "Dark": 117,
+    "Action": 109,
+    "Demons": 102,
+    "Singleplayer": 100,
+    "Simulation": 93,
+    "Walking Simulator": 85,
+    "3D Platformer": 75,
+    "FMV": 69,
+    "Stealth": 65,
+    "Indie": 58,
+    "Gore": 53
+  }
+}

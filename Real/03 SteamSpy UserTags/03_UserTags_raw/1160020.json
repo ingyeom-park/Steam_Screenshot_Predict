@@ -1,0 +1,24 @@
+{
+  "appid": 1160020,
+  "success": true,
+  "tags": {
+    "Indie": 54,
+    "Action": 54,
+    "Adventure": 49,
+    "RPG": 49,
+    "Pixel Graphics": 17,
+    "Side Scroller": 17,
+    "Rogue-lite": 15,
+    "2D": 13,
+    "Atmospheric": 13,
+    "Singleplayer": 13,
+    "Dark": 13,
+    "Dark Fantasy": 13,
+    "Action Roguelike": 13,
+    "Rogue-like": 12,
+    "GameMaker": 12,
+    "Exploration": 11,
+    "Female Protagonist": 10,
+    "Souls-like": 5
+  }
+}

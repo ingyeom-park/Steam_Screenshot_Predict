@@ -1,0 +1,17 @@
+{
+  "appid": 589500,
+  "success": true,
+  "tags": {
+    "Action": 54,
+    "Adventure": 53,
+    "Indie": 53,
+    "Platformer": 21,
+    "Pixel Graphics": 20,
+    "2D": 17,
+    "Retro": 16,
+    "Great Soundtrack": 12,
+    "Co-op": 11,
+    "Difficult": 10,
+    "Singleplayer": 9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1712050,
+  "success": true,
+  "tags": {
+    "Horror": 530,
+    "Multiplayer": 524,
+    "Online Co-Op": 521,
+    "Survival Horror": 518,
+    "Action": 515,
+    "Co-op": 513,
+    "Dark": 507,
+    "Atmospheric": 504,
+    "PvP": 501,
+    "PvE": 497,
+    "Puzzle": 494,
+    "Psychological Horror": 487,
+    "Difficult": 486,
+    "Stealth": 480,
+    "First-Person": 479,
+    "Singleplayer": 474,
+    "Indie": 471,
+    "Gore": 462,
+    "Violent": 456,
+    "3D": 454
+  }
+}

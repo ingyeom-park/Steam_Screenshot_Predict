@@ -1,0 +1,26 @@
+{
+  "appid": 1791680,
+  "success": true,
+  "tags": {
+    "Horror": 150,
+    "Sandbox": 145,
+    "Stealth": 141,
+    "Action-Adventure": 139,
+    "Strategy": 129,
+    "First-Person": 127,
+    "Exploration": 126,
+    "Open World": 123,
+    "Dark Humor": 105,
+    "Controller": 99,
+    "Colorful": 97,
+    "Thriller": 89,
+    "Artificial Intelligence": 86,
+    "Atmospheric": 84,
+    "Survival": 77,
+    "Adventure": 69,
+    "Action": 55,
+    "Singleplayer": 53,
+    "Indie": 50,
+    "Memes": 37
+  }
+}

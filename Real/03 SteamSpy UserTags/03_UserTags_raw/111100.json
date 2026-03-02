@@ -1,0 +1,13 @@
+{
+  "appid": 111100,
+  "success": true,
+  "tags": {
+    "Casual": 48,
+    "Racing": 44,
+    "Indie": 37,
+    "Driving": 19,
+    "Singleplayer": 12,
+    "Level Editor": 10,
+    "2D": 5
+  }
+}

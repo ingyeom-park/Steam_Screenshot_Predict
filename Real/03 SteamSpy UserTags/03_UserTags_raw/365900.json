@@ -1,0 +1,20 @@
+{
+  "appid": 365900,
+  "success": true,
+  "tags": {
+    "Rogue-like": 56,
+    "Pixel Graphics": 53,
+    "RPG": 51,
+    "Dungeon Crawler": 43,
+    "Indie": 40,
+    "Adventure": 38,
+    "Casual": 27,
+    "Difficult": 19,
+    "Singleplayer": 18,
+    "Turn-Based": 11,
+    "Perma Death": 9,
+    "2D": 9,
+    "Traditional Roguelike": 8,
+    "Procedural Generation": 5
+  }
+}

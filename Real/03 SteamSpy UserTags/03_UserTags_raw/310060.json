@@ -1,0 +1,23 @@
+{
+  "appid": 310060,
+  "success": true,
+  "tags": {
+    "RPG": 154,
+    "Turn-Based": 86,
+    "Adventure": 84,
+    "Strategy": 81,
+    "Pixel Graphics": 78,
+    "Indie": 69,
+    "Simulation": 49,
+    "Fantasy": 41,
+    "Singleplayer": 40,
+    "Comedy": 31,
+    "Funny": 27,
+    "Casual": 25,
+    "2D": 21,
+    "Dwarf": 16,
+    "Turn-Based Combat": 13,
+    "Party-Based RPG": 9,
+    "JRPG": 8
+  }
+}

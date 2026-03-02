@@ -1,0 +1,26 @@
+{
+  "appid": 1658290,
+  "success": true,
+  "tags": {
+    "Action RPG": 161,
+    "Adventure": 159,
+    "RPG": 154,
+    "JRPG": 153,
+    "Action-Adventure": 147,
+    "2.5D": 142,
+    "Dungeon Crawler": 132,
+    "Action": 131,
+    "Pixel Graphics": 125,
+    "Singleplayer": 123,
+    "Indie": 118,
+    "Story Rich": 115,
+    "Side Scroller": 104,
+    "Casual": 102,
+    "Arcade": 98,
+    "City Builder": 93,
+    "Exploration": 90,
+    "Anime": 85,
+    "2D": 64,
+    "Building": 51
+  }
+}

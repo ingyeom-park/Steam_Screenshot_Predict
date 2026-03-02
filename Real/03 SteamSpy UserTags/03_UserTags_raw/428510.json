@@ -1,0 +1,26 @@
+{
+  "appid": 428510,
+  "success": true,
+  "tags": {
+    "Indie": 175,
+    "Casual": 164,
+    "Adventure": 161,
+    "Card Game": 158,
+    "Solitaire": 152,
+    "Singleplayer": 148,
+    "Board Game": 135,
+    "Point & Click": 134,
+    "Puzzle": 126,
+    "Exploration": 117,
+    "Cartoony": 113,
+    "2D": 109,
+    "Colorful": 105,
+    "Atmospheric": 103,
+    "Memes": 88,
+    "Emotional": 83,
+    "Fantasy": 80,
+    "Logic": 77,
+    "PvE": 72,
+    "Competitive": 65
+  }
+}

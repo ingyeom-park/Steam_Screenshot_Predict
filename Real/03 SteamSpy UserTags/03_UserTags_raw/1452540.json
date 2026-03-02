@@ -1,0 +1,22 @@
+{
+  "appid": 1452540,
+  "success": true,
+  "tags": {
+    "Action": 64,
+    "Puzzle": 50,
+    "Platformer": 41,
+    "Pixel Graphics": 40,
+    "Puzzle-Platformer": 37,
+    "Romance": 29,
+    "Cats": 27,
+    "Singleplayer": 26,
+    "Split Screen": 25,
+    "Casual": 23,
+    "2D Platformer": 22,
+    "Indie": 21,
+    "Adventure": 20,
+    "2D": 20,
+    "Linear": 17,
+    "Difficult": 15
+  }
+}

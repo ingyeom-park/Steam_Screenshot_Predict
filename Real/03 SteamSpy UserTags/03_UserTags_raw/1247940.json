@@ -1,0 +1,26 @@
+{
+  "appid": 1247940,
+  "success": true,
+  "tags": {
+    "Adventure": 206,
+    "Point & Click": 200,
+    "Detective": 199,
+    "Indie": 194,
+    "Puzzle": 192,
+    "Mystery": 183,
+    "Hacking": 178,
+    "Story Rich": 176,
+    "Crime": 165,
+    "Thriller": 158,
+    "Immersive": 153,
+    "Narrative": 149,
+    "Logic": 143,
+    "Investigation": 135,
+    "Conspiracy": 126,
+    "Singleplayer": 116,
+    "Dark": 103,
+    "Emotional": 88,
+    "Hidden Object": 76,
+    "Simulation": 69
+  }
+}

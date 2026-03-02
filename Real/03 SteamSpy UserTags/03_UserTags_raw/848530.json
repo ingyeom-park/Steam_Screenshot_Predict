@@ -1,0 +1,26 @@
+{
+  "appid": 848530,
+  "success": true,
+  "tags": {
+    "Adventure": 182,
+    "Casual": 176,
+    "Indie": 175,
+    "Dystopian ": 170,
+    "Singleplayer": 166,
+    "Puzzle": 160,
+    "Platformer": 157,
+    "2D Platformer": 152,
+    "2D": 147,
+    "Colorful": 139,
+    "Hand-drawn": 132,
+    "Futuristic": 121,
+    "Comedy": 118,
+    "Funny": 113,
+    "Perma Death": 111,
+    "Narration": 108,
+    "Tutorial": 105,
+    "FMV": 94,
+    "Strategy": 85,
+    "Arcade": 84
+  }
+}

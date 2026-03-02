@@ -1,0 +1,26 @@
+{
+  "appid": 1540570,
+  "success": true,
+  "tags": {
+    "Exploration": 123,
+    "Open World": 116,
+    "FPS": 111,
+    "Surreal": 110,
+    "Voxel": 107,
+    "Indie": 100,
+    "Psychedelic": 94,
+    "Adventure": 86,
+    "First-Person": 84,
+    "Nonlinear": 79,
+    "Space Sim": 70,
+    "Space": 69,
+    "Moddable": 64,
+    "3D": 62,
+    "Action": 59,
+    "Singleplayer": 56,
+    "Shooter": 49,
+    "Dungeon Crawler": 44,
+    "Old School": 41,
+    "Combat": 39
+  }
+}

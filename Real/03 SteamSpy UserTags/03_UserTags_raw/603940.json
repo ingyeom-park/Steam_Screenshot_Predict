@@ -1,0 +1,26 @@
+{
+  "appid": 603940,
+  "success": true,
+  "tags": {
+    "Management": 106,
+    "Simulation": 99,
+    "Pixel Graphics": 96,
+    "Resource Management": 92,
+    "Casual": 88,
+    "Indie": 82,
+    "Puzzle": 78,
+    "Capitalism": 74,
+    "Point & Click": 71,
+    "Crafting": 70,
+    "2D": 68,
+    "Economy": 66,
+    "Strategy": 64,
+    "Adventure": 60,
+    "Singleplayer": 45,
+    "Clicker": 41,
+    "Retro": 37,
+    "Family Friendly": 34,
+    "Sandbox": 31,
+    "Character Customization": 28
+  }
+}

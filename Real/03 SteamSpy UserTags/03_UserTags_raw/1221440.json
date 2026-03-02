@@ -1,0 +1,26 @@
+{
+  "appid": 1221440,
+  "success": true,
+  "tags": {
+    "Action": 358,
+    "Adventure": 352,
+    "Indie": 349,
+    "Souls-like": 347,
+    "RPG": 346,
+    "Hack and Slash": 338,
+    "Third Person": 335,
+    "Female Protagonist": 333,
+    "Open World": 329,
+    "Exploration": 327,
+    "Action-Adventure": 324,
+    "Action RPG": 321,
+    "Character Action Game": 318,
+    "3D": 312,
+    "Colorful": 303,
+    "Foreign": 288,
+    "Medieval": 278,
+    "Swordplay": 270,
+    "Fantasy": 266,
+    "Ninja": 263
+  }
+}

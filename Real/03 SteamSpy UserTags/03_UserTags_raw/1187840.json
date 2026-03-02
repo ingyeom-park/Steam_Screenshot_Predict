@@ -1,0 +1,26 @@
+{
+  "appid": 1187840,
+  "success": true,
+  "tags": {
+    "Indie": 376,
+    "Sci-fi": 359,
+    "Exploration": 322,
+    "2D Platformer": 320,
+    "Puzzle-Platformer": 317,
+    "Puzzle": 315,
+    "Platformer": 308,
+    "Action-Adventure": 305,
+    "Casual": 292,
+    "2D": 292,
+    "Post-apocalyptic": 289,
+    "Lore-Rich": 282,
+    "Story Rich": 280,
+    "Narration": 270,
+    "Choices Matter": 258,
+    "Linear": 248,
+    "Multiple Endings": 242,
+    "Action": 236,
+    "Singleplayer": 227,
+    "Adventure": 214
+  }
+}

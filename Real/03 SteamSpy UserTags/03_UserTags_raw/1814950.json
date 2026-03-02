@@ -1,0 +1,26 @@
+{
+  "appid": 1814950,
+  "success": true,
+  "tags": {
+    "Casual": 230,
+    "Strategy": 225,
+    "Puzzle": 216,
+    "Pixel Graphics": 202,
+    "Logic": 195,
+    "2D Platformer": 186,
+    "Relaxing": 178,
+    "2D": 170,
+    "Cute": 162,
+    "Atmospheric": 152,
+    "Retro": 142,
+    "Funny": 130,
+    "Controller": 128,
+    "Physics": 114,
+    "Linear": 99,
+    "Singleplayer": 83,
+    "Abstract": 66,
+    "Arcade": 48,
+    "Difficult": 31,
+    "Indie": 29
+  }
+}

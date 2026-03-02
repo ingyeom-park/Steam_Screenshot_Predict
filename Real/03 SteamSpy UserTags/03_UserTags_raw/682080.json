@@ -1,0 +1,26 @@
+{
+  "appid": 682080,
+  "success": true,
+  "tags": {
+    "Action": 182,
+    "Indie": 176,
+    "Adventure": 174,
+    "Singleplayer": 170,
+    "Difficult": 168,
+    "Fighting": 162,
+    "Funny": 154,
+    "Boxing": 148,
+    "Controller": 141,
+    "Noir": 137,
+    "Stylized": 132,
+    "Third Person": 129,
+    "Action-Adventure": 122,
+    "2D Fighter": 120,
+    "Souls-like": 110,
+    "2D": 100,
+    "Minimalist": 89,
+    "Cartoon": 79,
+    "Cartoony": 75,
+    "Comic Book": 72
+  }
+}

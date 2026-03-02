@@ -1,0 +1,26 @@
+{
+  "appid": 2380320,
+  "success": true,
+  "tags": {
+    "RPG": 388,
+    "Choose Your Own Adventure": 382,
+    "Card Game": 378,
+    "2D": 374,
+    "Funny": 369,
+    "Casual": 359,
+    "Indie": 358,
+    "Multiple Endings": 353,
+    "Adventure": 351,
+    "Simulation": 343,
+    "Singleplayer": 336,
+    "Choices Matter": 333,
+    "Strategy": 330,
+    "Roguelike Deckbuilder": 328,
+    "Story Rich": 324,
+    "Fantasy": 321,
+    "Turn-Based": 318,
+    "Turn-Based Strategy": 316,
+    "Replay Value": 314,
+    "Survival": 311
+  }
+}

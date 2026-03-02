@@ -1,0 +1,26 @@
+{
+  "appid": 1108370,
+  "success": true,
+  "tags": {
+    "2D": 303,
+    "Deckbuilding": 263,
+    "Card Battler": 257,
+    "Rogue-lite": 255,
+    "Strategy": 249,
+    "Singleplayer": 242,
+    "Card Game": 240,
+    "Simulation": 236,
+    "Replay Value": 227,
+    "Real Time Tactics": 219,
+    "Fantasy": 207,
+    "Rogue-like": 206,
+    "Difficult": 198,
+    "Casual": 196,
+    "Survival": 187,
+    "Roguelike Deckbuilder": 179,
+    "Mouse only": 168,
+    "Tower Defense": 163,
+    "Indie": 141,
+    "City Builder": 112
+  }
+}

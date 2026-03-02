@@ -1,0 +1,26 @@
+{
+  "appid": 1744120,
+  "success": true,
+  "tags": {
+    "Adventure": 107,
+    "Action-Adventure": 101,
+    "Exploration": 98,
+    "3D": 95,
+    "First-Person": 91,
+    "Zombies": 85,
+    "Psychological": 83,
+    "Action": 80,
+    "Survival Horror": 78,
+    "Indie": 76,
+    "Horror": 74,
+    "PvP": 74,
+    "Choices Matter": 70,
+    "Singleplayer": 68,
+    "Story Rich": 53,
+    "PvE": 51,
+    "Stealth": 49,
+    "Massively Multiplayer": 47,
+    "Casual": 26,
+    "Gore": 20
+  }
+}

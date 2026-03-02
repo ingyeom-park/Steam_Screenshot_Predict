@@ -1,0 +1,26 @@
+{
+  "appid": 684000,
+  "success": true,
+  "tags": {
+    "RPG": 185,
+    "Open World": 179,
+    "Indie": 175,
+    "Surreal": 174,
+    "Atmospheric": 168,
+    "Dark Fantasy": 163,
+    "Horror": 158,
+    "Comedy": 154,
+    "RPGMaker": 151,
+    "Dungeon Crawler": 142,
+    "Story Rich": 139,
+    "2D": 129,
+    "Building": 124,
+    "Psychological Horror": 117,
+    "Singleplayer": 108,
+    "Difficult": 104,
+    "Adventure": 95,
+    "Funny": 91,
+    "Party-Based RPG": 85,
+    "JRPG": 80
+  }
+}

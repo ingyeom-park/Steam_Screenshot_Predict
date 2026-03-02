@@ -1,0 +1,26 @@
+{
+  "appid": 209830,
+  "success": true,
+  "tags": {
+    "Horror": 171,
+    "Indie": 151,
+    "Survival Horror": 132,
+    "Pixel Graphics": 128,
+    "Adventure": 122,
+    "Atmospheric": 97,
+    "2D": 76,
+    "RPG": 64,
+    "Action": 60,
+    "Psychological Horror": 55,
+    "Great Soundtrack": 52,
+    "Dark": 51,
+    "Singleplayer": 44,
+    "Zombies": 42,
+    "Simulation": 41,
+    "Retro": 38,
+    "Survival": 33,
+    "Side Scroller": 24,
+    "Exploration": 13,
+    "Story Rich": 7
+  }
+}

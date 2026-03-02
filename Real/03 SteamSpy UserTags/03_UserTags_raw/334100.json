@@ -1,0 +1,18 @@
+{
+  "appid": 334100,
+  "success": true,
+  "tags": {
+    "Indie": 33,
+    "Casual": 23,
+    "Action": 22,
+    "Adventure": 21,
+    "Platformer": 15,
+    "Co-op": 13,
+    "Multiplayer": 12,
+    "4 Player Local": 11,
+    "Horror": 10,
+    "Pixel Graphics": 9,
+    "2D": 7,
+    "Local Multiplayer": 7
+  }
+}

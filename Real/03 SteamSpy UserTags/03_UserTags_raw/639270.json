@@ -1,0 +1,26 @@
+{
+  "appid": 639270,
+  "success": true,
+  "tags": {
+    "Action": 35,
+    "Simulation": 35,
+    "Indie": 34,
+    "VR": 34,
+    "Adventure": 33,
+    "Casual": 33,
+    "Violent": 13,
+    "FPS": 12,
+    "Shooter": 12,
+    "Military": 12,
+    "Horror": 11,
+    "Arcade": 11,
+    "First-Person": 11,
+    "Gun Customization": 11,
+    "Competitive": 10,
+    "Sci-fi": 10,
+    "Retro": 10,
+    "Funny": 10,
+    "Gore": 10,
+    "Memes": 10
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 462860,
+  "success": true,
+  "tags": {
+    "Action": 52,
+    "RPG": 52,
+    "Indie": 51,
+    "Action Roguelike": 46,
+    "2D": 26,
+    "Pixel Graphics": 24,
+    "Multiplayer": 23,
+    "Procedural Generation": 23,
+    "Co-op": 22,
+    "Adventure": 21,
+    "Controller": 21,
+    "Local Multiplayer": 21,
+    "Retro": 21,
+    "Rogue-lite": 21,
+    "Dungeon Crawler": 21,
+    "Action-Adventure": 20,
+    "Magic": 20,
+    "Experience": 20,
+    "Split Screen": 20,
+    "Gaming": 20
+  }
+}

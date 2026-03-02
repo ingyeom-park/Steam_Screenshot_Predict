@@ -1,0 +1,12 @@
+{
+  "appid": 611630,
+  "success": true,
+  "tags": {
+    "Action": 32,
+    "Adventure": 32,
+    "Strategy": 31,
+    "Indie": 31,
+    "Casual": 31,
+    "Horror": 12
+  }
+}

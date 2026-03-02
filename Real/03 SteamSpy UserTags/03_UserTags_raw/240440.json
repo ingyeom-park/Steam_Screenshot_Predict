@@ -1,0 +1,26 @@
+{
+  "appid": 240440,
+  "success": true,
+  "tags": {
+    "Hacking": 130,
+    "Adventure": 128,
+    "Cyberpunk": 124,
+    "Heist": 119,
+    "Programming": 117,
+    "First-Person": 106,
+    "Female Protagonist": 104,
+    "Singleplayer": 100,
+    "Atmospheric": 95,
+    "Sci-fi": 89,
+    "Story Rich": 82,
+    "Immersive Sim": 81,
+    "Indie": 76,
+    "Short": 71,
+    "Puzzle": 67,
+    "Action": 56,
+    "Typing": 35,
+    "Casual": 32,
+    "Exploration": 31,
+    "3D Platformer": 25
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 809310,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 69,
+    "Action": 56,
+    "Indie": 45,
+    "Simulation": 43,
+    "Strategy": 41,
+    "Sandbox": 39,
+    "Underwater": 36,
+    "Building": 34,
+    "Rogue-lite": 33,
+    "Survival": 25,
+    "Physics": 22,
+    "Nature": 22,
+    "Perma Death": 22,
+    "Atmospheric": 21,
+    "Singleplayer": 21,
+    "Dark Fantasy": 21,
+    "Level Editor": 21,
+    "Real-Time with Pause": 20,
+    "Sci-fi": 13,
+    "Early Access": 9
+  }
+}

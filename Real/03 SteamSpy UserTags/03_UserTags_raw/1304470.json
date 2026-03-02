@@ -1,0 +1,26 @@
+{
+  "appid": 1304470,
+  "success": true,
+  "tags": {
+    "Adventure": 113,
+    "Simulation": 105,
+    "RPG": 100,
+    "Casual": 97,
+    "Indie": 91,
+    "Dungeon Crawler": 89,
+    "2D": 87,
+    "Fantasy": 82,
+    "Action": 80,
+    "Loot": 74,
+    "Retro": 71,
+    "Combat": 67,
+    "Mining": 65,
+    "Fishing": 63,
+    "Action RPG": 61,
+    "Farming Sim": 59,
+    "Action-Adventure": 57,
+    "Exploration": 56,
+    "Third Person": 53,
+    "Singleplayer": 50
+  }
+}

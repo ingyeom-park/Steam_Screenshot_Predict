@@ -1,0 +1,26 @@
+{
+  "appid": 565720,
+  "success": true,
+  "tags": {
+    "Casual": 162,
+    "Anime": 156,
+    "Arcade": 153,
+    "Sexual Content": 151,
+    "Puzzle": 147,
+    "Singleplayer": 141,
+    "Mature": 135,
+    "Action": 133,
+    "2D": 128,
+    "Nudity": 121,
+    "Visual Novel": 113,
+    "2D Platformer": 109,
+    "Puzzle-Platformer": 107,
+    "Comedy": 100,
+    "Funny": 89,
+    "Psychological Horror": 81,
+    "Score Attack": 76,
+    "Indie": 71,
+    "Fast-Paced": 69,
+    "Replay Value": 65
+  }
+}

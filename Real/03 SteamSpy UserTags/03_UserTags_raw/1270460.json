@@ -1,0 +1,26 @@
+{
+  "appid": 1270460,
+  "success": true,
+  "tags": {
+    "Indie": 326,
+    "Platformer": 320,
+    "Fast-Paced": 317,
+    "Parkour": 312,
+    "Action": 306,
+    "VR": 306,
+    "Stylized": 298,
+    "Time Attack": 292,
+    "3D Platformer": 288,
+    "Family Friendly": 278,
+    "Arcade": 267,
+    "Action-Adventure": 256,
+    "Racing": 253,
+    "Physics": 243,
+    "First-Person": 238,
+    "Funny": 223,
+    "Cartoony": 220,
+    "Colorful": 201,
+    "Singleplayer": 182,
+    "Strategy": 166
+  }
+}

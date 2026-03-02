@@ -1,0 +1,26 @@
+{
+  "appid": 1922020,
+  "success": true,
+  "tags": {
+    "City Builder": 184,
+    "Logic": 180,
+    "Strategy": 177,
+    "Puzzle": 174,
+    "Relaxing": 171,
+    "Indie": 162,
+    "Building": 160,
+    "Sandbox": 155,
+    "Atmospheric": 151,
+    "Turn-Based Tactics": 149,
+    "Turn-Based Strategy": 147,
+    "Nature": 144,
+    "3D": 140,
+    "Cute": 136,
+    "Controller": 134,
+    "Casual": 125,
+    "Procedural Generation": 110,
+    "Singleplayer": 97,
+    "Colorful": 81,
+    "Minimalist": 75
+  }
+}

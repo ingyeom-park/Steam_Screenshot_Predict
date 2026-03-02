@@ -1,0 +1,24 @@
+{
+  "appid": 585020,
+  "success": true,
+  "tags": {
+    "Strategy": 116,
+    "Rogue-lite": 105,
+    "Turn-Based Combat": 100,
+    "Rogue-like": 94,
+    "Voxel": 93,
+    "Card Game": 88,
+    "Board Game": 87,
+    "Casual": 86,
+    "Card Battler": 82,
+    "3D": 81,
+    "Combat": 77,
+    "Singleplayer": 72,
+    "Experimental": 70,
+    "Turn-Based Strategy": 67,
+    "Early Access": 56,
+    "RTS": 34,
+    "Tabletop": 30,
+    "Indie": 22
+  }
+}

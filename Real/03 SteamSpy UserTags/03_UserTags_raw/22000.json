@@ -1,0 +1,26 @@
+{
+  "appid": 22000,
+  "success": true,
+  "tags": {
+    "Puzzle": 516,
+    "Indie": 419,
+    "Physics": 378,
+    "Singleplayer": 290,
+    "Great Soundtrack": 269,
+    "Casual": 214,
+    "2D": 194,
+    "Cute": 130,
+    "Comedy": 119,
+    "Building": 116,
+    "Atmospheric": 90,
+    "Funny": 88,
+    "Classic": 83,
+    "Satire": 83,
+    "Touch-Friendly": 72,
+    "Surreal": 72,
+    "Difficult": 65,
+    "Story Rich": 59,
+    "Strategy": 44,
+    "Family Friendly": 31
+  }
+}

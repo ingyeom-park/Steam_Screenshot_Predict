@@ -1,0 +1,26 @@
+{
+  "appid": 1517970,
+  "success": true,
+  "tags": {
+    "Metroidvania": 177,
+    "Difficult": 161,
+    "Souls-like": 160,
+    "Platformer": 160,
+    "Precision Platformer": 151,
+    "Soundtrack": 147,
+    "2D": 139,
+    "Action-Adventure": 133,
+    "Indie": 128,
+    "Exploration": 124,
+    "Atmospheric": 124,
+    "Singleplayer": 120,
+    "Puzzle-Platformer": 117,
+    "Hand-drawn": 116,
+    "Side Scroller": 114,
+    "Open World": 108,
+    "Anime": 107,
+    "Story Rich": 98,
+    "Controller": 97,
+    "Action": 96
+  }
+}

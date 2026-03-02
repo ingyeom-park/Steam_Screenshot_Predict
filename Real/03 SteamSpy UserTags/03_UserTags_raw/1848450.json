@@ -1,0 +1,24 @@
+{
+  "appid": 1848450,
+  "success": true,
+  "tags": {
+    "Action": 85,
+    "Horror": 81,
+    "FPS": 75,
+    "Survival Horror": 74,
+    "Zombies": 64,
+    "First-Person": 59,
+    "1990's": 59,
+    "Action-Adventure": 55,
+    "Indie": 54,
+    "Gore": 54,
+    "Retro": 51,
+    "Violent": 47,
+    "Adventure": 38,
+    "Singleplayer": 38,
+    "Demons": 33,
+    "Survival": 33,
+    "Combat": 26,
+    "PvE": 23
+  }
+}

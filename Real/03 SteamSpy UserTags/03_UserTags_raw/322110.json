@@ -1,0 +1,26 @@
+{
+  "appid": 322110,
+  "success": true,
+  "tags": {
+    "Platformer": 173,
+    "Action Roguelike": 160,
+    "Action": 126,
+    "2D Platformer": 123,
+    "Rogue-lite": 119,
+    "2D": 97,
+    "Online Co-Op": 96,
+    "Indie": 90,
+    "Female Protagonist": 77,
+    "Local Co-Op": 73,
+    "Side Scroller": 67,
+    "Great Soundtrack": 66,
+    "Multiplayer": 63,
+    "Controller": 62,
+    "Local Multiplayer": 59,
+    "Procedural Generation": 58,
+    "Co-op": 56,
+    "Singleplayer": 52,
+    "Rogue-like": 51,
+    "Difficult": 47
+  }
+}

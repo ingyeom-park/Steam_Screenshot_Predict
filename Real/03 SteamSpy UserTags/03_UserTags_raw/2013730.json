@@ -1,0 +1,26 @@
+{
+  "appid": 2013730,
+  "success": true,
+  "tags": {
+    "Sandbox": 222,
+    "City Builder": 207,
+    "Relaxing": 200,
+    "Simulation": 192,
+    "Building": 187,
+    "Cute": 167,
+    "Colorful": 161,
+    "Cozy": 144,
+    "Pixel Graphics": 143,
+    "Open World": 130,
+    "Clicker": 126,
+    "Atmospheric": 123,
+    "Procedural Generation": 121,
+    "Singleplayer": 118,
+    "Casual": 111,
+    "Isometric": 91,
+    "Indie": 88,
+    "Family Friendly": 63,
+    "Dog": 52,
+    "2D": 32
+  }
+}

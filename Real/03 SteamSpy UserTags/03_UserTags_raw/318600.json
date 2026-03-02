@@ -1,0 +1,26 @@
+{
+  "appid": 318600,
+  "success": true,
+  "tags": {
+    "Survival": 295,
+    "Adventure": 207,
+    "Action Roguelike": 201,
+    "Indie": 162,
+    "Great Soundtrack": 144,
+    "Crafting": 120,
+    "Female Protagonist": 112,
+    "Exploration": 103,
+    "Action": 93,
+    "Atmospheric": 88,
+    "Post-apocalyptic": 88,
+    "Singleplayer": 76,
+    "Rogue-like": 63,
+    "Rogue-lite": 50,
+    "Difficult": 42,
+    "Open World": 36,
+    "Isometric": 28,
+    "Strategy": 17,
+    "Kickstarter": 12,
+    "Third Person": 8
+  }
+}

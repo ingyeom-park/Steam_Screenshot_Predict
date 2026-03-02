@@ -1,0 +1,26 @@
+{
+  "appid": 1585910,
+  "success": true,
+  "tags": {
+    "Dice": 160,
+    "Roguelike Deckbuilder": 155,
+    "Strategy": 150,
+    "Replay Value": 146,
+    "Score Attack": 142,
+    "Relaxing": 133,
+    "Minimalist": 128,
+    "Gambling": 125,
+    "Puzzle": 122,
+    "Deckbuilding": 117,
+    "Procedural Generation": 113,
+    "Indie": 110,
+    "Choices Matter": 108,
+    "Casual": 106,
+    "Solitaire": 97,
+    "Board Game": 93,
+    "Arcade": 90,
+    "Rogue-like": 84,
+    "Singleplayer": 79,
+    "Family Friendly": 72
+  }
+}

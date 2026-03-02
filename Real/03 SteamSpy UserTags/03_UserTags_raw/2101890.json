@@ -1,0 +1,25 @@
+{
+  "appid": 2101890,
+  "success": true,
+  "tags": {
+    "Horror": 172,
+    "Exploration": 172,
+    "Puzzle": 161,
+    "Action-Adventure": 150,
+    "Open World": 149,
+    "First-Person": 139,
+    "Realistic": 136,
+    "3D": 127,
+    "Action": 118,
+    "Controller": 112,
+    "Nonlinear": 97,
+    "Fantasy": 89,
+    "Adventure": 84,
+    "Atmospheric": 75,
+    "Supernatural": 46,
+    "Singleplayer": 44,
+    "Survival Horror": 41,
+    "Indie": 27,
+    "Multiplayer": 20
+  }
+}

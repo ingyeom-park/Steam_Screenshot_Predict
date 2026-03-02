@@ -1,0 +1,26 @@
+{
+  "appid": 262590,
+  "success": true,
+  "tags": {
+    "Puzzle": 143,
+    "Sokoban": 138,
+    "Difficult": 135,
+    "Level Editor": 132,
+    "Building": 129,
+    "Kickstarter": 116,
+    "Logic": 112,
+    "Strategy": 111,
+    "Family Friendly": 108,
+    "3D": 106,
+    "Top-Down": 103,
+    "Indie": 101,
+    "Singleplayer": 99,
+    "Cartoony": 96,
+    "Cute": 93,
+    "Grid-Based Movement": 71,
+    "Action": 55,
+    "Old School": 31,
+    "Crowdfunded": 25,
+    "Adventure": 23
+  }
+}

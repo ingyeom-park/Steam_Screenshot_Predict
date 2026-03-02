@@ -1,0 +1,26 @@
+{
+  "appid": 567080,
+  "success": true,
+  "tags": {
+    "Strategy": 128,
+    "Indie": 122,
+    "Fantasy": 117,
+    "Turn-Based Strategy": 114,
+    "4X": 105,
+    "Procedural Generation": 104,
+    "Turn-Based": 98,
+    "Grand Strategy": 95,
+    "Hex Grid": 90,
+    "2D": 84,
+    "Magic": 78,
+    "Singleplayer": 73,
+    "Old School": 71,
+    "Pixel Graphics": 67,
+    "Strategy RPG": 60,
+    "Hand-drawn": 57,
+    "Dynamic Narration": 55,
+    "Level Editor": 53,
+    "Resource Management": 51,
+    "Turn-Based Combat": 49
+  }
+}

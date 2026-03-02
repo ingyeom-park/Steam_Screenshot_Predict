@@ -1,0 +1,26 @@
+{
+  "appid": 1853760,
+  "success": true,
+  "tags": {
+    "Action": 133,
+    "Adventure": 130,
+    "Action-Adventure": 127,
+    "FPS": 122,
+    "Shooter": 119,
+    "Metroidvania": 118,
+    "Arena Shooter": 102,
+    "Atmospheric": 99,
+    "3D": 96,
+    "Voxel": 95,
+    "First-Person": 90,
+    "Fantasy": 81,
+    "Nature": 81,
+    "Underground": 70,
+    "Nonlinear": 63,
+    "Singleplayer": 60,
+    "Indie": 56,
+    "Souls-like": 43,
+    "Boomer Shooter": 40,
+    "Combat": 34
+  }
+}

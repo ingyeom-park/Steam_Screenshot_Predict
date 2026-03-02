@@ -1,0 +1,23 @@
+{
+  "appid": 2617090,
+  "success": true,
+  "tags": {
+    "Precision Platformer": 125,
+    "2D Platformer": 118,
+    "Puzzle-Platformer": 117,
+    "Puzzle": 109,
+    "Platformer": 106,
+    "2D": 98,
+    "Cute": 96,
+    "Controller": 92,
+    "Action": 87,
+    "Pixel Graphics": 84,
+    "Physics": 71,
+    "Atmospheric": 71,
+    "Adventure": 67,
+    "Retro": 55,
+    "Singleplayer": 54,
+    "Indie": 47,
+    "Level Editor": 12
+  }
+}

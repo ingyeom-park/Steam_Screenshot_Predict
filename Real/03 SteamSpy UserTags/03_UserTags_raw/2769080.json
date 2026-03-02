@@ -1,0 +1,26 @@
+{
+  "appid": 2769080,
+  "success": true,
+  "tags": {
+    "Metroidvania": 141,
+    "Singleplayer": 140,
+    "Exploration": 137,
+    "Platformer": 134,
+    "Adventure": 129,
+    "Action-Adventure": 119,
+    "Action": 116,
+    "Beat 'em up": 109,
+    "Arcade": 107,
+    "2D Platformer": 105,
+    "Atmospheric": 99,
+    "Story Rich": 97,
+    "2D": 92,
+    "2.5D": 86,
+    "Sci-fi": 72,
+    "Realistic": 65,
+    "Stealth": 63,
+    "Indie": 54,
+    "Cinematic": 44,
+    "Survival Horror": 39
+  }
+}

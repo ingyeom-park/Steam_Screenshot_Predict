@@ -1,0 +1,26 @@
+{
+  "appid": 1010070,
+  "success": true,
+  "tags": {
+    "Action": 127,
+    "Indie": 121,
+    "Strategy": 118,
+    "2D": 113,
+    "Side Scroller": 111,
+    "RTS": 105,
+    "Base-Building": 104,
+    "Spectacle fighter": 100,
+    "Wargame": 97,
+    "Hand-drawn": 96,
+    "PvE": 93,
+    "Singleplayer": 89,
+    "Design & Illustration": 83,
+    "Casual": 71,
+    "Story Rich": 58,
+    "Great Soundtrack": 47,
+    "Retro": 36,
+    "Grand Strategy": 30,
+    "Economy": 27,
+    "Physics": 10
+  }
+}

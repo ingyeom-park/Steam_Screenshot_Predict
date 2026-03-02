@@ -1,0 +1,26 @@
+{
+  "appid": 1234430,
+  "success": true,
+  "tags": {
+    "Horror": 149,
+    "Action": 138,
+    "Psychological Horror": 136,
+    "First-Person": 133,
+    "Atmospheric": 127,
+    "Survival Horror": 126,
+    "Singleplayer": 117,
+    "Dark": 115,
+    "Gore": 113,
+    "Survival": 113,
+    "Adventure": 101,
+    "Indie": 91,
+    "World War I": 85,
+    "Story Rich": 79,
+    "Puzzle": 75,
+    "Exploration": 64,
+    "Violent": 62,
+    "Mystery": 62,
+    "War": 51,
+    "Historical": 46
+  }
+}

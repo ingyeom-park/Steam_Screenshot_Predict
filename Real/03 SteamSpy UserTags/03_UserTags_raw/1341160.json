@@ -1,0 +1,26 @@
+{
+  "appid": 1341160,
+  "success": true,
+  "tags": {
+    "Action": 181,
+    "Simulation": 172,
+    "Shooter": 152,
+    "e-sports": 147,
+    "FPS": 140,
+    "Real Time Tactics": 129,
+    "Arena Shooter": 123,
+    "First-Person": 116,
+    "Realistic": 109,
+    "Tactical": 97,
+    "3D": 97,
+    "PvP": 83,
+    "Combat": 70,
+    "Team-Based": 58,
+    "Multiplayer": 44,
+    "Singleplayer": 26,
+    "Local Multiplayer": 25,
+    "Sports": 23,
+    "Indie": 21,
+    "Strategy": 20
+  }
+}

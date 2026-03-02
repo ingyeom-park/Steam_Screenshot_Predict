@@ -1,0 +1,26 @@
+{
+  "appid": 218680,
+  "success": true,
+  "tags": {
+    "Puzzle": 500,
+    "Casual": 421,
+    "Adventure": 394,
+    "Sandbox": 371,
+    "Family Friendly": 370,
+    "Singleplayer": 348,
+    "2D": 292,
+    "Funny": 242,
+    "Comedy": 195,
+    "Open World": 194,
+    "Cute": 172,
+    "Education": 157,
+    "Strategy": 141,
+    "Fantasy": 131,
+    "Moddable": 118,
+    "Platformer": 92,
+    "Replay Value": 78,
+    "Multiplayer": 69,
+    "Action": 67,
+    "Indie": 64
+  }
+}

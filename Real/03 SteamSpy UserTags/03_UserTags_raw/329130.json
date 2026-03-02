@@ -1,0 +1,26 @@
+{
+  "appid": 329130,
+  "success": true,
+  "tags": {
+    "Building": 171,
+    "Space": 161,
+    "Sandbox": 146,
+    "Strategy": 121,
+    "2D": 113,
+    "Action": 105,
+    "Indie": 96,
+    "Singleplayer": 69,
+    "Top-Down": 65,
+    "Open World": 60,
+    "Sci-fi": 55,
+    "Exploration": 54,
+    "Shooter": 41,
+    "Great Soundtrack": 34,
+    "Physics": 24,
+    "Bullet Hell": 19,
+    "Simulation": 14,
+    "Adventure": 14,
+    "Arcade": 12,
+    "Procedural Generation": 8
+  }
+}

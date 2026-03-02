@@ -1,0 +1,25 @@
+{
+  "appid": 2827780,
+  "success": true,
+  "tags": {
+    "Strategy": 119,
+    "Auto Battler": 113,
+    "Deckbuilding": 110,
+    "Rogue-like": 107,
+    "Indie": 105,
+    "Survival": 99,
+    "Singleplayer": 96,
+    "PvE": 92,
+    "Pixel Graphics": 87,
+    "2D": 85,
+    "Top-Down": 79,
+    "Rogue-lite": 76,
+    "Fantasy": 70,
+    "Family Friendly": 65,
+    "Hunting": 54,
+    "Casual": 50,
+    "Choices Matter": 29,
+    "Action": 27,
+    "Souls-like": 24
+  }
+}

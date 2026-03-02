@@ -1,0 +1,23 @@
+{
+  "appid": 2212410,
+  "success": true,
+  "tags": {
+    "Bullet Hell": 100,
+    "Rogue-lite": 93,
+    "Local Co-Op": 91,
+    "Rogue-like": 86,
+    "Auto Battler": 85,
+    "Action Roguelike": 76,
+    "2D": 75,
+    "Top-Down": 72,
+    "Dark Fantasy": 70,
+    "Action": 68,
+    "Atmospheric": 57,
+    "Co-op": 57,
+    "Local Multiplayer": 53,
+    "Multiplayer": 52,
+    "Singleplayer": 49,
+    "Indie": 47,
+    "Fox": 26
+  }
+}

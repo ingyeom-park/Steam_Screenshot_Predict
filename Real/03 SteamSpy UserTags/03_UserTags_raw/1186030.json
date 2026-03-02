@@ -1,0 +1,26 @@
+{
+  "appid": 1186030,
+  "success": true,
+  "tags": {
+    "Horror": 137,
+    "Survival Horror": 132,
+    "Sci-fi": 129,
+    "Atmospheric": 126,
+    "Adventure": 123,
+    "Action": 115,
+    "Indie": 112,
+    "Puzzle": 110,
+    "Arcade": 107,
+    "Singleplayer": 105,
+    "Gore": 104,
+    "Stealth": 102,
+    "Exploration": 98,
+    "Survival": 95,
+    "Psychological Horror": 93,
+    "Dark": 89,
+    "First-Person": 80,
+    "3D": 72,
+    "Walking Simulator": 70,
+    "Multiple Endings": 69
+  }
+}

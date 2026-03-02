@@ -1,0 +1,26 @@
+{
+  "appid": 395570,
+  "success": true,
+  "tags": {
+    "Indie": 576,
+    "Adventure": 200,
+    "Action": 182,
+    "Dwarf": 163,
+    "Singleplayer": 157,
+    "RPG": 141,
+    "Fantasy": 136,
+    "Isometric": 135,
+    "Hack and Slash": 131,
+    "Multiplayer": 128,
+    "Action RPG": 124,
+    "Action Roguelike": 121,
+    "Open World": 118,
+    "Rogue-lite": 115,
+    "Tower Defense": 112,
+    "Exploration": 111,
+    "Crafting": 110,
+    "Online Co-Op": 104,
+    "Co-op": 102,
+    "Strategy": 83
+  }
+}

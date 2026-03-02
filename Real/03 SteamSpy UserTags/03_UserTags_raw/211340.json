@@ -1,0 +1,26 @@
+{
+  "appid": 211340,
+  "success": true,
+  "tags": {
+    "Visual Novel": 206,
+    "Dating Sim": 147,
+    "Female Protagonist": 143,
+    "Anime": 138,
+    "RPG": 120,
+    "Indie": 102,
+    "Fantasy": 93,
+    "Magic": 90,
+    "Adventure": 84,
+    "Otome": 72,
+    "Romance": 70,
+    "Character Customization": 58,
+    "Story Rich": 49,
+    "Singleplayer": 44,
+    "Choices Matter": 35,
+    "LGBTQ+": 33,
+    "Simulation": 31,
+    "Dungeon Crawler": 27,
+    "Puzzle": 27,
+    "Turn-Based": 11
+  }
+}

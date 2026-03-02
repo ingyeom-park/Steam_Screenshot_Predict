@@ -1,0 +1,26 @@
+{
+  "appid": 1315270,
+  "success": true,
+  "tags": {
+    "FPS": 142,
+    "3D Platformer": 135,
+    "Runner": 129,
+    "Real Time Tactics": 125,
+    "Casual": 125,
+    "Sandbox": 117,
+    "War": 111,
+    "Driving": 106,
+    "Physics": 104,
+    "Shooter": 103,
+    "First-Person": 96,
+    "3D": 93,
+    "Funny": 89,
+    "Bullet Time": 88,
+    "Action": 85,
+    "Simulation": 82,
+    "Tactical": 75,
+    "Destruction": 61,
+    "Indie": 52,
+    "Singleplayer": 50
+  }
+}

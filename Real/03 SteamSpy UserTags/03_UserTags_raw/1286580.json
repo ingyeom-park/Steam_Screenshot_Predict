@@ -1,0 +1,26 @@
+{
+  "appid": 1286580,
+  "success": true,
+  "tags": {
+    "Co-op": 195,
+    "Rogue-lite": 159,
+    "Multiplayer": 151,
+    "Rogue-like": 141,
+    "Local Co-Op": 131,
+    "Action": 121,
+    "Action Roguelike": 115,
+    "2D": 112,
+    "Online Co-Op": 95,
+    "Local Multiplayer": 92,
+    "Cute": 90,
+    "Colorful": 84,
+    "Fantasy": 79,
+    "Singleplayer": 50,
+    "Naval Combat": 48,
+    "Indie": 40,
+    "Combat": 35,
+    "Great Soundtrack": 26,
+    "Naval": 22,
+    "Tower Defense": 8
+  }
+}

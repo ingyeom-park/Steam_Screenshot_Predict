@@ -1,0 +1,23 @@
+{
+  "appid": 1005300,
+  "success": true,
+  "tags": {
+    "Trivia": 112,
+    "Casual": 90,
+    "Multiplayer": 71,
+    "Local Multiplayer": 65,
+    "Indie": 64,
+    "Party": 57,
+    "Funny": 53,
+    "Comedy": 47,
+    "Party Game": 41,
+    "Board Game": 37,
+    "Local Co-Op": 36,
+    "Family Friendly": 31,
+    "Co-op": 30,
+    "Strategy": 22,
+    "Social Deduction": 18,
+    "Singleplayer": 14,
+    "Horror": 5
+  }
+}

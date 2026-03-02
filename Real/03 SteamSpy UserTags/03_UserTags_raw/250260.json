@@ -1,0 +1,26 @@
+{
+  "appid": 250260,
+  "success": true,
+  "tags": {
+    "Comedy": 429,
+    "Indie": 284,
+    "Surreal": 272,
+    "Adventure": 269,
+    "Funny": 263,
+    "Exploration": 215,
+    "Short": 194,
+    "First-Person": 139,
+    "Cyberpunk": 100,
+    "Singleplayer": 84,
+    "Walking Simulator": 64,
+    "Cold War": 47,
+    "Casual": 42,
+    "Stylized": 38,
+    "Memes": 38,
+    "Parody ": 34,
+    "Great Soundtrack": 31,
+    "Simulation": 31,
+    "Action": 23,
+    "Story Rich": 20
+  }
+}

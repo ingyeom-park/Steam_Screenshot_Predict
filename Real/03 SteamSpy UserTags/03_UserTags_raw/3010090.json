@@ -1,0 +1,26 @@
+{
+  "appid": 3010090,
+  "success": true,
+  "tags": {
+    "Rhythm": 107,
+    "Co-op": 101,
+    "Multiplayer": 97,
+    "Shooter": 95,
+    "PvP": 91,
+    "Music": 86,
+    "Twin Stick Shooter": 83,
+    "Atmospheric": 81,
+    "Sci-fi": 79,
+    "On-Rails Shooter": 77,
+    "Controller": 76,
+    "Action": 73,
+    "Combat": 60,
+    "Local Multiplayer": 56,
+    "Online Co-Op": 55,
+    "Singleplayer": 52,
+    "Soundtrack": 50,
+    "Indie": 48,
+    "3D": 27,
+    "Local Co-Op": 12
+  }
+}

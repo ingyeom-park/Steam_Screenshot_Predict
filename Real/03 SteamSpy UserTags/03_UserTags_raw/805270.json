@@ -1,0 +1,26 @@
+{
+  "appid": 805270,
+  "success": true,
+  "tags": {
+    "Sandbox": 191,
+    "Adventure": 187,
+    "Massively Multiplayer": 184,
+    "Action": 182,
+    "Multiplayer": 179,
+    "Indie": 176,
+    "Building": 170,
+    "Open World": 166,
+    "Co-op": 163,
+    "Singleplayer": 161,
+    "Third Person": 159,
+    "Funny": 154,
+    "Survival": 152,
+    "RPG": 149,
+    "Online Co-Op": 148,
+    "Third-Person Shooter": 142,
+    "Software": 138,
+    "Action-Adventure": 137,
+    "FPS": 125,
+    "Hack and Slash": 122
+  }
+}

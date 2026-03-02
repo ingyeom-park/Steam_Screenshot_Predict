@@ -1,0 +1,14 @@
+{
+  "appid": 293440,
+  "success": true,
+  "tags": {
+    "Action": 33,
+    "Adventure": 32,
+    "Indie": 31,
+    "RPG": 30,
+    "Metroidvania": 26,
+    "Pixel Graphics": 25,
+    "Platformer": 16,
+    "2D": 16
+  }
+}

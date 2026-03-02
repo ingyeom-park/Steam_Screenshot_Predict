@@ -1,0 +1,26 @@
+{
+  "appid": 1092430,
+  "success": true,
+  "tags": {
+    "Adventure": 346,
+    "Action": 340,
+    "Indie": 336,
+    "VR": 336,
+    "Stealth": 329,
+    "Singleplayer": 317,
+    "Horror": 314,
+    "Robots": 314,
+    "First-Person": 310,
+    "Puzzle": 305,
+    "Action-Adventure": 296,
+    "FPS": 287,
+    "Colorful": 275,
+    "Atmospheric": 264,
+    "Conspiracy": 261,
+    "Dystopian ": 260,
+    "Sci-fi": 258,
+    "Artificial Intelligence": 255,
+    "Automation": 247,
+    "Capitalism": 241
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 392260,
+  "success": true,
+  "tags": {
+    "RPG": 108,
+    "Indie": 102,
+    "Rogue-like": 99,
+    "Rogue-lite": 98,
+    "Turn-Based": 93,
+    "Dungeon Crawler": 87,
+    "Isometric": 85,
+    "Loot": 83,
+    "2D": 81,
+    "Procedural Generation": 78,
+    "Turn-Based Combat": 72,
+    "Turn-Based Tactics": 65,
+    "Cartoony": 63,
+    "Crafting": 54,
+    "Magic": 48,
+    "Tactical RPG": 45,
+    "Cartoon": 41,
+    "Colorful": 39,
+    "Cute": 38,
+    "Top-Down": 35
+  }
+}

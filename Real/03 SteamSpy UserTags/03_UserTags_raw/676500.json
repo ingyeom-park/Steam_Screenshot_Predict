@@ -1,0 +1,26 @@
+{
+  "appid": 676500,
+  "success": true,
+  "tags": {
+    "Clicker": 56,
+    "Action": 50,
+    "FPS": 47,
+    "Casual": 46,
+    "RPG": 45,
+    "Adventure": 45,
+    "Strategy": 43,
+    "Simulation": 40,
+    "Multiplayer": 38,
+    "Indie": 37,
+    "Co-op": 35,
+    "Online Co-Op": 34,
+    "Voxel": 31,
+    "First-Person": 29,
+    "Singleplayer": 27,
+    "Tower Defense": 24,
+    "Gun Customization": 23,
+    "Atmospheric": 22,
+    "Time Travel": 22,
+    "Action RPG": 20
+  }
+}

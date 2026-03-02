@@ -1,0 +1,26 @@
+{
+  "appid": 1098280,
+  "success": true,
+  "tags": {
+    "Indie": 53,
+    "Adventure": 44,
+    "Platformer": 42,
+    "Pixel Graphics": 36,
+    "2D": 33,
+    "Retro": 28,
+    "Great Soundtrack": 27,
+    "Funny": 26,
+    "Difficult": 23,
+    "Singleplayer": 21,
+    "Action": 17,
+    "Side Scroller": 13,
+    "Cartoony": 12,
+    "Colorful": 12,
+    "Cartoon": 12,
+    "Co-op": 11,
+    "Bullet Hell": 11,
+    "Multiplayer": 10,
+    "Atmospheric": 10,
+    "Shoot 'Em Up": 10
+  }
+}

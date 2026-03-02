@@ -1,0 +1,26 @@
+{
+  "appid": 2705890,
+  "success": true,
+  "tags": {
+    "Adventure": 204,
+    "Platformer": 197,
+    "Action": 189,
+    "Exploration": 180,
+    "Metroidvania": 178,
+    "Puzzle-Platformer": 164,
+    "2D": 160,
+    "Cartoony": 148,
+    "Colorful": 141,
+    "Pixel Graphics": 136,
+    "Aliens": 121,
+    "Comedy": 118,
+    "Dog": 108,
+    "Sci-fi": 92,
+    "Space": 77,
+    "Controller": 60,
+    "Nonlinear": 43,
+    "Story Rich": 27,
+    "Singleplayer": 26,
+    "Indie": 23
+  }
+}

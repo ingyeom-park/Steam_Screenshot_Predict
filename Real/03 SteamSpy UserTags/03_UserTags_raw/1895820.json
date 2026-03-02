@@ -1,0 +1,26 @@
+{
+  "appid": 1895820,
+  "success": true,
+  "tags": {
+    "Action": 90,
+    "Adventure": 83,
+    "Difficult": 83,
+    "Pixel Graphics": 79,
+    "Hack and Slash": 72,
+    "Side Scroller": 68,
+    "Action-Adventure": 66,
+    "Indie": 64,
+    "Funny": 60,
+    "Action RPG": 60,
+    "RPG": 56,
+    "2D": 35,
+    "Dark Humor": 34,
+    "Rogue-like": 33,
+    "Lore-Rich": 29,
+    "Story Rich": 28,
+    "Loot": 27,
+    "Medieval": 25,
+    "Combat": 23,
+    "Singleplayer": 23
+  }
+}

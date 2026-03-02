@@ -1,0 +1,26 @@
+{
+  "appid": 2235150,
+  "success": true,
+  "tags": {
+    "Trivia": 120,
+    "Casual": 118,
+    "Puzzle": 114,
+    "Local Multiplayer": 110,
+    "Logic": 110,
+    "Multiplayer": 109,
+    "Comedy": 96,
+    "Funny": 95,
+    "Indie": 94,
+    "Education": 90,
+    "Family Friendly": 89,
+    "Cartoony": 78,
+    "Science": 75,
+    "3D": 72,
+    "PvP": 59,
+    "Arcade": 42,
+    "Puzzle-Platformer": 40,
+    "Colorful": 39,
+    "Cartoon": 37,
+    "Cute": 35
+  }
+}

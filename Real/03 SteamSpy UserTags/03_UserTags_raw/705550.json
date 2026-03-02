@@ -1,0 +1,23 @@
+{
+  "appid": 705550,
+  "success": true,
+  "tags": {
+    "Heist": 102,
+    "Board Game": 96,
+    "Adventure": 92,
+    "Indie": 89,
+    "Turn-Based Strategy": 86,
+    "Strategy": 76,
+    "Stealth": 71,
+    "2D": 66,
+    "Hand-drawn": 62,
+    "Procedural Generation": 56,
+    "Grid-Based Movement": 50,
+    "Team-Based": 48,
+    "Singleplayer": 46,
+    "Co-op": 44,
+    "Puzzle": 41,
+    "Replay Value": 38,
+    "Turn-Based": 27
+  }
+}

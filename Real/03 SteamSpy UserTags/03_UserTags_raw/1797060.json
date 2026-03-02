@@ -1,0 +1,26 @@
+{
+  "appid": 1797060,
+  "success": true,
+  "tags": {
+    "Action": 179,
+    "Action-Adventure": 154,
+    "Exploration": 150,
+    "3D": 145,
+    "First-Person": 140,
+    "Atmospheric": 129,
+    "Mystery": 122,
+    "Retro": 116,
+    "Adventure": 114,
+    "Survival Horror": 108,
+    "Singleplayer": 96,
+    "Assassin": 82,
+    "1980s": 70,
+    "Thriller": 55,
+    "Horror": 41,
+    "Story Rich": 27,
+    "Linear": 25,
+    "Indie": 22,
+    "Gore": 21,
+    "Violent": 21
+  }
+}

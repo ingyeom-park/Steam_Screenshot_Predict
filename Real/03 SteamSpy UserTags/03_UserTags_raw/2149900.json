@@ -1,0 +1,26 @@
+{
+  "appid": 2149900,
+  "success": true,
+  "tags": {
+    "RPG": 143,
+    "Action RPG": 137,
+    "Hack and Slash": 136,
+    "3D": 133,
+    "Third Person": 130,
+    "Atmospheric": 123,
+    "Dark": 122,
+    "Dark Fantasy": 118,
+    "Demons": 115,
+    "Fantasy": 109,
+    "Horror": 106,
+    "Investigation": 104,
+    "Magic": 98,
+    "Medieval": 90,
+    "Mystery": 83,
+    "Nature": 78,
+    "Old School": 71,
+    "Singleplayer": 62,
+    "Indie": 53,
+    "Exploration": 52
+  }
+}

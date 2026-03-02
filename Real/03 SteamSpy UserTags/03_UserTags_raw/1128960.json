@@ -1,0 +1,26 @@
+{
+  "appid": 1128960,
+  "success": true,
+  "tags": {
+    "RTS": 116,
+    "Indie": 110,
+    "Strategy": 106,
+    "Building": 101,
+    "Base-Building": 98,
+    "Drama": 92,
+    "Medieval": 90,
+    "2D": 88,
+    "Real Time Tactics": 86,
+    "War": 84,
+    "Tactical": 82,
+    "Hand-drawn": 80,
+    "Fantasy": 78,
+    "Story Rich": 76,
+    "Strategy RPG": 74,
+    "Party-Based RPG": 72,
+    "RPG": 70,
+    "Sandbox": 52,
+    "Singleplayer": 50,
+    "Simulation": 48
+  }
+}

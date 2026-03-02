@@ -1,0 +1,26 @@
+{
+  "appid": 1501650,
+  "success": true,
+  "tags": {
+    "Horror": 100,
+    "Exploration": 91,
+    "Action-Adventure": 88,
+    "3D": 86,
+    "Action": 82,
+    "First-Person": 82,
+    "Story Rich": 76,
+    "Psychological Horror": 74,
+    "Lore-Rich": 72,
+    "Historical": 70,
+    "Choices Matter": 68,
+    "Multiple Endings": 66,
+    "Puzzle": 64,
+    "Pixel Graphics": 61,
+    "Atmospheric": 59,
+    "Supernatural": 56,
+    "Dark": 55,
+    "Singleplayer": 53,
+    "Indie": 52,
+    "Blood": 48
+  }
+}

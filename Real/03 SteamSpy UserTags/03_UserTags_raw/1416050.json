@@ -1,0 +1,26 @@
+{
+  "appid": 1416050,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 201,
+    "Action-Adventure": 194,
+    "2D": 190,
+    "Rogue-like": 185,
+    "Cute": 175,
+    "Action": 167,
+    "Funny": 167,
+    "Linear": 158,
+    "Story Rich": 148,
+    "Cartoony": 136,
+    "Pixel Graphics": 133,
+    "Colorful": 125,
+    "Family Friendly": 107,
+    "Adventure": 101,
+    "Fantasy": 94,
+    "Old School": 64,
+    "Retro": 50,
+    "Singleplayer": 32,
+    "Combat": 28,
+    "Indie": 26
+  }
+}

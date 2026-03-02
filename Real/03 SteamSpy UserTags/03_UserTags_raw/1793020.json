@@ -1,0 +1,25 @@
+{
+  "appid": 1793020,
+  "success": true,
+  "tags": {
+    "Parkour": 101,
+    "3D Platformer": 96,
+    "Precision Platformer": 92,
+    "Runner": 89,
+    "Platformer": 86,
+    "FPS": 78,
+    "Indie": 77,
+    "Fast-Paced": 69,
+    "Casual": 67,
+    "First-Person": 59,
+    "Action": 55,
+    "Physics": 34,
+    "Stylized": 32,
+    "Cyberpunk": 31,
+    "Linear": 28,
+    "Futuristic": 26,
+    "Singleplayer": 24,
+    "Colorful": 24,
+    "Sci-fi": 20
+  }
+}

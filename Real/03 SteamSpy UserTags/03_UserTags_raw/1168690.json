@@ -1,0 +1,26 @@
+{
+  "appid": 1168690,
+  "success": true,
+  "tags": {
+    "Puzzle": 159,
+    "Horror": 159,
+    "Action": 149,
+    "Stealth": 145,
+    "Exploration": 141,
+    "Atmospheric": 133,
+    "Psychological Horror": 129,
+    "Survival Horror": 129,
+    "First-Person": 122,
+    "Indie": 112,
+    "Singleplayer": 105,
+    "Gore": 95,
+    "Adventure": 94,
+    "Story Rich": 91,
+    "Demons": 86,
+    "Mystery": 85,
+    "Detective": 79,
+    "Investigation": 71,
+    "Dark": 69,
+    "Narration": 60
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 112100,
+  "success": true,
+  "tags": {
+    "RPG": 138,
+    "Indie": 94,
+    "Isometric": 74,
+    "Fantasy": 73,
+    "Turn-Based": 56,
+    "Old School": 54,
+    "Party-Based RPG": 48,
+    "CRPG": 46,
+    "Grid-Based Movement": 42,
+    "Turn-Based Combat": 41,
+    "Story Rich": 39,
+    "Singleplayer": 34,
+    "2D": 32,
+    "Retro": 21,
+    "Exploration": 17,
+    "Female Protagonist": 13,
+    "Adventure": 10,
+    "Strategy": 9
+  }
+}

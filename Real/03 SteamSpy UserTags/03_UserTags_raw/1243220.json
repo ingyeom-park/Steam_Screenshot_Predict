@@ -1,0 +1,18 @@
+{
+  "appid": 1243220,
+  "success": true,
+  "tags": {
+    "Strategy": 59,
+    "Simulation": 58,
+    "Indie": 57,
+    "Adventure": 55,
+    "Stealth": 21,
+    "Singleplayer": 17,
+    "Crime": 17,
+    "Heist": 17,
+    "Puzzle": 14,
+    "Casual": 14,
+    "Exploration": 12,
+    "Voxel": 7
+  }
+}

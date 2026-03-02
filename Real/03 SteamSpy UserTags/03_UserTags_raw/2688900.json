@@ -1,0 +1,26 @@
+{
+  "appid": 2688900,
+  "success": true,
+  "tags": {
+    "Indie": 123,
+    "Logic": 118,
+    "Turn-Based Tactics": 114,
+    "Party-Based RPG": 108,
+    "Fantasy": 103,
+    "Deckbuilding": 97,
+    "Cartoon": 94,
+    "Education": 92,
+    "Adventure": 87,
+    "Choices Matter": 80,
+    "Family Friendly": 79,
+    "Tactical RPG": 77,
+    "Colorful": 75,
+    "RPG": 73,
+    "Pixel Graphics": 71,
+    "Puzzle": 69,
+    "Roguelike Deckbuilder": 68,
+    "Beat 'em up": 64,
+    "Rogue-like": 61,
+    "2D": 57
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 1322300,
+  "success": true,
+  "tags": {
+    "Indie": 65,
+    "Adventure": 64,
+    "Action": 50,
+    "Horror": 39,
+    "Story Rich": 25,
+    "Atmospheric": 24,
+    "Psychological Horror": 22,
+    "Walking Simulator": 19,
+    "Thriller": 18,
+    "Singleplayer": 18,
+    "2D": 15,
+    "Dark": 15,
+    "Casual": 15,
+    "Experimental": 15,
+    "Side Scroller": 13,
+    "Violent": 13,
+    "RPGMaker": 13,
+    "Linear": 13
+  }
+}

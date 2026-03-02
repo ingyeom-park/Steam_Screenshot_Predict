@@ -1,0 +1,26 @@
+{
+  "appid": 2103480,
+  "success": true,
+  "tags": {
+    "Racing": 189,
+    "Driving": 185,
+    "Physics": 180,
+    "Arcade": 177,
+    "Difficult": 174,
+    "Casual": 167,
+    "Top-Down": 165,
+    "Sailing": 162,
+    "Naval": 155,
+    "Simulation": 148,
+    "Stylized": 137,
+    "Cute": 125,
+    "Colorful": 116,
+    "Indie": 113,
+    "Singleplayer": 103,
+    "3D": 101,
+    "Puzzle": 92,
+    "Funny": 82,
+    "Atmospheric": 65,
+    "Action": 49
+  }
+}

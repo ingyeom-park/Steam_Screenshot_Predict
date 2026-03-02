@@ -1,0 +1,26 @@
+{
+  "appid": 1398910,
+  "success": true,
+  "tags": {
+    "Puzzle": 124,
+    "Point & Click": 117,
+    "Adventure": 114,
+    "2D": 111,
+    "Story Rich": 106,
+    "Funny": 97,
+    "Singleplayer": 96,
+    "Comedy": 93,
+    "Exploration": 91,
+    "Colorful": 88,
+    "Family Friendly": 79,
+    "Souls-like": 78,
+    "Mystery": 74,
+    "Controller": 71,
+    "Hand-drawn": 68,
+    "Collectathon": 64,
+    "Multiplayer": 60,
+    "Indie": 56,
+    "Anime": 50,
+    "Episodic": 48
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 3269860,
+  "success": true,
+  "tags": {
+    "Action": 195,
+    "Adventure": 189,
+    "Strategy": 165,
+    "Action-Adventure": 160,
+    "3D": 155,
+    "Horror": 146,
+    "First-Person": 146,
+    "Story Rich": 131,
+    "Singleplayer": 123,
+    "Indie": 122,
+    "Atmospheric": 114,
+    "Dark": 102,
+    "Point & Click": 87,
+    "Resource Management": 72,
+    "Short": 58,
+    "Supernatural": 42,
+    "Trains": 36,
+    "Survival Horror": 29
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2185780,
+  "success": true,
+  "tags": {
+    "Adventure": 215,
+    "Action": 211,
+    "Action Roguelike": 187,
+    "Action-Adventure": 184,
+    "Action RPG": 175,
+    "Bullet Hell": 173,
+    "Rogue-lite": 161,
+    "Cartoony": 152,
+    "Cute": 141,
+    "Colorful": 131,
+    "Zombies": 120,
+    "Vampire": 118,
+    "Aliens": 104,
+    "Time Travel": 91,
+    "Alternate History": 75,
+    "Survival Horror": 60,
+    "Quick-Time Events": 44,
+    "Combat": 29,
+    "Singleplayer": 26,
+    "Indie": 23
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1844650,
+  "success": true,
+  "tags": {
+    "Action": 116,
+    "Horror": 110,
+    "Story Rich": 107,
+    "Atmospheric": 104,
+    "Demons": 99,
+    "Shooter": 93,
+    "Exploration": 86,
+    "FPS": 84,
+    "3D": 77,
+    "First-Person": 73,
+    "Indie": 70,
+    "Violent": 67,
+    "Dark Fantasy": 65,
+    "Adventure": 62,
+    "Dark Humor": 59,
+    "Controller": 57,
+    "Singleplayer": 55,
+    "Puzzle": 51,
+    "Boomer Shooter": 49,
+    "Dark Comedy": 42
+  }
+}

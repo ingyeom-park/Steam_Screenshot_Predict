@@ -1,0 +1,26 @@
+{
+  "appid": 1125110,
+  "success": true,
+  "tags": {
+    "Hack and Slash": 125,
+    "Souls-like": 118,
+    "Difficult": 115,
+    "2D": 113,
+    "Short": 109,
+    "Top-Down": 100,
+    "Post-apocalyptic": 95,
+    "Pixel Graphics": 95,
+    "Colorful": 91,
+    "Fantasy": 87,
+    "Atmospheric": 85,
+    "Adventure": 80,
+    "Singleplayer": 79,
+    "Indie": 72,
+    "Beat 'em up": 69,
+    "Action": 56,
+    "Female Protagonist": 46,
+    "Exploration": 37,
+    "Great Soundtrack": 31,
+    "Action RPG": 29
+  }
+}

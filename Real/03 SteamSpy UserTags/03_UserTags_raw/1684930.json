@@ -1,0 +1,26 @@
+{
+  "appid": 1684930,
+  "success": true,
+  "tags": {
+    "Boomer Shooter": 149,
+    "FPS": 124,
+    "Old School": 106,
+    "Shooter": 105,
+    "Action": 102,
+    "First-Person": 84,
+    "Retro": 79,
+    "Horror": 74,
+    "Gore": 61,
+    "3D": 57,
+    "Dark": 55,
+    "Violent": 50,
+    "Stylized": 49,
+    "Pixel Graphics": 42,
+    "Indie": 42,
+    "Singleplayer": 40,
+    "Physics": 28,
+    "Combat": 28,
+    "PvE": 23,
+    "Lovecraftian": 18
+  }
+}

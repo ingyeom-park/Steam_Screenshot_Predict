@@ -1,0 +1,26 @@
+{
+  "appid": 987950,
+  "success": true,
+  "tags": {
+    "FPS": 222,
+    "Multiplayer": 216,
+    "Arena Shooter": 213,
+    "Action": 210,
+    "Fast-Paced": 207,
+    "Shooter": 201,
+    "Competitive": 198,
+    "Old School": 196,
+    "First-Person": 194,
+    "Casual": 192,
+    "Indie": 189,
+    "Massively Multiplayer": 185,
+    "PvP": 181,
+    "Singleplayer": 178,
+    "Colorful": 170,
+    "Difficult": 158,
+    "Arcade": 145,
+    "Gore": 130,
+    "Mature": 123,
+    "Sci-fi": 120
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 891370,
+  "success": true,
+  "tags": {
+    "Deckbuilding": 172,
+    "Roguelike Deckbuilder": 165,
+    "RPG": 161,
+    "Card Game": 158,
+    "Indie": 154,
+    "Strategy": 148,
+    "Fantasy": 144,
+    "Turn-Based": 141,
+    "Board Game": 138,
+    "Rogue-lite": 135,
+    "Replay Value": 132,
+    "Dungeon Crawler": 125,
+    "Singleplayer": 117,
+    "Early Access": 116,
+    "Adventure": 112,
+    "Difficult": 104,
+    "Casual": 91,
+    "2D": 83,
+    "Procedural Generation": 77,
+    "Rogue-like": 68
+  }
+}

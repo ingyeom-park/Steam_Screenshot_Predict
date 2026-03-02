@@ -1,0 +1,26 @@
+{
+  "appid": 1412850,
+  "success": true,
+  "tags": {
+    "Co-op": 731,
+    "Indie": 663,
+    "Singleplayer": 647,
+    "Multiplayer": 590,
+    "Online Co-Op": 589,
+    "Local Co-Op": 579,
+    "Casual": 578,
+    "Simulation": 577,
+    "Cooking": 567,
+    "Colorful": 561,
+    "Funny": 560,
+    "Sci-fi": 555,
+    "Management": 549,
+    "Controller": 543,
+    "Procedural Generation": 536,
+    "Flight": 534,
+    "Family Friendly": 533,
+    "Comedy": 525,
+    "Aliens": 519,
+    "Cute": 503
+  }
+}

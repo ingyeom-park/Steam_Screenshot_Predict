@@ -1,0 +1,26 @@
+{
+  "appid": 2095450,
+  "success": true,
+  "tags": {
+    "Strategy": 143,
+    "Tower Defense": 139,
+    "3D": 133,
+    "Top-Down": 130,
+    "Cartoony": 127,
+    "Colorful": 122,
+    "Fantasy": 119,
+    "Tactical": 118,
+    "Mythology": 113,
+    "Class-Based": 106,
+    "Indie": 102,
+    "Building": 96,
+    "Combat": 89,
+    "Grid-Based Movement": 86,
+    "Singleplayer": 81,
+    "Auto Battler": 78,
+    "Action": 70,
+    "Casual": 53,
+    "Turn-Based Tactics": 39,
+    "Isometric": 36
+  }
+}

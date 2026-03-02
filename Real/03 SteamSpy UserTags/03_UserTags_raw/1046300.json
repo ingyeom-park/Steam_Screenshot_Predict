@@ -1,0 +1,26 @@
+{
+  "appid": 1046300,
+  "success": true,
+  "tags": {
+    "Roguelike Deckbuilder": 197,
+    "Card Game": 189,
+    "Pirates": 187,
+    "Turn-Based Strategy": 184,
+    "Card Battler": 182,
+    "Strategy": 169,
+    "Rogue-lite": 168,
+    "Difficult": 165,
+    "Turn-Based": 163,
+    "Rogue-like": 160,
+    "Third Person": 152,
+    "2D": 148,
+    "Deckbuilding": 139,
+    "Turn-Based Combat": 132,
+    "Cartoony": 125,
+    "Singleplayer": 122,
+    "Indie": 115,
+    "Adventure": 65,
+    "Casual": 63,
+    "RPG": 41
+  }
+}

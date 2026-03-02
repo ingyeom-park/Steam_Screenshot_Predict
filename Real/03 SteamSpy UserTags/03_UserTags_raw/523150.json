@@ -1,0 +1,26 @@
+{
+  "appid": 523150,
+  "success": true,
+  "tags": {
+    "Casual": 150,
+    "Indie": 142,
+    "Strategy": 140,
+    "Mahjong": 136,
+    "Sports": 133,
+    "Puzzle": 129,
+    "Board Game": 124,
+    "Card Game": 118,
+    "Tabletop": 112,
+    "Singleplayer": 109,
+    "Point & Click": 102,
+    "Hidden Object": 93,
+    "Colorful": 85,
+    "Abstract": 72,
+    "Atmospheric": 60,
+    "PvE": 50,
+    "Hentai": 34,
+    "Turn-Based": 30,
+    "Solitaire": 30,
+    "Family Friendly": 27
+  }
+}

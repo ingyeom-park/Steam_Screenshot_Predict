@@ -1,0 +1,26 @@
+{
+  "appid": 1876590,
+  "success": true,
+  "tags": {
+    "FPS": 256,
+    "Fast-Paced": 247,
+    "Arcade": 236,
+    "Action": 236,
+    "Violent": 229,
+    "First-Person": 222,
+    "Shooter": 221,
+    "Gore": 212,
+    "Singleplayer": 200,
+    "Indie": 194,
+    "Colorful": 194,
+    "Combat": 189,
+    "Narrative": 182,
+    "Military": 173,
+    "Noir": 172,
+    "Tactical": 168,
+    "Retro": 162,
+    "PvE": 159,
+    "Open World": 159,
+    "LGBTQ+": 129
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 241240,
+  "success": true,
+  "tags": {
+    "Puzzle": 166,
+    "2D": 160,
+    "Level Editor": 158,
+    "Lemmings": 155,
+    "Sandbox": 151,
+    "Moddable": 147,
+    "Online Co-Op": 139,
+    "Physics": 137,
+    "Family Friendly": 133,
+    "Simulation": 130,
+    "Building": 126,
+    "Programming": 122,
+    "Colorful": 119,
+    "2D Platformer": 114,
+    "Cute": 106,
+    "Cartoony": 97,
+    "Old School": 94,
+    "Singleplayer": 91,
+    "Casual": 88,
+    "Indie": 86
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 261180,
+  "success": true,
+  "tags": {
+    "Fighting": 187,
+    "Local Multiplayer": 158,
+    "Indie": 149,
+    "2D Fighter": 144,
+    "Multiplayer": 136,
+    "Great Soundtrack": 133,
+    "Action": 119,
+    "Sports": 100,
+    "2D": 82,
+    "4 Player Local": 77,
+    "Arcade": 68,
+    "Competitive": 64,
+    "Fast-Paced": 55,
+    "Pixel Graphics": 52,
+    "Funny": 50,
+    "Local Co-Op": 45,
+    "Online Co-Op": 35,
+    "Singleplayer": 24,
+    "e-sports": 19,
+    "Soundtrack": 17
+  }
+}

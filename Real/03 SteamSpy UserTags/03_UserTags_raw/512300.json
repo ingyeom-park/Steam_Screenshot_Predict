@@ -1,0 +1,20 @@
+{
+  "appid": 512300,
+  "success": true,
+  "tags": {
+    "Adventure": 52,
+    "Open World": 46,
+    "3D Platformer": 46,
+    "Action": 35,
+    "Indie": 34,
+    "Comedy": 21,
+    "Funny": 19,
+    "Cute": 16,
+    "Singleplayer": 15,
+    "4 Player Local": 13,
+    "Platformer": 10,
+    "Collectathon": 10,
+    "Multiplayer": 7,
+    "Local Multiplayer": 6
+  }
+}

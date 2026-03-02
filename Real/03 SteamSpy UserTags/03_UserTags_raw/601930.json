@@ -1,0 +1,26 @@
+{
+  "appid": 601930,
+  "success": true,
+  "tags": {
+    "Indie": 195,
+    "Action": 189,
+    "Adventure": 185,
+    "Arcade": 182,
+    "Difficult": 176,
+    "Puzzle": 166,
+    "Fast-Paced": 162,
+    "Puzzle-Platformer": 159,
+    "2D": 158,
+    "Minimalist": 156,
+    "Precision Platformer": 153,
+    "Flight": 148,
+    "Colorful": 144,
+    "Old School": 135,
+    "Parkour": 124,
+    "Racing": 118,
+    "Retro": 114,
+    "Sci-fi": 103,
+    "Futuristic": 97,
+    "Physics": 93
+  }
+}

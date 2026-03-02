@@ -1,0 +1,26 @@
+{
+  "appid": 623540,
+  "success": true,
+  "tags": {
+    "VR": 167,
+    "Local Multiplayer": 156,
+    "Asymmetric VR": 153,
+    "Local Co-Op": 149,
+    "Destruction": 142,
+    "Action": 135,
+    "Party Game": 132,
+    "Arcade": 127,
+    "Multiplayer": 127,
+    "Indie": 123,
+    "Funny": 115,
+    "Casual": 114,
+    "Family Friendly": 109,
+    "Split Screen": 104,
+    "Replay Value": 101,
+    "4 Player Local": 98,
+    "Singleplayer": 89,
+    "Third-Person Shooter": 87,
+    "PvP": 77,
+    "3D": 69
+  }
+}

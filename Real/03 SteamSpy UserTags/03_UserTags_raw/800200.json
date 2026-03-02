@@ -1,0 +1,23 @@
+{
+  "appid": 800200,
+  "success": true,
+  "tags": {
+    "Adventure": 34,
+    "Action": 32,
+    "Indie": 31,
+    "Violent": 31,
+    "VR": 19,
+    "Puzzle": 14,
+    "Magic": 13,
+    "Atmospheric": 13,
+    "Dark Fantasy": 13,
+    "Fantasy": 12,
+    "Story Rich": 12,
+    "Exploration": 11,
+    "Swordplay": 11,
+    "FPS": 11,
+    "First-Person": 10,
+    "Action-Adventure": 10,
+    "Singleplayer": 10
+  }
+}

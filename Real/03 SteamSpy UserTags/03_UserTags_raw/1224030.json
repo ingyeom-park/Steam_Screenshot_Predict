@@ -1,0 +1,26 @@
+{
+  "appid": 1224030,
+  "success": true,
+  "tags": {
+    "Adventure": 104,
+    "Action": 98,
+    "Action-Adventure": 95,
+    "2D Platformer": 90,
+    "Atmospheric": 88,
+    "Pixel Graphics": 83,
+    "Dark": 79,
+    "2D": 74,
+    "Indie": 71,
+    "Post-apocalyptic": 67,
+    "Historical": 64,
+    "Story Rich": 60,
+    "Old School": 56,
+    "Singleplayer": 53,
+    "Mythology": 48,
+    "Linear": 47,
+    "Souls-like": 35,
+    "Difficult": 34,
+    "Robots": 32,
+    "Side Scroller": 31
+  }
+}

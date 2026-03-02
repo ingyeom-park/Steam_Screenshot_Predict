@@ -1,0 +1,26 @@
+{
+  "appid": 1646580,
+  "success": true,
+  "tags": {
+    "VR": 152,
+    "Action": 137,
+    "Combat": 134,
+    "Physics": 132,
+    "Superhero": 128,
+    "Adventure": 125,
+    "Sandbox": 121,
+    "Fantasy": 117,
+    "Martial Arts": 111,
+    "Singleplayer": 110,
+    "Comic Book": 104,
+    "Early Access": 94,
+    "Action-Adventure": 92,
+    "Swordplay": 82,
+    "Beat 'em up": 71,
+    "Robots": 60,
+    "Ninja": 58,
+    "Indie": 48,
+    "PvE": 40,
+    "Flight": 29
+  }
+}

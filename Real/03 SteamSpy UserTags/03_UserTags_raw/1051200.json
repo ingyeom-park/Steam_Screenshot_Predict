@@ -1,0 +1,26 @@
+{
+  "appid": 1051200,
+  "success": true,
+  "tags": {
+    "Adventure": 126,
+    "Indie": 118,
+    "Action": 116,
+    "VR": 86,
+    "Comedy": 79,
+    "Dark Humor": 71,
+    "Funny": 68,
+    "3D Platformer": 64,
+    "Singleplayer": 61,
+    "Dark Comedy": 57,
+    "Platformer": 54,
+    "Gore": 50,
+    "Colorful": 47,
+    "Atmospheric": 46,
+    "Psychological Horror": 44,
+    "Sci-fi": 42,
+    "Cartoony": 40,
+    "Third Person": 38,
+    "Controller": 35,
+    "Combat": 35
+  }
+}

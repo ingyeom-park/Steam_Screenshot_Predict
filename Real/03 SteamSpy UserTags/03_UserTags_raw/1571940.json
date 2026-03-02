@@ -1,0 +1,26 @@
+{
+  "appid": 1571940,
+  "success": true,
+  "tags": {
+    "Immersive Sim": 151,
+    "Puzzle": 136,
+    "Sandbox": 131,
+    "Physics": 129,
+    "Stealth": 126,
+    "Philosophical": 114,
+    "Dark Comedy": 113,
+    "FPS": 111,
+    "RPG": 111,
+    "Sci-fi": 109,
+    "Robots": 108,
+    "Hacking": 104,
+    "Nonlinear": 101,
+    "Immersive": 92,
+    "Indie": 90,
+    "Retro": 88,
+    "First-Person": 80,
+    "Singleplayer": 73,
+    "Action": 67,
+    "Programming": 58
+  }
+}

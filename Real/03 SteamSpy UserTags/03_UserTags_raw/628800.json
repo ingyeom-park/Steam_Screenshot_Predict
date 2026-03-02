@@ -1,0 +1,25 @@
+{
+  "appid": 628800,
+  "success": true,
+  "tags": {
+    "Indie": 41,
+    "Action": 39,
+    "Shoot 'Em Up": 38,
+    "Arcade": 31,
+    "Retro": 29,
+    "2D": 26,
+    "Difficult": 20,
+    "Great Soundtrack": 19,
+    "Local Multiplayer": 14,
+    "Pixel Graphics": 14,
+    "Co-op": 13,
+    "Co-op Campaign": 12,
+    "GameMaker": 12,
+    "Funny": 11,
+    "Sci-fi": 10,
+    "Bullet Hell": 10,
+    "Fast-Paced": 9,
+    "Space": 8,
+    "Side Scroller": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 3047220,
+  "success": true,
+  "tags": {
+    "Puzzle": 110,
+    "Inventory Management": 104,
+    "Wholesome": 101,
+    "Cozy": 98,
+    "Relaxing": 95,
+    "Fantasy": 86,
+    "Funny": 80,
+    "Hand-drawn": 78,
+    "Cute": 76,
+    "Cartoony": 74,
+    "Parody ": 71,
+    "Colorful": 68,
+    "Family Friendly": 66,
+    "Indie": 63,
+    "Atmospheric": 61,
+    "Comedy": 58,
+    "Casual": 51,
+    "Loot": 40,
+    "2D": 34,
+    "Singleplayer": 28
+  }
+}

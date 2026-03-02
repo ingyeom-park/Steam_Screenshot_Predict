@@ -1,0 +1,26 @@
+{
+  "appid": 1389990,
+  "success": true,
+  "tags": {
+    "Action": 272,
+    "Simulation": 269,
+    "FPS": 265,
+    "Indie": 255,
+    "Shooter": 254,
+    "Software Training": 240,
+    "First-Person": 224,
+    "e-sports": 219,
+    "Score Attack": 201,
+    "Action-Adventure": 179,
+    "Artificial Intelligence": 170,
+    "Singleplayer": 161,
+    "3D": 159,
+    "Tutorial": 145,
+    "Fast-Paced": 122,
+    "Software": 115,
+    "Competitive": 90,
+    "Sniper": 69,
+    "Arena Shooter": 48,
+    "Minimalist": 25
+  }
+}

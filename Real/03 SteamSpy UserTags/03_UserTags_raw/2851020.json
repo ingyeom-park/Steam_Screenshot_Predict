@@ -1,0 +1,26 @@
+{
+  "appid": 2851020,
+  "success": true,
+  "tags": {
+    "Casual": 170,
+    "Adventure": 164,
+    "Puzzle": 161,
+    "Action": 157,
+    "Platformer": 153,
+    "Female Protagonist": 148,
+    "Atmospheric": 141,
+    "Colorful": 139,
+    "Emotional": 132,
+    "Singleplayer": 125,
+    "3D": 117,
+    "Skateboarding": 115,
+    "Puzzle-Platformer": 104,
+    "Cute": 101,
+    "Relaxing": 99,
+    "Surreal": 73,
+    "Family Friendly": 56,
+    "Indie": 41,
+    "Music": 29,
+    "Soundtrack": 27
+  }
+}

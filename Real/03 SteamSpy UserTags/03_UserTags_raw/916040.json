@@ -1,0 +1,22 @@
+{
+  "appid": 916040,
+  "success": true,
+  "tags": {
+    "RPG": 37,
+    "Indie": 33,
+    "Strategy": 32,
+    "Tactical RPG": 20,
+    "Pixel Graphics": 17,
+    "Fantasy": 15,
+    "Dungeon Crawler": 15,
+    "Rogue-lite": 15,
+    "Turn-Based": 14,
+    "Turn-Based Tactics": 14,
+    "Party-Based RPG": 14,
+    "Grid-Based Movement": 14,
+    "Turn-Based Strategy": 13,
+    "Rogue-like": 13,
+    "Difficult": 12,
+    "Casual": 12
+  }
+}

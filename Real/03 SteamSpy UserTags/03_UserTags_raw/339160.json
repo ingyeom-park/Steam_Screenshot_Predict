@@ -1,0 +1,26 @@
+{
+  "appid": 339160,
+  "success": true,
+  "tags": {
+    "Casual": 105,
+    "Indie": 93,
+    "Match 3": 87,
+    "Puzzle": 85,
+    "Singleplayer": 82,
+    "Strategy": 75,
+    "Anime": 72,
+    "Adventure": 70,
+    "City Builder": 67,
+    "2D": 66,
+    "Cartoon": 63,
+    "Colorful": 60,
+    "Atmospheric": 58,
+    "Family Friendly": 55,
+    "Historical": 48,
+    "Building": 40,
+    "Fantasy": 38,
+    "Controller": 35,
+    "Female Protagonist": 34,
+    "Soundtrack": 32
+  }
+}

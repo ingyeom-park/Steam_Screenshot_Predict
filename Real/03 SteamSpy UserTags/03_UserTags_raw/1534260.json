@@ -1,0 +1,25 @@
+{
+  "appid": 1534260,
+  "success": true,
+  "tags": {
+    "Casual": 182,
+    "Adventure": 172,
+    "Arcade": 151,
+    "Puzzle": 146,
+    "Platformer": 140,
+    "2D Platformer": 132,
+    "Side Scroller": 123,
+    "Puzzle-Platformer": 116,
+    "2D": 109,
+    "Minimalist": 98,
+    "Pixel Graphics": 95,
+    "1990's": 82,
+    "Family Friendly": 71,
+    "Logic": 55,
+    "Linear": 40,
+    "Perma Death": 28,
+    "Singleplayer": 26,
+    "Indie": 22,
+    "Hentai": 6
+  }
+}

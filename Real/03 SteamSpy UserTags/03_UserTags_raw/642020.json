@@ -1,0 +1,23 @@
+{
+  "appid": 642020,
+  "success": true,
+  "tags": {
+    "Exploration": 85,
+    "Action-Adventure": 79,
+    "2D": 76,
+    "Cute": 73,
+    "Top-Down": 70,
+    "Horror": 64,
+    "Controller": 62,
+    "Open World": 60,
+    "Action": 58,
+    "Pixel Graphics": 57,
+    "Sci-fi": 54,
+    "Family Friendly": 52,
+    "Adventure": 50,
+    "Singleplayer": 48,
+    "Action RPG": 46,
+    "RPG": 24,
+    "Indie": 20
+  }
+}

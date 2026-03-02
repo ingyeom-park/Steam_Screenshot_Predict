@@ -1,0 +1,25 @@
+{
+  "appid": 566970,
+  "success": true,
+  "tags": {
+    "Puzzle": 91,
+    "Adventure": 85,
+    "Casual": 82,
+    "VR": 78,
+    "Indie": 75,
+    "Logic": 51,
+    "Investigation": 49,
+    "Hidden Object": 45,
+    "Exploration": 44,
+    "Atmospheric": 43,
+    "Realistic": 41,
+    "Immersive": 39,
+    "Difficult": 37,
+    "6DOF": 35,
+    "Family Friendly": 33,
+    "Singleplayer": 31,
+    "Strategy": 29,
+    "Simulation": 27,
+    "Escape Room": 10
+  }
+}

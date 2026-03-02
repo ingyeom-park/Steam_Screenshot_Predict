@@ -1,0 +1,26 @@
+{
+  "appid": 951570,
+  "success": true,
+  "tags": {
+    "FPS": 197,
+    "Shooter": 193,
+    "VR": 190,
+    "Action-Adventure": 188,
+    "Horror": 186,
+    "Psychological Horror": 176,
+    "Linear": 172,
+    "First-Person": 168,
+    "Action": 166,
+    "Stealth": 164,
+    "Gore": 163,
+    "Thriller": 160,
+    "Zombies": 159,
+    "Atmospheric": 155,
+    "Investigation": 153,
+    "Mystery": 151,
+    "Dark": 150,
+    "Indie": 148,
+    "Violent": 133,
+    "Singleplayer": 132
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 485980,
+  "success": true,
+  "tags": {
+    "Real Time Tactics": 203,
+    "RTS": 199,
+    "Realistic": 191,
+    "Military": 188,
+    "Wargame": 177,
+    "Atmospheric": 172,
+    "Modern": 171,
+    "Historical": 165,
+    "Strategy": 162,
+    "Tactical": 158,
+    "War": 118,
+    "Singleplayer": 100,
+    "Indie": 83,
+    "Real-Time": 54,
+    "Memes": 53,
+    "Moddable": 50,
+    "Level Editor": 47,
+    "Multiplayer": 46,
+    "Physics": 42,
+    "Simulation": 40
+  }
+}

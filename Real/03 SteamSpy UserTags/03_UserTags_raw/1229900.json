@@ -1,0 +1,26 @@
+{
+  "appid": 1229900,
+  "success": true,
+  "tags": {
+    "JRPG": 418,
+    "Turn-Based Tactics": 412,
+    "Tactical RPG": 405,
+    "Party-Based RPG": 402,
+    "Tutorial": 400,
+    "RPG": 394,
+    "2D": 394,
+    "Turn-Based Combat": 392,
+    "Anime": 387,
+    "Funny": 386,
+    "Fantasy": 382,
+    "Cartoony": 381,
+    "Medieval": 378,
+    "Combat": 372,
+    "Singleplayer": 364,
+    "Dungeon Crawler": 357,
+    "Indie": 357,
+    "Turn-Based Strategy": 337,
+    "Strategy": 313,
+    "Casual": 262
+  }
+}

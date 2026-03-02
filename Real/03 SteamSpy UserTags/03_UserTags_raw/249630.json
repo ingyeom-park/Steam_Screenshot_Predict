@@ -1,0 +1,26 @@
+{
+  "appid": 249630,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 229,
+    "First-Person": 216,
+    "RPG": 205,
+    "Action Roguelike": 200,
+    "Indie": 188,
+    "Pixel Graphics": 181,
+    "Rogue-lite": 167,
+    "Rogue-like": 162,
+    "Adventure": 161,
+    "Action": 155,
+    "Perma Death": 121,
+    "Singleplayer": 115,
+    "Procedural Generation": 88,
+    "Retro": 78,
+    "FPS": 77,
+    "Moddable": 74,
+    "Fantasy": 73,
+    "2.5D": 72,
+    "Atmospheric": 70,
+    "3D": 67
+  }
+}

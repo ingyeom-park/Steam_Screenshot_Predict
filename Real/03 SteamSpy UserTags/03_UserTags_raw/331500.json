@@ -1,0 +1,25 @@
+{
+  "appid": 331500,
+  "success": true,
+  "tags": {
+    "Strategy": 112,
+    "RTS": 96,
+    "Action": 81,
+    "FPS": 78,
+    "Base-Building": 55,
+    "Robots": 50,
+    "Sci-fi": 50,
+    "Shooter": 47,
+    "Multiplayer": 44,
+    "War": 43,
+    "Singleplayer": 42,
+    "Real-Time": 42,
+    "Indie": 42,
+    "First-Person": 37,
+    "Co-op": 37,
+    "Open World": 14,
+    "Sandbox": 10,
+    "Survival": 6,
+    "Great Soundtrack": 6
+  }
+}

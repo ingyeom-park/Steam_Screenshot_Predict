@@ -1,0 +1,26 @@
+{
+  "appid": 562640,
+  "success": true,
+  "tags": {
+    "Mystery": 132,
+    "Adventure": 125,
+    "Anime": 123,
+    "JRPG": 120,
+    "Indie": 116,
+    "Modern": 111,
+    "Comedy": 107,
+    "RPGMaker": 101,
+    "Casual": 95,
+    "Turn-Based Combat": 86,
+    "Exploration": 84,
+    "Choose Your Own Adventure": 75,
+    "Pixel Graphics": 67,
+    "RPG": 58,
+    "Top-Down": 49,
+    "Romance": 46,
+    "Atmospheric": 44,
+    "Choices Matter": 42,
+    "Linear": 40,
+    "2D": 38
+  }
+}

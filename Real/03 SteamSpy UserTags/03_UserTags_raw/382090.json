@@ -1,0 +1,15 @@
+{
+  "appid": 382090,
+  "success": true,
+  "tags": {
+    "Horror": 32,
+    "Adventure": 25,
+    "Action": 24,
+    "Indie": 24,
+    "Psychological Horror": 23,
+    "Survival Horror": 19,
+    "First-Person": 6,
+    "Perma Death": 5,
+    "Rogue-like": 5
+  }
+}

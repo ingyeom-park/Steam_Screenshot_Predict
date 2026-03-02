@@ -1,0 +1,26 @@
+{
+  "appid": 474210,
+  "success": true,
+  "tags": {
+    "Action": 92,
+    "Gore": 82,
+    "Indie": 74,
+    "Pixel Graphics": 64,
+    "2D": 63,
+    "Violent": 55,
+    "Difficult": 53,
+    "Shooter": 47,
+    "Platformer": 46,
+    "Dark": 38,
+    "Adventure": 32,
+    "Retro": 30,
+    "Villain Protagonist": 28,
+    "Singleplayer": 25,
+    "Great Soundtrack": 25,
+    "Arcade": 15,
+    "Controller": 14,
+    "Action-Adventure": 13,
+    "Blood": 8,
+    "Metroidvania": 7
+  }
+}

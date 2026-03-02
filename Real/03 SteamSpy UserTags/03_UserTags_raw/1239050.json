@@ -1,0 +1,26 @@
+{
+  "appid": 1239050,
+  "success": true,
+  "tags": {
+    "Horror": 49,
+    "Adventure": 40,
+    "Indie": 38,
+    "Violent": 34,
+    "Action": 32,
+    "Psychological Horror": 28,
+    "First-Person": 23,
+    "Mystery": 20,
+    "Atmospheric": 20,
+    "Walking Simulator": 19,
+    "Choices Matter": 19,
+    "Story Rich": 18,
+    "Mature": 18,
+    "Gore": 17,
+    "Puzzle": 17,
+    "Singleplayer": 16,
+    "Blood": 16,
+    "Supernatural": 15,
+    "Replay Value": 14,
+    "Dark": 12
+  }
+}

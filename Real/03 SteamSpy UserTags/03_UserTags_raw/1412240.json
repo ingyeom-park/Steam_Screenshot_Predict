@@ -1,0 +1,23 @@
+{
+  "appid": 1412240,
+  "success": true,
+  "tags": {
+    "Adventure": 71,
+    "Massively Multiplayer": 60,
+    "Puzzle": 46,
+    "Action-Adventure": 42,
+    "Open World": 37,
+    "Exploration": 32,
+    "3D Platformer": 30,
+    "Third-Person Shooter": 28,
+    "Third Person": 25,
+    "3D": 25,
+    "Indie": 23,
+    "Combat": 22,
+    "Violent": 21,
+    "PvP": 19,
+    "PvE": 18,
+    "Puzzle-Platformer": 15,
+    "Physics": 13
+  }
+}

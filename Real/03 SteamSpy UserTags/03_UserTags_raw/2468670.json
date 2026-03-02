@@ -1,0 +1,25 @@
+{
+  "appid": 2468670,
+  "success": true,
+  "tags": {
+    "Anime": 177,
+    "Visual Novel": 169,
+    "Detective": 167,
+    "Mystery": 163,
+    "Story Rich": 156,
+    "Singleplayer": 146,
+    "Investigation": 140,
+    "Adventure": 131,
+    "3D": 123,
+    "Text-Based": 113,
+    "Logic": 104,
+    "Relaxing": 101,
+    "Crime": 88,
+    "Funny": 73,
+    "Point & Click": 58,
+    "Exploration": 43,
+    "Conversation": 28,
+    "Puzzle": 27,
+    "Indie": 22
+  }
+}

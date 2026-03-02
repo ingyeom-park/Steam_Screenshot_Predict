@@ -1,0 +1,26 @@
+{
+  "appid": 502720,
+  "success": true,
+  "tags": {
+    "Space Sim": 185,
+    "Space": 181,
+    "Retro": 180,
+    "Open World": 175,
+    "Procedural Generation": 166,
+    "Atmospheric": 160,
+    "Indie": 158,
+    "Exploration": 154,
+    "Old School": 147,
+    "Sandbox": 142,
+    "Sci-fi": 139,
+    "Action": 137,
+    "Singleplayer": 133,
+    "Dungeon Crawler": 131,
+    "First-Person": 124,
+    "Simulation": 117,
+    "Aliens": 115,
+    "FPS": 109,
+    "Nonlinear": 102,
+    "Boomer Shooter": 99
+  }
+}

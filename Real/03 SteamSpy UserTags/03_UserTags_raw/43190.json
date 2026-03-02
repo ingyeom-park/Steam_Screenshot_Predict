@@ -1,0 +1,26 @@
+{
+  "appid": 43190,
+  "success": true,
+  "tags": {
+    "Action": 167,
+    "Indie": 161,
+    "Co-op": 158,
+    "Zombies": 155,
+    "Multiplayer": 152,
+    "Shooter": 145,
+    "Online Co-Op": 140,
+    "Singleplayer": 137,
+    "3D": 129,
+    "Combat": 121,
+    "Third-Person Shooter": 114,
+    "FPS": 108,
+    "Hack and Slash": 103,
+    "Third Person": 101,
+    "Horror": 95,
+    "Survival": 93,
+    "Survival Horror": 91,
+    "Controller": 86,
+    "Demons": 77,
+    "Blood": 68
+  }
+}

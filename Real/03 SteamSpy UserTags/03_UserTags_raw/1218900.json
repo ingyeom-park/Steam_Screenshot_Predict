@@ -1,0 +1,25 @@
+{
+  "appid": 1218900,
+  "success": true,
+  "tags": {
+    "Puzzle": 125,
+    "Indie": 113,
+    "Casual": 111,
+    "Fast-Paced": 103,
+    "2D": 100,
+    "Physics": 93,
+    "Short": 83,
+    "Relaxing": 76,
+    "Minimalist": 69,
+    "Puzzle-Platformer": 61,
+    "Mouse only": 59,
+    "Point & Click": 56,
+    "Singleplayer": 47,
+    "Cute": 31,
+    "Rhythm": 25,
+    "Trading Card Game": 23,
+    "Education": 23,
+    "Shooter": 21,
+    "LEGO": 11
+  }
+}

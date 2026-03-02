@@ -1,0 +1,26 @@
+{
+  "appid": 960420,
+  "success": true,
+  "tags": {
+    "Adventure": 219,
+    "Horror": 217,
+    "First-Person": 207,
+    "Singleplayer": 206,
+    "Puzzle": 196,
+    "Stealth": 195,
+    "Family Friendly": 191,
+    "Story Rich": 190,
+    "Difficult": 181,
+    "Indie": 174,
+    "Puzzle-Platformer": 171,
+    "3D Platformer": 170,
+    "3D": 169,
+    "Character Action Game": 166,
+    "Cartoony": 164,
+    "Colorful": 152,
+    "Psychedelic": 148,
+    "Emotional": 136,
+    "Atmospheric": 130,
+    "Logic": 108
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 296470,
+  "success": true,
+  "tags": {
+    "Funny": 201,
+    "Comedy": 197,
+    "Multiplayer": 167,
+    "Sports": 163,
+    "Indie": 155,
+    "Physics": 147,
+    "Local Multiplayer": 133,
+    "Simulation": 114,
+    "Competitive": 98,
+    "Sexual Content": 64,
+    "Co-op": 54,
+    "Local Co-Op": 45,
+    "2D": 44,
+    "Casual": 41,
+    "Mature": 37,
+    "Psychological Horror": 33,
+    "4 Player Local": 33,
+    "Online Co-Op": 31,
+    "Singleplayer": 27,
+    "Action": 21
+  }
+}

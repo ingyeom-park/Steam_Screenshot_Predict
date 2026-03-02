@@ -1,0 +1,26 @@
+{
+  "appid": 263980,
+  "success": true,
+  "tags": {
+    "Platformer": 126,
+    "Pixel Graphics": 96,
+    "Indie": 95,
+    "Puzzle": 81,
+    "Adventure": 80,
+    "2D": 75,
+    "Great Soundtrack": 70,
+    "Retro": 67,
+    "Action": 62,
+    "Sci-fi": 54,
+    "Singleplayer": 54,
+    "Puzzle-Platformer": 50,
+    "Short": 37,
+    "Difficult": 33,
+    "Anime": 30,
+    "Space": 29,
+    "Metroidvania": 29,
+    "Shooter": 19,
+    "Shoot 'Em Up": 19,
+    "Arcade": 17
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1199030,
+  "success": true,
+  "tags": {
+    "Deckbuilding": 235,
+    "Card Game": 231,
+    "Dark Fantasy": 226,
+    "Rogue-like": 220,
+    "Story Rich": 201,
+    "Turn-Based": 187,
+    "RPG": 184,
+    "Choices Matter": 175,
+    "Singleplayer": 172,
+    "Base-Building": 159,
+    "Indie": 153,
+    "CRPG": 146,
+    "Board Game": 146,
+    "Rogue-lite": 143,
+    "Replay Value": 135,
+    "Card Battler": 129,
+    "Turn-Based Combat": 121,
+    "Isometric": 118,
+    "Action": 101,
+    "Survival": 77
+  }
+}

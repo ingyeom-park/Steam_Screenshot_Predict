@@ -1,0 +1,26 @@
+{
+  "appid": 1906830,
+  "success": true,
+  "tags": {
+    "Adventure": 222,
+    "Crafting": 216,
+    "Wholesome": 207,
+    "Puzzle": 197,
+    "Relaxing": 193,
+    "Exploration": 184,
+    "Story Rich": 174,
+    "RPG": 167,
+    "Pixel Graphics": 166,
+    "Fantasy": 147,
+    "2D": 138,
+    "Colorful": 127,
+    "Medieval": 125,
+    "Simulation": 111,
+    "Building": 96,
+    "Life Sim": 79,
+    "Job Simulator": 63,
+    "Side Scroller": 44,
+    "Indie": 27,
+    "Singleplayer": 25
+  }
+}

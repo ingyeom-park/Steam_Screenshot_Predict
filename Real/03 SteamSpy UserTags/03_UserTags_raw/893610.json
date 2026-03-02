@@ -1,0 +1,26 @@
+{
+  "appid": 893610,
+  "success": true,
+  "tags": {
+    "Action": 140,
+    "Gore": 134,
+    "Violent": 130,
+    "RPG": 125,
+    "Indie": 119,
+    "Pixel Graphics": 111,
+    "Lovecraftian": 109,
+    "Psychological Horror": 105,
+    "2D": 102,
+    "Top-Down Shooter": 99,
+    "Nudity": 94,
+    "Beat 'em up": 89,
+    "Shooter": 82,
+    "Twin Stick Shooter": 69,
+    "Anime": 56,
+    "Top-Down": 54,
+    "Gothic": 44,
+    "Retro": 33,
+    "Atmospheric": 28,
+    "Singleplayer": 26
+  }
+}

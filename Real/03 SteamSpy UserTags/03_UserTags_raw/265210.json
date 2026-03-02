@@ -1,0 +1,26 @@
+{
+  "appid": 265210,
+  "success": true,
+  "tags": {
+    "Simulation": 157,
+    "Gore": 153,
+    "Co-op": 107,
+    "Blood": 106,
+    "Indie": 104,
+    "Comedy": 101,
+    "Multiplayer": 100,
+    "Funny": 97,
+    "First-Person": 82,
+    "Singleplayer": 60,
+    "Horror": 55,
+    "Physics": 47,
+    "Casual": 39,
+    "Action": 27,
+    "Dark Humor": 16,
+    "Psychological Horror": 11,
+    "Violent": 8,
+    "Sandbox": 8,
+    "Sci-fi": 7,
+    "Online Co-Op": 5
+  }
+}

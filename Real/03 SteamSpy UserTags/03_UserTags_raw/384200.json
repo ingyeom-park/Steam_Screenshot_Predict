@@ -1,0 +1,26 @@
+{
+  "appid": 384200,
+  "success": true,
+  "tags": {
+    "Indie": 33,
+    "Action": 28,
+    "Co-op": 28,
+    "Violent": 23,
+    "Beat 'em up": 23,
+    "Retro": 22,
+    "Arcade": 20,
+    "Local Co-Op": 15,
+    "Controller": 14,
+    "Fighting": 12,
+    "Crime": 12,
+    "Casual": 12,
+    "2D": 11,
+    "Funny": 11,
+    "Side Scroller": 11,
+    "Colorful": 11,
+    "Old School": 10,
+    "Combat": 10,
+    "Gore": 10,
+    "Local Multiplayer": 10
+  }
+}

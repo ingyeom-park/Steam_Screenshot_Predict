@@ -1,0 +1,13 @@
+{
+  "appid": 504880,
+  "success": true,
+  "tags": {
+    "Casual": 40,
+    "Indie": 32,
+    "Action": 29,
+    "Adventure": 29,
+    "Simulation": 29,
+    "Strategy": 27,
+    "Puzzle": 19
+  }
+}

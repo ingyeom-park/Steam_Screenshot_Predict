@@ -1,0 +1,26 @@
+{
+  "appid": 761910,
+  "success": true,
+  "tags": {
+    "Action RTS": 511,
+    "PvP": 441,
+    "Multiplayer": 434,
+    "Singleplayer": 428,
+    "Local Multiplayer": 424,
+    "Co-op": 420,
+    "Local Co-Op": 419,
+    "2D": 418,
+    "Space": 412,
+    "Online Co-Op": 409,
+    "RTS": 400,
+    "Sci-fi": 400,
+    "Indie": 399,
+    "Action": 395,
+    "Destruction": 391,
+    "Strategy": 385,
+    "Family Friendly": 383,
+    "Physics": 381,
+    "Tactical": 373,
+    "Funny": 366
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1272160,
+  "success": true,
+  "tags": {
+    "Choices Matter": 366,
+    "Story Rich": 252,
+    "RPG": 248,
+    "Interactive Fiction": 233,
+    "Choose Your Own Adventure": 208,
+    "Visual Novel": 188,
+    "Text-Based": 156,
+    "Indie": 136,
+    "Medieval": 129,
+    "Adventure": 120,
+    "Singleplayer": 113,
+    "Simulation": 111,
+    "Atmospheric": 108,
+    "Replay Value": 106,
+    "Dark Fantasy": 104,
+    "Strategy": 100,
+    "Violent": 78,
+    "Management": 70,
+    "2D": 61,
+    "Tabletop": 51
+  }
+}

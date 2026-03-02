@@ -1,0 +1,26 @@
+{
+  "appid": 445110,
+  "success": true,
+  "tags": {
+    "Casual": 189,
+    "Adventure": 182,
+    "Indie": 180,
+    "Action": 176,
+    "Funny": 173,
+    "2D": 169,
+    "Cute": 166,
+    "Top-Down": 163,
+    "Sci-fi": 161,
+    "Dinosaurs": 158,
+    "Co-op": 157,
+    "Singleplayer": 157,
+    "Multiplayer": 151,
+    "Local Multiplayer": 141,
+    "Free to Play": 126,
+    "Local Co-Op": 122,
+    "Survival": 108,
+    "Space": 91,
+    "Destruction": 74,
+    "Comedy": 59
+  }
+}

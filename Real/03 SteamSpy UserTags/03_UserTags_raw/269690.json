@@ -1,0 +1,26 @@
+{
+  "appid": 269690,
+  "success": true,
+  "tags": {
+    "Adventure": 106,
+    "Indie": 99,
+    "RPG": 96,
+    "Exploration": 93,
+    "Space": 90,
+    "Sci-fi": 82,
+    "Rogue-like": 79,
+    "2D": 73,
+    "Pixel Graphics": 68,
+    "Top-Down": 66,
+    "Rogue-lite": 61,
+    "Relaxing": 57,
+    "Casual": 55,
+    "Procedural Generation": 53,
+    "Singleplayer": 51,
+    "Survival": 46,
+    "Design & Illustration": 43,
+    "Puzzle": 40,
+    "Crafting": 38,
+    "Surreal": 36
+  }
+}

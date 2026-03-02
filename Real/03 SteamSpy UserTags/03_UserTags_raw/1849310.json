@@ -1,0 +1,26 @@
+{
+  "appid": 1849310,
+  "success": true,
+  "tags": {
+    "Adventure": 213,
+    "Action": 209,
+    "RPG": 204,
+    "2D Fighter": 178,
+    "Action Roguelike": 173,
+    "Shooter": 163,
+    "2D": 158,
+    "Colorful": 148,
+    "Minimalist": 139,
+    "Third Person": 130,
+    "Fantasy": 119,
+    "Post-apocalyptic": 119,
+    "Mystery": 104,
+    "Tactical": 90,
+    "Survival": 74,
+    "Sci-fi": 59,
+    "Combat": 43,
+    "Hack and Slash": 26,
+    "Singleplayer": 25,
+    "Indie": 21
+  }
+}

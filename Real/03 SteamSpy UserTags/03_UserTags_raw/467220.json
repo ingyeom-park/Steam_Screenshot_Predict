@@ -1,0 +1,26 @@
+{
+  "appid": 467220,
+  "success": true,
+  "tags": {
+    "Adventure": 36,
+    "Action": 32,
+    "Platformer": 27,
+    "Indie": 25,
+    "Casual": 24,
+    "2D": 20,
+    "Singleplayer": 19,
+    "Retro": 18,
+    "Arcade": 16,
+    "Pixel Graphics": 16,
+    "Anime": 16,
+    "Great Soundtrack": 14,
+    "Fantasy": 13,
+    "Puzzle-Platformer": 12,
+    "Stylized": 12,
+    "Atmospheric": 12,
+    "Funny": 12,
+    "Shooter": 12,
+    "Space": 12,
+    "Classic": 12
+  }
+}

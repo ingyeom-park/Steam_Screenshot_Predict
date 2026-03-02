@@ -1,0 +1,26 @@
+{
+  "appid": 780350,
+  "success": true,
+  "tags": {
+    "Action-Adventure": 176,
+    "Beat 'em up": 168,
+    "Action": 166,
+    "2D Platformer": 164,
+    "Co-op": 160,
+    "4 Player Local": 155,
+    "Local Co-Op": 154,
+    "Hand-drawn": 145,
+    "Side Scroller": 140,
+    "Platformer": 139,
+    "2D": 137,
+    "Adventure": 127,
+    "Fighting": 126,
+    "Martial Arts": 116,
+    "Multiplayer": 109,
+    "Singleplayer": 108,
+    "Fantasy": 94,
+    "Puzzle-Platformer": 84,
+    "Indie": 71,
+    "Mythology": 58
+  }
+}

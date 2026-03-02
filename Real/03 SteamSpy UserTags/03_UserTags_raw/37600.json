@@ -1,0 +1,19 @@
+{
+  "appid": 37600,
+  "success": true,
+  "tags": {
+    "Casual": 64,
+    "Point & Click": 55,
+    "Indie": 54,
+    "Short": 47,
+    "Puzzle": 45,
+    "Adventure": 37,
+    "Surreal": 31,
+    "Family Friendly": 30,
+    "Atmospheric": 22,
+    "Singleplayer": 20,
+    "Cute": 19,
+    "Beautiful": 10,
+    "Relaxing": 6
+  }
+}

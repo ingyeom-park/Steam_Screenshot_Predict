@@ -1,0 +1,17 @@
+{
+  "appid": 535000,
+  "success": true,
+  "tags": {
+    "Casual": 90,
+    "Indie": 84,
+    "Puzzle": 63,
+    "Atmospheric": 60,
+    "Singleplayer": 57,
+    "Action": 33,
+    "Sokoban": 31,
+    "3D": 29,
+    "Colorful": 27,
+    "Tabletop": 25,
+    "Logic": 23
+  }
+}

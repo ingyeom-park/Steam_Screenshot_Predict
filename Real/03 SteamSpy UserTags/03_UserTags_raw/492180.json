@@ -1,0 +1,26 @@
+{
+  "appid": 492180,
+  "success": true,
+  "tags": {
+    "Violent": 190,
+    "Puzzle": 184,
+    "Action": 181,
+    "Adventure": 178,
+    "Gore": 175,
+    "Cartoony": 167,
+    "Indie": 160,
+    "Action-Adventure": 155,
+    "Cartoon": 149,
+    "Side Scroller": 143,
+    "2D": 139,
+    "Hand-drawn": 136,
+    "Strategy": 128,
+    "Platformer": 124,
+    "Typing": 108,
+    "Exploration": 94,
+    "Third Person": 78,
+    "Horror": 61,
+    "Old School": 47,
+    "Singleplayer": 36
+  }
+}

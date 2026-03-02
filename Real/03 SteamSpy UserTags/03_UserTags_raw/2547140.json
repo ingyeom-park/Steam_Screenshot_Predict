@@ -1,0 +1,26 @@
+{
+  "appid": 2547140,
+  "success": true,
+  "tags": {
+    "Shoot 'Em Up": 205,
+    "Top-Down Shooter": 199,
+    "Twin Stick Shooter": 196,
+    "Bullet Hell": 192,
+    "Difficult": 186,
+    "Shooter": 176,
+    "Arcade": 171,
+    "2D": 167,
+    "Top-Down": 159,
+    "Controller": 156,
+    "Action": 147,
+    "Pixel Graphics": 143,
+    "Stylized": 131,
+    "Score Attack": 129,
+    "Old School": 115,
+    "Retro": 99,
+    "Combat": 82,
+    "Indie": 66,
+    "Singleplayer": 64,
+    "Fast-Paced": 44
+  }
+}

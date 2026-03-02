@@ -1,0 +1,26 @@
+{
+  "appid": 1140070,
+  "success": true,
+  "tags": {
+    "Driving": 142,
+    "Simulation": 135,
+    "Farming Sim": 132,
+    "Offroad": 130,
+    "Racing": 126,
+    "3D": 118,
+    "Indie": 113,
+    "Parkour": 113,
+    "Sports": 104,
+    "Casual": 94,
+    "Survival": 83,
+    "Strategy": 80,
+    "Adventure": 68,
+    "Singleplayer": 56,
+    "Farming": 54,
+    "Action": 52,
+    "3D Platformer": 28,
+    "Exploration": 26,
+    "Controller": 23,
+    "Immersive Sim": 23
+  }
+}

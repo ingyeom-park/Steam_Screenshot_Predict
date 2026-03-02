@@ -1,0 +1,26 @@
+{
+  "appid": 457810,
+  "success": true,
+  "tags": {
+    "Flight": 149,
+    "Racing": 142,
+    "Action": 140,
+    "Adventure": 136,
+    "Runner": 135,
+    "Steampunk": 128,
+    "Pirates": 125,
+    "Funny": 123,
+    "Loot": 119,
+    "Exploration": 114,
+    "Sequel": 109,
+    "Arcade": 107,
+    "Simulation": 103,
+    "Sports": 97,
+    "3D": 94,
+    "Singleplayer": 91,
+    "Indie": 85,
+    "Comedy": 83,
+    "Co-op": 73,
+    "Female Protagonist": 57
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1058560,
+  "success": true,
+  "tags": {
+    "Violent": 33,
+    "Action": 32,
+    "Adventure": 32,
+    "Indie": 32,
+    "Casual": 31,
+    "Horror": 20,
+    "FPS": 16,
+    "Survival Horror": 14,
+    "Psychological Horror": 13,
+    "First-Person": 13,
+    "Shooter": 12,
+    "Zombies": 12,
+    "Gothic": 11,
+    "Dark": 11,
+    "Atmospheric": 11,
+    "Realistic": 10,
+    "Singleplayer": 10,
+    "Gore": 10,
+    "Psychological": 10,
+    "Blood": 10
+  }
+}

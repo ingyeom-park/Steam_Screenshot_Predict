@@ -1,0 +1,26 @@
+{
+  "appid": 439250,
+  "success": true,
+  "tags": {
+    "Adventure": 434,
+    "Indie": 108,
+    "RPGMaker": 105,
+    "Space": 101,
+    "Sci-fi": 97,
+    "Female Protagonist": 90,
+    "Story Rich": 87,
+    "Pixel Graphics": 82,
+    "2D": 77,
+    "Singleplayer": 71,
+    "Casual": 66,
+    "RPG": 59,
+    "Point & Click": 54,
+    "Top-Down": 52,
+    "Cartoony": 50,
+    "Controller": 48,
+    "Episodic": 42,
+    "Action": 37,
+    "JRPG": 32,
+    "Exploration": 29
+  }
+}

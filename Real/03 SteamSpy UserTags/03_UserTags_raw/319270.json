@@ -1,0 +1,24 @@
+{
+  "appid": 319270,
+  "success": true,
+  "tags": {
+    "Puzzle": 115,
+    "Automation": 108,
+    "Simulation": 107,
+    "Programming": 106,
+    "Building": 102,
+    "Difficult": 99,
+    "2D": 90,
+    "Pixel Graphics": 84,
+    "Logic": 78,
+    "Strategy": 72,
+    "Sci-fi": 69,
+    "Level Editor": 65,
+    "Retro": 63,
+    "Singleplayer": 61,
+    "Indie": 58,
+    "Casual": 30,
+    "Great Soundtrack": 29,
+    "Action": 27
+  }
+}

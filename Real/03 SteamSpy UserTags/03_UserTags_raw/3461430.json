@@ -1,0 +1,26 @@
+{
+  "appid": 3461430,
+  "success": true,
+  "tags": {
+    "Choose Your Own Adventure": 195,
+    "Visual Novel": 189,
+    "Point & Click": 185,
+    "2D": 179,
+    "First-Person": 173,
+    "Choices Matter": 163,
+    "Casual": 161,
+    "Conversation": 157,
+    "Linear": 148,
+    "Cartoony": 132,
+    "Colorful": 121,
+    "Stylized": 119,
+    "Fantasy": 105,
+    "Zombies": 91,
+    "Comedy": 76,
+    "Drama": 60,
+    "Investigation": 43,
+    "Modern": 27,
+    "Singleplayer": 25,
+    "Indie": 24
+  }
+}

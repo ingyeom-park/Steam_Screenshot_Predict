@@ -1,0 +1,26 @@
+{
+  "appid": 296970,
+  "success": true,
+  "tags": {
+    "Strategy": 125,
+    "Adventure": 121,
+    "RPG": 101,
+    "Turn-Based": 101,
+    "Indie": 90,
+    "Turn-Based Strategy": 84,
+    "Rogue-like": 79,
+    "Singleplayer": 66,
+    "Exploration": 61,
+    "Tactical RPG": 56,
+    "Replay Value": 56,
+    "Economy": 52,
+    "Rogue-lite": 49,
+    "2D": 47,
+    "Diplomacy": 46,
+    "Funny": 28,
+    "Turn-Based Combat": 27,
+    "Turn-Based Tactics": 25,
+    "Comedy": 23,
+    "Casual": 12
+  }
+}

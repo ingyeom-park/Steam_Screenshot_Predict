@@ -1,0 +1,23 @@
+{
+  "appid": 598060,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 54,
+    "First-Person": 52,
+    "Dungeon Crawler": 50,
+    "RPG": 43,
+    "Action": 40,
+    "Indie": 36,
+    "Rogue-lite": 32,
+    "Rogue-like": 27,
+    "Gore": 25,
+    "Hack and Slash": 23,
+    "Violent": 22,
+    "Procedural Generation": 20,
+    "Loot": 15,
+    "Singleplayer": 11,
+    "Fantasy": 8,
+    "Stylized": 5,
+    "FPS": 5
+  }
+}

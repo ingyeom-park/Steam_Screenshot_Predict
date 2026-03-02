@@ -1,0 +1,26 @@
+{
+  "appid": 2136950,
+  "success": true,
+  "tags": {
+    "Simulation": 171,
+    "Automobile Sim": 165,
+    "Physics": 162,
+    "Driving": 159,
+    "Indie": 156,
+    "Arcade": 150,
+    "3D Platformer": 144,
+    "Precision Platformer": 136,
+    "3D": 127,
+    "Isometric": 117,
+    "Stylized": 110,
+    "Top-Down": 107,
+    "Transportation": 99,
+    "Character Customization": 88,
+    "Singleplayer": 86,
+    "Controller": 71,
+    "Puzzle-Platformer": 54,
+    "Colorful": 41,
+    "First-Person": 28,
+    "Education": 26
+  }
+}

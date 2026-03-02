@@ -1,0 +1,25 @@
+{
+  "appid": 1229890,
+  "success": true,
+  "tags": {
+    "Action": 76,
+    "Adventure": 70,
+    "Action-Adventure": 46,
+    "Platformer": 43,
+    "2D Platformer": 39,
+    "Side Scroller": 33,
+    "2D": 32,
+    "Anime": 32,
+    "Pixel Graphics": 30,
+    "Dark Fantasy": 26,
+    "Indie": 23,
+    "Retro": 23,
+    "Combat": 22,
+    "Female Protagonist": 20,
+    "Linear": 17,
+    "Story Rich": 15,
+    "Singleplayer": 14,
+    "Metroidvania": 8,
+    "Faith": 6
+  }
+}

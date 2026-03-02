@@ -1,0 +1,26 @@
+{
+  "appid": 1390190,
+  "success": true,
+  "tags": {
+    "Exploration": 450,
+    "Management": 446,
+    "Sandbox": 440,
+    "Education": 433,
+    "Nature": 429,
+    "Immersive Sim": 423,
+    "Building": 421,
+    "Casual": 417,
+    "2D": 413,
+    "Open World": 412,
+    "Cute": 411,
+    "Top-Down": 400,
+    "Relaxing": 400,
+    "Simulation": 384,
+    "Pixel Graphics": 306,
+    "Online Co-Op": 288,
+    "Singleplayer": 282,
+    "Colorful": 282,
+    "Indie": 275,
+    "Family Friendly": 272
+  }
+}

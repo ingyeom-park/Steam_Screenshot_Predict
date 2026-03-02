@@ -1,0 +1,26 @@
+{
+  "appid": 1214330,
+  "success": true,
+  "tags": {
+    "Rogue-like": 160,
+    "Multiplayer": 144,
+    "RPG": 141,
+    "Fantasy": 138,
+    "Text-Based": 135,
+    "Relaxing": 130,
+    "Strategy": 129,
+    "Indie": 125,
+    "Grid-Based Movement": 120,
+    "Board Game": 106,
+    "Card Game": 103,
+    "Rogue-lite": 97,
+    "Crafting": 94,
+    "Free to Play": 92,
+    "Massively Multiplayer": 80,
+    "PvP": 71,
+    "Turn-Based Combat": 64,
+    "Co-op": 61,
+    "Online Co-Op": 50,
+    "Singleplayer": 40
+  }
+}

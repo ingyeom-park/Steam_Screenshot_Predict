@@ -1,0 +1,26 @@
+{
+  "appid": 3173930,
+  "success": true,
+  "tags": {
+    "RPG": 338,
+    "Strategy": 333,
+    "Indie": 318,
+    "Turn-Based Strategy": 309,
+    "Strategy RPG": 304,
+    "Singleplayer": 288,
+    "Story Rich": 281,
+    "Historical": 273,
+    "Rogue-lite": 263,
+    "2D": 254,
+    "Pixel Graphics": 243,
+    "Retro": 232,
+    "Old School": 220,
+    "Cartoony": 206,
+    "Turn-Based Combat": 204,
+    "Board Game": 188,
+    "Tactical RPG": 171,
+    "Top-Down": 153,
+    "Minimalist": 134,
+    "Comedy": 114
+  }
+}

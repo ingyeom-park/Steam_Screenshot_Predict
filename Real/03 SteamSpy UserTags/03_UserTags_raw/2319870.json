@@ -1,0 +1,26 @@
+{
+  "appid": 2319870,
+  "success": true,
+  "tags": {
+    "Horror": 110,
+    "Atmospheric": 104,
+    "Thriller": 101,
+    "Mystery": 98,
+    "Dark": 95,
+    "Linear": 89,
+    "Immersive": 87,
+    "Realistic": 85,
+    "Choices Matter": 83,
+    "Exploration": 81,
+    "Investigation": 79,
+    "Adventure": 77,
+    "Multiple Endings": 64,
+    "Story Rich": 61,
+    "Walking Simulator": 60,
+    "First-Person": 59,
+    "3D": 55,
+    "Singleplayer": 54,
+    "Short": 52,
+    "Indie": 50
+  }
+}

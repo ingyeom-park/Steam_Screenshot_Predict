@@ -1,0 +1,25 @@
+{
+  "appid": 1545250,
+  "success": true,
+  "tags": {
+    "Action": 192,
+    "Casual": 186,
+    "Pixel Graphics": 181,
+    "Beat 'em up": 159,
+    "Side Scroller": 156,
+    "2D": 149,
+    "Cute": 146,
+    "Flight": 132,
+    "Retro": 125,
+    "Hunting": 113,
+    "Nature": 102,
+    "Score Attack": 100,
+    "Tutorial": 86,
+    "Conversation": 73,
+    "Character Customization": 58,
+    "Singleplayer": 43,
+    "Demons": 26,
+    "Vampire": 24,
+    "Indie": 23
+  }
+}

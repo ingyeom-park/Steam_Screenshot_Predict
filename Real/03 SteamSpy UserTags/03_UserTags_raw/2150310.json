@@ -1,0 +1,25 @@
+{
+  "appid": 2150310,
+  "success": true,
+  "tags": {
+    "Casual": 180,
+    "Strategy": 174,
+    "Card Game": 149,
+    "Rogue-like": 143,
+    "Clicker": 138,
+    "Creature Collector": 129,
+    "Rogue-lite": 120,
+    "2D": 115,
+    "Pixel Graphics": 109,
+    "Cartoon": 97,
+    "Relaxing": 95,
+    "Nature": 83,
+    "Deckbuilding": 71,
+    "Choices Matter": 55,
+    "Singleplayer": 41,
+    "Tower Defense": 31,
+    "Co-op": 27,
+    "Indie": 21,
+    "Adventure": 20
+  }
+}

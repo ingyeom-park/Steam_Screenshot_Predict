@@ -1,0 +1,26 @@
+{
+  "appid": 3052500,
+  "success": true,
+  "tags": {
+    "Rogue-lite": 305,
+    "Puzzle": 299,
+    "Gambling": 296,
+    "Western": 293,
+    "Turn-Based Strategy": 289,
+    "Procedural Generation": 280,
+    "Hex Grid": 274,
+    "Tabletop": 271,
+    "Board Game": 267,
+    "Singleplayer": 263,
+    "Strategy": 261,
+    "Survival": 253,
+    "Rogue-like": 249,
+    "Hand-drawn": 247,
+    "Capitalism": 243,
+    "Horses": 241,
+    "Nature": 237,
+    "Indie": 227,
+    "Exploration": 218,
+    "Grid-Based Movement": 217
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 238910,
+  "success": true,
+  "tags": {
+    "Strategy": 122,
+    "RPG": 111,
+    "Rogue-like": 97,
+    "Indie": 95,
+    "Turn-Based": 89,
+    "Turn-Based Strategy": 57,
+    "Sci-fi": 53,
+    "Mechs": 53,
+    "Tactical": 52,
+    "Robots": 41,
+    "Rogue-lite": 34,
+    "Top-Down": 27,
+    "Singleplayer": 26,
+    "Turn-Based Combat": 26,
+    "Procedural Generation": 26,
+    "Turn-Based Tactics": 26,
+    "Great Soundtrack": 25,
+    "2D": 20,
+    "Cyberpunk": 16,
+    "Post-apocalyptic": 14
+  }
+}

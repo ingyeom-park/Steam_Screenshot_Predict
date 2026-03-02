@@ -1,0 +1,26 @@
+{
+  "appid": 1578990,
+  "success": true,
+  "tags": {
+    "Casual": 137,
+    "Adventure": 130,
+    "Point & Click": 125,
+    "Puzzle": 121,
+    "Minimalist": 115,
+    "Atmospheric": 107,
+    "Heist": 104,
+    "Exploration": 102,
+    "Stylized": 99,
+    "Mystery": 92,
+    "Relaxing": 89,
+    "Female Protagonist": 86,
+    "2D": 83,
+    "Indie": 74,
+    "Retro": 63,
+    "Stealth": 59,
+    "Story Rich": 51,
+    "Singleplayer": 47,
+    "Investigation": 43,
+    "Side Scroller": 39
+  }
+}

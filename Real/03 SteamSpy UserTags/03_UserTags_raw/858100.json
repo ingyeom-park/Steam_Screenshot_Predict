@@ -1,0 +1,25 @@
+{
+  "appid": 858100,
+  "success": true,
+  "tags": {
+    "RPG": 44,
+    "Adventure": 43,
+    "Indie": 42,
+    "Strategy": 41,
+    "Turn-Based Combat": 29,
+    "Party-Based RPG": 24,
+    "Isometric": 24,
+    "Turn-Based": 23,
+    "Tactical": 23,
+    "Story Rich": 23,
+    "JRPG": 23,
+    "Singleplayer": 22,
+    "Tactical RPG": 21,
+    "Turn-Based Tactics": 21,
+    "Hand-drawn": 21,
+    "Atmospheric": 21,
+    "Fantasy": 21,
+    "Strategy RPG": 20,
+    "2D": 19
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 2197650,
+  "success": true,
+  "tags": {
+    "RPG": 95,
+    "Dungeon Crawler": 90,
+    "Party-Based RPG": 85,
+    "Grid-Based Movement": 82,
+    "Rome": 81,
+    "Hand-drawn": 71,
+    "1990's": 69,
+    "Dark Fantasy": 68,
+    "CRPG": 67,
+    "Old School": 65,
+    "Turn-Based Combat": 64,
+    "Gore": 55,
+    "Indie": 53,
+    "Horror": 32,
+    "First-Person": 31,
+    "Singleplayer": 30,
+    "Historical": 26,
+    "Zombies": 24
+  }
+}

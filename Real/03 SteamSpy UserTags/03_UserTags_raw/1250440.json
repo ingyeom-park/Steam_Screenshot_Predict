@@ -1,0 +1,25 @@
+{
+  "appid": 1250440,
+  "success": true,
+  "tags": {
+    "Action": 89,
+    "Indie": 85,
+    "Adventure": 83,
+    "Arcade": 80,
+    "Pixel Graphics": 73,
+    "Precision Platformer": 71,
+    "Anime": 71,
+    "Platformer": 70,
+    "2D Platformer": 66,
+    "2D": 57,
+    "Action-Adventure": 56,
+    "Retro": 48,
+    "Funny": 36,
+    "1980s": 36,
+    "Singleplayer": 35,
+    "1990's": 33,
+    "Addictive": 27,
+    "Casual": 26,
+    "Difficult": 9
+  }
+}

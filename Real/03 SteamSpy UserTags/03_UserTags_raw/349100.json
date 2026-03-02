@@ -1,0 +1,26 @@
+{
+  "appid": 349100,
+  "success": true,
+  "tags": {
+    "Action": 151,
+    "Top-Down Shooter": 145,
+    "Survival": 142,
+    "Crafting": 138,
+    "Adventure": 133,
+    "Indie": 127,
+    "Rogue-lite": 123,
+    "RPG": 118,
+    "Old School": 114,
+    "Multiple Endings": 109,
+    "Singleplayer": 107,
+    "Shooter": 100,
+    "Hack and Slash": 98,
+    "Shoot 'Em Up": 89,
+    "Top-Down": 86,
+    "Isometric": 82,
+    "Futuristic": 78,
+    "Sci-fi": 77,
+    "2D": 70,
+    "Aliens": 56
+  }
+}

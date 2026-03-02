@@ -1,0 +1,26 @@
+{
+  "appid": 294000,
+  "success": true,
+  "tags": {
+    "Arcade": 164,
+    "Action": 157,
+    "4 Player Local": 155,
+    "2D": 151,
+    "Local Multiplayer": 149,
+    "Top-Down": 143,
+    "Multiplayer": 137,
+    "Local Co-Op": 135,
+    "Fantasy": 132,
+    "Co-op": 130,
+    "Indie": 128,
+    "Casual": 125,
+    "Party Game": 123,
+    "Funny": 119,
+    "Controller": 109,
+    "Difficult": 94,
+    "Fighting": 78,
+    "Cartoony": 65,
+    "Medieval": 61,
+    "Singleplayer": 57
+  }
+}

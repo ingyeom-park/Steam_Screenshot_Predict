@@ -1,0 +1,26 @@
+{
+  "appid": 1159680,
+  "success": true,
+  "tags": {
+    "Indie": 245,
+    "RPG": 239,
+    "Sci-fi": 236,
+    "Action RPG": 232,
+    "Action": 229,
+    "Space": 224,
+    "Open World": 218,
+    "Simulation": 215,
+    "Pirates": 209,
+    "Space Sim": 204,
+    "Top-Down Shooter": 198,
+    "Aliens": 196,
+    "Bullet Hell": 194,
+    "Old School": 191,
+    "2D": 188,
+    "Top-Down": 184,
+    "Singleplayer": 182,
+    "Sandbox": 182,
+    "Controller": 178,
+    "Exploration": 175
+  }
+}

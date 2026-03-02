@@ -1,0 +1,26 @@
+{
+  "appid": 820030,
+  "success": true,
+  "tags": {
+    "Casual": 136,
+    "Adventure": 134,
+    "Puzzle": 130,
+    "Singleplayer": 127,
+    "Family Friendly": 121,
+    "Free to Play": 118,
+    "Board Game": 112,
+    "Solitaire": 110,
+    "2D": 107,
+    "Cartoony": 104,
+    "Colorful": 101,
+    "Cute": 96,
+    "Capitalism": 94,
+    "Logic": 80,
+    "Indie": 79,
+    "Female Protagonist": 71,
+    "PvE": 67,
+    "Tabletop": 65,
+    "Tutorial": 61,
+    "Turn-Based": 41
+  }
+}

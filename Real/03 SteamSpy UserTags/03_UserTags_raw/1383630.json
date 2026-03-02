@@ -1,0 +1,26 @@
+{
+  "appid": 1383630,
+  "success": true,
+  "tags": {
+    "Horror": 140,
+    "Puzzle": 134,
+    "Singleplayer": 131,
+    "Dark": 128,
+    "First-Person": 123,
+    "Indie": 117,
+    "Action": 115,
+    "Adventure": 112,
+    "Action-Adventure": 107,
+    "Arcade": 105,
+    "Psychological Horror": 99,
+    "Atmospheric": 92,
+    "Lovecraftian": 90,
+    "Shooter": 86,
+    "Sci-fi": 83,
+    "Survival": 78,
+    "Aliens": 69,
+    "Survival Horror": 65,
+    "Soundtrack": 54,
+    "Space": 47
+  }
+}

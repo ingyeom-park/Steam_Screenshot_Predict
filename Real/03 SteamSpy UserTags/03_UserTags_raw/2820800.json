@@ -1,0 +1,26 @@
+{
+  "appid": 2820800,
+  "success": true,
+  "tags": {
+    "Horror": 456,
+    "Indie": 443,
+    "Driving": 438,
+    "Thriller": 435,
+    "Psychological Horror": 431,
+    "Multiple Endings": 421,
+    "Retro": 420,
+    "Jump Scare": 418,
+    "Dark": 415,
+    "Singleplayer": 409,
+    "1990's": 403,
+    "Atmospheric": 400,
+    "Interactive Fiction": 394,
+    "Stylized": 393,
+    "First-Person": 392,
+    "3D": 390,
+    "Linear": 386,
+    "Transportation": 384,
+    "Adventure": 383,
+    "Walking Simulator": 141
+  }
+}

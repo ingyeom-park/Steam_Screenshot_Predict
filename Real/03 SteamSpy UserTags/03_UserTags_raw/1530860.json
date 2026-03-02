@@ -1,0 +1,26 @@
+{
+  "appid": 1530860,
+  "success": true,
+  "tags": {
+    "VR": 182,
+    "Action": 176,
+    "Psychological Horror": 173,
+    "Horror": 168,
+    "Survival Horror": 162,
+    "Action-Adventure": 153,
+    "Exploration": 149,
+    "1980s": 145,
+    "Idler": 134,
+    "Atmospheric": 133,
+    "Indie": 131,
+    "Violent": 129,
+    "Stealth": 121,
+    "Narration": 118,
+    "Singleplayer": 105,
+    "Adventure": 90,
+    "First-Person": 73,
+    "Dark": 64,
+    "Puzzle": 61,
+    "Realistic": 59
+  }
+}

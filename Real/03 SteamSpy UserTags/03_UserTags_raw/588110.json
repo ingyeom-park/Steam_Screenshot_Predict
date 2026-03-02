@@ -1,0 +1,26 @@
+{
+  "appid": 588110,
+  "success": true,
+  "tags": {
+    "Action": 112,
+    "Indie": 111,
+    "Adventure": 110,
+    "Platformer": 78,
+    "Pixel Graphics": 78,
+    "Side Scroller": 76,
+    "Cute": 71,
+    "2D": 70,
+    "Metroidvania": 70,
+    "Atmospheric": 65,
+    "Exploration": 64,
+    "Mystery": 63,
+    "Story Rich": 62,
+    "Great Soundtrack": 60,
+    "Historical": 59,
+    "Singleplayer": 59,
+    "Shooter": 53,
+    "Action-Adventure": 52,
+    "Futuristic": 50,
+    "Hack and Slash": 45
+  }
+}

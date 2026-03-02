@@ -1,0 +1,26 @@
+{
+  "appid": 218060,
+  "success": true,
+  "tags": {
+    "Rhythm": 268,
+    "Platformer": 255,
+    "Indie": 245,
+    "Music": 189,
+    "Difficult": 168,
+    "Runner": 162,
+    "Action": 160,
+    "Singleplayer": 157,
+    "Precision Platformer": 155,
+    "Colorful": 153,
+    "Arcade": 148,
+    "Side Scroller": 144,
+    "Comedy": 141,
+    "Controller": 139,
+    "Linear": 137,
+    "Great Soundtrack": 132,
+    "Casual": 102,
+    "Score Attack": 77,
+    "2D": 68,
+    "Addictive": 58
+  }
+}

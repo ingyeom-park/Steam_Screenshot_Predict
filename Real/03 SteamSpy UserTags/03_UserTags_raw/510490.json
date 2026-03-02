@@ -1,0 +1,21 @@
+{
+  "appid": 510490,
+  "success": true,
+  "tags": {
+    "Adventure": 39,
+    "Action": 37,
+    "Indie": 29,
+    "Puzzle": 27,
+    "Story Rich": 25,
+    "Sci-fi": 22,
+    "Female Protagonist": 21,
+    "Robots": 16,
+    "Singleplayer": 9,
+    "2D": 8,
+    "Cyberpunk": 7,
+    "Metroidvania": 6,
+    "Atmospheric": 6,
+    "Platformer": 5,
+    "Side Scroller": 5
+  }
+}

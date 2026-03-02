@@ -1,0 +1,26 @@
+{
+  "appid": 1286330,
+  "success": true,
+  "tags": {
+    "JRPG": 131,
+    "Casual": 129,
+    "Story Rich": 127,
+    "Puzzle": 125,
+    "RPG": 123,
+    "Stealth": 120,
+    "Multiple Endings": 117,
+    "Cute": 113,
+    "Adventure": 96,
+    "Visual Novel": 94,
+    "Word Game": 92,
+    "Anime": 87,
+    "Pixel Graphics": 86,
+    "Colorful": 82,
+    "Magic": 81,
+    "Drama": 79,
+    "Indie": 74,
+    "Combat": 57,
+    "Singleplayer": 56,
+    "Strategy": 49
+  }
+}

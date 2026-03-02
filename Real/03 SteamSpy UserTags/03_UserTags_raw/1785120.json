@@ -1,0 +1,26 @@
+{
+  "appid": 1785120,
+  "success": true,
+  "tags": {
+    "Horror": 174,
+    "Survival Horror": 166,
+    "Online Co-Op": 162,
+    "Exploration": 159,
+    "Action": 155,
+    "Multiplayer": 154,
+    "Singleplayer": 145,
+    "Indie": 142,
+    "Psychological Horror": 138,
+    "Co-op": 134,
+    "Loot": 133,
+    "First-Person": 123,
+    "Artificial Intelligence": 118,
+    "Dark": 115,
+    "Supernatural": 110,
+    "3D": 106,
+    "FPS": 96,
+    "Survival": 83,
+    "Investigation": 68,
+    "Shooter": 53
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "appid": 1162010,
+  "success": true,
+  "tags": {
+    "Action": 33,
+    "Adventure": 32,
+    "RPG": 32,
+    "Indie": 32,
+    "Casual": 32,
+    "Strategy": 30,
+    "RPGMaker": 15,
+    "Hack and Slash": 12,
+    "Open World": 12,
+    "War": 11,
+    "Fantasy": 11
+  }
+}

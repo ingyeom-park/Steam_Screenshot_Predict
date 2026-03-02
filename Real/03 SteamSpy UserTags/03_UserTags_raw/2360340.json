@@ -1,0 +1,26 @@
+{
+  "appid": 2360340,
+  "success": true,
+  "tags": {
+    "VR": 127,
+    "Simulation": 121,
+    "Realistic": 118,
+    "Immersive Sim": 112,
+    "Action-Adventure": 109,
+    "Nature": 101,
+    "Exploration": 97,
+    "Time Attack": 94,
+    "Racing": 90,
+    "Relaxing": 84,
+    "Arcade": 79,
+    "Casual": 77,
+    "Physics": 74,
+    "Indie": 69,
+    "Sports": 60,
+    "Action": 57,
+    "3D Vision": 54,
+    "Adventure": 52,
+    "Singleplayer": 31,
+    "First-Person": 29
+  }
+}

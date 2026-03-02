@@ -1,0 +1,25 @@
+{
+  "appid": 1098080,
+  "success": true,
+  "tags": {
+    "Action": 98,
+    "Adventure": 94,
+    "Souls-like": 90,
+    "Metroidvania": 90,
+    "Indie": 84,
+    "Platformer": 82,
+    "Difficult": 82,
+    "Dark Fantasy": 82,
+    "Side Scroller": 80,
+    "Hack and Slash": 78,
+    "2D": 78,
+    "Singleplayer": 78,
+    "Exploration": 76,
+    "Atmospheric": 75,
+    "2.5D": 75,
+    "Open World": 74,
+    "Great Soundtrack": 74,
+    "Controller": 73,
+    "RPG": 61
+  }
+}

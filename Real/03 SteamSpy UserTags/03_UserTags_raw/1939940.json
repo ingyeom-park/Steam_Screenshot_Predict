@@ -1,0 +1,26 @@
+{
+  "appid": 1939940,
+  "success": true,
+  "tags": {
+    "Board Game": 352,
+    "Strategy": 343,
+    "Puzzle": 339,
+    "Fantasy": 338,
+    "Dungeons & Dragons": 335,
+    "RPG": 334,
+    "Casual": 328,
+    "Tabletop": 323,
+    "Logic": 319,
+    "Card Game": 319,
+    "Character Customization": 309,
+    "Artificial Intelligence": 241,
+    "Turn-Based Tactics": 238,
+    "Turn-Based Strategy": 237,
+    "Indie": 236,
+    "Singleplayer": 234,
+    "Multiplayer": 233,
+    "Tutorial": 229,
+    "2D": 226,
+    "Class-Based": 219
+  }
+}

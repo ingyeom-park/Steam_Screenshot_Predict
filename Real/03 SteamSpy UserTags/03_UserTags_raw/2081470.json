@@ -1,0 +1,24 @@
+{
+  "appid": 2081470,
+  "success": true,
+  "tags": {
+    "Adventure": 125,
+    "VR": 121,
+    "Action-Adventure": 118,
+    "Puzzle": 111,
+    "Physics": 111,
+    "Combat": 99,
+    "Atmospheric": 98,
+    "Story Rich": 97,
+    "Mystery": 93,
+    "Sci-fi": 86,
+    "Action": 63,
+    "Indie": 58,
+    "6DOF": 55,
+    "Singleplayer": 51,
+    "Linear": 42,
+    "Exploration": 36,
+    "FPS": 34,
+    "Space": 27
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 400170,
+  "success": true,
+  "tags": {
+    "RPG": 166,
+    "Adventure": 137,
+    "Hack and Slash": 137,
+    "Action RPG": 121,
+    "Action": 119,
+    "Loot": 94,
+    "Indie": 91,
+    "Multiplayer": 90,
+    "Co-op": 89,
+    "Steampunk": 86,
+    "Isometric": 84,
+    "Singleplayer": 81,
+    "Dark Fantasy": 73,
+    "Fantasy": 72,
+    "Vampire": 71,
+    "Funny": 65,
+    "Story Rich": 64,
+    "Gothic": 61,
+    "Co-op Campaign": 59,
+    "Magic": 59
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "appid": 1181330,
+  "success": true,
+  "tags": {
+    "Action": 32,
+    "Adventure": 32,
+    "Indie": 32,
+    "Shooter": 15,
+    "Minimalist": 13,
+    "Casual": 12,
+    "FPS": 12,
+    "First-Person": 12,
+    "Retro": 12,
+    "Singleplayer": 12
+  }
+}

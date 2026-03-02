@@ -1,0 +1,26 @@
+{
+  "appid": 1704060,
+  "success": true,
+  "tags": {
+    "Casual": 232,
+    "Simulation": 226,
+    "Strategy": 220,
+    "RPG": 213,
+    "JRPG": 185,
+    "Life Sim": 182,
+    "2D Platformer": 172,
+    "CRPG": 162,
+    "2D": 158,
+    "Cute": 148,
+    "Anime": 143,
+    "Drama": 127,
+    "Funny": 110,
+    "Comedy": 95,
+    "Memes": 79,
+    "Dark Humor": 62,
+    "Linear": 44,
+    "Indie": 30,
+    "Character Customization": 28,
+    "Singleplayer": 25
+  }
+}

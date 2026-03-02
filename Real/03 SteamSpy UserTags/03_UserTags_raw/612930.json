@@ -1,0 +1,26 @@
+{
+  "appid": 612930,
+  "success": true,
+  "tags": {
+    "Action": 115,
+    "Indie": 111,
+    "Fighting": 109,
+    "2D Fighter": 104,
+    "Mythology": 103,
+    "Memes": 95,
+    "2.5D": 88,
+    "2D": 82,
+    "Funny": 79,
+    "Singleplayer": 77,
+    "Local Multiplayer": 75,
+    "Multiplayer": 73,
+    "Casual": 70,
+    "Beat 'em up": 66,
+    "Spectacle fighter": 60,
+    "Anime": 53,
+    "Satire": 47,
+    "Turn-Based Combat": 38,
+    "PvP": 35,
+    "Early Access": 31
+  }
+}

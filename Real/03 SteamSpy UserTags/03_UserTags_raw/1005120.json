@@ -1,0 +1,15 @@
+{
+  "appid": 1005120,
+  "success": true,
+  "tags": {
+    "RPG": 90,
+    "Adventure": 85,
+    "Indie": 81,
+    "Rogue-like": 73,
+    "Singleplayer": 33,
+    "Faith": 18,
+    "Anime": 16,
+    "Mystery Dungeon": 11,
+    "2D": 5
+  }
+}

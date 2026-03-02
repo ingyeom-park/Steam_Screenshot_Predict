@@ -1,0 +1,26 @@
+{
+  "appid": 1548400,
+  "success": true,
+  "tags": {
+    "Party Game": 209,
+    "Multiplayer": 204,
+    "3D Platformer": 177,
+    "PvP": 162,
+    "Racing": 160,
+    "Action": 143,
+    "Parkour": 137,
+    "Casual": 117,
+    "Family Friendly": 114,
+    "Character Customization": 107,
+    "Online Co-Op": 104,
+    "Funny": 101,
+    "3D": 69,
+    "Platformer": 67,
+    "Relaxing": 64,
+    "Comedy": 63,
+    "Co-op": 59,
+    "Cute": 57,
+    "Indie": 54,
+    "Difficult": 50
+  }
+}

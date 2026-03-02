@@ -1,0 +1,26 @@
+{
+  "appid": 1272120,
+  "success": true,
+  "tags": {
+    "Casual": 234,
+    "Indie": 225,
+    "Arcade": 222,
+    "Space": 219,
+    "Singleplayer": 213,
+    "Pinball": 209,
+    "Physics": 206,
+    "Nostalgia": 201,
+    "Rogue-lite": 196,
+    "2D": 194,
+    "Sci-fi": 192,
+    "Platformer": 187,
+    "Spectacle fighter": 185,
+    "Action Roguelike": 168,
+    "2D Platformer": 156,
+    "Precision Platformer": 151,
+    "3D": 146,
+    "2.5D": 116,
+    "Hand-drawn": 114,
+    "Stylized": 110
+  }
+}

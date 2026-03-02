@@ -1,0 +1,26 @@
+{
+  "appid": 209670,
+  "success": true,
+  "tags": {
+    "Strategy": 1352,
+    "Indie": 149,
+    "Action": 132,
+    "2D": 125,
+    "Physics": 124,
+    "Sandbox": 114,
+    "Pixel Graphics": 97,
+    "Moddable": 91,
+    "Local Co-Op": 90,
+    "Sci-fi": 79,
+    "Singleplayer": 47,
+    "Local Multiplayer": 43,
+    "Difficult": 40,
+    "Gore": 32,
+    "Platformer": 31,
+    "Multiplayer": 30,
+    "Split Screen": 28,
+    "RTS": 26,
+    "Violent": 22,
+    "Replay Value": 22
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1606340,
+  "success": true,
+  "tags": {
+    "Turn-Based Strategy": 230,
+    "Strategy": 229,
+    "Fantasy": 218,
+    "4X": 212,
+    "Magic": 199,
+    "Rogue-like": 188,
+    "Exploration": 180,
+    "Medieval": 169,
+    "Moddable": 162,
+    "Rogue-lite": 152,
+    "Procedural Generation": 144,
+    "Co-op": 128,
+    "Asynchronous Multiplayer": 127,
+    "Local Co-Op": 114,
+    "Local Multiplayer": 99,
+    "Multiplayer": 83,
+    "Singleplayer": 69,
+    "2D": 55,
+    "Indie": 36,
+    "PvP": 28
+  }
+}

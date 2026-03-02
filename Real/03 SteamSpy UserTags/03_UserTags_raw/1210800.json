@@ -1,0 +1,26 @@
+{
+  "appid": 1210800,
+  "success": true,
+  "tags": {
+    "Action RPG": 164,
+    "Pirates": 159,
+    "Hack and Slash": 156,
+    "Action-Adventure": 152,
+    "Loot": 148,
+    "Top-Down Shooter": 139,
+    "Shooter": 134,
+    "Indie": 129,
+    "Adventure": 128,
+    "Top-Down": 124,
+    "Dungeon Crawler": 121,
+    "Action": 114,
+    "Funny": 72,
+    "RPG": 70,
+    "Fantasy": 68,
+    "Isometric": 65,
+    "Naval": 63,
+    "Historical": 57,
+    "Combat": 54,
+    "Singleplayer": 51
+  }
+}

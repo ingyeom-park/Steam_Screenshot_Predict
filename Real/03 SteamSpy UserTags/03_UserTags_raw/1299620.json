@@ -1,0 +1,26 @@
+{
+  "appid": 1299620,
+  "success": true,
+  "tags": {
+    "CRPG": 197,
+    "Open World": 191,
+    "Choose Your Own Adventure": 188,
+    "RPG": 183,
+    "Rogue-lite": 179,
+    "Interactive Fiction": 173,
+    "Story Rich": 172,
+    "Text-Based": 169,
+    "Tactical RPG": 163,
+    "Indie": 153,
+    "Tabletop": 149,
+    "Rogue-like": 144,
+    "Strategy RPG": 139,
+    "Open World Survival Craft": 136,
+    "Turn-Based Strategy": 133,
+    "Old School": 128,
+    "Fantasy": 113,
+    "Turn-Based Combat": 100,
+    "Hex Grid": 92,
+    "Singleplayer": 89
+  }
+}

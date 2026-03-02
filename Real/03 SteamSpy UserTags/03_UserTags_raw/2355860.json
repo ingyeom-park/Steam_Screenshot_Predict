@@ -1,0 +1,24 @@
+{
+  "appid": 2355860,
+  "success": true,
+  "tags": {
+    "Multiplayer": 104,
+    "Online Co-Op": 97,
+    "PvP": 93,
+    "Co-op": 89,
+    "Cartoony": 86,
+    "Heist": 80,
+    "Stealth": 78,
+    "Third Person": 75,
+    "Physics": 74,
+    "Family Friendly": 72,
+    "Action": 69,
+    "Colorful": 67,
+    "Comedy": 65,
+    "Casual": 64,
+    "Indie": 50,
+    "Funny": 31,
+    "Team-Based": 28,
+    "Survival Horror": 24
+  }
+}

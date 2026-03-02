@@ -1,0 +1,26 @@
+{
+  "appid": 2142450,
+  "success": true,
+  "tags": {
+    "Shooter": 202,
+    "Open World": 197,
+    "Action": 193,
+    "Adventure": 190,
+    "Exploration": 186,
+    "VR": 180,
+    "Post-apocalyptic": 177,
+    "RPG": 172,
+    "Horror": 168,
+    "Story Rich": 160,
+    "Gun Customization": 154,
+    "Realistic": 148,
+    "Survival": 137,
+    "Action RPG": 124,
+    "Atmospheric": 116,
+    "Survival Horror": 112,
+    "Indie": 107,
+    "Sci-fi": 93,
+    "Stealth": 91,
+    "Singleplayer": 85
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "appid": 2423300,
+  "success": true,
+  "tags": {
+    "Horror": 72,
+    "Online Co-Op": 58,
+    "Multiplayer": 53,
+    "Procedural Generation": 50,
+    "Action": 47,
+    "Stealth": 40,
+    "Co-op": 32,
+    "Rogue-like": 29,
+    "Indie": 23,
+    "Rogue-lite": 23,
+    "3D": 20,
+    "Controller": 20,
+    "Singleplayer": 17
+  }
+}

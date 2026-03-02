@@ -1,0 +1,24 @@
+{
+  "appid": 698790,
+  "success": true,
+  "tags": {
+    "VR": 50,
+    "Action": 35,
+    "Adventure": 34,
+    "Casual": 31,
+    "Simulation": 30,
+    "Indie": 26,
+    "Funny": 15,
+    "Comedy": 11,
+    "Cartoon": 11,
+    "Satire": 10,
+    "Arcade": 10,
+    "First-Person": 10,
+    "Singleplayer": 10,
+    "3D": 10,
+    "Colorful": 10,
+    "6DOF": 10,
+    "Family Friendly": 10,
+    "Shoot 'Em Up": 9
+  }
+}

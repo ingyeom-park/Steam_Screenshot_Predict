@@ -1,0 +1,19 @@
+{
+  "appid": 26000,
+  "success": true,
+  "tags": {
+    "Indie": 82,
+    "Action": 57,
+    "Platformer": 36,
+    "Cute": 32,
+    "Adventure": 31,
+    "3D Platformer": 13,
+    "Puzzle": 8,
+    "Comedy": 8,
+    "Casual": 7,
+    "Aliens": 6,
+    "Funny": 5,
+    "Singleplayer": 5,
+    "Family Friendly": 5
+  }
+}

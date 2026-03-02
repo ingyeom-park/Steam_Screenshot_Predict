@@ -1,0 +1,26 @@
+{
+  "appid": 2593900,
+  "success": true,
+  "tags": {
+    "Horror": 167,
+    "Thriller": 155,
+    "Psychological Horror": 155,
+    "Choices Matter": 149,
+    "Survival Horror": 141,
+    "Immersive Sim": 132,
+    "Immersive": 123,
+    "3D": 115,
+    "2.5D": 107,
+    "Investigation": 98,
+    "Old School": 97,
+    "Retro": 83,
+    "Multiple Endings": 71,
+    "Stealth": 56,
+    "Adventure": 42,
+    "Story Rich": 28,
+    "Singleplayer": 27,
+    "Gore": 22,
+    "Violent": 22,
+    "Indie": 22
+  }
+}

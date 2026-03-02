@@ -1,0 +1,26 @@
+{
+  "appid": 591000,
+  "success": true,
+  "tags": {
+    "Action": 44,
+    "Indie": 44,
+    "Simulation": 42,
+    "Strategy": 42,
+    "Adventure": 40,
+    "Action Roguelike": 35,
+    "Space": 16,
+    "Rogue-lite": 16,
+    "Sci-fi": 13,
+    "Funny": 13,
+    "Survival": 13,
+    "Post-apocalyptic": 12,
+    "Atmospheric": 12,
+    "Singleplayer": 12,
+    "Choices Matter": 12,
+    "Artificial Intelligence": 12,
+    "Rogue-like": 11,
+    "Comedy": 11,
+    "Difficult": 11,
+    "Dark Comedy": 11
+  }
+}

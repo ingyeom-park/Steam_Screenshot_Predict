@@ -1,0 +1,20 @@
+{
+  "appid": 342260,
+  "success": true,
+  "tags": {
+    "Adventure": 45,
+    "Indie": 40,
+    "Psychological Horror": 39,
+    "Horror": 30,
+    "Puzzle": 28,
+    "Mystery": 26,
+    "Surreal": 24,
+    "Gore": 20,
+    "Violent": 20,
+    "Story Rich": 19,
+    "Atmospheric": 16,
+    "Thriller": 15,
+    "First-Person": 10,
+    "VR": 8
+  }
+}

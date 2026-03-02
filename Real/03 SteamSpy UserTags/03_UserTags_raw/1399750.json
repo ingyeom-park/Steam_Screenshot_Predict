@@ -1,0 +1,26 @@
+{
+  "appid": 1399750,
+  "success": true,
+  "tags": {
+    "Action": 219,
+    "Adventure": 208,
+    "Action-Adventure": 186,
+    "Platformer": 183,
+    "Arcade": 183,
+    "Metroidvania": 178,
+    "2D Platformer": 173,
+    "Side Scroller": 153,
+    "2D": 148,
+    "Pixel Graphics": 146,
+    "1980s": 126,
+    "1990's": 125,
+    "Dark Fantasy": 108,
+    "Dragons": 93,
+    "Fantasy": 83,
+    "Dark": 63,
+    "Medieval": 45,
+    "Indie": 33,
+    "Singleplayer": 31,
+    "Hack and Slash": 29
+  }
+}

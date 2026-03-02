@@ -1,0 +1,26 @@
+{
+  "appid": 1783800,
+  "success": true,
+  "tags": {
+    "Sokoban": 1107,
+    "Cartoony": 809,
+    "Family Friendly": 780,
+    "Mystery": 756,
+    "Funny": 744,
+    "Colorful": 715,
+    "2D": 706,
+    "Stylized": 702,
+    "Pixel Graphics": 699,
+    "Singleplayer": 686,
+    "Horror": 664,
+    "Puzzle": 570,
+    "Exploration": 563,
+    "Adventure": 560,
+    "Point & Click": 549,
+    "Indie": 547,
+    "Cinematic": 543,
+    "Dark": 527,
+    "Hidden Object": 522,
+    "First-Person": 507
+  }
+}

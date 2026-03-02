@@ -1,0 +1,19 @@
+{
+  "appid": 92300,
+  "success": true,
+  "tags": {
+    "Action": 92,
+    "Platformer": 87,
+    "Indie": 62,
+    "Side Scroller": 55,
+    "Sci-fi": 30,
+    "2D": 29,
+    "Robots": 29,
+    "Shooter": 19,
+    "Short": 18,
+    "Singleplayer": 17,
+    "Space": 12,
+    "Arcade": 9,
+    "Metroidvania": 6
+  }
+}

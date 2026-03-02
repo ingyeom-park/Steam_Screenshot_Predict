@@ -1,0 +1,26 @@
+{
+  "appid": 1408110,
+  "success": true,
+  "tags": {
+    "Horror": 132,
+    "Psychological Horror": 125,
+    "Survival Horror": 121,
+    "Experimental": 118,
+    "PvE": 113,
+    "First-Person": 105,
+    "Minimalist": 103,
+    "Singleplayer": 101,
+    "Gore": 98,
+    "Indie": 90,
+    "Nudity": 86,
+    "Violent": 79,
+    "Multiplayer": 78,
+    "Free to Play": 55,
+    "Memes": 45,
+    "Sexual Content": 41,
+    "Co-op": 35,
+    "Anime": 35,
+    "Funny": 31,
+    "Casual": 30
+  }
+}

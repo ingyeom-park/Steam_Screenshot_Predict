@@ -1,0 +1,26 @@
+{
+  "appid": 1562700,
+  "success": true,
+  "tags": {
+    "Pixel Graphics": 288,
+    "Story Rich": 265,
+    "Action": 247,
+    "Cyberpunk": 221,
+    "Adventure": 191,
+    "2D Platformer": 177,
+    "Singleplayer": 166,
+    "Action-Adventure": 165,
+    "2D": 163,
+    "Platformer": 153,
+    "Indie": 150,
+    "Retro": 101,
+    "Difficult": 95,
+    "Side Scroller": 83,
+    "Atmospheric": 83,
+    "Great Soundtrack": 75,
+    "Precision Platformer": 62,
+    "Linear": 47,
+    "Sci-fi": 33,
+    "Dystopian ": 33
+  }
+}

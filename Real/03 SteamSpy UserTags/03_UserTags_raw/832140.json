@@ -1,0 +1,26 @@
+{
+  "appid": 832140,
+  "success": true,
+  "tags": {
+    "Co-op": 1167,
+    "Arcade": 216,
+    "Bullet Hell": 211,
+    "Souls-like": 203,
+    "Local Co-Op": 195,
+    "Singleplayer": 186,
+    "2D": 180,
+    "Demons": 168,
+    "Cartoon": 163,
+    "Shoot 'Em Up": 160,
+    "Difficult": 152,
+    "Indie": 128,
+    "Action": 116,
+    "Adventure": 112,
+    "Survival": 103,
+    "Atmospheric": 101,
+    "Horror": 94,
+    "Crafting": 87,
+    "Strategy": 85,
+    "Survival Horror": 82
+  }
+}

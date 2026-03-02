@@ -1,0 +1,26 @@
+{
+  "appid": 1086850,
+  "success": true,
+  "tags": {
+    "Casual": 180,
+    "Simulation": 176,
+    "VR": 176,
+    "Indie": 172,
+    "Cozy": 171,
+    "Cute": 160,
+    "Farming": 159,
+    "Family Friendly": 157,
+    "Farming Sim": 155,
+    "Crafting": 153,
+    "Relaxing": 152,
+    "Agriculture": 144,
+    "Early Access": 132,
+    "Sandbox": 126,
+    "Base-Building": 123,
+    "Creature Collector": 121,
+    "Exploration": 118,
+    "Immersive Sim": 112,
+    "Cartoony": 111,
+    "Atmospheric": 103
+  }
+}

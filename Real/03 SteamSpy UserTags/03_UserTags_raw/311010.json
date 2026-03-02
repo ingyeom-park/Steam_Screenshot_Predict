@@ -1,0 +1,24 @@
+{
+  "appid": 311010,
+  "success": true,
+  "tags": {
+    "Adventure": 74,
+    "Indie": 58,
+    "Action": 57,
+    "Pixel Graphics": 50,
+    "Platformer": 42,
+    "Puzzle-Platformer": 41,
+    "2D": 31,
+    "Sci-fi": 31,
+    "Retro": 30,
+    "Singleplayer": 22,
+    "Side Scroller": 19,
+    "Atmospheric": 19,
+    "Puzzle": 18,
+    "Story Rich": 15,
+    "Difficult": 10,
+    "Family Friendly": 9,
+    "Relaxing": 7,
+    "Great Soundtrack": 5
+  }
+}

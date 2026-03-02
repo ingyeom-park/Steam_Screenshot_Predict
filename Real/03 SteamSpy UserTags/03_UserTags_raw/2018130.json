@@ -1,0 +1,26 @@
+{
+  "appid": 2018130,
+  "success": true,
+  "tags": {
+    "Simulation": 71,
+    "RPG": 50,
+    "City Builder": 45,
+    "Clicker": 39,
+    "Strategy": 30,
+    "Pixel Graphics": 28,
+    "2D": 25,
+    "Indie": 22,
+    "Immersive Sim": 22,
+    "Fantasy": 21,
+    "Medieval": 19,
+    "Idler": 17,
+    "Choices Matter": 16,
+    "Singleplayer": 15,
+    "Management": 12,
+    "Resource Management": 11,
+    "Life Sim": 11,
+    "Casual": 11,
+    "Rogue-like": 10,
+    "Building": 10
+  }
+}

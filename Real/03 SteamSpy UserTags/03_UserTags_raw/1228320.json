@@ -1,0 +1,26 @@
+{
+  "appid": 1228320,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 118,
+    "Hack and Slash": 110,
+    "Online Co-Op": 110,
+    "Rogue-lite": 103,
+    "Dungeon Crawler": 102,
+    "PvE": 95,
+    "Rogue-like": 94,
+    "RPG": 88,
+    "Top-Down": 83,
+    "Procedural Generation": 79,
+    "Action": 72,
+    "Co-op": 65,
+    "Early Access": 39,
+    "Fantasy": 36,
+    "Multiplayer": 35,
+    "Loot": 35,
+    "Singleplayer": 32,
+    "Indie": 31,
+    "3D": 30,
+    "Action RPG": 28
+  }
+}

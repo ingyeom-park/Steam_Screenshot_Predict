@@ -1,0 +1,26 @@
+{
+  "appid": 1139160,
+  "success": true,
+  "tags": {
+    "RPG": 144,
+    "JRPG": 137,
+    "Fantasy": 131,
+    "Story Rich": 127,
+    "Exploration": 124,
+    "Turn-Based Combat": 123,
+    "RPGMaker": 122,
+    "Turn-Based": 116,
+    "Old School": 115,
+    "2D": 108,
+    "Pixel Graphics": 96,
+    "Retro": 86,
+    "1990's": 81,
+    "Diplomacy": 79,
+    "Family Friendly": 77,
+    "Indie": 76,
+    "Magic": 75,
+    "Military": 73,
+    "Political": 73,
+    "War": 70
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 22230,
+  "success": true,
+  "tags": {
+    "Comedy": 145,
+    "Strategy": 124,
+    "Indie": 123,
+    "Tower Defense": 109,
+    "Action": 109,
+    "Racing": 84,
+    "Historical": 62,
+    "Multiplayer": 61,
+    "Funny": 49,
+    "Local Multiplayer": 40,
+    "Bowling": 36,
+    "Singleplayer": 34,
+    "Destruction": 30,
+    "Casual": 26,
+    "Split Screen": 23,
+    "Physics": 10,
+    "Co-op": 10,
+    "Medieval": 7
+  }
+}

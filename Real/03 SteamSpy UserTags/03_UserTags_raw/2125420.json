@@ -1,0 +1,26 @@
+{
+  "appid": 2125420,
+  "success": true,
+  "tags": {
+    "Traditional Roguelike": 122,
+    "Rogue-like": 113,
+    "Dungeon Crawler": 109,
+    "RPG": 103,
+    "Fantasy": 97,
+    "Procedural Generation": 92,
+    "Turn-Based Combat": 90,
+    "Perma Death": 81,
+    "Top-Down": 76,
+    "Grid-Based Movement": 73,
+    "Pixel Graphics": 70,
+    "Indie": 59,
+    "Singleplayer": 46,
+    "CRPG": 46,
+    "2D": 41,
+    "Hack and Slash": 34,
+    "Character Customization": 32,
+    "Combat": 30,
+    "Retro": 29,
+    "Dark Fantasy": 26
+  }
+}

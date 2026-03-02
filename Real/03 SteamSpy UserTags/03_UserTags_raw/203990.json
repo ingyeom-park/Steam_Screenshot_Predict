@@ -1,0 +1,26 @@
+{
+  "appid": 203990,
+  "success": true,
+  "tags": {
+    "Shoot 'Em Up": 150,
+    "Bullet Hell": 142,
+    "Indie": 138,
+    "Side Scroller": 137,
+    "Action": 129,
+    "Arcade": 122,
+    "2D": 119,
+    "Singleplayer": 116,
+    "Pixel Graphics": 114,
+    "Shooter": 111,
+    "Robots": 107,
+    "Sci-fi": 99,
+    "Anime": 88,
+    "Space": 79,
+    "Retro": 71,
+    "Score Attack": 68,
+    "Casual": 66,
+    "1980s": 64,
+    "1990's": 59,
+    "Precision Platformer": 51
+  }
+}

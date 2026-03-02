@@ -1,0 +1,26 @@
+{
+  "appid": 2909230,
+  "success": true,
+  "tags": {
+    "Indie": 263,
+    "Violent": 256,
+    "Horror": 253,
+    "Psychological Horror": 246,
+    "Action": 240,
+    "Cinematic": 230,
+    "Realistic": 213,
+    "Immersive Sim": 205,
+    "Comedy": 197,
+    "Adventure": 196,
+    "Exploration": 186,
+    "Drama": 165,
+    "3D": 152,
+    "Action-Adventure": 150,
+    "First-Person": 135,
+    "Rhythm": 120,
+    "Controller": 102,
+    "Dark Comedy": 84,
+    "Survival Horror": 65,
+    "Supernatural": 46
+  }
+}

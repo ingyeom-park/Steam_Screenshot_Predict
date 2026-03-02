@@ -1,0 +1,26 @@
+{
+  "appid": 1036260,
+  "success": true,
+  "tags": {
+    "Adventure": 85,
+    "Indie": 83,
+    "Casual": 80,
+    "Simulation": 78,
+    "VR": 26,
+    "Mythology": 19,
+    "First-Person": 18,
+    "Atmospheric": 18,
+    "Singleplayer": 18,
+    "Stylized": 18,
+    "Puzzle": 18,
+    "Fantasy": 17,
+    "Great Soundtrack": 17,
+    "Dark Fantasy": 17,
+    "Immersive Sim": 17,
+    "Story Rich": 16,
+    "Historical": 16,
+    "Parkour": 16,
+    "Exploration": 10,
+    "Immersive": 10
+  }
+}

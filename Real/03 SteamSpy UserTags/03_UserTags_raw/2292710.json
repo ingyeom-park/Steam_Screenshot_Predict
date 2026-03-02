@@ -1,0 +1,25 @@
+{
+  "appid": 2292710,
+  "success": true,
+  "tags": {
+    "Adventure": 207,
+    "Puzzle": 193,
+    "Escape Room": 186,
+    "Point & Click": 178,
+    "Walking Simulator": 171,
+    "Narration": 161,
+    "Exploration": 146,
+    "Investigation": 138,
+    "Mystery": 129,
+    "Logic": 119,
+    "Singleplayer": 117,
+    "First-Person": 105,
+    "3D": 90,
+    "Atmospheric": 58,
+    "Steampunk": 41,
+    "Indie": 31,
+    "Medieval": 25,
+    "Fantasy": 23,
+    "Hidden Object": 9
+  }
+}

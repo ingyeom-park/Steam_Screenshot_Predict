@@ -1,0 +1,26 @@
+{
+  "appid": 558420,
+  "success": true,
+  "tags": {
+    "Adventure": 101,
+    "Text-Based": 99,
+    "Horror": 99,
+    "Indie": 96,
+    "Atmospheric": 96,
+    "Psychological Horror": 91,
+    "Singleplayer": 70,
+    "Point & Click": 69,
+    "1980s": 64,
+    "Retro": 63,
+    "Thriller": 59,
+    "Sci-fi": 52,
+    "Story Rich": 51,
+    "Puzzle": 33,
+    "Great Soundtrack": 27,
+    "Mystery": 15,
+    "Interactive Fiction": 9,
+    "First-Person": 9,
+    "Walking Simulator": 8,
+    "FMV": 7
+  }
+}

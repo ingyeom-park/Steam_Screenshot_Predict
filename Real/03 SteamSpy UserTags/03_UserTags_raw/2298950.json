@@ -1,0 +1,26 @@
+{
+  "appid": 2298950,
+  "success": true,
+  "tags": {
+    "Side Scroller": 230,
+    "Local Co-Op": 226,
+    "Co-op": 219,
+    "Bullet Hell": 215,
+    "Hand-drawn": 202,
+    "Anime": 195,
+    "Post-apocalyptic": 179,
+    "Dystopian ": 169,
+    "Action": 166,
+    "Bullet Time": 159,
+    "Action Roguelike": 143,
+    "Shooter": 130,
+    "Aliens": 116,
+    "Sci-fi": 100,
+    "Controller": 83,
+    "Local Multiplayer": 66,
+    "Multiplayer": 46,
+    "Singleplayer": 27,
+    "Soundtrack": 25,
+    "Indie": 21
+  }
+}

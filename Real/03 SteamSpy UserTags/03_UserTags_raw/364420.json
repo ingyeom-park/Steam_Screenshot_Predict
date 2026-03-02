@@ -1,0 +1,26 @@
+{
+  "appid": 364420,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 144,
+    "Rogue-like": 138,
+    "Multiplayer": 135,
+    "RPG": 131,
+    "Pixel Graphics": 125,
+    "2D": 114,
+    "Adventure": 113,
+    "Action": 100,
+    "Co-op": 98,
+    "Indie": 91,
+    "Rogue-lite": 66,
+    "Platformer": 63,
+    "Difficult": 56,
+    "Survival": 55,
+    "Side Scroller": 47,
+    "Perma Death": 43,
+    "Crafting": 39,
+    "Retro": 30,
+    "Singleplayer": 30,
+    "Great Soundtrack": 27
+  }
+}

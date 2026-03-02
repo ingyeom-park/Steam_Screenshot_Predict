@@ -1,0 +1,26 @@
+{
+  "appid": 1151680,
+  "success": true,
+  "tags": {
+    "Action": 334,
+    "VR": 328,
+    "Space": 324,
+    "FPS": 320,
+    "Co-op": 316,
+    "Co-op Campaign": 309,
+    "Sci-fi": 303,
+    "Indie": 301,
+    "Arcade": 293,
+    "Futuristic": 286,
+    "Adventure": 284,
+    "Shooter": 278,
+    "Robots": 272,
+    "Singleplayer": 270,
+    "Score Attack": 266,
+    "Online Co-Op": 261,
+    "On-Rails Shooter": 253,
+    "Bullet Time": 243,
+    "Casual": 225,
+    "Tower Defense": 214
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1393570,
+  "success": true,
+  "tags": {
+    "Online Co-Op": 167,
+    "Difficult": 161,
+    "Fast-Paced": 158,
+    "Puzzle": 151,
+    "Co-op": 151,
+    "Action": 143,
+    "Multiplayer": 140,
+    "3D": 138,
+    "Action-Adventure": 133,
+    "Funny": 129,
+    "Conversation": 124,
+    "Indie": 121,
+    "Local Co-Op": 115,
+    "First-Person": 111,
+    "Stylized": 105,
+    "FPS": 101,
+    "Local Multiplayer": 92,
+    "Adventure": 91,
+    "Rogue-like": 86,
+    "Strategy": 81
+  }
+}

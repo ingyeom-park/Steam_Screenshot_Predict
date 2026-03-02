@@ -1,0 +1,26 @@
+{
+  "appid": 1080410,
+  "success": true,
+  "tags": {
+    "Local Co-Op": 709,
+    "Online Co-Op": 703,
+    "Co-op Campaign": 700,
+    "Co-op": 698,
+    "Action": 692,
+    "Beat 'em up": 686,
+    "4 Player Local": 683,
+    "Local Multiplayer": 680,
+    "Multiplayer": 677,
+    "Cute": 669,
+    "Adventure": 667,
+    "Indie": 663,
+    "Party": 658,
+    "Family Friendly": 652,
+    "PvE": 648,
+    "Funny": 642,
+    "PvP": 637,
+    "Casual": 629,
+    "Arcade": 627,
+    "Strategy": 624
+  }
+}

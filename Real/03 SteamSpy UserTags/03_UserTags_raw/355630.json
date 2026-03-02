@@ -1,0 +1,26 @@
+{
+  "appid": 355630,
+  "success": true,
+  "tags": {
+    "Adventure": 283,
+    "Atmospheric": 278,
+    "Puzzle-Platformer": 274,
+    "Platformer": 271,
+    "Cute": 265,
+    "Indie": 256,
+    "Puzzle": 251,
+    "Singleplayer": 243,
+    "Casual": 236,
+    "2D": 231,
+    "Family Friendly": 225,
+    "Physics": 219,
+    "Steampunk": 217,
+    "Exploration": 213,
+    "Side Scroller": 204,
+    "2D Platformer": 189,
+    "2.5D": 175,
+    "Cartoony": 164,
+    "Hand-drawn": 158,
+    "Cozy": 148
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 932210,
+  "success": true,
+  "tags": {
+    "Indie": 212,
+    "RPG": 206,
+    "Turn-Based Combat": 202,
+    "Pixel Graphics": 198,
+    "Deckbuilding": 198,
+    "Dungeon Crawler": 186,
+    "Rogue-like": 184,
+    "Singleplayer": 180,
+    "Magic": 179,
+    "Underground": 175,
+    "Anime": 173,
+    "Retro": 172,
+    "Fantasy": 163,
+    "Card Battler": 156,
+    "2D": 155,
+    "Adventure": 151,
+    "Procedural Generation": 145,
+    "Card Game": 137,
+    "Turn-Based Tactics": 120,
+    "Side Scroller": 104
+  }
+}

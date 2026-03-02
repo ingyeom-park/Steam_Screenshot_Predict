@@ -1,0 +1,26 @@
+{
+  "appid": 359250,
+  "success": true,
+  "tags": {
+    "Adventure": 138,
+    "Point & Click": 132,
+    "Comedy": 129,
+    "Funny": 126,
+    "Exploration": 123,
+    "Open World": 116,
+    "Puzzle": 109,
+    "Hidden Object": 105,
+    "Mystery": 99,
+    "Casual": 94,
+    "Strategy": 91,
+    "Fantasy": 87,
+    "Singleplayer": 85,
+    "Cute": 77,
+    "Family Friendly": 66,
+    "Indie": 54,
+    "Horror": 34,
+    "Post-apocalyptic": 30,
+    "Dark Fantasy": 28,
+    "Dark": 26
+  }
+}

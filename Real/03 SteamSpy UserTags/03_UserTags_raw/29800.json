@@ -1,0 +1,20 @@
+{
+  "appid": 29800,
+  "success": true,
+  "tags": {
+    "Action": 81,
+    "Indie": 78,
+    "Adventure": 62,
+    "Third-Person Shooter": 53,
+    "Casual": 45,
+    "RPG": 38,
+    "Strategy": 34,
+    "Singleplayer": 29,
+    "Third Person": 20,
+    "Fast-Paced": 17,
+    "Great Soundtrack": 9,
+    "Shooter": 7,
+    "Female Protagonist": 7,
+    "Atmospheric": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 220780,
+  "success": true,
+  "tags": {
+    "Platformer": 561,
+    "Narration": 504,
+    "Side Scroller": 500,
+    "Sci-fi": 497,
+    "Precision Platformer": 491,
+    "2D Platformer": 491,
+    "Puzzle-Platformer": 486,
+    "2D": 478,
+    "Atmospheric": 471,
+    "Story Rich": 469,
+    "Singleplayer": 463,
+    "Linear": 460,
+    "Philosophical": 457,
+    "Indie": 453,
+    "Casual": 385,
+    "Colorful": 383,
+    "Family Friendly": 370,
+    "Minimalist": 367,
+    "Mystery": 366,
+    "Physics": 352
+  }
+}

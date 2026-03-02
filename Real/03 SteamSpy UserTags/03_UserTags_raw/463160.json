@@ -1,0 +1,26 @@
+{
+  "appid": 463160,
+  "success": true,
+  "tags": {
+    "RPG": 150,
+    "Strategy": 143,
+    "Indie": 140,
+    "Turn-Based Tactics": 135,
+    "Turn-Based": 131,
+    "Board Game": 125,
+    "Turn-Based Strategy": 119,
+    "Anime": 113,
+    "Singleplayer": 109,
+    "Fantasy": 106,
+    "Action": 99,
+    "Adventure": 97,
+    "Strategy RPG": 94,
+    "Top-Down": 88,
+    "Tactical": 84,
+    "Turn-Based Combat": 77,
+    "Party-Based RPG": 72,
+    "Tabletop": 70,
+    "Dungeon Crawler": 66,
+    "Isometric": 62
+  }
+}

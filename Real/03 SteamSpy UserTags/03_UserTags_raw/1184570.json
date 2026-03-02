@@ -1,0 +1,26 @@
+{
+  "appid": 1184570,
+  "success": true,
+  "tags": {
+    "Horror": 147,
+    "Psychological Horror": 142,
+    "Survival Horror": 138,
+    "Action": 134,
+    "Jump Scare": 132,
+    "Indie": 126,
+    "First-Person": 124,
+    "Point & Click": 121,
+    "Action-Adventure": 119,
+    "Immersive Sim": 115,
+    "3D": 109,
+    "Stylized": 98,
+    "Lore-Rich": 94,
+    "Old School": 90,
+    "Artificial Intelligence": 82,
+    "Dark": 77,
+    "Singleplayer": 74,
+    "Short": 70,
+    "Villain Protagonist": 65,
+    "Casual": 52
+  }
+}

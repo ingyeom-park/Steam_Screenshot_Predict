@@ -1,0 +1,26 @@
+{
+  "appid": 1490980,
+  "success": true,
+  "tags": {
+    "Co-op": 134,
+    "Horror": 127,
+    "Puzzle": 124,
+    "Exploration": 122,
+    "First-Person": 118,
+    "Linear": 111,
+    "Story Rich": 110,
+    "Asynchronous Multiplayer": 106,
+    "Action": 103,
+    "Realistic": 100,
+    "Logic": 96,
+    "Atmospheric": 91,
+    "Mystery": 80,
+    "Survival": 72,
+    "Adventure": 69,
+    "Survival Horror": 65,
+    "Singleplayer": 62,
+    "Psychological Horror": 55,
+    "Gore": 52,
+    "Indie": 51
+  }
+}

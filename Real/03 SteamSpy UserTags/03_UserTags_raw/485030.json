@@ -1,0 +1,22 @@
+{
+  "appid": 485030,
+  "success": true,
+  "tags": {
+    "Adventure": 46,
+    "Indie": 46,
+    "Action": 43,
+    "Platformer": 31,
+    "Atmospheric": 18,
+    "2.5D": 15,
+    "Aliens": 14,
+    "Side Scroller": 14,
+    "Sci-fi": 14,
+    "Space": 11,
+    "Exploration": 11,
+    "Survival": 7,
+    "Singleplayer": 6,
+    "Stealth": 5,
+    "Open World": 5,
+    "Puzzle-Platformer": 5
+  }
+}

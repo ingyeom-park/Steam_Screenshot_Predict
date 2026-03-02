@@ -1,0 +1,20 @@
+{
+  "appid": 1750600,
+  "success": true,
+  "tags": {
+    "Puzzle": 52,
+    "Strategy": 50,
+    "Casual": 45,
+    "Sokoban": 44,
+    "2D": 42,
+    "Singleplayer": 38,
+    "Pixel Graphics": 36,
+    "2D Platformer": 27,
+    "Puzzle-Platformer": 23,
+    "Indie": 21,
+    "Colorful": 21,
+    "Choices Matter": 19,
+    "Grid-Based Movement": 17,
+    "Tutorial": 15
+  }
+}

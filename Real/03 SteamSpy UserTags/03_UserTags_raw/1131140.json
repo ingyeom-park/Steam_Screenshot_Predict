@@ -1,0 +1,25 @@
+{
+  "appid": 1131140,
+  "success": true,
+  "tags": {
+    "Casual": 78,
+    "Indie": 71,
+    "Board Game": 65,
+    "Card Game": 58,
+    "3D": 53,
+    "Colorful": 50,
+    "Stylized": 48,
+    "Top-Down": 46,
+    "Driving": 44,
+    "Gambling": 42,
+    "Racing": 40,
+    "Tactical": 38,
+    "PvP": 36,
+    "Controller": 35,
+    "Multiplayer": 32,
+    "Singleplayer": 30,
+    "Turn-Based": 28,
+    "Resource Management": 26,
+    "Tabletop": 11
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2374320,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 180,
+    "Action Roguelike": 173,
+    "Pixel Graphics": 171,
+    "Bullet Hell": 167,
+    "Rogue-lite": 163,
+    "Rogue-like": 154,
+    "Procedural Generation": 149,
+    "2D": 145,
+    "Action": 142,
+    "Adventure": 139,
+    "RPG": 135,
+    "Choices Matter": 130,
+    "Fantasy": 129,
+    "Singleplayer": 125,
+    "Anime": 118,
+    "Old School": 113,
+    "Controller": 107,
+    "Indie": 104,
+    "Arcade": 90,
+    "Exploration": 88
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 423550,
+  "success": true,
+  "tags": {
+    "Strategy": 99,
+    "Action": 92,
+    "Tower Defense": 92,
+    "Adventure": 90,
+    "Casual": 87,
+    "Simulation": 87,
+    "RPG": 85,
+    "Indie": 85,
+    "Dinosaurs": 82,
+    "Sports": 81,
+    "Singleplayer": 77,
+    "Difficult": 75,
+    "Puzzle": 56,
+    "Arcade": 51,
+    "Visual Novel": 48,
+    "Exploration": 46,
+    "2D": 42,
+    "Survival": 35,
+    "Comedy": 32,
+    "Open World": 26
+  }
+}

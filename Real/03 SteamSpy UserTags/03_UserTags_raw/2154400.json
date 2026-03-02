@@ -1,0 +1,20 @@
+{
+  "appid": 2154400,
+  "success": true,
+  "tags": {
+    "Relaxing": 50,
+    "Casual": 49,
+    "Family Friendly": 44,
+    "Simulation": 41,
+    "Flight": 40,
+    "Atmospheric": 38,
+    "Cute": 35,
+    "Stylized": 26,
+    "Arcade": 25,
+    "Colorful": 23,
+    "Indie": 20,
+    "Nature": 19,
+    "Exploration": 18,
+    "Singleplayer": 15
+  }
+}

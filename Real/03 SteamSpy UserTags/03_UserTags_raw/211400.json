@@ -1,0 +1,26 @@
+{
+  "appid": 211400,
+  "success": true,
+  "tags": {
+    "Zombies": 397,
+    "Platformer": 353,
+    "Indie": 246,
+    "Action": 244,
+    "Post-apocalyptic": 235,
+    "Adventure": 204,
+    "Atmospheric": 179,
+    "Side Scroller": 170,
+    "Singleplayer": 153,
+    "Parkour": 143,
+    "2D": 118,
+    "Survival": 95,
+    "Horror": 88,
+    "2.5D": 78,
+    "Puzzle": 62,
+    "Great Soundtrack": 49,
+    "Short": 47,
+    "Controller": 46,
+    "Story Rich": 45,
+    "Noir": 27
+  }
+}

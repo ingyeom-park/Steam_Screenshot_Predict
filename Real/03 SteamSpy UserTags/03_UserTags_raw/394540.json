@@ -1,0 +1,25 @@
+{
+  "appid": 394540,
+  "success": true,
+  "tags": {
+    "Indie": 61,
+    "Adventure": 34,
+    "Platformer": 34,
+    "Action": 34,
+    "Pixel Graphics": 26,
+    "Metroidvania": 23,
+    "2D": 20,
+    "Anime": 16,
+    "Retro": 14,
+    "Sci-fi": 14,
+    "Shoot 'Em Up": 13,
+    "Shooter": 11,
+    "Space": 11,
+    "Singleplayer": 9,
+    "Exploration": 7,
+    "Arcade": 7,
+    "Funny": 6,
+    "Atmospheric": 6,
+    "Open World": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 779590,
+  "success": true,
+  "tags": {
+    "Simulation": 43,
+    "Indie": 40,
+    "Adventure": 39,
+    "Space": 39,
+    "Horror": 38,
+    "Action": 36,
+    "Sci-fi": 31,
+    "Atmospheric": 28,
+    "Exploration": 27,
+    "Replay Value": 25,
+    "Singleplayer": 25,
+    "Procedural Generation": 24,
+    "First-Person": 23,
+    "Multiple Endings": 22,
+    "Perma Death": 21,
+    "Rogue-lite": 17,
+    "Science": 16,
+    "Rogue-like": 15,
+    "Experimental": 15,
+    "Retro": 13
+  }
+}

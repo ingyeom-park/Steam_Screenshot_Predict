@@ -1,0 +1,26 @@
+{
+  "appid": 598480,
+  "success": true,
+  "tags": {
+    "Indie": 256,
+    "Psychedelic": 255,
+    "Dark": 250,
+    "Horror": 247,
+    "2D Platformer": 243,
+    "Adventure": 239,
+    "Atmospheric": 233,
+    "Exploration": 231,
+    "Difficult": 228,
+    "Puzzle": 225,
+    "Puzzle-Platformer": 215,
+    "Lovecraftian": 213,
+    "Singleplayer": 204,
+    "Gore": 185,
+    "Violent": 180,
+    "Idler": 176,
+    "Minimalist": 171,
+    "Abstract": 167,
+    "Physics": 156,
+    "Psychological Horror": 149
+  }
+}

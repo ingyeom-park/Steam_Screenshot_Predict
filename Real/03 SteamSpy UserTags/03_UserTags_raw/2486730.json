@@ -1,0 +1,26 @@
+{
+  "appid": 2486730,
+  "success": true,
+  "tags": {
+    "Puzzle": 110,
+    "Shooter": 104,
+    "Psychedelic": 101,
+    "Surreal": 98,
+    "Action": 95,
+    "Open World": 89,
+    "Adventure": 87,
+    "Puzzle-Platformer": 85,
+    "3D Platformer": 83,
+    "FPS": 81,
+    "Rhythm": 80,
+    "3D": 77,
+    "First-Person": 75,
+    "Minimalist": 73,
+    "Stylized": 71,
+    "Logic": 69,
+    "Philosophical": 67,
+    "Psychological": 65,
+    "Controller": 63,
+    "Music-Based Procedural Generation": 60
+  }
+}

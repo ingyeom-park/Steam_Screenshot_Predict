@@ -1,0 +1,15 @@
+{
+  "appid": 91100,
+  "success": true,
+  "tags": {
+    "Racing": 94,
+    "Indie": 61,
+    "Flight": 27,
+    "Combat Racing": 26,
+    "Controller": 19,
+    "Multiplayer": 18,
+    "Action": 16,
+    "Arcade": 9,
+    "Combat": 5
+  }
+}

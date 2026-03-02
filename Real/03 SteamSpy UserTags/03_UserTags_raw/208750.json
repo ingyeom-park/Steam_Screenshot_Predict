@@ -1,0 +1,25 @@
+{
+  "appid": 208750,
+  "success": true,
+  "tags": {
+    "Mythology": 146,
+    "Action": 139,
+    "Metroidvania": 119,
+    "Adventure": 116,
+    "Platformer": 112,
+    "Indie": 111,
+    "2D": 100,
+    "RPG": 80,
+    "Side Scroller": 69,
+    "Historical": 58,
+    "Singleplayer": 54,
+    "Stylized": 47,
+    "Atmospheric": 42,
+    "Great Soundtrack": 39,
+    "Difficult": 18,
+    "Hack and Slash": 9,
+    "Souls-like": 5,
+    "Nudity": 5,
+    "Multiplayer": 5
+  }
+}

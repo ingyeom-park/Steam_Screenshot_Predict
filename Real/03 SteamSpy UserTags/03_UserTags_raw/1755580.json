@@ -1,0 +1,26 @@
+{
+  "appid": 1755580,
+  "success": true,
+  "tags": {
+    "Casual": 186,
+    "Trivia": 165,
+    "2D": 151,
+    "Cartoon": 147,
+    "Colorful": 142,
+    "Comedy": 135,
+    "Dark Comedy": 124,
+    "Dark Humor": 117,
+    "Family Friendly": 111,
+    "Funny": 107,
+    "PvP": 100,
+    "Co-op": 90,
+    "Local Co-Op": 75,
+    "Local Multiplayer": 65,
+    "Multiplayer": 53,
+    "Party": 39,
+    "Singleplayer": 29,
+    "Indie": 21,
+    "Strategy": 20,
+    "Party Game": 13
+  }
+}

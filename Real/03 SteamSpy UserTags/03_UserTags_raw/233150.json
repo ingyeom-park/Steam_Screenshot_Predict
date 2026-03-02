@@ -1,0 +1,26 @@
+{
+  "appid": 233150,
+  "success": true,
+  "tags": {
+    "Indie": 186,
+    "Bullet Hell": 183,
+    "Arcade": 180,
+    "Action": 168,
+    "Pixel Graphics": 160,
+    "2D": 151,
+    "Shoot 'Em Up": 146,
+    "Great Soundtrack": 138,
+    "Singleplayer": 98,
+    "Retro": 87,
+    "Shooter": 83,
+    "Fast-Paced": 74,
+    "Flight": 60,
+    "Addictive": 54,
+    "Difficult": 43,
+    "World War II": 36,
+    "Simulation": 27,
+    "Score Attack": 12,
+    "Replay Value": 11,
+    "Rogue-like": 8
+  }
+}

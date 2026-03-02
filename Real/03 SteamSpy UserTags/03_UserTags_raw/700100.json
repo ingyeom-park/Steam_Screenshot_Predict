@@ -1,0 +1,26 @@
+{
+  "appid": 700100,
+  "success": true,
+  "tags": {
+    "Indie": 276,
+    "Pixel Graphics": 270,
+    "Casual": 267,
+    "Arcade": 264,
+    "Adventure": 260,
+    "Rogue-like": 253,
+    "Shoot 'Em Up": 251,
+    "Horror": 249,
+    "Action": 242,
+    "Exploration": 235,
+    "2D": 232,
+    "Singleplayer": 226,
+    "Dungeon Crawler": 223,
+    "Action-Adventure": 220,
+    "Interactive Fiction": 218,
+    "Puzzle": 216,
+    "Mystery Dungeon": 209,
+    "3D": 200,
+    "Cute": 190,
+    "Text-Based": 179
+  }
+}

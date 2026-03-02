@@ -1,0 +1,26 @@
+{
+  "appid": 867150,
+  "success": true,
+  "tags": {
+    "Exploration": 171,
+    "3D Platformer": 165,
+    "Puzzle-Platformer": 161,
+    "Puzzle": 157,
+    "Platformer": 152,
+    "Third Person": 144,
+    "Relaxing": 142,
+    "Surreal": 139,
+    "Controller": 132,
+    "Casual": 127,
+    "Adventure": 123,
+    "Colorful": 121,
+    "Family Friendly": 118,
+    "Atmospheric": 113,
+    "Physics": 109,
+    "Cinematic": 91,
+    "Singleplayer": 75,
+    "Soundtrack": 60,
+    "Wholesome": 54,
+    "Indie": 50
+  }
+}

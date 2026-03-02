@@ -1,0 +1,26 @@
+{
+  "appid": 1037020,
+  "success": true,
+  "tags": {
+    "Indie": 172,
+    "Action": 168,
+    "Adventure": 151,
+    "Rogue-lite": 96,
+    "Pixel Graphics": 96,
+    "Action Roguelike": 73,
+    "Rogue-like": 68,
+    "Platformer": 50,
+    "Roguevania": 49,
+    "2D": 48,
+    "Metroidvania": 43,
+    "Bullet Hell": 39,
+    "Singleplayer": 38,
+    "Difficult": 36,
+    "Great Soundtrack": 29,
+    "Procedural Generation": 29,
+    "Perma Death": 24,
+    "Replay Value": 24,
+    "Female Protagonist": 24,
+    "Fast-Paced": 14
+  }
+}

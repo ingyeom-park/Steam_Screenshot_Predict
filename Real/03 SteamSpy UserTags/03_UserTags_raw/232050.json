@@ -1,0 +1,22 @@
+{
+  "appid": 232050,
+  "success": true,
+  "tags": {
+    "Strategy": 1960,
+    "Turn-Based Strategy": 130,
+    "Fantasy": 111,
+    "Turn-Based": 91,
+    "RPG": 82,
+    "Indie": 80,
+    "Singleplayer": 43,
+    "Tactical": 39,
+    "4X": 34,
+    "Hex Grid": 33,
+    "Difficult": 31,
+    "Turn-Based Tactics": 13,
+    "Multiplayer": 11,
+    "Tactical RPG": 9,
+    "Adventure": 8,
+    "Magic": 5
+  }
+}

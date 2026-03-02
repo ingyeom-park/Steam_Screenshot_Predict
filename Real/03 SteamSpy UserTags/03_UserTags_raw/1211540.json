@@ -1,0 +1,15 @@
+{
+  "appid": 1211540,
+  "success": true,
+  "tags": {
+    "Action": 101,
+    "Indie": 101,
+    "Adventure": 100,
+    "Metroidvania": 13,
+    "Exploration": 12,
+    "Colorful": 11,
+    "Cute": 11,
+    "Pixel Graphics": 5,
+    "Robots": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1321450,
+  "success": true,
+  "tags": {
+    "Action": 150,
+    "Stealth": 149,
+    "Adventure": 144,
+    "Heist": 141,
+    "Action-Adventure": 139,
+    "1980s": 129,
+    "3D": 127,
+    "Third Person": 127,
+    "Immersive Sim": 125,
+    "Crime": 124,
+    "Parkour": 109,
+    "Conversation": 96,
+    "Driving": 92,
+    "Open World": 91,
+    "Singleplayer": 90,
+    "Minigames": 73,
+    "Nostalgia": 67,
+    "Simulation": 60,
+    "Sandbox": 58,
+    "Indie": 54
+  }
+}

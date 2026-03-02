@@ -1,0 +1,26 @@
+{
+  "appid": 1918540,
+  "success": true,
+  "tags": {
+    "Simulation": 105,
+    "Strategy": 92,
+    "Casual": 89,
+    "Life Sim": 87,
+    "Pixel Graphics": 83,
+    "Colony Sim": 81,
+    "Cooking": 74,
+    "2D": 73,
+    "Cute": 71,
+    "Indie": 60,
+    "Building": 59,
+    "Management": 38,
+    "Singleplayer": 35,
+    "Economy": 35,
+    "2D Platformer": 27,
+    "RTS": 27,
+    "2.5D": 26,
+    "Top-Down": 23,
+    "Retro": 21,
+    "Resource Management": 20
+  }
+}

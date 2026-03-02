@@ -1,0 +1,26 @@
+{
+  "appid": 1165450,
+  "success": true,
+  "tags": {
+    "Precision Platformer": 113,
+    "2D Platformer": 108,
+    "Puzzle-Platformer": 104,
+    "Rhythm": 99,
+    "Platformer": 95,
+    "Arcade": 88,
+    "2D": 88,
+    "Music-Based Procedural Generation": 85,
+    "Action": 82,
+    "Puzzle": 77,
+    "Minimalist": 74,
+    "Level Editor": 72,
+    "Beautiful": 67,
+    "Singleplayer": 65,
+    "Multiplayer": 64,
+    "Asynchronous Multiplayer": 62,
+    "Indie": 53,
+    "Soundtrack": 37,
+    "Great Soundtrack": 35,
+    "Music": 31
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "appid": 50000,
+  "success": true,
+  "tags": {
+    "Indie": 32,
+    "Racing": 29,
+    "Puzzle": 14,
+    "Physics": 13,
+    "Difficult": 9,
+    "Platformer": 7,
+    "Time Attack": 7,
+    "2D": 6,
+    "Colorful": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1251300,
+  "success": true,
+  "tags": {
+    "Indie": 90,
+    "Action": 88,
+    "Adventure": 87,
+    "Horror": 22,
+    "Psychological Horror": 22,
+    "Survival Horror": 22,
+    "Atmospheric": 21,
+    "Dark": 20,
+    "First-Person": 20,
+    "Singleplayer": 19,
+    "Survival": 18,
+    "Gore": 18,
+    "Great Soundtrack": 18,
+    "Demons": 17,
+    "Funny": 17,
+    "Difficult": 17,
+    "Exploration": 17,
+    "Arcade": 17,
+    "Fast-Paced": 17,
+    "FPS": 16
+  }
+}

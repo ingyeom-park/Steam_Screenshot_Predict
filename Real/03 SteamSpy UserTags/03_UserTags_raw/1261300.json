@@ -1,0 +1,25 @@
+{
+  "appid": 1261300,
+  "success": true,
+  "tags": {
+    "Racing": 115,
+    "Strategy": 109,
+    "Multiplayer": 106,
+    "Indie": 101,
+    "Turn-Based Strategy": 90,
+    "Combat Racing": 87,
+    "First-Person": 85,
+    "Pixel Graphics": 83,
+    "PvP": 81,
+    "Driving": 79,
+    "Score Attack": 77,
+    "Early Access": 76,
+    "Turn-Based Combat": 75,
+    "Singleplayer": 73,
+    "Platformer": 71,
+    "2D": 59,
+    "3D": 57,
+    "Free to Play": 52,
+    "Simulation": 20
+  }
+}

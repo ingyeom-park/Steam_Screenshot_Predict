@@ -1,0 +1,26 @@
+{
+  "appid": 3330,
+  "success": true,
+  "tags": {
+    "Match 3": 172,
+    "Puzzle": 164,
+    "Arcade": 161,
+    "2D": 149,
+    "Strategy": 144,
+    "Funny": 132,
+    "Casual": 130,
+    "Cute": 128,
+    "Colorful": 95,
+    "Family Friendly": 86,
+    "Singleplayer": 80,
+    "Retro": 78,
+    "Classic": 76,
+    "Physics": 71,
+    "Replay Value": 63,
+    "Indie": 61,
+    "Difficult": 46,
+    "Addictive": 42,
+    "Action": 41,
+    "Shooter": 36
+  }
+}

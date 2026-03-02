@@ -1,0 +1,26 @@
+{
+  "appid": 1217410,
+  "success": true,
+  "tags": {
+    "Historical": 172,
+    "Visual Novel": 166,
+    "Story Rich": 163,
+    "RPG": 160,
+    "Emotional": 158,
+    "Interactive Fiction": 149,
+    "Romance": 145,
+    "CRPG": 140,
+    "Word Game": 138,
+    "Dating Sim": 136,
+    "Clicker": 134,
+    "2D": 126,
+    "Text-Based": 123,
+    "Alternate History": 121,
+    "Linear": 114,
+    "Simulation": 109,
+    "Drama": 107,
+    "Cinematic": 99,
+    "Singleplayer": 83,
+    "Indie": 79
+  }
+}

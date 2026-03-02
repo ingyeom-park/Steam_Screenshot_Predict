@@ -1,0 +1,26 @@
+{
+  "appid": 1188970,
+  "success": true,
+  "tags": {
+    "Action": 42,
+    "Indie": 42,
+    "Adventure": 40,
+    "Rogue-lite": 17,
+    "Bullet Hell": 16,
+    "Pixel Graphics": 16,
+    "Dungeon Crawler": 16,
+    "Great Soundtrack": 12,
+    "Perma Death": 12,
+    "Top-Down Shooter": 12,
+    "Singleplayer": 11,
+    "Twin Stick Shooter": 11,
+    "Fast-Paced": 11,
+    "2D": 11,
+    "Difficult": 10,
+    "Loot": 10,
+    "Shoot 'Em Up": 10,
+    "Colorful": 10,
+    "Rogue-like": 10,
+    "Action-Adventure": 9
+  }
+}

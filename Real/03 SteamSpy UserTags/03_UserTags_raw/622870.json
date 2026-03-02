@@ -1,0 +1,26 @@
+{
+  "appid": 622870,
+  "success": true,
+  "tags": {
+    "Action": 60,
+    "Indie": 60,
+    "Pixel Graphics": 49,
+    "Ninja": 48,
+    "Platformer": 44,
+    "2D": 42,
+    "Early Access": 41,
+    "Singleplayer": 35,
+    "Stealth": 34,
+    "Difficult": 33,
+    "Gore": 33,
+    "Side Scroller": 31,
+    "Hack and Slash": 28,
+    "Retro": 26,
+    "Arcade": 25,
+    "Atmospheric": 24,
+    "Crafting": 24,
+    "GameMaker": 21,
+    "Dark": 21,
+    "Violent": 21
+  }
+}

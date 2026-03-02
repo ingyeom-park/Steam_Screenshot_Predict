@@ -1,0 +1,26 @@
+{
+  "appid": 873940,
+  "success": true,
+  "tags": {
+    "Strategy": 225,
+    "Space": 204,
+    "Indie": 192,
+    "Pixel Graphics": 192,
+    "Rogue-lite": 192,
+    "Sci-fi": 184,
+    "Post-apocalyptic": 172,
+    "Real-Time with Pause": 171,
+    "Rogue-like": 170,
+    "Tactical": 170,
+    "Story Rich": 166,
+    "2D": 159,
+    "Singleplayer": 159,
+    "Procedural Generation": 151,
+    "Perma Death": 147,
+    "RTS": 145,
+    "Hex Grid": 144,
+    "Real Time Tactics": 142,
+    "Resource Management": 140,
+    "Dark": 130
+  }
+}

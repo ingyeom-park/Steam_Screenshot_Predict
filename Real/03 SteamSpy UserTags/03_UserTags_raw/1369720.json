@@ -1,0 +1,26 @@
+{
+  "appid": 1369720,
+  "success": true,
+  "tags": {
+    "Casual": 398,
+    "Co-op": 396,
+    "Indie": 392,
+    "Online Co-Op": 389,
+    "Multiplayer": 385,
+    "Family Friendly": 363,
+    "Action RPG": 356,
+    "Action-Adventure": 347,
+    "Co-op Campaign": 339,
+    "Time Management": 329,
+    "Magic": 316,
+    "Fantasy": 305,
+    "Colorful": 293,
+    "Cute": 279,
+    "Simulation": 269,
+    "Top-Down": 265,
+    "Local Multiplayer": 249,
+    "Management": 230,
+    "4 Player Local": 213,
+    "Funny": 190
+  }
+}

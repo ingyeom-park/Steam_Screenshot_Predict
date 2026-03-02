@@ -1,0 +1,26 @@
+{
+  "appid": 2286450,
+  "success": true,
+  "tags": {
+    "Action": 252,
+    "Action Roguelike": 245,
+    "Casual": 245,
+    "Action RPG": 237,
+    "Rogue-like": 234,
+    "Arena Shooter": 229,
+    "Hack and Slash": 222,
+    "Rogue-lite": 216,
+    "2D": 210,
+    "Hand-drawn": 199,
+    "Stylized": 189,
+    "Fantasy": 176,
+    "Survival": 166,
+    "Perma Death": 149,
+    "Singleplayer": 135,
+    "Top-Down Shooter": 118,
+    "Score Attack": 102,
+    "Bullet Hell": 85,
+    "Indie": 70,
+    "RPG": 65
+  }
+}

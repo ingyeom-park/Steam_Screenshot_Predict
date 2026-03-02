@@ -1,0 +1,26 @@
+{
+  "appid": 1016860,
+  "success": true,
+  "tags": {
+    "Action": 129,
+    "Adventure": 118,
+    "Shooter": 99,
+    "Indie": 96,
+    "Simulation": 96,
+    "VR": 95,
+    "FPS": 82,
+    "Sci-fi": 80,
+    "Singleplayer": 75,
+    "First-Person": 65,
+    "Horror": 55,
+    "Sandbox": 55,
+    "Physics": 55,
+    "Puzzle": 54,
+    "Parkour": 54,
+    "Realistic": 54,
+    "Gore": 54,
+    "Great Soundtrack": 51,
+    "Violent": 26,
+    "3D": 21
+  }
+}

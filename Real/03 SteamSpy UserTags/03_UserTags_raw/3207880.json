@@ -1,0 +1,23 @@
+{
+  "appid": 3207880,
+  "success": true,
+  "tags": {
+    "Idler": 156,
+    "Clicker": 149,
+    "Exploration": 146,
+    "Space": 145,
+    "Automation": 140,
+    "Resource Management": 131,
+    "2D": 129,
+    "Indie": 127,
+    "Point & Click": 122,
+    "Strategy": 113,
+    "Adventure": 104,
+    "Linear": 94,
+    "Simulation": 81,
+    "Pixel Graphics": 70,
+    "Sci-fi": 53,
+    "Singleplayer": 42,
+    "Casual": 28
+  }
+}

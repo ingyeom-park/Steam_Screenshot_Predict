@@ -1,0 +1,26 @@
+{
+  "appid": 1131740,
+  "success": true,
+  "tags": {
+    "First-Person": 221,
+    "Visual Novel": 213,
+    "Anime": 207,
+    "Story Rich": 203,
+    "Mystery": 200,
+    "Casual": 197,
+    "1990's": 197,
+    "Atmospheric": 184,
+    "Drama": 181,
+    "Linear": 177,
+    "Adventure": 171,
+    "Lore-Rich": 164,
+    "Procedural Generation": 162,
+    "Narration": 157,
+    "Conversation": 154,
+    "Indie": 148,
+    "Stylized": 140,
+    "Cinematic": 138,
+    "Sci-fi": 136,
+    "Psychological Horror": 125
+  }
+}

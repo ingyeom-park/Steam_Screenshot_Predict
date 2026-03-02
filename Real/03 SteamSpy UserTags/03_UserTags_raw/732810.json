@@ -1,0 +1,26 @@
+{
+  "appid": 732810,
+  "success": true,
+  "tags": {
+    "Racing": 222,
+    "Driving": 202,
+    "Stylized": 200,
+    "Arcade": 198,
+    "Colorful": 196,
+    "Relaxing": 186,
+    "Soundtrack": 184,
+    "1990's": 183,
+    "Music": 182,
+    "1980s": 178,
+    "Pixel Graphics": 173,
+    "Indie": 170,
+    "Atmospheric": 162,
+    "Psychedelic": 157,
+    "2D": 156,
+    "Old School": 150,
+    "Retro": 148,
+    "Controller": 128,
+    "Local Multiplayer": 119,
+    "Singleplayer": 111
+  }
+}

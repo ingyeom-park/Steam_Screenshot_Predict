@@ -1,0 +1,26 @@
+{
+  "appid": 1933050,
+  "success": true,
+  "tags": {
+    "Racing": 234,
+    "VR": 228,
+    "Flight": 225,
+    "First-Person": 222,
+    "Simulation": 217,
+    "Asynchronous Multiplayer": 210,
+    "Realistic": 207,
+    "Driving": 202,
+    "Futuristic": 196,
+    "Character Customization": 192,
+    "Physics": 190,
+    "Action": 186,
+    "Singleplayer": 178,
+    "e-sports": 172,
+    "Indie": 168,
+    "Early Access": 164,
+    "Sports": 160,
+    "Multiplayer": 155,
+    "Casual": 150,
+    "Combat Racing": 142
+  }
+}

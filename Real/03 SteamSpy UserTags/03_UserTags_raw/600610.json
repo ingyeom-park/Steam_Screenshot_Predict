@@ -1,0 +1,26 @@
+{
+  "appid": 600610,
+  "success": true,
+  "tags": {
+    "Turn-Based Strategy": 198,
+    "Tactical": 189,
+    "Rogue-like": 187,
+    "Strategy": 185,
+    "Story Rich": 179,
+    "Fantasy": 176,
+    "Turn-Based Tactics": 170,
+    "Sci-fi": 168,
+    "Perma Death": 164,
+    "RPG": 161,
+    "Difficult": 158,
+    "Tactical RPG": 151,
+    "Rogue-lite": 148,
+    "Atmospheric": 142,
+    "Soundtrack": 137,
+    "Turn-Based Combat": 130,
+    "Medieval": 120,
+    "Singleplayer": 113,
+    "Replay Value": 104,
+    "Indie": 93
+  }
+}

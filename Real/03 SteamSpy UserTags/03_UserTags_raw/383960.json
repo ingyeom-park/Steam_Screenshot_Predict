@@ -1,0 +1,26 @@
+{
+  "appid": 383960,
+  "success": true,
+  "tags": {
+    "JRPG": 136,
+    "Visual Novel": 130,
+    "Turn-Based": 126,
+    "Party-Based RPG": 124,
+    "Strategy": 119,
+    "RPG": 113,
+    "2D": 113,
+    "Cute": 109,
+    "Story Rich": 107,
+    "Anime": 103,
+    "Fantasy": 95,
+    "Sci-fi": 92,
+    "Magic": 90,
+    "Adventure": 88,
+    "Singleplayer": 80,
+    "Indie": 73,
+    "RPGMaker": 58,
+    "Great Soundtrack": 42,
+    "Side Scroller": 30,
+    "Card Game": 28
+  }
+}

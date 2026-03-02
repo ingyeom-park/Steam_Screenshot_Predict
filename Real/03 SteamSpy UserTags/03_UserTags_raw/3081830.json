@@ -1,0 +1,26 @@
+{
+  "appid": 3081830,
+  "success": true,
+  "tags": {
+    "Adventure": 255,
+    "Action": 251,
+    "Platformer": 226,
+    "Pixel Graphics": 223,
+    "Indie": 218,
+    "2D Platformer": 213,
+    "Retro": 204,
+    "Cute": 190,
+    "Combat": 180,
+    "Singleplayer": 173,
+    "Fantasy": 160,
+    "Anime": 153,
+    "Action-Adventure": 145,
+    "Old School": 133,
+    "Side Scroller": 117,
+    "Female Protagonist": 105,
+    "2D": 85,
+    "Linear": 65,
+    "Controller": 46,
+    "Casual": 45
+  }
+}

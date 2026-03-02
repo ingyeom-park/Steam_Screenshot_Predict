@@ -1,0 +1,25 @@
+{
+  "appid": 2461780,
+  "success": true,
+  "tags": {
+    "RPG": 180,
+    "Story Rich": 175,
+    "Pixel Graphics": 169,
+    "Action-Adventure": 165,
+    "Mystery": 154,
+    "Puzzle-Platformer": 144,
+    "Adventure": 137,
+    "Minimalist": 129,
+    "Runner": 121,
+    "Drama": 112,
+    "JRPG": 101,
+    "Puzzle": 99,
+    "Exploration": 86,
+    "Singleplayer": 72,
+    "2D": 58,
+    "Atmospheric": 41,
+    "Linear": 26,
+    "Narration": 24,
+    "Indie": 21
+  }
+}

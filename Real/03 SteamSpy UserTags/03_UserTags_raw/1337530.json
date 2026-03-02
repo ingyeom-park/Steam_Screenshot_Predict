@@ -1,0 +1,26 @@
+{
+  "appid": 1337530,
+  "success": true,
+  "tags": {
+    "VR": 441,
+    "Adventure": 431,
+    "Puzzle": 430,
+    "Stylized": 424,
+    "Open World": 421,
+    "Silent Protagonist": 416,
+    "Nonlinear": 414,
+    "Interactive Fiction": 411,
+    "Story Rich": 409,
+    "Fantasy": 404,
+    "Indie": 398,
+    "Narration": 392,
+    "Physics": 384,
+    "Atmospheric": 379,
+    "Singleplayer": 377,
+    "Cinematic": 375,
+    "Exploration": 373,
+    "6DOF": 368,
+    "3D": 363,
+    "First-Person": 358
+  }
+}

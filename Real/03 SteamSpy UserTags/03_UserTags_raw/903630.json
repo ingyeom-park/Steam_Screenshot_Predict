@@ -1,0 +1,26 @@
+{
+  "appid": 903630,
+  "success": true,
+  "tags": {
+    "3D Platformer": 172,
+    "Puzzle": 167,
+    "Puzzle-Platformer": 167,
+    "Difficult": 156,
+    "3D": 155,
+    "Third Person": 148,
+    "Colorful": 144,
+    "Logic": 142,
+    "Sci-fi": 134,
+    "Science": 125,
+    "Atmospheric": 124,
+    "Robots": 122,
+    "Artificial Intelligence": 116,
+    "Adventure": 104,
+    "Futuristic": 95,
+    "Grid-Based Movement": 92,
+    "Singleplayer": 90,
+    "Indie": 74,
+    "Casual": 50,
+    "Great Soundtrack": 41
+  }
+}

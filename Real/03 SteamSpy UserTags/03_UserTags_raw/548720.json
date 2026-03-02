@@ -1,0 +1,20 @@
+{
+  "appid": 548720,
+  "success": true,
+  "tags": {
+    "Casual": 74,
+    "Action": 68,
+    "Indie": 65,
+    "Puzzle-Platformer": 49,
+    "Puzzle": 46,
+    "Platformer": 41,
+    "Minimalist": 39,
+    "Difficult": 37,
+    "Arcade": 33,
+    "2D": 31,
+    "Cartoony": 29,
+    "Atmospheric": 27,
+    "Linear": 25,
+    "Singleplayer": 23
+  }
+}

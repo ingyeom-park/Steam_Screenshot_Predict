@@ -1,0 +1,26 @@
+{
+  "appid": 2811200,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 131,
+    "Bullet Hell": 125,
+    "Survival": 122,
+    "Action": 118,
+    "Rogue-lite": 111,
+    "2D": 101,
+    "Pixel Graphics": 98,
+    "Rogue-like": 96,
+    "Top-Down": 94,
+    "Crafting": 90,
+    "Fantasy": 86,
+    "Magic": 83,
+    "Combat": 78,
+    "Gun Customization": 71,
+    "RPG": 70,
+    "Inventory Management": 66,
+    "Singleplayer": 56,
+    "Indie": 50,
+    "Puzzle": 31,
+    "Funny": 29
+  }
+}

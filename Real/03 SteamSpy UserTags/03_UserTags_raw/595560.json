@@ -1,0 +1,26 @@
+{
+  "appid": 595560,
+  "success": true,
+  "tags": {
+    "Adventure": 141,
+    "RPG": 132,
+    "Point & Click": 130,
+    "Martial Arts": 126,
+    "Puzzle": 120,
+    "Exploration": 113,
+    "Indie": 112,
+    "2D": 110,
+    "Atmospheric": 108,
+    "Mystery": 102,
+    "Psychological": 99,
+    "Retro": 97,
+    "Story Rich": 92,
+    "Turn-Based Combat": 81,
+    "Singleplayer": 78,
+    "1980s": 76,
+    "1990's": 68,
+    "Emotional": 59,
+    "Investigation": 55,
+    "Fantasy": 51
+  }
+}

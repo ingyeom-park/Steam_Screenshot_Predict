@@ -1,0 +1,26 @@
+{
+  "appid": 346810,
+  "success": true,
+  "tags": {
+    "Indie": 208,
+    "Strategy": 202,
+    "Singleplayer": 201,
+    "Survival": 192,
+    "Simulation": 191,
+    "Casual": 182,
+    "Difficult": 179,
+    "Building": 175,
+    "2D": 173,
+    "Turn-Based": 172,
+    "Historical": 165,
+    "Turn-Based Strategy": 165,
+    "Base-Building": 156,
+    "Management": 145,
+    "City Builder": 135,
+    "Economy": 130,
+    "Resource Management": 125,
+    "4X": 116,
+    "Time Management": 113,
+    "Diplomacy": 108
+  }
+}

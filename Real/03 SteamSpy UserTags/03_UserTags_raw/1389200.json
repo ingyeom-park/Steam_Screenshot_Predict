@@ -1,0 +1,23 @@
+{
+  "appid": 1389200,
+  "success": true,
+  "tags": {
+    "Indie": 131,
+    "Puzzle": 121,
+    "Pixel Graphics": 116,
+    "Sokoban": 111,
+    "Cute": 107,
+    "Casual": 104,
+    "2D": 76,
+    "Top-Down": 68,
+    "Grid-Based Movement": 65,
+    "Singleplayer": 63,
+    "Dungeon Crawler": 61,
+    "Fantasy": 59,
+    "Turn-Based Tactics": 58,
+    "Exploration": 55,
+    "Rogue-lite": 52,
+    "Rogue-like": 47,
+    "Action Roguelike": 44
+  }
+}

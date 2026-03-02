@@ -1,0 +1,26 @@
+{
+  "appid": 1950490,
+  "success": true,
+  "tags": {
+    "Cute": 203,
+    "Relaxing": 197,
+    "Puzzle": 193,
+    "Casual": 188,
+    "Difficult": 183,
+    "Nonlinear": 174,
+    "Adventure": 170,
+    "Sokoban": 168,
+    "Strategy": 166,
+    "Emotional": 162,
+    "Point & Click": 159,
+    "Indie": 155,
+    "Minimalist": 147,
+    "Logic": 145,
+    "Story Rich": 140,
+    "Family Friendly": 138,
+    "Stylized": 134,
+    "Post-apocalyptic": 131,
+    "Top-Down": 122,
+    "Exploration": 114
+  }
+}

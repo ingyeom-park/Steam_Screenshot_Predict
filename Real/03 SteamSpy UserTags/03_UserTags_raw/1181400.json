@@ -1,0 +1,23 @@
+{
+  "appid": 1181400,
+  "success": true,
+  "tags": {
+    "Indie": 64,
+    "Casual": 63,
+    "Adventure": 60,
+    "Puzzle": 56,
+    "Singleplayer": 44,
+    "Relaxing": 41,
+    "Snow": 41,
+    "Stylized": 40,
+    "Beautiful": 40,
+    "Family Friendly": 39,
+    "Fantasy": 38,
+    "Strategy": 38,
+    "Nature": 36,
+    "Hidden Object": 28,
+    "Cute": 17,
+    "Atmospheric": 16,
+    "Touch-Friendly": 5
+  }
+}

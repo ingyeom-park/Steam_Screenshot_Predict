@@ -1,0 +1,26 @@
+{
+  "appid": 1830970,
+  "success": true,
+  "tags": {
+    "Rogue-like": 239,
+    "Auto Battler": 235,
+    "Strategy": 211,
+    "Tactical": 198,
+    "Turn-Based Strategy": 196,
+    "Hex Grid": 180,
+    "Adventure": 177,
+    "RPG": 174,
+    "Singleplayer": 168,
+    "Turn-Based Tactics": 164,
+    "Party-Based RPG": 152,
+    "Fantasy": 150,
+    "3D": 149,
+    "Procedural Generation": 148,
+    "Strategy RPG": 143,
+    "Indie": 142,
+    "Early Access": 139,
+    "Turn-Based": 133,
+    "Management": 123,
+    "Survival": 109
+  }
+}

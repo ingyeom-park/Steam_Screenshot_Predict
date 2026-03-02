@@ -1,0 +1,24 @@
+{
+  "appid": 2460660,
+  "success": true,
+  "tags": {
+    "RPG": 66,
+    "Adventure": 52,
+    "Rogue-like": 42,
+    "Exploration": 41,
+    "Minimalist": 32,
+    "Traditional Roguelike": 31,
+    "Pixel Graphics": 29,
+    "Atmospheric": 28,
+    "Dark": 26,
+    "Dystopian ": 24,
+    "Crafting": 21,
+    "Controller": 21,
+    "Indie": 21,
+    "Multiple Endings": 17,
+    "Resource Management": 16,
+    "Story Rich": 15,
+    "Singleplayer": 12,
+    "Text-Based": 11
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 552880,
+  "success": true,
+  "tags": {
+    "Adventure": 141,
+    "Indie": 135,
+    "Casual": 129,
+    "Space": 129,
+    "Story Rich": 123,
+    "Female Protagonist": 117,
+    "Sci-fi": 110,
+    "Exploration": 105,
+    "Atmospheric": 101,
+    "First-Person": 95,
+    "Mystery": 95,
+    "Singleplayer": 88,
+    "Walking Simulator": 88,
+    "Funny": 78,
+    "Family Friendly": 77,
+    "FPS": 74,
+    "Cinematic": 72,
+    "Simulation": 70,
+    "Lore-Rich": 67,
+    "Emotional": 60
+  }
+}

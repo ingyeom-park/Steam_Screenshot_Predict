@@ -1,0 +1,26 @@
+{
+  "appid": 1792270,
+  "success": true,
+  "tags": {
+    "Choices Matter": 142,
+    "Adventure": 136,
+    "RPG": 132,
+    "Management": 130,
+    "Singleplayer": 128,
+    "Simulation": 120,
+    "Interactive Fiction": 119,
+    "Choose Your Own Adventure": 112,
+    "Resource Management": 105,
+    "Atmospheric": 103,
+    "Fantasy": 101,
+    "Replay Value": 97,
+    "Steampunk": 86,
+    "Text-Based": 84,
+    "Story Rich": 73,
+    "Point & Click": 70,
+    "Sci-fi": 62,
+    "2D": 61,
+    "Visual Novel": 56,
+    "Indie": 48
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "appid": 2353130,
+  "success": true,
+  "tags": {
+    "Strategy": 90,
+    "RPG": 83,
+    "Turn-Based Strategy": 80,
+    "Strategy RPG": 77,
+    "Tactical RPG": 74,
+    "2D": 67,
+    "Pixel Graphics": 65,
+    "Drama": 63,
+    "Time Travel": 61,
+    "Magic": 59,
+    "Story Rich": 57,
+    "Multiple Endings": 55,
+    "Singleplayer": 53,
+    "Indie": 52,
+    "Turn-Based Combat": 49,
+    "Adventure": 47,
+    "Simulation": 45
+  }
+}

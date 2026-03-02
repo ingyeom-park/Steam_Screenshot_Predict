@@ -1,0 +1,26 @@
+{
+  "appid": 234390,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 279,
+    "Rogue-like": 271,
+    "Indie": 199,
+    "Top-Down Shooter": 178,
+    "Difficult": 166,
+    "Action": 159,
+    "Perma Death": 141,
+    "Singleplayer": 126,
+    "Sci-fi": 117,
+    "Rogue-lite": 107,
+    "Top-Down": 101,
+    "Pixel Graphics": 89,
+    "Procedural Generation": 84,
+    "Crafting": 78,
+    "Survival Horror": 65,
+    "Horror": 47,
+    "Retro": 42,
+    "Survival": 42,
+    "Shooter": 41,
+    "Atmospheric": 40
+  }
+}

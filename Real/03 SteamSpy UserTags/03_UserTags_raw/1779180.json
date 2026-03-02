@@ -1,0 +1,26 @@
+{
+  "appid": 1779180,
+  "success": true,
+  "tags": {
+    "Action": 197,
+    "Adventure": 190,
+    "Platformer": 167,
+    "3D Platformer": 166,
+    "Precision Platformer": 162,
+    "3D": 147,
+    "Stylized": 141,
+    "Third Person": 134,
+    "1990's": 126,
+    "Atmospheric": 113,
+    "Emotional": 102,
+    "Fantasy": 100,
+    "Medieval": 88,
+    "Old School": 75,
+    "Retro": 64,
+    "Controller": 42,
+    "Linear": 27,
+    "Singleplayer": 25,
+    "Indie": 21,
+    "Difficult": 7
+  }
+}

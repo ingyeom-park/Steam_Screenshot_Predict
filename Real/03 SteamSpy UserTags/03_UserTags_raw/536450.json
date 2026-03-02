@@ -1,0 +1,26 @@
+{
+  "appid": 536450,
+  "success": true,
+  "tags": {
+    "Retro": 239,
+    "2D": 231,
+    "Isometric": 228,
+    "Indie": 224,
+    "Top-Down Shooter": 221,
+    "Adventure": 213,
+    "Singleplayer": 211,
+    "Action": 209,
+    "Zombies": 208,
+    "Top-Down": 205,
+    "Exploration": 203,
+    "Atmospheric": 199,
+    "Dark Fantasy": 197,
+    "GameMaker": 195,
+    "Action-Adventure": 179,
+    "Linear": 173,
+    "Arena Shooter": 166,
+    "Story Rich": 151,
+    "Controller": 142,
+    "Old School": 137
+  }
+}

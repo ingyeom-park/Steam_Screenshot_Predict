@@ -1,0 +1,26 @@
+{
+  "appid": 1415320,
+  "success": true,
+  "tags": {
+    "Racing": 281,
+    "Indie": 268,
+    "Casual": 264,
+    "Retro": 244,
+    "1980s": 231,
+    "Arcade": 228,
+    "Rhythm": 213,
+    "Driving": 211,
+    "3D": 197,
+    "2D": 187,
+    "Multiplayer": 178,
+    "Procedural Generation": 166,
+    "Pixel Graphics": 155,
+    "Psychedelic": 151,
+    "Colorful": 137,
+    "Singleplayer": 122,
+    "Music-Based Procedural Generation": 103,
+    "Combat Racing": 87,
+    "Shoot 'Em Up": 65,
+    "PvE": 47
+  }
+}

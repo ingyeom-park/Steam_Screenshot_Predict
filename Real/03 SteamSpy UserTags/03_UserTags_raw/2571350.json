@@ -1,0 +1,26 @@
+{
+  "appid": 2571350,
+  "success": true,
+  "tags": {
+    "Deckbuilding": 140,
+    "Auto Battler": 137,
+    "Multiplayer": 131,
+    "Early Access": 126,
+    "Rogue-lite": 123,
+    "Card Game": 116,
+    "Free to Play": 114,
+    "Trading Card Game": 108,
+    "Strategy": 102,
+    "Casual": 97,
+    "MOBA": 92,
+    "Card Battler": 89,
+    "Wargame": 84,
+    "Cartoony": 80,
+    "Indie": 71,
+    "PvP": 67,
+    "Turn-Based Strategy": 65,
+    "Turn-Based Tactics": 61,
+    "Co-op": 58,
+    "Online Co-Op": 56
+  }
+}

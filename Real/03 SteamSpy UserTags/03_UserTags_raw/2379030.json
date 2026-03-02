@@ -1,0 +1,23 @@
+{
+  "appid": 2379030,
+  "success": true,
+  "tags": {
+    "Indie": 181,
+    "Racing": 175,
+    "Sports": 152,
+    "Multiplayer": 145,
+    "PvP": 139,
+    "Arcade": 131,
+    "Driving": 122,
+    "Automobile Sim": 114,
+    "Simulation": 107,
+    "Time Attack": 97,
+    "Immersive Sim": 95,
+    "Local Multiplayer": 83,
+    "Singleplayer": 71,
+    "Casual": 61,
+    "Split Screen": 56,
+    "Cartoony": 27,
+    "Cartoon": 25
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2375730,
+  "success": true,
+  "tags": {
+    "Pixel Graphics": 146,
+    "RPG": 140,
+    "Rogue-lite": 137,
+    "Bullet Hell": 134,
+    "Shoot 'Em Up": 131,
+    "Action Roguelike": 125,
+    "Action RPG": 123,
+    "Loot": 119,
+    "Crafting": 113,
+    "Indie": 108,
+    "Hack and Slash": 106,
+    "Rogue-like": 101,
+    "Survival": 94,
+    "Perma Death": 91,
+    "Character Customization": 89,
+    "Casual": 87,
+    "Fantasy": 81,
+    "Sandbox": 76,
+    "Magic": 69,
+    "Singleplayer": 62
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 113020,
+  "success": true,
+  "tags": {
+    "Co-op": 676,
+    "Stealth": 426,
+    "Indie": 405,
+    "Heist": 340,
+    "Local Co-Op": 289,
+    "Strategy": 266,
+    "Online Co-Op": 265,
+    "Top-Down": 258,
+    "Action": 239,
+    "Multiplayer": 235,
+    "Crime": 177,
+    "Casual": 142,
+    "Great Soundtrack": 124,
+    "Adventure": 120,
+    "Pixel Graphics": 114,
+    "Local Multiplayer": 111,
+    "Controller": 100,
+    "2D": 92,
+    "Singleplayer": 84,
+    "Loot": 66
+  }
+}

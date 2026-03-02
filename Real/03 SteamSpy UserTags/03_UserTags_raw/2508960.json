@@ -1,0 +1,25 @@
+{
+  "appid": 2508960,
+  "success": true,
+  "tags": {
+    "Casual": 196,
+    "Adventure": 186,
+    "Puzzle": 171,
+    "Education": 162,
+    "Cute": 155,
+    "Funny": 145,
+    "Logic": 139,
+    "Modern": 130,
+    "Programming": 122,
+    "2D": 113,
+    "Minimalist": 102,
+    "Colorful": 100,
+    "Linear": 87,
+    "Immersive Sim": 73,
+    "Simulation": 59,
+    "Artificial Intelligence": 42,
+    "Text-Based": 29,
+    "Singleplayer": 25,
+    "Indie": 22
+  }
+}

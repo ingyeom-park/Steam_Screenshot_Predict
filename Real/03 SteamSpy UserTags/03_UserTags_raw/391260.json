@@ -1,0 +1,26 @@
+{
+  "appid": 391260,
+  "success": true,
+  "tags": {
+    "RPG": 79,
+    "RPGMaker": 67,
+    "Adventure": 46,
+    "Anime": 41,
+    "Action": 35,
+    "Indie": 30,
+    "2D": 15,
+    "JRPG": 14,
+    "Strategy": 13,
+    "Pixel Graphics": 12,
+    "Fantasy": 11,
+    "Turn-Based": 10,
+    "Story Rich": 10,
+    "Singleplayer": 10,
+    "Open World": 8,
+    "Retro": 8,
+    "Classic": 7,
+    "Shooter": 5,
+    "Action RPG": 5,
+    "Shoot 'Em Up": 5
+  }
+}

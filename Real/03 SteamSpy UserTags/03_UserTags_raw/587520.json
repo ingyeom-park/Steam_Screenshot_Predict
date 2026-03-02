@@ -1,0 +1,26 @@
+{
+  "appid": 587520,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 176,
+    "RPG": 152,
+    "Hack and Slash": 151,
+    "PvE": 148,
+    "Action": 134,
+    "Action RPG": 125,
+    "Adventure": 120,
+    "Character Customization": 118,
+    "Third Person": 114,
+    "Class-Based": 108,
+    "Fantasy": 107,
+    "Co-op": 104,
+    "Local Co-Op": 100,
+    "Multiplayer": 94,
+    "Indie": 91,
+    "Local Multiplayer": 89,
+    "Online Co-Op": 86,
+    "4 Player Local": 80,
+    "Singleplayer": 77,
+    "Co-op Campaign": 70
+  }
+}

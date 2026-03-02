@@ -1,0 +1,26 @@
+{
+  "appid": 262830,
+  "success": true,
+  "tags": {
+    "Action": 138,
+    "Shooter": 103,
+    "Top-Down": 98,
+    "Indie": 91,
+    "Gore": 90,
+    "Top-Down Shooter": 87,
+    "Local Co-Op": 83,
+    "Twin Stick Shooter": 76,
+    "RPG": 66,
+    "Classic": 61,
+    "Co-op": 59,
+    "Shoot 'Em Up": 52,
+    "Survival": 51,
+    "Arcade": 43,
+    "2D": 37,
+    "Zombies": 35,
+    "Sci-fi": 34,
+    "Local Multiplayer": 34,
+    "Post-apocalyptic": 27,
+    "Violent": 24
+  }
+}

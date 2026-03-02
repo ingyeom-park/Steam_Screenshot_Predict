@@ -1,0 +1,26 @@
+{
+  "appid": 2479030,
+  "success": true,
+  "tags": {
+    "Arcade": 102,
+    "Score Attack": 95,
+    "2D Platformer": 93,
+    "1980s": 89,
+    "Time Attack": 86,
+    "Platformer": 81,
+    "Action": 78,
+    "2D": 71,
+    "Controller": 69,
+    "Linear": 65,
+    "Side Scroller": 64,
+    "Pixel Graphics": 63,
+    "Cartoony": 60,
+    "Funny": 58,
+    "Colorful": 56,
+    "Indie": 54,
+    "Comedy": 33,
+    "Singleplayer": 31,
+    "Retro": 30,
+    "Family Friendly": 27
+  }
+}

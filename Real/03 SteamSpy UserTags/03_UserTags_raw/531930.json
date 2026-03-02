@@ -1,0 +1,26 @@
+{
+  "appid": 531930,
+  "success": true,
+  "tags": {
+    "Tactical RPG": 123,
+    "Turn-Based Tactics": 118,
+    "Party-Based RPG": 115,
+    "Turn-Based Combat": 112,
+    "CRPG": 108,
+    "Dungeon Crawler": 101,
+    "RPG": 95,
+    "Isometric": 88,
+    "Dark Fantasy": 84,
+    "Fantasy": 80,
+    "Tactical": 78,
+    "Crafting": 76,
+    "Singleplayer": 72,
+    "Indie": 70,
+    "Turn-Based": 62,
+    "Strategy": 31,
+    "Adventure": 28,
+    "Difficult": 27,
+    "Sexual Content": 27,
+    "Female Protagonist": 24
+  }
+}

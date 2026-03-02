@@ -1,0 +1,26 @@
+{
+  "appid": 319050,
+  "success": true,
+  "tags": {
+    "Strategy": 82,
+    "RPG": 73,
+    "Turn-Based": 70,
+    "Fantasy": 63,
+    "Indie": 61,
+    "Multiplayer": 60,
+    "Hex Grid": 58,
+    "Turn-Based Strategy": 54,
+    "Tactical": 37,
+    "Board Game": 30,
+    "Singleplayer": 26,
+    "Kickstarter": 25,
+    "Magic": 24,
+    "Card Game": 22,
+    "Turn-Based Tactics": 19,
+    "Asynchronous Multiplayer": 17,
+    "Adventure": 16,
+    "Colorful": 8,
+    "Relaxing": 6,
+    "Early Access": 6
+  }
+}

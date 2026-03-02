@@ -1,0 +1,26 @@
+{
+  "appid": 2648640,
+  "success": true,
+  "tags": {
+    "Adventure": 183,
+    "Visual Novel": 148,
+    "Choose Your Own Adventure": 140,
+    "Anime": 133,
+    "Comedy": 126,
+    "Drama": 110,
+    "Mystery": 106,
+    "Text-Based": 102,
+    "Conversation": 98,
+    "Casual": 96,
+    "Singleplayer": 93,
+    "Dating Sim": 74,
+    "2D": 69,
+    "Colorful": 66,
+    "Cute": 63,
+    "Emotional": 60,
+    "Fantasy": 57,
+    "Multiple Endings": 55,
+    "Indie": 53,
+    "Story Rich": 50
+  }
+}

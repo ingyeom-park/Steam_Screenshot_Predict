@@ -1,0 +1,26 @@
+{
+  "appid": 720660,
+  "success": true,
+  "tags": {
+    "Puzzle": 183,
+    "Action": 182,
+    "Adventure": 177,
+    "2D": 169,
+    "Pixel Graphics": 168,
+    "Sci-fi": 159,
+    "Puzzle-Platformer": 158,
+    "Exploration": 153,
+    "Platformer": 151,
+    "Side Scroller": 148,
+    "2D Platformer": 146,
+    "Singleplayer": 143,
+    "Dark Humor": 135,
+    "Atmospheric": 133,
+    "Story Rich": 117,
+    "Mystery": 107,
+    "Indie": 105,
+    "Gore": 70,
+    "Local Co-Op": 54,
+    "Blood": 52
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 361230,
+  "success": true,
+  "tags": {
+    "Action": 50,
+    "Indie": 50,
+    "RPG": 48,
+    "Hand-drawn": 32,
+    "2D": 31,
+    "Metroidvania": 30,
+    "Singleplayer": 28,
+    "Side Scroller": 28,
+    "Funny": 27,
+    "Great Soundtrack": 26,
+    "Adventure": 25,
+    "Exploration": 25,
+    "Comedy": 25,
+    "Atmospheric": 24,
+    "Controller": 24,
+    "Story Rich": 23,
+    "Co-op": 23,
+    "Crowdfunded": 23,
+    "Colorful": 21,
+    "Surreal": 16
+  }
+}

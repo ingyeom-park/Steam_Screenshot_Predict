@@ -1,0 +1,26 @@
+{
+  "appid": 218820,
+  "success": true,
+  "tags": {
+    "Action": 151,
+    "Indie": 134,
+    "2D": 130,
+    "Co-op": 125,
+    "Pixel Graphics": 122,
+    "Platformer": 117,
+    "Side Scroller": 104,
+    "Local Co-Op": 92,
+    "Crafting": 79,
+    "Adventure": 78,
+    "Shooter": 78,
+    "RPG": 74,
+    "Split Screen": 57,
+    "Retro": 46,
+    "Online Co-Op": 37,
+    "Local Multiplayer": 36,
+    "Shoot 'Em Up": 33,
+    "Arcade": 26,
+    "Kickstarter": 26,
+    "Female Protagonist": 22
+  }
+}

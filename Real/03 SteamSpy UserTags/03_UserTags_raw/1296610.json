@@ -1,0 +1,26 @@
+{
+  "appid": 1296610,
+  "success": true,
+  "tags": {
+    "Deckbuilding": 261,
+    "Rogue-lite": 231,
+    "Rogue-like": 228,
+    "Pinball": 220,
+    "Turn-Based": 205,
+    "Strategy": 203,
+    "Perma Death": 198,
+    "Pixel Graphics": 194,
+    "Cute": 191,
+    "2D": 188,
+    "Replay Value": 185,
+    "RPG": 180,
+    "Turn-Based Combat": 174,
+    "Physics": 162,
+    "Singleplayer": 153,
+    "Fantasy": 150,
+    "Retro": 126,
+    "Early Access": 107,
+    "Indie": 80,
+    "Casual": 78
+  }
+}

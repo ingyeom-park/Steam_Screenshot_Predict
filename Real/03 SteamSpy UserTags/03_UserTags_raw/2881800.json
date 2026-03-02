@@ -1,0 +1,26 @@
+{
+  "appid": 2881800,
+  "success": true,
+  "tags": {
+    "Roguelike Deckbuilder": 97,
+    "Deckbuilding": 89,
+    "Rogue-lite": 86,
+    "City Builder": 81,
+    "Rogue-like": 80,
+    "Choices Matter": 72,
+    "Gambling": 70,
+    "Casual": 68,
+    "Simulation": 68,
+    "Auto Battler": 60,
+    "Automation": 56,
+    "Indie": 55,
+    "Singleplayer": 35,
+    "2D": 32,
+    "Pixel Graphics": 30,
+    "Top-Down": 28,
+    "Economy": 26,
+    "Capitalism": 24,
+    "Resource Management": 22,
+    "Procedural Generation": 20
+  }
+}

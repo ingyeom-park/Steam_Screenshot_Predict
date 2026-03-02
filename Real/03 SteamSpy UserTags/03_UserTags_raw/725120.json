@@ -1,0 +1,26 @@
+{
+  "appid": 725120,
+  "success": true,
+  "tags": {
+    "Indie": 177,
+    "Space Sim": 171,
+    "Action": 170,
+    "Family Friendly": 168,
+    "Replay Value": 163,
+    "Exploration": 160,
+    "Physics": 155,
+    "Platformer": 146,
+    "Simulation": 144,
+    "Singleplayer": 140,
+    "Local Co-Op": 137,
+    "4 Player Local": 128,
+    "Split Screen": 123,
+    "Cute": 120,
+    "Funny": 119,
+    "Hand-drawn": 116,
+    "Sci-fi": 110,
+    "Rogue-lite": 107,
+    "Space": 105,
+    "2D": 96
+  }
+}

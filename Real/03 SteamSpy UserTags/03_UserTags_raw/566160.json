@@ -1,0 +1,25 @@
+{
+  "appid": 566160,
+  "success": true,
+  "tags": {
+    "Puzzle": 156,
+    "Casual": 149,
+    "Indie": 145,
+    "2D": 73,
+    "Fast-Paced": 70,
+    "Physics": 65,
+    "Short": 63,
+    "Relaxing": 60,
+    "Minimalist": 57,
+    "Puzzle-Platformer": 55,
+    "Point & Click": 52,
+    "Singleplayer": 51,
+    "Cute": 47,
+    "Difficult": 41,
+    "Pixel Graphics": 33,
+    "Card Game": 32,
+    "Sci-fi": 30,
+    "FPS": 18,
+    "LEGO": 11
+  }
+}

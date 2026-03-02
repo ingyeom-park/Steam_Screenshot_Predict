@@ -1,0 +1,23 @@
+{
+  "appid": 1776840,
+  "success": true,
+  "tags": {
+    "Metroidvania": 86,
+    "Action": 80,
+    "Adventure": 77,
+    "Pixel Graphics": 74,
+    "2D": 71,
+    "Indie": 65,
+    "2D Platformer": 63,
+    "Platformer": 61,
+    "Retro": 59,
+    "Singleplayer": 55,
+    "Fantasy": 48,
+    "Magic": 43,
+    "Action-Adventure": 39,
+    "Combat": 36,
+    "Controller": 31,
+    "Open World": 29,
+    "Dark": 27
+  }
+}

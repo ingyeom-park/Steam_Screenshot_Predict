@@ -1,0 +1,26 @@
+{
+  "appid": 208140,
+  "success": true,
+  "tags": {
+    "Strategy": 998,
+    "4X": 546,
+    "Space": 542,
+    "Sci-fi": 406,
+    "Turn-Based Strategy": 387,
+    "Turn-Based": 357,
+    "Multiplayer": 209,
+    "Singleplayer": 194,
+    "Indie": 167,
+    "Exploration": 135,
+    "Great Soundtrack": 126,
+    "Futuristic": 118,
+    "Diplomacy": 96,
+    "Grand Strategy": 90,
+    "Aliens": 77,
+    "Simulation": 51,
+    "Atmospheric": 45,
+    "Replay Value": 43,
+    "Management": 36,
+    "Sandbox": 17
+  }
+}

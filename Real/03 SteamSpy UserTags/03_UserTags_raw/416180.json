@@ -1,0 +1,26 @@
+{
+  "appid": 416180,
+  "success": true,
+  "tags": {
+    "Strategy": 161,
+    "Multiplayer": 159,
+    "PvP": 153,
+    "Real-Time": 150,
+    "Top-Down Shooter": 145,
+    "Bullet Hell": 134,
+    "Top-Down": 133,
+    "2D": 130,
+    "Action": 129,
+    "Tactical": 122,
+    "Mining": 115,
+    "Co-op": 111,
+    "Online Co-Op": 109,
+    "Singleplayer": 102,
+    "Indie": 98,
+    "Violent": 97,
+    "Arcade": 84,
+    "Shooter": 68,
+    "Real Time Tactics": 57,
+    "Early Access": 51
+  }
+}

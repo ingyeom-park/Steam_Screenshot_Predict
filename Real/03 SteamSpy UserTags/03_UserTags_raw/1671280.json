@@ -1,0 +1,26 @@
+{
+  "appid": 1671280,
+  "success": true,
+  "tags": {
+    "Adventure": 165,
+    "Horror": 162,
+    "Story Rich": 156,
+    "Realistic": 152,
+    "First-Person": 149,
+    "Singleplayer": 143,
+    "Indie": 141,
+    "3D": 131,
+    "Puzzle": 127,
+    "Walking Simulator": 123,
+    "Immersive Sim": 119,
+    "Exploration": 118,
+    "Early Access": 116,
+    "Atmospheric": 115,
+    "Replay Value": 101,
+    "Difficult": 88,
+    "Dark": 81,
+    "Psychological Horror": 79,
+    "Mature": 78,
+    "Simulation": 65
+  }
+}

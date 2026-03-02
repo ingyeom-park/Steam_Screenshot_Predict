@@ -1,0 +1,26 @@
+{
+  "appid": 1589490,
+  "success": true,
+  "tags": {
+    "Adventure": 135,
+    "RPG": 130,
+    "Puzzle": 127,
+    "Exploration": 123,
+    "3D": 120,
+    "First-Person": 114,
+    "1980s": 113,
+    "1990's": 110,
+    "Horror": 106,
+    "Mystery": 103,
+    "Thriller": 100,
+    "Detective": 98,
+    "Sci-fi": 84,
+    "Story Rich": 72,
+    "Singleplayer": 59,
+    "Indie": 56,
+    "Drama": 45,
+    "Visual Novel": 42,
+    "3D Platformer": 40,
+    "Stylized": 38
+  }
+}

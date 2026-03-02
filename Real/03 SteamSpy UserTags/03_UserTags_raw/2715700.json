@@ -1,0 +1,26 @@
+{
+  "appid": 2715700,
+  "success": true,
+  "tags": {
+    "Casual": 129,
+    "Cozy": 123,
+    "Strategy": 121,
+    "Puzzle": 116,
+    "Minimalist": 112,
+    "City Builder": 105,
+    "Colorful": 103,
+    "Building": 99,
+    "Family Friendly": 96,
+    "Relaxing": 87,
+    "Choices Matter": 84,
+    "Controller": 76,
+    "Open World": 71,
+    "Singleplayer": 68,
+    "Atmospheric": 58,
+    "Cute": 54,
+    "Simulation": 52,
+    "Indie": 50,
+    "Resource Management": 32,
+    "Immersive Sim": 30
+  }
+}

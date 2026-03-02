@@ -1,0 +1,26 @@
+{
+  "appid": 345820,
+  "success": true,
+  "tags": {
+    "Platformer": 161,
+    "Metroidvania": 148,
+    "Female Protagonist": 146,
+    "Great Soundtrack": 108,
+    "2D": 103,
+    "Pixel Graphics": 98,
+    "Action": 90,
+    "Adventure": 81,
+    "Anime": 79,
+    "Indie": 77,
+    "Cute": 74,
+    "Singleplayer": 67,
+    "Pirates": 58,
+    "Funny": 49,
+    "Side Scroller": 39,
+    "RPG": 28,
+    "Difficult": 14,
+    "Sexual Content": 11,
+    "Exploration": 5,
+    "Comedy": 5
+  }
+}

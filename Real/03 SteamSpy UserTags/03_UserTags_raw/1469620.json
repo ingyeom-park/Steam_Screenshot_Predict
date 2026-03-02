@@ -1,0 +1,26 @@
+{
+  "appid": 1469620,
+  "success": true,
+  "tags": {
+    "Singleplayer": 109,
+    "Retro": 102,
+    "JRPG": 99,
+    "Action": 96,
+    "2D Platformer": 92,
+    "Bullet Hell": 82,
+    "Adventure": 77,
+    "Old School": 74,
+    "RPG": 72,
+    "Anime": 70,
+    "Cartoony": 68,
+    "Party-Based RPG": 66,
+    "Casual": 62,
+    "Indie": 59,
+    "Platformer": 48,
+    "Action-Adventure": 40,
+    "2D": 38,
+    "Collectathon": 34,
+    "Funny": 32,
+    "Shoot 'Em Up": 29
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 3059070,
+  "success": true,
+  "tags": {
+    "Online Co-Op": 199,
+    "Horror": 187,
+    "Co-op": 172,
+    "Funny": 165,
+    "Action": 162,
+    "Multiplayer": 160,
+    "Indie": 136,
+    "Action-Adventure": 121,
+    "Team-Based": 111,
+    "Gore": 110,
+    "Destruction": 108,
+    "First-Person": 101,
+    "Atmospheric": 88,
+    "Dark": 81,
+    "Singleplayer": 72,
+    "Violent": 65,
+    "Souls-like": 64,
+    "Survival Horror": 49,
+    "Psychological Horror": 39,
+    "Sexual Content": 37
+  }
+}

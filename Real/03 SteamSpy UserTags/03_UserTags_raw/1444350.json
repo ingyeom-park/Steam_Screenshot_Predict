@@ -1,0 +1,25 @@
+{
+  "appid": 1444350,
+  "success": true,
+  "tags": {
+    "Horror": 123,
+    "Pixel Graphics": 110,
+    "Adventure": 77,
+    "Survival": 75,
+    "Action": 75,
+    "Singleplayer": 72,
+    "Gore": 72,
+    "Multiple Endings": 65,
+    "Indie": 64,
+    "2D": 62,
+    "Surreal": 60,
+    "Atmospheric": 60,
+    "Violent": 59,
+    "Psychological Horror": 30,
+    "Puzzle": 28,
+    "Female Protagonist": 23,
+    "Blood": 15,
+    "Rogue-like": 10,
+    "Great Soundtrack": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1311570,
+  "success": true,
+  "tags": {
+    "Flight": 247,
+    "6DOF": 246,
+    "First-Person": 237,
+    "Singleplayer": 231,
+    "Shooter": 229,
+    "Old School": 228,
+    "Boomer Shooter": 218,
+    "Retro": 217,
+    "1990's": 212,
+    "Sci-fi": 211,
+    "Procedural Generation": 209,
+    "Indie": 209,
+    "3D": 208,
+    "Atmospheric": 204,
+    "Online Co-Op": 197,
+    "Action": 190,
+    "FPS": 179,
+    "Underwater": 177,
+    "PvE": 174,
+    "Robots": 168
+  }
+}

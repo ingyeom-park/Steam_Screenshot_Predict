@@ -1,0 +1,25 @@
+{
+  "appid": 1281790,
+  "success": true,
+  "tags": {
+    "Metroidvania": 152,
+    "Platformer": 146,
+    "2D Platformer": 140,
+    "Adventure": 135,
+    "Exploration": 132,
+    "Indie": 118,
+    "Casual": 114,
+    "Cute": 113,
+    "Open World": 105,
+    "2D": 101,
+    "Colorful": 93,
+    "Hand-drawn": 78,
+    "Singleplayer": 68,
+    "Stylized": 54,
+    "Action": 52,
+    "Atmospheric": 36,
+    "Funny": 31,
+    "Family Friendly": 29,
+    "Surreal": 26
+  }
+}

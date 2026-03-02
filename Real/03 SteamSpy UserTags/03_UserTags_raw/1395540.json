@@ -1,0 +1,26 @@
+{
+  "appid": 1395540,
+  "success": true,
+  "tags": {
+    "Chess": 190,
+    "Puzzle": 183,
+    "Artificial Intelligence": 180,
+    "Education": 175,
+    "Nostalgia": 172,
+    "Unforgiving": 163,
+    "Turn-Based Tactics": 161,
+    "Text-Based": 155,
+    "Board Game": 147,
+    "Atmospheric": 136,
+    "Minimalist": 125,
+    "Turn-Based Strategy": 113,
+    "Indie": 103,
+    "Tabletop": 98,
+    "Foreign": 86,
+    "Mouse only": 81,
+    "Relaxing": 65,
+    "Casual": 52,
+    "Strategy": 50,
+    "Singleplayer": 45
+  }
+}

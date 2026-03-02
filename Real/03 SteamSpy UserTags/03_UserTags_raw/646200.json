@@ -1,0 +1,20 @@
+{
+  "appid": 646200,
+  "success": true,
+  "tags": {
+    "Action": 31,
+    "VR": 26,
+    "RPG": 25,
+    "Indie": 23,
+    "Zombies": 13,
+    "Co-op": 12,
+    "Horror": 10,
+    "Gore": 10,
+    "Violent": 8,
+    "FPS": 7,
+    "Multiplayer": 6,
+    "Shooter": 5,
+    "First-Person": 5,
+    "Singleplayer": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1198270,
+  "success": true,
+  "tags": {
+    "Adventure": 93,
+    "Indie": 88,
+    "Magic": 84,
+    "Puzzle": 82,
+    "2D": 78,
+    "Pixel Graphics": 72,
+    "Cartoony": 68,
+    "Funny": 66,
+    "Point & Click": 63,
+    "Exploration": 61,
+    "Hidden Object": 58,
+    "Interactive Fiction": 57,
+    "Investigation": 55,
+    "Puzzle-Platformer": 53,
+    "Cute": 51,
+    "Cartoon": 49,
+    "Hand-drawn": 47,
+    "Colorful": 45,
+    "Atmospheric": 43,
+    "Fantasy": 41
+  }
+}

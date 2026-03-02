@@ -1,0 +1,26 @@
+{
+  "appid": 431750,
+  "success": true,
+  "tags": {
+    "Casual": 115,
+    "Action": 112,
+    "Tower Defense": 109,
+    "Adventure": 108,
+    "Strategy": 105,
+    "RPG": 104,
+    "Indie": 102,
+    "Simulation": 102,
+    "Sports": 98,
+    "Difficult": 98,
+    "Animation & Modeling": 76,
+    "Time Management": 70,
+    "Turn-Based Tactics": 68,
+    "Naval": 66,
+    "Submarine": 55,
+    "Comedy": 44,
+    "Funny": 38,
+    "Female Protagonist": 36,
+    "Co-op": 34,
+    "Singleplayer": 33
+  }
+}

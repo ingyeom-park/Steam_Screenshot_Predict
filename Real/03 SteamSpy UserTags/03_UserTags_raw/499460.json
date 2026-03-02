@@ -1,0 +1,13 @@
+{
+  "appid": 499460,
+  "success": true,
+  "tags": {
+    "Action": 36,
+    "Adventure": 36,
+    "Casual": 35,
+    "Indie": 34,
+    "Puzzle": 9,
+    "Platformer": 8,
+    "Psychological Horror": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1240210,
+  "success": true,
+  "tags": {
+    "Indie": 202,
+    "Adventure": 192,
+    "Point & Click": 190,
+    "Puzzle": 184,
+    "Pixel Graphics": 182,
+    "Casual": 177,
+    "Funny": 176,
+    "Comedy": 173,
+    "Story Rich": 161,
+    "Singleplayer": 142,
+    "2D": 117,
+    "Narration": 114,
+    "Parody ": 101,
+    "Interactive Fiction": 77,
+    "Romance": 77,
+    "Great Soundtrack": 67,
+    "Simulation": 55,
+    "Remake": 52,
+    "RPG": 50,
+    "Action": 45
+  }
+}

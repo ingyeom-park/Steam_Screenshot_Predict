@@ -1,0 +1,26 @@
+{
+  "appid": 636100,
+  "success": true,
+  "tags": {
+    "Top-Down Shooter": 130,
+    "Lovecraftian": 125,
+    "Arena Shooter": 123,
+    "Action": 120,
+    "Indie": 114,
+    "Destruction": 99,
+    "Local Co-Op": 96,
+    "Top-Down": 90,
+    "Shooter": 89,
+    "Mechs": 86,
+    "Sci-fi": 83,
+    "Singleplayer": 80,
+    "Twin Stick Shooter": 77,
+    "Horror": 74,
+    "Science": 73,
+    "Futuristic": 67,
+    "RPG": 66,
+    "Local Multiplayer": 64,
+    "Shoot 'Em Up": 59,
+    "Atmospheric": 57
+  }
+}

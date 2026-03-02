@@ -1,0 +1,26 @@
+{
+  "appid": 1944360,
+  "success": true,
+  "tags": {
+    "RPG": 278,
+    "Adventure": 264,
+    "Action": 261,
+    "Indie": 260,
+    "Open World": 252,
+    "Multiplayer": 251,
+    "Co-op": 241,
+    "Online Co-Op": 231,
+    "Action RPG": 229,
+    "Party-Based RPG": 225,
+    "Singleplayer": 220,
+    "PvE": 203,
+    "Magic": 200,
+    "Combat": 194,
+    "Souls-like": 191,
+    "Colorful": 184,
+    "Fantasy": 181,
+    "Exploration": 173,
+    "3D": 164,
+    "Third Person": 150
+  }
+}

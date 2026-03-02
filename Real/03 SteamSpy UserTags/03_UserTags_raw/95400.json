@@ -1,0 +1,26 @@
+{
+  "appid": 95400,
+  "success": true,
+  "tags": {
+    "Co-op": 222,
+    "Online Co-Op": 146,
+    "Puzzle": 143,
+    "Local Co-Op": 138,
+    "Platformer": 109,
+    "Indie": 104,
+    "Cute": 85,
+    "Multiplayer": 82,
+    "Adventure": 70,
+    "Puzzle-Platformer": 55,
+    "Action": 50,
+    "2D": 40,
+    "Family Friendly": 36,
+    "Difficult": 34,
+    "Great Soundtrack": 32,
+    "Casual": 28,
+    "Local Multiplayer": 27,
+    "Controller": 16,
+    "Funny": 13,
+    "Psychological Horror": 8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 421260,
+  "success": true,
+  "tags": {
+    "Turn-Based Tactics": 134,
+    "Turn-Based": 128,
+    "Board Game": 125,
+    "Turn-Based Strategy": 122,
+    "Tabletop": 119,
+    "Strategy": 113,
+    "2D": 110,
+    "Procedural Generation": 107,
+    "Puzzle": 103,
+    "Abstract": 101,
+    "Minimalist": 99,
+    "Pixel Graphics": 97,
+    "Fantasy": 95,
+    "Tactical": 90,
+    "Retro": 79,
+    "Difficult": 71,
+    "Singleplayer": 62,
+    "Chess": 53,
+    "Indie": 50,
+    "Touch-Friendly": 36
+  }
+}

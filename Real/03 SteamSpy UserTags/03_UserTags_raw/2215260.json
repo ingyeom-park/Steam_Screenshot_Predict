@@ -1,0 +1,26 @@
+{
+  "appid": 2215260,
+  "success": true,
+  "tags": {
+    "Action": 93,
+    "Adventure": 79,
+    "Beat 'em up": 79,
+    "Online Co-Op": 56,
+    "Multiplayer": 44,
+    "Pixel Graphics": 43,
+    "Singleplayer": 43,
+    "Local Co-Op": 39,
+    "Local Multiplayer": 37,
+    "Co-op": 36,
+    "2D": 32,
+    "PvP": 31,
+    "Great Soundtrack": 24,
+    "Arcade": 21,
+    "Side Scroller": 21,
+    "Retro": 17,
+    "LGBTQ+": 17,
+    "4 Player Local": 12,
+    "Indie": 10,
+    "Comic Book": 6
+  }
+}

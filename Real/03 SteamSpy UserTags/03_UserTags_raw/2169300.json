@@ -1,0 +1,26 @@
+{
+  "appid": 2169300,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 248,
+    "Arcade": 242,
+    "Runner": 239,
+    "Action": 234,
+    "Rogue-like": 231,
+    "Replay Value": 221,
+    "Pixel Graphics": 213,
+    "Side Scroller": 206,
+    "Rogue-lite": 197,
+    "Funny": 187,
+    "Cute": 176,
+    "Difficult": 164,
+    "Combat": 151,
+    "Perma Death": 137,
+    "Old School": 122,
+    "Controller": 106,
+    "Procedural Generation": 89,
+    "2D": 71,
+    "Indie": 53,
+    "Singleplayer": 51
+  }
+}

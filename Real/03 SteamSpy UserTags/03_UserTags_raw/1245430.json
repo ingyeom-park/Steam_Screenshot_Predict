@@ -1,0 +1,26 @@
+{
+  "appid": 1245430,
+  "success": true,
+  "tags": {
+    "3D": 3486,
+    "Action": 3484,
+    "Singleplayer": 3144,
+    "Stealth": 2983,
+    "Adventure": 2964,
+    "Procedural Generation": 2664,
+    "Old School": 2502,
+    "Horror": 2231,
+    "Shooter": 2150,
+    "FPS": 2148,
+    "First-Person": 2140,
+    "Psychedelic": 2035,
+    "Surreal": 2031,
+    "Rogue-like": 2027,
+    "Stylized": 2020,
+    "Retro": 2018,
+    "Indie": 2010,
+    "PvP": 1999,
+    "Psychological Horror": 1992,
+    "Rogue-lite": 1991
+  }
+}

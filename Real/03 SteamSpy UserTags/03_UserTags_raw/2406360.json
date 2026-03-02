@@ -1,0 +1,26 @@
+{
+  "appid": 2406360,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 241,
+    "Casual": 239,
+    "Beat 'em up": 234,
+    "Rogue-lite": 234,
+    "Musou": 227,
+    "Action": 227,
+    "Top-Down": 216,
+    "Adventure": 216,
+    "Indie": 210,
+    "Stylized": 206,
+    "Hack and Slash": 198,
+    "Runner": 183,
+    "Hand-drawn": 175,
+    "Perma Death": 168,
+    "Controller": 154,
+    "Fantasy": 138,
+    "Atmospheric": 125,
+    "Combat": 113,
+    "Singleplayer": 111,
+    "Parkour": 91
+  }
+}

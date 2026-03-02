@@ -1,0 +1,26 @@
+{
+  "appid": 2510760,
+  "success": true,
+  "tags": {
+    "RPG": 152,
+    "Loot": 143,
+    "Indie": 140,
+    "Rogue-like": 134,
+    "Pixel Graphics": 130,
+    "Action Roguelike": 120,
+    "Dark Fantasy": 113,
+    "Procedural Generation": 111,
+    "Singleplayer": 109,
+    "Action": 107,
+    "2D": 105,
+    "Colorful": 103,
+    "Action-Adventure": 101,
+    "Action RPG": 98,
+    "Anime": 95,
+    "Fantasy": 91,
+    "Party-Based RPG": 89,
+    "JRPG": 84,
+    "Traditional Roguelike": 82,
+    "Drama": 78
+  }
+}

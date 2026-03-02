@@ -1,0 +1,26 @@
+{
+  "appid": 1061920,
+  "success": true,
+  "tags": {
+    "Puzzle": 112,
+    "Surreal": 107,
+    "Thriller": 105,
+    "Difficult": 100,
+    "Mystery": 96,
+    "Horror": 88,
+    "Atmospheric": 82,
+    "Adventure": 76,
+    "Female Protagonist": 75,
+    "Dark": 68,
+    "Drama": 65,
+    "First-Person": 61,
+    "Hidden Object": 59,
+    "Exploration": 58,
+    "Indie": 55,
+    "Point & Click": 33,
+    "Supernatural": 32,
+    "Realistic": 31,
+    "Singleplayer": 29,
+    "3D": 27
+  }
+}

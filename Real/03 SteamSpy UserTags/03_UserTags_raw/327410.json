@@ -1,0 +1,26 @@
+{
+  "appid": 327410,
+  "success": true,
+  "tags": {
+    "Indie": 197,
+    "Story Rich": 194,
+    "Great Soundtrack": 168,
+    "Pixel Graphics": 161,
+    "Short": 155,
+    "RPGMaker": 152,
+    "Adventure": 131,
+    "Singleplayer": 112,
+    "Interactive Fiction": 98,
+    "2D": 87,
+    "RPG": 70,
+    "Atmospheric": 63,
+    "Visual Novel": 59,
+    "Emotional": 54,
+    "Retro": 48,
+    "Walking Simulator": 44,
+    "Casual": 40,
+    "Surreal": 29,
+    "Top-Down": 24,
+    "Cute": 13
+  }
+}

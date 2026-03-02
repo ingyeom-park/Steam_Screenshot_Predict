@@ -1,0 +1,26 @@
+{
+  "appid": 893690,
+  "success": true,
+  "tags": {
+    "Arcade": 157,
+    "Puzzle-Platformer": 151,
+    "Co-op": 146,
+    "Difficult": 144,
+    "Pixel Graphics": 142,
+    "2D": 135,
+    "Puzzle": 133,
+    "Platformer": 131,
+    "Action": 126,
+    "Local Co-Op": 121,
+    "Local Multiplayer": 119,
+    "Singleplayer": 116,
+    "Adventure": 113,
+    "Cartoony": 110,
+    "Old School": 103,
+    "Retro": 100,
+    "Dark Humor": 92,
+    "Controller": 86,
+    "Choices Matter": 73,
+    "Indie": 57
+  }
+}

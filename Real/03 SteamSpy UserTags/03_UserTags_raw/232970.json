@@ -1,0 +1,26 @@
+{
+  "appid": 232970,
+  "success": true,
+  "tags": {
+    "Flight": 167,
+    "Shoot 'Em Up": 162,
+    "Third-Person Shooter": 157,
+    "Military": 151,
+    "War": 149,
+    "Shooter": 142,
+    "Arcade": 136,
+    "3D": 134,
+    "Third Person": 129,
+    "Open World": 115,
+    "Action": 112,
+    "Simulation": 95,
+    "Destruction": 95,
+    "Combat": 88,
+    "Co-op": 87,
+    "Local Co-Op": 83,
+    "Local Multiplayer": 81,
+    "Multiplayer": 75,
+    "Singleplayer": 74,
+    "Indie": 63
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 333330,
+  "success": true,
+  "tags": {
+    "RPG": 187,
+    "Indie": 181,
+    "Action": 178,
+    "Pixel Graphics": 176,
+    "Fantasy": 171,
+    "Adventure": 163,
+    "Co-op": 160,
+    "Singleplayer": 158,
+    "Funny": 156,
+    "Action RPG": 155,
+    "2D": 152,
+    "Open World": 150,
+    "Local Co-Op": 147,
+    "Sandbox": 143,
+    "Dungeon Crawler": 138,
+    "Crafting": 126,
+    "4 Player Local": 118,
+    "Multiplayer": 116,
+    "Local Multiplayer": 112,
+    "Action-Adventure": 109
+  }
+}

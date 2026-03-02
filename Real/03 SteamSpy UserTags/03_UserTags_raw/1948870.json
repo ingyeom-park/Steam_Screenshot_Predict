@@ -1,0 +1,26 @@
+{
+  "appid": 1948870,
+  "success": true,
+  "tags": {
+    "Adventure": 210,
+    "Strategy": 204,
+    "Point & Click": 196,
+    "Education": 183,
+    "Retro": 173,
+    "Puzzle": 163,
+    "Exploration": 158,
+    "2D": 148,
+    "Anime": 141,
+    "Colorful": 131,
+    "Cute": 120,
+    "Pixel Graphics": 118,
+    "Family Friendly": 105,
+    "Fantasy": 91,
+    "Old School": 76,
+    "Casual": 64,
+    "Narration": 60,
+    "Singleplayer": 28,
+    "Cartoony": 25,
+    "Indie": 22
+  }
+}

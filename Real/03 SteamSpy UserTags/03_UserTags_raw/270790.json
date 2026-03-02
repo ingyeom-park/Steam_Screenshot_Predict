@@ -1,0 +1,22 @@
+{
+  "appid": 270790,
+  "success": true,
+  "tags": {
+    "RPG": 152,
+    "Card Game": 114,
+    "Turn-Based": 103,
+    "Turn-Based Strategy": 102,
+    "Strategy": 99,
+    "Fantasy": 71,
+    "Turn-Based Tactics": 60,
+    "Tactical": 54,
+    "Adventure": 45,
+    "Classic": 40,
+    "Indie": 31,
+    "Atmospheric": 28,
+    "Singleplayer": 26,
+    "Great Soundtrack": 11,
+    "Magic": 9,
+    "Trading Card Game": 7
+  }
+}

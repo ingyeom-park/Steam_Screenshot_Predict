@@ -1,0 +1,26 @@
+{
+  "appid": 1608660,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 172,
+    "Puzzle": 168,
+    "Rogue-lite": 163,
+    "Indie": 158,
+    "Dungeon Crawler": 156,
+    "Hand-drawn": 148,
+    "2D": 146,
+    "Logic": 142,
+    "Rogue-like": 140,
+    "Replay Value": 133,
+    "Singleplayer": 127,
+    "Top-Down": 121,
+    "Mystery": 110,
+    "Adventure": 104,
+    "Atmospheric": 98,
+    "Colorful": 88,
+    "Procedural Generation": 75,
+    "Stylized": 68,
+    "Controller": 64,
+    "Score Attack": 61
+  }
+}

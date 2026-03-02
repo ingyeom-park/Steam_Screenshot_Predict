@@ -1,0 +1,26 @@
+{
+  "appid": 1807810,
+  "success": true,
+  "tags": {
+    "Horror": 623,
+    "Action": 621,
+    "Action-Adventure": 606,
+    "Archery": 600,
+    "Shooter": 571,
+    "Mythology": 471,
+    "Hunting": 469,
+    "Singleplayer": 465,
+    "Stealth": 455,
+    "Open World": 451,
+    "RPG": 450,
+    "First-Person": 441,
+    "Simulation": 433,
+    "Atmospheric": 431,
+    "Indie": 427,
+    "Exploration": 420,
+    "FPS": 413,
+    "Souls-like": 408,
+    "Dark": 407,
+    "Immersive Sim": 403
+  }
+}

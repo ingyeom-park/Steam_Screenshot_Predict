@@ -1,0 +1,26 @@
+{
+  "appid": 2600600,
+  "success": true,
+  "tags": {
+    "Simulation": 172,
+    "Economy": 166,
+    "Management": 163,
+    "Building": 159,
+    "Sandbox": 155,
+    "Singleplayer": 145,
+    "Strategy": 140,
+    "Dating Sim": 137,
+    "Casual": 132,
+    "Indie": 129,
+    "Base-Building": 124,
+    "Resource Management": 120,
+    "Story Rich": 117,
+    "Horror": 115,
+    "Emotional": 113,
+    "Drama": 110,
+    "Lore-Rich": 108,
+    "Immersive Sim": 104,
+    "Romance": 99,
+    "Top-Down": 96
+  }
+}

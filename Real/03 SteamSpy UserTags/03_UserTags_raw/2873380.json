@@ -1,0 +1,25 @@
+{
+  "appid": 2873380,
+  "success": true,
+  "tags": {
+    "Action": 181,
+    "Casual": 174,
+    "Arcade": 151,
+    "Shooter": 146,
+    "FPS": 140,
+    "3D": 131,
+    "Colorful": 123,
+    "First-Person": 116,
+    "Stylized": 108,
+    "Comedy": 98,
+    "Funny": 96,
+    "Survival": 83,
+    "Combat": 71,
+    "PvE": 58,
+    "PvP": 43,
+    "Multiplayer": 29,
+    "Arena Shooter": 26,
+    "Indie": 23,
+    "Party Game": 11
+  }
+}

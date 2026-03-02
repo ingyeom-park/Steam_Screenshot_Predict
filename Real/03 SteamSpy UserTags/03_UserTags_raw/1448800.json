@@ -1,0 +1,26 @@
+{
+  "appid": 1448800,
+  "success": true,
+  "tags": {
+    "Action": 91,
+    "Pixel Graphics": 85,
+    "Horror": 81,
+    "Arcade": 79,
+    "Singleplayer": 76,
+    "On-Rails Shooter": 71,
+    "Score Attack": 65,
+    "Indie": 62,
+    "Retro": 45,
+    "Zombies": 43,
+    "Boomer Shooter": 41,
+    "Short": 38,
+    "Remake": 36,
+    "Female Protagonist": 34,
+    "Anime": 32,
+    "Funny": 30,
+    "Comedy": 28,
+    "Simulation": 25,
+    "Sports": 24,
+    "Adventure": 22
+  }
+}

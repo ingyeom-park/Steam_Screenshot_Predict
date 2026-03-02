@@ -1,0 +1,14 @@
+{
+  "appid": 15500,
+  "success": true,
+  "tags": {
+    "Indie": 75,
+    "Casual": 66,
+    "Action": 39,
+    "Singleplayer": 32,
+    "Short": 25,
+    "Funny": 18,
+    "Cute": 14,
+    "Puzzle": 11
+  }
+}

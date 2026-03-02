@@ -1,0 +1,26 @@
+{
+  "appid": 600090,
+  "success": true,
+  "tags": {
+    "Adventure": 142,
+    "Indie": 133,
+    "Horror": 131,
+    "Action": 113,
+    "Anime": 112,
+    "Violent": 96,
+    "2D": 86,
+    "Visual Novel": 80,
+    "Survival Horror": 73,
+    "Psychological Horror": 65,
+    "Mystery": 59,
+    "Survival": 58,
+    "Multiple Endings": 57,
+    "Singleplayer": 54,
+    "Sexual Content": 54,
+    "Story Rich": 51,
+    "Side Scroller": 49,
+    "Female Protagonist": 45,
+    "Nudity": 37,
+    "Great Soundtrack": 35
+  }
+}

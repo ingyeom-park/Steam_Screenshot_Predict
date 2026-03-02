@@ -1,0 +1,24 @@
+{
+  "appid": 2146770,
+  "success": true,
+  "tags": {
+    "Action": 105,
+    "War": 99,
+    "Side Scroller": 95,
+    "Wargame": 89,
+    "Indie": 85,
+    "Platformer": 75,
+    "Shooter": 70,
+    "2D": 63,
+    "Linear": 55,
+    "Pixel Graphics": 55,
+    "Military": 46,
+    "Score Attack": 39,
+    "Modern": 38,
+    "Arcade": 35,
+    "Arena Shooter": 32,
+    "Shoot 'Em Up": 31,
+    "Singleplayer": 30,
+    "Bullet Hell": 26
+  }
+}

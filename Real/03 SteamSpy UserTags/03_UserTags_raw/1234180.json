@@ -1,0 +1,23 @@
+{
+  "appid": 1234180,
+  "success": true,
+  "tags": {
+    "Action": 107,
+    "Adventure": 101,
+    "Retro": 97,
+    "2D": 93,
+    "Side Scroller": 90,
+    "Pixel Graphics": 81,
+    "Singleplayer": 76,
+    "Arcade": 74,
+    "Physics": 72,
+    "Controller": 67,
+    "Indie": 25,
+    "Strategy": 20,
+    "Puzzle": 16,
+    "Shooter": 11,
+    "Platformer": 10,
+    "2D Platformer": 7,
+    "Lemmings": 5
+  }
+}

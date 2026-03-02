@@ -1,0 +1,26 @@
+{
+  "appid": 630030,
+  "success": true,
+  "tags": {
+    "Action": 136,
+    "Mechs": 134,
+    "Shooter": 124,
+    "Third-Person Shooter": 120,
+    "Sci-fi": 117,
+    "Space": 107,
+    "Robots": 103,
+    "Fast-Paced": 95,
+    "Anime": 95,
+    "Multiplayer": 84,
+    "Action-Adventure": 77,
+    "Early Access": 75,
+    "Arcade": 75,
+    "Colorful": 70,
+    "Stylized": 67,
+    "Third Person": 67,
+    "6DOF": 63,
+    "Indie": 55,
+    "Flight": 45,
+    "Singleplayer": 43
+  }
+}

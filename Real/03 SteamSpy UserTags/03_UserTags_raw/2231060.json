@@ -1,0 +1,25 @@
+{
+  "appid": 2231060,
+  "success": true,
+  "tags": {
+    "Exploration": 175,
+    "Immersive Sim": 165,
+    "Dungeon Crawler": 165,
+    "Card Game": 161,
+    "Point & Click": 153,
+    "Walking Simulator": 144,
+    "Rogue-like": 138,
+    "2D": 130,
+    "Relaxing": 123,
+    "Casual": 123,
+    "Simulation": 118,
+    "Procedural Generation": 112,
+    "Hand-drawn": 89,
+    "Family Friendly": 73,
+    "Stylized": 57,
+    "Atmospheric": 42,
+    "Singleplayer": 27,
+    "Cinematic": 25,
+    "Indie": 22
+  }
+}

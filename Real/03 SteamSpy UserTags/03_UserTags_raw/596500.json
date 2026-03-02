@@ -1,0 +1,20 @@
+{
+  "appid": 596500,
+  "success": true,
+  "tags": {
+    "Action": 100,
+    "Puzzle": 97,
+    "Casual": 96,
+    "Cute": 85,
+    "Family Friendly": 70,
+    "Singleplayer": 60,
+    "Local Multiplayer": 56,
+    "Local Co-Op": 54,
+    "Co-op": 53,
+    "Puzzle-Platformer": 30,
+    "Education": 28,
+    "Multiplayer": 27,
+    "LEGO": 23,
+    "Indie": 21
+  }
+}

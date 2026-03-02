@@ -1,0 +1,26 @@
+{
+  "appid": 1434950,
+  "success": true,
+  "tags": {
+    "Singleplayer": 633,
+    "Indie": 559,
+    "Strategy": 555,
+    "Post-apocalyptic": 537,
+    "Action Roguelike": 521,
+    "Tactical": 520,
+    "Inventory Management": 519,
+    "Choices Matter": 511,
+    "Strategy RPG": 495,
+    "Military": 480,
+    "Action": 476,
+    "Diplomacy": 473,
+    "Exploration": 471,
+    "Nonlinear": 468,
+    "Simulation": 468,
+    "Building": 459,
+    "Physics": 439,
+    "Stylized": 436,
+    "Sci-fi": 426,
+    "Adventure": 420
+  }
+}

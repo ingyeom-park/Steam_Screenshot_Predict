@@ -1,0 +1,25 @@
+{
+  "appid": 1291370,
+  "success": true,
+  "tags": {
+    "Action": 87,
+    "Casual": 80,
+    "Ninja": 77,
+    "2D": 74,
+    "Time Attack": 71,
+    "Racing": 64,
+    "Historical": 60,
+    "Indie": 57,
+    "Puzzle": 51,
+    "Arcade": 49,
+    "Top-Down Shooter": 47,
+    "Top-Down": 45,
+    "Horror": 43,
+    "Comedy": 37,
+    "Controller": 35,
+    "Score Attack": 33,
+    "Singleplayer": 31,
+    "Asynchronous Multiplayer": 28,
+    "Sexual Content": 27
+  }
+}

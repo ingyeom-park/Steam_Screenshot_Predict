@@ -1,0 +1,26 @@
+{
+  "appid": 1833490,
+  "success": true,
+  "tags": {
+    "Indie": 141,
+    "Adventure": 138,
+    "Story Rich": 130,
+    "Atmospheric": 117,
+    "Pixel Graphics": 117,
+    "Singleplayer": 111,
+    "Interactive Fiction": 99,
+    "Linear": 96,
+    "Text-Based": 90,
+    "Visual Novel": 89,
+    "Cinematic": 79,
+    "Puzzle": 77,
+    "Platformer": 75,
+    "2D Platformer": 71,
+    "Side Scroller": 66,
+    "Drama": 65,
+    "Emotional": 60,
+    "Relaxing": 59,
+    "Walking Simulator": 55,
+    "Psychological Horror": 49
+  }
+}

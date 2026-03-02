@@ -1,0 +1,26 @@
+{
+  "appid": 3080960,
+  "success": true,
+  "tags": {
+    "Adventure": 207,
+    "Strategy": 203,
+    "Psychological Horror": 194,
+    "Female Protagonist": 177,
+    "Casual": 176,
+    "Combat": 172,
+    "Singleplayer": 164,
+    "Flight": 147,
+    "Action": 140,
+    "Dark Humor": 139,
+    "Platformer": 131,
+    "Philosophical": 117,
+    "Comedy": 105,
+    "Difficult": 92,
+    "Horror": 75,
+    "Funny": 62,
+    "Indie": 47,
+    "Physics": 43,
+    "Third Person": 26,
+    "Simulation": 21
+  }
+}

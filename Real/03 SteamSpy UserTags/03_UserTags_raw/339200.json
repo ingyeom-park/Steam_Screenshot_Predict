@@ -1,0 +1,26 @@
+{
+  "appid": 339200,
+  "success": true,
+  "tags": {
+    "Adventure": 152,
+    "RPG": 136,
+    "Action": 127,
+    "Indie": 114,
+    "Puzzle": 103,
+    "Singleplayer": 97,
+    "Action-Adventure": 92,
+    "Fantasy": 91,
+    "Open World": 89,
+    "Isometric": 88,
+    "Action RPG": 82,
+    "Cartoony": 78,
+    "Exploration": 73,
+    "JRPG": 71,
+    "Controller": 70,
+    "3D": 63,
+    "Metroidvania": 63,
+    "Colorful": 52,
+    "Lore-Rich": 50,
+    "Story Rich": 47
+  }
+}

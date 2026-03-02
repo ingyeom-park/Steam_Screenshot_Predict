@@ -1,0 +1,26 @@
+{
+  "appid": 416600,
+  "success": true,
+  "tags": {
+    "Action": 99,
+    "Co-op": 98,
+    "Indie": 83,
+    "RPG": 77,
+    "Beat 'em up": 72,
+    "Adventure": 71,
+    "Local Co-Op": 68,
+    "Female Protagonist": 67,
+    "4 Player Local": 57,
+    "Online Co-Op": 50,
+    "Pixel Graphics": 46,
+    "Puzzle": 34,
+    "Action RPG": 32,
+    "2D": 23,
+    "Local Multiplayer": 18,
+    "Difficult": 15,
+    "Side Scroller": 13,
+    "Multiplayer": 11,
+    "Funny": 10,
+    "Bullet Hell": 10
+  }
+}

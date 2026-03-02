@@ -1,0 +1,21 @@
+{
+  "appid": 2824580,
+  "success": true,
+  "tags": {
+    "Experimental": 51,
+    "Pixel Graphics": 45,
+    "Platformer": 42,
+    "Action": 39,
+    "Adventure": 36,
+    "Arcade": 31,
+    "Shooter": 28,
+    "2D Platformer": 26,
+    "Exploration": 24,
+    "Indie": 23,
+    "Atmospheric": 22,
+    "Retro": 21,
+    "Linear": 18,
+    "Singleplayer": 16,
+    "Local Co-Op": 14
+  }
+}

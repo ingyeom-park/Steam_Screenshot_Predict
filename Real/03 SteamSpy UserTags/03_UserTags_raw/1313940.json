@@ -1,0 +1,26 @@
+{
+  "appid": 1313940,
+  "success": true,
+  "tags": {
+    "RPG": 150,
+    "Turn-Based": 145,
+    "Funny": 141,
+    "JRPG": 137,
+    "Anime": 134,
+    "Cartoon": 127,
+    "Cute": 125,
+    "Hand-drawn": 122,
+    "Linear": 115,
+    "Turn-Based Combat": 110,
+    "Character Customization": 107,
+    "Singleplayer": 105,
+    "Casual": 103,
+    "2D": 97,
+    "Retro": 95,
+    "Comedy": 86,
+    "Cats": 81,
+    "RPGMaker": 80,
+    "Indie": 75,
+    "CRPG": 65
+  }
+}

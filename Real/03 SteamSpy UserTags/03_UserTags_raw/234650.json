@@ -1,0 +1,26 @@
+{
+  "appid": 234650,
+  "success": true,
+  "tags": {
+    "RPG": 1081,
+    "Cyberpunk": 869,
+    "Turn-Based": 676,
+    "Isometric": 464,
+    "Sci-fi": 404,
+    "Indie": 369,
+    "Strategy": 339,
+    "Singleplayer": 319,
+    "Tactical": 303,
+    "Adventure": 256,
+    "Moddable": 227,
+    "Kickstarter": 226,
+    "CRPG": 173,
+    "Story Rich": 139,
+    "Fantasy": 121,
+    "Atmospheric": 117,
+    "Dystopian ": 112,
+    "Crowdfunded": 112,
+    "Turn-Based Strategy": 111,
+    "Female Protagonist": 84
+  }
+}

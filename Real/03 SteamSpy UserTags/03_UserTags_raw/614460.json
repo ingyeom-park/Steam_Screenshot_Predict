@@ -1,0 +1,26 @@
+{
+  "appid": 614460,
+  "success": true,
+  "tags": {
+    "Action": 180,
+    "Adventure": 174,
+    "Pixel Graphics": 170,
+    "2D": 165,
+    "Retro": 162,
+    "Indie": 153,
+    "Difficult": 149,
+    "Casual": 146,
+    "Puzzle": 141,
+    "Arcade": 137,
+    "Experimental": 130,
+    "Character Action Game": 125,
+    "War": 124,
+    "Military": 122,
+    "Bullet Time": 120,
+    "Perma Death": 118,
+    "Singleplayer": 116,
+    "RPG": 114,
+    "Exploration": 112,
+    "Action-Adventure": 110
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 555150,
+  "success": true,
+  "tags": {
+    "Atmospheric": 125,
+    "Adventure": 112,
+    "Walking Simulator": 97,
+    "Indie": 94,
+    "Exploration": 93,
+    "Singleplayer": 81,
+    "Relaxing": 80,
+    "Story Rich": 76,
+    "Open World": 65,
+    "Colorful": 60,
+    "Great Soundtrack": 59,
+    "Narration": 54,
+    "Short": 52,
+    "Nature": 51,
+    "Casual": 49,
+    "Third Person": 48,
+    "Fox": 42,
+    "Drama": 40,
+    "Mystery": 39,
+    "Fantasy": 37
+  }
+}

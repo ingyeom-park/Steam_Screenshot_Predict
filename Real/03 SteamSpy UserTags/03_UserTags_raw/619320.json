@@ -1,0 +1,26 @@
+{
+  "appid": 619320,
+  "success": true,
+  "tags": {
+    "Action": 113,
+    "Casual": 107,
+    "Retro": 106,
+    "Indie": 100,
+    "Platformer": 99,
+    "Pixel Graphics": 92,
+    "2D": 85,
+    "Arcade": 76,
+    "1990's": 68,
+    "Funny": 66,
+    "Singleplayer": 65,
+    "Classic": 62,
+    "Difficult": 59,
+    "Side Scroller": 55,
+    "Action-Adventure": 55,
+    "Character Action Game": 52,
+    "Runner": 48,
+    "2D Platformer": 46,
+    "Cartoony": 44,
+    "Colorful": 41
+  }
+}

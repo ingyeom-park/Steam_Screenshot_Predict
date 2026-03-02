@@ -1,0 +1,12 @@
+{
+  "appid": 466430,
+  "success": true,
+  "tags": {
+    "Adventure": 23,
+    "Indie": 21,
+    "RPG": 20,
+    "Choose Your Own Adventure": 15,
+    "Text-Based": 11,
+    "Interactive Fiction": 9
+  }
+}

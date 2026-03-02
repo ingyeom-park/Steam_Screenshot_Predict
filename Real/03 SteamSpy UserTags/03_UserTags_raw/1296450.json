@@ -1,0 +1,26 @@
+{
+  "appid": 1296450,
+  "success": true,
+  "tags": {
+    "3D": 694,
+    "Action RPG": 689,
+    "RPG": 675,
+    "Twin Stick Shooter": 516,
+    "Action Roguelike": 514,
+    "Rogue-lite": 506,
+    "Difficult": 505,
+    "Shooter": 498,
+    "Rogue-like": 491,
+    "Isometric": 490,
+    "Action": 488,
+    "Western": 481,
+    "Top-Down": 476,
+    "Loot": 474,
+    "Singleplayer": 464,
+    "Bullet Hell": 461,
+    "Pixel Graphics": 458,
+    "Dungeon Crawler": 447,
+    "Indie": 435,
+    "Atmospheric": 419
+  }
+}

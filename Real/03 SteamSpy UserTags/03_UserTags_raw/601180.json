@@ -1,0 +1,23 @@
+{
+  "appid": 601180,
+  "success": true,
+  "tags": {
+    "Indie": 80,
+    "Action": 71,
+    "Adventure": 67,
+    "Platformer": 56,
+    "Casual": 52,
+    "2D": 46,
+    "Side Scroller": 44,
+    "Cute": 41,
+    "Dinosaurs": 38,
+    "Arcade": 37,
+    "2D Platformer": 34,
+    "Pixel Graphics": 32,
+    "Family Friendly": 30,
+    "Linear": 28,
+    "Score Attack": 26,
+    "Female Protagonist": 25,
+    "Singleplayer": 23
+  }
+}

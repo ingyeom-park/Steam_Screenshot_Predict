@@ -1,0 +1,25 @@
+{
+  "appid": 328760,
+  "success": true,
+  "tags": {
+    "RPG": 98,
+    "Indie": 78,
+    "Text-Based": 71,
+    "Action Roguelike": 67,
+    "Retro": 67,
+    "Adventure": 59,
+    "Rogue-like": 51,
+    "Great Soundtrack": 49,
+    "Dungeon Crawler": 38,
+    "Rogue-lite": 38,
+    "Strategy": 35,
+    "Loot": 32,
+    "Action": 30,
+    "Strategy RPG": 27,
+    "Casual": 27,
+    "Singleplayer": 12,
+    "Turn-Based": 11,
+    "Funny": 7,
+    "Pixel Graphics": 5
+  }
+}

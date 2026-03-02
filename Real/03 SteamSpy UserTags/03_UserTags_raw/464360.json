@@ -1,0 +1,26 @@
+{
+  "appid": 464360,
+  "success": true,
+  "tags": {
+    "Adventure": 107,
+    "Indie": 98,
+    "Space": 90,
+    "Action": 82,
+    "Simulation": 81,
+    "Open World": 64,
+    "Sci-fi": 63,
+    "2D": 61,
+    "Exploration": 51,
+    "Sandbox": 47,
+    "Singleplayer": 46,
+    "Space Sim": 45,
+    "Story Rich": 43,
+    "Atmospheric": 40,
+    "Great Soundtrack": 37,
+    "Comedy": 31,
+    "Funny": 24,
+    "Pixel Graphics": 23,
+    "RPG": 14,
+    "Cyberpunk": 8
+  }
+}

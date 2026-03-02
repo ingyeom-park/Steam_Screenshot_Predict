@@ -1,0 +1,26 @@
+{
+  "appid": 1831870,
+  "success": true,
+  "tags": {
+    "Horror": 123,
+    "Psychological Horror": 117,
+    "Atmospheric": 113,
+    "Walking Simulator": 110,
+    "First-Person": 108,
+    "Indie": 100,
+    "Singleplayer": 94,
+    "Story Rich": 91,
+    "Dark": 90,
+    "Puzzle": 87,
+    "Exploration": 85,
+    "Psychedelic": 83,
+    "Mystery": 81,
+    "Drama": 79,
+    "Supernatural": 77,
+    "Surreal": 75,
+    "Linear": 73,
+    "Adventure": 71,
+    "Psychological": 52,
+    "3D": 31
+  }
+}

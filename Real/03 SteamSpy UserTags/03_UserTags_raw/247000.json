@@ -1,0 +1,26 @@
+{
+  "appid": 247000,
+  "success": true,
+  "tags": {
+    "Board Game": 345,
+    "Tabletop": 299,
+    "Strategy": 246,
+    "Multiplayer": 241,
+    "RPG": 233,
+    "Indie": 185,
+    "Turn-Based": 175,
+    "Fantasy": 142,
+    "Card Game": 140,
+    "Local Multiplayer": 117,
+    "Singleplayer": 109,
+    "Games Workshop": 108,
+    "Adventure": 86,
+    "Local Co-Op": 83,
+    "Turn-Based Strategy": 77,
+    "Casual": 74,
+    "Touch-Friendly": 72,
+    "PvP": 72,
+    "2.5D": 65,
+    "Grid-Based Movement": 60
+  }
+}

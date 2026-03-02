@@ -1,0 +1,24 @@
+{
+  "appid": 504920,
+  "success": true,
+  "tags": {
+    "Co-op": 132,
+    "Adventure": 123,
+    "Puzzle": 121,
+    "Multiplayer": 121,
+    "Local Co-Op": 115,
+    "Local Multiplayer": 101,
+    "Co-op Campaign": 96,
+    "Singleplayer": 91,
+    "Atmospheric": 89,
+    "Family Friendly": 86,
+    "Physics": 85,
+    "Controller": 82,
+    "Steampunk": 77,
+    "Hand-drawn": 75,
+    "2D": 70,
+    "Space": 65,
+    "Indie": 28,
+    "Great Soundtrack": 5
+  }
+}

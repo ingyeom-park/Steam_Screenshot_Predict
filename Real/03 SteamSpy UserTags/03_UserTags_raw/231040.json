@@ -1,0 +1,20 @@
+{
+  "appid": 231040,
+  "success": true,
+  "tags": {
+    "Indie": 98,
+    "Music": 96,
+    "Rhythm": 74,
+    "Adventure": 70,
+    "Casual": 57,
+    "Action": 51,
+    "Great Soundtrack": 44,
+    "Puzzle": 36,
+    "2D": 31,
+    "Platformer": 25,
+    "Singleplayer": 23,
+    "Touch-Friendly": 17,
+    "Side Scroller": 6,
+    "Underwater": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 239070,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 233,
+    "Indie": 220,
+    "RPG": 205,
+    "Co-op": 185,
+    "Pixel Graphics": 179,
+    "Action": 163,
+    "Local Co-Op": 159,
+    "Online Co-Op": 149,
+    "Adventure": 130,
+    "Hack and Slash": 114,
+    "Retro": 96,
+    "Fantasy": 95,
+    "Multiplayer": 90,
+    "2D": 79,
+    "Top-Down": 68,
+    "4 Player Local": 67,
+    "Local Multiplayer": 58,
+    "Singleplayer": 57,
+    "Rogue-like": 48,
+    "Level Editor": 44
+  }
+}

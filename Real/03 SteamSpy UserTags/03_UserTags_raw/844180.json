@@ -1,0 +1,26 @@
+{
+  "appid": 844180,
+  "success": true,
+  "tags": {
+    "Arcade": 149,
+    "Retro": 143,
+    "Action": 139,
+    "Difficult": 136,
+    "Old School": 133,
+    "Fast-Paced": 127,
+    "Score Attack": 125,
+    "Linear": 123,
+    "Family Friendly": 120,
+    "Indie": 112,
+    "Destruction": 107,
+    "Singleplayer": 105,
+    "Sci-fi": 103,
+    "Colorful": 101,
+    "Short": 99,
+    "Minimalist": 96,
+    "2D": 92,
+    "Funny": 84,
+    "Relaxing": 74,
+    "Precision Platformer": 62
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appid": 1345860,
+  "success": true,
+  "tags": {
+    "2D Platformer": 80,
+    "Platformer": 66,
+    "Action": 65,
+    "2D": 62,
+    "Cute": 61,
+    "Funny": 53,
+    "Pixel Graphics": 50,
+    "Adventure": 49,
+    "Dog": 49,
+    "Cartoony": 47,
+    "Relaxing": 43,
+    "Colorful": 42,
+    "Indie": 39,
+    "Family Friendly": 36,
+    "Stylized": 34,
+    "Retro": 28,
+    "Singleplayer": 27,
+    "Side Scroller": 17,
+    "Difficult": 9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1237070,
+  "success": true,
+  "tags": {
+    "Cycling": 118,
+    "Management": 111,
+    "Simulation": 108,
+    "Turn-Based Tactics": 105,
+    "Board Game": 102,
+    "Sports": 96,
+    "Tactical": 92,
+    "Strategy": 87,
+    "Turn-Based Strategy": 81,
+    "Turn-Based": 79,
+    "2D": 67,
+    "Top-Down": 61,
+    "Hand-drawn": 58,
+    "Local Co-Op": 53,
+    "Local Multiplayer": 42,
+    "Singleplayer": 34,
+    "Indie": 31,
+    "Story Rich": 29,
+    "Psychological Horror": 25,
+    "Casual": 25
+  }
+}

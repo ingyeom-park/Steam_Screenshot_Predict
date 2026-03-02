@@ -1,0 +1,26 @@
+{
+  "appid": 98200,
+  "success": true,
+  "tags": {
+    "Strategy": 271,
+    "Turn-Based": 247,
+    "Tactical": 233,
+    "Indie": 189,
+    "Asynchronous Multiplayer": 167,
+    "Great Soundtrack": 165,
+    "Cyberpunk": 131,
+    "Multiplayer": 106,
+    "Turn-Based Strategy": 101,
+    "Sci-fi": 79,
+    "Top-Down": 75,
+    "Competitive": 62,
+    "Singleplayer": 58,
+    "Addictive": 26,
+    "Difficult": 25,
+    "Chess": 19,
+    "Replay Value": 11,
+    "Local Multiplayer": 10,
+    "Turn-Based Tactics": 10,
+    "Co-op": 9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 555160,
+  "success": true,
+  "tags": {
+    "VR": 425,
+    "Shooter": 248,
+    "Action": 225,
+    "Multiplayer": 221,
+    "FPS": 214,
+    "Military": 195,
+    "Zombies": 178,
+    "First-Person": 165,
+    "Gore": 163,
+    "Singleplayer": 157,
+    "Funny": 156,
+    "Co-op": 150,
+    "Violent": 148,
+    "Competitive": 144,
+    "PvP": 142,
+    "Team-Based": 140,
+    "Memes": 140,
+    "Indie": 136,
+    "Simulation": 122,
+    "Online Co-Op": 98
+  }
+}

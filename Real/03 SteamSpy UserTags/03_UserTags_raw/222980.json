@@ -1,0 +1,26 @@
+{
+  "appid": 222980,
+  "success": true,
+  "tags": {
+    "Zombies": 129,
+    "Action": 100,
+    "Pixel Graphics": 91,
+    "Indie": 90,
+    "Local Co-Op": 71,
+    "2D": 54,
+    "Retro": 51,
+    "Survival": 45,
+    "Co-op": 36,
+    "RPG": 35,
+    "Side Scroller": 29,
+    "Singleplayer": 22,
+    "Local Multiplayer": 19,
+    "Multiplayer": 14,
+    "Controller": 12,
+    "Casual": 12,
+    "Gore": 11,
+    "Shooter": 11,
+    "Rogue-like": 10,
+    "Procedural Generation": 10
+  }
+}

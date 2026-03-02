@@ -1,0 +1,26 @@
+{
+  "appid": 587430,
+  "success": true,
+  "tags": {
+    "VR": 166,
+    "Puzzle": 154,
+    "Strategy": 143,
+    "Action": 137,
+    "Immersive": 137,
+    "Simulation": 127,
+    "Funny": 125,
+    "Comedy": 124,
+    "Retro": 118,
+    "Singleplayer": 118,
+    "Adventure": 117,
+    "Cold War": 112,
+    "First-Person": 108,
+    "Stylized": 104,
+    "Soundtrack": 100,
+    "Indie": 93,
+    "Short": 89,
+    "Difficult": 84,
+    "Hidden Object": 79,
+    "Immersive Sim": 77
+  }
+}

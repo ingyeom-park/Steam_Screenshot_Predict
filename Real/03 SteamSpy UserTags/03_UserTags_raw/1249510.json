@@ -1,0 +1,26 @@
+{
+  "appid": 1249510,
+  "success": true,
+  "tags": {
+    "Vikings": 153,
+    "Historical": 147,
+    "Chess": 143,
+    "Board Game": 141,
+    "Asynchronous Multiplayer": 137,
+    "Artificial Intelligence": 131,
+    "Local Multiplayer": 129,
+    "Turn-Based": 128,
+    "Strategy": 124,
+    "2D": 119,
+    "PvP": 117,
+    "PvE": 114,
+    "Moddable": 111,
+    "Multiplayer": 103,
+    "Singleplayer": 89,
+    "Top-Down": 78,
+    "Tabletop": 76,
+    "Abstract": 71,
+    "Indie": 55,
+    "Family Friendly": 43
+  }
+}

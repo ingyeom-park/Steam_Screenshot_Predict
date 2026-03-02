@@ -1,0 +1,26 @@
+{
+  "appid": 3103970,
+  "success": true,
+  "tags": {
+    "Strategy": 214,
+    "Casual": 204,
+    "Tower Defense": 189,
+    "Card Battler": 179,
+    "Card Game": 173,
+    "Time Management": 163,
+    "Deckbuilding": 156,
+    "Board Game": 148,
+    "Futuristic": 140,
+    "City Builder": 131,
+    "Base-Building": 120,
+    "Singleplayer": 118,
+    "Building": 105,
+    "Exploration": 91,
+    "Relaxing": 76,
+    "Simulation": 60,
+    "Survival": 43,
+    "Sci-fi": 27,
+    "Resource Management": 26,
+    "Indie": 21
+  }
+}

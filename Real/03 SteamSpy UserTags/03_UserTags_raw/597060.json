@@ -1,0 +1,26 @@
+{
+  "appid": 597060,
+  "success": true,
+  "tags": {
+    "RPG": 138,
+    "Indie": 134,
+    "Adventure": 131,
+    "Action RPG": 119,
+    "Character Action Game": 113,
+    "Exploration": 112,
+    "Interactive Fiction": 108,
+    "Choose Your Own Adventure": 106,
+    "JRPG": 104,
+    "2D": 98,
+    "Anime": 91,
+    "Hand-drawn": 80,
+    "Pixel Graphics": 76,
+    "Stylized": 74,
+    "Top-Down": 72,
+    "Atmospheric": 68,
+    "Dark Fantasy": 67,
+    "Drama": 64,
+    "Dark": 63,
+    "Dynamic Narration": 60
+  }
+}

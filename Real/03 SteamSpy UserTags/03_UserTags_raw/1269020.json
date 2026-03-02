@@ -1,0 +1,26 @@
+{
+  "appid": 1269020,
+  "success": true,
+  "tags": {
+    "Strategy": 78,
+    "Indie": 54,
+    "Top-Down": 52,
+    "Simulation": 44,
+    "Action": 41,
+    "Tactical": 31,
+    "Military": 31,
+    "Singleplayer": 24,
+    "Real Time Tactics": 16,
+    "Turn-Based Strategy": 16,
+    "Turn-Based Tactics": 15,
+    "Top-Down Shooter": 14,
+    "Gun Customization": 14,
+    "Turn-Based Combat": 13,
+    "Character Customization": 12,
+    "Time Manipulation": 12,
+    "Level Editor": 12,
+    "Moddable": 11,
+    "Procedural Generation": 11,
+    "Difficult": 10
+  }
+}

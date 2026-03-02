@@ -1,0 +1,26 @@
+{
+  "appid": 525510,
+  "success": true,
+  "tags": {
+    "Action": 127,
+    "Side Scroller": 109,
+    "Co-op": 86,
+    "Multiplayer": 78,
+    "2D": 77,
+    "Gore": 76,
+    "Shooter": 71,
+    "Adventure": 66,
+    "Shoot 'Em Up": 62,
+    "Zombies": 62,
+    "Local Co-Op": 56,
+    "4 Player Local": 52,
+    "Online Co-Op": 48,
+    "Platformer": 46,
+    "Violent": 42,
+    "World War II": 41,
+    "Arcade": 35,
+    "Comedy": 35,
+    "Indie": 34,
+    "Funny": 34
+  }
+}

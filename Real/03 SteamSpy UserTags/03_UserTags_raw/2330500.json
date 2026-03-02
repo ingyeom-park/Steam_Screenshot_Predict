@@ -1,0 +1,25 @@
+{
+  "appid": 2330500,
+  "success": true,
+  "tags": {
+    "3D Platformer": 74,
+    "Precision Platformer": 73,
+    "Parkour": 71,
+    "Atmospheric": 57,
+    "Casual": 51,
+    "Exploration": 47,
+    "Platformer": 42,
+    "Post-apocalyptic": 41,
+    "Psychological Horror": 39,
+    "3D": 35,
+    "Indie": 31,
+    "Difficult": 29,
+    "Realistic": 28,
+    "Nature": 26,
+    "Singleplayer": 23,
+    "Horror": 22,
+    "Linear": 19,
+    "Physics": 17,
+    "First-Person": 6
+  }
+}

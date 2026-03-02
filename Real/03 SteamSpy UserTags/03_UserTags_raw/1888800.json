@@ -1,0 +1,26 @@
+{
+  "appid": 1888800,
+  "success": true,
+  "tags": {
+    "Exploration": 64,
+    "Casual": 57,
+    "Hidden Object": 57,
+    "Clicker": 56,
+    "Creature Collector": 51,
+    "Puzzle": 50,
+    "Indie": 43,
+    "Education": 42,
+    "Tutorial": 41,
+    "2D": 38,
+    "Point & Click": 37,
+    "Hand-drawn": 34,
+    "Stylized": 32,
+    "Family Friendly": 30,
+    "Atmospheric": 28,
+    "Nature": 25,
+    "Singleplayer": 24,
+    "Minimalist": 22,
+    "Logic": 21,
+    "Trading Card Game": 20
+  }
+}

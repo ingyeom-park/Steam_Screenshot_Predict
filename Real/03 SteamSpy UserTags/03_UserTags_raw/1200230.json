@@ -1,0 +1,26 @@
+{
+  "appid": 1200230,
+  "success": true,
+  "tags": {
+    "Simulation": 42,
+    "Action": 37,
+    "RPG": 35,
+    "Indie": 34,
+    "Strategy": 34,
+    "Adventure": 33,
+    "Violent": 33,
+    "Gore": 31,
+    "Rome": 26,
+    "Management": 20,
+    "Open World": 19,
+    "Singleplayer": 17,
+    "Historical": 17,
+    "First-Person": 14,
+    "Funny": 13,
+    "Economy": 13,
+    "Difficult": 12,
+    "Replay Value": 12,
+    "Atmospheric": 11,
+    "Exploration": 11
+  }
+}

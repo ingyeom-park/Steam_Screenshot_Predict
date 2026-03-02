@@ -1,0 +1,19 @@
+{
+  "appid": 603400,
+  "success": true,
+  "tags": {
+    "Action": 34,
+    "Adventure": 28,
+    "Indie": 28,
+    "RPG": 24,
+    "Platformer": 18,
+    "Pixel Graphics": 18,
+    "2D": 16,
+    "Singleplayer": 11,
+    "Retro": 10,
+    "Side Scroller": 7,
+    "Metroidvania": 6,
+    "Fox": 6,
+    "Cute": 5
+  }
+}

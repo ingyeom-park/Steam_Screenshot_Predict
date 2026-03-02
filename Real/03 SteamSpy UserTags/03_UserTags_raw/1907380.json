@@ -1,0 +1,26 @@
+{
+  "appid": 1907380,
+  "success": true,
+  "tags": {
+    "Action": 92,
+    "Adventure": 86,
+    "RPG": 83,
+    "Action RPG": 80,
+    "Action-Adventure": 77,
+    "Pixel Graphics": 73,
+    "2D": 69,
+    "Exploration": 67,
+    "Fantasy": 65,
+    "Medieval": 62,
+    "Indie": 59,
+    "Open World": 56,
+    "Combat": 51,
+    "Singleplayer": 46,
+    "MMORPG": 38,
+    "Rogue-like": 37,
+    "Sandbox": 33,
+    "Crafting": 31,
+    "Survival": 30,
+    "Co-op": 27
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1065320,
+  "success": true,
+  "tags": {
+    "Racing": 137,
+    "Multiplayer": 131,
+    "Family Friendly": 128,
+    "Casual": 125,
+    "Retro": 122,
+    "Driving": 117,
+    "Physics": 113,
+    "Sports": 108,
+    "Action": 106,
+    "Skating": 104,
+    "Colorful": 101,
+    "Skateboarding": 99,
+    "Indie": 97,
+    "Local Multiplayer": 94,
+    "3D": 91,
+    "Split Screen": 89,
+    "Arcade": 88,
+    "Singleplayer": 85,
+    "Co-op": 82,
+    "4 Player Local": 80
+  }
+}

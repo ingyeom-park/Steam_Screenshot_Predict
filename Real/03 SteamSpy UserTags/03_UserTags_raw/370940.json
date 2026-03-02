@@ -1,0 +1,26 @@
+{
+  "appid": 370940,
+  "success": true,
+  "tags": {
+    "Action": 170,
+    "Indie": 164,
+    "Local Co-Op": 160,
+    "4 Player Local": 157,
+    "Local Multiplayer": 154,
+    "Demons": 148,
+    "Singleplayer": 146,
+    "Pixel Graphics": 143,
+    "Early Access": 138,
+    "Platformer": 135,
+    "2D": 127,
+    "Arena Shooter": 122,
+    "Shooter": 120,
+    "2D Platformer": 117,
+    "Side Scroller": 116,
+    "Horror": 112,
+    "Retro": 106,
+    "Sci-fi": 102,
+    "Combat": 97,
+    "Controller": 96
+  }
+}

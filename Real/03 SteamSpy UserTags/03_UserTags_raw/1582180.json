@@ -1,0 +1,26 @@
+{
+  "appid": 1582180,
+  "success": true,
+  "tags": {
+    "Adventure": 103,
+    "Simulation": 97,
+    "Action-Adventure": 93,
+    "Singleplayer": 92,
+    "Atmospheric": 85,
+    "Horror": 82,
+    "Dark": 80,
+    "First-Person": 77,
+    "Difficult": 76,
+    "Funny": 74,
+    "Gore": 70,
+    "Indie": 67,
+    "Lore-Rich": 64,
+    "Mystery": 62,
+    "Memes": 61,
+    "Psychological Horror": 59,
+    "Story Rich": 58,
+    "Strategy": 55,
+    "Survival": 53,
+    "Survival Horror": 51
+  }
+}

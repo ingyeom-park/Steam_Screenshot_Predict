@@ -1,0 +1,26 @@
+{
+  "appid": 2050590,
+  "success": true,
+  "tags": {
+    "Deckbuilding": 123,
+    "Roguelike Deckbuilder": 120,
+    "Lovecraftian": 118,
+    "Rogue-lite": 113,
+    "Auto Battler": 108,
+    "Automation": 98,
+    "Card Game": 96,
+    "Turn-Based": 96,
+    "Villain Protagonist": 95,
+    "Rogue-like": 91,
+    "Strategy": 87,
+    "2D": 86,
+    "Procedural Generation": 83,
+    "Casual": 81,
+    "Pixel Graphics": 81,
+    "Gambling": 78,
+    "Singleplayer": 76,
+    "Retro": 73,
+    "Indie": 73,
+    "Replay Value": 55
+  }
+}

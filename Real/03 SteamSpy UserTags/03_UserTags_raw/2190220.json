@@ -1,0 +1,25 @@
+{
+  "appid": 2190220,
+  "success": true,
+  "tags": {
+    "Music": 85,
+    "Action": 66,
+    "Rhythm": 64,
+    "Adventure": 62,
+    "Faith": 50,
+    "Visual Novel": 49,
+    "Anime": 42,
+    "2D": 35,
+    "Cute": 35,
+    "Female Protagonist": 35,
+    "Fantasy": 32,
+    "Singleplayer": 28,
+    "Indie": 25,
+    "Casual": 22,
+    "Post-apocalyptic": 21,
+    "Controller": 21,
+    "Bullet Hell": 20,
+    "Great Soundtrack": 6,
+    "Sexual Content": 5
+  }
+}

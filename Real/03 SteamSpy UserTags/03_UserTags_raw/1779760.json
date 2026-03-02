@@ -1,0 +1,25 @@
+{
+  "appid": 1779760,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 110,
+    "Rogue-like": 105,
+    "Rogue-lite": 101,
+    "2D": 98,
+    "Bullet Hell": 94,
+    "Adventure": 88,
+    "RPG": 86,
+    "Action RPG": 81,
+    "Action-Adventure": 76,
+    "Top-Down Shooter": 74,
+    "Top-Down": 72,
+    "Pixel Graphics": 71,
+    "Singleplayer": 67,
+    "Indie": 62,
+    "Action": 57,
+    "Fantasy": 52,
+    "Magic": 50,
+    "Female Protagonist": 48,
+    "Early Access": 26
+  }
+}

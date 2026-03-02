@@ -1,0 +1,25 @@
+{
+  "appid": 2175570,
+  "success": true,
+  "tags": {
+    "Casual": 73,
+    "Simulation": 59,
+    "Clicker": 47,
+    "Mining": 43,
+    "Arcade": 37,
+    "Adventure": 31,
+    "Indie": 31,
+    "Exploration": 31,
+    "Action": 31,
+    "2D": 29,
+    "Pixel Graphics": 27,
+    "Top-Down": 25,
+    "Economy": 23,
+    "Procedural Generation": 21,
+    "Nature": 19,
+    "Combat": 17,
+    "PvE": 15,
+    "Singleplayer": 13,
+    "Idler": 11
+  }
+}

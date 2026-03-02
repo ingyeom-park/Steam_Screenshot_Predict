@@ -1,0 +1,26 @@
+{
+  "appid": 1016730,
+  "success": true,
+  "tags": {
+    "Card Battler": 166,
+    "RPG": 145,
+    "Indie": 142,
+    "Deckbuilding": 139,
+    "Roguelike Deckbuilder": 132,
+    "Strategy": 130,
+    "Adventure": 116,
+    "Rogue-lite": 92,
+    "Card Game": 90,
+    "Singleplayer": 83,
+    "Turn-Based": 82,
+    "Procedural Generation": 81,
+    "Replay Value": 77,
+    "Turn-Based Combat": 75,
+    "Dark Fantasy": 71,
+    "Hand-drawn": 66,
+    "2D": 61,
+    "Early Access": 58,
+    "Dark": 56,
+    "Rogue-like": 47
+  }
+}

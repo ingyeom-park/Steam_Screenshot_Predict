@@ -1,0 +1,26 @@
+{
+  "appid": 1385100,
+  "success": true,
+  "tags": {
+    "Strategy": 444,
+    "Adventure": 443,
+    "Singleplayer": 440,
+    "Rogue-like": 435,
+    "Indie": 430,
+    "Resource Management": 426,
+    "Turn-Based Tactics": 425,
+    "Choices Matter": 422,
+    "Survival": 420,
+    "Perma Death": 415,
+    "Replay Value": 412,
+    "Atmospheric": 410,
+    "Tactical": 409,
+    "Nature": 403,
+    "Management": 392,
+    "Stylized": 381,
+    "Simulation": 379,
+    "Text-Based": 373,
+    "Exploration": 372,
+    "Rogue-lite": 346
+  }
+}

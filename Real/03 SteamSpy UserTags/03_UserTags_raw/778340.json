@@ -1,0 +1,25 @@
+{
+  "appid": 778340,
+  "success": true,
+  "tags": {
+    "Casual": 137,
+    "Indie": 131,
+    "Puzzle": 128,
+    "Dog": 125,
+    "Logic": 122,
+    "Relaxing": 113,
+    "Atmospheric": 108,
+    "Singleplayer": 106,
+    "Card Game": 103,
+    "Tabletop": 99,
+    "Education": 91,
+    "Exploration": 81,
+    "Clicker": 70,
+    "Trading Card Game": 60,
+    "2D": 50,
+    "Hidden Object": 50,
+    "Cute": 36,
+    "Tutorial": 27,
+    "Family Friendly": 25
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "appid": 246110,
+  "success": true,
+  "tags": {
+    "Strategy": 83,
+    "Turn-Based": 56,
+    "Turn-Based Tactics": 53,
+    "Tactical": 44,
+    "Fantasy": 43,
+    "Indie": 41,
+    "Singleplayer": 29,
+    "RPG": 26,
+    "Management": 18,
+    "Kickstarter": 17,
+    "Perma Death": 12,
+    "Tactical RPG": 12,
+    "Turn-Based Strategy": 8,
+    "Rogue-like": 7,
+    "Turn-Based Combat": 5
+  }
+}

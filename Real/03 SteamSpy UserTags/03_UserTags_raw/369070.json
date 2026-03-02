@@ -1,0 +1,26 @@
+{
+  "appid": 369070,
+  "success": true,
+  "tags": {
+    "Action": 92,
+    "Pixel Graphics": 84,
+    "Gore": 82,
+    "Platformer": 76,
+    "Indie": 73,
+    "2D": 70,
+    "Gothic": 59,
+    "Difficult": 59,
+    "Great Soundtrack": 57,
+    "Dark Fantasy": 42,
+    "Singleplayer": 37,
+    "Retro": 28,
+    "Side Scroller": 24,
+    "Hack and Slash": 22,
+    "Horror": 18,
+    "Souls-like": 18,
+    "Violent": 17,
+    "Demons": 10,
+    "Metroidvania": 7,
+    "Epic": 5
+  }
+}

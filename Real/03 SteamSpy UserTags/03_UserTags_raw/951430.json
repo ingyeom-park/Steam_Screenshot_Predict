@@ -1,0 +1,26 @@
+{
+  "appid": 951430,
+  "success": true,
+  "tags": {
+    "Zombies": 144,
+    "Party-Based RPG": 129,
+    "Adventure": 121,
+    "RPG": 118,
+    "Strategy": 110,
+    "Indie": 109,
+    "Casual": 108,
+    "Turn-Based": 97,
+    "Survival": 96,
+    "Post-apocalyptic": 94,
+    "Turn-Based Combat": 87,
+    "Retro": 86,
+    "Rogue-like": 71,
+    "Horror": 64,
+    "Atmospheric": 52,
+    "Choices Matter": 46,
+    "Story Rich": 32,
+    "Singleplayer": 29,
+    "Violent": 25,
+    "Rogue-lite": 21
+  }
+}

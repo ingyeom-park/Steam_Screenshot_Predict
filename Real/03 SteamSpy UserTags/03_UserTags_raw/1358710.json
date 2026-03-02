@@ -1,0 +1,26 @@
+{
+  "appid": 1358710,
+  "success": true,
+  "tags": {
+    "Shooter": 663,
+    "Combat": 639,
+    "3D": 595,
+    "Real Time Tactics": 581,
+    "Third-Person Shooter": 480,
+    "FPS": 479,
+    "Historical": 478,
+    "Multiplayer": 477,
+    "First-Person": 462,
+    "Action": 456,
+    "Simulation": 452,
+    "Military": 450,
+    "America": 439,
+    "Strategy": 433,
+    "Massively Multiplayer": 415,
+    "War": 405,
+    "Moddable": 383,
+    "Indie": 376,
+    "Team-Based": 369,
+    "Tactical": 326
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 359940,
+  "success": true,
+  "tags": {
+    "Mystery": 138,
+    "Horror": 132,
+    "Survival Horror": 128,
+    "Action": 126,
+    "Indie": 124,
+    "Atmospheric": 117,
+    "Open World": 113,
+    "Adventure": 111,
+    "Supernatural": 105,
+    "FPS": 103,
+    "Shooter": 100,
+    "Singleplayer": 98,
+    "Psychological Horror": 86,
+    "First-Person": 73,
+    "Exploration": 64,
+    "Hunting": 61,
+    "Thriller": 56,
+    "Dark": 55,
+    "Gore": 46,
+    "Survival": 44
+  }
+}

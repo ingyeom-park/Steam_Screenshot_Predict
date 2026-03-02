@@ -1,0 +1,26 @@
+{
+  "appid": 893720,
+  "success": true,
+  "tags": {
+    "Adventure": 178,
+    "Indie": 174,
+    "Music": 172,
+    "Casual": 160,
+    "Rhythm": 154,
+    "2D": 145,
+    "Early Access": 143,
+    "Cute": 141,
+    "Family Friendly": 137,
+    "Singleplayer": 133,
+    "Education": 126,
+    "Colorful": 123,
+    "Atmospheric": 110,
+    "Voice Control": 109,
+    "Experience": 102,
+    "Platformer": 97,
+    "Puzzle": 93,
+    "Puzzle-Platformer": 92,
+    "2D Platformer": 89,
+    "Side Scroller": 81
+  }
+}

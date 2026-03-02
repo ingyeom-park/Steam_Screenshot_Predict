@@ -1,0 +1,26 @@
+{
+  "appid": 2424240,
+  "success": true,
+  "tags": {
+    "Action": 252,
+    "Adventure": 246,
+    "Casual": 241,
+    "Shooter": 217,
+    "Puzzle": 211,
+    "Shoot 'Em Up": 200,
+    "Bullet Hell": 193,
+    "Top-Down Shooter": 186,
+    "2D": 176,
+    "Cute": 167,
+    "Anime": 157,
+    "Colorful": 145,
+    "Pixel Graphics": 143,
+    "Top-Down": 129,
+    "Old School": 115,
+    "Fantasy": 99,
+    "Atmospheric": 82,
+    "Multiple Endings": 64,
+    "Story Rich": 45,
+    "Indie": 44
+  }
+}

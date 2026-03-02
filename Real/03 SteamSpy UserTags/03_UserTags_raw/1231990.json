@@ -1,0 +1,26 @@
+{
+  "appid": 1231990,
+  "success": true,
+  "tags": {
+    "RPG": 779,
+    "Action": 579,
+    "Metroidvania": 571,
+    "Story Rich": 567,
+    "Singleplayer": 560,
+    "Female Protagonist": 559,
+    "2D Platformer": 551,
+    "2D": 544,
+    "Platformer": 542,
+    "Pixel Graphics": 539,
+    "JRPG": 535,
+    "Steampunk": 532,
+    "Narrative": 517,
+    "Combat": 514,
+    "Indie": 508,
+    "Adventure": 431,
+    "Exploration": 430,
+    "Anime": 426,
+    "Fantasy": 422,
+    "Atmospheric": 418
+  }
+}

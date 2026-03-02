@@ -1,0 +1,26 @@
+{
+  "appid": 206370,
+  "success": true,
+  "tags": {
+    "Retro": 446,
+    "Indie": 398,
+    "Singleplayer": 391,
+    "Collectathon": 366,
+    "Action": 358,
+    "Platformer": 355,
+    "Adventure": 352,
+    "Side Scroller": 352,
+    "Physics": 341,
+    "Exploration": 339,
+    "Puzzle-Platformer": 338,
+    "2D": 335,
+    "Puzzle": 318,
+    "2D Platformer": 311,
+    "Funny": 303,
+    "Cartoony": 298,
+    "Colorful": 294,
+    "Hand-drawn": 288,
+    "Family Friendly": 283,
+    "Comedy": 279
+  }
+}

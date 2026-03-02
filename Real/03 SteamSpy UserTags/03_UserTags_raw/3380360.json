@@ -1,0 +1,20 @@
+{
+  "appid": 3380360,
+  "success": true,
+  "tags": {
+    "RPG": 55,
+    "Singleplayer": 51,
+    "Turn-Based Tactics": 43,
+    "Shooter": 40,
+    "Horror": 38,
+    "Adventure": 29,
+    "Zombies": 27,
+    "First-Person": 26,
+    "3D Platformer": 23,
+    "Indie": 21,
+    "Fantasy": 21,
+    "Realistic": 18,
+    "Demons": 17,
+    "FPS": 15
+  }
+}

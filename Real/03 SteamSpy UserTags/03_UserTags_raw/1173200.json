@@ -1,0 +1,26 @@
+{
+  "appid": 1173200,
+  "success": true,
+  "tags": {
+    "Action": 190,
+    "Indie": 170,
+    "RPG": 162,
+    "Adventure": 158,
+    "Female Protagonist": 123,
+    "Pixel Graphics": 112,
+    "Rogue-lite": 82,
+    "Anime": 62,
+    "Action Roguelike": 50,
+    "Side Scroller": 49,
+    "2D": 45,
+    "Roguevania": 45,
+    "Metroidvania": 36,
+    "Mechs": 34,
+    "Singleplayer": 33,
+    "Cute": 28,
+    "Sexual Content": 27,
+    "Story Rich": 24,
+    "Exploration": 23,
+    "Rogue-like": 20
+  }
+}

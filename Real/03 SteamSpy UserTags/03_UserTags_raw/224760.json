@@ -1,0 +1,26 @@
+{
+  "appid": 224760,
+  "success": true,
+  "tags": {
+    "Platformer": 1214,
+    "Indie": 1158,
+    "Puzzle": 1158,
+    "Pixel Graphics": 769,
+    "Exploration": 742,
+    "Great Soundtrack": 609,
+    "Singleplayer": 490,
+    "Adventure": 412,
+    "Casual": 322,
+    "Mystery": 283,
+    "Puzzle-Platformer": 277,
+    "2D": 244,
+    "Beautiful": 204,
+    "Relaxing": 188,
+    "Atmospheric": 151,
+    "2.5D": 109,
+    "Cute": 107,
+    "Retro": 97,
+    "Controller": 75,
+    "Metroidvania": 53
+  }
+}

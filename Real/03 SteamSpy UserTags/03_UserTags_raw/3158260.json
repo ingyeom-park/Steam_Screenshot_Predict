@@ -1,0 +1,24 @@
+{
+  "appid": 3158260,
+  "success": true,
+  "tags": {
+    "Rogue-lite": 183,
+    "Singleplayer": 174,
+    "Action": 167,
+    "Cute": 166,
+    "Anime": 165,
+    "Top-Down Shooter": 160,
+    "Twin Stick Shooter": 140,
+    "Looter Shooter": 130,
+    "Space": 123,
+    "Third-Person Shooter": 112,
+    "Action Roguelike": 104,
+    "Female Protagonist": 103,
+    "Bullet Hell": 91,
+    "Robots": 77,
+    "Mechs": 69,
+    "Indie": 65,
+    "Sci-fi": 29,
+    "Character Customization": 25
+  }
+}

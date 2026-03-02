@@ -1,0 +1,26 @@
+{
+  "appid": 485350,
+  "success": true,
+  "tags": {
+    "Indie": 400,
+    "Visual Novel": 144,
+    "Casual": 141,
+    "Anime": 138,
+    "Pixel Graphics": 135,
+    "2D": 126,
+    "Singleplayer": 124,
+    "Adventure": 118,
+    "Interactive Fiction": 111,
+    "Cartoon": 102,
+    "Text-Based": 100,
+    "Romance": 95,
+    "Emotional": 91,
+    "Linear": 84,
+    "Story Rich": 76,
+    "Music": 74,
+    "Snow": 70,
+    "Experience": 67,
+    "Short": 64,
+    "Simulation": 62
+  }
+}

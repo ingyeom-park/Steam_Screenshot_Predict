@@ -1,0 +1,12 @@
+{
+  "appid": 412270,
+  "success": true,
+  "tags": {
+    "Indie": 42,
+    "Adventure": 40,
+    "RPG": 38,
+    "Action": 37,
+    "Pixel Graphics": 8,
+    "Top-Down": 6
+  }
+}

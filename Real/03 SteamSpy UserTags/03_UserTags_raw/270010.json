@@ -1,0 +1,25 @@
+{
+  "appid": 270010,
+  "success": true,
+  "tags": {
+    "Action": 64,
+    "Casual": 53,
+    "Indie": 44,
+    "Shooter": 42,
+    "First-Person": 41,
+    "Singleplayer": 35,
+    "FPS": 32,
+    "VR": 31,
+    "Time Travel": 29,
+    "Strategy": 25,
+    "Level Editor": 23,
+    "Tower Defense": 21,
+    "Time Manipulation": 20,
+    "Puzzle": 19,
+    "Controller": 19,
+    "Voxel": 18,
+    "Sci-fi": 18,
+    "Multiplayer": 7,
+    "Co-op": 5
+  }
+}

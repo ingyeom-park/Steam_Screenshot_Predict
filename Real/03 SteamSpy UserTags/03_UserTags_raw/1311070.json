@@ -1,0 +1,26 @@
+{
+  "appid": 1311070,
+  "success": true,
+  "tags": {
+    "Atmospheric": 387,
+    "Fantasy": 362,
+    "Cinematic": 355,
+    "Metroidvania": 350,
+    "Action-Adventure": 343,
+    "Singleplayer": 342,
+    "Stylized": 338,
+    "Puzzle-Platformer": 332,
+    "Puzzle": 325,
+    "Action": 324,
+    "2D Platformer": 322,
+    "Hand-drawn": 320,
+    "Adventure": 319,
+    "Platformer": 315,
+    "Colorful": 311,
+    "Hack and Slash": 310,
+    "Indie": 310,
+    "Exploration": 306,
+    "Side Scroller": 302,
+    "Dark Fantasy": 294
+  }
+}

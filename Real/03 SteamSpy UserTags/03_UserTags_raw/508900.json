@@ -1,0 +1,26 @@
+{
+  "appid": 508900,
+  "success": true,
+  "tags": {
+    "Puzzle": 153,
+    "Casual": 147,
+    "Indie": 125,
+    "Fast-Paced": 117,
+    "2D": 116,
+    "Physics": 109,
+    "Short": 105,
+    "Relaxing": 104,
+    "Minimalist": 100,
+    "Puzzle-Platformer": 94,
+    "Point & Click": 91,
+    "Singleplayer": 89,
+    "Cute": 86,
+    "Rhythm": 77,
+    "Exploration": 74,
+    "Psychological Horror": 64,
+    "Funny": 60,
+    "Story Rich": 54,
+    "Difficult": 51,
+    "Great Soundtrack": 45
+  }
+}

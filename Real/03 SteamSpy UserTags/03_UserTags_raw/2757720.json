@@ -1,0 +1,26 @@
+{
+  "appid": 2757720,
+  "success": true,
+  "tags": {
+    "RPG": 237,
+    "Strategy": 221,
+    "Turn-Based Combat": 211,
+    "Story Rich": 205,
+    "Indie": 204,
+    "Difficult": 192,
+    "Zombies": 180,
+    "Adventure": 172,
+    "Dystopian ": 170,
+    "Singleplayer": 161,
+    "Class-Based": 141,
+    "Dark Fantasy": 128,
+    "PvE": 127,
+    "Character Customization": 112,
+    "Magic": 96,
+    "2D": 82,
+    "Hand-drawn": 64,
+    "Fantasy": 45,
+    "JRPG": 28,
+    "Atmospheric": 27
+  }
+}

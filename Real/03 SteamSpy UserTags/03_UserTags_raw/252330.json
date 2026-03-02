@@ -1,0 +1,26 @@
+{
+  "appid": 252330,
+  "success": true,
+  "tags": {
+    "Horror": 800,
+    "Survival Horror": 339,
+    "First-Person": 329,
+    "Multiplayer": 275,
+    "Indie": 273,
+    "Dark": 247,
+    "Psychological Horror": 239,
+    "Singleplayer": 228,
+    "Atmospheric": 216,
+    "Walking Simulator": 211,
+    "Adventure": 182,
+    "Survival": 158,
+    "Action": 135,
+    "Difficult": 97,
+    "Open World": 83,
+    "Female Protagonist": 82,
+    "Exploration": 67,
+    "Jump Scare": 52,
+    "Co-op": 48,
+    "Short": 43
+  }
+}

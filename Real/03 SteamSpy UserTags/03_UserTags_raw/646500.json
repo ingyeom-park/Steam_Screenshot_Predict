@@ -1,0 +1,26 @@
+{
+  "appid": 646500,
+  "success": true,
+  "tags": {
+    "Indie": 220,
+    "Strategy": 217,
+    "Singleplayer": 213,
+    "Survival": 213,
+    "Simulation": 203,
+    "Atmospheric": 198,
+    "Story Rich": 195,
+    "Historical": 194,
+    "Difficult": 191,
+    "Building": 191,
+    "Turn-Based": 187,
+    "Turn-Based Strategy": 173,
+    "Base-Building": 170,
+    "Management": 162,
+    "Family Friendly": 152,
+    "City Builder": 149,
+    "Economy": 142,
+    "Resource Management": 136,
+    "Education": 130,
+    "4X": 129
+  }
+}

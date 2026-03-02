@@ -1,0 +1,26 @@
+{
+  "appid": 3015510,
+  "success": true,
+  "tags": {
+    "Action": 228,
+    "RPG": 212,
+    "Survival": 212,
+    "Zombies": 203,
+    "Old School": 197,
+    "Strategy": 194,
+    "Adventure": 187,
+    "Building": 181,
+    "Singleplayer": 158,
+    "Action RPG": 149,
+    "Base-Building": 139,
+    "Combat": 127,
+    "Dystopian ": 124,
+    "Gun Customization": 111,
+    "Hacking": 94,
+    "Open World": 80,
+    "Post-apocalyptic": 64,
+    "Top-Down": 45,
+    "Indie": 45,
+    "Tower Defense": 26
+  }
+}

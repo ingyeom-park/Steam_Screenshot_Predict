@@ -1,0 +1,26 @@
+{
+  "appid": 415910,
+  "success": true,
+  "tags": {
+    "Indie": 47,
+    "Strategy": 44,
+    "Casual": 37,
+    "Tabletop": 36,
+    "Board Game": 28,
+    "Pixel Graphics": 28,
+    "Chess": 27,
+    "Replay Value": 27,
+    "Puzzle": 26,
+    "Turn-Based": 26,
+    "Arcade": 26,
+    "Procedural Generation": 26,
+    "Score Attack": 26,
+    "Difficult": 25,
+    "2D": 24,
+    "Turn-Based Combat": 24,
+    "Mouse only": 24,
+    "Turn-Based Tactics": 24,
+    "Tower Defense": 24,
+    "Turn-Based Strategy": 23
+  }
+}

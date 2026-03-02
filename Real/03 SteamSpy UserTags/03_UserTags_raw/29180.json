@@ -1,0 +1,26 @@
+{
+  "appid": 29180,
+  "success": true,
+  "tags": {
+    "Indie": 123,
+    "Casual": 114,
+    "Puzzle": 96,
+    "Relaxing": 69,
+    "Singleplayer": 58,
+    "Physics": 54,
+    "Ambient": 41,
+    "Great Soundtrack": 41,
+    "Atmospheric": 36,
+    "2D": 31,
+    "Difficult": 26,
+    "Space": 22,
+    "Minimalist": 21,
+    "Procedural Generation": 19,
+    "Arcade": 18,
+    "Sci-fi": 14,
+    "Science": 14,
+    "Strategy": 14,
+    "Simulation": 13,
+    "Education": 12
+  }
+}

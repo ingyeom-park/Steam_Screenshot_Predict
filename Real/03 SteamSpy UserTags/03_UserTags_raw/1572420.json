@@ -1,0 +1,26 @@
+{
+  "appid": 1572420,
+  "success": true,
+  "tags": {
+    "Horror": 167,
+    "Survival Horror": 152,
+    "Indie": 149,
+    "Difficult": 143,
+    "Psychological Horror": 140,
+    "Survival": 138,
+    "Atmospheric": 133,
+    "First-Person": 128,
+    "1980s": 126,
+    "Dark": 117,
+    "Story Rich": 105,
+    "Singleplayer": 100,
+    "Adventure": 96,
+    "Lore-Rich": 79,
+    "Mystery": 71,
+    "Action": 66,
+    "Action-Adventure": 63,
+    "Simulation": 53,
+    "Supernatural": 32,
+    "Physics": 29
+  }
+}

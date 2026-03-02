@@ -1,0 +1,26 @@
+{
+  "appid": 300630,
+  "success": true,
+  "tags": {
+    "Chess": 190,
+    "Strategy": 182,
+    "Simulation": 178,
+    "Realistic": 175,
+    "Singleplayer": 170,
+    "Multiplayer": 161,
+    "Casual": 157,
+    "Family Friendly": 155,
+    "Immersive Sim": 150,
+    "Education": 143,
+    "Indie": 133,
+    "Tabletop": 131,
+    "Board Game": 129,
+    "Sports": 129,
+    "Puzzle": 125,
+    "3D": 117,
+    "Turn-Based Strategy": 111,
+    "Turn-Based Tactics": 105,
+    "Artificial Intelligence": 99,
+    "Atmospheric": 96
+  }
+}

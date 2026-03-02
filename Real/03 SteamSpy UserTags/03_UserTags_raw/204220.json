@@ -1,0 +1,14 @@
+{
+  "appid": 204220,
+  "success": true,
+  "tags": {
+    "Indie": 40,
+    "Adventure": 37,
+    "Casual": 32,
+    "Platformer": 28,
+    "Puzzle": 26,
+    "Puzzle-Platformer": 13,
+    "Singleplayer": 9,
+    "2D": 6
+  }
+}

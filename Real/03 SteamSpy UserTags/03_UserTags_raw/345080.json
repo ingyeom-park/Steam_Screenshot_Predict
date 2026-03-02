@@ -1,0 +1,26 @@
+{
+  "appid": 345080,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 178,
+    "Shoot 'Em Up": 172,
+    "Top-Down Shooter": 169,
+    "Twin Stick Shooter": 165,
+    "Difficult": 161,
+    "Rogue-lite": 155,
+    "Arcade": 152,
+    "Isometric": 149,
+    "Rogue-like": 146,
+    "Top-Down": 144,
+    "Shooter": 137,
+    "Funny": 130,
+    "Procedural Generation": 123,
+    "Action": 119,
+    "Puzzle": 116,
+    "Cartoony": 112,
+    "Colorful": 109,
+    "Family Friendly": 101,
+    "Cats": 92,
+    "Indie": 82
+  }
+}

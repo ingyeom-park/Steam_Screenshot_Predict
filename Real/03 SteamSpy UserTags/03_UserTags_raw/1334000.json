@@ -1,0 +1,26 @@
+{
+  "appid": 1334000,
+  "success": true,
+  "tags": {
+    "Puzzle": 1932,
+    "Casual": 1926,
+    "Indie": 1922,
+    "Fast-Paced": 1916,
+    "2D": 1915,
+    "Physics": 1904,
+    "Short": 1903,
+    "Relaxing": 1900,
+    "Minimalist": 1899,
+    "Point & Click": 1895,
+    "Puzzle-Platformer": 1891,
+    "Mouse only": 1890,
+    "Logic": 1886,
+    "Sports": 386,
+    "Word Game": 306,
+    "Simulation": 293,
+    "Family Friendly": 288,
+    "Singleplayer": 279,
+    "Spelling": 40,
+    "Early Access": 37
+  }
+}

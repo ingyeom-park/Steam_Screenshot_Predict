@@ -1,0 +1,26 @@
+{
+  "appid": 1228500,
+  "success": true,
+  "tags": {
+    "Historical": 230,
+    "Medieval": 224,
+    "Indie": 221,
+    "Adventure": 218,
+    "Dark Humor": 214,
+    "Story Rich": 207,
+    "Action-Adventure": 205,
+    "Mystery": 203,
+    "Point & Click": 201,
+    "RPG": 198,
+    "Stylized": 190,
+    "Third Person": 183,
+    "Top-Down": 177,
+    "Swordplay": 166,
+    "Linear": 163,
+    "Fantasy": 162,
+    "Logic": 156,
+    "Demons": 149,
+    "Mythology": 144,
+    "Faith": 139
+  }
+}

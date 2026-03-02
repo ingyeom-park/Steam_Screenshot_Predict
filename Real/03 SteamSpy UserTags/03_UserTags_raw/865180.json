@@ -1,0 +1,25 @@
+{
+  "appid": 865180,
+  "success": true,
+  "tags": {
+    "RPG": 126,
+    "JRPG": 119,
+    "Retro": 114,
+    "Adventure": 113,
+    "MMORPG": 110,
+    "2D": 98,
+    "2.5D": 93,
+    "Turn-Based Combat": 88,
+    "Multiplayer": 84,
+    "Singleplayer": 79,
+    "Hand-drawn": 76,
+    "Anime": 72,
+    "Turn-Based": 64,
+    "Indie": 58,
+    "RPGMaker": 54,
+    "Isometric": 46,
+    "Pixel Graphics": 36,
+    "Controller": 31,
+    "Sexual Content": 27
+  }
+}

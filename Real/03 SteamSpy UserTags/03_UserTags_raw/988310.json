@@ -1,0 +1,26 @@
+{
+  "appid": 988310,
+  "success": true,
+  "tags": {
+    "JRPG": 161,
+    "2D Platformer": 155,
+    "Rhythm": 151,
+    "Cute": 150,
+    "Story Rich": 144,
+    "Female Protagonist": 141,
+    "Action": 138,
+    "Tactical RPG": 135,
+    "LGBTQ+": 133,
+    "Side Scroller": 131,
+    "Pixel Graphics": 128,
+    "Funny": 123,
+    "Turn-Based Combat": 121,
+    "Family Friendly": 99,
+    "Platformer": 95,
+    "Singleplayer": 90,
+    "RPG": 82,
+    "Indie": 80,
+    "2D": 76,
+    "Adventure": 75
+  }
+}

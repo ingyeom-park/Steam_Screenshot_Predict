@@ -1,0 +1,23 @@
+{
+  "appid": 881690,
+  "success": true,
+  "tags": {
+    "Action": 43,
+    "Violent": 43,
+    "Indie": 39,
+    "Stealth": 33,
+    "Assassin": 32,
+    "Gore": 31,
+    "First-Person": 27,
+    "Singleplayer": 22,
+    "Crime": 21,
+    "Shooter": 20,
+    "Story Rich": 16,
+    "Dark": 16,
+    "Puzzle": 15,
+    "Atmospheric": 15,
+    "Cinematic": 13,
+    "Nudity": 11,
+    "FPS": 10
+  }
+}

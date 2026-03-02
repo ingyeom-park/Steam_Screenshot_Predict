@@ -1,0 +1,26 @@
+{
+  "appid": 1297210,
+  "success": true,
+  "tags": {
+    "Casual": 345,
+    "Indie": 319,
+    "Puzzle": 317,
+    "Logic": 314,
+    "Psychedelic": 308,
+    "Abstract": 304,
+    "Singleplayer": 299,
+    "Experimental": 290,
+    "Education": 284,
+    "3D": 276,
+    "Procedural Generation": 262,
+    "Design & Illustration": 256,
+    "Relaxing": 248,
+    "Building": 224,
+    "Minimalist": 202,
+    "Exploration": 196,
+    "Game Development": 166,
+    "Colorful": 152,
+    "Nature": 132,
+    "Science": 116
+  }
+}

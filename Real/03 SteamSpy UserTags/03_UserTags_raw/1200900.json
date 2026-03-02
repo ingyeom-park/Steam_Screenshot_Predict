@@ -1,0 +1,26 @@
+{
+  "appid": 1200900,
+  "success": true,
+  "tags": {
+    "Tower Defense": 248,
+    "Hacking": 240,
+    "Indie": 236,
+    "Singleplayer": 233,
+    "Strategy": 230,
+    "Cyberpunk": 222,
+    "Tactical": 217,
+    "Casual": 214,
+    "Base-Building": 211,
+    "Arcade": 204,
+    "Investigation": 197,
+    "Real Time Tactics": 193,
+    "Futuristic": 185,
+    "Isometric": 183,
+    "3D": 181,
+    "Abstract": 179,
+    "Psychedelic": 177,
+    "Artificial Intelligence": 173,
+    "Automation": 168,
+    "Building": 156
+  }
+}

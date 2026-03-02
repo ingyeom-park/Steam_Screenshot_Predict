@@ -1,0 +1,26 @@
+{
+  "appid": 41000,
+  "success": true,
+  "tags": {
+    "FPS": 264,
+    "Action": 207,
+    "Shooter": 123,
+    "Co-op": 121,
+    "Gore": 114,
+    "Multiplayer": 98,
+    "Comedy": 96,
+    "Online Co-Op": 90,
+    "Classic": 86,
+    "First-Person": 86,
+    "Old School": 84,
+    "Indie": 73,
+    "Singleplayer": 63,
+    "Aliens": 62,
+    "Difficult": 57,
+    "Funny": 56,
+    "Remake": 52,
+    "Adventure": 47,
+    "Sci-fi": 45,
+    "Colorful": 44
+  }
+}

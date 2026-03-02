@@ -1,0 +1,14 @@
+{
+  "appid": 512550,
+  "success": true,
+  "tags": {
+    "Action": 28,
+    "Adventure": 23,
+    "Indie": 23,
+    "Arcade": 14,
+    "Shooter": 13,
+    "Platformer": 12,
+    "2.5D": 11,
+    "Western": 10
+  }
+}

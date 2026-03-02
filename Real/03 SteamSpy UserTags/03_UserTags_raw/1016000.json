@@ -1,0 +1,26 @@
+{
+  "appid": 1016000,
+  "success": true,
+  "tags": {
+    "Arcade": 142,
+    "Runner": 136,
+    "Difficult": 133,
+    "Fast-Paced": 128,
+    "Racing": 123,
+    "Abstract": 117,
+    "Unforgiving": 115,
+    "Action": 112,
+    "Indie": 108,
+    "Rhythm": 105,
+    "Soundtrack": 97,
+    "Psychedelic": 94,
+    "Singleplayer": 83,
+    "Third Person": 76,
+    "3D": 71,
+    "Surreal": 64,
+    "Colorful": 61,
+    "Atmospheric": 59,
+    "Controller": 50,
+    "Linear": 47
+  }
+}

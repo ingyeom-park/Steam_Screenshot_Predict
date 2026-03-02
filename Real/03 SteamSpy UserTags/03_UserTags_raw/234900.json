@@ -1,0 +1,26 @@
+{
+  "appid": 234900,
+  "success": true,
+  "tags": {
+    "Atmospheric": 224,
+    "Surreal": 218,
+    "Action-Adventure": 213,
+    "Top-Down": 210,
+    "Dark": 206,
+    "Pixel Graphics": 202,
+    "2D": 200,
+    "Dungeon Crawler": 195,
+    "Retro": 189,
+    "Psychological": 189,
+    "Exploration": 186,
+    "Combat": 179,
+    "Adventure": 178,
+    "Singleplayer": 173,
+    "Indie": 160,
+    "Action": 116,
+    "Puzzle": 94,
+    "Great Soundtrack": 76,
+    "Action RPG": 71,
+    "RPG": 63
+  }
+}

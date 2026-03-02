@@ -1,0 +1,26 @@
+{
+  "appid": 2092330,
+  "success": true,
+  "tags": {
+    "Simulation": 380,
+    "Casual": 360,
+    "Relaxing": 354,
+    "Singleplayer": 348,
+    "Family Friendly": 343,
+    "Puzzle": 326,
+    "RPG": 319,
+    "Card Game": 314,
+    "Strategy": 303,
+    "Tabletop": 302,
+    "Futuristic": 272,
+    "Funny": 261,
+    "Colorful": 245,
+    "Logic": 244,
+    "Sports": 230,
+    "Space": 225,
+    "Education": 191,
+    "Exploration": 170,
+    "PvP": 149,
+    "Indie": 117
+  }
+}

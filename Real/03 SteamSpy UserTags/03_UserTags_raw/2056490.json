@@ -1,0 +1,26 @@
+{
+  "appid": 2056490,
+  "success": true,
+  "tags": {
+    "Turn-Based Combat": 176,
+    "Turn-Based": 169,
+    "Grid-Based Movement": 166,
+    "Rogue-like": 161,
+    "Procedural Generation": 159,
+    "Rogue-lite": 150,
+    "2D": 147,
+    "Pixel Graphics": 144,
+    "Casual": 140,
+    "Perma Death": 132,
+    "Puzzle": 126,
+    "Arcade": 122,
+    "Fantasy": 119,
+    "Tactical": 106,
+    "Dungeon Crawler": 95,
+    "Dark Fantasy": 83,
+    "RPG": 70,
+    "Singleplayer": 67,
+    "Indie": 51,
+    "Turn-Based Tactics": 31
+  }
+}

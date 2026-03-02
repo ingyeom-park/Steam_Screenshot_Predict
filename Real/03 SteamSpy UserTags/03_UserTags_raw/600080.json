@@ -1,0 +1,26 @@
+{
+  "appid": 600080,
+  "success": true,
+  "tags": {
+    "Adventure": 83,
+    "Action": 82,
+    "Cinematic": 51,
+    "Swordplay": 44,
+    "Atmospheric": 43,
+    "Indie": 41,
+    "Singleplayer": 31,
+    "Platformer": 27,
+    "Exploration": 26,
+    "Violent": 26,
+    "Combat": 25,
+    "Action-Adventure": 25,
+    "Blood": 24,
+    "Medieval": 24,
+    "2D": 24,
+    "Short": 23,
+    "Dark": 21,
+    "Difficult": 21,
+    "Side Scroller": 17,
+    "2D Platformer": 15
+  }
+}

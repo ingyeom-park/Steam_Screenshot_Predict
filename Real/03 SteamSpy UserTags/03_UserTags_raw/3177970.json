@@ -1,0 +1,26 @@
+{
+  "appid": 3177970,
+  "success": true,
+  "tags": {
+    "Programming": 168,
+    "Tactical RPG": 161,
+    "Looter Shooter": 157,
+    "Action RPG": 154,
+    "Hack and Slash": 151,
+    "Bullet Hell": 146,
+    "Deckbuilding": 141,
+    "Character Customization": 139,
+    "Automation": 137,
+    "2D": 135,
+    "RPG": 129,
+    "Pixel Graphics": 124,
+    "Loot": 114,
+    "Sci-fi": 110,
+    "Singleplayer": 103,
+    "Indie": 98,
+    "Top-Down Shooter": 85,
+    "Action": 74,
+    "Action Roguelike": 68,
+    "Rogue-lite": 63
+  }
+}

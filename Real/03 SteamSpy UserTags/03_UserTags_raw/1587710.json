@@ -1,0 +1,26 @@
+{
+  "appid": 1587710,
+  "success": true,
+  "tags": {
+    "Casual": 134,
+    "Puzzle": 127,
+    "Collectathon": 124,
+    "Procedural Generation": 120,
+    "Dinosaurs": 116,
+    "Simulation": 108,
+    "Nature": 106,
+    "3D": 104,
+    "Cute": 99,
+    "Funny": 96,
+    "Relaxing": 94,
+    "Story Rich": 87,
+    "Colorful": 78,
+    "Family Friendly": 73,
+    "Logic": 69,
+    "Singleplayer": 65,
+    "Wholesome": 62,
+    "Creature Collector": 52,
+    "Indie": 51,
+    "Point & Click": 28
+  }
+}

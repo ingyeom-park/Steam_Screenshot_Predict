@@ -1,0 +1,24 @@
+{
+  "appid": 1060600,
+  "success": true,
+  "tags": {
+    "Adventure": 90,
+    "Indie": 90,
+    "Casual": 83,
+    "Action": 83,
+    "Point & Click": 24,
+    "Funny": 22,
+    "Platformer": 19,
+    "Comedy": 19,
+    "Singleplayer": 17,
+    "Pixel Graphics": 17,
+    "2D Platformer": 16,
+    "Dark Comedy": 15,
+    "Puzzle": 15,
+    "2D": 14,
+    "Story Rich": 13,
+    "Sci-fi": 12,
+    "Post-apocalyptic": 12,
+    "Great Soundtrack": 12
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2636420,
+  "success": true,
+  "tags": {
+    "Horror": 172,
+    "Dark": 162,
+    "Thriller": 158,
+    "Adventure": 155,
+    "Atmospheric": 151,
+    "Realistic": 144,
+    "3D": 141,
+    "Exploration": 137,
+    "Mystery": 136,
+    "Cinematic": 126,
+    "First-Person": 118,
+    "Demons": 108,
+    "Psychological Horror": 106,
+    "Inventory Management": 94,
+    "Open World": 81,
+    "Singleplayer": 76,
+    "Indie": 71,
+    "Jump Scare": 68,
+    "1990's": 56,
+    "America": 38
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1600910,
+  "success": true,
+  "tags": {
+    "Card Game": 106,
+    "Card Battler": 105,
+    "Rogue-like": 98,
+    "Deckbuilding": 96,
+    "Strategy": 88,
+    "Rogue-lite": 88,
+    "Dungeon Crawler": 83,
+    "RPG": 82,
+    "Turn-Based": 77,
+    "Turn-Based Combat": 70,
+    "Puzzle": 62,
+    "Indie": 59,
+    "Colorful": 52,
+    "Fantasy": 44,
+    "Magic": 40,
+    "Atmospheric": 37,
+    "Singleplayer": 37,
+    "2D": 35,
+    "Surreal": 32,
+    "Turn-Based Strategy": 29
+  }
+}

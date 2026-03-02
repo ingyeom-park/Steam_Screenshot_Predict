@@ -1,0 +1,26 @@
+{
+  "appid": 896670,
+  "success": true,
+  "tags": {
+    "Casual": 158,
+    "Adventure": 152,
+    "Action": 149,
+    "RPG": 146,
+    "Indie": 143,
+    "Simulation": 137,
+    "Strategy": 135,
+    "RPGMaker": 134,
+    "Anime": 131,
+    "Pixel Graphics": 130,
+    "Female Protagonist": 124,
+    "Visual Novel": 122,
+    "Exploration": 116,
+    "Strategy RPG": 112,
+    "Horror": 109,
+    "JRPG": 93,
+    "Survival Horror": 81,
+    "Dungeon Crawler": 79,
+    "2D": 74,
+    "Cartoony": 59
+  }
+}

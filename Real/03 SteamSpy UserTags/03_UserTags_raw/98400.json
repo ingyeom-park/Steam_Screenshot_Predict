@@ -1,0 +1,24 @@
+{
+  "appid": 98400,
+  "success": true,
+  "tags": {
+    "FPS": 233,
+    "Cyberpunk": 218,
+    "Action": 177,
+    "Sci-fi": 149,
+    "Shooter": 106,
+    "Indie": 103,
+    "Singleplayer": 94,
+    "First-Person": 86,
+    "Dystopian ": 61,
+    "Robots": 57,
+    "Difficult": 53,
+    "3D Vision": 24,
+    "Violent": 21,
+    "Old School": 18,
+    "Atmospheric": 16,
+    "Gore": 7,
+    "Boomer Shooter": 6,
+    "Futuristic": 5
+  }
+}

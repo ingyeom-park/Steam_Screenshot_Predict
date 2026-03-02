@@ -1,0 +1,23 @@
+{
+  "appid": 233230,
+  "success": true,
+  "tags": {
+    "Puzzle": 149,
+    "Exploration": 124,
+    "Indie": 114,
+    "Atmospheric": 103,
+    "First-Person": 91,
+    "Abstract": 88,
+    "Surreal": 86,
+    "Adventure": 71,
+    "Singleplayer": 60,
+    "Mystery": 50,
+    "Walking Simulator": 42,
+    "VR": 35,
+    "Horror": 25,
+    "Minimalist": 20,
+    "Story Rich": 7,
+    "3D": 5,
+    "Psychological Horror": 5
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 464260,
+  "success": true,
+  "tags": {
+    "Action": 134,
+    "Pixel Graphics": 130,
+    "Top-Down Shooter": 129,
+    "Twin Stick Shooter": 125,
+    "2D": 119,
+    "Aliens": 114,
+    "Retro": 113,
+    "Arena Shooter": 106,
+    "Indie": 104,
+    "Shooter": 102,
+    "Top-Down": 92,
+    "Sci-fi": 81,
+    "Co-op": 71,
+    "Local Co-Op": 69,
+    "Great Soundtrack": 59,
+    "Procedural Generation": 57,
+    "Singleplayer": 50,
+    "Gore": 39,
+    "Shoot 'Em Up": 34,
+    "Rogue-lite": 31
+  }
+}

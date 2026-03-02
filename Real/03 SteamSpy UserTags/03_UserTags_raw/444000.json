@@ -1,0 +1,26 @@
+{
+  "appid": 444000,
+  "success": true,
+  "tags": {
+    "Arcade": 163,
+    "Racing": 157,
+    "Motorbike": 151,
+    "Indie": 151,
+    "Anime": 145,
+    "Retro": 137,
+    "Old School": 132,
+    "Driving": 125,
+    "Female Protagonist": 121,
+    "1980s": 116,
+    "Singleplayer": 114,
+    "Difficult": 110,
+    "Fast-Paced": 107,
+    "Great Soundtrack": 106,
+    "Minimalist": 101,
+    "Simulation": 93,
+    "Atmospheric": 81,
+    "Controller": 70,
+    "Classic": 68,
+    "Bikes": 63
+  }
+}

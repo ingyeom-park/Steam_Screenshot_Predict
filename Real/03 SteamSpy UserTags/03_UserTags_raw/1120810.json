@@ -1,0 +1,26 @@
+{
+  "appid": 1120810,
+  "success": true,
+  "tags": {
+    "Action": 196,
+    "RPG": 182,
+    "Side Scroller": 166,
+    "Adventure": 163,
+    "2D": 160,
+    "Souls-like": 150,
+    "Hack and Slash": 148,
+    "Action RPG": 122,
+    "Platformer": 114,
+    "Strategy": 106,
+    "Hand-drawn": 101,
+    "Fantasy": 91,
+    "Singleplayer": 76,
+    "Magic": 72,
+    "Violent": 63,
+    "Indie": 46,
+    "Martial Arts": 45,
+    "Difficult": 39,
+    "Metroidvania": 34,
+    "Early Access": 24
+  }
+}

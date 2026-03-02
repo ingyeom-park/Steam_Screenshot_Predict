@@ -1,0 +1,26 @@
+{
+  "appid": 65300,
+  "success": true,
+  "tags": {
+    "Precision Platformer": 310,
+    "Platformer": 211,
+    "Great Soundtrack": 167,
+    "Indie": 161,
+    "Difficult": 137,
+    "Time Attack": 110,
+    "2D": 100,
+    "Action": 88,
+    "Stylized": 76,
+    "Local Multiplayer": 36,
+    "Local Co-Op": 33,
+    "Score Attack": 33,
+    "Level Editor": 32,
+    "Side Scroller": 30,
+    "Fast-Paced": 28,
+    "Singleplayer": 27,
+    "Parkour": 14,
+    "Atmospheric": 12,
+    "4 Player Local": 11,
+    "2D Platformer": 6
+  }
+}

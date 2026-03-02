@@ -1,0 +1,26 @@
+{
+  "appid": 1079260,
+  "success": true,
+  "tags": {
+    "Sandbox": 135,
+    "Multiplayer": 129,
+    "Singleplayer": 126,
+    "Exploration": 118,
+    "Building": 115,
+    "Physics": 108,
+    "3D": 106,
+    "First-Person": 102,
+    "Action": 98,
+    "Funny": 98,
+    "Casual": 92,
+    "Simulation": 90,
+    "Cartoony": 85,
+    "Comedy": 83,
+    "Atmospheric": 83,
+    "Destruction": 79,
+    "Indie": 58,
+    "Moddable": 45,
+    "Short": 43,
+    "FPS": 35
+  }
+}

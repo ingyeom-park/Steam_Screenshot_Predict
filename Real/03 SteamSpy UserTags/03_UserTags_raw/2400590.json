@@ -1,0 +1,26 @@
+{
+  "appid": 2400590,
+  "success": true,
+  "tags": {
+    "Visual Novel": 146,
+    "Stylized": 140,
+    "Cinematic": 137,
+    "Sci-fi": 133,
+    "Mechs": 130,
+    "Anime": 121,
+    "Exploration": 117,
+    "Interactive Fiction": 115,
+    "Word Game": 113,
+    "RPG": 111,
+    "Lore-Rich": 109,
+    "Story Rich": 107,
+    "Space": 105,
+    "War": 103,
+    "Atmospheric": 99,
+    "Drama": 96,
+    "Adventure": 93,
+    "Indie": 78,
+    "Futuristic": 74,
+    "Singleplayer": 72
+  }
+}

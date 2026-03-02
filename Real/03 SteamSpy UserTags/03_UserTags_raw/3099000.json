@@ -1,0 +1,26 @@
+{
+  "appid": 3099000,
+  "success": true,
+  "tags": {
+    "Metroidvania": 136,
+    "Pixel Graphics": 135,
+    "Platformer": 133,
+    "Retro": 127,
+    "Shooter": 124,
+    "Shoot 'Em Up": 118,
+    "Old School": 112,
+    "Indie": 108,
+    "Singleplayer": 104,
+    "2D Platformer": 100,
+    "2D": 92,
+    "Action": 88,
+    "Side Scroller": 85,
+    "Arcade": 74,
+    "Mechs": 65,
+    "Combat": 61,
+    "Multiple Endings": 58,
+    "Military": 53,
+    "Adventure": 53,
+    "Stylized": 41
+  }
+}

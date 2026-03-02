@@ -1,0 +1,26 @@
+{
+  "appid": 1709900,
+  "success": true,
+  "tags": {
+    "Roguelike Deckbuilder": 151,
+    "Tower Defense": 149,
+    "Card Battler": 135,
+    "Card Game": 131,
+    "Rogue-like": 127,
+    "Deckbuilding": 117,
+    "Strategy": 113,
+    "Singleplayer": 110,
+    "Rogue-lite": 104,
+    "2D": 101,
+    "Sci-fi": 98,
+    "Top-Down": 93,
+    "Minimalist": 90,
+    "Pixel Graphics": 88,
+    "Space": 82,
+    "Management": 77,
+    "Procedural Generation": 75,
+    "Tactical": 73,
+    "Indie": 70,
+    "Relaxing": 32
+  }
+}

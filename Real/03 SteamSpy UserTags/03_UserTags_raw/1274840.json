@@ -1,0 +1,26 @@
+{
+  "appid": 1274840,
+  "success": true,
+  "tags": {
+    "Action": 32,
+    "Indie": 31,
+    "Violent": 31,
+    "Casual": 30,
+    "Simulation": 27,
+    "Strategy": 27,
+    "Psychological Horror": 13,
+    "Time Travel": 11,
+    "Quick-Time Events": 11,
+    "Singleplayer": 11,
+    "Military": 11,
+    "World War II": 11,
+    "Survival Horror": 11,
+    "Fast-Paced": 11,
+    "War": 11,
+    "Horror": 11,
+    "Realistic": 10,
+    "Time Attack": 10,
+    "Survival": 10,
+    "Bullet Hell": 8
+  }
+}

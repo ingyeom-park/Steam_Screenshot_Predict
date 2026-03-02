@@ -1,0 +1,26 @@
+{
+  "appid": 41500,
+  "success": true,
+  "tags": {
+    "RPG": 400,
+    "Action RPG": 391,
+    "Hack and Slash": 354,
+    "Dungeon Crawler": 345,
+    "Fantasy": 243,
+    "Singleplayer": 234,
+    "Loot": 231,
+    "Indie": 144,
+    "Moddable": 132,
+    "Action": 130,
+    "Adventure": 104,
+    "Isometric": 70,
+    "Magic": 65,
+    "Cartoon": 53,
+    "Exploration": 45,
+    "Top-Down": 38,
+    "Female Protagonist": 33,
+    "Steampunk": 31,
+    "Great Soundtrack": 22,
+    "Multiplayer": 14
+  }
+}

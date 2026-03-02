@@ -1,0 +1,26 @@
+{
+  "appid": 35460,
+  "success": true,
+  "tags": {
+    "3D Platformer": 166,
+    "Puzzle-Platformer": 159,
+    "First-Person": 156,
+    "Puzzle": 152,
+    "Strategy": 136,
+    "Action": 127,
+    "Indie": 120,
+    "Sci-fi": 113,
+    "Adventure": 112,
+    "Physics": 81,
+    "Singleplayer": 65,
+    "3D": 61,
+    "Logic": 59,
+    "Controller": 55,
+    "Underground": 54,
+    "Horror": 53,
+    "FPS": 48,
+    "Exploration": 43,
+    "Atmospheric": 38,
+    "Cold War": 33
+  }
+}

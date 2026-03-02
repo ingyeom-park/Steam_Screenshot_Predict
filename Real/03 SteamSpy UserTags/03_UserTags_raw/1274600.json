@@ -1,0 +1,26 @@
+{
+  "appid": 1274600,
+  "success": true,
+  "tags": {
+    "Metroidvania": 279,
+    "Souls-like": 260,
+    "Pixel Graphics": 255,
+    "Violent": 223,
+    "Dark Fantasy": 222,
+    "Gore": 212,
+    "Gothic": 194,
+    "2D": 189,
+    "Vampire": 173,
+    "Action": 172,
+    "Platformer": 161,
+    "Indie": 160,
+    "Difficult": 153,
+    "Blood": 146,
+    "Horror": 140,
+    "Singleplayer": 137,
+    "Adventure": 112,
+    "Side Scroller": 81,
+    "Dark": 75,
+    "Controller": 61
+  }
+}

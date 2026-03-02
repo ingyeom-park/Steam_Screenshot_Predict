@@ -1,0 +1,26 @@
+{
+  "appid": 837460,
+  "success": true,
+  "tags": {
+    "Action": 196,
+    "Indie": 189,
+    "Adventure": 184,
+    "RPG": 177,
+    "Metroidvania": 155,
+    "2D": 146,
+    "Platformer": 146,
+    "Singleplayer": 143,
+    "Funny": 140,
+    "Puzzle-Platformer": 139,
+    "Retro": 135,
+    "Dark Fantasy": 129,
+    "Pixel Graphics": 128,
+    "Action-Adventure": 121,
+    "Dungeon Crawler": 117,
+    "Fantasy": 116,
+    "Lovecraftian": 113,
+    "Magic": 106,
+    "Old School": 101,
+    "Story Rich": 99
+  }
+}

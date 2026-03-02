@@ -1,0 +1,26 @@
+{
+  "appid": 350970,
+  "success": true,
+  "tags": {
+    "Puzzle": 112,
+    "Platformer": 106,
+    "Indie": 102,
+    "Action": 100,
+    "Adventure": 97,
+    "Sci-fi": 87,
+    "Retro": 83,
+    "Singleplayer": 79,
+    "Stylized": 76,
+    "Puzzle-Platformer": 74,
+    "Controller": 71,
+    "Robots": 70,
+    "Atmospheric": 66,
+    "Narration": 65,
+    "Colorful": 57,
+    "Exploration": 51,
+    "2D": 49,
+    "Short": 39,
+    "Space": 32,
+    "Casual": 30
+  }
+}

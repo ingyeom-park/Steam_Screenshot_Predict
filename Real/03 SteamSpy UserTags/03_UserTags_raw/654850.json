@@ -1,0 +1,26 @@
+{
+  "appid": 654850,
+  "success": true,
+  "tags": {
+    "Action": 42,
+    "Indie": 39,
+    "Zombies": 32,
+    "Multiplayer": 24,
+    "Gore": 22,
+    "FPS": 20,
+    "Co-op": 20,
+    "Horror": 19,
+    "Blood": 19,
+    "Survival": 18,
+    "Shooter": 18,
+    "Survival Horror": 18,
+    "First-Person": 17,
+    "Online Co-Op": 16,
+    "Singleplayer": 16,
+    "PvP": 16,
+    "Sniper": 14,
+    "Shoot 'Em Up": 10,
+    "Arena Shooter": 10,
+    "Action Roguelike": 10
+  }
+}

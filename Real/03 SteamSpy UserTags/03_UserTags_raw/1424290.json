@@ -1,0 +1,26 @@
+{
+  "appid": 1424290,
+  "success": true,
+  "tags": {
+    "Action": 184,
+    "Adventure": 179,
+    "Indie": 177,
+    "Hack and Slash": 173,
+    "2.5D": 166,
+    "Space": 162,
+    "Mars": 159,
+    "Female Protagonist": 151,
+    "Platformer": 141,
+    "PvE": 139,
+    "Singleplayer": 133,
+    "Atmospheric": 129,
+    "Side Scroller": 123,
+    "Futuristic": 117,
+    "Nonlinear": 114,
+    "Story Rich": 112,
+    "Arcade": 107,
+    "Character Action Game": 103,
+    "Exploration": 100,
+    "Cinematic": 80
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "appid": 205830,
+  "success": true,
+  "tags": {
+    "Casual": 40,
+    "Action": 33,
+    "Indie": 30,
+    "Match 3": 20,
+    "Arcade": 14,
+    "Puzzle": 8
+  }
+}

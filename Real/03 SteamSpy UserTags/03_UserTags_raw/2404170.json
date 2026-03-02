@@ -1,0 +1,26 @@
+{
+  "appid": 2404170,
+  "success": true,
+  "tags": {
+    "Simulation": 113,
+    "Casual": 106,
+    "Adventure": 102,
+    "Rogue-lite": 98,
+    "RPG": 98,
+    "Life Sim": 90,
+    "Historical": 86,
+    "Cute": 84,
+    "Mining": 77,
+    "Building": 74,
+    "Base-Building": 70,
+    "Dungeon Crawler": 66,
+    "Strategy": 65,
+    "Pixel Graphics": 63,
+    "Crafting": 62,
+    "2D": 61,
+    "Singleplayer": 58,
+    "Indie": 56,
+    "Resource Management": 33,
+    "Farming Sim": 32
+  }
+}

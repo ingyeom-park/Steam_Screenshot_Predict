@@ -1,0 +1,26 @@
+{
+  "appid": 251210,
+  "success": true,
+  "tags": {
+    "Asynchronous Multiplayer": 158,
+    "Turn-Based Strategy": 152,
+    "Hex Grid": 150,
+    "Board Game": 146,
+    "Strategy": 145,
+    "Tabletop": 136,
+    "Abstract": 135,
+    "Multiplayer": 128,
+    "Singleplayer": 124,
+    "Turn-Based": 122,
+    "Local Multiplayer": 118,
+    "Family Friendly": 113,
+    "Female Protagonist": 107,
+    "Indie": 104,
+    "Puzzle": 104,
+    "Logic": 98,
+    "Casual": 92,
+    "2D": 89,
+    "3D": 81,
+    "Early Access": 73
+  }
+}

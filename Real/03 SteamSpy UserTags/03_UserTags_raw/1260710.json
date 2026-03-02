@@ -1,0 +1,23 @@
+{
+  "appid": 1260710,
+  "success": true,
+  "tags": {
+    "Simulation": 101,
+    "Experience": 95,
+    "Casual": 92,
+    "Indie": 89,
+    "Action": 86,
+    "Adventure": 78,
+    "Historical": 74,
+    "Naval": 71,
+    "Exploration": 69,
+    "Walking Simulator": 65,
+    "Immersive Sim": 59,
+    "First-Person": 55,
+    "3D": 49,
+    "Atmospheric": 42,
+    "Naval Combat": 38,
+    "Singleplayer": 31,
+    "Post-apocalyptic": 27
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2870110,
+  "success": true,
+  "tags": {
+    "Sports": 136,
+    "Strategy": 117,
+    "Simulation": 115,
+    "Management": 101,
+    "Tennis": 97,
+    "e-sports": 74,
+    "Time Management": 73,
+    "Resource Management": 70,
+    "Immersive Sim": 66,
+    "Life Sim": 64,
+    "3D": 60,
+    "Indie": 58,
+    "Realistic": 56,
+    "Text-Based": 53,
+    "Artificial Intelligence": 50,
+    "Singleplayer": 49,
+    "Action": 46,
+    "Strategy RPG": 44,
+    "Exploration": 42,
+    "Football (Soccer)": 37
+  }
+}

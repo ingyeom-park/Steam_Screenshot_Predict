@@ -1,0 +1,25 @@
+{
+  "appid": 270110,
+  "success": true,
+  "tags": {
+    "RPG": 101,
+    "Adventure": 98,
+    "Open World Survival Craft": 91,
+    "Sandbox": 87,
+    "Action": 76,
+    "Crafting": 70,
+    "Open World": 69,
+    "Indie": 67,
+    "Dragons": 58,
+    "Survival": 51,
+    "Building": 41,
+    "Voxel": 39,
+    "Pixel Graphics": 21,
+    "Fantasy": 17,
+    "First-Person": 17,
+    "Singleplayer": 16,
+    "Multiplayer": 8,
+    "Action RPG": 8,
+    "FPS": 6
+  }
+}

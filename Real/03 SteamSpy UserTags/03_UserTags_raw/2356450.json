@@ -1,0 +1,26 @@
+{
+  "appid": 2356450,
+  "success": true,
+  "tags": {
+    "Adventure": 87,
+    "Cats": 82,
+    "Indie": 76,
+    "Cute": 72,
+    "Pixel Graphics": 70,
+    "Simulation": 62,
+    "2D": 59,
+    "Visual Novel": 55,
+    "Story Rich": 54,
+    "Relaxing": 52,
+    "Puzzle": 50,
+    "Sokoban": 48,
+    "Retro": 46,
+    "Multiple Endings": 44,
+    "Top-Down": 42,
+    "Text-Based": 39,
+    "Controller": 38,
+    "Narration": 36,
+    "Action-Adventure": 33,
+    "Singleplayer": 32
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 497800,
+  "success": true,
+  "tags": {
+    "Traditional Roguelike": 154,
+    "Turn-Based": 129,
+    "Rogue-like": 126,
+    "Dungeon Crawler": 122,
+    "Perma Death": 119,
+    "Vampire": 111,
+    "Difficult": 105,
+    "Pixel Graphics": 100,
+    "Gothic": 95,
+    "Horror": 93,
+    "Strategy": 91,
+    "Adventure": 89,
+    "Procedural Generation": 85,
+    "RPG": 76,
+    "CRPG": 73,
+    "Indie": 63,
+    "Singleplayer": 47,
+    "Turn-Based Combat": 47,
+    "Retro": 40,
+    "Turn-Based Strategy": 36
+  }
+}

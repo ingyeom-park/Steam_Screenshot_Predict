@@ -1,0 +1,22 @@
+{
+  "appid": 1640100,
+  "success": true,
+  "tags": {
+    "Casual": 58,
+    "Puzzle": 53,
+    "Strategy": 50,
+    "World War I": 49,
+    "Sokoban": 39,
+    "Point & Click": 38,
+    "Board Game": 27,
+    "Stylized": 25,
+    "Wargame": 25,
+    "War": 22,
+    "Indie": 21,
+    "Historical": 21,
+    "Singleplayer": 19,
+    "Atmospheric": 16,
+    "Logic": 15,
+    "Hex Grid": 10
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1694510,
+  "success": true,
+  "tags": {
+    "Simulation": 186,
+    "Sandbox": 179,
+    "Cooking": 176,
+    "Crafting": 169,
+    "Relaxing": 166,
+    "Singleplayer": 159,
+    "Immersive Sim": 158,
+    "Management": 150,
+    "Realistic": 147,
+    "Education": 137,
+    "Life Sim": 129,
+    "Casual": 120,
+    "Indie": 112,
+    "3D": 105,
+    "Resource Management": 101,
+    "First-Person": 96,
+    "Exploration": 74,
+    "Early Access": 67,
+    "Physics": 55,
+    "Time Management": 45
+  }
+}

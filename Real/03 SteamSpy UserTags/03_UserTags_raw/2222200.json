@@ -1,0 +1,19 @@
+{
+  "appid": 2222200,
+  "success": true,
+  "tags": {
+    "RPG": 60,
+    "Action RPG": 49,
+    "Character Customization": 43,
+    "Adventure": 38,
+    "Cute": 37,
+    "Funny": 34,
+    "Turn-Based Combat": 29,
+    "Cartoony": 26,
+    "Colorful": 24,
+    "Fantasy": 22,
+    "Indie": 21,
+    "Medieval": 20,
+    "Singleplayer": 16
+  }
+}

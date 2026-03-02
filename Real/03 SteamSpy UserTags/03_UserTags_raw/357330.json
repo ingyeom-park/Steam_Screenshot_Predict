@@ -1,0 +1,26 @@
+{
+  "appid": 357330,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 54,
+    "Action": 45,
+    "Horror": 41,
+    "Indie": 40,
+    "Co-op": 39,
+    "FPS": 36,
+    "Aliens": 32,
+    "Procedural Generation": 26,
+    "Local Co-Op": 25,
+    "Sci-fi": 24,
+    "Survival Horror": 23,
+    "Gore": 22,
+    "Violent": 21,
+    "First-Person": 20,
+    "Multiplayer": 20,
+    "Rogue-like": 18,
+    "Split Screen": 17,
+    "Space": 16,
+    "Rogue-lite": 13,
+    "Shooter": 12
+  }
+}

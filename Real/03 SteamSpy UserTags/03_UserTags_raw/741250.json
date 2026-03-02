@@ -1,0 +1,26 @@
+{
+  "appid": 741250,
+  "success": true,
+  "tags": {
+    "Indie": 114,
+    "Casual": 102,
+    "Adventure": 100,
+    "RPGMaker": 96,
+    "Horror": 87,
+    "2D": 82,
+    "Pixel Graphics": 81,
+    "Multiple Endings": 77,
+    "Story Rich": 75,
+    "Fantasy": 73,
+    "Female Protagonist": 71,
+    "Singleplayer": 69,
+    "Psychological Horror": 65,
+    "Anime": 59,
+    "Atmospheric": 58,
+    "Dark": 52,
+    "Dark Fantasy": 51,
+    "Surreal": 49,
+    "Violent": 47,
+    "RPG": 45
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1307880,
+  "success": true,
+  "tags": {
+    "Puzzle": 94,
+    "Match 3": 86,
+    "Hex Grid": 85,
+    "Board Game": 81,
+    "Futuristic": 78,
+    "Atmospheric": 72,
+    "Cyberpunk": 69,
+    "Soundtrack": 67,
+    "Mouse only": 66,
+    "Isometric": 63,
+    "Casual": 62,
+    "Relaxing": 60,
+    "Minimalist": 58,
+    "Abstract": 56,
+    "Logic": 54,
+    "Education": 52,
+    "Tabletop": 50,
+    "Indie": 48,
+    "Singleplayer": 28,
+    "Family Friendly": 12
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 265000,
+  "success": true,
+  "tags": {
+    "Action": 126,
+    "Action Roguelike": 126,
+    "RPG": 125,
+    "Indie": 117,
+    "Strategy": 117,
+    "Deckbuilding": 117,
+    "Bullet Hell": 113,
+    "Rogue-lite": 107,
+    "Card Game": 104,
+    "Singleplayer": 98,
+    "Action RPG": 96,
+    "Dungeon Crawler": 94,
+    "Top-Down": 94,
+    "Fantasy": 91,
+    "Arcade": 90,
+    "Difficult": 89,
+    "Trading Card Game": 89,
+    "Hack and Slash": 88,
+    "Rogue-like": 87,
+    "Action-Adventure": 87
+  }
+}

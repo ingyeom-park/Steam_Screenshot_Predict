@@ -1,0 +1,26 @@
+{
+  "appid": 546780,
+  "success": true,
+  "tags": {
+    "Idler": 142,
+    "Sandbox": 136,
+    "Real-Time": 133,
+    "Surreal": 128,
+    "Relaxing": 125,
+    "Procedural Generation": 119,
+    "Music-Based Procedural Generation": 117,
+    "Casual": 114,
+    "Simulation": 109,
+    "Stylized": 104,
+    "Colorful": 101,
+    "Abstract": 97,
+    "Moddable": 90,
+    "Psychedelic": 84,
+    "Atmospheric": 80,
+    "Futuristic": 71,
+    "Singleplayer": 64,
+    "Experimental": 59,
+    "Music": 57,
+    "Indie": 48
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2338120,
+  "success": true,
+  "tags": {
+    "Horror": 109,
+    "First-Person": 103,
+    "Survival Horror": 100,
+    "Atmospheric": 97,
+    "Blood": 93,
+    "Gore": 85,
+    "Psychological Horror": 82,
+    "Survival": 80,
+    "Singleplayer": 76,
+    "Adventure": 72,
+    "Post-apocalyptic": 70,
+    "Indie": 68,
+    "Action": 65,
+    "Action-Adventure": 62,
+    "Exploration": 59,
+    "Sci-fi": 56,
+    "3D": 54,
+    "Stealth": 52,
+    "Zombies": 45,
+    "Controller": 43
+  }
+}

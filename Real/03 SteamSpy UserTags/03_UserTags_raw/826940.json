@@ -1,0 +1,26 @@
+{
+  "appid": 826940,
+  "success": true,
+  "tags": {
+    "Horror": 153,
+    "Adventure": 130,
+    "Action": 127,
+    "Gore": 125,
+    "Violent": 121,
+    "Psychological Horror": 119,
+    "Stealth": 113,
+    "Story Rich": 106,
+    "Mystery": 104,
+    "Indie": 102,
+    "First-Person": 99,
+    "Survival Horror": 94,
+    "Atmospheric": 86,
+    "Exploration": 85,
+    "Action-Adventure": 81,
+    "Singleplayer": 72,
+    "Co-op": 71,
+    "Multiplayer": 70,
+    "Sexual Content": 64,
+    "Female Protagonist": 58
+  }
+}

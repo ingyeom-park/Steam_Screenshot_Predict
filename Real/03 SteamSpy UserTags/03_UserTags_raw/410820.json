@@ -1,0 +1,26 @@
+{
+  "appid": 410820,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 182,
+    "Bullet Hell": 175,
+    "Shoot 'Em Up": 172,
+    "Twin Stick Shooter": 167,
+    "Dungeon Crawler": 161,
+    "Rogue-like": 155,
+    "Rogue-lite": 153,
+    "Arcade": 150,
+    "RPG": 150,
+    "Top-Down": 147,
+    "Difficult": 146,
+    "2D": 137,
+    "Mechs": 133,
+    "Procedural Generation": 131,
+    "Action": 126,
+    "Sci-fi": 125,
+    "Space": 113,
+    "Moddable": 102,
+    "Singleplayer": 89,
+    "Indie": 87
+  }
+}

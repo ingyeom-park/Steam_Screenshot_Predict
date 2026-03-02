@@ -1,0 +1,26 @@
+{
+  "appid": 378720,
+  "success": true,
+  "tags": {
+    "Strategy": 151,
+    "RPG": 125,
+    "Turn-Based": 123,
+    "Survival": 101,
+    "Turn-Based Strategy": 96,
+    "Fantasy": 94,
+    "Indie": 86,
+    "Card Game": 83,
+    "4X": 64,
+    "Singleplayer": 61,
+    "Crafting": 60,
+    "Dark Fantasy": 57,
+    "Hex Grid": 50,
+    "Resource Management": 43,
+    "Choices Matter": 41,
+    "Replay Value": 38,
+    "Rogue-like": 36,
+    "Co-op": 24,
+    "Nudity": 23,
+    "Mythology": 22
+  }
+}

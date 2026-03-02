@@ -1,0 +1,19 @@
+{
+  "appid": 2120250,
+  "success": true,
+  "tags": {
+    "Action": 67,
+    "Idler": 49,
+    "3D": 48,
+    "War": 45,
+    "Singleplayer": 43,
+    "Indie": 36,
+    "Strategy": 34,
+    "Auto Battler": 32,
+    "PvE": 29,
+    "Casual": 10,
+    "Survival": 10,
+    "Third Person": 10,
+    "Controller": 10
+  }
+}

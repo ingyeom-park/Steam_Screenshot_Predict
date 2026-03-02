@@ -1,0 +1,26 @@
+{
+  "appid": 1899810,
+  "success": true,
+  "tags": {
+    "Indie": 315,
+    "Action-Adventure": 285,
+    "Atmospheric": 282,
+    "Psychological Horror": 279,
+    "Aliens": 274,
+    "Walking Simulator": 264,
+    "Exploration": 259,
+    "Survival Horror": 257,
+    "Action": 254,
+    "Horror": 253,
+    "Supernatural": 246,
+    "Shooter": 239,
+    "FPS": 236,
+    "Third-Person Shooter": 233,
+    "Adventure": 228,
+    "3D": 172,
+    "First-Person": 168,
+    "Noir": 158,
+    "Psychedelic": 151,
+    "Third Person": 147
+  }
+}

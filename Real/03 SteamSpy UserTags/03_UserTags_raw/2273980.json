@@ -1,0 +1,26 @@
+{
+  "appid": 2273980,
+  "success": true,
+  "tags": {
+    "Tower Defense": 343,
+    "Third-Person Shooter": 336,
+    "Co-op": 336,
+    "Action": 335,
+    "Rogue-lite": 335,
+    "Strategy": 324,
+    "Physics": 317,
+    "Funny": 308,
+    "Fantasy": 305,
+    "Combat": 295,
+    "PvE": 293,
+    "Multiplayer": 292,
+    "Third Person": 283,
+    "Online Co-Op": 282,
+    "Hero Shooter": 282,
+    "Action Roguelike": 279,
+    "Singleplayer": 274,
+    "Indie": 262,
+    "Magic": 246,
+    "Medieval": 240
+  }
+}

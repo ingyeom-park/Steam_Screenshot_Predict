@@ -1,0 +1,26 @@
+{
+  "appid": 2338910,
+  "success": true,
+  "tags": {
+    "Auto Battler": 95,
+    "Casual": 87,
+    "Sandbox": 82,
+    "Pixel Graphics": 80,
+    "Retro": 77,
+    "War": 71,
+    "Relaxing": 68,
+    "Combat": 67,
+    "Minimalist": 65,
+    "Procedural Generation": 62,
+    "PvE": 59,
+    "Top-Down": 58,
+    "2D": 57,
+    "Dragons": 53,
+    "Simulation": 52,
+    "Archery": 30,
+    "Indie": 30,
+    "Demons": 27,
+    "Fantasy": 26,
+    "Singleplayer": 24
+  }
+}

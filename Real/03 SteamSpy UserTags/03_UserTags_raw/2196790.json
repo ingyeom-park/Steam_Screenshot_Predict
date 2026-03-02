@@ -1,0 +1,26 @@
+{
+  "appid": 2196790,
+  "success": true,
+  "tags": {
+    "Casual": 258,
+    "Action": 246,
+    "RPG": 242,
+    "Action-Adventure": 210,
+    "Action Roguelike": 204,
+    "Rogue-like": 194,
+    "2D": 180,
+    "Cute": 171,
+    "Hand-drawn": 162,
+    "Swordplay": 152,
+    "Relaxing": 140,
+    "Magic": 138,
+    "Combat": 123,
+    "Automation": 100,
+    "Singleplayer": 94,
+    "Co-op": 80,
+    "Adventure": 69,
+    "Online Co-Op": 67,
+    "Multiplayer": 62,
+    "Indie": 51
+  }
+}

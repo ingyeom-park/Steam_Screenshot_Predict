@@ -1,0 +1,26 @@
+{
+  "appid": 2721530,
+  "success": true,
+  "tags": {
+    "Action": 495,
+    "Adventure": 490,
+    "RPG": 485,
+    "Hack and Slash": 460,
+    "Indie": 457,
+    "Open World": 455,
+    "Exploration": 445,
+    "2D": 430,
+    "Pixel Graphics": 422,
+    "Colorful": 410,
+    "Cute": 399,
+    "Top-Down": 388,
+    "Comedy": 374,
+    "Dark": 360,
+    "Horror": 347,
+    "Singleplayer": 333,
+    "Story Rich": 315,
+    "Multiple Endings": 313,
+    "Action RPG": 293,
+    "Choices Matter": 274
+  }
+}

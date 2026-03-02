@@ -1,0 +1,26 @@
+{
+  "appid": 1111620,
+  "success": true,
+  "tags": {
+    "VR": 263,
+    "Singleplayer": 256,
+    "6DOF": 250,
+    "Animation & Modeling": 249,
+    "Narration": 246,
+    "Colorful": 243,
+    "Experience": 238,
+    "Cinematic": 235,
+    "Adventure": 221,
+    "Cute": 214,
+    "Linear": 206,
+    "Casual": 200,
+    "Dynamic Narration": 199,
+    "Zombies": 195,
+    "Fantasy": 189,
+    "Family Friendly": 188,
+    "Atmospheric": 182,
+    "Indie": 174,
+    "Interactive Fiction": 170,
+    "Visual Novel": 167
+  }
+}

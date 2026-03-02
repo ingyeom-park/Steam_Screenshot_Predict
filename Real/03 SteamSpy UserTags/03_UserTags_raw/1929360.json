@@ -1,0 +1,26 @@
+{
+  "appid": 1929360,
+  "success": true,
+  "tags": {
+    "Clicker": 134,
+    "Rogue-lite": 127,
+    "Idler": 125,
+    "Action-Adventure": 119,
+    "RPG": 115,
+    "3D": 112,
+    "Third Person": 108,
+    "Funny": 105,
+    "Open World": 103,
+    "Controller": 98,
+    "Casual": 97,
+    "Online Co-Op": 92,
+    "Western": 85,
+    "Physics": 78,
+    "Adventure": 73,
+    "Cinematic": 71,
+    "Singleplayer": 69,
+    "Multiplayer": 67,
+    "Co-op": 58,
+    "Indie": 50
+  }
+}

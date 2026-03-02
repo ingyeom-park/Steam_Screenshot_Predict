@@ -1,0 +1,26 @@
+{
+  "appid": 1229580,
+  "success": true,
+  "tags": {
+    "Indie": 204,
+    "Action": 199,
+    "Difficult": 189,
+    "Violent": 184,
+    "Adventure": 182,
+    "Singleplayer": 181,
+    "Gore": 180,
+    "Retro": 173,
+    "Puzzle": 172,
+    "Arcade": 169,
+    "Casual": 167,
+    "Cartoony": 166,
+    "Survival": 165,
+    "Precision Platformer": 149,
+    "Puzzle-Platformer": 146,
+    "Top-Down Shooter": 144,
+    "2D Platformer": 141,
+    "2D": 138,
+    "Cartoon": 122,
+    "Colorful": 113
+  }
+}

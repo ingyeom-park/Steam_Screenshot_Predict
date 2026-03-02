@@ -1,0 +1,26 @@
+{
+  "appid": 1188270,
+  "success": true,
+  "tags": {
+    "RPG": 210,
+    "Strategy": 204,
+    "Turn-Based": 202,
+    "Indie": 198,
+    "2D": 195,
+    "Fantasy": 189,
+    "Old School": 187,
+    "Dungeons & Dragons": 185,
+    "Party-Based RPG": 177,
+    "Turn-Based Strategy": 169,
+    "Tabletop": 162,
+    "Dungeon Crawler": 159,
+    "Tactical RPG": 156,
+    "Hand-drawn": 144,
+    "Top-Down": 131,
+    "Loot": 127,
+    "Magic": 110,
+    "Tactical": 94,
+    "Character Customization": 90,
+    "Singleplayer": 71
+  }
+}

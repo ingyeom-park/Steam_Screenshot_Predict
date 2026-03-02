@@ -1,0 +1,26 @@
+{
+  "appid": 711540,
+  "success": true,
+  "tags": {
+    "Bikes": 240,
+    "Difficult": 236,
+    "Sports": 233,
+    "Indie": 226,
+    "Racing": 222,
+    "Physics": 216,
+    "Nature": 213,
+    "Singleplayer": 205,
+    "Simulation": 196,
+    "Cycling": 191,
+    "Exploration": 190,
+    "Open World": 184,
+    "Action": 176,
+    "3D": 167,
+    "Fast-Paced": 163,
+    "Souls-like": 152,
+    "Offroad": 147,
+    "Funny": 136,
+    "Competitive": 131,
+    "Arcade": 128
+  }
+}

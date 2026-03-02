@@ -1,0 +1,26 @@
+{
+  "appid": 2004590,
+  "success": true,
+  "tags": {
+    "Adventure": 101,
+    "2.5D": 96,
+    "Anime": 94,
+    "Cute": 93,
+    "Relaxing": 87,
+    "Female Protagonist": 81,
+    "Stylized": 81,
+    "3D Platformer": 76,
+    "Colorful": 75,
+    "Indie": 72,
+    "Singleplayer": 70,
+    "Casual": 62,
+    "Collectathon": 50,
+    "Family Friendly": 46,
+    "Short": 44,
+    "Fantasy": 44,
+    "Exploration": 40,
+    "Third Person": 38,
+    "Platformer": 37,
+    "Walking Simulator": 32
+  }
+}

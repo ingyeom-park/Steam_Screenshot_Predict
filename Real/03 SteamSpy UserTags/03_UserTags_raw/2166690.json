@@ -1,0 +1,23 @@
+{
+  "appid": 2166690,
+  "success": true,
+  "tags": {
+    "Action": 106,
+    "Action RPG": 100,
+    "MMORPG": 97,
+    "Tactical RPG": 94,
+    "Top-Down": 91,
+    "Fantasy": 85,
+    "Magic": 83,
+    "PvE": 81,
+    "Singleplayer": 78,
+    "RPG": 69,
+    "3D": 65,
+    "Indie": 62,
+    "3D Platformer": 58,
+    "Tutorial": 52,
+    "Controller": 44,
+    "Bullet Hell": 38,
+    "Boss Rush": 30
+  }
+}

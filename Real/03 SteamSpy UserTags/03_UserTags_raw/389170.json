@@ -1,0 +1,26 @@
+{
+  "appid": 389170,
+  "success": true,
+  "tags": {
+    "2D Platformer": 286,
+    "Adventure": 274,
+    "Narration": 269,
+    "Soundtrack": 266,
+    "Funny": 260,
+    "Indie": 255,
+    "Dynamic Narration": 250,
+    "Platformer": 250,
+    "Story Rich": 237,
+    "Puzzle-Platformer": 228,
+    "Action": 220,
+    "2D": 217,
+    "RPG": 216,
+    "Atmospheric": 201,
+    "Side Scroller": 197,
+    "Pixel Graphics": 194,
+    "Casual": 188,
+    "Colorful": 187,
+    "Family Friendly": 182,
+    "Fantasy": 180
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "appid": 1655960,
+  "success": true,
+  "tags": {
+    "Casual": 55,
+    "Metroidvania": 51,
+    "Minimalist": 45,
+    "Space": 43,
+    "Puzzle": 39,
+    "2D": 28,
+    "Parody ": 28,
+    "Funny": 24,
+    "Sci-fi": 23,
+    "Indie": 22,
+    "Controller": 21,
+    "Grid-Based Movement": 20,
+    "Singleplayer": 18,
+    "Walking Simulator": 14
+  }
+}

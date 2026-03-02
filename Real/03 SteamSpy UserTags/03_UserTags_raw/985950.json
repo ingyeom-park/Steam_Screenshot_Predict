@@ -1,0 +1,26 @@
+{
+  "appid": 985950,
+  "success": true,
+  "tags": {
+    "Indie": 198,
+    "Dungeon Crawler": 184,
+    "RPG": 180,
+    "Party-Based RPG": 174,
+    "VR": 162,
+    "Turn-Based Combat": 162,
+    "Turn-Based": 156,
+    "Fantasy": 150,
+    "CRPG": 141,
+    "Action RPG": 135,
+    "Puzzle": 132,
+    "Atmospheric": 125,
+    "Singleplayer": 122,
+    "Grid-Based Movement": 114,
+    "Mythology": 109,
+    "Adventure": 74,
+    "First-Person": 73,
+    "Exploration": 72,
+    "Action": 68,
+    "Story Rich": 57
+  }
+}

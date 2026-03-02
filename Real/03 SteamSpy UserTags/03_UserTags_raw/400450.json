@@ -1,0 +1,26 @@
+{
+  "appid": 400450,
+  "success": true,
+  "tags": {
+    "Action": 60,
+    "Indie": 60,
+    "Action Roguelike": 57,
+    "RPG": 51,
+    "Local Co-Op": 46,
+    "Twin Stick Shooter": 45,
+    "Great Soundtrack": 44,
+    "Rogue-lite": 42,
+    "Pixel Graphics": 42,
+    "Cyberpunk": 33,
+    "Rogue-like": 32,
+    "Bullet Hell": 30,
+    "Top-Down": 25,
+    "Robots": 23,
+    "Futuristic": 22,
+    "Co-op": 22,
+    "Perma Death": 20,
+    "2D": 20,
+    "Sci-fi": 20,
+    "Co-op Campaign": 20
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2543030,
+  "success": true,
+  "tags": {
+    "Visual Novel": 177,
+    "Story Rich": 171,
+    "Conversation": 167,
+    "Cooking": 164,
+    "Emotional": 161,
+    "Atmospheric": 154,
+    "Interactive Fiction": 148,
+    "Cartoony": 144,
+    "Casual": 139,
+    "Immersive Sim": 132,
+    "Relaxing": 131,
+    "2D": 128,
+    "Singleplayer": 122,
+    "RPG": 119,
+    "Simulation": 109,
+    "Modern": 103,
+    "Indie": 102,
+    "Lore-Rich": 98,
+    "JRPG": 96,
+    "Cartoon": 91
+  }
+}

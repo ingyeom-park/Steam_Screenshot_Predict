@@ -1,0 +1,26 @@
+{
+  "appid": 396890,
+  "success": true,
+  "tags": {
+    "Simulation": 155,
+    "Pixel Graphics": 149,
+    "Life Sim": 146,
+    "2D": 143,
+    "Science": 140,
+    "Singleplayer": 134,
+    "Education": 132,
+    "Sandbox": 130,
+    "Idler": 128,
+    "Abstract": 126,
+    "God Game": 125,
+    "Cartoony": 121,
+    "Management": 120,
+    "Nature": 118,
+    "Survival": 116,
+    "Relaxing": 112,
+    "Artificial Intelligence": 104,
+    "Grid-Based Movement": 90,
+    "Level Editor": 80,
+    "Nonlinear": 73
+  }
+}

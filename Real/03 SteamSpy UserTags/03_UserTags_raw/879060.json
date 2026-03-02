@@ -1,0 +1,26 @@
+{
+  "appid": 879060,
+  "success": true,
+  "tags": {
+    "Shoot 'Em Up": 336,
+    "Twin Stick Shooter": 330,
+    "Action": 326,
+    "Indie": 323,
+    "Adventure": 319,
+    "RPG": 311,
+    "Shooter": 305,
+    "2D": 299,
+    "Arcade": 294,
+    "Zombies": 289,
+    "Singleplayer": 283,
+    "Funny": 273,
+    "Exploration": 271,
+    "Gore": 262,
+    "Futuristic": 253,
+    "War": 243,
+    "Violent": 237,
+    "Colorful": 230,
+    "Comedy": 219,
+    "Fast-Paced": 214
+  }
+}

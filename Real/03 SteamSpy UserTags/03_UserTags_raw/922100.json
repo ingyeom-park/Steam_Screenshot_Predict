@@ -1,0 +1,26 @@
+{
+  "appid": 922100,
+  "success": true,
+  "tags": {
+    "Simulation": 124,
+    "Indie": 117,
+    "Atmospheric": 107,
+    "Puzzle": 105,
+    "Sci-fi": 105,
+    "Difficult": 101,
+    "Singleplayer": 99,
+    "Point & Click": 99,
+    "Adventure": 98,
+    "Steampunk": 97,
+    "Great Soundtrack": 92,
+    "Exploration": 90,
+    "Stealth": 87,
+    "Short": 87,
+    "Experimental": 87,
+    "Space": 84,
+    "Casual": 84,
+    "Strategy": 72,
+    "Survival": 30,
+    "Choices Matter": 28
+  }
+}

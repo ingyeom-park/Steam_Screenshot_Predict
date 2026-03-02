@@ -1,0 +1,26 @@
+{
+  "appid": 1131930,
+  "success": true,
+  "tags": {
+    "Strategy": 200,
+    "Indie": 194,
+    "Tower Defense": 193,
+    "Zombies": 186,
+    "Base-Building": 180,
+    "Resource Management": 175,
+    "Building": 171,
+    "Crafting": 166,
+    "Singleplayer": 164,
+    "Real-Time with Pause": 160,
+    "Early Access": 159,
+    "Post-apocalyptic": 153,
+    "Tactical": 144,
+    "Automation": 142,
+    "2D": 141,
+    "Experimental": 138,
+    "Survival": 138,
+    "Collectathon": 137,
+    "Mining": 133,
+    "Physics": 130
+  }
+}

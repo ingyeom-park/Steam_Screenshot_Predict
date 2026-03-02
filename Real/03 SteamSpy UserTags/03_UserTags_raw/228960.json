@@ -1,0 +1,21 @@
+{
+  "appid": 228960,
+  "success": true,
+  "tags": {
+    "Strategy": 82,
+    "Indie": 79,
+    "Turn-Based Strategy": 56,
+    "Turn-Based": 42,
+    "Comedy": 36,
+    "Singleplayer": 36,
+    "Tactical": 33,
+    "Multiplayer": 28,
+    "Turn-Based Tactics": 21,
+    "Cartoony": 14,
+    "Turn-Based Combat": 14,
+    "Local Multiplayer": 11,
+    "Funny": 10,
+    "2D": 7,
+    "Asynchronous Multiplayer": 7
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1166580,
+  "success": true,
+  "tags": {
+    "Simulation": 343,
+    "Family Friendly": 338,
+    "2D": 334,
+    "Puzzle": 330,
+    "Time Attack": 324,
+    "Logic": 318,
+    "Clicker": 312,
+    "Old School": 310,
+    "Retro": 305,
+    "Top-Down": 300,
+    "Casual": 291,
+    "Indie": 287,
+    "Mouse only": 274,
+    "Addictive": 272,
+    "Short": 269,
+    "Physics": 262,
+    "Singleplayer": 258,
+    "Real-Time with Pause": 64,
+    "Difficult": 58,
+    "Free to Play": 53
+  }
+}

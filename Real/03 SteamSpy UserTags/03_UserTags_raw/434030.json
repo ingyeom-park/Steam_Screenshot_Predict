@@ -1,0 +1,26 @@
+{
+  "appid": 434030,
+  "success": true,
+  "tags": {
+    "Flight": 180,
+    "Simulation": 170,
+    "VR": 162,
+    "Racing": 156,
+    "Open World": 153,
+    "Physics": 153,
+    "Realistic": 146,
+    "Education": 140,
+    "Exploration": 136,
+    "Jet": 134,
+    "3D Vision": 129,
+    "Relaxing": 123,
+    "3D": 122,
+    "Level Editor": 115,
+    "America": 109,
+    "Singleplayer": 107,
+    "TrackIR": 103,
+    "Early Access": 88,
+    "Indie": 74,
+    "Multiplayer": 64
+  }
+}

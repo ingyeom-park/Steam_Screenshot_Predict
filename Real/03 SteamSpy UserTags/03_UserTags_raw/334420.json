@@ -1,0 +1,25 @@
+{
+  "appid": 334420,
+  "success": true,
+  "tags": {
+    "Space": 71,
+    "Indie": 66,
+    "Sci-fi": 66,
+    "Rogue-like": 62,
+    "Adventure": 58,
+    "Strategy": 54,
+    "Singleplayer": 42,
+    "Resource Management": 39,
+    "Exploration": 34,
+    "RPG": 30,
+    "Rogue-lite": 29,
+    "Atmospheric": 27,
+    "Great Soundtrack": 20,
+    "Survival": 19,
+    "2D": 17,
+    "Touch-Friendly": 11,
+    "Difficult": 10,
+    "Story Rich": 7,
+    "Turn-Based": 5
+  }
+}

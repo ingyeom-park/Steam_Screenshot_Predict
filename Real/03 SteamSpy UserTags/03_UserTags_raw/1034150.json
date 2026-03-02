@@ -1,0 +1,26 @@
+{
+  "appid": 1034150,
+  "success": true,
+  "tags": {
+    "Puzzle": 168,
+    "Indie": 162,
+    "Stylized": 158,
+    "Logic": 154,
+    "Fantasy": 150,
+    "Casual": 142,
+    "Colorful": 140,
+    "2D": 137,
+    "Relaxing": 133,
+    "Funny": 131,
+    "Story Rich": 127,
+    "Linear": 120,
+    "Cartoony": 113,
+    "Comic Book": 106,
+    "Atmospheric": 98,
+    "Text-Based": 89,
+    "Lore-Rich": 81,
+    "Emotional": 74,
+    "Cartoon": 71,
+    "Singleplayer": 56
+  }
+}

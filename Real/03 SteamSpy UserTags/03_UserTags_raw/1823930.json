@@ -1,0 +1,26 @@
+{
+  "appid": 1823930,
+  "success": true,
+  "tags": {
+    "Adventure": 224,
+    "3D Platformer": 200,
+    "Action-Adventure": 199,
+    "Platformer": 194,
+    "3D": 183,
+    "Cartoony": 176,
+    "Cinematic": 165,
+    "Colorful": 160,
+    "Stylized": 153,
+    "Third Person": 144,
+    "Atmospheric": 129,
+    "Nature": 125,
+    "Pirates": 111,
+    "Relaxing": 105,
+    "Controller": 84,
+    "Female Protagonist": 81,
+    "Linear": 50,
+    "Singleplayer": 37,
+    "Story Rich": 37,
+    "Indie": 6
+  }
+}

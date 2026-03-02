@@ -1,0 +1,26 @@
+{
+  "appid": 609110,
+  "success": true,
+  "tags": {
+    "Action": 74,
+    "Retro": 74,
+    "Pixel Graphics": 68,
+    "Indie": 67,
+    "Side Scroller": 65,
+    "Shoot 'Em Up": 63,
+    "2D": 63,
+    "Arcade": 51,
+    "Shooter": 48,
+    "Local Co-Op": 47,
+    "Platformer": 44,
+    "Difficult": 35,
+    "Singleplayer": 27,
+    "Post-apocalyptic": 26,
+    "Female Protagonist": 25,
+    "Robots": 24,
+    "Co-op Campaign": 23,
+    "Great Soundtrack": 20,
+    "Fast-Paced": 16,
+    "War": 12
+  }
+}

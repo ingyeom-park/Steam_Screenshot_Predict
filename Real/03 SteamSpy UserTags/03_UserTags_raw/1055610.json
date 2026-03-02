@@ -1,0 +1,26 @@
+{
+  "appid": 1055610,
+  "success": true,
+  "tags": {
+    "Action": 350,
+    "Multiplayer": 339,
+    "Strategy": 329,
+    "Space Sim": 329,
+    "Sci-fi": 320,
+    "First-Person": 314,
+    "6DOF": 313,
+    "Space": 308,
+    "Indie": 307,
+    "Simulation": 298,
+    "RTS": 292,
+    "Singleplayer": 290,
+    "Turn-Based Strategy": 279,
+    "Early Access": 279,
+    "Turn-Based Tactics": 278,
+    "Turn-Based Combat": 270,
+    "Turn-Based": 263,
+    "Automobile Sim": 253,
+    "Shooter": 242,
+    "FPS": 235
+  }
+}

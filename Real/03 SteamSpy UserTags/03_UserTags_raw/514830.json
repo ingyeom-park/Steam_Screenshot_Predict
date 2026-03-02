@@ -1,0 +1,26 @@
+{
+  "appid": 514830,
+  "success": true,
+  "tags": {
+    "Indie": 73,
+    "Adventure": 68,
+    "Horror": 65,
+    "Action": 64,
+    "VR": 58,
+    "Stealth": 55,
+    "Psychological Horror": 54,
+    "Dark": 52,
+    "Atmospheric": 52,
+    "Thriller": 52,
+    "Survival Horror": 49,
+    "Singleplayer": 49,
+    "First-Person": 45,
+    "Psychological": 45,
+    "Story Rich": 44,
+    "Exploration": 43,
+    "Experimental": 43,
+    "Sci-fi": 42,
+    "Mystery Dungeon": 37,
+    "Science": 36
+  }
+}

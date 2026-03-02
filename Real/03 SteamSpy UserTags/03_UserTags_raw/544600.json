@@ -1,0 +1,12 @@
+{
+  "appid": 544600,
+  "success": true,
+  "tags": {
+    "Casual": 40,
+    "Adventure": 36,
+    "Indie": 36,
+    "Time Management": 27,
+    "Family Friendly": 21,
+    "Cooking": 10
+  }
+}

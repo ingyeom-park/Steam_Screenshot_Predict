@@ -1,0 +1,26 @@
+{
+  "appid": 1608400,
+  "success": true,
+  "tags": {
+    "VR": 169,
+    "Simulation": 156,
+    "Sandbox": 156,
+    "Design & Illustration": 154,
+    "Immersive Sim": 144,
+    "Casual": 136,
+    "Crafting": 132,
+    "3D": 130,
+    "First-Person": 129,
+    "Realistic": 125,
+    "Indie": 123,
+    "Education": 122,
+    "Singleplayer": 120,
+    "Atmospheric": 115,
+    "Family Friendly": 109,
+    "Relaxing": 104,
+    "Level Editor": 98,
+    "Moddable": 92,
+    "Tutorial": 88,
+    "Survival": 83
+  }
+}

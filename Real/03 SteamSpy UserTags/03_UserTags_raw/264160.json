@@ -1,0 +1,23 @@
+{
+  "appid": 264160,
+  "success": true,
+  "tags": {
+    "RPG": 82,
+    "Indie": 79,
+    "Rogue-like": 73,
+    "Perma Death": 49,
+    "Strategy": 39,
+    "Turn-Based": 32,
+    "Action": 30,
+    "Side Scroller": 27,
+    "Dungeon Crawler": 26,
+    "Rogue-lite": 25,
+    "Procedural Generation": 23,
+    "Difficult": 15,
+    "Turn-Based Combat": 14,
+    "Turn-Based Tactics": 13,
+    "Multiplayer": 5,
+    "Action RPG": 5,
+    "Traditional Roguelike": 5
+  }
+}

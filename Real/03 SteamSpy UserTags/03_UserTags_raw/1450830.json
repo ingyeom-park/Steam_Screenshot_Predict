@@ -1,0 +1,26 @@
+{
+  "appid": 1450830,
+  "success": true,
+  "tags": {
+    "Survival Horror": 212,
+    "Horror": 189,
+    "Strategy": 181,
+    "Supernatural": 176,
+    "Investigation": 174,
+    "Point & Click": 163,
+    "Tactical": 159,
+    "First-Person": 156,
+    "Indie": 141,
+    "Atmospheric": 134,
+    "Gothic": 134,
+    "FMV": 128,
+    "RPG": 127,
+    "Mystery": 126,
+    "Story Rich": 119,
+    "Real Time Tactics": 114,
+    "Cinematic": 102,
+    "Co-op": 98,
+    "Singleplayer": 85,
+    "Multiplayer": 84
+  }
+}

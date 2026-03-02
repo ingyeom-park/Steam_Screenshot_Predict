@@ -1,0 +1,26 @@
+{
+  "appid": 1488430,
+  "success": true,
+  "tags": {
+    "Multiplayer": 232,
+    "Online Co-Op": 226,
+    "Local Co-Op": 225,
+    "Casual": 220,
+    "Co-op": 218,
+    "Funny": 209,
+    "Indie": 207,
+    "Action": 204,
+    "4 Player Local": 204,
+    "Local Multiplayer": 199,
+    "Cute": 194,
+    "Space": 191,
+    "Controller": 186,
+    "Singleplayer": 179,
+    "Arcade": 165,
+    "Colorful": 150,
+    "Sci-fi": 136,
+    "Stylized": 122,
+    "Family Friendly": 120,
+    "Co-op Campaign": 102
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 2858370,
+  "success": true,
+  "tags": {
+    "Destruction": 128,
+    "VR": 121,
+    "Voxel": 118,
+    "Sandbox": 117,
+    "Singleplayer": 113,
+    "Physics": 107,
+    "Combat": 98,
+    "Realistic": 97,
+    "First-Person": 95,
+    "Action": 92,
+    "Experimental": 90,
+    "Moddable": 80,
+    "Funny": 79,
+    "Dark": 76,
+    "Simulation": 74,
+    "Casual": 58,
+    "Exploration": 56,
+    "Shooter": 54,
+    "Driving": 52,
+    "Building": 51
+  }
+}

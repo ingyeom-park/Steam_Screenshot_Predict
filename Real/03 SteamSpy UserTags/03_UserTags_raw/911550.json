@@ -1,0 +1,23 @@
+{
+  "appid": 911550,
+  "success": true,
+  "tags": {
+    "RPG": 37,
+    "Action": 36,
+    "Indie": 36,
+    "Hack and Slash": 18,
+    "Loot": 17,
+    "Action RPG": 17,
+    "Procedural Generation": 15,
+    "Singleplayer": 13,
+    "Co-op": 13,
+    "Fantasy": 13,
+    "Character Customization": 12,
+    "Isometric": 12,
+    "Multiplayer": 12,
+    "Real-Time": 11,
+    "Medieval": 11,
+    "Rogue-lite": 10,
+    "Choices Matter": 10
+  }
+}

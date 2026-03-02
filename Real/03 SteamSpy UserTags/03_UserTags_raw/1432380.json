@@ -1,0 +1,26 @@
+{
+  "appid": 1432380,
+  "success": true,
+  "tags": {
+    "FPS": 210,
+    "Hack and Slash": 204,
+    "Shooter": 200,
+    "Action-Adventure": 198,
+    "Female Protagonist": 194,
+    "Magic": 188,
+    "PvE": 183,
+    "Swordplay": 177,
+    "First-Person": 172,
+    "Old School": 169,
+    "Fantasy": 165,
+    "Dark Fantasy": 154,
+    "Combat": 148,
+    "Action": 140,
+    "Medieval": 138,
+    "Singleplayer": 125,
+    "Adventure": 106,
+    "Linear": 105,
+    "Atmospheric": 104,
+    "Indie": 73
+  }
+}

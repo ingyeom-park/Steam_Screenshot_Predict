@@ -1,0 +1,22 @@
+{
+  "appid": 290040,
+  "success": true,
+  "tags": {
+    "Indie": 48,
+    "Action": 46,
+    "Adventure": 42,
+    "Retro": 40,
+    "Pixel Graphics": 34,
+    "Local Co-Op": 31,
+    "2D": 25,
+    "Platformer": 23,
+    "Metroidvania": 19,
+    "Local Multiplayer": 18,
+    "Singleplayer": 18,
+    "Great Soundtrack": 15,
+    "Beat 'em up": 13,
+    "Side Scroller": 13,
+    "Controller": 12,
+    "Dog": 10
+  }
+}

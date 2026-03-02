@@ -1,0 +1,22 @@
+{
+  "appid": 383630,
+  "success": true,
+  "tags": {
+    "Action": 33,
+    "Adventure": 33,
+    "Indie": 32,
+    "Platformer": 16,
+    "Retro": 15,
+    "Classic": 12,
+    "Arcade": 12,
+    "2D": 12,
+    "Pixel Graphics": 12,
+    "Singleplayer": 12,
+    "Puzzle-Platformer": 12,
+    "Puzzle": 11,
+    "Precision Platformer": 11,
+    "Funny": 11,
+    "1990's": 10,
+    "1980s": 10
+  }
+}

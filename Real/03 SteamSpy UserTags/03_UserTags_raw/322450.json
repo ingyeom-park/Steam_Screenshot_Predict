@@ -1,0 +1,26 @@
+{
+  "appid": 322450,
+  "success": true,
+  "tags": {
+    "Puzzle": 63,
+    "Casual": 59,
+    "Indie": 58,
+    "Adventure": 53,
+    "Noir": 52,
+    "Comic Book": 51,
+    "Singleplayer": 37,
+    "Minimalist": 35,
+    "Touch-Friendly": 31,
+    "Heist": 30,
+    "Family Friendly": 27,
+    "Point & Click": 23,
+    "Great Soundtrack": 20,
+    "Strategy": 14,
+    "2D": 13,
+    "Cartoon": 13,
+    "Music": 12,
+    "Platformer": 11,
+    "Puzzle-Platformer": 11,
+    "Addictive": 10
+  }
+}

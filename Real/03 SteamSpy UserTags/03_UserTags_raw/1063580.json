@@ -1,0 +1,26 @@
+{
+  "appid": 1063580,
+  "success": true,
+  "tags": {
+    "Deckbuilding": 120,
+    "Dark Fantasy": 101,
+    "Dystopian ": 98,
+    "Board Game": 98,
+    "Card Battler": 96,
+    "Strategy": 89,
+    "Card Game": 83,
+    "Indie": 82,
+    "Adventure": 78,
+    "Tabletop": 68,
+    "Building": 60,
+    "Local Co-Op": 56,
+    "Co-op": 51,
+    "Casual": 48,
+    "Trading Card Game": 44,
+    "2D": 43,
+    "Singleplayer": 39,
+    "Local Multiplayer": 38,
+    "Turn-Based": 36,
+    "Early Access": 18
+  }
+}

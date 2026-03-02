@@ -1,0 +1,26 @@
+{
+  "appid": 1390490,
+  "success": true,
+  "tags": {
+    "Horror": 108,
+    "Stealth": 103,
+    "Exploration": 96,
+    "Action": 92,
+    "Atmospheric": 92,
+    "Sci-fi": 87,
+    "Surreal": 79,
+    "Dark": 78,
+    "Survival Horror": 77,
+    "Lore-Rich": 72,
+    "Survival": 68,
+    "Adventure": 67,
+    "Space": 67,
+    "First-Person": 65,
+    "Action-Adventure": 61,
+    "Realistic": 58,
+    "3D": 58,
+    "Singleplayer": 57,
+    "Indie": 52,
+    "Multiple Endings": 36
+  }
+}

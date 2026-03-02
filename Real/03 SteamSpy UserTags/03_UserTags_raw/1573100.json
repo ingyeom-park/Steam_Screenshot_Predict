@@ -1,0 +1,26 @@
+{
+  "appid": 1573100,
+  "success": true,
+  "tags": {
+    "RPG": 279,
+    "Survival": 253,
+    "Sci-fi": 246,
+    "Exploration": 244,
+    "Turn-Based Combat": 231,
+    "Post-apocalyptic": 229,
+    "Grid-Based Movement": 226,
+    "Dark": 217,
+    "Futuristic": 212,
+    "Atmospheric": 211,
+    "Inventory Management": 206,
+    "Old School": 205,
+    "Time Management": 193,
+    "Indie": 190,
+    "Action-Adventure": 187,
+    "Singleplayer": 175,
+    "Top-Down": 173,
+    "Pixel Graphics": 168,
+    "Violent": 162,
+    "Tactical": 162
+  }
+}

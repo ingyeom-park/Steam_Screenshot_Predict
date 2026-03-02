@@ -1,0 +1,26 @@
+{
+  "appid": 1694880,
+  "success": true,
+  "tags": {
+    "First-Person": 169,
+    "Parkour": 164,
+    "Precision Platformer": 160,
+    "Difficult": 159,
+    "Atmospheric": 155,
+    "Stylized": 146,
+    "3D Platformer": 91,
+    "Action": 89,
+    "Runner": 86,
+    "Fast-Paced": 84,
+    "Abstract": 79,
+    "Action-Adventure": 77,
+    "Competitive": 75,
+    "Platformer": 72,
+    "Physics": 70,
+    "3D": 68,
+    "Singleplayer": 67,
+    "Indie": 61,
+    "Futuristic": 40,
+    "Colorful": 38
+  }
+}

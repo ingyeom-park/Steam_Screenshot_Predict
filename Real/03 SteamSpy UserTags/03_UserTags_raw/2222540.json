@@ -1,0 +1,26 @@
+{
+  "appid": 2222540,
+  "success": true,
+  "tags": {
+    "Precision Platformer": 165,
+    "Runner": 159,
+    "Side Scroller": 155,
+    "Rhythm": 153,
+    "Platformer": 152,
+    "Action": 140,
+    "3D": 132,
+    "Cute": 129,
+    "Level Editor": 125,
+    "Colorful": 120,
+    "Family Friendly": 111,
+    "Atmospheric": 106,
+    "Old School": 101,
+    "Retro": 98,
+    "Singleplayer": 93,
+    "Electronic Music": 86,
+    "Difficult": 81,
+    "Indie": 66,
+    "Adventure": 49,
+    "Great Soundtrack": 45
+  }
+}

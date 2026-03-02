@@ -1,0 +1,26 @@
+{
+  "appid": 248860,
+  "success": true,
+  "tags": {
+    "Survival": 477,
+    "Post-apocalyptic": 375,
+    "Rogue-like": 289,
+    "RPG": 281,
+    "Turn-Based": 276,
+    "Crafting": 238,
+    "Procedural Generation": 234,
+    "Perma Death": 231,
+    "Indie": 230,
+    "Strategy": 183,
+    "Inventory Management": 169,
+    "Difficult": 166,
+    "Sandbox": 154,
+    "Open World": 152,
+    "Realistic": 147,
+    "Grid-Based Movement": 124,
+    "Singleplayer": 124,
+    "Hex Grid": 117,
+    "Turn-Based Strategy": 106,
+    "Adventure": 87
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1417930,
+  "success": true,
+  "tags": {
+    "Parkour": 219,
+    "Dark": 217,
+    "Singleplayer": 212,
+    "3D Platformer": 198,
+    "Pixel Graphics": 187,
+    "Difficult": 185,
+    "Action-Adventure": 183,
+    "Horror": 156,
+    "3D": 153,
+    "Adventure": 150,
+    "Experimental": 144,
+    "Platformer": 141,
+    "Exploration": 138,
+    "Action": 111,
+    "First-Person": 94,
+    "Cinematic": 79,
+    "Minimalist": 55,
+    "Indie": 54,
+    "Stylized": 47,
+    "Atmospheric": 43
+  }
+}

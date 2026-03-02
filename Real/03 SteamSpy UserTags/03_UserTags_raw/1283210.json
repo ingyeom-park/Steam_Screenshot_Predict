@@ -1,0 +1,26 @@
+{
+  "appid": 1283210,
+  "success": true,
+  "tags": {
+    "Indie": 156,
+    "Casual": 150,
+    "Adventure": 146,
+    "RPG": 141,
+    "Simulation": 139,
+    "Visual Novel": 136,
+    "Anime": 134,
+    "Dating Sim": 130,
+    "Word Game": 116,
+    "Clicker": 109,
+    "2D Platformer": 101,
+    "2D": 96,
+    "JRPG": 96,
+    "Cartoon": 88,
+    "Cartoony": 82,
+    "Cute": 75,
+    "Beautiful": 69,
+    "Colorful": 67,
+    "Comic Book": 64,
+    "LGBTQ+": 59
+  }
+}

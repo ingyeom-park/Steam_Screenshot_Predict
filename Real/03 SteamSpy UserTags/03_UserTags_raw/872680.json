@@ -1,0 +1,26 @@
+{
+  "appid": 872680,
+  "success": true,
+  "tags": {
+    "Strategy": 187,
+    "RPG": 182,
+    "Indie": 176,
+    "Turn-Based": 172,
+    "Survival": 168,
+    "Hex Grid": 160,
+    "Turn-Based Strategy": 157,
+    "Rogue-lite": 150,
+    "Turn-Based Combat": 148,
+    "Crafting": 141,
+    "Building": 138,
+    "Strategy RPG": 128,
+    "Post-apocalyptic": 123,
+    "Atmospheric": 112,
+    "2D": 101,
+    "4X": 98,
+    "Stylized": 95,
+    "Zombies": 95,
+    "Loot": 93,
+    "Action": 87
+  }
+}

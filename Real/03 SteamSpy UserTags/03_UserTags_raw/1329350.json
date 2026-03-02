@@ -1,0 +1,26 @@
+{
+  "appid": 1329350,
+  "success": true,
+  "tags": {
+    "Adventure": 149,
+    "Puzzle": 144,
+    "Action": 139,
+    "Indie": 136,
+    "Multiple Endings": 132,
+    "Zombies": 126,
+    "Dungeon Crawler": 122,
+    "Cartoony": 120,
+    "Story Rich": 117,
+    "Female Protagonist": 114,
+    "Survival Horror": 111,
+    "Action-Adventure": 109,
+    "Shooter": 105,
+    "RPG": 103,
+    "Exploration": 100,
+    "3D": 95,
+    "Singleplayer": 84,
+    "Third Person": 73,
+    "Lore-Rich": 67,
+    "Drama": 65
+  }
+}

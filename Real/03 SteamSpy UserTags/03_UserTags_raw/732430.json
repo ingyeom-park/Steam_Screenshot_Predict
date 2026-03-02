@@ -1,0 +1,26 @@
+{
+  "appid": 732430,
+  "success": true,
+  "tags": {
+    "Flight": 153,
+    "Indie": 152,
+    "Relaxing": 144,
+    "Casual": 130,
+    "Procedural Generation": 99,
+    "Atmospheric": 91,
+    "Singleplayer": 88,
+    "Action": 66,
+    "Sports": 47,
+    "Physics": 40,
+    "Exploration": 39,
+    "Open World": 39,
+    "Arcade": 38,
+    "Racing": 37,
+    "Parkour": 25,
+    "Fast-Paced": 23,
+    "Simulation": 19,
+    "Score Attack": 17,
+    "Minimalist": 11,
+    "Difficult": 10
+  }
+}

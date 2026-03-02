@@ -1,0 +1,26 @@
+{
+  "appid": 816160,
+  "success": true,
+  "tags": {
+    "Casual": 80,
+    "Sports": 74,
+    "Indie": 71,
+    "Puzzle": 68,
+    "Point & Click": 63,
+    "Arcade": 59,
+    "Clicker": 57,
+    "Side Scroller": 55,
+    "Puzzle-Platformer": 53,
+    "Precision Platformer": 51,
+    "2D": 49,
+    "3D Vision": 47,
+    "Abstract": 45,
+    "Minimalist": 43,
+    "Third Person": 41,
+    "2.5D": 39,
+    "Family Friendly": 37,
+    "Logic": 35,
+    "Time Manipulation": 33,
+    "Score Attack": 31
+  }
+}

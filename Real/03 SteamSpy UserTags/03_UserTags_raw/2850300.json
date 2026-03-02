@@ -1,0 +1,26 @@
+{
+  "appid": 2850300,
+  "success": true,
+  "tags": {
+    "Horror": 114,
+    "Thriller": 108,
+    "Multiple Endings": 105,
+    "Indie": 102,
+    "Action": 99,
+    "Adventure": 93,
+    "Singleplayer": 90,
+    "First-Person": 85,
+    "Puzzle": 83,
+    "Exploration": 81,
+    "Action-Adventure": 77,
+    "3D": 72,
+    "Supernatural": 70,
+    "Dark": 65,
+    "FPS": 58,
+    "RPG": 52,
+    "Dating Sim": 43,
+    "Sexual Content": 38,
+    "Hentai": 28,
+    "Nudity": 26
+  }
+}

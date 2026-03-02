@@ -1,0 +1,20 @@
+{
+  "appid": 433600,
+  "success": true,
+  "tags": {
+    "Action": 39,
+    "Adventure": 34,
+    "Indie": 34,
+    "Action Roguelike": 25,
+    "VR": 24,
+    "Rogue-lite": 20,
+    "FPS": 15,
+    "Replay Value": 14,
+    "Great Soundtrack": 13,
+    "Exploration": 12,
+    "Shooter": 11,
+    "Rogue-like": 7,
+    "Shoot 'Em Up": 6,
+    "Bullet Hell": 6
+  }
+}

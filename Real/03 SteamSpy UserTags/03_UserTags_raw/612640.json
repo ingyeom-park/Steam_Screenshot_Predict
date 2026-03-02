@@ -1,0 +1,26 @@
+{
+  "appid": 612640,
+  "success": true,
+  "tags": {
+    "Action": 213,
+    "Sports": 202,
+    "Basketball": 197,
+    "Arcade": 190,
+    "Local Multiplayer": 187,
+    "4 Player Local": 181,
+    "Local Co-Op": 180,
+    "Indie": 175,
+    "Retro": 167,
+    "Colorful": 166,
+    "Action-Adventure": 163,
+    "Beat 'em up": 159,
+    "3D": 155,
+    "Post-apocalyptic": 150,
+    "Funny": 147,
+    "PvP": 145,
+    "Co-op": 142,
+    "Multiplayer": 138,
+    "Singleplayer": 128,
+    "Difficult": 117
+  }
+}

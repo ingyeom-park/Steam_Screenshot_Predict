@@ -1,0 +1,26 @@
+{
+  "appid": 252630,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 202,
+    "Rogue-like": 195,
+    "Lovecraftian": 186,
+    "Indie": 163,
+    "First-Person": 160,
+    "Horror": 120,
+    "Action": 115,
+    "Rogue-lite": 111,
+    "Adventure": 99,
+    "Singleplayer": 94,
+    "Stealth": 79,
+    "RPG": 79,
+    "Procedural Generation": 71,
+    "FPS": 65,
+    "Female Protagonist": 53,
+    "Exploration": 48,
+    "Immersive Sim": 44,
+    "Pixel Graphics": 42,
+    "Perma Death": 41,
+    "Voxel": 39
+  }
+}

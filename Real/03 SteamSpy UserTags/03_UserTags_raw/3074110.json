@@ -1,0 +1,26 @@
+{
+  "appid": 3074110,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 121,
+    "Pixel Graphics": 119,
+    "2.5D": 118,
+    "Fantasy": 109,
+    "Rogue-like": 104,
+    "Hack and Slash": 98,
+    "Open World": 96,
+    "Character Customization": 90,
+    "JRPG": 89,
+    "Indie": 87,
+    "Medieval": 85,
+    "RPG": 81,
+    "Old School": 71,
+    "Action": 58,
+    "Combat": 57,
+    "Singleplayer": 46,
+    "Action RPG": 43,
+    "Exploration": 43,
+    "Dungeon Crawler": 40,
+    "Rogue-lite": 37
+  }
+}

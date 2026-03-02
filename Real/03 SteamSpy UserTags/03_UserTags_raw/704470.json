@@ -1,0 +1,26 @@
+{
+  "appid": 704470,
+  "success": true,
+  "tags": {
+    "VR": 173,
+    "Physics": 167,
+    "Puzzle": 164,
+    "Destruction": 160,
+    "Family Friendly": 156,
+    "Casual": 148,
+    "Indie": 143,
+    "Level Editor": 137,
+    "Arcade": 128,
+    "Cute": 126,
+    "Cartoony": 117,
+    "Colorful": 115,
+    "Stylized": 113,
+    "Co-op": 109,
+    "Local Co-Op": 94,
+    "Local Multiplayer": 79,
+    "Singleplayer": 63,
+    "Difficult": 61,
+    "Early Access": 44,
+    "Simulation": 29
+  }
+}

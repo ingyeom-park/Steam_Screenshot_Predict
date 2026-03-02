@@ -1,0 +1,25 @@
+{
+  "appid": 2154760,
+  "success": true,
+  "tags": {
+    "Shoot 'Em Up": 110,
+    "Side Scroller": 101,
+    "Pixel Graphics": 97,
+    "Retro": 94,
+    "Action": 91,
+    "Arcade": 85,
+    "2D": 83,
+    "Shooter": 81,
+    "Colorful": 79,
+    "Fantasy": 77,
+    "Mythology": 75,
+    "Sci-fi": 72,
+    "Space": 70,
+    "Controller": 66,
+    "Score Attack": 54,
+    "Singleplayer": 52,
+    "Indie": 48,
+    "Combat": 29,
+    "Bullet Hell": 27
+  }
+}

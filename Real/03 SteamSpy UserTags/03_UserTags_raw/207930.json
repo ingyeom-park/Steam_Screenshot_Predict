@@ -1,0 +1,24 @@
+{
+  "appid": 207930,
+  "success": true,
+  "tags": {
+    "Action": 87,
+    "Beat 'em up": 74,
+    "Local Co-Op": 49,
+    "Side Scroller": 38,
+    "Co-op": 37,
+    "Platformer": 27,
+    "Online Co-Op": 24,
+    "Arcade": 23,
+    "Multiplayer": 21,
+    "Local Multiplayer": 18,
+    "RPG": 16,
+    "2D": 16,
+    "Fighting": 16,
+    "Fantasy": 14,
+    "Controller": 13,
+    "Indie": 12,
+    "Hack and Slash": 12,
+    "Singleplayer": 9
+  }
+}

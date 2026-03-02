@@ -1,0 +1,24 @@
+{
+  "appid": 1695620,
+  "success": true,
+  "tags": {
+    "Automation": 56,
+    "Building": 50,
+    "Physics": 46,
+    "Puzzle": 45,
+    "Programming": 43,
+    "Logic": 35,
+    "2D": 32,
+    "Pixel Graphics": 31,
+    "Retro": 27,
+    "1980s": 26,
+    "Crafting": 23,
+    "Simulation": 22,
+    "Indie": 21,
+    "Grid-Based Movement": 20,
+    "Level Editor": 19,
+    "Singleplayer": 16,
+    "Adventure": 13,
+    "Resource Management": 13
+  }
+}

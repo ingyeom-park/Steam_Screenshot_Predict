@@ -1,0 +1,20 @@
+{
+  "appid": 453270,
+  "success": true,
+  "tags": {
+    "Action": 56,
+    "Adventure": 44,
+    "Indie": 42,
+    "Massively Multiplayer": 38,
+    "Simulation": 37,
+    "Zombies": 23,
+    "Shooter": 22,
+    "Multiplayer": 22,
+    "Building": 20,
+    "FPS": 17,
+    "Horror": 13,
+    "Voxel": 12,
+    "First-Person": 11,
+    "Co-op": 8
+  }
+}

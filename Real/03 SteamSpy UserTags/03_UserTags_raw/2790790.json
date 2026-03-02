@@ -1,0 +1,26 @@
+{
+  "appid": 2790790,
+  "success": true,
+  "tags": {
+    "Indie": 146,
+    "Realistic": 140,
+    "Immersive Sim": 136,
+    "Funny": 133,
+    "Horror": 130,
+    "Psychological": 123,
+    "Atmospheric": 120,
+    "Puzzle": 117,
+    "Escape Room": 113,
+    "Surreal": 105,
+    "Action-Adventure": 99,
+    "Adventure": 95,
+    "FPS": 90,
+    "Exploration": 84,
+    "Controller": 82,
+    "3D": 80,
+    "Singleplayer": 74,
+    "Survival Horror": 64,
+    "Hidden Object": 62,
+    "Mystery": 57
+  }
+}

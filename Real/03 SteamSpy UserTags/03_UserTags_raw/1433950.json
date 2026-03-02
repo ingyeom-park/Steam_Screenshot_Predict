@@ -1,0 +1,26 @@
+{
+  "appid": 1433950,
+  "success": true,
+  "tags": {
+    "Casual": 219,
+    "Racing": 210,
+    "Sports": 207,
+    "Character Action Game": 178,
+    "Strategy RPG": 172,
+    "2D Platformer": 163,
+    "Runner": 157,
+    "2D": 150,
+    "Cartoon": 142,
+    "Colorful": 133,
+    "Cute": 122,
+    "Family Friendly": 119,
+    "Nature": 105,
+    "Old School": 92,
+    "Retro": 77,
+    "Character Customization": 60,
+    "Physics": 42,
+    "Singleplayer": 30,
+    "Sequel": 25,
+    "Indie": 21
+  }
+}

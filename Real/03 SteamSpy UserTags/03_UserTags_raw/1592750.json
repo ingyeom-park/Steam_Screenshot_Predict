@@ -1,0 +1,26 @@
+{
+  "appid": 1592750,
+  "success": true,
+  "tags": {
+    "Adventure": 186,
+    "RPG": 175,
+    "Creature Collector": 175,
+    "JRPG": 163,
+    "Card Battler": 159,
+    "2D": 149,
+    "Pixel Graphics": 144,
+    "Top-Down": 143,
+    "Collectathon": 132,
+    "Colorful": 127,
+    "Cute": 122,
+    "Nonlinear": 118,
+    "Retro": 116,
+    "Futuristic": 110,
+    "Transhumanism": 103,
+    "Singleplayer": 98,
+    "Story Rich": 90,
+    "Exploration": 89,
+    "Indie": 84,
+    "Turn-Based Combat": 69
+  }
+}

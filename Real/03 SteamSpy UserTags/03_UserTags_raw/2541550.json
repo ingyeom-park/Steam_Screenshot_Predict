@@ -1,0 +1,26 @@
+{
+  "appid": 2541550,
+  "success": true,
+  "tags": {
+    "3D Platformer": 223,
+    "Difficult": 217,
+    "Platformer": 213,
+    "Character Customization": 210,
+    "2.5D": 207,
+    "3D": 201,
+    "Funny": 197,
+    "Psychological Horror": 191,
+    "Surreal": 187,
+    "Dark Humor": 184,
+    "Linear": 178,
+    "Controller": 174,
+    "Action": 171,
+    "Casual": 163,
+    "Philosophical": 161,
+    "Indie": 153,
+    "Physics": 147,
+    "Adventure": 137,
+    "Singleplayer": 135,
+    "Multiplayer": 128
+  }
+}

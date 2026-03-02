@@ -1,0 +1,26 @@
+{
+  "appid": 1697720,
+  "success": true,
+  "tags": {
+    "Horror": 201,
+    "Psychological Horror": 193,
+    "First-Person": 192,
+    "Survival Horror": 182,
+    "Stealth": 174,
+    "Nonlinear": 164,
+    "Dark": 161,
+    "Adventure": 152,
+    "Exploration": 151,
+    "Atmospheric": 144,
+    "Casual": 140,
+    "Walking Simulator": 118,
+    "Puzzle": 108,
+    "3D": 92,
+    "Stylized": 79,
+    "Dynamic Narration": 60,
+    "Multiple Endings": 43,
+    "Singleplayer": 29,
+    "Indie": 26,
+    "Survival": 25
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "appid": 699670,
+  "success": true,
+  "tags": {
+    "Indie": 49,
+    "Action": 48,
+    "Metroidvania": 47,
+    "RPG": 46,
+    "Adventure": 43,
+    "Action RPG": 27,
+    "Platformer": 25,
+    "Robots": 24,
+    "2D": 23,
+    "Medieval": 23,
+    "Singleplayer": 21,
+    "Controller": 17,
+    "Side Scroller": 16,
+    "Exploration": 16,
+    "Hand-drawn": 9,
+    "Souls-like": 7
+  }
+}

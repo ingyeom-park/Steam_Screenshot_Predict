@@ -1,0 +1,26 @@
+{
+  "appid": 1632500,
+  "success": true,
+  "tags": {
+    "Action": 204,
+    "Platformer": 195,
+    "Retro": 188,
+    "Precision Platformer": 182,
+    "Difficult": 174,
+    "Indie": 170,
+    "2D": 164,
+    "Gore": 156,
+    "Perma Death": 141,
+    "Side Scroller": 132,
+    "Singleplayer": 122,
+    "2D Platformer": 121,
+    "Mystery Dungeon": 104,
+    "Dungeon Crawler": 90,
+    "Minimalist": 77,
+    "Arcade": 60,
+    "Puzzle": 43,
+    "Old School": 27,
+    "Atmospheric": 27,
+    "Casual": 21
+  }
+}

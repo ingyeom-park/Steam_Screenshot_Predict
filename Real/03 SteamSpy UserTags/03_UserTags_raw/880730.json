@@ -1,0 +1,26 @@
+{
+  "appid": 880730,
+  "success": true,
+  "tags": {
+    "Racing": 155,
+    "Action": 149,
+    "Shooter": 146,
+    "Arcade": 141,
+    "3D Platformer": 138,
+    "Combat Racing": 129,
+    "Flight": 125,
+    "Fast-Paced": 122,
+    "Controller": 118,
+    "3D": 115,
+    "Singleplayer": 113,
+    "Third Person": 110,
+    "Shoot 'Em Up": 101,
+    "Futuristic": 95,
+    "Funny": 93,
+    "Indie": 86,
+    "Quick-Time Events": 39,
+    "Physics": 34,
+    "Gun Customization": 32,
+    "Bullet Time": 29
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 941730,
+  "success": true,
+  "tags": {
+    "Action": 33,
+    "Strategy": 32,
+    "Indie": 31,
+    "Violent": 30,
+    "Gore": 30,
+    "Tower Defense": 24,
+    "Base-Building": 18,
+    "Top-Down": 13,
+    "2D": 12,
+    "GameMaker": 11,
+    "RTS": 11,
+    "Singleplayer": 11,
+    "Resource Management": 10,
+    "Real-Time": 10,
+    "Difficult": 10,
+    "Real Time Tactics": 10,
+    "Great Soundtrack": 10,
+    "Tactical": 10,
+    "War": 10,
+    "Building": 10
+  }
+}

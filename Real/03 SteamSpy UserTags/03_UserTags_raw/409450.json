@@ -1,0 +1,26 @@
+{
+  "appid": 409450,
+  "success": true,
+  "tags": {
+    "Dungeon Crawler": 133,
+    "RPG": 130,
+    "Exploration": 113,
+    "Strategy": 110,
+    "Fantasy": 106,
+    "Old School": 98,
+    "Difficult": 97,
+    "Mystery Dungeon": 95,
+    "Grid-Based Movement": 95,
+    "Combat": 91,
+    "Indie": 89,
+    "First-Person": 86,
+    "Real-Time with Pause": 86,
+    "Party-Based RPG": 80,
+    "Singleplayer": 68,
+    "Adventure": 65,
+    "Retro": 63,
+    "Level Editor": 59,
+    "Rogue-like": 54,
+    "Magic": 54
+  }
+}

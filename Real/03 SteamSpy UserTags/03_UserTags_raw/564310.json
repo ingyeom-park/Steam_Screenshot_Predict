@@ -1,0 +1,26 @@
+{
+  "appid": 564310,
+  "success": true,
+  "tags": {
+    "Action": 117,
+    "Gore": 76,
+    "FPS": 69,
+    "Violent": 64,
+    "Indie": 57,
+    "VR": 49,
+    "Co-op": 49,
+    "Multiplayer": 49,
+    "First-Person": 45,
+    "Shooter": 40,
+    "Comedy": 34,
+    "Singleplayer": 33,
+    "Funny": 26,
+    "Great Soundtrack": 25,
+    "Online Co-Op": 23,
+    "Classic": 22,
+    "Difficult": 17,
+    "Arena Shooter": 15,
+    "Local Co-Op": 13,
+    "Boomer Shooter": 13
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 831070,
+  "success": true,
+  "tags": {
+    "Adventure": 125,
+    "Casual": 119,
+    "Indie": 115,
+    "Mystery": 110,
+    "Puzzle": 106,
+    "Atmospheric": 98,
+    "Magic": 95,
+    "Point & Click": 91,
+    "Hidden Object": 89,
+    "Gothic": 87,
+    "Mystery Dungeon": 81,
+    "Puzzle-Platformer": 80,
+    "Cinematic": 78,
+    "Hand-drawn": 76,
+    "Noir": 74,
+    "Stylized": 72,
+    "Dark": 70,
+    "Dark Fantasy": 68,
+    "Fantasy": 66,
+    "Illuminati": 64
+  }
+}

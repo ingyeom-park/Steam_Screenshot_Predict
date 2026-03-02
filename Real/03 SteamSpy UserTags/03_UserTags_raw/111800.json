@@ -1,0 +1,26 @@
+{
+  "appid": 111800,
+  "success": true,
+  "tags": {
+    "Funny": 167,
+    "Singleplayer": 161,
+    "Platformer": 158,
+    "Puzzle": 155,
+    "Puzzle-Platformer": 152,
+    "Hand-drawn": 146,
+    "2D Platformer": 144,
+    "2D": 140,
+    "Casual": 132,
+    "Indie": 124,
+    "Adventure": 81,
+    "Cute": 66,
+    "Logic": 64,
+    "Colorful": 62,
+    "Robots": 58,
+    "Controller": 54,
+    "Strategy": 52,
+    "Games Workshop": 44,
+    "Difficult": 43,
+    "Retro": 42
+  }
+}

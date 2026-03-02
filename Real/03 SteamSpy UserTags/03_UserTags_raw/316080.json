@@ -1,0 +1,26 @@
+{
+  "appid": 316080,
+  "success": true,
+  "tags": {
+    "Sokoban": 164,
+    "Indie": 158,
+    "Puzzle": 145,
+    "Difficult": 129,
+    "Cute": 124,
+    "Sci-fi": 117,
+    "Futuristic": 114,
+    "Atmospheric": 108,
+    "Top-Down": 104,
+    "Colorful": 97,
+    "Isometric": 94,
+    "Level Editor": 91,
+    "Grid-Based Movement": 88,
+    "Logic": 80,
+    "Adventure": 71,
+    "Strategy": 63,
+    "Transhumanism": 57,
+    "Singleplayer": 53,
+    "Local Co-Op": 47,
+    "Cyberpunk": 45
+  }
+}

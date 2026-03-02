@@ -1,0 +1,26 @@
+{
+  "appid": 1669330,
+  "success": true,
+  "tags": {
+    "Indie": 251,
+    "Story Rich": 225,
+    "Cinematic": 221,
+    "RPG": 220,
+    "Emotional": 216,
+    "Post-apocalyptic": 211,
+    "RPGMaker": 196,
+    "Alternate History": 185,
+    "Adventure": 177,
+    "Soundtrack": 176,
+    "Drama": 168,
+    "CRPG": 145,
+    "JRPG": 143,
+    "Interactive Fiction": 129,
+    "Exploration": 114,
+    "Puzzle": 98,
+    "2D": 81,
+    "Psychological": 63,
+    "Conversation": 44,
+    "Narration": 26
+  }
+}

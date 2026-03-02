@@ -1,0 +1,21 @@
+{
+  "appid": 63200,
+  "success": true,
+  "tags": {
+    "Hero Shooter": 73,
+    "Action": 68,
+    "Third-Person Shooter": 54,
+    "MOBA": 50,
+    "Indie": 49,
+    "Sports": 48,
+    "Strategy": 43,
+    "Multiplayer": 41,
+    "Arena Shooter": 30,
+    "Comedy": 27,
+    "Tower Defense": 25,
+    "Co-op": 25,
+    "Cartoon": 21,
+    "Shooter": 9,
+    "Free to Play": 6
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1084020,
+  "success": true,
+  "tags": {
+    "City Builder": 306,
+    "Simulation": 300,
+    "Pixel Graphics": 291,
+    "Strategy": 289,
+    "Indie": 288,
+    "Sandbox": 284,
+    "Building": 276,
+    "Casual": 269,
+    "Management": 269,
+    "Multiplayer": 264,
+    "Moddable": 261,
+    "Adventure": 260,
+    "Retro": 259,
+    "2D": 250,
+    "Isometric": 249,
+    "Life Sim": 238,
+    "Automobile Sim": 234,
+    "2.5D": 232,
+    "Political Sim": 232,
+    "Exploration": 231
+  }
+}

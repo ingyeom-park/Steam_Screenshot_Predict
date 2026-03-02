@@ -1,0 +1,25 @@
+{
+  "appid": 1388430,
+  "success": true,
+  "tags": {
+    "Adventure": 195,
+    "Arcade": 171,
+    "Experimental": 166,
+    "Character Action Game": 161,
+    "3D Fighter": 154,
+    "Spectacle fighter": 144,
+    "Souls-like": 139,
+    "3D": 130,
+    "3D Vision": 122,
+    "Survival": 113,
+    "Story Rich": 103,
+    "Loot": 100,
+    "Comedy": 89,
+    "Martial Arts": 73,
+    "PvE": 58,
+    "Artificial Intelligence": 41,
+    "Singleplayer": 28,
+    "Perma Death": 27,
+    "Indie": 22
+  }
+}

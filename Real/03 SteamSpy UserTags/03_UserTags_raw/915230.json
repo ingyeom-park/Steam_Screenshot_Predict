@@ -1,0 +1,26 @@
+{
+  "appid": 915230,
+  "success": true,
+  "tags": {
+    "Pinball": 113,
+    "Zombies": 104,
+    "Rogue-lite": 98,
+    "Indie": 94,
+    "Shoot 'Em Up": 91,
+    "Action": 85,
+    "Simulation": 77,
+    "Arcade": 75,
+    "Controller": 75,
+    "Rogue-like": 68,
+    "Character Customization": 68,
+    "Action Roguelike": 65,
+    "Singleplayer": 64,
+    "Casual": 62,
+    "Physics": 61,
+    "Score Attack": 58,
+    "3D": 57,
+    "Cartoony": 54,
+    "Colorful": 51,
+    "Isometric": 48
+  }
+}

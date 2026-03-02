@@ -1,0 +1,26 @@
+{
+  "appid": 386560,
+  "success": true,
+  "tags": {
+    "Rogue-lite": 211,
+    "Shoot 'Em Up": 205,
+    "Spaceships": 202,
+    "Loot": 199,
+    "Side Scroller": 196,
+    "Building": 189,
+    "Character Customization": 188,
+    "Indie": 186,
+    "2D": 184,
+    "Sci-fi": 182,
+    "Physics": 180,
+    "Crafting": 176,
+    "Action": 174,
+    "Space": 169,
+    "Retro": 160,
+    "Procedural Generation": 148,
+    "Arcade": 140,
+    "Local Co-Op": 138,
+    "Singleplayer": 136,
+    "Action RPG": 132
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "appid": 1933700,
+  "success": true,
+  "tags": {
+    "Action": 75,
+    "Adventure": 70,
+    "Platformer": 47,
+    "2D": 44,
+    "2D Platformer": 39,
+    "Pixel Graphics": 32,
+    "Side Scroller": 31,
+    "Memes": 29,
+    "Funny": 26,
+    "Indie": 24,
+    "Family Friendly": 23,
+    "Hacking": 20,
+    "Controller": 19,
+    "Singleplayer": 18,
+    "Difficult": 11,
+    "Psychological Horror": 5
+  }
+}

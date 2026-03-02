@@ -1,0 +1,26 @@
+{
+  "appid": 2882440,
+  "success": true,
+  "tags": {
+    "Shoot 'Em Up": 134,
+    "Shooter": 128,
+    "Action": 124,
+    "Score Attack": 121,
+    "2D Platformer": 113,
+    "Pixel Graphics": 109,
+    "Mechs": 107,
+    "Bullet Hell": 104,
+    "Retro": 102,
+    "Sci-fi": 98,
+    "1990's": 93,
+    "1980s": 86,
+    "2D": 81,
+    "2.5D": 75,
+    "Singleplayer": 69,
+    "Indie": 61,
+    "Arcade": 44,
+    "Top-Down": 38,
+    "Remake": 36,
+    "Great Soundtrack": 34
+  }
+}

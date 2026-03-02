@@ -1,0 +1,26 @@
+{
+  "appid": 456750,
+  "success": true,
+  "tags": {
+    "Puzzle": 282,
+    "Mystery": 174,
+    "Adventure": 107,
+    "Point & Click": 101,
+    "Indie": 87,
+    "Atmospheric": 79,
+    "Singleplayer": 72,
+    "Hidden Object": 55,
+    "Lovecraftian": 49,
+    "Horror": 47,
+    "Dark": 45,
+    "Escape Room": 41,
+    "Story Rich": 40,
+    "Psychological Horror": 37,
+    "Multiple Endings": 36,
+    "First-Person": 23,
+    "3D": 13,
+    "Short": 9,
+    "Casual": 7,
+    "Multiplayer": 5
+  }
+}

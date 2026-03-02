@@ -1,0 +1,26 @@
+{
+  "appid": 493060,
+  "success": true,
+  "tags": {
+    "Action": 35,
+    "Casual": 34,
+    "Indie": 33,
+    "4 Player Local": 21,
+    "Local Co-Op": 21,
+    "Tanks": 20,
+    "Co-op": 18,
+    "Local Multiplayer": 18,
+    "Arcade": 16,
+    "2D": 15,
+    "Twin Stick Shooter": 14,
+    "Multiplayer": 14,
+    "Shoot 'Em Up": 14,
+    "Bullet Hell": 13,
+    "Retro": 13,
+    "Arena Shooter": 13,
+    "Colorful": 13,
+    "Singleplayer": 12,
+    "Top-Down Shooter": 12,
+    "Controller": 11
+  }
+}

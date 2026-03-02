@@ -1,0 +1,20 @@
+{
+  "appid": 838010,
+  "success": true,
+  "tags": {
+    "Action": 44,
+    "Adventure": 44,
+    "Indie": 42,
+    "Platformer": 18,
+    "2D": 16,
+    "Side Scroller": 15,
+    "Cartoony": 15,
+    "Colorful": 14,
+    "Singleplayer": 13,
+    "Female Protagonist": 13,
+    "Aliens": 11,
+    "Space": 11,
+    "Puzzle-Platformer": 11,
+    "Controller": 11
+  }
+}

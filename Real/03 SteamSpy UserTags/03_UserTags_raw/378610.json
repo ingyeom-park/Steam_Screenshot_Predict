@@ -1,0 +1,26 @@
+{
+  "appid": 378610,
+  "success": true,
+  "tags": {
+    "Adventure": 142,
+    "First-Person": 121,
+    "Exploration": 103,
+    "Parkour": 99,
+    "Indie": 91,
+    "Singleplayer": 90,
+    "Action": 87,
+    "Open World": 82,
+    "Atmospheric": 76,
+    "Great Soundtrack": 71,
+    "Sci-fi": 67,
+    "Walking Simulator": 51,
+    "Story Rich": 43,
+    "3D Platformer": 43,
+    "Horror": 33,
+    "Short": 28,
+    "Magic": 21,
+    "Platformer": 21,
+    "Fantasy": 8,
+    "Survival": 8
+  }
+}

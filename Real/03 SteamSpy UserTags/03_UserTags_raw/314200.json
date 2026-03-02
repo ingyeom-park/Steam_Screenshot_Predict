@@ -1,0 +1,26 @@
+{
+  "appid": 314200,
+  "success": true,
+  "tags": {
+    "Visual Novel": 209,
+    "Adventure": 202,
+    "Cyberpunk": 200,
+    "Multiple Endings": 197,
+    "Anime": 192,
+    "Singleplayer": 184,
+    "Sci-fi": 181,
+    "Dating Sim": 172,
+    "Indie": 164,
+    "Romance": 159,
+    "Choices Matter": 153,
+    "Choose Your Own Adventure": 146,
+    "Futuristic": 140,
+    "Robots": 133,
+    "Comedy": 123,
+    "Dark Fantasy": 116,
+    "Science": 105,
+    "Horror": 89,
+    "Story Rich": 76,
+    "Interactive Fiction": 68
+  }
+}

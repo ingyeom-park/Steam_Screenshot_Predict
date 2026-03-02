@@ -1,0 +1,26 @@
+{
+  "appid": 2339930,
+  "success": true,
+  "tags": {
+    "Adventure": 194,
+    "Action": 188,
+    "Action-Adventure": 183,
+    "Choose Your Own Adventure": 178,
+    "Exploration": 173,
+    "3D": 163,
+    "First-Person": 156,
+    "1980s": 150,
+    "1990's": 142,
+    "Atmospheric": 131,
+    "Comedy": 123,
+    "Mystery": 119,
+    "Retro": 109,
+    "Horror": 98,
+    "Psychological Horror": 78,
+    "Story Rich": 59,
+    "Linear": 42,
+    "Singleplayer": 29,
+    "Crime": 24,
+    "Indie": 22
+  }
+}

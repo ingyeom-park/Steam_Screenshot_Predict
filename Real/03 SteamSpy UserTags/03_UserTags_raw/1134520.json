@@ -1,0 +1,26 @@
+{
+  "appid": 1134520,
+  "success": true,
+  "tags": {
+    "Action": 87,
+    "Metroidvania": 80,
+    "Souls-like": 76,
+    "Adventure": 75,
+    "Cyberpunk": 70,
+    "Gore": 65,
+    "Horror": 64,
+    "Platformer": 61,
+    "Sci-fi": 60,
+    "Zombies": 52,
+    "Atmospheric": 51,
+    "Dark": 50,
+    "Indie": 50,
+    "Violent": 49,
+    "Post-apocalyptic": 44,
+    "2D": 41,
+    "Singleplayer": 38,
+    "Difficult": 21,
+    "Great Soundtrack": 17,
+    "2.5D": 16
+  }
+}

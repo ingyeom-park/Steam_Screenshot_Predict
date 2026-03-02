@@ -1,0 +1,26 @@
+{
+  "appid": 1156380,
+  "success": true,
+  "tags": {
+    "Logic": 165,
+    "Story Rich": 156,
+    "Programming": 154,
+    "Indie": 149,
+    "Pixel Graphics": 149,
+    "Adventure": 147,
+    "Point & Click": 137,
+    "Game Development": 134,
+    "Puzzle-Platformer": 127,
+    "Casual": 123,
+    "Side Scroller": 106,
+    "Linear": 104,
+    "Narrative": 95,
+    "Atmospheric": 92,
+    "2.5D": 88,
+    "Emotional": 88,
+    "2D": 87,
+    "Singleplayer": 87,
+    "Soundtrack": 82,
+    "Puzzle": 81
+  }
+}

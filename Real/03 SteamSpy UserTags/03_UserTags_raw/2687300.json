@@ -1,0 +1,26 @@
+{
+  "appid": 2687300,
+  "success": true,
+  "tags": {
+    "Puzzle": 120,
+    "Cute": 114,
+    "Adventure": 111,
+    "Fantasy": 108,
+    "Relaxing": 105,
+    "Isometric": 97,
+    "Puzzle-Platformer": 97,
+    "Exploration": 89,
+    "Point & Click": 87,
+    "Logic": 86,
+    "Family Friendly": 84,
+    "Hidden Object": 82,
+    "3D": 80,
+    "Singleplayer": 78,
+    "Third Person": 76,
+    "Cozy": 74,
+    "Linear": 72,
+    "Atmospheric": 68,
+    "Casual": 67,
+    "Indie": 48
+  }
+}

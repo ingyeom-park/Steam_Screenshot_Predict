@@ -1,0 +1,26 @@
+{
+  "appid": 220860,
+  "success": true,
+  "tags": {
+    "Comedy": 226,
+    "Point & Click": 224,
+    "Indie": 219,
+    "Pixel Graphics": 144,
+    "Puzzle": 138,
+    "Adventure": 114,
+    "Singleplayer": 114,
+    "Funny": 106,
+    "Action": 59,
+    "2D": 56,
+    "Minigames": 54,
+    "Short": 45,
+    "Casual": 44,
+    "Retro": 38,
+    "Level Editor": 33,
+    "Parody ": 31,
+    "Experimental": 27,
+    "Great Soundtrack": 24,
+    "Fast-Paced": 16,
+    "Touch-Friendly": 12
+  }
+}

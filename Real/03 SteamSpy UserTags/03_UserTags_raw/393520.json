@@ -1,0 +1,26 @@
+{
+  "appid": 393520,
+  "success": true,
+  "tags": {
+    "Indie": 168,
+    "Pixel Graphics": 155,
+    "Metroidvania": 153,
+    "Female Protagonist": 145,
+    "Action": 142,
+    "Adventure": 140,
+    "Story Rich": 107,
+    "Platformer": 99,
+    "2D": 98,
+    "Puzzle-Platformer": 90,
+    "Great Soundtrack": 65,
+    "Singleplayer": 58,
+    "Colorful": 54,
+    "Action-Adventure": 49,
+    "Side Scroller": 46,
+    "Puzzle": 35,
+    "Cute": 30,
+    "Sci-fi": 28,
+    "Exploration": 10,
+    "Open World": 5
+  }
+}

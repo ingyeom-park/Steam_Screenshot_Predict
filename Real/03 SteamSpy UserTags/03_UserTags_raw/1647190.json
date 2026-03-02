@@ -1,0 +1,26 @@
+{
+  "appid": 1647190,
+  "success": true,
+  "tags": {
+    "Simulation": 273,
+    "Sandbox": 251,
+    "Cooking": 249,
+    "Immersive Sim": 241,
+    "Farming Sim": 236,
+    "Life Sim": 227,
+    "Post-apocalyptic": 219,
+    "Agriculture": 214,
+    "2D": 201,
+    "Cute": 192,
+    "Pixel Graphics": 189,
+    "Adventure": 171,
+    "Crafting": 171,
+    "Robots": 155,
+    "Inventory Management": 140,
+    "Resource Management": 125,
+    "Building": 106,
+    "Nature": 88,
+    "Collectathon": 68,
+    "Indie": 32
+  }
+}

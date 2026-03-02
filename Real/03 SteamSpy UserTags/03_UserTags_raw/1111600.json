@@ -1,0 +1,26 @@
+{
+  "appid": 1111600,
+  "success": true,
+  "tags": {
+    "Rhythm": 208,
+    "Music": 202,
+    "Action": 199,
+    "Psychedelic": 195,
+    "Electronic": 193,
+    "Atmospheric": 183,
+    "Sci-fi": 180,
+    "Singleplayer": 178,
+    "Colorful": 173,
+    "Abstract": 168,
+    "Surreal": 166,
+    "Arcade": 163,
+    "Anime": 159,
+    "Combat": 157,
+    "Indie": 154,
+    "2.5D": 49,
+    "Great Soundtrack": 37,
+    "Score Attack": 31,
+    "Story Rich": 29,
+    "Fantasy": 27
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 262470,
+  "success": true,
+  "tags": {
+    "Pinball": 199,
+    "RPG": 172,
+    "Physics": 171,
+    "Adventure": 166,
+    "Puzzle": 165,
+    "Casual": 159,
+    "Indie": 152,
+    "Action": 150,
+    "Singleplayer": 145,
+    "Controller": 141,
+    "Arcade": 140,
+    "Fantasy": 136,
+    "Top-Down": 132,
+    "Hack and Slash": 126,
+    "Story Rich": 123,
+    "Stylized": 120,
+    "Funny": 119,
+    "Medieval": 117,
+    "Class-Based": 115,
+    "Action RPG": 111
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appid": 1662570,
+  "success": true,
+  "tags": {
+    "Co-op": 112,
+    "Casual": 103,
+    "Colorful": 100,
+    "Party": 97,
+    "Local Co-Op": 95,
+    "Online Co-Op": 86,
+    "Singleplayer": 84,
+    "Arcade": 78,
+    "Puzzle": 72,
+    "4 Player Local": 71,
+    "Cute": 62,
+    "Action": 58,
+    "Controller": 56,
+    "Simulation": 50,
+    "Indie": 48,
+    "Local Multiplayer": 35,
+    "Multiplayer": 31,
+    "Team-Based": 29,
+    "Party Game": 12
+  }
+}

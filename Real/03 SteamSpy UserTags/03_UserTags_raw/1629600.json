@@ -1,0 +1,26 @@
+{
+  "appid": 1629600,
+  "success": true,
+  "tags": {
+    "Casual": 123,
+    "Cats": 117,
+    "Relaxing": 114,
+    "Puzzle": 111,
+    "Tabletop": 106,
+    "Cozy": 101,
+    "Wholesome": 99,
+    "Logic": 96,
+    "Cute": 90,
+    "Hidden Object": 87,
+    "Hand-drawn": 83,
+    "Minimalist": 80,
+    "Colorful": 78,
+    "Funny": 75,
+    "Solitaire": 72,
+    "Comedy": 68,
+    "Family Friendly": 59,
+    "Singleplayer": 53,
+    "Indie": 50,
+    "Atmospheric": 39
+  }
+}

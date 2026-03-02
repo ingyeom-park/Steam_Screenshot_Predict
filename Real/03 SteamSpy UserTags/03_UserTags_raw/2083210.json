@@ -1,0 +1,26 @@
+{
+  "appid": 2083210,
+  "success": true,
+  "tags": {
+    "Racing": 227,
+    "Sports": 215,
+    "Arcade": 189,
+    "2.5D": 181,
+    "Colorful": 175,
+    "Top-Down": 169,
+    "Isometric": 162,
+    "Split Screen": 150,
+    "1980s": 142,
+    "1990's": 134,
+    "Retro": 123,
+    "Driving": 123,
+    "Old School": 107,
+    "Resource Management": 93,
+    "PvP": 78,
+    "4 Player Local": 65,
+    "Multiplayer": 47,
+    "Singleplayer": 28,
+    "Local Multiplayer": 28,
+    "Indie": 23
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appid": 950300,
+  "success": true,
+  "tags": {
+    "Action": 34,
+    "Adventure": 33,
+    "Female Protagonist": 22,
+    "Metroidvania": 21,
+    "Pixel Graphics": 20,
+    "Post-apocalyptic": 18,
+    "Atmospheric": 18,
+    "2D": 17,
+    "Horror": 16,
+    "Sci-fi": 15,
+    "Dark": 15,
+    "Difficult": 14,
+    "Indie": 14,
+    "Exploration": 13,
+    "Unforgiving": 12,
+    "Nonlinear": 12,
+    "Immersive": 11,
+    "Side Scroller": 5,
+    "Survival Horror": 5
+  }
+}

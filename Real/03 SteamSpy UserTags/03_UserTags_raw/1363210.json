@@ -1,0 +1,26 @@
+{
+  "appid": 1363210,
+  "success": true,
+  "tags": {
+    "Indie": 208,
+    "Turn-Based Tactics": 195,
+    "Strategy": 189,
+    "Turn-Based Strategy": 187,
+    "Strategy RPG": 181,
+    "Turn-Based Combat": 179,
+    "Pixel Graphics": 173,
+    "Colorful": 172,
+    "Fantasy": 168,
+    "Class-Based": 167,
+    "Tactical": 160,
+    "Retro": 155,
+    "Local Multiplayer": 150,
+    "Multiplayer": 142,
+    "Singleplayer": 135,
+    "RPG": 132,
+    "Tactical RPG": 113,
+    "Rogue-lite": 109,
+    "Rogue-like": 103,
+    "PvP": 100
+  }
+}

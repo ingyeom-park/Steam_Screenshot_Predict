@@ -1,0 +1,26 @@
+{
+  "appid": 299660,
+  "success": true,
+  "tags": {
+    "Indie": 109,
+    "Action": 103,
+    "Casual": 101,
+    "Platformer": 97,
+    "Short": 96,
+    "2D": 87,
+    "Singleplayer": 84,
+    "Experimental": 81,
+    "Puzzle-Platformer": 79,
+    "Minimalist": 79,
+    "Atmospheric": 75,
+    "Soundtrack": 72,
+    "Family Friendly": 70,
+    "Music": 66,
+    "Controller": 64,
+    "Retro": 56,
+    "Steam Machine": 53,
+    "2D Platformer": 50,
+    "Great Soundtrack": 46,
+    "Space": 42
+  }
+}

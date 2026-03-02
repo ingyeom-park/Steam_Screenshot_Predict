@@ -1,0 +1,26 @@
+{
+  "appid": 2352040,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 194,
+    "Casual": 193,
+    "Pixel Graphics": 189,
+    "Bullet Hell": 185,
+    "Rogue-lite": 180,
+    "RPG": 176,
+    "2D": 164,
+    "Action": 151,
+    "Magic": 148,
+    "Rogue-like": 139,
+    "Third Person": 120,
+    "Fantasy": 118,
+    "Strategy": 111,
+    "Singleplayer": 105,
+    "Top-Down": 76,
+    "Combat": 60,
+    "Action-Adventure": 43,
+    "Action RPG": 27,
+    "Cartoony": 25,
+    "Indie": 21
+  }
+}

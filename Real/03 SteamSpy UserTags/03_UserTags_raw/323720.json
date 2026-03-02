@@ -1,0 +1,21 @@
+{
+  "appid": 323720,
+  "success": true,
+  "tags": {
+    "Adventure": 69,
+    "Horror": 63,
+    "Indie": 62,
+    "Point & Click": 55,
+    "Psychological Horror": 36,
+    "Puzzle": 27,
+    "Singleplayer": 20,
+    "Multiplayer": 17,
+    "Atmospheric": 14,
+    "Psychological": 14,
+    "First-Person": 12,
+    "Story Rich": 11,
+    "Escape Room": 11,
+    "Dark": 6,
+    "Exploration": 5
+  }
+}

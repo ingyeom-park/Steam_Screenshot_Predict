@@ -1,0 +1,26 @@
+{
+  "appid": 233610,
+  "success": true,
+  "tags": {
+    "Racing": 336,
+    "Great Soundtrack": 207,
+    "Futuristic": 180,
+    "Multiplayer": 160,
+    "Level Editor": 157,
+    "Indie": 150,
+    "Action": 136,
+    "Atmospheric": 126,
+    "Fast-Paced": 119,
+    "Singleplayer": 116,
+    "Arcade": 114,
+    "Cyberpunk": 112,
+    "Sci-fi": 94,
+    "Local Multiplayer": 94,
+    "Split Screen": 80,
+    "Platformer": 78,
+    "Survival": 73,
+    "Horror": 50,
+    "VR": 46,
+    "4 Player Local": 45
+  }
+}

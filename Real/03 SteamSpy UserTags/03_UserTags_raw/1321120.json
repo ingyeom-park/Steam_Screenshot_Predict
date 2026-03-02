@@ -1,0 +1,26 @@
+{
+  "appid": 1321120,
+  "success": true,
+  "tags": {
+    "Adventure": 262,
+    "Horror": 256,
+    "Point & Click": 253,
+    "Cute": 251,
+    "Mystery": 247,
+    "Emotional": 240,
+    "Story Rich": 237,
+    "Drama": 234,
+    "Casual": 230,
+    "Visual Novel": 226,
+    "Multiple Endings": 223,
+    "Interactive Fiction": 221,
+    "Hidden Object": 218,
+    "Indie": 215,
+    "Exploration": 210,
+    "Choose Your Own Adventure": 207,
+    "Puzzle": 201,
+    "Cinematic": 191,
+    "Hand-drawn": 184,
+    "2D": 167
+  }
+}

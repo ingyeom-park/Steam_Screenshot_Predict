@@ -1,0 +1,15 @@
+{
+  "appid": 1025250,
+  "success": true,
+  "tags": {
+    "Horror": 55,
+    "Action": 35,
+    "Indie": 35,
+    "First-Person": 24,
+    "Psychological Horror": 21,
+    "Singleplayer": 20,
+    "Survival Horror": 18,
+    "Multiplayer": 12,
+    "Rogue-like": 10
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "appid": 1565670,
+  "success": true,
+  "tags": {
+    "Strategy": 127,
+    "RTS": 111,
+    "Singleplayer": 95,
+    "Action RTS": 90,
+    "Sci-fi": 87,
+    "Space": 75,
+    "Indie": 72,
+    "Moddable": 69,
+    "Isometric": 64,
+    "Aliens": 61,
+    "Violent": 58,
+    "Artificial Intelligence": 55,
+    "Combat": 53,
+    "Narration": 51,
+    "Old School": 49,
+    "1990's": 48,
+    "Retro": 45,
+    "Base-Building": 43,
+    "Story Rich": 40,
+    "City Builder": 31
+  }
+}

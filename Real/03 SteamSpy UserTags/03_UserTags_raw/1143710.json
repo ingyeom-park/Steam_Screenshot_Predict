@@ -1,0 +1,26 @@
+{
+  "appid": 1143710,
+  "success": true,
+  "tags": {
+    "Indie": 412,
+    "Adventure": 406,
+    "Nudity": 404,
+    "Violent": 400,
+    "Gore": 397,
+    "Sexual Content": 389,
+    "Platformer": 384,
+    "Story Rich": 382,
+    "Pixel Graphics": 377,
+    "Atmospheric": 373,
+    "Dark Humor": 369,
+    "Singleplayer": 366,
+    "Action-Adventure": 361,
+    "Horror": 355,
+    "Arcade": 352,
+    "Hidden Object": 344,
+    "Souls-like": 341,
+    "2D Platformer": 339,
+    "Beat 'em up": 335,
+    "Side Scroller": 331
+  }
+}

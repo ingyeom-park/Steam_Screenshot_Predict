@@ -1,0 +1,26 @@
+{
+  "appid": 836080,
+  "success": true,
+  "tags": {
+    "Indie": 104,
+    "VR": 98,
+    "Action": 95,
+    "Shooter": 70,
+    "Arcade": 67,
+    "FPS": 60,
+    "Shoot 'Em Up": 57,
+    "Bullet Hell": 55,
+    "World War II": 53,
+    "War": 51,
+    "Military": 49,
+    "Retro": 47,
+    "Atmospheric": 45,
+    "Post-apocalyptic": 43,
+    "Female Protagonist": 41,
+    "Rogue-lite": 39,
+    "Immersive Sim": 37,
+    "Boomer Shooter": 35,
+    "First-Person": 33,
+    "Singleplayer": 31
+  }
+}

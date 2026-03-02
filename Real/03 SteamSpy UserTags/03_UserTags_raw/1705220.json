@@ -1,0 +1,26 @@
+{
+  "appid": 1705220,
+  "success": true,
+  "tags": {
+    "Adventure": 160,
+    "RPG": 154,
+    "Action-Adventure": 150,
+    "Action RPG": 147,
+    "Choose Your Own Adventure": 144,
+    "2D": 137,
+    "Hand-drawn": 134,
+    "Drama": 131,
+    "Historical": 128,
+    "Action": 123,
+    "Indie": 119,
+    "Story Rich": 117,
+    "Turn-Based Combat": 114,
+    "Multiple Endings": 109,
+    "Sexual Content": 106,
+    "Singleplayer": 99,
+    "2D Fighter": 92,
+    "Strategy RPG": 88,
+    "Puzzle": 86,
+    "CRPG": 83
+  }
+}

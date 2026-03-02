@@ -1,0 +1,26 @@
+{
+  "appid": 2164780,
+  "success": true,
+  "tags": {
+    "Strategy": 293,
+    "Casual": 286,
+    "Hex Grid": 269,
+    "Board Game": 259,
+    "Relaxing": 254,
+    "City Builder": 243,
+    "Singleplayer": 237,
+    "Medieval": 228,
+    "3D": 219,
+    "First-Person": 198,
+    "Minimalist": 188,
+    "Puzzle": 176,
+    "Top-Down": 158,
+    "Agriculture": 142,
+    "Atmospheric": 124,
+    "Building": 108,
+    "Historical": 87,
+    "Logic": 67,
+    "Nature": 46,
+    "Indie": 30
+  }
+}

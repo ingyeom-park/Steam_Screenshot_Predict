@@ -1,0 +1,22 @@
+{
+  "appid": 1458000,
+  "success": true,
+  "tags": {
+    "Action": 63,
+    "3D Platformer": 53,
+    "Platformer": 46,
+    "First-Person": 41,
+    "Runner": 36,
+    "Parkour": 32,
+    "Precision Platformer": 29,
+    "Rogue-lite": 26,
+    "3D": 25,
+    "Minimalist": 23,
+    "Indie": 21,
+    "Singleplayer": 21,
+    "Difficult": 19,
+    "Soundtrack": 17,
+    "Racing": 14,
+    "Survival": 12
+  }
+}

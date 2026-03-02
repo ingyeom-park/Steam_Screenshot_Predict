@@ -1,0 +1,17 @@
+{
+  "appid": 329380,
+  "success": true,
+  "tags": {
+    "Indie": 57,
+    "Action": 46,
+    "Stealth": 46,
+    "Platformer": 45,
+    "Adventure": 43,
+    "Puzzle": 34,
+    "Puzzle-Platformer": 22,
+    "Singleplayer": 18,
+    "Metroidvania": 16,
+    "2D": 13,
+    "Side Scroller": 6
+  }
+}

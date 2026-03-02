@@ -1,0 +1,26 @@
+{
+  "appid": 1331340,
+  "success": true,
+  "tags": {
+    "Strategy": 189,
+    "RPG": 182,
+    "Indie": 175,
+    "Rogue-lite": 172,
+    "Difficult": 166,
+    "2D": 160,
+    "Turn-Based Combat": 158,
+    "Fantasy": 156,
+    "Dark Fantasy": 150,
+    "Class-Based": 144,
+    "Singleplayer": 139,
+    "Replay Value": 135,
+    "Turn-Based Strategy": 127,
+    "Rogue-like": 118,
+    "Colorful": 90,
+    "Turn-Based Tactics": 87,
+    "Minimalist": 85,
+    "Stylized": 82,
+    "Time Travel": 79,
+    "Adventure": 54
+  }
+}

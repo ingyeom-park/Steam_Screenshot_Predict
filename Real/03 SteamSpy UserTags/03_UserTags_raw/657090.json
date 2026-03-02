@@ -1,0 +1,23 @@
+{
+  "appid": 657090,
+  "success": true,
+  "tags": {
+    "Strategy": 58,
+    "RPG": 49,
+    "Indie": 44,
+    "Rogue-lite": 41,
+    "Turn-Based": 38,
+    "Singleplayer": 34,
+    "Turn-Based Combat": 30,
+    "Dungeon Crawler": 23,
+    "Party-Based RPG": 20,
+    "Rogue-like": 17,
+    "Turn-Based Tactics": 17,
+    "Procedural Generation": 16,
+    "2D": 14,
+    "Fantasy": 11,
+    "Strategy RPG": 11,
+    "Difficult": 10,
+    "Replay Value": 10
+  }
+}

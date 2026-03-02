@@ -1,0 +1,26 @@
+{
+  "appid": 975620,
+  "success": true,
+  "tags": {
+    "Simulation": 132,
+    "Puzzle": 126,
+    "Hacking": 125,
+    "Adventure": 116,
+    "Atmospheric": 113,
+    "Story Rich": 107,
+    "Exploration": 104,
+    "Typing": 102,
+    "Indie": 97,
+    "Mystery": 95,
+    "Singleplayer": 92,
+    "Dark": 90,
+    "Interactive Fiction": 87,
+    "Immersive Sim": 85,
+    "2D": 81,
+    "FMV": 74,
+    "Horror": 73,
+    "Realistic": 59,
+    "Violent": 54,
+    "Text-Based": 38
+  }
+}

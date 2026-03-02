@@ -1,0 +1,20 @@
+{
+  "appid": 603020,
+  "success": true,
+  "tags": {
+    "Action": 41,
+    "Indie": 38,
+    "RPG": 36,
+    "Metroidvania": 35,
+    "Lovecraftian": 22,
+    "2D": 21,
+    "Platformer": 10,
+    "Pixel Graphics": 10,
+    "Psychological Horror": 9,
+    "Souls-like": 9,
+    "Horror": 7,
+    "Difficult": 5,
+    "Anime": 5,
+    "Singleplayer": 5
+  }
+}

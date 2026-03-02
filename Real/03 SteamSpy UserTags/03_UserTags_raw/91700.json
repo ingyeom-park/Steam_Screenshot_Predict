@@ -1,0 +1,26 @@
+{
+  "appid": 91700,
+  "success": true,
+  "tags": {
+    "Cyberpunk": 499,
+    "RPG": 381,
+    "FPS": 342,
+    "Action": 251,
+    "Co-op": 220,
+    "Indie": 203,
+    "Singleplayer": 151,
+    "Hacking": 150,
+    "Sci-fi": 146,
+    "Multiplayer": 129,
+    "Immersive Sim": 117,
+    "First-Person": 114,
+    "Surreal": 93,
+    "Atmospheric": 87,
+    "Shooter": 74,
+    "Action RPG": 68,
+    "Online Co-Op": 66,
+    "Stealth": 50,
+    "Story Rich": 49,
+    "Adventure": 44
+  }
+}

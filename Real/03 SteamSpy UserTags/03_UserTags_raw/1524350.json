@@ -1,0 +1,26 @@
+{
+  "appid": 1524350,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 265,
+    "Metroidvania": 256,
+    "Shooter": 254,
+    "Female Protagonist": 252,
+    "2D": 248,
+    "Controller": 240,
+    "Post-apocalyptic": 240,
+    "Pixel Graphics": 238,
+    "Action": 235,
+    "Procedural Generation": 235,
+    "Fantasy": 230,
+    "Retro": 222,
+    "Singleplayer": 218,
+    "Indie": 214,
+    "Platformer": 208,
+    "Beat 'em up": 200,
+    "2D Platformer": 196,
+    "Rogue-like": 196,
+    "Roguevania": 193,
+    "Bullet Hell": 191
+  }
+}

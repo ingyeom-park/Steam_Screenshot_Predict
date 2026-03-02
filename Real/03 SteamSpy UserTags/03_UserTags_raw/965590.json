@@ -1,0 +1,26 @@
+{
+  "appid": 965590,
+  "success": true,
+  "tags": {
+    "Board Game": 175,
+    "Tabletop": 172,
+    "Strategy": 169,
+    "Logic": 164,
+    "Puzzle": 161,
+    "Colorful": 155,
+    "Relaxing": 149,
+    "Match 3": 147,
+    "Indie": 146,
+    "Casual": 105,
+    "Touch-Friendly": 102,
+    "Turn-Based Strategy": 100,
+    "Singleplayer": 98,
+    "PvP": 95,
+    "2D": 73,
+    "Abstract": 59,
+    "Multiplayer": 48,
+    "PvE": 47,
+    "Turn-Based": 39,
+    "Dice": 9
+  }
+}

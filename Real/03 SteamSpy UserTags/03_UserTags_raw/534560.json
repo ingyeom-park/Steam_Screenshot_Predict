@@ -1,0 +1,25 @@
+{
+  "appid": 534560,
+  "success": true,
+  "tags": {
+    "Casual": 80,
+    "Indie": 74,
+    "Puzzle": 70,
+    "Minimalist": 67,
+    "Difficult": 64,
+    "2.5D": 58,
+    "Cute": 56,
+    "Stylized": 54,
+    "Top-Down": 52,
+    "Linear": 49,
+    "Singleplayer": 47,
+    "Abstract": 44,
+    "Atmospheric": 42,
+    "Isometric": 38,
+    "Logic": 35,
+    "Mouse only": 33,
+    "Point & Click": 30,
+    "Short": 29,
+    "Story Rich": 27
+  }
+}

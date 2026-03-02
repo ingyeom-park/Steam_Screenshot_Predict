@@ -1,0 +1,26 @@
+{
+  "appid": 301840,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 150,
+    "Swordplay": 144,
+    "Rogue-like": 142,
+    "First-Person": 140,
+    "Singleplayer": 134,
+    "Perma Death": 126,
+    "Action": 125,
+    "Procedural Generation": 121,
+    "Difficult": 117,
+    "FPS": 116,
+    "3D": 112,
+    "Adventure": 101,
+    "Dungeon Crawler": 96,
+    "Fantasy": 85,
+    "Atmospheric": 78,
+    "Character Action Game": 74,
+    "Indie": 69,
+    "Rogue-lite": 63,
+    "Action-Adventure": 33,
+    "Early Access": 30
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "appid": 1240610,
+  "success": true,
+  "tags": {
+    "Casual": 68,
+    "Adventure": 62,
+    "RPG": 59,
+    "Sandbox": 35,
+    "Exploration": 32,
+    "2D": 27,
+    "Fantasy": 25,
+    "Martial Arts": 23,
+    "Turn-Based Tactics": 21,
+    "Indie": 20,
+    "Turn-Based Combat": 19,
+    "Open World": 16,
+    "Singleplayer": 15,
+    "RPGMaker": 5
+  }
+}

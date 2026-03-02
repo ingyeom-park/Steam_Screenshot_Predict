@@ -1,0 +1,24 @@
+{
+  "appid": 528070,
+  "success": true,
+  "tags": {
+    "Casual": 90,
+    "Strategy": 76,
+    "Indie": 73,
+    "Card Game": 70,
+    "Solitaire": 67,
+    "Board Game": 64,
+    "Singleplayer": 58,
+    "Puzzle": 53,
+    "2D": 50,
+    "Colorful": 47,
+    "Simulation": 47,
+    "Sports": 45,
+    "Relaxing": 43,
+    "Logic": 37,
+    "Nature": 35,
+    "Romance": 33,
+    "PvE": 31,
+    "Remake": 29
+  }
+}

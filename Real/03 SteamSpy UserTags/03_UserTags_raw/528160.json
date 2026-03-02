@@ -1,0 +1,26 @@
+{
+  "appid": 528160,
+  "success": true,
+  "tags": {
+    "Top-Down Shooter": 141,
+    "Twin Stick Shooter": 135,
+    "Local Co-Op": 133,
+    "Futuristic": 129,
+    "Action": 123,
+    "Zombies": 115,
+    "Shooter": 113,
+    "Singleplayer": 110,
+    "Aliens": 108,
+    "Isometric": 105,
+    "Co-op": 101,
+    "Controller": 96,
+    "Atmospheric": 91,
+    "Multiplayer": 86,
+    "Local Multiplayer": 79,
+    "Sci-fi": 76,
+    "Top-Down": 69,
+    "Story Rich": 64,
+    "Indie": 57,
+    "RPG": 51
+  }
+}

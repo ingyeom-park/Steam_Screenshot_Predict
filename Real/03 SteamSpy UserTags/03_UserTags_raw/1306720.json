@@ -1,0 +1,26 @@
+{
+  "appid": 1306720,
+  "success": true,
+  "tags": {
+    "Action": 182,
+    "Beat 'em up": 177,
+    "Side Scroller": 174,
+    "Choose Your Own Adventure": 166,
+    "Arcade": 164,
+    "Action-Adventure": 154,
+    "2D": 153,
+    "Comic Book": 147,
+    "Choices Matter": 145,
+    "Co-op": 144,
+    "Multiple Endings": 143,
+    "Retro": 131,
+    "Local Multiplayer": 128,
+    "Local Co-Op": 124,
+    "Singleplayer": 118,
+    "Multiplayer": 117,
+    "Adventure": 116,
+    "Indie": 111,
+    "Fighting": 90,
+    "Hand-drawn": 79
+  }
+}

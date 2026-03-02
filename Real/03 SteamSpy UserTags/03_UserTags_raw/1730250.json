@@ -1,0 +1,26 @@
+{
+  "appid": 1730250,
+  "success": true,
+  "tags": {
+    "City Builder": 302,
+    "Building": 294,
+    "Relaxing": 293,
+    "Procedural Generation": 293,
+    "Indie": 280,
+    "Minimalist": 279,
+    "Stylized": 268,
+    "Colorful": 251,
+    "Colony Sim": 242,
+    "Casual": 238,
+    "Singleplayer": 232,
+    "Sandbox": 225,
+    "Base-Building": 198,
+    "Strategy": 186,
+    "Design & Illustration": 185,
+    "Cartoony": 181,
+    "Simulation": 152,
+    "Cute": 151,
+    "Experimental": 112,
+    "Turn-Based Tactics": 88
+  }
+}

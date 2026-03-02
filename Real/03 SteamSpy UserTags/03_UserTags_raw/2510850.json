@@ -1,0 +1,26 @@
+{
+  "appid": 2510850,
+  "success": true,
+  "tags": {
+    "Action Roguelike": 118,
+    "Hack and Slash": 113,
+    "Dungeon Crawler": 109,
+    "Rogue-lite": 105,
+    "Arcade": 103,
+    "Action RPG": 92,
+    "Rogue-like": 87,
+    "RPG": 85,
+    "Third Person": 83,
+    "3D": 82,
+    "Horror": 79,
+    "Action": 77,
+    "Stylized": 75,
+    "Loot": 72,
+    "Mythology": 69,
+    "Adventure": 67,
+    "Singleplayer": 65,
+    "Replay Value": 63,
+    "Indie": 58,
+    "Gore": 55
+  }
+}

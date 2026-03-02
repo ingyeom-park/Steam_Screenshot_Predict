@@ -1,0 +1,26 @@
+{
+  "appid": 408400,
+  "success": true,
+  "tags": {
+    "RPG": 111,
+    "Indie": 106,
+    "Turn-Based": 102,
+    "Dungeon Crawler": 101,
+    "Party-Based RPG": 97,
+    "First-Person": 92,
+    "Grid-Based Movement": 86,
+    "Fantasy": 80,
+    "Retro": 76,
+    "Singleplayer": 73,
+    "CRPG": 69,
+    "Hand-drawn": 66,
+    "Turn-Based Combat": 65,
+    "Adventure": 59,
+    "Bullet Hell": 43,
+    "Action": 38,
+    "Female Protagonist": 34,
+    "Co-op": 31,
+    "Stealth": 30,
+    "Point & Click": 27
+  }
+}

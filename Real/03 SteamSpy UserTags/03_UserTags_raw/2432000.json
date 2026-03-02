@@ -1,0 +1,21 @@
+{
+  "appid": 2432000,
+  "success": true,
+  "tags": {
+    "Online Co-Op": 43,
+    "Multiplayer": 40,
+    "Adventure": 38,
+    "Survival Horror": 37,
+    "Psychological Horror": 34,
+    "Action": 31,
+    "Indie": 31,
+    "Gore": 31,
+    "Exploration": 28,
+    "Dark": 26,
+    "Singleplayer": 24,
+    "First-Person": 20,
+    "Action-Adventure": 16,
+    "Early Access": 13,
+    "Horror": 11
+  }
+}

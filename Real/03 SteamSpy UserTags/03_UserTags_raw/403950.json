@@ -1,0 +1,20 @@
+{
+  "appid": 403950,
+  "success": true,
+  "tags": {
+    "Strategy": 49,
+    "Indie": 46,
+    "Turn-Based": 32,
+    "Fantasy": 28,
+    "Turn-Based Strategy": 25,
+    "4X": 21,
+    "Singleplayer": 17,
+    "Multiplayer": 16,
+    "Rogue-like": 15,
+    "Magic": 15,
+    "Moddable": 14,
+    "Dwarf": 14,
+    "Local Multiplayer": 13,
+    "Local Co-Op": 11
+  }
+}

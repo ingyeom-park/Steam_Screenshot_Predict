@@ -1,0 +1,26 @@
+{
+  "appid": 620410,
+  "success": true,
+  "tags": {
+    "Adventure": 186,
+    "Puzzle": 180,
+    "Point & Click": 177,
+    "2D": 169,
+    "Indie": 168,
+    "Third Person": 160,
+    "Story Rich": 159,
+    "Surreal": 157,
+    "Cyberpunk": 151,
+    "Transhumanism": 144,
+    "Sci-fi": 135,
+    "Psychedelic": 123,
+    "Narration": 116,
+    "Old School": 111,
+    "Mystery": 107,
+    "Singleplayer": 101,
+    "Conversation": 91,
+    "Futuristic": 88,
+    "Funny": 75,
+    "Comedy": 73
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "appid": 253150,
+  "success": true,
+  "tags": {
+    "RPG": 84,
+    "Strategy": 78,
+    "Indie": 66,
+    "Action": 56,
+    "Turn-Based": 50,
+    "Pixel Graphics": 46,
+    "Sci-fi": 39,
+    "Turn-Based Strategy": 36,
+    "Tactical": 21,
+    "Space": 16,
+    "Singleplayer": 13,
+    "2D": 12,
+    "Turn-Based Tactics": 11,
+    "Top-Down": 8,
+    "Futuristic": 6
+  }
+}

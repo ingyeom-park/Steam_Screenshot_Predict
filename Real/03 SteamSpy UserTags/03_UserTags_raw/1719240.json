@@ -1,0 +1,26 @@
+{
+  "appid": 1719240,
+  "success": true,
+  "tags": {
+    "Base-Building": 122,
+    "Strategy": 115,
+    "Resource Management": 112,
+    "Building": 109,
+    "Tower Defense": 105,
+    "Mining": 98,
+    "Crafting": 96,
+    "Simulation": 94,
+    "Automation": 93,
+    "Management": 90,
+    "Robots": 86,
+    "Colony Sim": 83,
+    "Cute": 79,
+    "Fantasy": 78,
+    "Indie": 71,
+    "Family Friendly": 62,
+    "Singleplayer": 52,
+    "2D": 47,
+    "Action RTS": 44,
+    "Casual": 41
+  }
+}

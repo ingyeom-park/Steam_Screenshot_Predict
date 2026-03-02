@@ -1,0 +1,26 @@
+{
+  "appid": 400660,
+  "success": true,
+  "tags": {
+    "Tactical RPG": 191,
+    "Dungeon Crawler": 184,
+    "Turn-Based Strategy": 179,
+    "Strategy RPG": 175,
+    "Fantasy": 172,
+    "Villain Protagonist": 166,
+    "Strategy": 159,
+    "RPG": 154,
+    "Action": 149,
+    "2D": 147,
+    "Turn-Based Combat": 141,
+    "Turn-Based Tactics": 136,
+    "Casual": 125,
+    "Turn-Based": 121,
+    "Adventure": 119,
+    "Anime": 110,
+    "Tactical": 109,
+    "Survival": 101,
+    "Singleplayer": 92,
+    "Indie": 56
+  }
+}

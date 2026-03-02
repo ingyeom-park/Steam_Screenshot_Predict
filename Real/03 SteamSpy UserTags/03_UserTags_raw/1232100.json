@@ -1,0 +1,26 @@
+{
+  "appid": 1232100,
+  "success": true,
+  "tags": {
+    "Rogue-lite": 193,
+    "Shoot 'Em Up": 190,
+    "Top-Down Shooter": 186,
+    "Bullet Hell": 180,
+    "Rogue-like": 174,
+    "Pixel Graphics": 173,
+    "Arcade": 156,
+    "2D": 152,
+    "Perma Death": 151,
+    "Space": 148,
+    "Sci-fi": 145,
+    "Retro": 141,
+    "Score Attack": 139,
+    "Shooter": 136,
+    "Action": 130,
+    "Character Customization": 129,
+    "Top-Down": 123,
+    "Indie": 113,
+    "Adventure": 97,
+    "Action Roguelike": 69
+  }
+}

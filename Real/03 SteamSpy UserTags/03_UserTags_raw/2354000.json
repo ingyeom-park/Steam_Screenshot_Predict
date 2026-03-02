@@ -1,0 +1,26 @@
+{
+  "appid": 2354000,
+  "success": true,
+  "tags": {
+    "Indie": 382,
+    "Simulation": 380,
+    "Casual": 371,
+    "Driving": 360,
+    "Funny": 357,
+    "Skateboarding": 342,
+    "Physics": 339,
+    "Third Person": 336,
+    "Colorful": 335,
+    "Stylized": 333,
+    "Difficult": 329,
+    "Time Attack": 325,
+    "Multiplayer": 322,
+    "Arcade": 318,
+    "Tutorial": 305,
+    "Singleplayer": 292,
+    "3D": 289,
+    "First-Person": 280,
+    "Controller": 280,
+    "Racing": 266
+  }
+}

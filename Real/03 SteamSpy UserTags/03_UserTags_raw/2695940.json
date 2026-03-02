@@ -1,0 +1,26 @@
+{
+  "appid": 2695940,
+  "success": true,
+  "tags": {
+    "Horror": 464,
+    "Online Co-Op": 379,
+    "Multiplayer": 337,
+    "Psychological Horror": 272,
+    "First-Person": 178,
+    "PvE": 171,
+    "Action Roguelike": 152,
+    "Stealth": 146,
+    "Singleplayer": 142,
+    "Action-Adventure": 136,
+    "Co-op": 133,
+    "Action": 127,
+    "Rogue-lite": 121,
+    "Atmospheric": 120,
+    "Casual": 112,
+    "Psychological": 111,
+    "Survival": 109,
+    "Dark": 104,
+    "Adventure": 83,
+    "Indie": 74
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "appid": 1333200,
+  "success": true,
+  "tags": {
+    "Adventure": 152,
+    "Story Rich": 104,
+    "Exploration": 103,
+    "Puzzle": 101,
+    "Fantasy": 100,
+    "Singleplayer": 91,
+    "Stylized": 72,
+    "Emotional": 67,
+    "Puzzle-Platformer": 66,
+    "Cute": 62,
+    "Cartoony": 58,
+    "Action": 54,
+    "RPG": 44,
+    "Family Friendly": 40,
+    "Indie": 38,
+    "Comedy": 38,
+    "Open World": 27,
+    "Simulation": 25
+  }
+}

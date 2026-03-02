@@ -1,0 +1,26 @@
+{
+  "appid": 253650,
+  "success": true,
+  "tags": {
+    "Casual": 137,
+    "Indie": 121,
+    "Simulation": 108,
+    "Action": 99,
+    "Singleplayer": 96,
+    "Relaxing": 90,
+    "Colorful": 88,
+    "Atmospheric": 86,
+    "Controller": 81,
+    "Strategy": 80,
+    "Psychedelic": 77,
+    "Adventure": 77,
+    "2D": 75,
+    "Short": 72,
+    "Touch-Friendly": 65,
+    "Top-Down": 51,
+    "Horror": 49,
+    "Racing": 47,
+    "Ambient": 39,
+    "Arcade": 35
+  }
+}

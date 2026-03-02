@@ -1,0 +1,26 @@
+{
+  "appid": 973070,
+  "success": true,
+  "tags": {
+    "Action": 136,
+    "RPG": 128,
+    "Adventure": 126,
+    "Indie": 123,
+    "Co-op": 119,
+    "Action RPG": 113,
+    "2D": 111,
+    "Singleplayer": 111,
+    "Fantasy": 106,
+    "Online Co-Op": 105,
+    "Multiplayer": 95,
+    "Replay Value": 84,
+    "Hand-drawn": 78,
+    "Difficult": 76,
+    "Cute": 73,
+    "Hack and Slash": 67,
+    "Hunting": 60,
+    "Character Customization": 53,
+    "Rogue-lite": 46,
+    "Cats": 41
+  }
+}
