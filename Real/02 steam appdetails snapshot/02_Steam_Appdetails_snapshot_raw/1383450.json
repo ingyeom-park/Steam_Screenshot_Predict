@@ -1,0 +1,235 @@
+{
+  "1383450": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "心境 VR / Mind VR Exploration",
+      "steam_appid": 1383450,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "The Mind VR Exploration was selected in the 78th VENICE FILM FESTIVAL VR EXPANDED  - Best Of VR.<br><br><strong>What's the Mind VR Exploration?</strong><br><br>This is an unprecedented exploratory learning VR application.<br>The most cutting-edge VR digital technologies are adopted to bring an immersive experience with various elements, such as, Chinese classical architectures, implements, poems, and extraordinary imagination, to users, very impressive.<br><br>It is also the first time that Chinese ancient poems and Chinese classical gardens are integrated into one scene, and the unknown are revealed one by one in the form of answering questions, enabling users to set free their imaginations, and allowing them to perceive and savor the profound Chinese classical culture. Users may feel as if they are in their dreams.<br><br>After rigorous textual research, the &quot;Xiaoxiang Pavilion&quot; described in &quot;A Dream of Red Mansions&quot; is restored in a panoramic view, recreating classical gardens, furniture and daily scenes in the Ming Dynasty. You can pick up everything you like and play with it. You might even fabricate a Chinese &quot;paper kite&quot;, hand-write a pair of Chinese characters, and listen to the Chinese zither played by the ancients on the waterfront. It is like you travel through time and space, and witness the ancients’ elegance and panache. Finally, you walk in the wind, appreciate the transcendent Chinese natural scenery, and arrive at the next node of exploration.<br><br>Compared with the traditional VR applications in the past, Mind brings a higher level of immersive experience to users. Unparalleled impression will be engraved in the memory of users. For elementary and middle school students, it is a suitable education media, users (students) will be amazed by this peculiar learning method.",
+      "about_the_game": "The Mind VR Exploration was selected in the 78th VENICE FILM FESTIVAL VR EXPANDED  - Best Of VR.<br><br><strong>What's the Mind VR Exploration?</strong><br><br>This is an unprecedented exploratory learning VR application.<br>The most cutting-edge VR digital technologies are adopted to bring an immersive experience with various elements, such as, Chinese classical architectures, implements, poems, and extraordinary imagination, to users, very impressive.<br><br>It is also the first time that Chinese ancient poems and Chinese classical gardens are integrated into one scene, and the unknown are revealed one by one in the form of answering questions, enabling users to set free their imaginations, and allowing them to perceive and savor the profound Chinese classical culture. Users may feel as if they are in their dreams.<br><br>After rigorous textual research, the &quot;Xiaoxiang Pavilion&quot; described in &quot;A Dream of Red Mansions&quot; is restored in a panoramic view, recreating classical gardens, furniture and daily scenes in the Ming Dynasty. You can pick up everything you like and play with it. You might even fabricate a Chinese &quot;paper kite&quot;, hand-write a pair of Chinese characters, and listen to the Chinese zither played by the ancients on the waterfront. It is like you travel through time and space, and witness the ancients’ elegance and panache. Finally, you walk in the wind, appreciate the transcendent Chinese natural scenery, and arrive at the next node of exploration.<br><br>Compared with the traditional VR applications in the past, Mind brings a higher level of immersive experience to users. Unparalleled impression will be engraved in the memory of users. For elementary and middle school students, it is a suitable education media, users (students) will be amazed by this peculiar learning method.",
+      "short_description": "This is an unprecedented exploratory learning VR application. The most cutting-edge VR digital technologies are adopted to bring an immersive experience with various elements, such as, Chinese classical architectures, implements, poems, and extraordinary imagination, to users, very impressive.",
+      "supported_languages": "English<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/header.jpg?t=1636344587",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/capsule_231x87.jpg?t=1636344587",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/capsule_184x69.jpg?t=1636344587",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> windows10<br></li><li><strong>Processor:</strong> i7 3930K<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1060<br></li><li><strong>Storage:</strong> 10 GB available space<br></li><li><strong>VR Support:</strong> SteamVR. Standing or Room Scale</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> windows10<br></li><li><strong>Processor:</strong> i7 8700K<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GTX 2080<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "The copyright belongs to the MiniSea visual technology. It is forbidden to unpack or any other infringement.",
+      "developers": [
+        "小海洋 MiniSea"
+      ],
+      "publishers": [
+        "小海洋 MiniSea"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 399,
+        "final": 399,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$3.99"
+      },
+      "packages": [
+        485457,
+        550881
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 心境 VR / Mind VR Exploration",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 485457,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "心境 MindVRExploration - $3.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 399
+            },
+            {
+              "packageid": 550881,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "心境 Mind VR Exploration - Commercial License - $199.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 19999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 52,
+          "description": "Tracked Controller Support"
+        },
+        {
+          "id": 54,
+          "description": "VR Only"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_b7d716971d1c56c1e653e945438ad2cd08904152.600x338.jpg?t=1636344587",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_b7d716971d1c56c1e653e945438ad2cd08904152.1920x1080.jpg?t=1636344587"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_844c5a11710044c06e4a9786e0817b2cbd79a989.600x338.jpg?t=1636344587",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_844c5a11710044c06e4a9786e0817b2cbd79a989.1920x1080.jpg?t=1636344587"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_b56001511cc2c72962fc5bb5260bdf245a631af1.600x338.jpg?t=1636344587",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_b56001511cc2c72962fc5bb5260bdf245a631af1.1920x1080.jpg?t=1636344587"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_be5effc56d01e135d795115869ddbcd0d5cf1c49.600x338.jpg?t=1636344587",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_be5effc56d01e135d795115869ddbcd0d5cf1c49.1920x1080.jpg?t=1636344587"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_08dbce8d176c5cc6c74e7b1e13e46e798f767b91.600x338.jpg?t=1636344587",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_08dbce8d176c5cc6c74e7b1e13e46e798f767b91.1920x1080.jpg?t=1636344587"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_f650fbff0bcf1ca04d4e8db50926fae5ba10d619.600x338.jpg?t=1636344587",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_f650fbff0bcf1ca04d4e8db50926fae5ba10d619.1920x1080.jpg?t=1636344587"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_3037726fa9f7dfc33379d8c6a3f81d2eba034bfd.600x338.jpg?t=1636344587",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_3037726fa9f7dfc33379d8c6a3f81d2eba034bfd.1920x1080.jpg?t=1636344587"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_9a28f51c90c8bd4d38f124622bf1370c2e8eadbd.600x338.jpg?t=1636344587",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_9a28f51c90c8bd4d38f124622bf1370c2e8eadbd.1920x1080.jpg?t=1636344587"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_e8432b4e28ef59eac5dc19231b8e164b52991f0d.600x338.jpg?t=1636344587",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_e8432b4e28ef59eac5dc19231b8e164b52991f0d.1920x1080.jpg?t=1636344587"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_a8586cac3a0d03db30746c8682c771c8716ad1b0.600x338.jpg?t=1636344587",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_a8586cac3a0d03db30746c8682c771c8716ad1b0.1920x1080.jpg?t=1636344587"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_128e3b0a11049829dcb19166fc832effc8469c2c.600x338.jpg?t=1636344587",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_128e3b0a11049829dcb19166fc832effc8469c2c.1920x1080.jpg?t=1636344587"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_45f3967a7111afe8275d881df7b9bb0a259d28d6.600x338.jpg?t=1636344587",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/ss_45f3967a7111afe8275d881df7b9bb0a259d28d6.1920x1080.jpg?t=1636344587"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256801433,
+          "name": "Mind",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256801433/movie.293x165.jpg?t=1631077818",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1383450/313038/94455de0773564634cb363644166166693ff26e8/1751230437/dash_av1.mpd?t=1631077818",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1383450/313038/94455de0773564634cb363644166166693ff26e8/1751230437/dash_h264.mpd?t=1631077818",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1383450/313038/94455de0773564634cb363644166166693ff26e8/1751230437/hls_264_master.m3u8?t=1631077818",
+          "highlight": true
+        },
+        {
+          "id": 256801440,
+          "name": "Operation",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256801440/movie.293x165.jpg?t=1600826996",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1383450/313050/3cb237de6d1983afd0cdd0b088d57fc34b1b7da0/1751230443/dash_av1.mpd?t=1600826996",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1383450/313050/3cb237de6d1983afd0cdd0b088d57fc34b1b7da0/1751230443/dash_h264.mpd?t=1600826996",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1383450/313050/3cb237de6d1983afd0cdd0b088d57fc34b1b7da0/1751230443/hls_264_master.m3u8?t=1600826996",
+          "highlight": true
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 6, 2020"
+      },
+      "support_info": {
+        "url": "",
+        "email": "363920536@qq.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1383450?t=1636344587",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383450/page_bg_raw.jpg?t=1636344587",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

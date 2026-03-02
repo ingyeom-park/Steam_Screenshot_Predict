@@ -1,0 +1,239 @@
+{
+  "1202100": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Bodyless",
+      "steam_appid": 1202100,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<p class=\"bb_paragraph\" ><strong>Bodyless</strong> is a surreal VR journey emerging from childhood memory, shaped by the lingering shadow of Taiwan’s martial law era.</p><p class=\"bb_paragraph\" > You inhabit the ghost of a political prisoner who died in confinement and returns during Ghost Month, drifting through the seams between memory and reality in search of home.</p><p class=\"bb_paragraph\" >Folk belief and natural sensation form a fragile inner landscape, quietly infiltrated by an invisible mechanical order. Surveillance is omnipresent. Bodies, language, and memory are compressed into abstract, computable forms, as humanity gradually loses its weight in silence.</p><p class=\"bb_paragraph\" ><i>Bodyless</i> is not a reconstruction of history, but a sensory meditation on disappearance and perception.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>《Bodyess》｜Selected International Awards</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Official Selection, Venice International Film Festival – VR Competition (2019)</p></li><li><p class=\"bb_paragraph\" >Official Selection, International Documentary Film Festival Amsterdam (2019)</p></li><li><p class=\"bb_paragraph\" >Golden Mask Award, NewImages Festival (2019)</p></li><li><p class=\"bb_paragraph\" >Jury Special Mention, Kaohsiung Film Festival (2019)</p></li><li><p class=\"bb_paragraph\" >Honorary Mention, Prix Ars Electronica (2020)</p></li><li><p class=\"bb_paragraph\" >Best Virtual Reality, Los Angeles Film Awards (2020)</p></li></ul><p class=\"bb_paragraph\" ></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" ><strong>Bodyless</strong> is a surreal VR journey emerging from childhood memory, shaped by the lingering shadow of Taiwan’s martial law era.</p><p class=\"bb_paragraph\" > You inhabit the ghost of a political prisoner who died in confinement and returns during Ghost Month, drifting through the seams between memory and reality in search of home.</p><p class=\"bb_paragraph\" >Folk belief and natural sensation form a fragile inner landscape, quietly infiltrated by an invisible mechanical order. Surveillance is omnipresent. Bodies, language, and memory are compressed into abstract, computable forms, as humanity gradually loses its weight in silence.</p><p class=\"bb_paragraph\" ><i>Bodyless</i> is not a reconstruction of history, but a sensory meditation on disappearance and perception.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" ><strong>《Bodyess》｜Selected International Awards</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Official Selection, Venice International Film Festival – VR Competition (2019)</p></li><li><p class=\"bb_paragraph\" >Official Selection, International Documentary Film Festival Amsterdam (2019)</p></li><li><p class=\"bb_paragraph\" >Golden Mask Award, NewImages Festival (2019)</p></li><li><p class=\"bb_paragraph\" >Jury Special Mention, Kaohsiung Film Festival (2019)</p></li><li><p class=\"bb_paragraph\" >Honorary Mention, Prix Ars Electronica (2020)</p></li><li><p class=\"bb_paragraph\" >Best Virtual Reality, Los Angeles Film Awards (2020)</p></li></ul><p class=\"bb_paragraph\" ></p>",
+      "short_description": "Bodyless is a surreal VR experience based on the director's childhood memory during Taiwan's martial law period in the 1970s. The player becomes a deceased political prisoner's ghost in his journey to find his way home.",
+      "supported_languages": "English<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/header.jpg?t=1770602508",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/capsule_231x87.jpg?t=1770602508",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/capsule_184x69.jpg?t=1770602508",
+      "website": "https://narriflux.co/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 10<br></li><li><strong>Processor:</strong> Intel Core i5-4590 / AMD FX 8350<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1070 / RTX 2060 / RX 580 with 6 GB ram<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 256 GB available space<br></li><li><strong>VR Support:</strong> SteamVR<br></li><li><strong>Additional Notes:</strong> *Only support SteamVR compatiable devices</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 10<br></li><li><strong>Processor:</strong> Intel Core Core i7 / AMD Ryzen 7<br></li><li><strong>Memory:</strong> 32 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1080 / RTX 2070 or 2080 / RX 5700 with 8 GB ram<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 512 GB available space<br></li><li><strong>Additional Notes:</strong> *Only support SteamVR compatiable devices</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "NarriFlux"
+      ],
+      "publishers": [
+        "NarriFlux"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        1522239
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Bodyless",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1522239,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Bodyless - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 52,
+          "description": "Tracked Controller Support"
+        },
+        {
+          "id": 54,
+          "description": "VR Only"
+        },
+        {
+          "id": 74,
+          "description": "Playable without Timed Input"
+        },
+        {
+          "id": 69,
+          "description": "Stereo Sound"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "60",
+          "description": "Game Development"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/ss_8e311a20cf7aff596a4ac10c3faf0bd53e9ca596.600x338.jpg?t=1770602508",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/ss_8e311a20cf7aff596a4ac10c3faf0bd53e9ca596.1920x1080.jpg?t=1770602508"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/ss_3fd535d1c77170c857225e25c4189de4ce30515a.600x338.jpg?t=1770602508",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/ss_3fd535d1c77170c857225e25c4189de4ce30515a.1920x1080.jpg?t=1770602508"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/ss_c34088737fb7c7a9b6b881a6b7cf4f820a178454.600x338.jpg?t=1770602508",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/ss_c34088737fb7c7a9b6b881a6b7cf4f820a178454.1920x1080.jpg?t=1770602508"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/ss_c062de283c714fcb7f4c6428547e0ff089ff25d8.600x338.jpg?t=1770602508",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/ss_c062de283c714fcb7f4c6428547e0ff089ff25d8.1920x1080.jpg?t=1770602508"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/ss_37552e6a610cbb63ce0d98349892cfa7304a3eb4.600x338.jpg?t=1770602508",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/ss_37552e6a610cbb63ce0d98349892cfa7304a3eb4.1920x1080.jpg?t=1770602508"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/ss_228cf3af3b5b1bda28e5279f947c3bc4aab0888f.600x338.jpg?t=1770602508",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/ss_228cf3af3b5b1bda28e5279f947c3bc4aab0888f.1920x1080.jpg?t=1770602508"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/ss_b8bb17713cc3884a21481ec845610c27bf797279.600x338.jpg?t=1770602508",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/ss_b8bb17713cc3884a21481ec845610c27bf797279.1920x1080.jpg?t=1770602508"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/ss_dfd0ce5575d1c4455f7f7e9186257b29a12259d3.600x338.jpg?t=1770602508",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/ss_dfd0ce5575d1c4455f7f7e9186257b29a12259d3.1920x1080.jpg?t=1770602508"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256796457,
+          "name": "Bodyless Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256796457/00fa2b5da50da90d381b0569590158d78fae656b/movie_600x337.jpg?t=1769153252",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1202100/1056126008/d191d18f3ff650c95fecefcd5c202737d7956264/1769149660/dash_av1.mpd?t=1769153252",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1202100/1056126008/d191d18f3ff650c95fecefcd5c202737d7956264/1769149660/dash_h264.mpd?t=1769153252",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1202100/1056126008/d191d18f3ff650c95fecefcd5c202737d7956264/1769149660/hls_264_master.m3u8?t=1769153252",
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 10,
+        "highlighted": [
+          {
+            "name": "Shedding the Mortal Coil",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202100/3cd369600e555a0e7ea239f0a57a6e5ee4ccbafb.jpg"
+          },
+          {
+            "name": "The Shores of Faith",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202100/fb65f3fd00c79651c8420b40e5865575eab1e5f8.jpg"
+          },
+          {
+            "name": "Echoes of Bloodline",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202100/fe1d7b279e48e453d50cd28f52bed7c7c63f234a.jpg"
+          },
+          {
+            "name": "The Final Reduction",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202100/83e97fcf4987617ef4530409032b310913d693fe.jpg"
+          },
+          {
+            "name": "Hovering Spirit",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202100/f8b2ee33ededcbdd523f945dbffb8f5fea8a4545.jpg"
+          },
+          {
+            "name": "Drowning in the Past",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202100/b0d54f2ada0ee63e399f15a9a0fbd50e7b82d1ec.jpg"
+          },
+          {
+            "name": "Love Within the Lotus",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202100/0b61dfd5257d92f4f4b3620ad54d23fab0aff2ad.jpg"
+          },
+          {
+            "name": "Kinship Between the Lines",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202100/1b7c03e1a6e5c51f1a82b1c03b75e8f0dcb59625.jpg"
+          },
+          {
+            "name": "The Unreducible Face",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202100/122437ddfcc75cf1351ba73ef4eae5e66153c7ac.jpg"
+          },
+          {
+            "name": "A Ghost’s Obsession",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1202100/b8d1448760bda8417e4d1388579f21d4e371a1b7.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 15, 2020"
+      },
+      "support_info": {
+        "url": "",
+        "email": "manager@narriflux.co"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1202100?t=1770602508",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202100/page_bg_raw.jpg?t=1770602508",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "l"
+        },
+        "csrr": {
+          "rating": "C12"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "1088870": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "奇幻与砍杀 Fantasy & Blade",
+      "steam_appid": 1088870,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1091430,
+        1091420,
+        1091450
+      ],
+      "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/extras/75e80b729404f95b67348f4de2f519e4.avif?t=1767351734\" width=460 height=214 /></span><br><br>有着丰富强大的系统与游戏性的群战动作角色扮演游戏，<br><br>强大的角色养成，各式各样的系统可以让你有着许多的玩法以及超过10小时的游戏体验。<br><br>你可以四处募兵，攻掠城池，成为一方豪强。<br><br>你可以接下委托，猎杀魔物，挑战强大的boss。<br><br>你可以四处跑商，投机倒把，从而大捞一笔。<br><br>你可以购买房产，建立农场，稳妥发展。<br><br>成为率领军队的大将，或是以一敌百的武神，<br><br>成为掌控生死的亡灵法师，或是鼓舞部队的军师，<br><br>成为四处奔波的商人，或是安居乐业的农夫——<br><br>在这剑与魔法的乱世之中，创造属于你的传奇。<br><br>官方QQ群：719713870（作者在线）",
+      "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/extras/75e80b729404f95b67348f4de2f519e4.avif?t=1767351734\" width=460 height=214 /></span><br><br>有着丰富强大的系统与游戏性的群战动作角色扮演游戏，<br><br>强大的角色养成，各式各样的系统可以让你有着许多的玩法以及超过10小时的游戏体验。<br><br>你可以四处募兵，攻掠城池，成为一方豪强。<br><br>你可以接下委托，猎杀魔物，挑战强大的boss。<br><br>你可以四处跑商，投机倒把，从而大捞一笔。<br><br>你可以购买房产，建立农场，稳妥发展。<br><br>成为率领军队的大将，或是以一敌百的武神，<br><br>成为掌控生死的亡灵法师，或是鼓舞部队的军师，<br><br>成为四处奔波的商人，或是安居乐业的农夫——<br><br>在这剑与魔法的乱世之中，创造属于你的传奇。<br><br>官方QQ群：719713870（作者在线）",
+      "short_description": "With a rich and powerful system and gameplay of group warfare action role-playing games, open world, hundred people warfare, challenge the boss, Players will continue to grow in their own way and create legends that belong to you in the open chaotic world of sword and magic.",
+      "supported_languages": "Simplified Chinese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/header.jpg?t=1767351734",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/capsule_231x87.jpg?t=1767351734",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/capsule_184x69.jpg?t=1767351734",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Microsoft® Windows® 7/8/8.1/10 (64bit)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Intel i5-4590 @3.30GHz<br></li><li><strong>Memory:</strong> 8 GB RAM</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "绝汪"
+      ],
+      "publishers": [
+        "绝汪"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 399,
+        "final": 399,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$3.99"
+      },
+      "packages": [
+        366162
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 奇幻与砍杀 Fantasy & Blade",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 366162,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "奇幻与砍杀 Fantasy & Blade - $3.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 399
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/ss_0b4e0c279bafaea7df2acd1e902cf3d05b0e5b35.600x338.jpg?t=1767351734",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/ss_0b4e0c279bafaea7df2acd1e902cf3d05b0e5b35.1920x1080.jpg?t=1767351734"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/ss_9674c3768ef608e8fad708ba5dc960661d7d9fb3.600x338.jpg?t=1767351734",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/ss_9674c3768ef608e8fad708ba5dc960661d7d9fb3.1920x1080.jpg?t=1767351734"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/ss_650d6ec64759e8cdf7ad899972ff42a5ecc8b498.600x338.jpg?t=1767351734",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/ss_650d6ec64759e8cdf7ad899972ff42a5ecc8b498.1920x1080.jpg?t=1767351734"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/ss_dcf45d0958b37df37f12a97e30a7a096ade50f4f.600x338.jpg?t=1767351734",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/ss_dcf45d0958b37df37f12a97e30a7a096ade50f4f.1920x1080.jpg?t=1767351734"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/ss_b655f8535c723185b0d4665da770dfee21aaf93b.600x338.jpg?t=1767351734",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/ss_b655f8535c723185b0d4665da770dfee21aaf93b.1920x1080.jpg?t=1767351734"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/ss_62935bbac4aeb335c2af12a805cea07bdcd3b928.600x338.jpg?t=1767351734",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088870/ss_62935bbac4aeb335c2af12a805cea07bdcd3b928.1920x1080.jpg?t=1767351734"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256750718,
+          "name": "暂用宣传片",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256750718/movie.293x165.jpg?t=1558506675",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1088870/223232/693e2568e5fe4038287ca274e576538074c8292a/1751186683/dash_av1.mpd?t=1558506675",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1088870/223232/693e2568e5fe4038287ca274e576538074c8292a/1751186683/dash_h264.mpd?t=1558506675",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1088870/223232/693e2568e5fe4038287ca274e576538074c8292a/1751186683/hls_264_master.m3u8?t=1558506675",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 207
+      },
+      "achievements": {
+        "total": 19,
+        "highlighted": [
+          {
+            "name": "有家了",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1088870/9cf5ca7c1d4e8e8de9d55f0f85c5e37c8a97f7b4.jpg"
+          },
+          {
+            "name": "略有小成",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1088870/5a56a07ab86a24d262628b26e2947900cbeff34b.jpg"
+          },
+          {
+            "name": "一方豪强",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1088870/c864b93259246a62d5c9c1adf40902da2995fdb2.jpg"
+          },
+          {
+            "name": "此世传奇",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1088870/a96e2e30222c21bc38cc50a9cb0ed7d9140eee37.jpg"
+          },
+          {
+            "name": "团队协作",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1088870/5f1793cf505a531f1c72b66dbc0bc4b675699750.jpg"
+          },
+          {
+            "name": "上得战场，下得厨房",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1088870/bd878fdf85165ea5c2ca3d179d746ef312b07fb0.jpg"
+          },
+          {
+            "name": "富有",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1088870/889b3bc812c482d80b499d0d9be0e82f9afbc8c6.jpg"
+          },
+          {
+            "name": "领主",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1088870/76d9f01967281c456744c91d7bd320bf7781430b.jpg"
+          },
+          {
+            "name": "新时代的王者",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1088870/c79f918d40117330bbd21b423e5cb90ca1269e2c.jpg"
+          },
+          {
+            "name": "猎魔人",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1088870/d08a9406c08b397ab6d5a989cb9eee4d649f8886.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 6, 2019"
+      },
+      "support_info": {
+        "url": "官方QQ群：719713870",
+        "email": "623414226@qq.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1088870?t=1767351734",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1088870?t=1767351734",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

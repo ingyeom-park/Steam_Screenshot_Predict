@@ -1,0 +1,236 @@
+{
+  "3089040": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "泳装乱舞",
+      "steam_appid": 3089040,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "剧情简介：<br />\r\n   在某个不可描述的未来，有着一项受人欢迎的运动“泳装乱舞”大赛，女性们会在水面上的浮台上，身着泳装，进行身体的对抗，只能通过身体的对抗将对方击倒或者击落水下获得胜利。<br />\r\n这项运动受到了大量粉丝的喜爱。<br />\r\n   我们的主人公，是参与大赛中唯一的男性，他的目标是挑战最强的三名女性参赛者。<br />\r\n<br />\r\n<br />\r\n游戏模式：<br />\r\n<br />\r\n  游戏中可以选择3名对手中的一人进行对战，对战胜利后可解锁持续对战的练习模式。<br />\r\n  战斗胜利可以获得钞票，钞票可以在天赋处购买强化各种技能属性，让战斗变得更轻松。<br />\r\n<br />\r\n游戏玩法：<br />\r\n<br />\r\n  玩家扮演男主，挑战3名最强女性。<br />\r\n  在战斗中，玩家可以通过A和D键来控制左右移动。<br />\r\n  对手会进行移动和准备攻击，在攻击前会有一个读秒预备时间，在这个预备时间若能做出正确的判断即可躲避对手的攻击。<br />\r\n  当躲避足够多次的攻击后，便可以反击战胜对手。<br />\r\n<br />\r\n连击：<br />\r\n  <br />\r\n   连续成功躲避对手时，会有连击计数，连击将可以让玩家获得更多的钞票",
+      "about_the_game": "剧情简介：<br />\r\n   在某个不可描述的未来，有着一项受人欢迎的运动“泳装乱舞”大赛，女性们会在水面上的浮台上，身着泳装，进行身体的对抗，只能通过身体的对抗将对方击倒或者击落水下获得胜利。<br />\r\n这项运动受到了大量粉丝的喜爱。<br />\r\n   我们的主人公，是参与大赛中唯一的男性，他的目标是挑战最强的三名女性参赛者。<br />\r\n<br />\r\n<br />\r\n游戏模式：<br />\r\n<br />\r\n  游戏中可以选择3名对手中的一人进行对战，对战胜利后可解锁持续对战的练习模式。<br />\r\n  战斗胜利可以获得钞票，钞票可以在天赋处购买强化各种技能属性，让战斗变得更轻松。<br />\r\n<br />\r\n游戏玩法：<br />\r\n<br />\r\n  玩家扮演男主，挑战3名最强女性。<br />\r\n  在战斗中，玩家可以通过A和D键来控制左右移动。<br />\r\n  对手会进行移动和准备攻击，在攻击前会有一个读秒预备时间，在这个预备时间若能做出正确的判断即可躲避对手的攻击。<br />\r\n  当躲避足够多次的攻击后，便可以反击战胜对手。<br />\r\n<br />\r\n连击：<br />\r\n  <br />\r\n   连续成功躲避对手时，会有连击计数，连击将可以让玩家获得更多的钞票",
+      "short_description": "作为泳装乱舞大赛中唯一的男性，挑战最强三名女性，考研判断和反应的简单对抗游戏！",
+      "supported_languages": "Simplified Chinese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/header.jpg?t=1756566193",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/c79ccec158c1570f72b45a1455ff2a5927532433/capsule_231x87.jpg?t=1756566193",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/c79ccec158c1570f72b45a1455ff2a5927532433/capsule_184x69.jpg?t=1756566193",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8/8.1/10<br></li><li><strong>Processor:</strong> IntelCore i3<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 9/OpenGL 4.1 capable GPU<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i7<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL ES 2.0 hardware driver support required for WebGL acceleration. (AMD Catalyst 10.9, nVidia 358.50)<br></li><li><strong>Storage:</strong> 800 MB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "1v1combat"
+      ],
+      "publishers": [
+        "1v1combat"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 399,
+        "final": 399,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$3.99"
+      },
+      "packages": [
+        1097307
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 泳装乱舞",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1097307,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "泳装乱舞 - $3.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 399
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "9",
+          "description": "Racing"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/ss_220f365d3393de05c467b1b2c4dbb691a06b5e8c.600x338.jpg?t=1756566193",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/ss_220f365d3393de05c467b1b2c4dbb691a06b5e8c.1920x1080.jpg?t=1756566193"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/ss_82b18049be578705518694b43e3d4f84d6a81b7c.600x338.jpg?t=1756566193",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/ss_82b18049be578705518694b43e3d4f84d6a81b7c.1920x1080.jpg?t=1756566193"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/ss_3fe135cd66ea465019a97c7c394f26e3fb07677d.600x338.jpg?t=1756566193",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/ss_3fe135cd66ea465019a97c7c394f26e3fb07677d.1920x1080.jpg?t=1756566193"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/ss_e8f7c7c32906c9cbc75cc95d938571c3329cff2a.600x338.jpg?t=1756566193",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/ss_e8f7c7c32906c9cbc75cc95d938571c3329cff2a.1920x1080.jpg?t=1756566193"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/ss_9602d753cdf593293cdcdb918edfccae7fb7f6d5.600x338.jpg?t=1756566193",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/ss_9602d753cdf593293cdcdb918edfccae7fb7f6d5.1920x1080.jpg?t=1756566193"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/ss_294190aeab661f62e837d718b0714936e444714c.600x338.jpg?t=1756566193",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/ss_294190aeab661f62e837d718b0714936e444714c.1920x1080.jpg?t=1756566193"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/ss_639dab669284e51301f83787a611df7749a5f691.600x338.jpg?t=1756566193",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/ss_639dab669284e51301f83787a611df7749a5f691.1920x1080.jpg?t=1756566193"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/ss_4d269287c75e3a47c7c33607dab841cf43434b53.600x338.jpg?t=1756566193",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3089040/ss_4d269287c75e3a47c7c33607dab841cf43434b53.1920x1080.jpg?t=1756566193"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257062942,
+          "name": "游戏演示",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257062942/e5264e0c1757588a10bd1c3e5d3653225e7dff84/movie_600x337.jpg?t=1728405309",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3089040/768464/557597bd0b97bc56244459c3bcf583f1deb5eca2/1750973779/dash_av1.mpd?t=1728405309",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3089040/768464/557597bd0b97bc56244459c3bcf583f1deb5eca2/1750973779/dash_h264.mpd?t=1728405309",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3089040/768464/557597bd0b97bc56244459c3bcf583f1deb5eca2/1750973779/hls_264_master.m3u8?t=1728405309",
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 14,
+        "highlighted": [
+          {
+            "name": "葵",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3089040/670d11b3c0e3f24e508ce8db737239939195c3d7.jpg"
+          },
+          {
+            "name": "安洁儿",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3089040/fb4a5ba97477914a9d690632858c1750f38f8202.jpg"
+          },
+          {
+            "name": "玛鲁",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3089040/80d55642d873eaa31b646fcb5ae2796209519f82.jpg"
+          },
+          {
+            "name": "战胜葵",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3089040/761299554182f541bcdcda8eb54254808951b2bc.jpg"
+          },
+          {
+            "name": "战胜安洁儿",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3089040/2c33b17814ec3457066f006ec00559929828abf2.jpg"
+          },
+          {
+            "name": "战胜玛鲁",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3089040/81c58cf2540d4a7fb8d8faf3a5213cbe7b76573a.jpg"
+          },
+          {
+            "name": "满血",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3089040/6cae4628f902e1e6195776cfa92576caa4b5d8e1.jpg"
+          },
+          {
+            "name": "完美闪避",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3089040/48b090365b749c842dd56f6eccb0d38f8f68fd31.jpg"
+          },
+          {
+            "name": "连击达人",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3089040/8d6f648c2c1a29a75a4268d525bfba8578568bae.jpg"
+          },
+          {
+            "name": "最大生命",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3089040/efa2ebbe2f040f355d5e69f6f2fa14e201d754f6.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 23, 2024"
+      },
+      "support_info": {
+        "url": "",
+        "email": "17267779554@qq.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3089040?t=1756566193",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3089040?t=1756566193",
+      "content_descriptors": {
+        "ids": [
+          1,
+          5
+        ],
+        "notes": "This game contains partial nudity."
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Conteúdo sexual"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Sexuelle Andeutungen"
+        }
+      }
+    }
+  }
+}

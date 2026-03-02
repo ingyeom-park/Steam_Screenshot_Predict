@@ -1,0 +1,246 @@
+{
+  "1014560": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Creepy Vision",
+      "steam_appid": 1014560,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<p class=\"bb_paragraph\" ><strong>Creepy Vision</strong> is an atmospheric indie horror game where the player finds themselves trapped in a mysterious and hostile dimension. Here, space is distorted, environments shift, and every mistake can be fatal.</p><p class=\"bb_paragraph\" >You must explore unsettling locations, solve puzzles, and search for a path to freedom, relying on your perception, reflexes, and ability to adapt to a constantly changing world.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/extras/f13163eb46d0e81638fc94c940fa6ac2.avif?t=1769326508\" width=1560 height=878 /></span></p><h2 class=\"bb_tag\" >Key Features</h2><p class=\"bb_paragraph\" >🔹 <strong>Atmospheric horror full of tension</strong><br>Dark environments, unsettling sounds, and a constant feeling of unease follow you at every step.</p><p class=\"bb_paragraph\" >🔹 <strong>Dynamic levels</strong><br>The environment can change as you progress, creating the sense of an unstable and living reality.</p><p class=\"bb_paragraph\" >🔹 <strong>Puzzles and deadly traps</strong><br>You’ll need more than courage — observe carefully, think fast, and avoid lethal mechanisms.</p><p class=\"bb_paragraph\" >🔹 <strong>Minimalistic yet expressive visual style</strong><br>Distorted space and lighting enhance the feeling of anxiety and disorientation.</p><p class=\"bb_paragraph\" >🔹 <strong>Controller and multiple language support</strong><br>Play using different control methods with support for multiple languages.</p><p class=\"bb_paragraph\" >🩸 <strong>Are you ready to escape?</strong></p><p class=\"bb_paragraph\" >Every step can bring you closer to freedom — or lead to your demise.<br><strong>Creepy Vision</strong> will test how long you can keep your composure in a world that doesn’t want you to leave.</p>",
+      "about_the_game": "<p class=\"bb_paragraph\" ><strong>Creepy Vision</strong> is an atmospheric indie horror game where the player finds themselves trapped in a mysterious and hostile dimension. Here, space is distorted, environments shift, and every mistake can be fatal.</p><p class=\"bb_paragraph\" >You must explore unsettling locations, solve puzzles, and search for a path to freedom, relying on your perception, reflexes, and ability to adapt to a constantly changing world.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/extras/f13163eb46d0e81638fc94c940fa6ac2.avif?t=1769326508\" width=1560 height=878 /></span></p><h2 class=\"bb_tag\" >Key Features</h2><p class=\"bb_paragraph\" >🔹 <strong>Atmospheric horror full of tension</strong><br>Dark environments, unsettling sounds, and a constant feeling of unease follow you at every step.</p><p class=\"bb_paragraph\" >🔹 <strong>Dynamic levels</strong><br>The environment can change as you progress, creating the sense of an unstable and living reality.</p><p class=\"bb_paragraph\" >🔹 <strong>Puzzles and deadly traps</strong><br>You’ll need more than courage — observe carefully, think fast, and avoid lethal mechanisms.</p><p class=\"bb_paragraph\" >🔹 <strong>Minimalistic yet expressive visual style</strong><br>Distorted space and lighting enhance the feeling of anxiety and disorientation.</p><p class=\"bb_paragraph\" >🔹 <strong>Controller and multiple language support</strong><br>Play using different control methods with support for multiple languages.</p><p class=\"bb_paragraph\" >🩸 <strong>Are you ready to escape?</strong></p><p class=\"bb_paragraph\" >Every step can bring you closer to freedom — or lead to your demise.<br><strong>Creepy Vision</strong> will test how long you can keep your composure in a world that doesn’t want you to leave.</p>",
+      "short_description": "Creepy Vision is an atmospheric indie horror with puzzles and dynamic levels. Explore a distorted dimension, avoid deadly traps, and find a way out while reality itself keeps changing around you.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/header.jpg?t=1769326508",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/capsule_231x87.jpg?t=1769326508",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/capsule_184x69.jpg?t=1769326508",
+      "website": "https://vk.com/orangevalley",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> 64-bit Windows 7, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong> Intel Core 2 Duo E8500 / AMD Phenom II X3 720<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GT 440 / Radeon HD 5450<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> 64-bit Windows 7, Windows 8.1, Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-3330 / AMD FX-6300<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 750 / Radeon R7 360 / Radeon RX 550<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Orange Valley"
+      ],
+      "publishers": [
+        "Orange Valley"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 299,
+        "final": 299,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$2.99"
+      },
+      "packages": [
+        336217,
+        397803
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Creepy Vision",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 336217,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Creepy Vision - $2.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 299
+            },
+            {
+              "packageid": 397803,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Creepy Vision - Commercial License - $5.98",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 598
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/ss_95483bf9629560a1b2085dae663941b72bbfb583.600x338.jpg?t=1769326508",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/ss_95483bf9629560a1b2085dae663941b72bbfb583.1920x1080.jpg?t=1769326508"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/a588c152d51c792433c64b4504f1ac80e594f878/ss_a588c152d51c792433c64b4504f1ac80e594f878.600x338.jpg?t=1769326508",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/a588c152d51c792433c64b4504f1ac80e594f878/ss_a588c152d51c792433c64b4504f1ac80e594f878.1920x1080.jpg?t=1769326508"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/ss_50d4a0e5e23f0c42b8a993efee5820b0ea0be834.600x338.jpg?t=1769326508",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/ss_50d4a0e5e23f0c42b8a993efee5820b0ea0be834.1920x1080.jpg?t=1769326508"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/ee70fc240b0a8ff83a33097da4bba42d63578458/ss_ee70fc240b0a8ff83a33097da4bba42d63578458.600x338.jpg?t=1769326508",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/ee70fc240b0a8ff83a33097da4bba42d63578458/ss_ee70fc240b0a8ff83a33097da4bba42d63578458.1920x1080.jpg?t=1769326508"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/ss_4c3973641d945bbee93c57abd068628243123809.600x338.jpg?t=1769326508",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/ss_4c3973641d945bbee93c57abd068628243123809.1920x1080.jpg?t=1769326508"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/ss_ef67978f84653073a734ca2ee8ddd63c584a7846.600x338.jpg?t=1769326508",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/ss_ef67978f84653073a734ca2ee8ddd63c584a7846.1920x1080.jpg?t=1769326508"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/ss_e17620f4079379cb7eacdda30cd5d637a004b7ff.600x338.jpg?t=1769326508",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/ss_e17620f4079379cb7eacdda30cd5d637a004b7ff.1920x1080.jpg?t=1769326508"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256749103,
+          "name": "Creepy Vision - Update Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256749103/movie.293x165.jpg?t=1767538569",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1014560/220273/5f8d9a9cce25c12b2b1cafbfc43335d074e68957/1751176539/dash_av1.mpd?t=1767538569",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1014560/220273/5f8d9a9cce25c12b2b1cafbfc43335d074e68957/1751176539/dash_h264.mpd?t=1767538569",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1014560/220273/5f8d9a9cce25c12b2b1cafbfc43335d074e68957/1751176539/hls_264_master.m3u8?t=1767538569",
+          "highlight": true
+        },
+        {
+          "id": 256753868,
+          "name": "Creepy Vision - Gameplay Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256753868/movie.293x165.jpg?t=1767538570",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1014560/228929/fc49f73d8ff9b0aeb0f0f1d5e6ca9a9e22711a81/1751176540/dash_av1.mpd?t=1767538570",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1014560/228929/fc49f73d8ff9b0aeb0f0f1d5e6ca9a9e22711a81/1751176540/dash_h264.mpd?t=1767538570",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1014560/228929/fc49f73d8ff9b0aeb0f0f1d5e6ca9a9e22711a81/1751176540/hls_264_master.m3u8?t=1767538570",
+          "highlight": true
+        },
+        {
+          "id": 256741047,
+          "name": "Creepy Vision - Steam Teaser",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256741047/movie.293x165.jpg?t=1767538570",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1014560/205672/6d8ac900d8c8781a482fd434b75d46b6f6ada307/1751176538/dash_av1.mpd?t=1767538570",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1014560/205672/6d8ac900d8c8781a482fd434b75d46b6f6ada307/1751176538/dash_h264.mpd?t=1767538570",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1014560/205672/6d8ac900d8c8781a482fd434b75d46b6f6ada307/1751176538/hls_264_master.m3u8?t=1767538570",
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 11,
+        "highlighted": [
+          {
+            "name": "Plumber",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014560/9cc95fbfdc25949ba65a135e893d6bdd463531ff.jpg"
+          },
+          {
+            "name": "Disco dancer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014560/e3b5c6f9fb100d69c79645e00b93ace7733e8264.jpg"
+          },
+          {
+            "name": "Outer space",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014560/8ab478d37924fab6a875ab1574d8c6f3201dd6f1.jpg"
+          },
+          {
+            "name": "Detective",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014560/19666ef3e72f73324c6142349c926fa016173913.jpg"
+          },
+          {
+            "name": "Fighter",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014560/5e86b49250e3d669ba97aac8e9fa164481cfa6c7.jpg"
+          },
+          {
+            "name": "Claustrophobia",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014560/e36902d318f5208a753e7cbc6c1b6c7ca0be35af.jpg"
+          },
+          {
+            "name": "Boatman",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014560/7dd8406756939adf8ed6124ce17285a372287c6d.jpg"
+          },
+          {
+            "name": "Nintendo",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014560/79e5f14a7617ad13357a8af0c15d56352c7fd705.jpg"
+          },
+          {
+            "name": "Survivor",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014560/7b2af893d503f12fa34b4b4207e49e85c06c8f8a.jpg"
+          },
+          {
+            "name": "Third floor",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1014560/3d88c48b69ddc427a4994e5e0c723778526257d4.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Feb 15, 2019"
+      },
+      "support_info": {
+        "url": "",
+        "email": "orangevalleyproduction@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1014560?t=1769326508",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014560/page_bg_raw.jpg?t=1769326508",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": null
+    }
+  }
+}

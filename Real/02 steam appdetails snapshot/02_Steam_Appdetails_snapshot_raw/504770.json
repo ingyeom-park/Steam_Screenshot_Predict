@@ -1,0 +1,178 @@
+{
+  "504770": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Slavistan",
+      "steam_appid": 504770,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>FIND HMUR!</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/extras/b009372be95605a3fb4580f8fe3b1d8f.poster.avif?t=1765186946\" width=1170 height=426 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/extras/b009372be95605a3fb4580f8fe3b1d8f.webm?t=1765186946\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/extras/b009372be95605a3fb4580f8fe3b1d8f.mp4?t=1765186946\" type=\"video/mp4\"></video></span></p></p><br><h1>About the Game</h1><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/extras/dc54235ce455d35da3dad5bcda2a2ecb.avif?t=1765186946\" width=616 height=103 /></span><br><br>Hello Comrades ! You think you got what it takes to be tru slav? <br>Then we have game for you ! Prove to all your gopnik friends <br>that you are the superior alpha slav your babushka always wanted you to be. <br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/extras/d6a2e1ec479657ed08c6011ff88aab6a.avif?t=1765186946\" width=400 height=108 /></span><br><br><ul class=\"bb_ul\"><li>3 glorious gamemodes in 3 glorious countries.<br></li><li>6 unlockable characters you can make friends with. <br></li><li>hard and fast gameplay that will make you real man.</li></ul>",
+      "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/extras/dc54235ce455d35da3dad5bcda2a2ecb.avif?t=1765186946\" width=616 height=103 /></span><br><br>Hello Comrades ! You think you got what it takes to be tru slav? <br>Then we have game for you ! Prove to all your gopnik friends <br>that you are the superior alpha slav your babushka always wanted you to be. <br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/extras/d6a2e1ec479657ed08c6011ff88aab6a.avif?t=1765186946\" width=400 height=108 /></span><br><br><ul class=\"bb_ul\"><li>3 glorious gamemodes in 3 glorious countries.<br></li><li>6 unlockable characters you can make friends with. <br></li><li>hard and fast gameplay that will make you real man.</li></ul>",
+      "short_description": "Hello Comrades ! You think you got what it takes to be tru slav? Then we have game for you ! Prove to all your gopnik friends that you are the superior alpha slav your babushka always wanted you to be.",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/header.jpg?t=1765186946",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/capsule_231x87.jpg?t=1765186946",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/capsule_184x69.jpg?t=1765186946",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> Dual core Intel or AMD<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 256Mb or higher<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "2016 Free Candy Games",
+      "developers": [
+        "Free Candy Games"
+      ],
+      "publishers": [
+        "Conglomerate 5"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 299,
+        "final": 299,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$2.99"
+      },
+      "packages": [
+        116240
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Slavistan",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 116240,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Slavistan - $2.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 299
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 15,
+          "description": "Stats"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/ss_f8e6c9871546ce29d426ab4e45200c9a4f9a7120.600x338.jpg?t=1765186946",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/ss_f8e6c9871546ce29d426ab4e45200c9a4f9a7120.1920x1080.jpg?t=1765186946"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/ss_1d8f2c5184865367112b38dfd12c46e1f0204b66.600x338.jpg?t=1765186946",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/ss_1d8f2c5184865367112b38dfd12c46e1f0204b66.1920x1080.jpg?t=1765186946"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/ss_5c2f441be2540f98f215997751a89e34ee78278f.600x338.jpg?t=1765186946",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/ss_5c2f441be2540f98f215997751a89e34ee78278f.1920x1080.jpg?t=1765186946"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/ss_9c32e4844a18e7c6ae7f7766e314c1256cfd60e3.600x338.jpg?t=1765186946",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/ss_9c32e4844a18e7c6ae7f7766e314c1256cfd60e3.1920x1080.jpg?t=1765186946"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/ss_4daeb8157e92e76d4a2a839cfc22ca862338dafd.600x338.jpg?t=1765186946",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504770/ss_4daeb8157e92e76d4a2a839cfc22ca862338dafd.1920x1080.jpg?t=1765186946"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256667826,
+          "name": "The Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256667826/movie.293x165.jpg?t=1469825842",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/504770/66531/4e498b067f48cd32a5d9a7026d3f54a73d99c962/1751294423/dash_av1.mpd?t=1469825842",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/504770/66531/4e498b067f48cd32a5d9a7026d3f54a73d99c962/1751294423/dash_h264.mpd?t=1469825842",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/504770/66531/4e498b067f48cd32a5d9a7026d3f54a73d99c962/1751294423/hls_264_master.m3u8?t=1469825842",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 600
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jul 29, 2016"
+      },
+      "support_info": {
+        "url": "",
+        "email": "conglomerate5games@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/504770?t=1765186946",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/504770?t=1765186946",
+      "content_descriptors": {
+        "ids": [
+          5
+        ],
+        "notes": "Features scene of physical violence and alcohol."
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Drogas lícitas\nViolência"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Alkohol / Tabak\nGewalt"
+        }
+      }
+    }
+  }
+}

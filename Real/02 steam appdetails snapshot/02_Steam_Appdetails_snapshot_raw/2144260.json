@@ -1,0 +1,209 @@
+{
+  "2144260": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Mobius’ Radio Waves",
+      "steam_appid": 2144260,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h2 class=\"bb_tag\" >城南大学播音部有一个禁忌的杂物间，任何人都不得入内。</h2><br><br>“铃铃铃~” 一个陌生的电话从杂物间里响起，这间被称为“禁地”多年的地方……<br><br>当听到电话铃声时，选择-[接听]-或-[忽略]？<br><br>美少女与时间循环，有着不同使命的少男少女之间的较量，是命运的刻意安排，还是自己无心的纠缠？<br><br>哪个是真实的，过去的，现在的，未来的，还是无限的无线电波？<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144260/extras/0c88faeb11fd85087f28cb21b309613a.avif?t=1742194903\" width=600 height=192 /></span><br><br><ul class=\"bb_ul\"><li>全程通过故事剧情、人物对话、情节发展，欣赏整个游戏的所有高品质内容。<br></li><li>游戏过程中，会遇到不同的分支选项，不同的选择会产生不同的故事情节发展与内容。<br></li><li>不同的情节发展，会产生不同的故事结局；有的错误选择会产生失败结局，玩家需要根据自己的思考去进行正确选择。<br></li><li>通过“日志”、“存档”、“快速存档”等功能，能够帮助玩家更好的理解游戏剧情，避免玩家选错选项，更好的进行正确选择。</li></ul>",
+      "about_the_game": "<h2 class=\"bb_tag\" >城南大学播音部有一个禁忌的杂物间，任何人都不得入内。</h2><br><br>“铃铃铃~” 一个陌生的电话从杂物间里响起，这间被称为“禁地”多年的地方……<br><br>当听到电话铃声时，选择-[接听]-或-[忽略]？<br><br>美少女与时间循环，有着不同使命的少男少女之间的较量，是命运的刻意安排，还是自己无心的纠缠？<br><br>哪个是真实的，过去的，现在的，未来的，还是无限的无线电波？<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144260/extras/0c88faeb11fd85087f28cb21b309613a.avif?t=1742194903\" width=600 height=192 /></span><br><br><ul class=\"bb_ul\"><li>全程通过故事剧情、人物对话、情节发展，欣赏整个游戏的所有高品质内容。<br></li><li>游戏过程中，会遇到不同的分支选项，不同的选择会产生不同的故事情节发展与内容。<br></li><li>不同的情节发展，会产生不同的故事结局；有的错误选择会产生失败结局，玩家需要根据自己的思考去进行正确选择。<br></li><li>通过“日志”、“存档”、“快速存档”等功能，能够帮助玩家更好的理解游戏剧情，避免玩家选错选项，更好的进行正确选择。</li></ul>",
+      "short_description": "刚入学的大一新生伊琳，却在一个风雨交加的夜晚，听到了来自杂物间内部的来电铃声……这通神秘电话究竟来自何人？杂物间为何会成为禁忌？伊琳手臂上的无限印记又意味着什么？文字冒险推理游戏《莫比乌斯的电波》，就此展开！",
+      "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144260/header.jpg?t=1742194903",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144260/capsule_231x87.jpg?t=1742194903",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144260/capsule_184x69.jpg?t=1742194903",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7, Windows 8.1<br></li><li><strong>Processor:</strong> Intel Core i3 2.00 GHz 或 AMD A10<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel® HD Graphics 3000<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space<br></li><li><strong>Sound Card:</strong> Direct Sound Card</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3 2.00 GHz 或 AMD A10<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel® HD Graphics 3000<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Sound Card:</strong> Direct Sound Card</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "獭獭社"
+      ],
+      "publishers": [
+        "方块游戏(CubeGame)"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        767030
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Mobius’ Radio Waves",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 767030,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "莫比乌斯的电波 - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144260/ss_c6c1ec54943d62c12e9c9fbad82714d0fcc9c113.600x338.jpg?t=1742194903",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144260/ss_c6c1ec54943d62c12e9c9fbad82714d0fcc9c113.1920x1080.jpg?t=1742194903"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144260/ss_ebaa249ff9c6850d52a7f1f093369f14df875a36.600x338.jpg?t=1742194903",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144260/ss_ebaa249ff9c6850d52a7f1f093369f14df875a36.1920x1080.jpg?t=1742194903"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144260/ss_26ceb9564ee35cf97a008c7c2229a476197510f7.600x338.jpg?t=1742194903",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144260/ss_26ceb9564ee35cf97a008c7c2229a476197510f7.1920x1080.jpg?t=1742194903"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144260/ss_ee204fce2b8e705348e000b5ad740775ad5986f8.600x338.jpg?t=1742194903",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144260/ss_ee204fce2b8e705348e000b5ad740775ad5986f8.1920x1080.jpg?t=1742194903"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144260/ss_25088d51f4fb83bd2c739ffca8d898fc81d6199f.600x338.jpg?t=1742194903",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144260/ss_25088d51f4fb83bd2c739ffca8d898fc81d6199f.1920x1080.jpg?t=1742194903"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256904302,
+          "name": "PV",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256904302/movie.293x165.jpg?t=1664420779",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2144260/493573/4c9704d51de64284a5004005251ff398dfe635c9/1751081601/dash_av1.mpd?t=1664420779",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2144260/493573/4c9704d51de64284a5004005251ff398dfe635c9/1751081601/dash_h264.mpd?t=1664420779",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2144260/493573/4c9704d51de64284a5004005251ff398dfe635c9/1751081601/hls_264_master.m3u8?t=1664420779",
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 9,
+        "highlighted": [
+          {
+            "name": "第一章通关",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144260/5cd409c2c3eab0f13aa7e86e2e5a0248c071c58c.jpg"
+          },
+          {
+            "name": "第二章通关",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144260/bf9db85d542219dd322e22345ad884f48ccc84c7.jpg"
+          },
+          {
+            "name": "第三章通关",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144260/16b0d42771d8f4b89f8c8909aad28d1a8c6f458b.jpg"
+          },
+          {
+            "name": "第四章通关",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144260/a18f894afab5b69393979948f709407b2d87c77f.jpg"
+          },
+          {
+            "name": "第五章通关",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144260/ac3495b3ae0a379065d5bac471b6345b832c166e.jpg"
+          },
+          {
+            "name": "第六章通关",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144260/8950a2bdd16c10c16a8b62cc596de4bd91e1e63b.jpg"
+          },
+          {
+            "name": "第七章通关",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144260/303907bbb4595899637303cde799d7b8bebbac05.jpg"
+          },
+          {
+            "name": "第八章通关",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144260/7eef3514e1fcdfd43ef1aefed83369511bfd3e55.jpg"
+          },
+          {
+            "name": "第九章通关",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2144260/ea368e815815b592d8ed0f025fa65593ddfd55ea.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 1, 2023"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@5icube.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2144260?t=1742194903",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144260/page_bg_raw.jpg?t=1742194903",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "l"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "2751610": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "闲侠江湖",
+      "steam_appid": 2751610,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>特别提醒</h1><p>　　本作在熊窝官网也可以下载到免费移动版，只为让更多的玩家玩到一个免费的、纯净的、无广告的单机游戏，游戏中宝箱的密码都会公布在微信公众号Lairdodox中，也是绝对免费的，Steam版本纯是为了给小伙伴提供作为收藏之用，表达对游戏的支持。\r\n\r\n　　Steam中有职业黑，通过先差评然后私下沟通我，要我给钱解决问题，可以删差评，我并不在乎这样的方式，也不会妥协，因为如果你想了解游戏是不是你喜欢的，你可以在熊窝官网找到免费版，免费版也是完整的游戏体验，就算不花钱也可以玩到本游戏，在Steam上购买的玩家是因为在其他地方免费体验过，真的喜欢才会购买收藏的，Steam版收费也提高职业差评师的门槛。</p><br><h1>About the Game</h1>【熊窝dodox讨论群】：付费QQ群 312626045     免费QQ群   562344667（问宝箱密码、看教程攻略、提出开发建议、提出修改建议、玩家交流）\r\n\r\n【熊窝dodox微信公众号】：熊窝dodox 或 Lairdodox（机器人自动回宝箱答密码和简单问题）\r\n\r\n【熊窝官网】：www.idodx.com\r\n\r\n\r\n【游戏简介】：\r\n\r\n　　一个人独立制作的武侠游戏，最开始只想做一个能挂机又能有精神寄托的武侠游戏，最好能少动脑一些。\r\n\r\n　　过去的几年大家都太累了，在偶然的闲聊中谈起了希望有一款可以挂机轻松无脑的休闲游戏，而且还要有情怀，还能怀旧，最终和群里的小伙伴商量之后决定开始制作这样的游戏，游戏纯免费可以玩，无广告，想参与游戏开发和讨论的小伙伴已经想策划游戏的小伙伴都可以加入了QQ群。\r\n\r\n　　网络游戏这些年大家已经玩得像上班一样太累，稍有几天不玩就跟不上节奏，而游戏为了保持新鲜度不断的更新加玩法反而让一段时间不玩的玩家都不知道做些什么，所以我还是一如既往的坚持做这样的单机游戏，每一种玩法的游戏都会有不同的玩家喜欢和不喜欢，2023年的今天已经是我做游戏的第8个年头了，回顾过去一直到现在，每一种玩法的游戏我都会去尝试制作，因为每一个玩法都值得去探索，都有喜欢这种玩法的玩家。\r\n\r\n　　所以这次的游戏我想突出的就是让玩家快速的感受到经过自己的阵容搭配，队友选择，武功养成后的战斗快乐，没有繁杂的剧情和任务，只有酣畅淋漓的战斗，更轻松的去体验武侠招式带来的爽快，以及挑战每一个著名的侠客头目，最终收获宝藏。\r\n\r\n==========游戏特点==========\r\n\r\n　　闲侠江湖可以自动战斗也可以选择手动战斗，是采用的闯关模式玩法，每一关都是一个独立的特色，难度也会因为玩家的阵容组合和阵法搭配武功搭配相关，侠客与侠客之间可以有羁绊，同时也会影响武功的威力和效果。\r\n\r\n【自创武功】玩家可以根据自身习得的武功再取一个自己喜欢的名字，选一个武功的方向和类型，自创出一套属于自己的武功。\r\n\r\n【开宗立派】玩家可以占领一处地点，然后建立自己的门派，修建自己的门派建筑，并且可以招纳自己的弟子帮自己挂机干活。\r\n\r\n【修建家园】武林中有很多地方都可以购买自己的房产，其中可以自己添置家具，也可以让队友驻扎在自己的家园。\r\n\r\n【生产采集】地图上随时都能发现矿石和木材，采集时会增加相应的技能等级和熟练度。\r\n\r\n【野外奇遇】在野外可以有一定几率遇到稀有的侠客，与之互动可以让其加入队伍或者是通过修炼提高武功修为。\r\n\r\n【一键扫荡】忙碌的小伙伴们没时间玩？只要通关的关卡便可以使用扫荡功能轻松获得宝物。\r\n\r\n【门派奇遇】每一个侠客都会有自己的门派，队伍中激活了该门派的侠客，参与门派战斗时会发生奇遇剧情。\r\n\r\n【成就称号】通关完成不同的任务会获得称号，携带称号可以额外增加自己的属性，并且完成相应的难度挑战会获得成就奖励和成就收集。\r\n\r\n【休闲种地】厌倦了打打杀杀，不妨来郊外菜地，轻松种菜完成衙门发布的收集任务获得大量奖励。\r\n\r\n【珍珑棋局】前往聋哑谷挑战珍珑棋局可以获得大量的奖励。\r\n\r\n【经脉系统】不同品质的侠客会有不同的经脉，打通经脉不但能增加属性，还能提高对应的武学伤害和武学招式。\r\n\r\n【武器阁】挑战成功各大门派高手，会有一定几率缴获他们的看家武器作为收藏。\r\n\r\n【阵型系统】不同阵型可以对阵眼上的侠客有单独的加成，阵法也会对敌人造成不同的克制，有一些武功还会因为阵法发生改变。",
+      "about_the_game": "【熊窝dodox讨论群】：付费QQ群 312626045     免费QQ群   562344667（问宝箱密码、看教程攻略、提出开发建议、提出修改建议、玩家交流）<br />\r\n<br />\r\n【熊窝dodox微信公众号】：熊窝dodox 或 Lairdodox（机器人自动回宝箱答密码和简单问题）<br />\r\n<br />\r\n【熊窝官网】：www.idodx.com<br />\r\n<br />\r\n<br />\r\n【游戏简介】：<br />\r\n<br />\r\n　　一个人独立制作的武侠游戏，最开始只想做一个能挂机又能有精神寄托的武侠游戏，最好能少动脑一些。<br />\r\n<br />\r\n　　过去的几年大家都太累了，在偶然的闲聊中谈起了希望有一款可以挂机轻松无脑的休闲游戏，而且还要有情怀，还能怀旧，最终和群里的小伙伴商量之后决定开始制作这样的游戏，游戏纯免费可以玩，无广告，想参与游戏开发和讨论的小伙伴已经想策划游戏的小伙伴都可以加入了QQ群。<br />\r\n<br />\r\n　　网络游戏这些年大家已经玩得像上班一样太累，稍有几天不玩就跟不上节奏，而游戏为了保持新鲜度不断的更新加玩法反而让一段时间不玩的玩家都不知道做些什么，所以我还是一如既往的坚持做这样的单机游戏，每一种玩法的游戏都会有不同的玩家喜欢和不喜欢，2023年的今天已经是我做游戏的第8个年头了，回顾过去一直到现在，每一种玩法的游戏我都会去尝试制作，因为每一个玩法都值得去探索，都有喜欢这种玩法的玩家。<br />\r\n<br />\r\n　　所以这次的游戏我想突出的就是让玩家快速的感受到经过自己的阵容搭配，队友选择，武功养成后的战斗快乐，没有繁杂的剧情和任务，只有酣畅淋漓的战斗，更轻松的去体验武侠招式带来的爽快，以及挑战每一个著名的侠客头目，最终收获宝藏。<br />\r\n<br />\r\n==========游戏特点==========<br />\r\n<br />\r\n　　闲侠江湖可以自动战斗也可以选择手动战斗，是采用的闯关模式玩法，每一关都是一个独立的特色，难度也会因为玩家的阵容组合和阵法搭配武功搭配相关，侠客与侠客之间可以有羁绊，同时也会影响武功的威力和效果。<br />\r\n<br />\r\n【自创武功】玩家可以根据自身习得的武功再取一个自己喜欢的名字，选一个武功的方向和类型，自创出一套属于自己的武功。<br />\r\n<br />\r\n【开宗立派】玩家可以占领一处地点，然后建立自己的门派，修建自己的门派建筑，并且可以招纳自己的弟子帮自己挂机干活。<br />\r\n<br />\r\n【修建家园】武林中有很多地方都可以购买自己的房产，其中可以自己添置家具，也可以让队友驻扎在自己的家园。<br />\r\n<br />\r\n【生产采集】地图上随时都能发现矿石和木材，采集时会增加相应的技能等级和熟练度。<br />\r\n<br />\r\n【野外奇遇】在野外可以有一定几率遇到稀有的侠客，与之互动可以让其加入队伍或者是通过修炼提高武功修为。<br />\r\n<br />\r\n【一键扫荡】忙碌的小伙伴们没时间玩？只要通关的关卡便可以使用扫荡功能轻松获得宝物。<br />\r\n<br />\r\n【门派奇遇】每一个侠客都会有自己的门派，队伍中激活了该门派的侠客，参与门派战斗时会发生奇遇剧情。<br />\r\n<br />\r\n【成就称号】通关完成不同的任务会获得称号，携带称号可以额外增加自己的属性，并且完成相应的难度挑战会获得成就奖励和成就收集。<br />\r\n<br />\r\n【休闲种地】厌倦了打打杀杀，不妨来郊外菜地，轻松种菜完成衙门发布的收集任务获得大量奖励。<br />\r\n<br />\r\n【珍珑棋局】前往聋哑谷挑战珍珑棋局可以获得大量的奖励。<br />\r\n<br />\r\n【经脉系统】不同品质的侠客会有不同的经脉，打通经脉不但能增加属性，还能提高对应的武学伤害和武学招式。<br />\r\n<br />\r\n【武器阁】挑战成功各大门派高手，会有一定几率缴获他们的看家武器作为收藏。<br />\r\n<br />\r\n【阵型系统】不同阵型可以对阵眼上的侠客有单独的加成，阵法也会对敌人造成不同的克制，有一些武功还会因为阵法发生改变。",
+      "short_description": "怀旧休闲挂机武侠游戏",
+      "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751610/header.jpg?t=1710123077",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751610/capsule_231x87.jpg?t=1710123077",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751610/capsule_184x69.jpg?t=1710123077",
+      "website": "https://www.idodx.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP<br></li><li><strong>Processor:</strong> CPU i3<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> 32MB<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 1024 MB available space<br></li><li><strong>Sound Card:</strong> 无要求</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> CPU i5及以上<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> 128MB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2048 MB available space<br></li><li><strong>Sound Card:</strong> 无要求</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 8<br></li><li><strong>Processor:</strong> 无要求<br></li><li><strong>Memory:</strong> 128 MB RAM<br></li><li><strong>Graphics:</strong> 无要求<br></li><li><strong>Storage:</strong> 128 MB available space<br></li><li><strong>Sound Card:</strong> 无要求</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10<br></li><li><strong>Processor:</strong> 无要求<br></li><li><strong>Memory:</strong> 256 MB RAM<br></li><li><strong>Graphics:</strong> 无要求<br></li><li><strong>Storage:</strong> 256 MB available space<br></li><li><strong>Sound Card:</strong> 无要求</li></ul>"
+      },
+      "linux_requirements": [],
+      "developers": [
+        "熊窝dodox"
+      ],
+      "publishers": [
+        "熊窝dodox"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 899,
+        "final": 899,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$8.99"
+      },
+      "packages": [
+        984192
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 闲侠江湖",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 984192,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "闲侠江湖 - $8.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 899
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751610/ss_6b34857bcf551ad87b4281a67b880a3c58848888.600x338.jpg?t=1710123077",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751610/ss_6b34857bcf551ad87b4281a67b880a3c58848888.1920x1080.jpg?t=1710123077"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751610/ss_79db12b3c7bca23b139791c41ac1be0cd3f1aea5.600x338.jpg?t=1710123077",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751610/ss_79db12b3c7bca23b139791c41ac1be0cd3f1aea5.1920x1080.jpg?t=1710123077"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751610/ss_b1dbdda68b787287e06c8309bfff376527817b93.600x338.jpg?t=1710123077",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751610/ss_b1dbdda68b787287e06c8309bfff376527817b93.1920x1080.jpg?t=1710123077"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751610/ss_6f3c0de3b8c561bd0330e49c2bf784b4884ad29c.600x338.jpg?t=1710123077",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751610/ss_6f3c0de3b8c561bd0330e49c2bf784b4884ad29c.1920x1080.jpg?t=1710123077"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751610/ss_fbb909904659441138f228500c99dc5e088efb6f.600x338.jpg?t=1710123077",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751610/ss_fbb909904659441138f228500c99dc5e088efb6f.1920x1080.jpg?t=1710123077"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256990195,
+          "name": "太极拳",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256990195/movie.293x165.jpg?t=1704022120",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2751610/642713/60b71a9e483935aff0af5615c58e2d8f55d667aa/1750896820/dash_av1.mpd?t=1704022120",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2751610/642713/60b71a9e483935aff0af5615c58e2d8f55d667aa/1750896820/dash_h264.mpd?t=1704022120",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2751610/642713/60b71a9e483935aff0af5615c58e2d8f55d667aa/1750896820/hls_264_master.m3u8?t=1704022120",
+          "highlight": true
+        },
+        {
+          "id": 256990194,
+          "name": "闲侠江湖",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256990194/movie.293x165.jpg?t=1704022126",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2751610/642712/c7dad602f144467b83722b76b09aaa26be6af66f/1750896817/dash_av1.mpd?t=1704022126",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2751610/642712/c7dad602f144467b83722b76b09aaa26be6af66f/1750896817/dash_h264.mpd?t=1704022126",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2751610/642712/c7dad602f144467b83722b76b09aaa26be6af66f/1750896817/hls_264_master.m3u8?t=1704022126",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 110
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Feb 2, 2024"
+      },
+      "support_info": {
+        "url": "https://www.idodx.com",
+        "email": "herog@lairdodox.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2751610?t=1710123077",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2751610?t=1710123077",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência fantasiosa"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "6",
+          "required_age": "6",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Fantasy-Gewalt"
+        }
+      }
+    }
+  }
+}

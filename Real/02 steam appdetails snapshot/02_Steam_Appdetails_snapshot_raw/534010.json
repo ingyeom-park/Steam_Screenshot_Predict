@@ -1,0 +1,212 @@
+{
+  "534010": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Defense of Egypt: Cleopatra Mission",
+      "steam_appid": 534010,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>FIND HMUR!</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/extras/b009372be95605a3fb4580f8fe3b1d8f.poster.avif?t=1770447658\" width=1170 height=426 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/extras/b009372be95605a3fb4580f8fe3b1d8f.webm?t=1770447658\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/extras/b009372be95605a3fb4580f8fe3b1d8f.mp4?t=1770447658\" type=\"video/mp4\"></video></span></p></p><br><h1>About the Game</h1><p class=\"bb_paragraph\" >Defense of Egypt: Cleopatra Mission takes you to a land where the desert wind carries the sound of war. Under the burning sun and the gaze of the gods, every stone tower and bronze weapon becomes a shield for your people.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/extras/123875e6ae1275ad4bcced8855cc272a.avif?t=1770447658\" width=744 height=330 /></span></p><p class=\"bb_paragraph\" >Across sixty missions you will fight on shifting dunes, riverbanks, and sacred temples. Sixteen enemy types march against you: infantry charging the gates, war machines grinding forward, raiders from the skies and ships rising from the Nile.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You have six kinds of towers to build and upgrade, each with its own strength. Five special mechanisms can twist their power even further, turning a simple defense into a deadly machine. And when the horde presses too close, you can intervene yourself: call down lightning, hurl grenades, or scatter deadly traps to break the assault.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Every battle is a choice: do you play carefully, testing every path, or strike boldly and risk it all? The world of Ancient Egypt gives familiar tower defense mechanics a vivid tone—sun, sand, stone, and steel.</p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >Defense of Egypt: Cleopatra Mission takes you to a land where the desert wind carries the sound of war. Under the burning sun and the gaze of the gods, every stone tower and bronze weapon becomes a shield for your people.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/extras/123875e6ae1275ad4bcced8855cc272a.avif?t=1770447658\" width=744 height=330 /></span></p><p class=\"bb_paragraph\" >Across sixty missions you will fight on shifting dunes, riverbanks, and sacred temples. Sixteen enemy types march against you: infantry charging the gates, war machines grinding forward, raiders from the skies and ships rising from the Nile.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >You have six kinds of towers to build and upgrade, each with its own strength. Five special mechanisms can twist their power even further, turning a simple defense into a deadly machine. And when the horde presses too close, you can intervene yourself: call down lightning, hurl grenades, or scatter deadly traps to break the assault.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Every battle is a choice: do you play carefully, testing every path, or strike boldly and risk it all? The world of Ancient Egypt gives familiar tower defense mechanics a vivid tone—sun, sand, stone, and steel.</p>",
+      "short_description": "Defend the land of the Pharaohs. Build towers, unleash powers, and hold the line in Ancient Egypt.",
+      "supported_languages": "English, French, German, Russian, Spanish - Spain, Simplified Chinese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/6370b2d68c5614170ac27e23c623e99b23cecabb/header.jpg?t=1770447658",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/6b1f6583ac010fef3ad0ca5d0c1814186ace7ca7/capsule_231x87.jpg?t=1770447658",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/6b1f6583ac010fef3ad0ca5d0c1814186ace7ca7/capsule_184x69.jpg?t=1770447658",
+      "website": "https://www.facebook.com/FirstGamesInteractive/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 or later<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> 512 Mb<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 150 MB available space<br></li><li><strong>Sound Card:</strong> sb16</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.9<br></li><li><strong>Processor:</strong> 1000<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> 512</li></ul>"
+      },
+      "linux_requirements": [],
+      "legal_notice": "© First Games Interactive 2020",
+      "developers": [
+        "First Games Interactive"
+      ],
+      "publishers": [
+        "First Games Interactive"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 499,
+        "final": 499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$4.99"
+      },
+      "packages": [
+        129459,
+        247127
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Defense of Egypt: Cleopatra Mission",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 129459,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Defense of Egypt: Cleopatra Mission - $4.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 499
+            },
+            {
+              "packageid": 247127,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Defense of Egypt: Cleopatra Mission - Commercial License - $6.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 699
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/ss_b8e4c90c05f4af43749cd28447a9da410faf108a.600x338.jpg?t=1770447658",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/ss_b8e4c90c05f4af43749cd28447a9da410faf108a.1920x1080.jpg?t=1770447658"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/ss_95ec9cadc6e097b1f29f0240d67daba680af6fe3.600x338.jpg?t=1770447658",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/ss_95ec9cadc6e097b1f29f0240d67daba680af6fe3.1920x1080.jpg?t=1770447658"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/ss_c59d9c317a60686d7b262aa233c13b8cf0a78232.600x338.jpg?t=1770447658",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/ss_c59d9c317a60686d7b262aa233c13b8cf0a78232.1920x1080.jpg?t=1770447658"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/ss_38670b9440c005fa0056f9ee6d10ae142ff09833.600x338.jpg?t=1770447658",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/ss_38670b9440c005fa0056f9ee6d10ae142ff09833.1920x1080.jpg?t=1770447658"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/ss_24dd7a45c8e160a7f479d8a5336fd0b1b08f57b9.600x338.jpg?t=1770447658",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/ss_24dd7a45c8e160a7f479d8a5336fd0b1b08f57b9.1920x1080.jpg?t=1770447658"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/ss_c3e280f7ed54126f2363079d9008ef65b2819194.600x338.jpg?t=1770447658",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/ss_c3e280f7ed54126f2363079d9008ef65b2819194.1920x1080.jpg?t=1770447658"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/ss_b70bb2d0e4a800ee55d8812d619eb4801a006634.600x338.jpg?t=1770447658",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/ss_b70bb2d0e4a800ee55d8812d619eb4801a006634.1920x1080.jpg?t=1770447658"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256671495,
+          "name": "Defense of Egypt: Cleopatra Mission",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256671495/movie.293x165.jpg?t=1475044065",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/534010/74356/ea5a5d49e0599d15e33c4bdfd7ffa412b0e8d991/1751298577/dash_av1.mpd?t=1475044065",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/534010/74356/ea5a5d49e0599d15e33c4bdfd7ffa412b0e8d991/1751298577/dash_h264.mpd?t=1475044065",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/534010/74356/ea5a5d49e0599d15e33c4bdfd7ffa412b0e8d991/1751298577/hls_264_master.m3u8?t=1475044065",
+          "highlight": true
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 29, 2016"
+      },
+      "support_info": {
+        "url": "https://www.facebook.com/FirstGamesInteractive/",
+        "email": "sgritsai@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/534010?t=1770447658",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534010/page_bg_raw.jpg?t=1770447658",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "esrb": {
+          "rating": "e10"
+        },
+        "pegi": {
+          "rating": "11"
+        },
+        "bbfc": {
+          "rating": "12"
+        },
+        "usk": {
+          "rating": "12"
+        },
+        "oflc": {
+          "rating": "m"
+        },
+        "nzoflc": {
+          "rating": "r13"
+        },
+        "cero": {
+          "rating": "b"
+        },
+        "kgrb": {
+          "rating": "12"
+        },
+        "dejus": {
+          "rating": "10"
+        },
+        "fpb": {
+          "rating": "13"
+        },
+        "csrr": {
+          "rating": "C12"
+        },
+        "crl": {
+          "rating": "12"
+        }
+      }
+    }
+  }
+}

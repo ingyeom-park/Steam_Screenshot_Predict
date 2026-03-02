@@ -1,0 +1,253 @@
+{
+  "812840": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "LuGame: Lunchtime Games Club!",
+      "steam_appid": 812840,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/extras/110ae7033b3e0b307e70da0461052dcd.avif?t=1768000550\" width=600 height=464 /></span></p><p class=\"bb_paragraph\" ><strong>LuGame, Lunchtime Games Club!</strong> is a romantic comedy, slice-of-life visual novel starring a harem of beautiful nerdy girls!</p><p class=\"bb_paragraph\" >When you and your childhood friend, Tifa are caught playing games on the school computers, student council president Stacey kicks you out.</p><p class=\"bb_paragraph\" >You join the games club hoping to continue your peaceful, lazy school life, only to find there's only one other member - A little girl who pretends she's a robot?! </p><p class=\"bb_paragraph\" >Together you'll play childish games, go on fun adventures and hot dates! </p><p class=\"bb_paragraph\" >Enjoy an easygoing romantic comedy about meeting new friends, making memories, and gamer girl romance! </p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Slice-of-life romance!</p></li><li><p class=\"bb_paragraph\" >90,000 words of professionally-written dialogue.</p></li><li><p class=\"bb_paragraph\" >Approx 7-8 hrs gameplay (depending on user's reading speed).</p></li><li><p class=\"bb_paragraph\" >Banter with your friends and have fun adventures together!</p></li><li><p class=\"bb_paragraph\" >Adorable, lovable and memorable characters.</p></li><li><p class=\"bb_paragraph\" >Datable characters with multiple routes.</p></li><li><p class=\"bb_paragraph\" >Bonus route with 25,000 words (+2-4 hours).</p></li><li><p class=\"bb_paragraph\" >Interactive halloween bonus story (+1 hours). </p></li></ul><h2 class=\"bb_tag\" >Meet the Girls!</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/extras/d5f254f0117a7680d6b7b8f02af3c44d.avif?t=1768000550\" width=642 height=158 /></span></p><p class=\"bb_paragraph\" ><strong>Tifa </strong>is your childhood friend.</p><p class=\"bb_paragraph\" >You two play together so much, people think you two are a couple!</p><p class=\"bb_paragraph\" >Maybe it’s time to take this friendship to the next level! </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/extras/a9b23a9e804dc750363092d355975f22.avif?t=1768000550\" width=642 height=158 /></span></p><p class=\"bb_paragraph\" ><strong>Stacey </strong>is the President of the Student Council!</p><p class=\"bb_paragraph\" >This daddy’s girl loves making your life difficult!</p><p class=\"bb_paragraph\" >Can you stop her from closing down the games club?!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/extras/f82477b7b449064dfc9e2b86cbd9ec95.avif?t=1768000550\" width=642 height=158 /></span></p><p class=\"bb_paragraph\" ><strong>K-T </strong>is a… Battle-Droid?</p><p class=\"bb_paragraph\" >And she’ll defend the Games Club at all costs!</p><p class=\"bb_paragraph\" >Maybe you can teach this little robot how to love! </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/extras/aef6209158155c6d42e4c9797678ed7b.avif?t=1768000550\" width=642 height=158 /></span></p><p class=\"bb_paragraph\" ><strong>Alex </strong>has it all... </p><p class=\"bb_paragraph\" >Perfect looks, perfect reputation, perfect grades…</p><p class=\"bb_paragraph\" >Is it me or is she <i>too </i>perfect?  </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Story by UrbanM</p><p class=\"bb_paragraph\" >Writing by owl.</p><p class=\"bb_paragraph\" >Additional Writing by Niku</p><p class=\"bb_paragraph\" >Sprite &amp; CG Art by Dojipan</p><p class=\"bb_paragraph\" >Chibi Art by Moozua</p><p class=\"bb_paragraph\" >Music by Alyx</p><p class=\"bb_paragraph\" >UI by ds-sans</p><p class=\"bb_paragraph\" >BGs &amp; Trailer by WhiteCharisma</p>",
+      "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/extras/110ae7033b3e0b307e70da0461052dcd.avif?t=1768000550\" width=600 height=464 /></span></p><p class=\"bb_paragraph\" ><strong>LuGame, Lunchtime Games Club!</strong> is a romantic comedy, slice-of-life visual novel starring a harem of beautiful nerdy girls!</p><p class=\"bb_paragraph\" >When you and your childhood friend, Tifa are caught playing games on the school computers, student council president Stacey kicks you out.</p><p class=\"bb_paragraph\" >You join the games club hoping to continue your peaceful, lazy school life, only to find there's only one other member - A little girl who pretends she's a robot?! </p><p class=\"bb_paragraph\" >Together you'll play childish games, go on fun adventures and hot dates! </p><p class=\"bb_paragraph\" >Enjoy an easygoing romantic comedy about meeting new friends, making memories, and gamer girl romance! </p><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Slice-of-life romance!</p></li><li><p class=\"bb_paragraph\" >90,000 words of professionally-written dialogue.</p></li><li><p class=\"bb_paragraph\" >Approx 7-8 hrs gameplay (depending on user's reading speed).</p></li><li><p class=\"bb_paragraph\" >Banter with your friends and have fun adventures together!</p></li><li><p class=\"bb_paragraph\" >Adorable, lovable and memorable characters.</p></li><li><p class=\"bb_paragraph\" >Datable characters with multiple routes.</p></li><li><p class=\"bb_paragraph\" >Bonus route with 25,000 words (+2-4 hours).</p></li><li><p class=\"bb_paragraph\" >Interactive halloween bonus story (+1 hours). </p></li></ul><h2 class=\"bb_tag\" >Meet the Girls!</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/extras/d5f254f0117a7680d6b7b8f02af3c44d.avif?t=1768000550\" width=642 height=158 /></span></p><p class=\"bb_paragraph\" ><strong>Tifa </strong>is your childhood friend.</p><p class=\"bb_paragraph\" >You two play together so much, people think you two are a couple!</p><p class=\"bb_paragraph\" >Maybe it’s time to take this friendship to the next level! </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/extras/a9b23a9e804dc750363092d355975f22.avif?t=1768000550\" width=642 height=158 /></span></p><p class=\"bb_paragraph\" ><strong>Stacey </strong>is the President of the Student Council!</p><p class=\"bb_paragraph\" >This daddy’s girl loves making your life difficult!</p><p class=\"bb_paragraph\" >Can you stop her from closing down the games club?!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/extras/f82477b7b449064dfc9e2b86cbd9ec95.avif?t=1768000550\" width=642 height=158 /></span></p><p class=\"bb_paragraph\" ><strong>K-T </strong>is a… Battle-Droid?</p><p class=\"bb_paragraph\" >And she’ll defend the Games Club at all costs!</p><p class=\"bb_paragraph\" >Maybe you can teach this little robot how to love! </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/extras/aef6209158155c6d42e4c9797678ed7b.avif?t=1768000550\" width=642 height=158 /></span></p><p class=\"bb_paragraph\" ><strong>Alex </strong>has it all... </p><p class=\"bb_paragraph\" >Perfect looks, perfect reputation, perfect grades…</p><p class=\"bb_paragraph\" >Is it me or is she <i>too </i>perfect?  </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Story by UrbanM</p><p class=\"bb_paragraph\" >Writing by owl.</p><p class=\"bb_paragraph\" >Additional Writing by Niku</p><p class=\"bb_paragraph\" >Sprite &amp; CG Art by Dojipan</p><p class=\"bb_paragraph\" >Chibi Art by Moozua</p><p class=\"bb_paragraph\" >Music by Alyx</p><p class=\"bb_paragraph\" >UI by ds-sans</p><p class=\"bb_paragraph\" >BGs &amp; Trailer by WhiteCharisma</p>",
+      "short_description": "A games club’s without members… or games?! Who is this crazy robot girl? Why am I being harassed by this cute bully? Life may not have a controller, but it certainly feels like a big game!",
+      "supported_languages": "English",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/header.jpg?t=1768000550",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/capsule_231x87.jpg?t=1768000550",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/capsule_184x69.jpg?t=1768000550",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 32 bit<br></li><li><strong>Processor:</strong> 1.66 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> DirectX compatible card<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mojave<br></li><li><strong>Processor:</strong> 1.66 Ghz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>"
+      },
+      "linux_requirements": [],
+      "developers": [
+        "UrbanM",
+        "Jellyfish Parade"
+      ],
+      "publishers": [
+        "Urban Meadows"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 799,
+        "final": 799,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$7.99"
+      },
+      "packages": [
+        248306
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy LuGame: Lunchtime Games Club!",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 248306,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "LuGame: Lunchtime Games Club! - $7.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 799
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_1fc0dc25379dc2533a588138da61742270c69b7b.600x338.jpg?t=1768000550",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_1fc0dc25379dc2533a588138da61742270c69b7b.1920x1080.jpg?t=1768000550"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_192bc62dd029a712009c6aaddf4fc5f0f50a3d07.600x338.jpg?t=1768000550",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_192bc62dd029a712009c6aaddf4fc5f0f50a3d07.1920x1080.jpg?t=1768000550"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_bc739a75828dbf991a6686fd2c4c5b19c79be5fb.600x338.jpg?t=1768000550",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_bc739a75828dbf991a6686fd2c4c5b19c79be5fb.1920x1080.jpg?t=1768000550"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_2a56724e04e733f298546e964b3e701e8d540697.600x338.jpg?t=1768000550",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_2a56724e04e733f298546e964b3e701e8d540697.1920x1080.jpg?t=1768000550"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_cc078489d105f06cb7c9b6ba43f2abb7fff4c85d.600x338.jpg?t=1768000550",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_cc078489d105f06cb7c9b6ba43f2abb7fff4c85d.1920x1080.jpg?t=1768000550"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_c1d987f74411bd60a1b643d285e32f19c8dc7a16.600x338.jpg?t=1768000550",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_c1d987f74411bd60a1b643d285e32f19c8dc7a16.1920x1080.jpg?t=1768000550"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_1209a92d1db8f2449fe2ed1992eaae355f2db0c8.600x338.jpg?t=1768000550",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_1209a92d1db8f2449fe2ed1992eaae355f2db0c8.1920x1080.jpg?t=1768000550"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_23b720821600f92c15baaf39fd753b4b9bb20dd3.600x338.jpg?t=1768000550",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_23b720821600f92c15baaf39fd753b4b9bb20dd3.1920x1080.jpg?t=1768000550"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_4f17c6a2c34c95aa61dd2095d0a90672bdb261da.600x338.jpg?t=1768000550",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/ss_4f17c6a2c34c95aa61dd2095d0a90672bdb261da.1920x1080.jpg?t=1768000550"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256744723,
+          "name": "LuGame PV",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256744723/movie.293x165.jpg?t=1553804283",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/812840/212306/6e9247d187955f7535ab819b87ca7b87ab272136/1751147773/dash_av1.mpd?t=1553804283",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/812840/212306/6e9247d187955f7535ab819b87ca7b87ab272136/1751147773/dash_h264.mpd?t=1553804283",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/812840/212306/6e9247d187955f7535ab819b87ca7b87ab272136/1751147773/hls_264_master.m3u8?t=1553804283",
+          "highlight": true
+        },
+        {
+          "id": 256767471,
+          "name": "I Dated A Robot Preview",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256767471/movie.293x165.jpg?t=1573951183",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/812840/253061/9c233e24ba6d7e2638cc7f63788ef53f71956e45/1751147774/dash_av1.mpd?t=1573951183",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/812840/253061/9c233e24ba6d7e2638cc7f63788ef53f71956e45/1751147774/dash_h264.mpd?t=1573951183",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/812840/253061/9c233e24ba6d7e2638cc7f63788ef53f71956e45/1751147774/hls_264_master.m3u8?t=1573951183",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 195
+      },
+      "achievements": {
+        "total": 10,
+        "highlighted": [
+          {
+            "name": "Sleepy Beepy",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/812840/7b90d2e14c69043b3bdd874ff35814159a4ea474.jpg"
+          },
+          {
+            "name": "Snuggo Smuggo",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/812840/feb50627249a37ad1319a917bde7fe26b7edf374.jpg"
+          },
+          {
+            "name": "Espionage",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/812840/fcec046187b2bda932dd8a65e4707b03d7592c89.jpg"
+          },
+          {
+            "name": "Game Over!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/812840/2b0f20ae9ece34248c442a2bdd2811320d992d70.jpg"
+          },
+          {
+            "name": "Commitee Member",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/812840/52b85a49fa44e584d51e8da4cac9621243501502.jpg"
+          },
+          {
+            "name": "History Buff",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/812840/cce13c0237976be193c80716005d42b274284437.jpg"
+          },
+          {
+            "name": "Twice Shy",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/812840/d28ff27e78e091c0f8652901329790c296af1b80.jpg"
+          },
+          {
+            "name": "Liar liar, pants on fire",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/812840/5602b4bd989a17b0ce73b471d73c3d1553b3623b.jpg"
+          },
+          {
+            "name": "Side Quest Complete!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/812840/50bb5d55bd242d94b1ff40f47681235b7ea2c454.jpg"
+          },
+          {
+            "name": "Upset the Strawberry Cart",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/812840/b37e52d839dadf65065c5315a8a1763d55062ab2.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 20, 2019"
+      },
+      "support_info": {
+        "url": "",
+        "email": ""
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/812840?t=1768000550",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812840/page_bg_raw.jpg?t=1768000550",
+      "content_descriptors": {
+        "ids": [
+          1,
+          5
+        ],
+        "notes": "PEGI 12 (suitable for ages 12 and up).\r\nLuGame is a wholesome romantic comedy and is Twitch/YouTube safe as it contains no nudity or explicit language. 'Mature content' describes characters consuming alcohol and wearing swimsuits.\r\n\r\n○ Characters in this game are at least 18 years old.\r\n○ Contains scenes of girls in swimsuits or underwear.\r\n○ Infrequent alcohol references and one scene of irresponsible consumption of alcohol."
+      },
+      "ratings": {
+        "pegi": {
+          "rating": "12",
+          "descriptors": "Mild Sexual Content"
+        },
+        "dejus": {
+          "rating": "12",
+          "descriptors": "Conteúdo sexual",
+          "use_age_gate": "true",
+          "required_age": "12"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Sexuelle Andeutungen"
+        }
+      }
+    }
+  }
+}

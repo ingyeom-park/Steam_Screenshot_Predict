@@ -1,0 +1,219 @@
+{
+  "1015080": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Vampire & Monsters: Hidden Objects",
+      "steam_appid": 1015080,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h2 class=\"bb_tag\" ><strong>Two Hidden Object Adventures Where Monsters and Mysteries Collide</strong></h2><p class=\"bb_paragraph\" >Step into a world where legendary creatures and curious minds meet. These two Hidden Object games combine mystery, monsters, and adventure across vivid 360-degree scenes with rich animation and 3D effects.</p><p class=\"bb_paragraph\" >Uncover clues, collect rewards, and return to quests with new puzzles. Whether you're in it for the thrill or the challenge, there's always more to explore.</p><h2 class=\"bb_tag\" ><strong>Game Highlights</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Search in immersive 360-degree panoramic scenes</p></li><li><p class=\"bb_paragraph\" >Look behind objects, secrets might be hiding out of sight</p></li><li><p class=\"bb_paragraph\" >Replay quests with fresh puzzles and bonus rewards</p></li><li><p class=\"bb_paragraph\" >Explore environments inspired by monster legends and lore</p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/extras/ddc7ce9d328398a762d21b7a618117e8.avif?t=1757685510\" width=600 height=292 /></span></p><h2 class=\"bb_tag\" ><strong>Trap for Monsters</strong></h2><p class=\"bb_paragraph\" >You are part of an ancient secret order, sworn to keep the balance between good and evil. Now the order’s powerful amulet has been stolen under the full moon.</p><p class=\"bb_paragraph\" >Investigate the lairs of mythical creatures including a werewolf, a ghost, a mummy, and a forest spirit. Explore castles, enchanted woods, and hidden chambers as you follow a trail of clues toward the truth.</p><h2 class=\"bb_tag\" ><strong>Vampire</strong></h2><p class=\"bb_paragraph\" >A young heroine becomes the unwilling player in a vampire’s cruel game. If she succeeds, she earns her freedom. If she fails, she becomes his next meal.</p><p class=\"bb_paragraph\" >Solve puzzles, navigate deadly traps, and collect pieces of a sacred amulet. Escaping the castle is only the beginning. The darkest secrets are still waiting to be revealed.</p>",
+      "about_the_game": "<h2 class=\"bb_tag\" ><strong>Two Hidden Object Adventures Where Monsters and Mysteries Collide</strong></h2><p class=\"bb_paragraph\" >Step into a world where legendary creatures and curious minds meet. These two Hidden Object games combine mystery, monsters, and adventure across vivid 360-degree scenes with rich animation and 3D effects.</p><p class=\"bb_paragraph\" >Uncover clues, collect rewards, and return to quests with new puzzles. Whether you're in it for the thrill or the challenge, there's always more to explore.</p><h2 class=\"bb_tag\" ><strong>Game Highlights</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Search in immersive 360-degree panoramic scenes</p></li><li><p class=\"bb_paragraph\" >Look behind objects, secrets might be hiding out of sight</p></li><li><p class=\"bb_paragraph\" >Replay quests with fresh puzzles and bonus rewards</p></li><li><p class=\"bb_paragraph\" >Explore environments inspired by monster legends and lore</p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/extras/ddc7ce9d328398a762d21b7a618117e8.avif?t=1757685510\" width=600 height=292 /></span></p><h2 class=\"bb_tag\" ><strong>Trap for Monsters</strong></h2><p class=\"bb_paragraph\" >You are part of an ancient secret order, sworn to keep the balance between good and evil. Now the order’s powerful amulet has been stolen under the full moon.</p><p class=\"bb_paragraph\" >Investigate the lairs of mythical creatures including a werewolf, a ghost, a mummy, and a forest spirit. Explore castles, enchanted woods, and hidden chambers as you follow a trail of clues toward the truth.</p><h2 class=\"bb_tag\" ><strong>Vampire</strong></h2><p class=\"bb_paragraph\" >A young heroine becomes the unwilling player in a vampire’s cruel game. If she succeeds, she earns her freedom. If she fails, she becomes his next meal.</p><p class=\"bb_paragraph\" >Solve puzzles, navigate deadly traps, and collect pieces of a sacred amulet. Escaping the castle is only the beginning. The darkest secrets are still waiting to be revealed.</p>",
+      "short_description": "Step into a thrilling adventure filled with ancient monsters! Explore the vampire’s castle, uncover its secrets, and escape while assembling a mighty amulet to defeat Evil. Enjoy two Hidden Object games about monsters and the people who come face-to-face with them!",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Traditional Chinese, Simplified Chinese, Korean, Dutch, Polish, Portuguese - Portugal, Russian, Turkish, Ukrainian, Czech, Japanese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/22f18cc99b16c4bdea5c8600f69a60c31c0e3a76/header.jpg?t=1757685510",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/89d8a08e3857056adcf57b5a766712afd92e34da/capsule_231x87.jpg?t=1757685510",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/89d8a08e3857056adcf57b5a766712afd92e34da/capsule_184x69.jpg?t=1757685510",
+      "website": "http://crispapp.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP SP2+, Vista, Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> 1,5 GHz or more<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 128 MB<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.8/10.9/10.10/10.11/10.12/10.13<br></li><li><strong>Processor:</strong> 1.6 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 128 MB<br></li><li><strong>Storage:</strong> 550 MB available space</li></ul>"
+      },
+      "linux_requirements": [],
+      "legal_notice": "Copyright © 2019 CrispApp Studio",
+      "developers": [
+        "Crisp App Studio"
+      ],
+      "publishers": [
+        "Crisp App Studio"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 399,
+        "final": 399,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$3.99"
+      },
+      "packages": [
+        336401
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Vampire & Monsters: Hidden Objects",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 336401,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Vampire & Monsters: Hidden Object Games - $3.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 399
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/ss_66689e2a1b0df35091a70d0f78a52cae300762f7.600x338.jpg?t=1757685510",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/ss_66689e2a1b0df35091a70d0f78a52cae300762f7.1920x1080.jpg?t=1757685510"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/ss_df75b683169aced03583f8f5b42345626b6acb4c.600x338.jpg?t=1757685510",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/ss_df75b683169aced03583f8f5b42345626b6acb4c.1920x1080.jpg?t=1757685510"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/ss_b45c98ce7fb987816577f569532cc741d252aa10.600x338.jpg?t=1757685510",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/ss_b45c98ce7fb987816577f569532cc741d252aa10.1920x1080.jpg?t=1757685510"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/ss_1608be178f5c7858c9162195aaf083b831b1f14b.600x338.jpg?t=1757685510",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/ss_1608be178f5c7858c9162195aaf083b831b1f14b.1920x1080.jpg?t=1757685510"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/ss_4f14820cd397802d2476de25d0c20fee5da6fe9e.600x338.jpg?t=1757685510",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/ss_4f14820cd397802d2476de25d0c20fee5da6fe9e.1920x1080.jpg?t=1757685510"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/ss_9f4c1b017f9b1c7fd76ee903ac5ea09cc1959b9b.600x338.jpg?t=1757685510",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/ss_9f4c1b017f9b1c7fd76ee903ac5ea09cc1959b9b.1920x1080.jpg?t=1757685510"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/ss_002a4aa068a07233b2f420ed4adea6cd1d4b2afe.600x338.jpg?t=1757685510",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/ss_002a4aa068a07233b2f420ed4adea6cd1d4b2afe.1920x1080.jpg?t=1757685510"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/ss_0e01bfd93759d1f6ac00fdf2260d75c6b6cf421d.600x338.jpg?t=1757685510",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/ss_0e01bfd93759d1f6ac00fdf2260d75c6b6cf421d.1920x1080.jpg?t=1757685510"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256744552,
+          "name": "MonstEn",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256744552/movie.293x165.jpg?t=1551776510",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1015080/211979/84590e2c5672eaaf3a92fb455adba1a5a583ca96/1751176586/dash_av1.mpd?t=1551776510",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1015080/211979/84590e2c5672eaaf3a92fb455adba1a5a583ca96/1751176586/dash_h264.mpd?t=1551776510",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1015080/211979/84590e2c5672eaaf3a92fb455adba1a5a583ca96/1751176586/hls_264_master.m3u8?t=1551776510",
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 5,
+        "highlighted": [
+          {
+            "name": "Adventure begins",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1015080/d8c64cf719a50a61db75065e433378b7abbf5c6c.jpg"
+          },
+          {
+            "name": "Evil defeated!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1015080/acd895c0dc648c50d6fdd6b5c7812c00a16e9251.jpg"
+          },
+          {
+            "name": "An eagle eye",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1015080/69c815789ecb36112816f079bbfb050184589fd5.jpg"
+          },
+          {
+            "name": "Gentle",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1015080/9e0fa0c00671581ee413d3601122f6d772b89381.jpg"
+          },
+          {
+            "name": "Clairvoyant",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1015080/7e7064f1f792a275f2ccb4ac50bb76d0ce82ad44.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "May 24, 2019"
+      },
+      "support_info": {
+        "url": "http://facebook/CrispApp",
+        "email": "support@crispapp.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1015080?t=1757685510",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1015080/f979267eee3a33228c8d34a027c83f7411e0381c/page_bg_raw.jpg?t=1757685510",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "10",
+          "required_age": "10",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Medo"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Gewalt"
+        }
+      }
+    }
+  }
+}

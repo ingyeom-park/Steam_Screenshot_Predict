@@ -1,0 +1,163 @@
+{
+  "2799560": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "The Czar is Dead",
+      "steam_appid": 2799560,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        3616040
+      ],
+      "detailed_description": "<p class=\"bb_paragraph\" >The game describes the events of an alternative history.<br>What would have happened if Great Russia had won the First World War? </p><p class=\"bb_paragraph\" >The game has 7 endings depending on the player's decisions.</p><p class=\"bb_paragraph\" >Approximate reading time for the entire novel is 3 hours.</p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >The game describes the events of an alternative history.<br>What would have happened if Great Russia had won the First World War? </p><p class=\"bb_paragraph\" >The game has 7 endings depending on the player's decisions.</p><p class=\"bb_paragraph\" >Approximate reading time for the entire novel is 3 hours.</p>",
+      "short_description": "The Czar is Dead is a visual novel in the setting of the Russian Empire. Help the last russian emperor save his soul, life and country.",
+      "supported_languages": "Russian, English, Simplified Chinese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799560/header.jpg?t=1765536847",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799560/capsule_231x87.jpg?t=1765536847",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799560/capsule_184x69.jpg?t=1765536847",
+      "website": "https://vk.com/czar_is_dead",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 or higher.<br></li><li><strong>Processor:</strong> 2.0 Ghz 64-bit Intel-compatible<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.10+<br></li><li><strong>Processor:</strong> 2.0 Ghz 64-bit Intel-compatible (Apple silicon supported through Rosetta 2)<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 16.04+<br></li><li><strong>Processor:</strong> 2.0 Ghz 64-bit Intel-compatible<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.0</li></ul>"
+      },
+      "developers": [
+        "Машина Радость"
+      ],
+      "publishers": [
+        "Grable Team"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 799,
+        "final": 799,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$7.99"
+      },
+      "packages": [
+        999987
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy The Czar is Dead",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 999987,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "The Czar is Dead - $7.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 799
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799560/ss_62d5584832faf6c688b75359c5216b658c6fa72f.600x338.jpg?t=1765536847",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799560/ss_62d5584832faf6c688b75359c5216b658c6fa72f.1920x1080.jpg?t=1765536847"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799560/ss_513ad91f2306df0ef455466867d61b9e6e85ea48.600x338.jpg?t=1765536847",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799560/ss_513ad91f2306df0ef455466867d61b9e6e85ea48.1920x1080.jpg?t=1765536847"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799560/ss_5191add4c44a9d01b53825ae7dbca390a42cd137.600x338.jpg?t=1765536847",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799560/ss_5191add4c44a9d01b53825ae7dbca390a42cd137.1920x1080.jpg?t=1765536847"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799560/ss_08da9283edfbce925f9e7ffd96a21e93aa8120f4.600x338.jpg?t=1765536847",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799560/ss_08da9283edfbce925f9e7ffd96a21e93aa8120f4.1920x1080.jpg?t=1765536847"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799560/ss_04c303c90f429ed1d9ace248a491538c37fa6dc4.600x338.jpg?t=1765536847",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799560/ss_04c303c90f429ed1d9ace248a491538c37fa6dc4.1920x1080.jpg?t=1765536847"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256996824,
+          "name": "Training",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256996824/movie.293x165.jpg?t=1707330724",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2799560/655156/f24fa93b080aee612e2518b7a40e33cd75cd0511/1750901266/dash_av1.mpd?t=1707330724",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2799560/655156/f24fa93b080aee612e2518b7a40e33cd75cd0511/1750901266/dash_h264.mpd?t=1707330724",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2799560/655156/f24fa93b080aee612e2518b7a40e33cd75cd0511/1750901266/hls_264_master.m3u8?t=1707330724",
+          "highlight": true
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "Mar 7, 2024"
+      },
+      "support_info": {
+        "url": "https://vk.com/czar_is_dead",
+        "email": ""
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2799560?t=1765536847",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799560/page_bg_raw.jpg?t=1765536847",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "14",
+          "required_age": "14",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência\nDrogas lícitas\nAtos criminosos"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "16",
+          "required_age": "16",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Drastische Gewalt"
+        }
+      }
+    }
+  }
+}

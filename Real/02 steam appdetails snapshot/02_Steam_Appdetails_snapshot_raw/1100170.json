@@ -1,0 +1,165 @@
+{
+  "1100170": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Double Spoiler",
+      "steam_appid": 1100170,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h2 class=\"bb_tag\" >ゲーム概要</h2><br>・ゲームの目的<br>　天狗の新聞記者「<u>射命丸文</u>」を操作し、幻想郷に住む<br>　妖怪、人間等を激写して精神的ダメージを与えるゲームです。<br>　<br>・ルール<br>　敵弾や被写体に当たらないように文を操作しボスを撮影します。<br>　<br>　ボスを<u>規定枚数撮影すればミッションクリア</u>です。<br>　クリアできなかった場合はハイスコアには残りません。<h2 class=\"bb_tag\" >基本技術　操作編</h2><br>・操作方法<br>　撮影ボタン（キーボードはZ）<br>　　　写真を撮影（フィルム装填100％時）<br>　　　押し続けると撮影箇所を操作出来ます。<br><br>　低速移動ボタン（キーボードはShift)<br>　　　押し続けると文の移動速度が遅くなります。<br><br>　撮影と低速移動ボタン同時押し<br>　　　超精密移動、及び高速フィルム巻き<br><br>　回転ボタン（キーボードはX）<br>　　　カメラの向きを縦横切り替える。<br><br><br>　決定　　　　　　撮影ボタン（Enterボタン）<br>　キャンセル　　　低速移動ボタン or 回転ボタン（Escボタン）<h2 class=\"bb_tag\" >基本技術　撮影編</h2><br>・フィルム装填率<br>　ファインダーの近くに表記してあります。<br>　<u>100%時のみ写真が撮影可能</u>です。<br><br><br>・通常フィルム巻き<br>　何もせずとも<u>時間で徐々に回復</u>し、100%になれば撮影可能です。<br>　<br>・高速フィルム巻き<br>　<u>撮影ボタンと低速移動ボタンを同時押しすると、通常より</u><br>　<u>かなり早くフィルムを巻きます。</u><br>　この時間は超精密移動になります。<br><br>・ファインダーモード<br>　<u>撮影ボタンを押しっぱなしにすると一定時間ファインダーモード</u><br>　<u>になります。</u>この時は、プレイヤーではなくフォーカスフレーム<br>　を操作し、少し離れた場所を撮影することが可能です。<br>　＊ただし、時間と共にフォーカスフレーム（撮影有効範囲）が小さくなり、<br>　　一定時間でフィルムが<u>感光（無条件撮影失敗）</u>してしまいます。<h2 class=\"bb_tag\" >基本技術　写真編</h2><br>・有効写真と無効写真<br>　<u>ボスが写真に収まっていると撮影成功</u>です。<br>　失敗した場合はカウントされません。<br><br>・シュート・ザ・ブリット<br>　弾幕を撮影すると、<u>写した弾幕を消すことが出来ます</u>。<br>　この時、その美しさで写真の評価点が決まります。<br><br>・決定的瞬間<br>　<u>最も評価点が高かった写真</u>は「<u>決定的瞬間写真</u>」として<br>　文の手帖に残ります。<br><br>・撮影時の注意<br>　撮影するときは<u>低速移動ボタンを離して撮影ボタンを</u><br>　<u>押さないと撮影出来ません。</u><br>　しっかり撮影ポイントに移動してから撮影しましょう。<h2 class=\"bb_tag\" >基本技術　評価点編</h2><br>・写真の評価点<br>　<u>敵弾を多く撮影するとその写真の評価点が高く</u>なります。<br>　ボスを写真の中央に収めるほど点数が高くなります。<br>　（また、様々な条件により点数が加算されます）<br><br>・ナイスショット<br>　「カツッ」という効果音と共にボスの周りに大きな円が<br>　現れることがあります。<br>　この時に撮影するとボーナスが入ります。<br><br>・主なボーナス評価点<br>　Boss Shot　　ボスを写真に収めた（中心の方がより良い）<br>　Two Shot 　　プレイヤーとボスの二人を写真に収めた<br>　Risk Shot　　危機的状況で撮影した<br>　Macro Bonus　ボスを接写した<br>　Angle Bonus　写真の辺が短い方を向けてボスを撮影した<br>　Clear Shot 　ボスの姿をくっきり写した<br>　等々、他にもたくさんあります。<h2 class=\"bb_tag\" >基本技術　小ネタ編</h2><br>・失敗写真のススメ<br>　失敗写真でも敵弾は消せます。<br>　<u>あえて被写体を狙わずに分厚い弾幕を撮影することで、</u><br>　<u>ピンチを切り抜けることも可能</u>です。<br>　また、失敗写真は手帖には収めず捨ててしまうので、<br>　<u>次の撮影までのブランクが短くなります</u>。その為、無理して<br>　被写体を撮影しない方が有利になる場合もあります。<br><br>・フォーカスフレームの色<br>　ファインダーモード時のフォーカスフレーム内に<br>　ボスが入っている時は、<u>フレームが赤く</u>なります。<br>　この時に撮影すれば撮影成功です。<br><br>・フォーカスフレームの初期位置<br>　フォーカスフレームの初期位置はファインダーカーソルの<br>　位置です。ファインダーカーソルは、<br>　<u>高速移動時は移動方向に振れ、低速中はボスの方向を向きます</u>。<h2 class=\"bb_tag\" >応用技術　撮影編</h2><br>・ボスの撮影不可能状態<br>　ボスが消えていたり、画面外にいたり、半透明になっていたり、<br>　別の物に変形している時は撮影しても必ず失敗します。<br><br>・フォルムが感光するまでの時間の目安<br>　フォーカスフレームの中心にある大きな円が完全に消えると<br>　感光（失敗）します。<br><br>・ファインダーカーソルの狙い<br>　高速でボスに近づいたときは、ファインダーカーソルがボスを<br>　向いていない事があります。この時、<br>　<u>低速移動ボタンを一瞬押すとボスに合わせる</u>ことが出来ます。<br><br>・写真の向き<br>　基本的に縦向きの方が遠くまで撮影でき、攻略に有利です。<br>　慣れるまでは縦向きメインで行うといいでしょう。<h2 class=\"bb_tag\" >小ネタ　決定的瞬間写真編</h2><br>・決定的瞬間写真のロック<br>　被写体選択で、キーボードの<u>Lキー</u>を押すと写真の上に鍵が<br>　表示され、そのシーンの写真が上書き禁止にされます。<br>　以降、より点数が高い写真が撮れても更新されません。<br><br>・決定的瞬間写真の手動更新<br>　ステージクリア画面（及びゲームオーバー画面）で写真が表示<br>　されているとき、左右で写真を切り替えキーボードの<u>Ｓキー</u>を<br>　押すと保存することが出来ます。<br>　＊ロックしていても強制的に更新します。",
+      "about_the_game": "<h2 class=\"bb_tag\" >ゲーム概要</h2><br>・ゲームの目的<br>　天狗の新聞記者「<u>射命丸文</u>」を操作し、幻想郷に住む<br>　妖怪、人間等を激写して精神的ダメージを与えるゲームです。<br>　<br>・ルール<br>　敵弾や被写体に当たらないように文を操作しボスを撮影します。<br>　<br>　ボスを<u>規定枚数撮影すればミッションクリア</u>です。<br>　クリアできなかった場合はハイスコアには残りません。<h2 class=\"bb_tag\" >基本技術　操作編</h2><br>・操作方法<br>　撮影ボタン（キーボードはZ）<br>　　　写真を撮影（フィルム装填100％時）<br>　　　押し続けると撮影箇所を操作出来ます。<br><br>　低速移動ボタン（キーボードはShift)<br>　　　押し続けると文の移動速度が遅くなります。<br><br>　撮影と低速移動ボタン同時押し<br>　　　超精密移動、及び高速フィルム巻き<br><br>　回転ボタン（キーボードはX）<br>　　　カメラの向きを縦横切り替える。<br><br><br>　決定　　　　　　撮影ボタン（Enterボタン）<br>　キャンセル　　　低速移動ボタン or 回転ボタン（Escボタン）<h2 class=\"bb_tag\" >基本技術　撮影編</h2><br>・フィルム装填率<br>　ファインダーの近くに表記してあります。<br>　<u>100%時のみ写真が撮影可能</u>です。<br><br><br>・通常フィルム巻き<br>　何もせずとも<u>時間で徐々に回復</u>し、100%になれば撮影可能です。<br>　<br>・高速フィルム巻き<br>　<u>撮影ボタンと低速移動ボタンを同時押しすると、通常より</u><br>　<u>かなり早くフィルムを巻きます。</u><br>　この時間は超精密移動になります。<br><br>・ファインダーモード<br>　<u>撮影ボタンを押しっぱなしにすると一定時間ファインダーモード</u><br>　<u>になります。</u>この時は、プレイヤーではなくフォーカスフレーム<br>　を操作し、少し離れた場所を撮影することが可能です。<br>　＊ただし、時間と共にフォーカスフレーム（撮影有効範囲）が小さくなり、<br>　　一定時間でフィルムが<u>感光（無条件撮影失敗）</u>してしまいます。<h2 class=\"bb_tag\" >基本技術　写真編</h2><br>・有効写真と無効写真<br>　<u>ボスが写真に収まっていると撮影成功</u>です。<br>　失敗した場合はカウントされません。<br><br>・シュート・ザ・ブリット<br>　弾幕を撮影すると、<u>写した弾幕を消すことが出来ます</u>。<br>　この時、その美しさで写真の評価点が決まります。<br><br>・決定的瞬間<br>　<u>最も評価点が高かった写真</u>は「<u>決定的瞬間写真</u>」として<br>　文の手帖に残ります。<br><br>・撮影時の注意<br>　撮影するときは<u>低速移動ボタンを離して撮影ボタンを</u><br>　<u>押さないと撮影出来ません。</u><br>　しっかり撮影ポイントに移動してから撮影しましょう。<h2 class=\"bb_tag\" >基本技術　評価点編</h2><br>・写真の評価点<br>　<u>敵弾を多く撮影するとその写真の評価点が高く</u>なります。<br>　ボスを写真の中央に収めるほど点数が高くなります。<br>　（また、様々な条件により点数が加算されます）<br><br>・ナイスショット<br>　「カツッ」という効果音と共にボスの周りに大きな円が<br>　現れることがあります。<br>　この時に撮影するとボーナスが入ります。<br><br>・主なボーナス評価点<br>　Boss Shot　　ボスを写真に収めた（中心の方がより良い）<br>　Two Shot 　　プレイヤーとボスの二人を写真に収めた<br>　Risk Shot　　危機的状況で撮影した<br>　Macro Bonus　ボスを接写した<br>　Angle Bonus　写真の辺が短い方を向けてボスを撮影した<br>　Clear Shot 　ボスの姿をくっきり写した<br>　等々、他にもたくさんあります。<h2 class=\"bb_tag\" >基本技術　小ネタ編</h2><br>・失敗写真のススメ<br>　失敗写真でも敵弾は消せます。<br>　<u>あえて被写体を狙わずに分厚い弾幕を撮影することで、</u><br>　<u>ピンチを切り抜けることも可能</u>です。<br>　また、失敗写真は手帖には収めず捨ててしまうので、<br>　<u>次の撮影までのブランクが短くなります</u>。その為、無理して<br>　被写体を撮影しない方が有利になる場合もあります。<br><br>・フォーカスフレームの色<br>　ファインダーモード時のフォーカスフレーム内に<br>　ボスが入っている時は、<u>フレームが赤く</u>なります。<br>　この時に撮影すれば撮影成功です。<br><br>・フォーカスフレームの初期位置<br>　フォーカスフレームの初期位置はファインダーカーソルの<br>　位置です。ファインダーカーソルは、<br>　<u>高速移動時は移動方向に振れ、低速中はボスの方向を向きます</u>。<h2 class=\"bb_tag\" >応用技術　撮影編</h2><br>・ボスの撮影不可能状態<br>　ボスが消えていたり、画面外にいたり、半透明になっていたり、<br>　別の物に変形している時は撮影しても必ず失敗します。<br><br>・フォルムが感光するまでの時間の目安<br>　フォーカスフレームの中心にある大きな円が完全に消えると<br>　感光（失敗）します。<br><br>・ファインダーカーソルの狙い<br>　高速でボスに近づいたときは、ファインダーカーソルがボスを<br>　向いていない事があります。この時、<br>　<u>低速移動ボタンを一瞬押すとボスに合わせる</u>ことが出来ます。<br><br>・写真の向き<br>　基本的に縦向きの方が遠くまで撮影でき、攻略に有利です。<br>　慣れるまでは縦向きメインで行うといいでしょう。<h2 class=\"bb_tag\" >小ネタ　決定的瞬間写真編</h2><br>・決定的瞬間写真のロック<br>　被写体選択で、キーボードの<u>Lキー</u>を押すと写真の上に鍵が<br>　表示され、そのシーンの写真が上書き禁止にされます。<br>　以降、より点数が高い写真が撮れても更新されません。<br><br>・決定的瞬間写真の手動更新<br>　ステージクリア画面（及びゲームオーバー画面）で写真が表示<br>　されているとき、左右で写真を切り替えキーボードの<u>Ｓキー</u>を<br>　押すと保存することが出来ます。<br>　＊ロックしていても強制的に更新します。",
+      "short_description": "天狗の取材は一方的で新聞記事は捏造ばかり。 強行取材、捏造記事の楽しさを君にも！ トラディショナルな妖怪達の本気の日常を激写せよ！",
+      "supported_languages": "Japanese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100170/header.jpg?t=1668045476",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100170/capsule_231x87.jpg?t=1668045476",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100170/capsule_184x69.jpg?t=1668045476",
+      "website": "http://www16.big.or.jp/~zun/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> Core 2 Duo or faster<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> Shader Model 2.0 compatible<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 149 MB available space<br></li><li><strong>Sound Card:</strong> DirectSound compatible</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Additional Notes:</strong> Controller recommended</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "上海アリス幻樂団"
+      ],
+      "publishers": [
+        "Mediascape Co., Ltd."
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1099,
+        "final": 1099,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$10.99"
+      },
+      "packages": [
+        371323
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Double Spoiler",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 371323,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "ダブルスポイラー 〜 東方文花帖 - $10.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1099
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100170/ss_f57c815ea799db80e3a4ca72a66b337a31eef8bd.600x338.jpg?t=1668045476",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100170/ss_f57c815ea799db80e3a4ca72a66b337a31eef8bd.1920x1080.jpg?t=1668045476"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100170/ss_0b0fada8790a5e4ff23a6c9c20b9f679f1dd7af6.600x338.jpg?t=1668045476",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100170/ss_0b0fada8790a5e4ff23a6c9c20b9f679f1dd7af6.1920x1080.jpg?t=1668045476"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100170/ss_88ea82079aa61a4ecc0286a257236551f76bde04.600x338.jpg?t=1668045476",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100170/ss_88ea82079aa61a4ecc0286a257236551f76bde04.1920x1080.jpg?t=1668045476"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100170/ss_319722bcf0293325ad70197217e9360b030a8608.600x338.jpg?t=1668045476",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100170/ss_319722bcf0293325ad70197217e9360b030a8608.1920x1080.jpg?t=1668045476"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100170/ss_a8f5f4fbacd0a10e91b997be331dc24fba1017fe.600x338.jpg?t=1668045476",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100170/ss_a8f5f4fbacd0a10e91b997be331dc24fba1017fe.1920x1080.jpg?t=1668045476"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256753413,
+          "name": "th125_pv",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256753413/movie.293x165.jpg?t=1563343051",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1100170/228065/da4f8889890a4cfd17fd2bc2cc5595e660529e20/1751188591/dash_av1.mpd?t=1563343051",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1100170/228065/da4f8889890a4cfd17fd2bc2cc5595e660529e20/1751188591/dash_h264.mpd?t=1563343051",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1100170/228065/da4f8889890a4cfd17fd2bc2cc5595e660529e20/1751188591/hls_264_master.m3u8?t=1563343051",
+          "highlight": true
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "Aug 2, 2019"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@mediascape.co.jp"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1100170?t=1668045476",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100170/page_bg_raw.jpg?t=1668045476",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência fantasiosa"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "6",
+          "required_age": "6",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Fantasy-Gewalt"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "1428370": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "times infinity",
+      "steam_appid": 1428370,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<p class=\"bb_paragraph\" >A very off-kilter adventure game about university life with light shooting and platforming.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >The initial scenario is as follows, you play as <strong>Para</strong>, an up and coming freshman at the <strong>Tiffson Institute</strong>, all seems to be going well as the semester begins until you get an odd task from a mysterious creature. Asking you to take all of your dorm-mates out for a meal, and failing this &quot;test&quot; will lead to your demise. With no other choices in tow you push forward to pass this test... Little does Para know, things continue to spiral from here. </p><h2 class=\"bb_tag\" ><strong>Special Controls (Defaults):</strong></h2><p class=\"bb_paragraph\" ><strong>Q &amp; E</strong> : Swaps outfits </p><p class=\"bb_paragraph\" ><strong>G</strong> : For special actions (i.e. showing fortunes) </p><p class=\"bb_paragraph\" ><strong>Right Click (Right Mouse Button)</strong> : Enters First Person Mode </p><p class=\"bb_paragraph\" ><strong>Left Click (Left Mouse Button)</strong> : Interacts with objects ( Third Person Mode Only ) </p><p class=\"bb_paragraph\" ><strong>Left Click (Left Mouse)</strong> : Fires your weapon ( First Person Mode Only ) </p><p class=\"bb_paragraph\" ><strong>Spacebar</strong> : Jumps, or Advances a text box </p><p class=\"bb_paragraph\" ><strong>Enter / Return</strong> : Skips dialog events</p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >A very off-kilter adventure game about university life with light shooting and platforming.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >The initial scenario is as follows, you play as <strong>Para</strong>, an up and coming freshman at the <strong>Tiffson Institute</strong>, all seems to be going well as the semester begins until you get an odd task from a mysterious creature. Asking you to take all of your dorm-mates out for a meal, and failing this &quot;test&quot; will lead to your demise. With no other choices in tow you push forward to pass this test... Little does Para know, things continue to spiral from here. </p><h2 class=\"bb_tag\" ><strong>Special Controls (Defaults):</strong></h2><p class=\"bb_paragraph\" ><strong>Q &amp; E</strong> : Swaps outfits </p><p class=\"bb_paragraph\" ><strong>G</strong> : For special actions (i.e. showing fortunes) </p><p class=\"bb_paragraph\" ><strong>Right Click (Right Mouse Button)</strong> : Enters First Person Mode </p><p class=\"bb_paragraph\" ><strong>Left Click (Left Mouse Button)</strong> : Interacts with objects ( Third Person Mode Only ) </p><p class=\"bb_paragraph\" ><strong>Left Click (Left Mouse)</strong> : Fires your weapon ( First Person Mode Only ) </p><p class=\"bb_paragraph\" ><strong>Spacebar</strong> : Jumps, or Advances a text box </p><p class=\"bb_paragraph\" ><strong>Enter / Return</strong> : Skips dialog events</p>",
+      "short_description": "A very off-kilter adventure game about university life with light shooting and platforming.",
+      "supported_languages": "English",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/1d74cf4b590bd9f1fe65550b6e8289a19cfe035d/header.jpg?t=1769453146",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/6b3cb0a6f118c9ea6e31b6e78d4616c76ce6d23d/capsule_231x87.jpg?t=1769453146",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/6b3cb0a6f118c9ea6e31b6e78d4616c76ce6d23d/capsule_184x69.jpg?t=1769453146",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Dual Core Processor<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> Any DirectX 11 Supporting Video Card Will Work<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> A 64-Bit OS<br></li><li><strong>Processor:</strong> Dual Core Processor<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>"
+      },
+      "developers": [
+        "alreti circle"
+      ],
+      "publishers": [
+        "alreti circle"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 199,
+        "final": 199,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$1.99"
+      },
+      "packages": [
+        501687
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy times infinity",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 501687,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "times infinity - $1.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 199
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/ss_015742ed9c80fa9b7ce5e34260b3a3c794f69eb3.600x338.jpg?t=1769453146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/ss_015742ed9c80fa9b7ce5e34260b3a3c794f69eb3.1920x1080.jpg?t=1769453146"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/b6ea635e8b4f6da7c5a4fe3298b3881dc7e31b74/ss_b6ea635e8b4f6da7c5a4fe3298b3881dc7e31b74.600x338.jpg?t=1769453146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/b6ea635e8b4f6da7c5a4fe3298b3881dc7e31b74/ss_b6ea635e8b4f6da7c5a4fe3298b3881dc7e31b74.1920x1080.jpg?t=1769453146"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/7972305e347bfdf9b4bc2683204b8570ba6cb226/ss_7972305e347bfdf9b4bc2683204b8570ba6cb226.600x338.jpg?t=1769453146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/7972305e347bfdf9b4bc2683204b8570ba6cb226/ss_7972305e347bfdf9b4bc2683204b8570ba6cb226.1920x1080.jpg?t=1769453146"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/6300b243aa00380dae5f1cb83c880cd719ab8631/ss_6300b243aa00380dae5f1cb83c880cd719ab8631.600x338.jpg?t=1769453146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/6300b243aa00380dae5f1cb83c880cd719ab8631/ss_6300b243aa00380dae5f1cb83c880cd719ab8631.1920x1080.jpg?t=1769453146"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/ss_e81d94a28eb6046ac95db5f76865516adba23fb3.600x338.jpg?t=1769453146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/ss_e81d94a28eb6046ac95db5f76865516adba23fb3.1920x1080.jpg?t=1769453146"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/c06875c1b2314cd1d64e432534ebc011f50ec109/ss_c06875c1b2314cd1d64e432534ebc011f50ec109.600x338.jpg?t=1769453146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/c06875c1b2314cd1d64e432534ebc011f50ec109/ss_c06875c1b2314cd1d64e432534ebc011f50ec109.1920x1080.jpg?t=1769453146"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/ss_8c5aa8f3d1dad40ed9279034fab4dbdb363460cd.600x338.jpg?t=1769453146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/ss_8c5aa8f3d1dad40ed9279034fab4dbdb363460cd.1920x1080.jpg?t=1769453146"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/ss_d872256db185397dae1ac690dd566528c86d36b2.600x338.jpg?t=1769453146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/ss_d872256db185397dae1ac690dd566528c86d36b2.1920x1080.jpg?t=1769453146"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/ss_af62efa1a7cfa76c700a72f3f45d446083cf2895.600x338.jpg?t=1769453146",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428370/ss_af62efa1a7cfa76c700a72f3f45d446083cf2895.1920x1080.jpg?t=1769453146"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256829777,
+          "name": "basicTrailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256829777/movie.293x165.jpg?t=1618175885",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1428370/360739/c6ac504b30b762df50c25def5f90b3c99ccbc370/1751100467/dash_av1.mpd?t=1618175885",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1428370/360739/c6ac504b30b762df50c25def5f90b3c99ccbc370/1751100467/dash_h264.mpd?t=1618175885",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1428370/360739/c6ac504b30b762df50c25def5f90b3c99ccbc370/1751100467/hls_264_master.m3u8?t=1618175885",
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 8,
+        "highlighted": [
+          {
+            "name": "Hypothesis 1 END",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1428370/93834ef2573e71af24566cc9baf8b173764b865e.jpg"
+          },
+          {
+            "name": "Hypothesis 2 END",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1428370/a95bb4c97a244e91cb7355b621746af192d362f3.jpg"
+          },
+          {
+            "name": "Hypothesis 3 END",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1428370/68a2e0cb28d96e862ec662cf39d32b0102e5ff2f.jpg"
+          },
+          {
+            "name": "Hypothesis 4 END",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1428370/1e567f3cbb8e441c87943a7a4167012636c58254.jpg"
+          },
+          {
+            "name": "The Start",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1428370/21834d75b0c276504aea543878a4f0f9aeb870d3.jpg"
+          },
+          {
+            "name": "Times Infinity",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1428370/42eb8bc64c6a247e18699f80cc315846df420636.jpg"
+          },
+          {
+            "name": "Fashionista",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1428370/57cc08a2ba8092e6d93e819a3d6dd2c3d7ac58ef.jpg"
+          },
+          {
+            "name": "Challenger & Challenged",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1428370/69c5b9ca65649cac62b8a60c196eb7b3c0b59111.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Apr 8, 2021"
+      },
+      "support_info": {
+        "url": "",
+        "email": ""
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1428370?t=1769453146",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1428370?t=1769453146",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "14",
+          "descriptors": "Linguagem imprópria\r\nMedo\r\nAtos criminosos",
+          "use_age_gate": "true",
+          "required_age": "14"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Gewalt\nDerbe Sprache"
+        }
+      }
+    }
+  }
+}

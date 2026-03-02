@@ -1,0 +1,218 @@
+{
+  "3347670": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "BM General Hospital",
+      "steam_appid": 3347670,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<p class=\"bb_paragraph\" >This is a 18+ hospital simulation game. You will play the role of the hospital director and manage a hospital.</p><p class=\"bb_paragraph\" >1. How to play:</p><p class=\"bb_paragraph\" >The game uses the [left mouse button] to control the protagonist's movement, and the [space bar] to interact with the characters and objects in the scene.</p><p class=\"bb_paragraph\" >2. Content:</p><p class=\"bb_paragraph\" >In the game, various patients come to the hospital every day. More new patients are admitted by expanding facilities, and difficult and complicated diseases are treated by researching new technologies. While operating, you can also interact with nurses and doctors in various ways. Every girl has weaknesses, and you can attack them by finding their weaknesses. Whether to make the hospital an ordinary orthodox hospital or a place to provide special services for members. Everything depends on you.</p><p class=\"bb_paragraph\" >3. Features:</p><p class=\"bb_paragraph\" >Although this is a simulation game, we hope that players will not control the overall situation from a bird's-eye view like traditional simulation games. Instead, let the player participate in the daily operation of the hospital as a director and a &quot;person&quot;. This difference is difficult to describe, so please experience it in the game yourself.</p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >This is a 18+ hospital simulation game. You will play the role of the hospital director and manage a hospital.</p><p class=\"bb_paragraph\" >1. How to play:</p><p class=\"bb_paragraph\" >The game uses the [left mouse button] to control the protagonist's movement, and the [space bar] to interact with the characters and objects in the scene.</p><p class=\"bb_paragraph\" >2. Content:</p><p class=\"bb_paragraph\" >In the game, various patients come to the hospital every day. More new patients are admitted by expanding facilities, and difficult and complicated diseases are treated by researching new technologies. While operating, you can also interact with nurses and doctors in various ways. Every girl has weaknesses, and you can attack them by finding their weaknesses. Whether to make the hospital an ordinary orthodox hospital or a place to provide special services for members. Everything depends on you.</p><p class=\"bb_paragraph\" >3. Features:</p><p class=\"bb_paragraph\" >Although this is a simulation game, we hope that players will not control the overall situation from a bird's-eye view like traditional simulation games. Instead, let the player participate in the daily operation of the hospital as a director and a &quot;person&quot;. This difference is difficult to describe, so please experience it in the game yourself.</p>",
+      "short_description": "This is a 18+ hospital simulation game. You will play the role of the hospital director and manage a hospital.",
+      "supported_languages": "English, Japanese, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/header.jpg?t=1761171351",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/689a8fc369904e2810ff01d690d54c2770dc5b0f/capsule_231x87.jpg?t=1761171351",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/689a8fc369904e2810ff01d690d54c2770dc5b0f/capsule_184x69.jpg?t=1761171351",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 SP1+<br></li><li><strong>Processor:</strong> Intel Core 2<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11+<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "zzzgame"
+      ],
+      "publishers": [
+        "zzzgame"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 799,
+        "final": 631,
+        "discount_percent": 21,
+        "initial_formatted": "$7.99",
+        "final_formatted": "$6.31"
+      },
+      "packages": [
+        1184918
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy BM General Hospital",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1184918,
+              "percent_savings_text": "-21% ",
+              "percent_savings": 0,
+              "option_text": "BM General Hospital - <span class=\"discount_original_price\">$7.99</span> $6.31",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 631
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/97d3fde346bd81e2e2decfd34274cf6d1b07f660/ss_97d3fde346bd81e2e2decfd34274cf6d1b07f660.600x338.jpg?t=1761171351",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/97d3fde346bd81e2e2decfd34274cf6d1b07f660/ss_97d3fde346bd81e2e2decfd34274cf6d1b07f660.1920x1080.jpg?t=1761171351"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/ss_199602727ec6c61f44a1663cf22e83b654fc5260.600x338.jpg?t=1761171351",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/ss_199602727ec6c61f44a1663cf22e83b654fc5260.1920x1080.jpg?t=1761171351"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/7c09965f597ef293e9446af2edf14a31f4b08d42/ss_7c09965f597ef293e9446af2edf14a31f4b08d42.600x338.jpg?t=1761171351",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/7c09965f597ef293e9446af2edf14a31f4b08d42/ss_7c09965f597ef293e9446af2edf14a31f4b08d42.1920x1080.jpg?t=1761171351"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/e1bd2360576a8bd8710778656b2865464eabec1c/ss_e1bd2360576a8bd8710778656b2865464eabec1c.600x338.jpg?t=1761171351",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/e1bd2360576a8bd8710778656b2865464eabec1c/ss_e1bd2360576a8bd8710778656b2865464eabec1c.1920x1080.jpg?t=1761171351"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/448bfffa04cd0b010c015229a9eab31181d39a07/ss_448bfffa04cd0b010c015229a9eab31181d39a07.600x338.jpg?t=1761171351",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/448bfffa04cd0b010c015229a9eab31181d39a07/ss_448bfffa04cd0b010c015229a9eab31181d39a07.1920x1080.jpg?t=1761171351"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/1a59aed44fda3d202d9f01c7953b11624fcb89cb/ss_1a59aed44fda3d202d9f01c7953b11624fcb89cb.600x338.jpg?t=1761171351",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/1a59aed44fda3d202d9f01c7953b11624fcb89cb/ss_1a59aed44fda3d202d9f01c7953b11624fcb89cb.1920x1080.jpg?t=1761171351"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/46708626570d86f0b904247d5b62ea591bc58998/ss_46708626570d86f0b904247d5b62ea591bc58998.600x338.jpg?t=1761171351",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/46708626570d86f0b904247d5b62ea591bc58998/ss_46708626570d86f0b904247d5b62ea591bc58998.1920x1080.jpg?t=1761171351"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/f45ca7f9af12009db4a3bf46f016328467a5d88c/ss_f45ca7f9af12009db4a3bf46f016328467a5d88c.600x338.jpg?t=1761171351",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/f45ca7f9af12009db4a3bf46f016328467a5d88c/ss_f45ca7f9af12009db4a3bf46f016328467a5d88c.1920x1080.jpg?t=1761171351"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/5e472876d91f6ea1b68d91d0d11fcf7541d2c6b8/ss_5e472876d91f6ea1b68d91d0d11fcf7541d2c6b8.600x338.jpg?t=1761171351",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/5e472876d91f6ea1b68d91d0d11fcf7541d2c6b8/ss_5e472876d91f6ea1b68d91d0d11fcf7541d2c6b8.1920x1080.jpg?t=1761171351"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/6d20e54ae6b14131a5413fe3e1ac81f9d9c36693/ss_6d20e54ae6b14131a5413fe3e1ac81f9d9c36693.600x338.jpg?t=1761171351",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/6d20e54ae6b14131a5413fe3e1ac81f9d9c36693/ss_6d20e54ae6b14131a5413fe3e1ac81f9d9c36693.1920x1080.jpg?t=1761171351"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/3a0671134472e022c4536567d88859cd1149866e/ss_3a0671134472e022c4536567d88859cd1149866e.600x338.jpg?t=1761171351",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/3a0671134472e022c4536567d88859cd1149866e/ss_3a0671134472e022c4536567d88859cd1149866e.1920x1080.jpg?t=1761171351"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/79116a897c0e2abaa1ee2722162cadd0e3bbf8e6/ss_79116a897c0e2abaa1ee2722162cadd0e3bbf8e6.600x338.jpg?t=1761171351",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3347670/79116a897c0e2abaa1ee2722162cadd0e3bbf8e6/ss_79116a897c0e2abaa1ee2722162cadd0e3bbf8e6.1920x1080.jpg?t=1761171351"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257097825,
+          "name": "goen",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257097825/991a9d403fe7f48bd1ab9c6fd3f611a22343bd03/movie_600x337.jpg?t=1739413472",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3347670/828121/c6656aa6df5a5e37eb8f066e6410d26ee5974bff/1750842411/dash_av1.mpd?t=1739413472",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3347670/828121/c6656aa6df5a5e37eb8f066e6410d26ee5974bff/1750842411/dash_h264.mpd?t=1739413472",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3347670/828121/c6656aa6df5a5e37eb8f066e6410d26ee5974bff/1750842411/hls_264_master.m3u8?t=1739413472",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 1357
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Feb 28, 2025"
+      },
+      "support_info": {
+        "url": "",
+        "email": "181rmt@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3347670?t=1761171351",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3347670?t=1761171351",
+      "content_descriptors": {
+        "ids": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "notes": "In the game, players can rape nurses and doctors, and after mastering their secrets, they can also threaten female employees with oral sex, foot sex, sexual intercourse, etc. There are a few BDSM (bondage, abuse) scenes."
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "18",
+          "required_age": "18",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Sexo Explícito\nViolência\nTemas sensíveis"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "BANNED",
+          "required_age": "2147483647",
+          "banned": "1",
+          "use_age_gate": "0",
+          "descriptors": "Sexualisierte Gewalt / Sexual violence"
+        }
+      }
+    }
+  }
+}

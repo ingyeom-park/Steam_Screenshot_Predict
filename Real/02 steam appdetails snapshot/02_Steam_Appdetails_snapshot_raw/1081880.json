@@ -1,0 +1,197 @@
+{
+  "1081880": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "死亡旅店 / Death Inn",
+      "steam_appid": 1081880,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "Game Introduction：<br><br>This is probably the most exciting suspense game you have ever played.<br><br>You are a female doctor with logical thinking.I went to the haunted house [Death Hotel] with my girlfriend,however, I met my ex-boyfriend and his girlfriend.Inexplicably, teamed up with seven other people of different identities, and 11 people entered the haunted house adventure together.....<br><br>But what happened one after another made everyone uneasy,There are always strange deaths, strange changes in the scene, and the disappearance of the way out....Everyone seems to have a secret....What happened?Is it a ghost?or someone is secretly deceiving?<br><br>Be cautious every time you judge....<br>Each selection is related to the outcome.....<br>All in order to escape this scary place....<br><br>【Death Inn】is a thrilling reasoning suspense adventure game.Throughout the process, players need to use logical thinking skills and analyze each little clue.Look carefully for logic holes from everyone’s words.Through the clue collection, plot judgment, option selection to achieve various endings.",
+      "about_the_game": "Game Introduction：<br><br>This is probably the most exciting suspense game you have ever played.<br><br>You are a female doctor with logical thinking.I went to the haunted house [Death Hotel] with my girlfriend,however, I met my ex-boyfriend and his girlfriend.Inexplicably, teamed up with seven other people of different identities, and 11 people entered the haunted house adventure together.....<br><br>But what happened one after another made everyone uneasy,There are always strange deaths, strange changes in the scene, and the disappearance of the way out....Everyone seems to have a secret....What happened?Is it a ghost?or someone is secretly deceiving?<br><br>Be cautious every time you judge....<br>Each selection is related to the outcome.....<br>All in order to escape this scary place....<br><br>【Death Inn】is a thrilling reasoning suspense adventure game.Throughout the process, players need to use logical thinking skills and analyze each little clue.Look carefully for logic holes from everyone’s words.Through the clue collection, plot judgment, option selection to achieve various endings.",
+      "short_description": "A group of people who didn't know each other found a dead body in a haunted house called 【Death Inn】. And when this group of people returned to the lobby again, ready to leave the place,The door has was no longer there......",
+      "supported_languages": "Simplified Chinese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081880/header.jpg?t=1715926334",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081880/capsule_231x87.jpg?t=1715926334",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081880/capsule_184x69.jpg?t=1715926334",
+      "website": "http://www.66rpg.com/index",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> windowsXP,Vista,7,8,10<br></li><li><strong>Processor:</strong> 1Ghz or faster processor<br></li><li><strong>Graphics:</strong> 512MB VRAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> windowsXP,Vista,7,8,10<br></li><li><strong>Processor:</strong> <br></li><li><strong>Graphics:</strong> 1GB VRAM<br></li><li><strong>Storage:</strong> 1 MB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "橙光游戏"
+      ],
+      "publishers": [
+        "橙光游戏"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 399,
+        "final": 399,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$3.99"
+      },
+      "packages": [
+        363302
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 死亡旅店 / Death Inn",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 363302,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "死亡旅店 - $3.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 399
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081880/ss_9d85b2a3ee0a718d3e3b3262f64eb3d0a246050e.600x338.jpg?t=1715926334",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081880/ss_9d85b2a3ee0a718d3e3b3262f64eb3d0a246050e.1920x1080.jpg?t=1715926334"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081880/ss_196a6e52dd4c927675d85dc41af371991b75f7ea.600x338.jpg?t=1715926334",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081880/ss_196a6e52dd4c927675d85dc41af371991b75f7ea.1920x1080.jpg?t=1715926334"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081880/ss_24d9e925807049752268a1f698d80a72bacddbee.600x338.jpg?t=1715926334",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081880/ss_24d9e925807049752268a1f698d80a72bacddbee.1920x1080.jpg?t=1715926334"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081880/ss_b771d4ec54cfe3ff6b01e574b524ff8f6b914b19.600x338.jpg?t=1715926334",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081880/ss_b771d4ec54cfe3ff6b01e574b524ff8f6b914b19.1920x1080.jpg?t=1715926334"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081880/ss_96998567b1f365f6199565f38771fd67e20187ca.600x338.jpg?t=1715926334",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081880/ss_96998567b1f365f6199565f38771fd67e20187ca.1920x1080.jpg?t=1715926334"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256750146,
+          "name": "死亡旅店",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256750146/movie.293x165.jpg?t=1557971988",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1081880/222154/d152801339636304880fa5986de09d2c338dd45a/1751185947/dash_av1.mpd?t=1557971988",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1081880/222154/d152801339636304880fa5986de09d2c338dd45a/1751185947/dash_h264.mpd?t=1557971988",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1081880/222154/d152801339636304880fa5986de09d2c338dd45a/1751185947/hls_264_master.m3u8?t=1557971988",
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 8,
+        "highlighted": [
+          {
+            "name": "失察",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1081880/ed9e742ab611ad0d6ed066b129d04dff3a7a88fc.jpg"
+          },
+          {
+            "name": "冷漠",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1081880/de76b4576f19e28844764df4366aa0f75f7423d4.jpg"
+          },
+          {
+            "name": "歧途",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1081880/be260a5312692fee9984d95707a8b15129210d12.jpg"
+          },
+          {
+            "name": "重蹈覆辙",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1081880/e4d819f02413b119ef278b60786ebb5f6df317a8.jpg"
+          },
+          {
+            "name": "死亡陷阱",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1081880/e0bac3ff97b71bbb4da7cda2310e2145ac62636e.jpg"
+          },
+          {
+            "name": "无人生还",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1081880/9a22fc10d41c181a68c9494857cd40b9576f21ba.jpg"
+          },
+          {
+            "name": "绝望末路",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1081880/8d37821326d42df94f7417f381ee10962a39558a.jpg"
+          },
+          {
+            "name": "旅店的十字路",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1081880/b7056a60e3f9b0a082a008ba2bb775b7970cc02b.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 27, 2019"
+      },
+      "support_info": {
+        "url": "http://www.66rpg.com/",
+        "email": "tousu@66rpg.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1081880?t=1715926334",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081880/page_bg_raw.jpg?t=1715926334",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": null
+    }
+  }
+}

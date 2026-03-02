@@ -1,0 +1,168 @@
+{
+  "1100180": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Yousei Daisensou ~ Touhou Sangetsusei",
+      "steam_appid": 1100180,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h2 class=\"bb_tag\" >ゲームの進め方</h2><br>・ストーリー<br>　いつものようにせわしくなく暮らしていた氷の妖精チルノ。<br>　なんと、留守にした間に何者かに家を破壊されてしまった。<br>　破壊された家の上には謎の旗が立ててあった。<br>　その旗には見覚えのある妖精達の絵が……<br>　怒り狂ったチルノはその旗の持ち主に宣戦布告を出す。<br>　そう、これが妖精大戦争の始まりだった。<br>　（詳しくは<br>　　　　「東方三月精　～ Strange and Bright Nature Deity」<br>　　　　　　第二巻の読み切り「妖精大戦争」を参照）<br><br>・ルール<br>　チルノを操作し、三妖精（サニーミルク、ルナチャイルド、<br>　スターサファイア）を撃破します。<br><br>　チルノは<u>敵弾を凍らせる能力</u>を持ちます。<br>　これをうまく駆使して妖精最強を名乗りましょう！<h2 class=\"bb_tag\" >チルノを操作する</h2><br>・上下左右\t\t\t\t\t　　 チルノの操作<br>・SHOTキー（Zキー)　　　　　　　　   ショット<br>　　溜撃ち　　　　　　　　　　　　　  アイスバリア<br>　　<u>＊今作はSHOTキーではオート連射になりません</u><br>・RAPIDキー（Cキー か Ctrlキー）　　   ショット連射<br>・BOMBキー（Xキー）\t\t\t 　    パーフェクトフリーズ<br>・SLOWキー（Shiftキー）　　　　　　  低速移動<br>　　＊SHOTキー押しっぱなしでも低速移動になります<br>・PAUSEキー（Escキー）　　　　　　   ポーズ<h2 class=\"bb_tag\" >画面を見る</h2>・やる気<br>　　チルノの根性ゲージです。<br>　　ミスすると<u>１００％減ります。</u><br>　　<u>９９％以下の状態でミスをするとゲームオーバー</u>です。<br><br>・こおりパワー<br>　アイスバリアをはるためのパワーです。<br>　常時<u>自機の上に表示されている数字と同じ物</u>です。<br><br>・パーフェクトフリーズ<br>　１００％以上の時、パーフェクトフリーズが使用できます。<br><br>・こおらせた面積<br>　敵弾を凍らせた総面積（累計）です。<br>　ショットの強さと直結しています。<br>　沢山凍らせれば凍らせるほどショットが強くなります。<br><br>・レベル表示<br>　ショットのレベルです。<br>　凍らせた総面積が増えるとレベルが上がります。<h2 class=\"bb_tag\" >敵弾を凍らせる！</h2>　　「<u>ちょっと敵が妖精の癖に弾幕濃すぎなんじゃない？</u>」<br>　　そうですね。<br>　　　＊弱いチルノの主観ですので、いつもより多めの弾幕に見えています。<br><br><br>　　しかし！　チルノはそんな事に臆しません。<br>　　チルノには秘密兵器があるのです。<br>　　それが「<u>アイスバリア</u>」　ショットの溜撃ちで発動します。<br><br>　　アイスアタックは自機のすぐ近くしか攻撃できませんが、<br>　　何と、触れた敵弾を凍らせる事が出来るのです。<br>　　しかも凍らせた敵弾に当たっても大丈夫。<br>　　氷が砕けると敵弾も消滅してすっきり！<br>　　さらに<u>凍った敵弾は新たに別の近くの敵弾を凍らせます</u>。<br>　　<br>　　<u>弾幕の濃い場所を狙って</u>アイスバリアを当てれば連鎖的に<br>　　敵弾を凍らせて、敵の弾幕を壊滅させる事が出来るのです。<br>　　<br>　　どうしても避けられない場合、チルノの代わりにあなたが<br>　　頭を使って、効率よく凍らせるパターンを見つけましょう！<h2 class=\"bb_tag\" >こおりパワー！</h2><br>　　アイスバリアはいつでもフルパワーで出せる訳では<br>　　ございません。馬鹿だって疲れます。<br>　　<br>　　こおりパワー（自機の上に表示されている％）が<br>　　<u>３０％以上無いと出せません</u>。<br>　　<br>　　１００％に近いほど、氷の持続時間が長くなります。<br>　　３０％では一瞬で氷は砕けてしまいます。<br>　　<br>　　こおりパワーはアイスバリアを貼ると０％になります。<br>　　<br>　　<u>こおりパワーを回復させる方法</u>。<br>　　　・時間と共に徐々に自然回復（ゆっくり）<br>　　　・<u>ショットを敵に当てる（かなり高速、ボス戦では基本）</u><br>　　　・ザコ敵を倒す（一瞬で回復）<br>　　　・敵弾にかする（上級者向けだが、高次面では必須）<br>　　　・溜め続ける（通常より若干速く回復）<h2 class=\"bb_tag\" >特殊な敵弾に注意！</h2>　　「<u>連続してアイスバリアを張り続ければ楽勝じゃん？</u>」<br>　　<br>　　いえいえ、敵も馬鹿ですが少しは対策します。<br>　　以下の攻撃に注意！<br>　　<br>　　・<u>燃えている炎弾</u><br>　　　この敵弾は<u>凍りません</u>。氷の上を貫通して飛んでいきますので<br>　　　注意してください。<br>　　　<br>　　・<u>レーザー</u><br>　　　<u>氷を破壊して貫通します！</u><br>　　　破壊時に破片が飛び散るので、それに当たるとミスと<br>　　　なります。<br>　　　自機の近くでレーザーに氷を破壊されないように注意！<h2 class=\"bb_tag\" >氷は面積！</h2>　　チルノは纏まったたくさんの敵弾を凍らせるよりも、<br><br>　　広く散らばった敵弾を凍らせる方が好みです。<br>　　<br>　　ゲーム画面を１００％としたとき、<br>　　<u>凍らせた部分の割合</u>がボーナスとなります。<br>　　敵弾の発射地点を狙って凍らせるより、十分広がってから<br>　　凍らせた方が面積は広がります。<br>　　<br>　　凍らせた総面積は、ステージ１からの累計です。<br>　　これが一定数を超えるとショットレベルが上がります。<br>　　<br>　　ボスが硬くて倒せない場合、積極的に面積が増えるように<br>　　凍らせていきましょう！<h2 class=\"bb_tag\" >その他の仕様！</h2>　　やる気が増える条件<br><br>　　　・敵弾を凍らせる<br>　　　・敵にダメージを与える<br>　　　　（ショットより<u>氷のダメージの方がやる気増加率が高い</u>）<br>　　１００％単位で自機が一つ増えたと同じ効果です。<br>　　最大１０００％です。<br>　　<br>　　パーフェクトフリーズが増える条件<br>　　　・敵弾を凍らせる<br>　　１００％以上増えないのでバンバン使っていこう！<br>　　<br>　　パーフェクトフリーズは全画面凍らせます。<br>　　アイスバリアでは凍らない<u>炎弾も凍ります</u>。<br>　　まさにパーフェクト！<h2 class=\"bb_tag\" >よくわかんない</h2>　　なんかこのゲーム、難しすぎるし、操作も難解だし、<br><br>　　会話も支離滅裂だし、よくわかんない。<br>　　<br>　　どういう感じで攻略すればいいのか？<br>　　ピンと来なかった場合はデモプレイを見てみましょう。<br>　　タイトル画面で放おって置くとデモプレイが見られます。<br>　　<br>　　なお、この操作説明はゲームプレイ中のポーズ画面<br>　　からも見る事が出来ます。<br>　　<br>　　会話が支離滅裂なのは妖精だからです。<br>　　戦争が終わったら何を言ったのかすっかり<br>　　忘れている事でしょう。",
+      "about_the_game": "<h2 class=\"bb_tag\" >ゲームの進め方</h2><br>・ストーリー<br>　いつものようにせわしくなく暮らしていた氷の妖精チルノ。<br>　なんと、留守にした間に何者かに家を破壊されてしまった。<br>　破壊された家の上には謎の旗が立ててあった。<br>　その旗には見覚えのある妖精達の絵が……<br>　怒り狂ったチルノはその旗の持ち主に宣戦布告を出す。<br>　そう、これが妖精大戦争の始まりだった。<br>　（詳しくは<br>　　　　「東方三月精　～ Strange and Bright Nature Deity」<br>　　　　　　第二巻の読み切り「妖精大戦争」を参照）<br><br>・ルール<br>　チルノを操作し、三妖精（サニーミルク、ルナチャイルド、<br>　スターサファイア）を撃破します。<br><br>　チルノは<u>敵弾を凍らせる能力</u>を持ちます。<br>　これをうまく駆使して妖精最強を名乗りましょう！<h2 class=\"bb_tag\" >チルノを操作する</h2><br>・上下左右\t\t\t\t\t　　 チルノの操作<br>・SHOTキー（Zキー)　　　　　　　　   ショット<br>　　溜撃ち　　　　　　　　　　　　　  アイスバリア<br>　　<u>＊今作はSHOTキーではオート連射になりません</u><br>・RAPIDキー（Cキー か Ctrlキー）　　   ショット連射<br>・BOMBキー（Xキー）\t\t\t 　    パーフェクトフリーズ<br>・SLOWキー（Shiftキー）　　　　　　  低速移動<br>　　＊SHOTキー押しっぱなしでも低速移動になります<br>・PAUSEキー（Escキー）　　　　　　   ポーズ<h2 class=\"bb_tag\" >画面を見る</h2>・やる気<br>　　チルノの根性ゲージです。<br>　　ミスすると<u>１００％減ります。</u><br>　　<u>９９％以下の状態でミスをするとゲームオーバー</u>です。<br><br>・こおりパワー<br>　アイスバリアをはるためのパワーです。<br>　常時<u>自機の上に表示されている数字と同じ物</u>です。<br><br>・パーフェクトフリーズ<br>　１００％以上の時、パーフェクトフリーズが使用できます。<br><br>・こおらせた面積<br>　敵弾を凍らせた総面積（累計）です。<br>　ショットの強さと直結しています。<br>　沢山凍らせれば凍らせるほどショットが強くなります。<br><br>・レベル表示<br>　ショットのレベルです。<br>　凍らせた総面積が増えるとレベルが上がります。<h2 class=\"bb_tag\" >敵弾を凍らせる！</h2>　　「<u>ちょっと敵が妖精の癖に弾幕濃すぎなんじゃない？</u>」<br>　　そうですね。<br>　　　＊弱いチルノの主観ですので、いつもより多めの弾幕に見えています。<br><br><br>　　しかし！　チルノはそんな事に臆しません。<br>　　チルノには秘密兵器があるのです。<br>　　それが「<u>アイスバリア</u>」　ショットの溜撃ちで発動します。<br><br>　　アイスアタックは自機のすぐ近くしか攻撃できませんが、<br>　　何と、触れた敵弾を凍らせる事が出来るのです。<br>　　しかも凍らせた敵弾に当たっても大丈夫。<br>　　氷が砕けると敵弾も消滅してすっきり！<br>　　さらに<u>凍った敵弾は新たに別の近くの敵弾を凍らせます</u>。<br>　　<br>　　<u>弾幕の濃い場所を狙って</u>アイスバリアを当てれば連鎖的に<br>　　敵弾を凍らせて、敵の弾幕を壊滅させる事が出来るのです。<br>　　<br>　　どうしても避けられない場合、チルノの代わりにあなたが<br>　　頭を使って、効率よく凍らせるパターンを見つけましょう！<h2 class=\"bb_tag\" >こおりパワー！</h2><br>　　アイスバリアはいつでもフルパワーで出せる訳では<br>　　ございません。馬鹿だって疲れます。<br>　　<br>　　こおりパワー（自機の上に表示されている％）が<br>　　<u>３０％以上無いと出せません</u>。<br>　　<br>　　１００％に近いほど、氷の持続時間が長くなります。<br>　　３０％では一瞬で氷は砕けてしまいます。<br>　　<br>　　こおりパワーはアイスバリアを貼ると０％になります。<br>　　<br>　　<u>こおりパワーを回復させる方法</u>。<br>　　　・時間と共に徐々に自然回復（ゆっくり）<br>　　　・<u>ショットを敵に当てる（かなり高速、ボス戦では基本）</u><br>　　　・ザコ敵を倒す（一瞬で回復）<br>　　　・敵弾にかする（上級者向けだが、高次面では必須）<br>　　　・溜め続ける（通常より若干速く回復）<h2 class=\"bb_tag\" >特殊な敵弾に注意！</h2>　　「<u>連続してアイスバリアを張り続ければ楽勝じゃん？</u>」<br>　　<br>　　いえいえ、敵も馬鹿ですが少しは対策します。<br>　　以下の攻撃に注意！<br>　　<br>　　・<u>燃えている炎弾</u><br>　　　この敵弾は<u>凍りません</u>。氷の上を貫通して飛んでいきますので<br>　　　注意してください。<br>　　　<br>　　・<u>レーザー</u><br>　　　<u>氷を破壊して貫通します！</u><br>　　　破壊時に破片が飛び散るので、それに当たるとミスと<br>　　　なります。<br>　　　自機の近くでレーザーに氷を破壊されないように注意！<h2 class=\"bb_tag\" >氷は面積！</h2>　　チルノは纏まったたくさんの敵弾を凍らせるよりも、<br><br>　　広く散らばった敵弾を凍らせる方が好みです。<br>　　<br>　　ゲーム画面を１００％としたとき、<br>　　<u>凍らせた部分の割合</u>がボーナスとなります。<br>　　敵弾の発射地点を狙って凍らせるより、十分広がってから<br>　　凍らせた方が面積は広がります。<br>　　<br>　　凍らせた総面積は、ステージ１からの累計です。<br>　　これが一定数を超えるとショットレベルが上がります。<br>　　<br>　　ボスが硬くて倒せない場合、積極的に面積が増えるように<br>　　凍らせていきましょう！<h2 class=\"bb_tag\" >その他の仕様！</h2>　　やる気が増える条件<br><br>　　　・敵弾を凍らせる<br>　　　・敵にダメージを与える<br>　　　　（ショットより<u>氷のダメージの方がやる気増加率が高い</u>）<br>　　１００％単位で自機が一つ増えたと同じ効果です。<br>　　最大１０００％です。<br>　　<br>　　パーフェクトフリーズが増える条件<br>　　　・敵弾を凍らせる<br>　　１００％以上増えないのでバンバン使っていこう！<br>　　<br>　　パーフェクトフリーズは全画面凍らせます。<br>　　アイスバリアでは凍らない<u>炎弾も凍ります</u>。<br>　　まさにパーフェクト！<h2 class=\"bb_tag\" >よくわかんない</h2>　　なんかこのゲーム、難しすぎるし、操作も難解だし、<br><br>　　会話も支離滅裂だし、よくわかんない。<br>　　<br>　　どういう感じで攻略すればいいのか？<br>　　ピンと来なかった場合はデモプレイを見てみましょう。<br>　　タイトル画面で放おって置くとデモプレイが見られます。<br>　　<br>　　なお、この操作説明はゲームプレイ中のポーズ画面<br>　　からも見る事が出来ます。<br>　　<br>　　会話が支離滅裂なのは妖精だからです。<br>　　戦争が終わったら何を言ったのかすっかり<br>　　忘れている事でしょう。",
+      "short_description": "飛び出そう、いつも通りの弾幕へ それが結果として世界をひっくり返す事になるだろう プリティでデュアリスチックなシューティング幻想！",
+      "supported_languages": "Japanese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100180/header.jpg?t=1668045129",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100180/capsule_231x87.jpg?t=1668045129",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100180/capsule_184x69.jpg?t=1668045129",
+      "website": "http://www16.big.or.jp/~zun/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7/8/10<br></li><li><strong>Processor:</strong> Core 2 Duo or faster<br></li><li><strong>Memory:</strong> 1024 MB RAM<br></li><li><strong>Graphics:</strong> Shader Model 2.0 compatible<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 195 MB available space<br></li><li><strong>Sound Card:</strong> </li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Additional Notes:</strong> Controller recommended</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "上海アリス幻樂団"
+      ],
+      "publishers": [
+        "Mediascape Co., Ltd."
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1099,
+        "final": 1099,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$10.99"
+      },
+      "packages": [
+        371326
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Yousei Daisensou ~ Touhou Sangetsusei",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 371326,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "妖精大戦争 〜 東方三月精 - $10.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1099
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100180/ss_dfb453f74bbf87233d9011af92be3ebe89a454df.600x338.jpg?t=1668045129",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100180/ss_dfb453f74bbf87233d9011af92be3ebe89a454df.1920x1080.jpg?t=1668045129"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100180/ss_62aa9a4d2a4732a705a8ccade10d61d1ea4ffe96.600x338.jpg?t=1668045129",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100180/ss_62aa9a4d2a4732a705a8ccade10d61d1ea4ffe96.1920x1080.jpg?t=1668045129"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100180/ss_4e77107d2a0d74e656bbceadd6588ea04ddab139.600x338.jpg?t=1668045129",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100180/ss_4e77107d2a0d74e656bbceadd6588ea04ddab139.1920x1080.jpg?t=1668045129"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100180/ss_7bbc4f46aa087001604a83f5a101de934322314c.600x338.jpg?t=1668045129",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100180/ss_7bbc4f46aa087001604a83f5a101de934322314c.1920x1080.jpg?t=1668045129"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100180/ss_a63018a11d0436b5589128a2cb69ee8e0b33fe91.600x338.jpg?t=1668045129",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100180/ss_a63018a11d0436b5589128a2cb69ee8e0b33fe91.1920x1080.jpg?t=1668045129"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256752802,
+          "name": "th128_demo",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256752802/movie.293x165.jpg?t=1563343042",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1100180/227002/a647980c97a748bb52cd6c94ef869c288933a256/1751188592/dash_av1.mpd?t=1563343042",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1100180/227002/a647980c97a748bb52cd6c94ef869c288933a256/1751188592/dash_h264.mpd?t=1563343042",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1100180/227002/a647980c97a748bb52cd6c94ef869c288933a256/1751188592/hls_264_master.m3u8?t=1563343042",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 121
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Aug 2, 2019"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@mediascape.co.jp"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1100180?t=1668045129",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1100180/page_bg_raw.jpg?t=1668045129",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência fantasiosa"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "6",
+          "required_age": "6",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Fantasy-Gewalt"
+        }
+      }
+    }
+  }
+}

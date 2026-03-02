@@ -1,0 +1,196 @@
+{
+  "1065200": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Visitor2 / 来访者2",
+      "steam_appid": 1065200,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "Game content<br />\r\nThe Visitor Ⅱ is a full-motion video (FMV) based detective suspense game made by Chinese. This game is a sequel to Visitor and it tells a story that a murder case happened in a boarding house on a winter night in 2018. Yu Li, a woman, died in the room where she lives. The detective played by the player needs to find contradictions or connections in several suspects and dozens of evidence and monitoring clues. The players played by Qiang Sheng, Ouyang Lan and Xiao Li as the main characters will continue to fight against the suspects and uncover the truth behind them.<br />\r\n<br />\r\nGame features<br />\r\nAs a dynamic video game, The Visitor Ⅱ is almost presented in the form of video or real image,including the testimony of the witness, the progress of the case, the evidence and reports, ending, etc., the player is no longer simply to choose a branch that emerge in the process of the game, but really played as a policeman or policewoman to analyze and think about the case. It is very likely that the suspect’s casual words are the key to solving the entire case! Compared with the Visitor, the second one is larger and more brain-burning and the shooting is more excellent.<br />\r\n<br />\r\n<br />\r\nGameplay<br />\r\nThe main interface of the game corresponds to the detective players’ tablet interface. The folder inside the computer keeps all kinds of information about the whole case in different categories. As the case progresses, there will be more and more information. Players need to analyze and think about the information they have on hand. Finding out related or contradictory points, and combine and analyze them in thinking, so as to draw one new conclusion after another.<br />\r\n<br />\r\n<br />\r\nLabels<br />\r\n1. based on a real case<br />\r\n2. more than 150 videos and exhibits<br />\r\n3. games performed by professional actors<br />\r\n4. movie-level shooting<br />\r\n5. various endings",
+      "about_the_game": "Game content<br />\r\nThe Visitor Ⅱ is a full-motion video (FMV) based detective suspense game made by Chinese. This game is a sequel to Visitor and it tells a story that a murder case happened in a boarding house on a winter night in 2018. Yu Li, a woman, died in the room where she lives. The detective played by the player needs to find contradictions or connections in several suspects and dozens of evidence and monitoring clues. The players played by Qiang Sheng, Ouyang Lan and Xiao Li as the main characters will continue to fight against the suspects and uncover the truth behind them.<br />\r\n<br />\r\nGame features<br />\r\nAs a dynamic video game, The Visitor Ⅱ is almost presented in the form of video or real image,including the testimony of the witness, the progress of the case, the evidence and reports, ending, etc., the player is no longer simply to choose a branch that emerge in the process of the game, but really played as a policeman or policewoman to analyze and think about the case. It is very likely that the suspect’s casual words are the key to solving the entire case! Compared with the Visitor, the second one is larger and more brain-burning and the shooting is more excellent.<br />\r\n<br />\r\n<br />\r\nGameplay<br />\r\nThe main interface of the game corresponds to the detective players’ tablet interface. The folder inside the computer keeps all kinds of information about the whole case in different categories. As the case progresses, there will be more and more information. Players need to analyze and think about the information they have on hand. Finding out related or contradictory points, and combine and analyze them in thinking, so as to draw one new conclusion after another.<br />\r\n<br />\r\n<br />\r\nLabels<br />\r\n1. based on a real case<br />\r\n2. more than 150 videos and exhibits<br />\r\n3. games performed by professional actors<br />\r\n4. movie-level shooting<br />\r\n5. various endings",
+      "short_description": "The Visitor Ⅱ is a full-motion video (FMV) based detective suspense game made by Chinese. The detective played by the player needs to find contradictions or connections in several suspects and dozens of evidence and monitoring clues, and restore the details of the entire murder case step by step to find the true culprit.",
+      "supported_languages": "English, Simplified Chinese<strong>*</strong>, Korean<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065200/header.jpg?t=1564592445",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065200/capsule_231x87.jpg?t=1564592445",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065200/capsule_184x69.jpg?t=1564592445",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Core i3/AMD A6 2.4Ghz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 260/AMD Radeon HD 5750.OpenGL 3.3<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 11 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows10<br></li><li><strong>Processor:</strong> Quad Core 2.3GHz or equivalent processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 750/AMD Radeon HD 7850<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 11 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "Zhongce Games"
+      ],
+      "publishers": [
+        "Zhongce Games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 699,
+        "final": 699,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$6.99"
+      },
+      "packages": [
+        356438
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Visitor2 / 来访者2",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 356438,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Visitor2 / 来访者2 - $6.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 699
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065200/ss_06549109d0c3f656ead5d01358b26fe44bf3e0a1.600x338.jpg?t=1564592445",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065200/ss_06549109d0c3f656ead5d01358b26fe44bf3e0a1.1920x1080.jpg?t=1564592445"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065200/ss_ed7507151f4bdf217f6dcb04b3c636b77e5cfd2a.600x338.jpg?t=1564592445",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065200/ss_ed7507151f4bdf217f6dcb04b3c636b77e5cfd2a.1920x1080.jpg?t=1564592445"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065200/ss_10a3635e23424845ff2c78508210e3856fb3caa0.600x338.jpg?t=1564592445",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065200/ss_10a3635e23424845ff2c78508210e3856fb3caa0.1920x1080.jpg?t=1564592445"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065200/ss_f1819b028e4fecc774264c83b36e0ca256b67031.600x338.jpg?t=1564592445",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065200/ss_f1819b028e4fecc774264c83b36e0ca256b67031.1920x1080.jpg?t=1564592445"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065200/ss_5d08fdb4977c085fb30feafa398babcdcc21d2eb.600x338.jpg?t=1564592445",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065200/ss_5d08fdb4977c085fb30feafa398babcdcc21d2eb.1920x1080.jpg?t=1564592445"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065200/ss_95053f7396c31ff45db1e840c5b29db1b71918dd.600x338.jpg?t=1564592445",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065200/ss_95053f7396c31ff45db1e840c5b29db1b71918dd.1920x1080.jpg?t=1564592445"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256747808,
+          "name": "Visitor 2 Trailer-Simplified Chinese",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256747808/movie.293x165.jpg?t=1561017048",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1065200/217913/f439489d66b8aa82c5335ec0445d4af81720d581/1751183645/dash_av1.mpd?t=1561017048",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1065200/217913/f439489d66b8aa82c5335ec0445d4af81720d581/1751183645/dash_h264.mpd?t=1561017048",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1065200/217913/f439489d66b8aa82c5335ec0445d4af81720d581/1751183645/hls_264_master.m3u8?t=1561017048",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 165
+      },
+      "achievements": {
+        "total": 11,
+        "highlighted": [
+          {
+            "name": "Cuckold",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065200/a409fa31225d61f1f8652a58c25fae65ecd55023.jpg"
+          },
+          {
+            "name": "Psychiatrist",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065200/6dd32cbf5619c9202384e1dc9f800b4f432643e6.jpg"
+          },
+          {
+            "name": "New Problems",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065200/eb9d09ff1a2da7bf0c4d799f0f1bd3c2f373d138.jpg"
+          },
+          {
+            "name": "Loyalty",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065200/7124af2abf7f498ce5403322fc7c5d65635a406e.jpg"
+          },
+          {
+            "name": "Can't Hear",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065200/e3302ca583c84a8d2d3589a4f55128ed71cab124.jpg"
+          },
+          {
+            "name": "The King of Heming Mountain",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065200/84a87e5c457cefac090e54f890f08d3318be5fc9.jpg"
+          },
+          {
+            "name": "Connoisseur",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065200/2d8db78bfc5bf0b271aa3c027955b1064adbda92.jpg"
+          },
+          {
+            "name": "Iron Man",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065200/63513f14e72c104c887c3dfd7214ad7217e9feef.jpg"
+          },
+          {
+            "name": "Piercing eye 2.0",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065200/99125623bf0e9d7f806c68cd08b41a1fee42a834.jpg"
+          },
+          {
+            "name": "Good Drinker",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1065200/cfd5bdca26bac8bca53d0fb8120b4be67daf8928.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jul 31, 2019"
+      },
+      "support_info": {
+        "url": "",
+        "email": "zhongcemedia@qq.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1065200?t=1564592445",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1065200/page_bg_raw.jpg?t=1564592445",
+      "content_descriptors": {
+        "ids": [
+          2,
+          5
+        ],
+        "notes": "The developers describe the content like this:\r\n\r\nThis Game may contain content not appropriate for all ages, or may not be appropriate for viewing at work:Violence"
+      },
+      "ratings": null
+    }
+  }
+}

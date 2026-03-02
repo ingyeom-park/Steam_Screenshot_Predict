@@ -1,0 +1,235 @@
+{
+  "1184420": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "天降锦鲤 ~ My Lucky Koi",
+      "steam_appid": 1184420,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "This is a Chinese short visual novel with single ending.<br>Its`A humorous Daily story.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/extras/63268a1ccb4203262b96b2528dcd7d9f.avif?t=1598268566\" width=600 height=188 /></span><br><strong>剧情简介</strong><br><strong>——A friendship story between a hard worker and a Koi leprechaun.</strong><br>It is said that koi is an auspicious Totem！<br>I didn't believe it before. Now The road is tortuous, the future is really fragrant!!!<br><br><strong>Works category Minesweeper: Easy. Funny. daily. Sweet system. Adventure. Short story. Inspirational.</strong><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/extras/e5fe7ae8e7062d2c54f313c6d17e1b5d.avif?t=1598268566\" width=600 height=188 /></span><br><strong>CV 海棠不言</strong><br>天降系腹黑妖精，抢着为我还花呗的怪人。<br>试图努力挽回主角的信仰，却总是弄巧成拙。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/extras/c8f7b5aea6640dfaa8ae4f9bc2df60cd.avif?t=1598268566\" width=600 height=188 /></span><br><strong>CV 恪诀</strong><br>温柔的猫咖店老板大姐姐，似乎与瑞瑞有不共戴天之仇？<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/extras/77d777e26581a6c702eabe2e7a29e4fa.avif?t=1598268566\" width=600 height=190 /></span><br>（无CV）<br>以及各路奇怪甲乙丙丁戊己庚辛壬癸……<br><br>游戏剧本字数：约5w5k字<br><br><strong>STAFF:</strong><br>企划：33ParadoX&amp;igstore<br>剧本：igs<br>程序：鱆<br>演出脚本：33ParadoX<br>美术：33ParadoX  考拉兄<br>CV：海棠不言  恪诀<br>音频后期：烤面筋<br>UI：匣中猫  33ParadoX<br>音乐：shimtone @ DOVA-SYNDROME",
+      "about_the_game": "This is a Chinese short visual novel with single ending.<br>Its`A humorous Daily story.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/extras/63268a1ccb4203262b96b2528dcd7d9f.avif?t=1598268566\" width=600 height=188 /></span><br><strong>剧情简介</strong><br><strong>——A friendship story between a hard worker and a Koi leprechaun.</strong><br>It is said that koi is an auspicious Totem！<br>I didn't believe it before. Now The road is tortuous, the future is really fragrant!!!<br><br><strong>Works category Minesweeper: Easy. Funny. daily. Sweet system. Adventure. Short story. Inspirational.</strong><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/extras/e5fe7ae8e7062d2c54f313c6d17e1b5d.avif?t=1598268566\" width=600 height=188 /></span><br><strong>CV 海棠不言</strong><br>天降系腹黑妖精，抢着为我还花呗的怪人。<br>试图努力挽回主角的信仰，却总是弄巧成拙。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/extras/c8f7b5aea6640dfaa8ae4f9bc2df60cd.avif?t=1598268566\" width=600 height=188 /></span><br><strong>CV 恪诀</strong><br>温柔的猫咖店老板大姐姐，似乎与瑞瑞有不共戴天之仇？<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/extras/77d777e26581a6c702eabe2e7a29e4fa.avif?t=1598268566\" width=600 height=190 /></span><br>（无CV）<br>以及各路奇怪甲乙丙丁戊己庚辛壬癸……<br><br>游戏剧本字数：约5w5k字<br><br><strong>STAFF:</strong><br>企划：33ParadoX&amp;igstore<br>剧本：igs<br>程序：鱆<br>演出脚本：33ParadoX<br>美术：33ParadoX  考拉兄<br>CV：海棠不言  恪诀<br>音频后期：烤面筋<br>UI：匣中猫  33ParadoX<br>音乐：shimtone @ DOVA-SYNDROME",
+      "short_description": "Its`A humorous Daily story——A friendship story between a hard worker and a Koi leprechaun.——This is a Chinese short visual novel with single ending.",
+      "supported_languages": "Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/header.jpg?t=1598268566",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/capsule_231x87.jpg?t=1598268566",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/capsule_184x69.jpg?t=1598268566",
+      "website": "https://weibo.com/u/6460561878",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> WIN7 SP1/WIN8/WIN10<br></li><li><strong>Processor:</strong> 1.3GHz and above<br></li><li><strong>Graphics:</strong> Integrated graphics<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 2000 MB available space<br></li><li><strong>Sound Card:</strong> Onboard sound</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> WIN7 SP1/WIN10<br></li><li><strong>Processor:</strong> Core2Duo 2.4Ghz<br></li><li><strong>Graphics:</strong> DirectX 10 compatible graphics card<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 3000 MB available space<br></li><li><strong>Sound Card:</strong> DirectX 9.0 Compatible Sound</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10.11+<br></li><li><strong>Processor:</strong> 1.3GHz and above<br></li><li><strong>Graphics:</strong> DirectX or OpenGL compatible card<br></li><li><strong>Storage:</strong> 2000 MB available space<br></li><li><strong>Sound Card:</strong> Onboard sound</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10.11+<br></li><li><strong>Processor:</strong> 1.3GHz and above<br></li><li><strong>Graphics:</strong> DirectX or OpenGL compatible card<br></li><li><strong>Storage:</strong> 3000 MB available space<br></li><li><strong>Sound Card:</strong> Onboard sound</li></ul>"
+      },
+      "linux_requirements": [],
+      "developers": [
+        "V.P. TEAM"
+      ],
+      "publishers": [
+        "33ParadoX&igstore"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 499,
+        "final": 499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$4.99"
+      },
+      "packages": [
+        407254
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 天降锦鲤 ~ My Lucky Koi",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 407254,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "天降锦鲤 ~ My Lucky Koi - $4.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/ss_14d92d9033794b592454c821574d5947170d5157.600x338.jpg?t=1598268566",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/ss_14d92d9033794b592454c821574d5947170d5157.1920x1080.jpg?t=1598268566"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/ss_e9bd396ab62361f887cfd2cc65e842ceb82b5e3c.600x338.jpg?t=1598268566",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/ss_e9bd396ab62361f887cfd2cc65e842ceb82b5e3c.1920x1080.jpg?t=1598268566"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/ss_5dc6e44dcb5b7bece2be5f88fc2f72d4646e6808.600x338.jpg?t=1598268566",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/ss_5dc6e44dcb5b7bece2be5f88fc2f72d4646e6808.1920x1080.jpg?t=1598268566"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/ss_f07622c8c4055a113bd8c177684904d2a60c9887.600x338.jpg?t=1598268566",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/ss_f07622c8c4055a113bd8c177684904d2a60c9887.1920x1080.jpg?t=1598268566"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/ss_bd08b21036c7f04e7582ea14f1c9b4c0f4004b22.600x338.jpg?t=1598268566",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/ss_bd08b21036c7f04e7582ea14f1c9b4c0f4004b22.1920x1080.jpg?t=1598268566"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/ss_e84ef7990946e21f9089d65621f85cfe8596cc80.600x338.jpg?t=1598268566",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/ss_e84ef7990946e21f9089d65621f85cfe8596cc80.1920x1080.jpg?t=1598268566"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/ss_2e4f884dfca7fd339a6224ecfdeffebcbc06ea9a.600x338.jpg?t=1598268566",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/ss_2e4f884dfca7fd339a6224ecfdeffebcbc06ea9a.1920x1080.jpg?t=1598268566"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/ss_a629e17df221c9f8c83e8a55baab84e70b1e9945.600x338.jpg?t=1598268566",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/ss_a629e17df221c9f8c83e8a55baab84e70b1e9945.1920x1080.jpg?t=1598268566"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256765583,
+          "name": "01",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256765583/movie.293x165.jpg?t=1572842622",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1184420/249743/a3efe47692709407bc35e0441036648665026f6d/1751200482/dash_av1.mpd?t=1572842622",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1184420/249743/a3efe47692709407bc35e0441036648665026f6d/1751200482/dash_h264.mpd?t=1572842622",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1184420/249743/a3efe47692709407bc35e0441036648665026f6d/1751200482/hls_264_master.m3u8?t=1572842622",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 242
+      },
+      "achievements": {
+        "total": 15,
+        "highlighted": [
+          {
+            "name": "天降锦鲤！",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1184420/5c3ae620df13f29b47c24c80e8bd139d144914b0.jpg"
+          },
+          {
+            "name": "幸运初始！",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1184420/370ebd8c7813e992ad0ce0cb64681c2ff5cd9b06.jpg"
+          },
+          {
+            "name": "上工啦！",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1184420/df65ad42b17a08c2e903e91380aa6b0b926e60e3.jpg"
+          },
+          {
+            "name": "立功啦！",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1184420/8fdb679ebe00fae2d6582d67cc131d866de0c0c7.jpg"
+          },
+          {
+            "name": "天敌呀！",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1184420/924ec87c502bd210b9aabfae0d098d2697ce26bf.jpg"
+          },
+          {
+            "name": "直播啦！",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1184420/e56dbbf55c6e959c3087f604bf82e2cc35276ceb.jpg"
+          },
+          {
+            "name": "龟龟啦！",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1184420/9a9e3407a468ff22bce26a8830bdccaf2b907fc7.jpg"
+          },
+          {
+            "name": "安全驾驶！",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1184420/26458a1135e15c09fdddd4c5f980dbef4fb705d4.jpg"
+          },
+          {
+            "name": "剪刀王者！",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1184420/3a707edefd18652bd92e9e397613293083105770.jpg"
+          },
+          {
+            "name": "有求必应！",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1184420/a4916a6fc9673ed9182767b9ebe56b592a82ff29.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Nov 22, 2019"
+      },
+      "support_info": {
+        "url": "",
+        "email": "igstore@qq.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1184420?t=1598268566",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184420/page_bg_raw.jpg?t=1598268566",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

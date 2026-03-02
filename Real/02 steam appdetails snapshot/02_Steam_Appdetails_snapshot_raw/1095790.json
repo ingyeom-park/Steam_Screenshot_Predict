@@ -1,0 +1,299 @@
+{
+  "1095790": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "恋爱总动员/Love Date",
+      "steam_appid": 1095790,
+      "required_age": "12",
+      "is_free": false,
+      "detailed_description": "前言：<br />\r\nBADEND说明，就放在最把前面吧，<br />\r\n抬杠：一项内容也没答对<br />\r\n自行车：只答对一题<br />\r\n恋爱六十分：答对两题<br />\r\n只差一点点：只答错一题<br />\r\n<br />\r\n根据最近玩家的反应，我觉得有必要写一段说明，希望即将开始游戏的新玩家都可以看到这一段内容。<br />\r\n表面上这是一个猜女生心思的游戏，实际上是让你通过问答来观察女生的反应，其实这不是一个情商游戏，而是一个训练观察力的游戏（上官凛的篇章除外，那个更接近于一般游戏类型的设计）。一般来说没人能一遍就过关，需要多次尝试才能“通关”，这样设计的目的不是让玩家多试几次，试出一个答案，甚至穷举来过关，我是想让男生们在答对答错后能仔细发觉到女主角的开心与否，由此判断我们这个选项是否正确。只是想来享受甜甜恋爱的朋友，要提前对你们说声抱歉，游戏可能会对你们不太友好，甚至是那种“受苦”游戏的感觉。其实男人不了解女人的想法很正常，不知道女人为什么生气也正常，但起码要知道对方是不是生气，是不是开心，如果连这个都看不出来那危机就大了。一个小游戏，也说不了什么大道理，就是希望玩家能通过这个游戏能更好的看懂女性吧。<br />\r\n<br />\r\n<br />\r\n这是一款完全由RPGMAKE MV制作的真人恋爱模拟游戏。本人并不会编程，也考虑过使用橙光的编辑器，但最后考虑到我要做出的某几个功能，最后还是选择了RPGMAKER，所以整个游戏有一种魔改的幻觉。视频部分因为rpgmaker支持的格式比较单一，所以有一定的缩水……如果想要看高清的视频，我已经在群里面上传了。整体容量有2G比同类型游戏大了不少，关键之一是图片比较大，每张高清基本在3M左右，没有找到更好的压缩手段，就只能稍微多吃一点大家的硬盘了吧，如果大家可以接受画质降低一点，也可以再把游戏体积降低一些。<br />\r\n<br />\r\n接下去是游戏内容介绍。<br />\r\n首先，严格意义上来讲成人内容是不存在的，只是不知道为什么审查一定要这么填，准备冲出去的可以缓一缓。<br />\r\n本游戏一共有三个小姐姐可供攻略，每个小姐姐有两段故事，必须得通过第一段剧情才能游玩第二段，第二段也成功的话会有一段不那么清晰的视频。<br />\r\n游戏的难度从左往右逐步提升，前两个还算是传统的文字RPG，第三位小姐姐的每段故事我都做了特别的系统在里面，稍微能给人一种不一样的体验吧（剧透，巫师粉有惊喜。）<br />\r\n未来如果更新的话，可能会给每个小姐姐再加一段剧情，以及再增加一个新人物，这个就看哪个呼声比较高了。<br />\r\n设置中几个选项基本是没用的，其中的message speed可以改变对话显示速度，要改的话可以自行调整。<br />\r\n<br />\r\n任何反馈及建议，可以加qq群：861025548<br />\r\n<br />\r\n<br />\r\n制作人员：<br />\r\n剧本，导演：皇甫迎峰<br />\r\n制作软件：RPGMAKER MV<br />\r\n音乐：RPGMAKER MV自带<br />\r\n程序：皇甫迎峰<br />\r\n封面，图片后期：张敏<br />\r\n漫画：皇甫迎峰<br />\r\n视频后期：穆挺<br />\r\n摄影：叶松璋 周奕伟<br />\r\n演员：张靓 郑娅 陈慧敏<br />\r\n特别鸣谢：YEP系列插件，galv的选项框插件，魔王魂的BGM，配音鹿子",
+      "about_the_game": "前言：<br />\r\nBADEND说明，就放在最把前面吧，<br />\r\n抬杠：一项内容也没答对<br />\r\n自行车：只答对一题<br />\r\n恋爱六十分：答对两题<br />\r\n只差一点点：只答错一题<br />\r\n<br />\r\n根据最近玩家的反应，我觉得有必要写一段说明，希望即将开始游戏的新玩家都可以看到这一段内容。<br />\r\n表面上这是一个猜女生心思的游戏，实际上是让你通过问答来观察女生的反应，其实这不是一个情商游戏，而是一个训练观察力的游戏（上官凛的篇章除外，那个更接近于一般游戏类型的设计）。一般来说没人能一遍就过关，需要多次尝试才能“通关”，这样设计的目的不是让玩家多试几次，试出一个答案，甚至穷举来过关，我是想让男生们在答对答错后能仔细发觉到女主角的开心与否，由此判断我们这个选项是否正确。只是想来享受甜甜恋爱的朋友，要提前对你们说声抱歉，游戏可能会对你们不太友好，甚至是那种“受苦”游戏的感觉。其实男人不了解女人的想法很正常，不知道女人为什么生气也正常，但起码要知道对方是不是生气，是不是开心，如果连这个都看不出来那危机就大了。一个小游戏，也说不了什么大道理，就是希望玩家能通过这个游戏能更好的看懂女性吧。<br />\r\n<br />\r\n<br />\r\n这是一款完全由RPGMAKE MV制作的真人恋爱模拟游戏。本人并不会编程，也考虑过使用橙光的编辑器，但最后考虑到我要做出的某几个功能，最后还是选择了RPGMAKER，所以整个游戏有一种魔改的幻觉。视频部分因为rpgmaker支持的格式比较单一，所以有一定的缩水……如果想要看高清的视频，我已经在群里面上传了。整体容量有2G比同类型游戏大了不少，关键之一是图片比较大，每张高清基本在3M左右，没有找到更好的压缩手段，就只能稍微多吃一点大家的硬盘了吧，如果大家可以接受画质降低一点，也可以再把游戏体积降低一些。<br />\r\n<br />\r\n接下去是游戏内容介绍。<br />\r\n首先，严格意义上来讲成人内容是不存在的，只是不知道为什么审查一定要这么填，准备冲出去的可以缓一缓。<br />\r\n本游戏一共有三个小姐姐可供攻略，每个小姐姐有两段故事，必须得通过第一段剧情才能游玩第二段，第二段也成功的话会有一段不那么清晰的视频。<br />\r\n游戏的难度从左往右逐步提升，前两个还算是传统的文字RPG，第三位小姐姐的每段故事我都做了特别的系统在里面，稍微能给人一种不一样的体验吧（剧透，巫师粉有惊喜。）<br />\r\n未来如果更新的话，可能会给每个小姐姐再加一段剧情，以及再增加一个新人物，这个就看哪个呼声比较高了。<br />\r\n设置中几个选项基本是没用的，其中的message speed可以改变对话显示速度，要改的话可以自行调整。<br />\r\n<br />\r\n任何反馈及建议，可以加qq群：861025548<br />\r\n<br />\r\n<br />\r\n制作人员：<br />\r\n剧本，导演：皇甫迎峰<br />\r\n制作软件：RPGMAKER MV<br />\r\n音乐：RPGMAKER MV自带<br />\r\n程序：皇甫迎峰<br />\r\n封面，图片后期：张敏<br />\r\n漫画：皇甫迎峰<br />\r\n视频后期：穆挺<br />\r\n摄影：叶松璋 周奕伟<br />\r\n演员：张靓 郑娅 陈慧敏<br />\r\n特别鸣谢：YEP系列插件，galv的选项框插件，魔王魂的BGM，配音鹿子",
+      "short_description": "一款真人恋爱冒险游戏，嘛，还算有趣吧。",
+      "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/header.jpg?t=1565545824",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/capsule_231x87.jpg?t=1565545824",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/capsule_184x69.jpg?t=1565545824",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows7<br></li><li><strong>Processor:</strong> 1.5 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Memory 128Mb<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "本游戏完全采用RPGMAKER MV制作,感谢网络上制作并免费分享插件及经验的一些人。<br />\r\n本游戏使用了YEP的一系列插件以及Galv的单独对话框插件。",
+      "developers": [
+        "F191",
+        "中闻影视"
+      ],
+      "publishers": [
+        "F191",
+        "中闻影视"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 199,
+        "final": 199,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$1.99"
+      },
+      "packages": [
+        369413
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 恋爱总动员/Love Date",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 369413,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "恋爱总动员 - $1.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 199
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_3f966f79c863206b2401b9bc73ccd633ad72aa02.600x338.jpg?t=1565545824",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_3f966f79c863206b2401b9bc73ccd633ad72aa02.1920x1080.jpg?t=1565545824"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_d73d351765c29e7b6875f82f2fffc04529b0188a.600x338.jpg?t=1565545824",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_d73d351765c29e7b6875f82f2fffc04529b0188a.1920x1080.jpg?t=1565545824"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_f78bf2d70ec79cdde54fb8802d0627cf1000abd2.600x338.jpg?t=1565545824",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_f78bf2d70ec79cdde54fb8802d0627cf1000abd2.1920x1080.jpg?t=1565545824"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_a9509e895eb78a7c86cb116088e9c20be2a1cdf1.600x338.jpg?t=1565545824",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_a9509e895eb78a7c86cb116088e9c20be2a1cdf1.1920x1080.jpg?t=1565545824"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_7ef04d94267fc08bcff15b18bf6c013d7728341f.600x338.jpg?t=1565545824",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_7ef04d94267fc08bcff15b18bf6c013d7728341f.1920x1080.jpg?t=1565545824"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_bfd8aff2241df3656f47cb297674a55ffcf6da4e.600x338.jpg?t=1565545824",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_bfd8aff2241df3656f47cb297674a55ffcf6da4e.1920x1080.jpg?t=1565545824"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_8f97ba75932601202582c0dca00bcce021ce1298.600x338.jpg?t=1565545824",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_8f97ba75932601202582c0dca00bcce021ce1298.1920x1080.jpg?t=1565545824"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_4f930643d106a6cac7485dafc81e9da0c2555bb1.600x338.jpg?t=1565545824",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_4f930643d106a6cac7485dafc81e9da0c2555bb1.1920x1080.jpg?t=1565545824"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_45b06adfea2ab215943a966aaa03df4379733a42.600x338.jpg?t=1565545824",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1095790/ss_45b06adfea2ab215943a966aaa03df4379733a42.1920x1080.jpg?t=1565545824"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256751965,
+          "name": "宣传片",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256751965/movie.293x165.jpg?t=1559715901",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1095790/225517/dcbc0611c591200ecd3cc86606efcaccf5d736dd/1751187847/dash_av1.mpd?t=1559715901",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1095790/225517/dcbc0611c591200ecd3cc86606efcaccf5d736dd/1751187847/dash_h264.mpd?t=1559715901",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1095790/225517/dcbc0611c591200ecd3cc86606efcaccf5d736dd/1751187847/hls_264_master.m3u8?t=1559715901",
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 12,
+        "highlighted": [
+          {
+            "name": "你好，老铁",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1095790/5c840db662d771ef275f1dc93b1baa7e81c629b1.jpg"
+          },
+          {
+            "name": "坚持就是胜利",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1095790/0bfd19a4c36d310173e766d11d6a3527da999986.jpg"
+          },
+          {
+            "name": "你是来找bug的吗？",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1095790/1a14747cf966d0f191ce6afb66bc7a826fe0b557.jpg"
+          },
+          {
+            "name": "毒药是哪种垃圾",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1095790/a61ce5e549aef3c65c0edcbc789f0db686fd39b8.jpg"
+          },
+          {
+            "name": "你抢到了瓶子",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1095790/e379b3ea96809d5e949445969f72516d1848d49f.jpg"
+          },
+          {
+            "name": "新手上路",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1095790/a1ce2bc0315c43d186b497d8eae29d3a45141745.jpg"
+          },
+          {
+            "name": "再来一杯",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1095790/889eee556c39c1e0fc6164a6a2c373c4efb0ee6e.jpg"
+          },
+          {
+            "name": "你的学姐",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1095790/8298e61ad61ed1cd155424cc08c327d29dddd389.jpg"
+          },
+          {
+            "name": "我全都要",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1095790/c1b6dd529f6f7cd41e31070102bcffa53b3954a1.jpg"
+          },
+          {
+            "name": "打死DM",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1095790/4e58b5d0710e72d100cd5edc40df36e5e89d8d67.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 17, 2019"
+      },
+      "support_info": {
+        "url": "",
+        "email": "794459785@qq.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1095790?t=1565545824",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1095790?t=1565545824",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "esrb": {
+          "use_age_gate": "true",
+          "required_age": "12",
+          "descriptors": "Language",
+          "display_online_notice": "true",
+          "rating": "e"
+        },
+        "pegi": {
+          "use_age_gate": "true",
+          "required_age": "12",
+          "descriptors": "Language",
+          "rating": "12"
+        },
+        "bbfc": {
+          "use_age_gate": "true",
+          "required_age": "12",
+          "descriptors": "Language",
+          "rating": "12A"
+        },
+        "usk": {
+          "use_age_gate": "true",
+          "required_age": "12",
+          "descriptors": "Language",
+          "rating": "12"
+        },
+        "oflc": {
+          "use_age_gate": "true",
+          "required_age": "12",
+          "descriptors": "Language",
+          "rating": "ma15"
+        },
+        "nzoflc": {
+          "use_age_gate": "true",
+          "required_age": "12",
+          "descriptors": "Language",
+          "rating": "r13"
+        },
+        "cero": {
+          "use_age_gate": "true",
+          "required_age": "12",
+          "descriptors": "Language",
+          "rating": "b"
+        },
+        "kgrb": {
+          "use_age_gate": "true",
+          "required_age": "12",
+          "descriptors": "Language",
+          "rating": "12"
+        },
+        "dejus": {
+          "use_age_gate": "true",
+          "required_age": "12",
+          "descriptors": "Language",
+          "rating": "12"
+        },
+        "mda": {
+          "use_age_gate": "true",
+          "required_age": "12",
+          "descriptors": "Language",
+          "rating": "AA16"
+        },
+        "fpb": {
+          "use_age_gate": "true",
+          "required_age": "12",
+          "descriptors": "Language",
+          "rating": "A"
+        },
+        "csrr": {
+          "use_age_gate": "true",
+          "required_age": "12",
+          "descriptors": "Language",
+          "rating": "C12"
+        },
+        "crl": {
+          "use_age_gate": "true",
+          "required_age": "12",
+          "descriptors": "Language",
+          "rating": "12"
+        }
+      }
+    }
+  }
+}

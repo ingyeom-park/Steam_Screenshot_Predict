@@ -1,0 +1,252 @@
+{
+  "2113770": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "In Woods",
+      "steam_appid": 2113770,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<strong>Fight against Monsters</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/1f111cfea7918c4463f9c58d301e5e46.poster.avif?t=1766178979\" width=800 height=276 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/1f111cfea7918c4463f9c58d301e5e46.webm?t=1766178979\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/1f111cfea7918c4463f9c58d301e5e46.mp4?t=1766178979\" type=\"video/mp4\"></video></span><br>In each game, you'll face numerous attacking monsters. Fight against them and survive for as long as possible.<br><br><strong>Power Up the Character</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/4801dbbccd6cf528a6105e85d27fe6aa.poster.avif?t=1766178979\" width=800 height=232 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/4801dbbccd6cf528a6105e85d27fe6aa.webm?t=1766178979\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/4801dbbccd6cf528a6105e85d27fe6aa.mp4?t=1766178979\" type=\"video/mp4\"></video></span><br>As you defeat a certain number of monsters, your character will level up and have the opportunity to choose a magic item.<br><br><strong>Craft Items</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/b700179e636f08f37796ffb327f08672.poster.avif?t=1766178979\" width=800 height=328 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/b700179e636f08f37796ffb327f08672.webm?t=1766178979\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/b700179e636f08f37796ffb327f08672.mp4?t=1766178979\" type=\"video/mp4\"></video></span><br>You also have the ability to craft items with woods.<br><br><strong>Defeat the Final Boss</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/80cc3c91c9d42e79a77e37aa0e175e34.poster.avif?t=1766178979\" width=800 height=276 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/80cc3c91c9d42e79a77e37aa0e175e34.webm?t=1766178979\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/80cc3c91c9d42e79a77e37aa0e175e34.mp4?t=1766178979\" type=\"video/mp4\"></video></span><br>Survive for a specific duration and face the final boss and claim victory by defeating it.",
+      "about_the_game": "<strong>Fight against Monsters</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/1f111cfea7918c4463f9c58d301e5e46.poster.avif?t=1766178979\" width=800 height=276 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/1f111cfea7918c4463f9c58d301e5e46.webm?t=1766178979\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/1f111cfea7918c4463f9c58d301e5e46.mp4?t=1766178979\" type=\"video/mp4\"></video></span><br>In each game, you'll face numerous attacking monsters. Fight against them and survive for as long as possible.<br><br><strong>Power Up the Character</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/4801dbbccd6cf528a6105e85d27fe6aa.poster.avif?t=1766178979\" width=800 height=232 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/4801dbbccd6cf528a6105e85d27fe6aa.webm?t=1766178979\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/4801dbbccd6cf528a6105e85d27fe6aa.mp4?t=1766178979\" type=\"video/mp4\"></video></span><br>As you defeat a certain number of monsters, your character will level up and have the opportunity to choose a magic item.<br><br><strong>Craft Items</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/b700179e636f08f37796ffb327f08672.poster.avif?t=1766178979\" width=800 height=328 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/b700179e636f08f37796ffb327f08672.webm?t=1766178979\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/b700179e636f08f37796ffb327f08672.mp4?t=1766178979\" type=\"video/mp4\"></video></span><br>You also have the ability to craft items with woods.<br><br><strong>Defeat the Final Boss</strong><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/80cc3c91c9d42e79a77e37aa0e175e34.poster.avif?t=1766178979\" width=800 height=276 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/80cc3c91c9d42e79a77e37aa0e175e34.webm?t=1766178979\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/extras/80cc3c91c9d42e79a77e37aa0e175e34.mp4?t=1766178979\" type=\"video/mp4\"></video></span><br>Survive for a specific duration and face the final boss and claim victory by defeating it.",
+      "short_description": "In Woods is a roguelike survival game set in a forest. Fight monsters, level up, gather wood to craft items, and enhance your power to face stronger foes. Survive and defeat the final boss to claim ultimate victory!",
+      "supported_languages": "English, Traditional Chinese, Simplified Chinese, Japanese, Korean, Spanish - Spain, Portuguese - Brazil, Turkish, German, Polish, French, Russian, Italian, Czech, Hungarian, Thai, Ukrainian, Vietnamese, Hindi, Indonesian, Swedish, Dutch, Danish, Finnish, Slovak, Malay, Greek, Norwegian, Romanian",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/d7e4789f05a0054361a7217dc92a30b6424b09bb/header.jpg?t=1766178979",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/90884695445c839417b0ae029e780a20fdeb6552/capsule_231x87.jpg?t=1766178979",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/90884695445c839417b0ae029e780a20fdeb6552/capsule_184x69.jpg?t=1766178979",
+      "website": "https://visionparty.io/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 SP1+, 8, 10, 64-bit versions only<br></li><li><strong>Processor:</strong> Intel Core i3-6300 CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 950<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 SP1+, 8, 10, 64-bit versions only<br></li><li><strong>Processor:</strong> Intel core i5-6500 CPU<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Vision Party"
+      ],
+      "publishers": [
+        "Vision Party"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 699,
+        "final": 699,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$6.99"
+      },
+      "packages": [
+        755924
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy In Woods",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 755924,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "In Woods - $6.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 699
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 15,
+          "description": "Stats"
+        },
+        {
+          "id": 44,
+          "description": "Remote Play Together"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/a2c183cb0ac3b46ef1ba23199cee5f38dc652c91/ss_a2c183cb0ac3b46ef1ba23199cee5f38dc652c91.600x338.jpg?t=1766178979",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/a2c183cb0ac3b46ef1ba23199cee5f38dc652c91/ss_a2c183cb0ac3b46ef1ba23199cee5f38dc652c91.1920x1080.jpg?t=1766178979"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/378fba84faa2be87b55d95026c0a99a7ee4755a9/ss_378fba84faa2be87b55d95026c0a99a7ee4755a9.600x338.jpg?t=1766178979",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/378fba84faa2be87b55d95026c0a99a7ee4755a9/ss_378fba84faa2be87b55d95026c0a99a7ee4755a9.1920x1080.jpg?t=1766178979"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/f7b9d4da6fc049d08cf00b381d136257e2f5ad3d/ss_f7b9d4da6fc049d08cf00b381d136257e2f5ad3d.600x338.jpg?t=1766178979",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/f7b9d4da6fc049d08cf00b381d136257e2f5ad3d/ss_f7b9d4da6fc049d08cf00b381d136257e2f5ad3d.1920x1080.jpg?t=1766178979"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/078eaa753fc33ed9626718ba7613a411299cb431/ss_078eaa753fc33ed9626718ba7613a411299cb431.600x338.jpg?t=1766178979",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/078eaa753fc33ed9626718ba7613a411299cb431/ss_078eaa753fc33ed9626718ba7613a411299cb431.1920x1080.jpg?t=1766178979"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/a88a0586760a9bc087729ff6164da9321e5f2fe4/ss_a88a0586760a9bc087729ff6164da9321e5f2fe4.600x338.jpg?t=1766178979",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/a88a0586760a9bc087729ff6164da9321e5f2fe4/ss_a88a0586760a9bc087729ff6164da9321e5f2fe4.1920x1080.jpg?t=1766178979"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/eefad2e5ce1d691fabfb32361c305e2ce7195956/ss_eefad2e5ce1d691fabfb32361c305e2ce7195956.600x338.jpg?t=1766178979",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/eefad2e5ce1d691fabfb32361c305e2ce7195956/ss_eefad2e5ce1d691fabfb32361c305e2ce7195956.1920x1080.jpg?t=1766178979"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/592238c3ef33ae08a41741205f167cf43c3441e4/ss_592238c3ef33ae08a41741205f167cf43c3441e4.600x338.jpg?t=1766178979",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/592238c3ef33ae08a41741205f167cf43c3441e4/ss_592238c3ef33ae08a41741205f167cf43c3441e4.1920x1080.jpg?t=1766178979"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/2272e9c10275e9f57219afd80590b55b9912473c/ss_2272e9c10275e9f57219afd80590b55b9912473c.600x338.jpg?t=1766178979",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113770/2272e9c10275e9f57219afd80590b55b9912473c/ss_2272e9c10275e9f57219afd80590b55b9912473c.1920x1080.jpg?t=1766178979"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257186601,
+          "name": "English Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257186601/05027c4b7445df69a85bdd8f794d7107ef46c6ef/movie_600x337.jpg?t=1757409924",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2113770/1027296936/b06d5c5b68cfb44b84e44b185d3923aa63893e63/1755775636/dash_av1.mpd?t=1757409924",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2113770/1027296936/b06d5c5b68cfb44b84e44b185d3923aa63893e63/1755775636/dash_h264.mpd?t=1757409924",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2113770/1027296936/b06d5c5b68cfb44b84e44b185d3923aa63893e63/1755775636/hls_264_master.m3u8?t=1757409924",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 192
+      },
+      "achievements": {
+        "total": 60,
+        "highlighted": [
+          {
+            "name": "Monster Hunter",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2113770/3935b9a1f539a47c915f059a2878623fd2495637.jpg"
+          },
+          {
+            "name": "Attacker",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2113770/7304d17045ddb0b57876a17579a7c2be72fed3d1.jpg"
+          },
+          {
+            "name": "Defender",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2113770/67c957a752ec10c92f8bbbd858a5583d53884731.jpg"
+          },
+          {
+            "name": "Melee Attacker",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2113770/a65af52126d63787d1fdfa22abc61bbd7032bca4.jpg"
+          },
+          {
+            "name": "Ranged Attacker",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2113770/58276df71e3cb3311f1c02d048099b325b84a172.jpg"
+          },
+          {
+            "name": "Physical Master",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2113770/1f160b7087fbf0e87d01705c01d57075e735d0ad.jpg"
+          },
+          {
+            "name": "Element Master",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2113770/c6ee602c518118302dd818dd34b6e9aa9fb0ab5c.jpg"
+          },
+          {
+            "name": "Critical Striker",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2113770/2ada1ddbeda72da527322731e9467c5828b26045.jpg"
+          },
+          {
+            "name": "Healer",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2113770/0483c856ef40272a16cb735c7dda9aa15972e1bc.jpg"
+          },
+          {
+            "name": "Walker",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2113770/db13cac9e20e308c7863747b063e5f1e5d95b85c.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Aug 19, 2024"
+      },
+      "support_info": {
+        "url": "",
+        "email": "visionparty99@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2113770?t=1766178979",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2113770?t=1766178979",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "10",
+          "descriptors": "Violência",
+          "use_age_gate": "true",
+          "required_age": "10"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Gewalt"
+        }
+      }
+    }
+  }
+}

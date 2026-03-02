@@ -1,0 +1,236 @@
+{
+  "1578990": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Midnight Girl",
+      "steam_appid": 1578990,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "Midnight Girl is a casual point-and-click adventure game for mobile, PC and console.<br><br>The game takes place in France in the mid-Sixties. The story, mood, and style of the game are inspired by the city of Paris, Belgian comics and Sixties cinema.  <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/extras/0dfe2b47f25ef472ed7bf74b0ddce00b.poster.avif?t=1761287079\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/extras/0dfe2b47f25ef472ed7bf74b0ddce00b.webm?t=1761287079\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/extras/0dfe2b47f25ef472ed7bf74b0ddce00b.mp4?t=1761287079\" type=\"video/mp4\"></video></span><br><br>The late teen tomboy Monique lives as a cat burglar in Paris. After a heist gone wrong, she ends up in jail where she meets an enigmatic prisoner. They escape prison together, and agree to venture on a spectacular heist for a precious diamond. Thus begins a quest that takes our heroes through a catholic monastery, a Parisian metro station and the Catacombs.<br><br>The game focuses on story and atmosphere. The gameplay mixes elements of stealth, discovery and puzzle solving.",
+      "about_the_game": "Midnight Girl is a casual point-and-click adventure game for mobile, PC and console.<br><br>The game takes place in France in the mid-Sixties. The story, mood, and style of the game are inspired by the city of Paris, Belgian comics and Sixties cinema.  <br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/extras/0dfe2b47f25ef472ed7bf74b0ddce00b.poster.avif?t=1761287079\" width=600 height=338 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/extras/0dfe2b47f25ef472ed7bf74b0ddce00b.webm?t=1761287079\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/extras/0dfe2b47f25ef472ed7bf74b0ddce00b.mp4?t=1761287079\" type=\"video/mp4\"></video></span><br><br>The late teen tomboy Monique lives as a cat burglar in Paris. After a heist gone wrong, she ends up in jail where she meets an enigmatic prisoner. They escape prison together, and agree to venture on a spectacular heist for a precious diamond. Thus begins a quest that takes our heroes through a catholic monastery, a Parisian metro station and the Catacombs.<br><br>The game focuses on story and atmosphere. The gameplay mixes elements of stealth, discovery and puzzle solving.",
+      "short_description": "Midnight Girl is a casual point-and-click adventure game. The game takes place in France during the Sixties. The story, mood, and style of the game are inspired by the city of Paris, Belgian comics and heist films from the Sixties.",
+      "supported_languages": "English",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/header.jpg?t=1761287079",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/capsule_231x87.jpg?t=1761287079",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/capsule_184x69.jpg?t=1761287079",
+      "website": "https://www.midnightgirlgame.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> x86, x64 architecture with SSE2 instruction set support<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DX10, DX11, DX12 capable<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mojave 10.14<br></li><li><strong>Processor:</strong> Apple Silicon, x64 architecture with SSE2.<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Metal-capable Intel and AMD GPUs<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Requires a 64-bit processor and operating system</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Italic"
+      ],
+      "publishers": [
+        "Italic"
+      ],
+      "demos": [
+        {
+          "appid": 1929310,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1499,
+        "final": 1499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$14.99"
+      },
+      "packages": [
+        558535
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Midnight Girl",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 558535,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Midnight Girl - $14.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/ss_70d49c148407b5238326d1b50d4e2f517c62d962.600x338.jpg?t=1761287079",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/ss_70d49c148407b5238326d1b50d4e2f517c62d962.1920x1080.jpg?t=1761287079"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/ss_27ef4f746b4e11a55e981a068ce9c19c3b10bb3a.600x338.jpg?t=1761287079",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/ss_27ef4f746b4e11a55e981a068ce9c19c3b10bb3a.1920x1080.jpg?t=1761287079"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/ss_d7738598a11fb8488ea81722137baa110b713566.600x338.jpg?t=1761287079",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/ss_d7738598a11fb8488ea81722137baa110b713566.1920x1080.jpg?t=1761287079"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/ss_35694807839bb390f88d58552d4328f61daf13bd.600x338.jpg?t=1761287079",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/ss_35694807839bb390f88d58552d4328f61daf13bd.1920x1080.jpg?t=1761287079"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/ss_b319d73b93acd394c44acf38466759754af49797.600x338.jpg?t=1761287079",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578990/ss_b319d73b93acd394c44acf38466759754af49797.1920x1080.jpg?t=1761287079"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257002279,
+          "name": "Midnight Girl Trailer 2",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257002279/movie.293x165.jpg?t=1708441457",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1578990/664684/4aa07b601e88943197a13bb895a69d0557e3ce3c/1751005671/dash_av1.mpd?t=1708441457",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1578990/664684/4aa07b601e88943197a13bb895a69d0557e3ce3c/1751005671/dash_h264.mpd?t=1708441457",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1578990/664684/4aa07b601e88943197a13bb895a69d0557e3ce3c/1751005671/hls_264_master.m3u8?t=1708441457",
+          "highlight": true
+        },
+        {
+          "id": 256830598,
+          "name": "Midnight Girl Trailer 1",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256830598/movie.293x165.jpg?t=1708440758",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1578990/362064/21d7010601fcd7c156a24a928a92478a07708e9a/1751005671/dash_av1.mpd?t=1708440758",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1578990/362064/21d7010601fcd7c156a24a928a92478a07708e9a/1751005671/dash_h264.mpd?t=1708440758",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1578990/362064/21d7010601fcd7c156a24a928a92478a07708e9a/1751005671/hls_264_master.m3u8?t=1708440758",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 136
+      },
+      "achievements": {
+        "total": 50,
+        "highlighted": [
+          {
+            "name": "Just One More...",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1578990/622aafd08092c987240edbd4a5f50f011524b8a5.jpg"
+          },
+          {
+            "name": "Fangirl",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1578990/01344f55c81afbc48be7c23b83c0f6ecb7c43d54.jpg"
+          },
+          {
+            "name": "Couch Potato",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1578990/af0a8f03a5bad7d5de9a3bc95073e3b3e3ec96ad.jpg"
+          },
+          {
+            "name": "Moral Fiber",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1578990/139cd01f15c376e69faa590804e0eb6cd9c9d22a.jpg"
+          },
+          {
+            "name": "BOOM! (1/2)",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1578990/95e2b92d54cc4aa0348bc9257f8f4f5c53e59db2.jpg"
+          },
+          {
+            "name": "Stop Right There!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1578990/0f8f614964812b4eea50dda77fd6be5d10e05bc5.jpg"
+          },
+          {
+            "name": "Wrong Caliber",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1578990/de500999b7c4a37c4cc1e8358a3356205b47265d.jpg"
+          },
+          {
+            "name": "PFF!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1578990/4d81244f0aaa28a901810ac33154089160f430b6.jpg"
+          },
+          {
+            "name": "Provocateur",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1578990/a4a4b6b8296fa2847540c92a0c6692c1bfc31301.jpg"
+          },
+          {
+            "name": "Goldfish Memory",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1578990/c01312525fd0fc93437848daa33ca541d62fd02b.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 6, 2023"
+      },
+      "support_info": {
+        "url": "https://www.midnightgirlgame.com/contact",
+        "email": "support@italic.dk"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1578990?t=1761287079",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1578990?t=1761287079",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "12",
+          "descriptors": "Drogas lícitas\r\nViolência\r\nAtos criminosos",
+          "use_age_gate": "true",
+          "required_age": "12"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "6",
+          "required_age": "6",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Fantasy-Gewalt"
+        }
+      }
+    }
+  }
+}

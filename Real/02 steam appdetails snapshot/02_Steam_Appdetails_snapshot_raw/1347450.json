@@ -1,0 +1,224 @@
+{
+  "1347450": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "日日夜夜",
+      "steam_appid": 1347450,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1446820
+      ],
+      "detailed_description": "<h1>梨花社新作（需转区访问）</h1><p></p><br><h1>About the Game</h1><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/extras/5367852520eedd90759d5957fc5eadb1.avif?t=1753343777\" width=616 height=352 /></span><br><br>Note: The characters in this game are all over 18 years old.<br><br><strong>Story Overview</strong><br><br>Living alone in peace.<br>Interrupted by a silver-haired woman who fell from the sky.<br>but.<br>Although she brought her home with good intentions.<br>&quot;Too many strange and troublesome things?&quot;<br>&quot;My little partner who grew up is already very troublesome. Isn't it more troublesome if this is another one?&quot;<br>&quot;Ah, I can cook and do housework. That's fine.&quot;<br>&quot;Wait for Xia Kui! I definitely didn't accept her because of strange thoughts!&quot;<br>Life full of surprises and troubles begins。<br><br><strong>Introduction of main characters</strong><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/extras/347c2a173a518c7fd38e646a650d9d57.avif?t=1753343777\" width=521 height=405 /></span><br>LUNA<br>The silver-haired female demon that has fallen from the sky has an unknown life experience. After being taken in by Canghai (player), it shows the restraint and politeness that the traditional demon does not have.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/extras/ad798bccb7ab898cc7b4fd4076b48875.avif?t=1753343777\" width=521 height=405 /></span><br>Xia Kui<br>The partner who grew up with Cang Hai (player), although one year younger than Cang Hai, always likes to put on the frame of her sister, and is an extremely strong girl.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/extras/882003bd3d18488a63add31cc88f49f5.avif?t=1753343777\" width=521 height=405 /></span><br>Cang Hai<br>The male protagonist controlled by the player likes to describe himself as a &quot;common civilian passing by&quot;.<br><br><strong>Game Features</strong><br>Exquisite short text adventure game.<br>Relaxing and pleasant atmosphere.<br>Three beautiful endings.",
+      "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/extras/5367852520eedd90759d5957fc5eadb1.avif?t=1753343777\" width=616 height=352 /></span><br><br>Note: The characters in this game are all over 18 years old.<br><br><strong>Story Overview</strong><br><br>Living alone in peace.<br>Interrupted by a silver-haired woman who fell from the sky.<br>but.<br>Although she brought her home with good intentions.<br>&quot;Too many strange and troublesome things?&quot;<br>&quot;My little partner who grew up is already very troublesome. Isn't it more troublesome if this is another one?&quot;<br>&quot;Ah, I can cook and do housework. That's fine.&quot;<br>&quot;Wait for Xia Kui! I definitely didn't accept her because of strange thoughts!&quot;<br>Life full of surprises and troubles begins。<br><br><strong>Introduction of main characters</strong><br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/extras/347c2a173a518c7fd38e646a650d9d57.avif?t=1753343777\" width=521 height=405 /></span><br>LUNA<br>The silver-haired female demon that has fallen from the sky has an unknown life experience. After being taken in by Canghai (player), it shows the restraint and politeness that the traditional demon does not have.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/extras/ad798bccb7ab898cc7b4fd4076b48875.avif?t=1753343777\" width=521 height=405 /></span><br>Xia Kui<br>The partner who grew up with Cang Hai (player), although one year younger than Cang Hai, always likes to put on the frame of her sister, and is an extremely strong girl.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/extras/882003bd3d18488a63add31cc88f49f5.avif?t=1753343777\" width=521 height=405 /></span><br>Cang Hai<br>The male protagonist controlled by the player likes to describe himself as a &quot;common civilian passing by&quot;.<br><br><strong>Game Features</strong><br>Exquisite short text adventure game.<br>Relaxing and pleasant atmosphere.<br>Three beautiful endings.",
+      "short_description": "本游戏是一款通过点击画面推进游戏进程的AVG，某天傍晚，你走在回去的路上，突然从天而降的银发女性打乱了你平静的生活。心地善良的你决定救下这名无名女性。遥远的记忆开始苏醒，你不得不面临着选择。",
+      "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/header.jpg?t=1753343777",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/capsule_231x87.jpg?t=1753343777",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/capsule_184x69.jpg?t=1753343777",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows7<br></li><li><strong>Processor:</strong> i3<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> GTX760<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows10<br></li><li><strong>Processor:</strong> i5<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GTX1050ti<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "PEARFLOWER"
+      ],
+      "publishers": [
+        " GameCreator",
+        "LoveStoryProject"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 399,
+        "final": 399,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$3.99"
+      },
+      "packages": [
+        471210
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 日日夜夜",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 471210,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "日日夜夜 - $3.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 399
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/ss_eb688c1f17455c0d29a4a6e71b509e6b7b504483.600x338.jpg?t=1753343777",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/ss_eb688c1f17455c0d29a4a6e71b509e6b7b504483.1920x1080.jpg?t=1753343777"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/ss_ac95a686d5ad0ec5e09b89a2db655ad85c1e0f4d.600x338.jpg?t=1753343777",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/ss_ac95a686d5ad0ec5e09b89a2db655ad85c1e0f4d.1920x1080.jpg?t=1753343777"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/ss_42c4d240b10cf9453cd8c1fd0781dc73025c0e69.600x338.jpg?t=1753343777",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/ss_42c4d240b10cf9453cd8c1fd0781dc73025c0e69.1920x1080.jpg?t=1753343777"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/ss_3329da18ac3f54935dbeb4e341a56070c07bf2d9.600x338.jpg?t=1753343777",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/ss_3329da18ac3f54935dbeb4e341a56070c07bf2d9.1920x1080.jpg?t=1753343777"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/ss_e22b785fd1c0369eb92dce4a5fe54a7466aab539.600x338.jpg?t=1753343777",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/ss_e22b785fd1c0369eb92dce4a5fe54a7466aab539.1920x1080.jpg?t=1753343777"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/ss_0ec51b3ae425c2cc49120de8f26afcd186af8f19.600x338.jpg?t=1753343777",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/ss_0ec51b3ae425c2cc49120de8f26afcd186af8f19.1920x1080.jpg?t=1753343777"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/ss_fd1cc0fd4d64e13de7b0b47e3ac6b060b48f088d.600x338.jpg?t=1753343777",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/ss_fd1cc0fd4d64e13de7b0b47e3ac6b060b48f088d.1920x1080.jpg?t=1753343777"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256792193,
+          "name": "ririyeye",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256792193/movie.293x165.jpg?t=1595035829",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1347450/297373/fd93a0d52ac3f2451c1dc9de3c24a60683996c8d/1751225082/dash_av1.mpd?t=1595035829",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1347450/297373/fd93a0d52ac3f2451c1dc9de3c24a60683996c8d/1751225082/dash_h264.mpd?t=1595035829",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1347450/297373/fd93a0d52ac3f2451c1dc9de3c24a60683996c8d/1751225082/hls_264_master.m3u8?t=1595035829",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 177
+      },
+      "achievements": {
+        "total": 4,
+        "highlighted": [
+          {
+            "name": "天降来袭",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1347450/97349fd0803670add0f483c41d4d63d951b97994.jpg"
+          },
+          {
+            "name": "金发双马尾富婆！",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1347450/8b0f57c05fbd4ecd22cf30c703393ebef89d6ee9.jpg"
+          },
+          {
+            "name": "银发大姐姐你喜欢吗？",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1347450/5fd33ff44b7e6a3b0d1b561ce6ee5e7ccbeba9df.jpg"
+          },
+          {
+            "name": "朝夕相伴的日日夜夜",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1347450/3cf8aa55d7d00d59d52c259e8d4268bfdc1fc2ec.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 23, 2020"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@lspsp.me"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1347450?t=1753343777",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347450/page_bg_raw.jpg?t=1753343777",
+      "content_descriptors": {
+        "ids": [
+          1,
+          5
+        ],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "18",
+          "required_age": "18",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Sexo Explícito\nViolência"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "BANNED",
+          "required_age": "2147483647",
+          "banned": "1",
+          "use_age_gate": "0",
+          "descriptors": "Sexuelle Inhalte\nGewalt"
+        }
+      }
+    }
+  }
+}

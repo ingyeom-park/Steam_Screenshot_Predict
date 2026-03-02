@@ -1,0 +1,200 @@
+{
+  "207570": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "English Country Tune",
+      "steam_appid": 207570,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "English Country Tune is a luxuriant abstract 3D puzzle game brought to you by increpare, the first commercial project of a developer who's brought you nearly 200 freeware games to date. <br><br><br><br>Over the course of more than a hundred levels situated throughout 17 worlds, you'll become acquainted with a wide variety of very different mechanics, none of them what they first may appear, and which will combine together in challenging ways.<h2 class=\"bb_tag\" >Key features:</h2><ul class=\"bb_ul\"><li>Genuine 3D gameplay<br></li><li>17 diverse worlds<br></li><li>Over 100 carefully crafted levels<br></li><li>A wide range of mechanics and in-game goals<br></li><li>Over 60 minutes of specially composed music</li></ul>",
+      "about_the_game": "English Country Tune is a luxuriant abstract 3D puzzle game brought to you by increpare, the first commercial project of a developer who's brought you nearly 200 freeware games to date. <br><br><br><br>Over the course of more than a hundred levels situated throughout 17 worlds, you'll become acquainted with a wide variety of very different mechanics, none of them what they first may appear, and which will combine together in challenging ways.<h2 class=\"bb_tag\" >Key features:</h2><ul class=\"bb_ul\"><li>Genuine 3D gameplay<br></li><li>17 diverse worlds<br></li><li>Over 100 carefully crafted levels<br></li><li>A wide range of mechanics and in-game goals<br></li><li>Over 60 minutes of specially composed music</li></ul>",
+      "short_description": "English Country Tune is a luxuriant abstract 3D puzzle game containing more than a hundred levels situated throughout 17 worlds.",
+      "supported_languages": "English",
+      "reviews": "“Its challenges haunt you through the day, while its solutions come to you in the night, and you wake up happy...”<br />\r\n85/100 – PC Gamer<br />\r\n<br />\r\n“...crafted with unusual abstraction and fierce intelligence.”<br />\r\n7/10 – Edge Magazine<br />\r\n<br />\r\n“Who knew, it seems to ask, that your mind could be at home in such strange places?”<br />\r\n– The New Yorker",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/header.jpg?t=1771057667",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/capsule_231x87.jpg?t=1771057667",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/capsule_184x69.jpg?t=1771057667",
+      "website": "http://www.englishcountrytune.com",
+      "pc_requirements": {
+        "minimum": "<strong> Minimum: </strong> <br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP<br>                </li><li><strong>Processor:</strong> 1.5 GHz<br>                </li><li><strong>Memory:</strong> 1 GB<br>                </li><li><strong>Hard Disk Space:</strong> 300 MB                <br>                </li><li><strong>Video Card:</strong> Direct X9.0c Compatible</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong> Minimum: </strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OSX 10.4<br>               </li><li><strong>Processor:</strong> 1.5 GHz<br>                </li><li><strong>Memory:</strong> 1 GB RAM<br>                </li><li><strong>Hard Disk Space:</strong> 300 MB                </li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong> Minimum: </strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.10<br>               </li><li><strong>Processor:</strong> 1.5 GHz<br>                </li><li><strong>Memory:</strong> 1 GB RAM<br>                </li><li><strong>Graphics:</strong> Passmark G3D 250+<br>                </li><li><strong>Hard Disk Space:</strong> 300 MB HD space</li></ul>"
+      },
+      "developers": [
+        "increpare games"
+      ],
+      "publishers": [
+        "increpare games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 499,
+        "final": 499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$4.99"
+      },
+      "packages": [
+        16097
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy English Country Tune",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 16097,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "English Country Tune - $4.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_bb4f5f1b4310506db06ebada042494e52470d1f4.600x338.jpg?t=1771057667",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_bb4f5f1b4310506db06ebada042494e52470d1f4.1920x1080.jpg?t=1771057667"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_2c8e6537606d788481c8c7449b468a6c2170b0b1.600x338.jpg?t=1771057667",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_2c8e6537606d788481c8c7449b468a6c2170b0b1.1920x1080.jpg?t=1771057667"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_3f19c4ece6e4372185971299ff65c172ff919063.600x338.jpg?t=1771057667",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_3f19c4ece6e4372185971299ff65c172ff919063.1920x1080.jpg?t=1771057667"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_c47c661993b8337d37b3785a21634d7f8c63a0bf.600x338.jpg?t=1771057667",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_c47c661993b8337d37b3785a21634d7f8c63a0bf.1920x1080.jpg?t=1771057667"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_8539d38e181aef9b4997a96daf42c7e42fd8d67b.600x338.jpg?t=1771057667",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_8539d38e181aef9b4997a96daf42c7e42fd8d67b.1920x1080.jpg?t=1771057667"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_657ec3216d6d2255ec5e10839bd997617225437b.600x338.jpg?t=1771057667",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_657ec3216d6d2255ec5e10839bd997617225437b.1920x1080.jpg?t=1771057667"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_01f9b8a046501090db95f964cb948f8cba491906.600x338.jpg?t=1771057667",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_01f9b8a046501090db95f964cb948f8cba491906.1920x1080.jpg?t=1771057667"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_aa435013fd66f507390075dd4f2c9800bbb01689.600x338.jpg?t=1771057667",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_aa435013fd66f507390075dd4f2c9800bbb01689.1920x1080.jpg?t=1771057667"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_3a26a7581e3e4fb877a70e4fbcf074541c3310fc.600x338.jpg?t=1771057667",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_3a26a7581e3e4fb877a70e4fbcf074541c3310fc.1920x1080.jpg?t=1771057667"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_604d6486f867bde0d96d84479112bfb60acfb9c2.600x338.jpg?t=1771057667",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207570/ss_604d6486f867bde0d96d84479112bfb60acfb9c2.1920x1080.jpg?t=1771057667"
+        }
+      ],
+      "movies": [
+        {
+          "id": 81532,
+          "name": "English Country Tune Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/81532/movie.293x165.jpg?t=1447355661",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/207570/7281/ac1189b71957ca43c7ad0be7d357ecd3c79d075b/1751248994/dash_av1.mpd?t=1447355661",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/207570/7281/ac1189b71957ca43c7ad0be7d357ecd3c79d075b/1751248994/dash_h264.mpd?t=1447355661",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/207570/7281/ac1189b71957ca43c7ad0be7d357ecd3c79d075b/1751248994/hls_264_master.m3u8?t=1447355661",
+          "highlight": false
+        }
+      ],
+      "recommendations": {
+        "total": 177
+      },
+      "achievements": {
+        "total": 0
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Aug 9, 2012"
+      },
+      "support_info": {
+        "url": "http://www.englishcountrytune.com/support",
+        "email": "analytic+ectsupport@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/207570?t=1771057667",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/207570?t=1771057667",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

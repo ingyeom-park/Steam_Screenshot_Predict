@@ -1,0 +1,282 @@
+{
+  "1528220": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Gordian Rooms 2: A curious island",
+      "steam_appid": 1528220,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "detailed_description": "<p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/extras/665e6792e079605f2415118a927f1928.poster.avif?t=1765032743\" width=616 height=392 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/extras/665e6792e079605f2415118a927f1928.webm?t=1765032743\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" >The Isle of Lye is a specially constructed testing ground for the Gordian Society, and as fate would have it, you have ended up here.    </p><p class=\"bb_paragraph\" >It is up to you to rise to the challenge and find a way out of this place, all the while competing to become a full fledged member of this enigmatic organisation.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/extras/1b74ab3f65d8c74416f0f9d22f025f33.poster.avif?t=1765032743\" width=616 height=392 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/extras/1b74ab3f65d8c74416f0f9d22f025f33.webm?t=1765032743\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" >As you explore the island, you will get to know the quirky Lye family and their numerous associates. From servants to family members, everyone is more than they let on. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Can you find the black sheep of the family or the traitor in the mansion? </p><p class=\"bb_paragraph\" >Or perhaps you'd prefer to search for someone else's carefully hidden treasures...</p><p class=\"bb_paragraph\" >Will you get to the bottom of every mystery?</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/extras/b43a424610d1a6d091be1fb32d06e56d.webp?t=1765032743\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/extras/b43a424610d1a6d091be1fb32d06e56d.poster.avif?t=1765032743\" class=\"bb_img\" width=616 height=202 /></picture></span></p>",
+      "about_the_game": "<p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/extras/665e6792e079605f2415118a927f1928.poster.avif?t=1765032743\" width=616 height=392 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/extras/665e6792e079605f2415118a927f1928.webm?t=1765032743\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" >The Isle of Lye is a specially constructed testing ground for the Gordian Society, and as fate would have it, you have ended up here.    </p><p class=\"bb_paragraph\" >It is up to you to rise to the challenge and find a way out of this place, all the while competing to become a full fledged member of this enigmatic organisation.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline crossorigin=\"anonymous\" poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/extras/1b74ab3f65d8c74416f0f9d22f025f33.poster.avif?t=1765032743\" width=616 height=392 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/extras/1b74ab3f65d8c74416f0f9d22f025f33.webm?t=1765032743\" type=\"video/webm; codecs=vp9\"></video></span></p><p class=\"bb_paragraph\" >As you explore the island, you will get to know the quirky Lye family and their numerous associates. From servants to family members, everyone is more than they let on. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Can you find the black sheep of the family or the traitor in the mansion? </p><p class=\"bb_paragraph\" >Or perhaps you'd prefer to search for someone else's carefully hidden treasures...</p><p class=\"bb_paragraph\" >Will you get to the bottom of every mystery?</p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><picture><source srcset=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/extras/b43a424610d1a6d091be1fb32d06e56d.webp?t=1765032743\"><img src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/extras/b43a424610d1a6d091be1fb32d06e56d.poster.avif?t=1765032743\" class=\"bb_img\" width=616 height=202 /></picture></span></p>",
+      "short_description": "Your adventure continues in Gordian Rooms 2...                  The escape island game where you venture further into the mysteries of the Gordian Society! Challenge your wits and conquer every puzzle on the Isle of Lye!",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Hungarian, Japanese, Polish, Portuguese - Portugal, Russian, Simplified Chinese, Ukrainian, Korean",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/d18a186eac1c77b9303bcfa109f55466c5bdfc7d/header.jpg?t=1765032743",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/cdf65dcfeacbf24630524e67af28f5f1d3dafdd1/capsule_231x87.jpg?t=1765032743",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/cdf65dcfeacbf24630524e67af28f5f1d3dafdd1/capsule_184x69.jpg?t=1765032743",
+      "website": "https://crimsonitegames.com/GordianRooms2.html",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> Intel i3 series, 2 Ghz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated Graphics Card with 4GB RAM, Minimum Nvidia GTX 1050Ti or equivalent<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11<br></li><li><strong>Processor:</strong> Intel i5 series or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Geforce RTX 2070 or equivalent<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Crimsonite Games"
+      ],
+      "publishers": [
+        "Crimsonite Games"
+      ],
+      "demos": [
+        {
+          "appid": 1906260,
+          "description": ""
+        }
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 2499,
+        "final": 2499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$24.99"
+      },
+      "packages": [
+        539149
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Gordian Rooms 2: A curious island",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 539149,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Gordian Rooms 2: A curious island - $24.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 2499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 67,
+          "description": "Camera Comfort"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 74,
+          "description": "Playable without Timed Input"
+        },
+        {
+          "id": 79,
+          "description": "Save Anytime"
+        },
+        {
+          "id": 69,
+          "description": "Stereo Sound"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/05e1e979ef5b26cf7de631c14ec239be92abb5e6/ss_05e1e979ef5b26cf7de631c14ec239be92abb5e6.600x338.jpg?t=1765032743",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/05e1e979ef5b26cf7de631c14ec239be92abb5e6/ss_05e1e979ef5b26cf7de631c14ec239be92abb5e6.1920x1080.jpg?t=1765032743"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/a05eddaeb05806b6985bc96f9f3fb1b5597778ba/ss_a05eddaeb05806b6985bc96f9f3fb1b5597778ba.600x338.jpg?t=1765032743",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/a05eddaeb05806b6985bc96f9f3fb1b5597778ba/ss_a05eddaeb05806b6985bc96f9f3fb1b5597778ba.1920x1080.jpg?t=1765032743"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/97807f22bb752158f53c99b3fecf36546999143e/ss_97807f22bb752158f53c99b3fecf36546999143e.600x338.jpg?t=1765032743",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/97807f22bb752158f53c99b3fecf36546999143e/ss_97807f22bb752158f53c99b3fecf36546999143e.1920x1080.jpg?t=1765032743"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/00a106079fc806d1e29db183389d181f140aba7d/ss_00a106079fc806d1e29db183389d181f140aba7d.600x338.jpg?t=1765032743",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/00a106079fc806d1e29db183389d181f140aba7d/ss_00a106079fc806d1e29db183389d181f140aba7d.1920x1080.jpg?t=1765032743"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/cfcb528d206a3d908ee085c14f7f04f86273b6e9/ss_cfcb528d206a3d908ee085c14f7f04f86273b6e9.600x338.jpg?t=1765032743",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/cfcb528d206a3d908ee085c14f7f04f86273b6e9/ss_cfcb528d206a3d908ee085c14f7f04f86273b6e9.1920x1080.jpg?t=1765032743"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/55f6e96b1707e91d521654a5dfcc49625b2c2bf5/ss_55f6e96b1707e91d521654a5dfcc49625b2c2bf5.600x338.jpg?t=1765032743",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/55f6e96b1707e91d521654a5dfcc49625b2c2bf5/ss_55f6e96b1707e91d521654a5dfcc49625b2c2bf5.1920x1080.jpg?t=1765032743"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/f6cbe55ae935fefde5e8f3e28e82e1d78851a880/ss_f6cbe55ae935fefde5e8f3e28e82e1d78851a880.600x338.jpg?t=1765032743",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/f6cbe55ae935fefde5e8f3e28e82e1d78851a880/ss_f6cbe55ae935fefde5e8f3e28e82e1d78851a880.1920x1080.jpg?t=1765032743"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/89c6ac3f213c4130113db34d71d9fa0af6b691e6/ss_89c6ac3f213c4130113db34d71d9fa0af6b691e6.600x338.jpg?t=1765032743",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/89c6ac3f213c4130113db34d71d9fa0af6b691e6/ss_89c6ac3f213c4130113db34d71d9fa0af6b691e6.1920x1080.jpg?t=1765032743"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/162c3493643ecad71029c602768df430568f7e9e/ss_162c3493643ecad71029c602768df430568f7e9e.600x338.jpg?t=1765032743",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/162c3493643ecad71029c602768df430568f7e9e/ss_162c3493643ecad71029c602768df430568f7e9e.1920x1080.jpg?t=1765032743"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/fa9d93bd29b753f4935175696d5a70cade019314/ss_fa9d93bd29b753f4935175696d5a70cade019314.600x338.jpg?t=1765032743",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528220/fa9d93bd29b753f4935175696d5a70cade019314/ss_fa9d93bd29b753f4935175696d5a70cade019314.1920x1080.jpg?t=1765032743"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257083861,
+          "name": "ReleaseTrailer_v2",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257083861/1a4266f26c8688fa16066dc554b47fdd7815a055/movie_600x337.jpg?t=1734706481",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1528220/802904/80ed39b4ec0e266cb32e7ff9c308d3c15c9fc949/1750999367/dash_av1.mpd?t=1734706481",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1528220/802904/80ed39b4ec0e266cb32e7ff9c308d3c15c9fc949/1750999367/dash_h264.mpd?t=1734706481",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1528220/802904/80ed39b4ec0e266cb32e7ff9c308d3c15c9fc949/1750999367/hls_264_master.m3u8?t=1734706481",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 138
+      },
+      "achievements": {
+        "total": 30,
+        "highlighted": [
+          {
+            "name": "By The Sword",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528220/780881a30df456323c73df42fd663bf091486dbd.jpg"
+          },
+          {
+            "name": "Collector",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528220/c83b152efb072e68c4345aac5618994aac7f476a.jpg"
+          },
+          {
+            "name": "Creative Freedom",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528220/0cf36ececba635a0c4fcb23891cc049c32e9c597.jpg"
+          },
+          {
+            "name": "Croquet time!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528220/99c0cd8d54087d308ffe6f29ef2b3aa57fae78fb.jpg"
+          },
+          {
+            "name": "Culinary massacre",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528220/040d25142be5a435f666b5238904450c96b2ecb2.jpg"
+          },
+          {
+            "name": "Dining in",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528220/457e290ec7fa0661068ae401ab87d9df4abf6dbc.jpg"
+          },
+          {
+            "name": "Dining out",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528220/981aa3091932f1b937d1eb4aaf73a02fc81ed5d4.jpg"
+          },
+          {
+            "name": "Dress code",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528220/7f3b72ccd03e14ece5ba1e421bb9bee72b688429.jpg"
+          },
+          {
+            "name": "Grade A",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528220/4eeca19219ba484667b8b439ab9280e8d8535859.jpg"
+          },
+          {
+            "name": "Grade A+",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1528220/d25acf3ef853b4ff7aceecfe87a9e1d62457c36f.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jan 19, 2024"
+      },
+      "support_info": {
+        "url": "https://crimsonitegames.com/Contact.html",
+        "email": "support@crimsonitegames.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1528220?t=1765032743",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1528220?t=1765032743",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "l"
+        },
+        "pegi": {
+          "rating": "7",
+          "descriptors": "Fear"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Alkohol / Tabak"
+        }
+      }
+    }
+  }
+}

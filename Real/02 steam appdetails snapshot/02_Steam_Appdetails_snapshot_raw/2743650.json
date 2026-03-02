@@ -1,0 +1,274 @@
+{
+  "2743650": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "镖行天下",
+      "steam_appid": 2743650,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h2 class=\"bb_tag\" >游戏玩法</h2>运送镖物、买卖特产、建设镖局、传递信件、触发事件、触发战斗、探索世界。<br>在这里你可能会遇到因你骨骼惊奇传授你强力功法的出世剑仙，因王八蛋老板黄中鹤跑路没有办法只能廉价出售功法的居湖印刷厂…<h2 class=\"bb_tag\" >特产系统</h2>你究竟是一个天赋异禀的商人，还是一个血本无归的莽夫，这取决你现实中的资质。<br>游戏中的特产共分十大类，买卖特产需要一定的头脑，这取决于你在现实生活中的自身经历<h2 class=\"bb_tag\" >地图交互</h2>想要运营特产获得收益，您不仅需要一定的现实世界头脑基础，还需要一定的地图理解能力。<br>比如说：<br>某个城市位于沙漠地区，想来其食物类资源应当十分紧缺，故相应的特产能获得不错的收益<br>同样的因为其地处贫瘠的原因，其民众的购买力并不强大，故而太过贵重的特产难以收获好的成效。<br>因为沙漠地区是十分难以耕种的，故而耕种类工具恐怕并不合适。<br>再有考虑城市的资源问题，如某个城市盛昌铁制品，则其对铸铁类的产品需求较大。<br>您不需强行记忆，仅需按照地图的指引结合您的智慧考虑即可。<br>请切记：先确定城市所在情况，再按自己的想法去推算，一切都在您的智慧之中。<br>合适与否，由你自己行判断。<br>特产不仅仅只是特产，部分特产可直接使用，用于增强人物。<br>但请注意，这与开了一个便利店然后把零食吃光在一定程度上其本质是相同的。<br>自由构建行镖路线帮助你更好的买卖特产.<h2 class=\"bb_tag\" >好感度系统</h2>能屈能伸，方为丈夫.<br>当你与贼寇的好感度过低时，所触发的战斗愈加艰难，若贼寇好感度低到一定程度，会引发难以应对的敌人.适当的交纳过路费是个不错的选择<br>一切都是为了最后的胜利！<br>城镇好感帮助解锁城镇特产的购买，更高等级的特产收益不一定比低等级的高。<h2 class=\"bb_tag\" >战斗系统 </h2>采用战棋类的战斗方式，精心设计的战斗地图，享受一夫当关万夫莫敌的快感。<br>合理布置站位，以残血成员为勾引，使敌军身陷重围——敌人都是歪魔邪道，不必讲什么江湖道义，大家一起并肩子上！<br>每个战技拥有不同的效果，合理选用战技是你制胜的关键。<br>背袭、侧袭令你的命中率和伤害大幅提高，你的走位非常关键。<br>连斩经验的加成帮助你快速提升人物等级，利用好这点，你的人物可以获得远超当前敌人的等级<br>但太过贪婪可能带来毁灭—被敌人残血反杀，在话本故事中，敌人才是主角！<br>游戏中拥有三种不同的伤害流派、每件装备拥有不同的特效，配合你自身的属性点分配，你可以钻研适合每个人战斗方式：<br>如全部堆砌闪避的躲避流<br>全部堆砌防御的坦克<br>全部堆砌攻击但命中低的可怜的一刀流<br>注重回复的血魔流<br>越打越强的挨打流<br>一切全看你自己的想象力<h2 class=\"bb_tag\" >人物养成</h2>完成运镖任务、经历战斗或经历事件可获得人物经验值，每次升级都会获得可自由分配的属性点<br>你也可以选择开启十里坡剑神模式，在镖局练功房混迹十年，一朝出山秒天秒地，一刀十级不是梦<br>你可以选择采用独特食物或者丹药培养你的人物，甚至可以培养出1级但属性超过20级的人物，但这需要大量资源。<br>人物等级不是影响战斗力的唯一因素，人物技能，装备配合，人物特质，培养人物投入的成本，都与人物战斗力息息相关。<h2 class=\"bb_tag\" >建设系统</h2>轻量的建筑系统，建设镖局可为你的镖队带来不同的增益，如升级科技、修炼功法、锻造装备、炼制药品、战斗增益等。<br>在资源有限的情况下，精准定位升级所需建筑，这需要一定的策略。你也可以选择我全都要，但这需要强大的资源获取能力。<br>在你的建筑达到一定水准时，自有前来投靠的特殊好汉，精通织造的黄道婆、精通炼丹的圆鹊、剑法略有心得的独孤胜、商业天才石崇等等。<br>在资源购买方面你需要一定的地理知识，如临近山脉的城市金铁资源较多，临近树林的城市木材较多，适合种植的区域草本材料较多。<h2 class=\"bb_tag\" >自由路线</h2>   <br> 运镖路线自由设置，你可以根据自己的想法自由拟定运镖路线，不必担心固化的路线影响你的自由想法<h2 class=\"bb_tag\" >多结局</h2>   <br>您可以在兢兢业业的经营您的镖局，这将在十年后迎来您的结局。<br>结局取决与您运营镖局的方式，是选择与世俗同流合污左右逢源的商贾巨擘，亦或者是见恶必除的盖世豪侠，或者是泯灭无名<br>一切取决您自己的决定<br>十年太长？也许有其他的通关方式，这需要您自己的探索。<h2 class=\"bb_tag\" >欢迎加入官方QQ群参与讨论↓↓↓</h2>QQ讨论群号：<u>173962599</u>(目前Demo测试中，有意愿的玩家可进群获取key帮助测试)<br>百度贴吧：<u>镖行天下游戏</u> 吧",
+      "about_the_game": "<h2 class=\"bb_tag\" >游戏玩法</h2>运送镖物、买卖特产、建设镖局、传递信件、触发事件、触发战斗、探索世界。<br>在这里你可能会遇到因你骨骼惊奇传授你强力功法的出世剑仙，因王八蛋老板黄中鹤跑路没有办法只能廉价出售功法的居湖印刷厂…<h2 class=\"bb_tag\" >特产系统</h2>你究竟是一个天赋异禀的商人，还是一个血本无归的莽夫，这取决你现实中的资质。<br>游戏中的特产共分十大类，买卖特产需要一定的头脑，这取决于你在现实生活中的自身经历<h2 class=\"bb_tag\" >地图交互</h2>想要运营特产获得收益，您不仅需要一定的现实世界头脑基础，还需要一定的地图理解能力。<br>比如说：<br>某个城市位于沙漠地区，想来其食物类资源应当十分紧缺，故相应的特产能获得不错的收益<br>同样的因为其地处贫瘠的原因，其民众的购买力并不强大，故而太过贵重的特产难以收获好的成效。<br>因为沙漠地区是十分难以耕种的，故而耕种类工具恐怕并不合适。<br>再有考虑城市的资源问题，如某个城市盛昌铁制品，则其对铸铁类的产品需求较大。<br>您不需强行记忆，仅需按照地图的指引结合您的智慧考虑即可。<br>请切记：先确定城市所在情况，再按自己的想法去推算，一切都在您的智慧之中。<br>合适与否，由你自己行判断。<br>特产不仅仅只是特产，部分特产可直接使用，用于增强人物。<br>但请注意，这与开了一个便利店然后把零食吃光在一定程度上其本质是相同的。<br>自由构建行镖路线帮助你更好的买卖特产.<h2 class=\"bb_tag\" >好感度系统</h2>能屈能伸，方为丈夫.<br>当你与贼寇的好感度过低时，所触发的战斗愈加艰难，若贼寇好感度低到一定程度，会引发难以应对的敌人.适当的交纳过路费是个不错的选择<br>一切都是为了最后的胜利！<br>城镇好感帮助解锁城镇特产的购买，更高等级的特产收益不一定比低等级的高。<h2 class=\"bb_tag\" >战斗系统 </h2>采用战棋类的战斗方式，精心设计的战斗地图，享受一夫当关万夫莫敌的快感。<br>合理布置站位，以残血成员为勾引，使敌军身陷重围——敌人都是歪魔邪道，不必讲什么江湖道义，大家一起并肩子上！<br>每个战技拥有不同的效果，合理选用战技是你制胜的关键。<br>背袭、侧袭令你的命中率和伤害大幅提高，你的走位非常关键。<br>连斩经验的加成帮助你快速提升人物等级，利用好这点，你的人物可以获得远超当前敌人的等级<br>但太过贪婪可能带来毁灭—被敌人残血反杀，在话本故事中，敌人才是主角！<br>游戏中拥有三种不同的伤害流派、每件装备拥有不同的特效，配合你自身的属性点分配，你可以钻研适合每个人战斗方式：<br>如全部堆砌闪避的躲避流<br>全部堆砌防御的坦克<br>全部堆砌攻击但命中低的可怜的一刀流<br>注重回复的血魔流<br>越打越强的挨打流<br>一切全看你自己的想象力<h2 class=\"bb_tag\" >人物养成</h2>完成运镖任务、经历战斗或经历事件可获得人物经验值，每次升级都会获得可自由分配的属性点<br>你也可以选择开启十里坡剑神模式，在镖局练功房混迹十年，一朝出山秒天秒地，一刀十级不是梦<br>你可以选择采用独特食物或者丹药培养你的人物，甚至可以培养出1级但属性超过20级的人物，但这需要大量资源。<br>人物等级不是影响战斗力的唯一因素，人物技能，装备配合，人物特质，培养人物投入的成本，都与人物战斗力息息相关。<h2 class=\"bb_tag\" >建设系统</h2>轻量的建筑系统，建设镖局可为你的镖队带来不同的增益，如升级科技、修炼功法、锻造装备、炼制药品、战斗增益等。<br>在资源有限的情况下，精准定位升级所需建筑，这需要一定的策略。你也可以选择我全都要，但这需要强大的资源获取能力。<br>在你的建筑达到一定水准时，自有前来投靠的特殊好汉，精通织造的黄道婆、精通炼丹的圆鹊、剑法略有心得的独孤胜、商业天才石崇等等。<br>在资源购买方面你需要一定的地理知识，如临近山脉的城市金铁资源较多，临近树林的城市木材较多，适合种植的区域草本材料较多。<h2 class=\"bb_tag\" >自由路线</h2>   <br> 运镖路线自由设置，你可以根据自己的想法自由拟定运镖路线，不必担心固化的路线影响你的自由想法<h2 class=\"bb_tag\" >多结局</h2>   <br>您可以在兢兢业业的经营您的镖局，这将在十年后迎来您的结局。<br>结局取决与您运营镖局的方式，是选择与世俗同流合污左右逢源的商贾巨擘，亦或者是见恶必除的盖世豪侠，或者是泯灭无名<br>一切取决您自己的决定<br>十年太长？也许有其他的通关方式，这需要您自己的探索。<h2 class=\"bb_tag\" >欢迎加入官方QQ群参与讨论↓↓↓</h2>QQ讨论群号：<u>173962599</u>(目前Demo测试中，有意愿的玩家可进群获取key帮助测试)<br>百度贴吧：<u>镖行天下游戏</u> 吧",
+      "short_description": "这是一款策略类运镖类游戏，采用战旗战斗模式， 运送镖物、买卖特产、建设镖局、传递信件、触发事件、触发战斗、探索世界、接取悬榜、打听传闻、交好山庄、门派学艺。 您发展镖局的方式将决定您的终局。您可以通过自己的探索结局。",
+      "supported_languages": "Simplified Chinese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/header.jpg?t=1720078716",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/capsule_231x87.jpg?t=1720078716",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/capsule_184x69.jpg?t=1720078716",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Win10<br></li><li><strong>Processor:</strong> Core i3-6100<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> GTX850 Or AMD Radeon R9 280<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Win7/Win10<br></li><li><strong>Processor:</strong> Cori i5-7700<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1050<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "天光"
+      ],
+      "publishers": [
+        "天光"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 499,
+        "final": 499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$4.99"
+      },
+      "packages": [
+        981518
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 镖行天下",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 981518,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "BiaoXingTianXia - $4.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_5e31a9671a00c693906e1e9ab9d9212c9cd15ce4.600x338.jpg?t=1720078716",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_5e31a9671a00c693906e1e9ab9d9212c9cd15ce4.1920x1080.jpg?t=1720078716"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_053acf2582290a98f4d07b1b82e04f127f79dbd1.600x338.jpg?t=1720078716",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_053acf2582290a98f4d07b1b82e04f127f79dbd1.1920x1080.jpg?t=1720078716"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_065a6946fec68853d1701836302c69b718131646.600x338.jpg?t=1720078716",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_065a6946fec68853d1701836302c69b718131646.1920x1080.jpg?t=1720078716"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_eff9f10dc82f83d90a352535150569778056b318.600x338.jpg?t=1720078716",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_eff9f10dc82f83d90a352535150569778056b318.1920x1080.jpg?t=1720078716"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_eca5992f1954cf5c2a09ea609c24c5fea616ec65.600x338.jpg?t=1720078716",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_eca5992f1954cf5c2a09ea609c24c5fea616ec65.1920x1080.jpg?t=1720078716"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_664779a551fd68cf9f0b3cb767bb75522b90cd27.600x338.jpg?t=1720078716",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_664779a551fd68cf9f0b3cb767bb75522b90cd27.1920x1080.jpg?t=1720078716"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_bfe123c6da6644d60bf533289df6e0ed7801d1dd.600x338.jpg?t=1720078716",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_bfe123c6da6644d60bf533289df6e0ed7801d1dd.1920x1080.jpg?t=1720078716"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_c1383e3d7c2297a6485983325c7862756e4267d9.600x338.jpg?t=1720078716",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_c1383e3d7c2297a6485983325c7862756e4267d9.1920x1080.jpg?t=1720078716"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_6ef921d0769486aa6f4ed23cc671e4b49acbcc74.600x338.jpg?t=1720078716",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_6ef921d0769486aa6f4ed23cc671e4b49acbcc74.1920x1080.jpg?t=1720078716"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_233c29674f6132291db38d4c34eeee85827c9adc.600x338.jpg?t=1720078716",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_233c29674f6132291db38d4c34eeee85827c9adc.1920x1080.jpg?t=1720078716"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_3505d00259d9c15a5b8e9baba1d43964086beaba.600x338.jpg?t=1720078716",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_3505d00259d9c15a5b8e9baba1d43964086beaba.1920x1080.jpg?t=1720078716"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_3d0314281f95de3ef20dda7dc168f708cb5f0544.600x338.jpg?t=1720078716",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_3d0314281f95de3ef20dda7dc168f708cb5f0544.1920x1080.jpg?t=1720078716"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_644fd4fa022b9abac2b8c35e044c9a97e58221c6.600x338.jpg?t=1720078716",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_644fd4fa022b9abac2b8c35e044c9a97e58221c6.1920x1080.jpg?t=1720078716"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_e777f6e6643f39410b3173088367b0f99930211e.600x338.jpg?t=1720078716",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_e777f6e6643f39410b3173088367b0f99930211e.1920x1080.jpg?t=1720078716"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_644fd4fa022b9abac2b8c35e044c9a97e58221c6.600x338.jpg?t=1720078716",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_644fd4fa022b9abac2b8c35e044c9a97e58221c6.1920x1080.jpg?t=1720078716"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_fd123de77aeb76afce3c58de34d734473ec5445e.600x338.jpg?t=1720078716",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2743650/ss_fd123de77aeb76afce3c58de34d734473ec5445e.1920x1080.jpg?t=1720078716"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257018917,
+          "name": "宣传片",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257018917/movie.293x165.jpg?t=1719377456",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2743650/692509/db77b15b2c1fe6d09f9321ed6dc8e05fc58e3254/1750896129/dash_av1.mpd?t=1719377456",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2743650/692509/db77b15b2c1fe6d09f9321ed6dc8e05fc58e3254/1750896129/dash_h264.mpd?t=1719377456",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2743650/692509/db77b15b2c1fe6d09f9321ed6dc8e05fc58e3254/1750896129/hls_264_master.m3u8?t=1719377456",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 191
+      },
+      "achievements": {
+        "total": 24,
+        "highlighted": [
+          {
+            "name": "招募独孤胜",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2743650/6d7a712c32c3bca9e266ea2ae1a8fd9583edfb30.jpg"
+          },
+          {
+            "name": "招募陶朱",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2743650/6d7a712c32c3bca9e266ea2ae1a8fd9583edfb30.jpg"
+          },
+          {
+            "name": "招募圆鹊",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2743650/6d7a712c32c3bca9e266ea2ae1a8fd9583edfb30.jpg"
+          },
+          {
+            "name": "招募张君宝",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2743650/6d7a712c32c3bca9e266ea2ae1a8fd9583edfb30.jpg"
+          },
+          {
+            "name": "招募黄道婆",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2743650/6d7a712c32c3bca9e266ea2ae1a8fd9583edfb30.jpg"
+          },
+          {
+            "name": "招募澹台红翎",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2743650/6d7a712c32c3bca9e266ea2ae1a8fd9583edfb30.jpg"
+          },
+          {
+            "name": "招募白冷霜",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2743650/6d7a712c32c3bca9e266ea2ae1a8fd9583edfb30.jpg"
+          },
+          {
+            "name": "富甲天下",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2743650/6d7a712c32c3bca9e266ea2ae1a8fd9583edfb30.jpg"
+          },
+          {
+            "name": "天下第一镖",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2743650/6d7a712c32c3bca9e266ea2ae1a8fd9583edfb30.jpg"
+          },
+          {
+            "name": "黑心资本家",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2743650/6d7a712c32c3bca9e266ea2ae1a8fd9583edfb30.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jan 15, 2024"
+      },
+      "support_info": {
+        "url": "",
+        "email": "376748386@qq.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2743650?t=1720078716",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2743650?t=1720078716",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "10",
+          "required_age": "10",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Gewalt"
+        }
+      }
+    }
+  }
+}

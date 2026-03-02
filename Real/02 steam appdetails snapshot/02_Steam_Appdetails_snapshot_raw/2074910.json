@@ -1,0 +1,279 @@
+{
+  "2074910": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Photogenic Minds : Identity",
+      "steam_appid": 2074910,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "Photogenic Minds : Identityは、&quot;デッキ構築型３D探索サイコホラー&quot;です。<br>*English will be supported.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/extras/b7cba7024a45a6c7d5bd4c533fbb6579.avif?t=1702104933\" width=600 height=848 /></span><br><br>夜を越えられない街、超常多発都市「レデルリン」。<br>探偵業を営むジェニファー・サイレントフォールは、毎朝発見される身元不明の異常遺体と、発見すらされない行方不明者の調査を生業としています。<br>&quot;表向き&quot;は――。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/extras/8900327eb0fb060c83a80ee7e992f9db.avif?t=1702104933\" width=600 height=338 /></span><br><br>プレイヤーは無限にループする回廊を歩き、「被写体」と呼ばれるオブジェクトを撮影していくことで、特殊な力を持った写真を作り出すことができます。<br>作り出した写真でデッキを構築し、回廊の終点である「死者の魂」を発見、回収することで１ゲームが終了となります。<br><br>途中、死者の魂がどこにあるのかを突き止めるために、死者の特性と名前を推理する「論理パズル」要素も存在します。<br>ランダムに作られる状況を何度も攻略し、不可思議な「探偵道具」を集め、自分なりの推理方法を見つけて下さい。<br>難易度が高いと感じるのであれば、強力な探偵道具を見つけて持ち込むことで、強引に全てを解決することも出来るようになっています。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/extras/c29419aeea01c9eb7c88060331c53809.avif?t=1702104933\" width=600 height=338 /></span><br><br>常に変化するシチュエーションが、遊ぶごとに異なる困難とそれに打ち勝つ楽しさを作り出します。<br>回廊に流れるPM0:00からAM0:00までの「12の時刻」。<br>写真の力で時間を支配し、レデルリンの夜を越えて下さい。",
+      "about_the_game": "Photogenic Minds : Identityは、&quot;デッキ構築型３D探索サイコホラー&quot;です。<br>*English will be supported.<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/extras/b7cba7024a45a6c7d5bd4c533fbb6579.avif?t=1702104933\" width=600 height=848 /></span><br><br>夜を越えられない街、超常多発都市「レデルリン」。<br>探偵業を営むジェニファー・サイレントフォールは、毎朝発見される身元不明の異常遺体と、発見すらされない行方不明者の調査を生業としています。<br>&quot;表向き&quot;は――。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/extras/8900327eb0fb060c83a80ee7e992f9db.avif?t=1702104933\" width=600 height=338 /></span><br><br>プレイヤーは無限にループする回廊を歩き、「被写体」と呼ばれるオブジェクトを撮影していくことで、特殊な力を持った写真を作り出すことができます。<br>作り出した写真でデッキを構築し、回廊の終点である「死者の魂」を発見、回収することで１ゲームが終了となります。<br><br>途中、死者の魂がどこにあるのかを突き止めるために、死者の特性と名前を推理する「論理パズル」要素も存在します。<br>ランダムに作られる状況を何度も攻略し、不可思議な「探偵道具」を集め、自分なりの推理方法を見つけて下さい。<br>難易度が高いと感じるのであれば、強力な探偵道具を見つけて持ち込むことで、強引に全てを解決することも出来るようになっています。<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/extras/c29419aeea01c9eb7c88060331c53809.avif?t=1702104933\" width=600 height=338 /></span><br><br>常に変化するシチュエーションが、遊ぶごとに異なる困難とそれに打ち勝つ楽しさを作り出します。<br>回廊に流れるPM0:00からAM0:00までの「12の時刻」。<br>写真の力で時間を支配し、レデルリンの夜を越えて下さい。",
+      "short_description": "&quot;デッキ構築型３D探索サイコホラー&quot;。 PM0:00からAM0:00までの12時間を支配し、無限ループを抜けて死者の魂を捕獲して下さい。 使えるのはたった1つのカメラだけ。",
+      "supported_languages": "Japanese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/header.jpg?t=1702104933",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/capsule_231x87.jpg?t=1702104933",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/capsule_184x69.jpg?t=1702104933",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i7<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 4 GB RAM</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "727 Not Hound"
+      ],
+      "publishers": [
+        "727 Not Hound"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        741330
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Photogenic Minds : Identity",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 741330,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Photogenic Minds : Identity - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_208d38c2a9649dae1cbd415862a65ce30b50750b.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_208d38c2a9649dae1cbd415862a65ce30b50750b.1920x1080.jpg?t=1702104933"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_989ed3ec00183a4ab48643815e2fae9ea937424c.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_989ed3ec00183a4ab48643815e2fae9ea937424c.1920x1080.jpg?t=1702104933"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_a450572c8b46762a9462f28fb48f25601384dee9.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_a450572c8b46762a9462f28fb48f25601384dee9.1920x1080.jpg?t=1702104933"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_b55524d1cdd78b1042a4d312d6b921f0b95f15db.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_b55524d1cdd78b1042a4d312d6b921f0b95f15db.1920x1080.jpg?t=1702104933"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_625cc520f89b2fd94f140bb0b014d51d0ab168c4.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_625cc520f89b2fd94f140bb0b014d51d0ab168c4.1920x1080.jpg?t=1702104933"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_9de7605bdf840d3a74252fd48f129a9964c4606e.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_9de7605bdf840d3a74252fd48f129a9964c4606e.1920x1080.jpg?t=1702104933"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_53635d7311bb53b65d6f324590962b27ebcb180f.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_53635d7311bb53b65d6f324590962b27ebcb180f.1920x1080.jpg?t=1702104933"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_6e1d56f018a3332e647f398b65a9324947020e58.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_6e1d56f018a3332e647f398b65a9324947020e58.1920x1080.jpg?t=1702104933"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_6a84242adfe0db728ce3460a0006bec754f345f9.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_6a84242adfe0db728ce3460a0006bec754f345f9.1920x1080.jpg?t=1702104933"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_2b92547dfc0c89d657831209a927e19d6cd042e2.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_2b92547dfc0c89d657831209a927e19d6cd042e2.1920x1080.jpg?t=1702104933"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_77417219ba92140663f44cc40ebd353d0c036f07.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_77417219ba92140663f44cc40ebd353d0c036f07.1920x1080.jpg?t=1702104933"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_a65f290b1db760d70b2f5c1aa8df7e50bece0535.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_a65f290b1db760d70b2f5c1aa8df7e50bece0535.1920x1080.jpg?t=1702104933"
+        },
+        {
+          "id": 12,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_7ad4ddd56f80de1b57b815bdfd1834f5657ca992.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_7ad4ddd56f80de1b57b815bdfd1834f5657ca992.1920x1080.jpg?t=1702104933"
+        },
+        {
+          "id": 13,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_65376417aa20d7df02a7bbb75ff1bb375fc8dc88.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_65376417aa20d7df02a7bbb75ff1bb375fc8dc88.1920x1080.jpg?t=1702104933"
+        },
+        {
+          "id": 14,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_ecc9ddc87199f7dec2444f4dcc5fa58bc6fcd89d.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_ecc9ddc87199f7dec2444f4dcc5fa58bc6fcd89d.1920x1080.jpg?t=1702104933"
+        },
+        {
+          "id": 15,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_7e57feb40b054b1cb9f4b7c0503ef0f9952f9c64.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_7e57feb40b054b1cb9f4b7c0503ef0f9952f9c64.1920x1080.jpg?t=1702104933"
+        },
+        {
+          "id": 16,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_37ca3e2bba4c6f7b3c9303ba97fe036c40ad8439.600x338.jpg?t=1702104933",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074910/ss_37ca3e2bba4c6f7b3c9303ba97fe036c40ad8439.1920x1080.jpg?t=1702104933"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256917348,
+          "name": "トレーラー３",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256917348/movie.293x165.jpg?t=1669077514",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2074910/515765/ffd7b7d260f32840c7ff517a5ac20dde4ea368d7/1751072118/dash_av1.mpd?t=1669077514",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2074910/515765/ffd7b7d260f32840c7ff517a5ac20dde4ea368d7/1751072118/dash_h264.mpd?t=1669077514",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2074910/515765/ffd7b7d260f32840c7ff517a5ac20dde4ea368d7/1751072118/hls_264_master.m3u8?t=1669077514",
+          "highlight": true
+        },
+        {
+          "id": 256903680,
+          "name": "ショートトレーラー",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256903680/movie.293x165.jpg?t=1661989601",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2074910/492552/f19b470da853af61c1176c207161c5b99644b17e/1751072117/dash_av1.mpd?t=1661989601",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2074910/492552/f19b470da853af61c1176c207161c5b99644b17e/1751072117/dash_h264.mpd?t=1661989601",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2074910/492552/f19b470da853af61c1176c207161c5b99644b17e/1751072117/hls_264_master.m3u8?t=1661989601",
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 34,
+        "highlighted": [
+          {
+            "name": "サントゥとの出会い",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2074910/ae5860ac9c7cef705addc6bd3756ab65b8fd6412.jpg"
+          },
+          {
+            "name": "キューブとの出会い",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2074910/c9f23f881acfd8e96e18fa0b6e5547be5196bbf8.jpg"
+          },
+          {
+            "name": "オヤシキとの出会い",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2074910/8a1223f876355d0eb9a54a0733a0b4e9066137fe.jpg"
+          },
+          {
+            "name": "メディックとの出会い",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2074910/ba6fbd34c821ae2698f8fc835fbb5dfb2f28ad14.jpg"
+          },
+          {
+            "name": "フローレンスとの出会い",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2074910/0ced816d15f630b986007e1433b86c7099976477.jpg"
+          },
+          {
+            "name": "モモとの出会い",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2074910/cea81af28bce0dad813e873aef0f22a454b212e8.jpg"
+          },
+          {
+            "name": "クラッシュとの出会い",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2074910/8757a4970db27dee2fc4188933c3b9295cd55ef3.jpg"
+          },
+          {
+            "name": "おはよう、ジェニファー",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2074910/232b941d4896ece0c3c61edc29fa19f7e271bfc7.jpg"
+          },
+          {
+            "name": "ナラズとの出会い",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2074910/c0f4701f8213363b9f12144f8993a8b29175dab1.jpg"
+          },
+          {
+            "name": "アーケインとの出会い",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2074910/0ee853631585fec935280250602f1a77c46e8760.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 29, 2022"
+      },
+      "support_info": {
+        "url": "",
+        "email": "encmails@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2074910?t=1702104933",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2074910?t=1702104933",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "12",
+          "descriptors": "Violência",
+          "use_age_gate": "true",
+          "required_age": "12"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "16",
+          "required_age": "16",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Gewalt"
+        }
+      }
+    }
+  }
+}

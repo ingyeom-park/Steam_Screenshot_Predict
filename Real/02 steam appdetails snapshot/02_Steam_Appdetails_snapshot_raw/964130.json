@@ -1,0 +1,239 @@
+{
+  "964130": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "My Colony",
+      "steam_appid": 964130,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<p class=\"bb_paragraph\" ><strong>Build. Expand. Rule the stars.</strong></p><p class=\"bb_paragraph\" >Welcome to My Colony, the ultimate sci-fi city builder and space empire simulation. Whether you’re leading a peaceful outpost or an industrial powerhouse, the galaxy is yours to shape — one rover at a time.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Build Your Colony</strong></p><p class=\"bb_paragraph\" >Start with a single lander and rover, gather resources, and unlock a massive tech tree full of structures, utilities, and special units. Every resource leads to new possibilities as you evolve from a basic outpost to a sprawling interplanetary empire.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Choose Your Civilization</strong></p><p class=\"bb_paragraph\" >Play as one of four distinct factions, each with unique tech trees, units, and play styles:</p><p class=\"bb_paragraph\" >United Earth – Balanced and tech-driven</p><p class=\"bb_paragraph\" >League of Independent States – Resource-efficient rebels</p><p class=\"bb_paragraph\" >Zolarg Empire – Insectoid swarm-style economics</p><p class=\"bb_paragraph\" >Alpha Draconians – Advanced reptilian overlords</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Play Your Way</strong></p><p class=\"bb_paragraph\" >Single-city sandbox or Premium Region Mode with connected cities across a shared map</p><p class=\"bb_paragraph\" >Multiplayer Regions: Cooperate or compete with friends — each sub-city run by a different player</p><p class=\"bb_paragraph\" >Declare independence from your “mother colony” and start your own empire — with players paying taxes to you!</p><p class=\"bb_paragraph\" >Form Federations with others to dominate galactic leaderboards</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Go Galactic</strong></p><p class=\"bb_paragraph\" >Compete in daily online challenges</p><p class=\"bb_paragraph\" >Trade on the Galactic Board of Trade, a real-time player-run auction house</p><p class=\"bb_paragraph\" >Balance population, GDP, education, security, and more</p><p class=\"bb_paragraph\" >Rise through the ranks as you scale your economy and influence</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Play Anywhere</strong></p><p class=\"bb_paragraph\" >Works offline or online</p><p class=\"bb_paragraph\" >Sync progress with your Ape Apps Account</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Join a living universe of colonists. Forge alliances. Grow your power. Leave your mark on the stars.</p>",
+      "about_the_game": "<p class=\"bb_paragraph\" ><strong>Build. Expand. Rule the stars.</strong></p><p class=\"bb_paragraph\" >Welcome to My Colony, the ultimate sci-fi city builder and space empire simulation. Whether you’re leading a peaceful outpost or an industrial powerhouse, the galaxy is yours to shape — one rover at a time.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Build Your Colony</strong></p><p class=\"bb_paragraph\" >Start with a single lander and rover, gather resources, and unlock a massive tech tree full of structures, utilities, and special units. Every resource leads to new possibilities as you evolve from a basic outpost to a sprawling interplanetary empire.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Choose Your Civilization</strong></p><p class=\"bb_paragraph\" >Play as one of four distinct factions, each with unique tech trees, units, and play styles:</p><p class=\"bb_paragraph\" >United Earth – Balanced and tech-driven</p><p class=\"bb_paragraph\" >League of Independent States – Resource-efficient rebels</p><p class=\"bb_paragraph\" >Zolarg Empire – Insectoid swarm-style economics</p><p class=\"bb_paragraph\" >Alpha Draconians – Advanced reptilian overlords</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Play Your Way</strong></p><p class=\"bb_paragraph\" >Single-city sandbox or Premium Region Mode with connected cities across a shared map</p><p class=\"bb_paragraph\" >Multiplayer Regions: Cooperate or compete with friends — each sub-city run by a different player</p><p class=\"bb_paragraph\" >Declare independence from your “mother colony” and start your own empire — with players paying taxes to you!</p><p class=\"bb_paragraph\" >Form Federations with others to dominate galactic leaderboards</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Go Galactic</strong></p><p class=\"bb_paragraph\" >Compete in daily online challenges</p><p class=\"bb_paragraph\" >Trade on the Galactic Board of Trade, a real-time player-run auction house</p><p class=\"bb_paragraph\" >Balance population, GDP, education, security, and more</p><p class=\"bb_paragraph\" >Rise through the ranks as you scale your economy and influence</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Play Anywhere</strong></p><p class=\"bb_paragraph\" >Works offline or online</p><p class=\"bb_paragraph\" >Sync progress with your Ape Apps Account</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Join a living universe of colonists. Forge alliances. Grow your power. Leave your mark on the stars.</p>",
+      "short_description": "Build, expand, and rule a growing space colony. Explore tech, trade, and multiplayer.",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964130/2794f3470b793a75caf9bd34083e36659ecef227/header.jpg?t=1761252414",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964130/d0c97de38c11964edfd4147a2b6662031e1aee7e/capsule_231x87.jpg?t=1761252414",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964130/d0c97de38c11964edfd4147a2b6662031e1aee7e/capsule_184x69.jpg?t=1761252414",
+      "website": "https://www.my-colony.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 7/8/10<br></li><li><strong>Processor:</strong> 1.6 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires an Apple processor<br></li><li><strong>OS:</strong> 10.9<br></li><li><strong>Processor:</strong> 1.6 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires an Apple processor</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 12.04<br></li><li><strong>Processor:</strong> 1.6 Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 250 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "ext_user_account_notice": "Ape Apps Account (accounts.ape-apps.com) (Supports Linking to Steam Account)",
+      "developers": [
+        "Ape Apps"
+      ],
+      "publishers": [
+        "Ape Apps"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 499,
+        "final": 499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$4.99"
+      },
+      "packages": [
+        315474
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy My Colony",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 315474,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "My Colony - $4.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 38,
+          "description": "Online Co-op"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 35,
+          "description": "In-App Purchases"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964130/5ae184507e4f5ddaefb51b0b63086460d5a4d7ce/ss_5ae184507e4f5ddaefb51b0b63086460d5a4d7ce.600x338.jpg?t=1761252414",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964130/5ae184507e4f5ddaefb51b0b63086460d5a4d7ce/ss_5ae184507e4f5ddaefb51b0b63086460d5a4d7ce.1920x1080.jpg?t=1761252414"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964130/285c50b304816718a0be73a2dc85ba95f695e655/ss_285c50b304816718a0be73a2dc85ba95f695e655.600x338.jpg?t=1761252414",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964130/285c50b304816718a0be73a2dc85ba95f695e655/ss_285c50b304816718a0be73a2dc85ba95f695e655.1920x1080.jpg?t=1761252414"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964130/f62718f72bd56889f2536a1d95202252f8036430/ss_f62718f72bd56889f2536a1d95202252f8036430.600x338.jpg?t=1761252414",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964130/f62718f72bd56889f2536a1d95202252f8036430/ss_f62718f72bd56889f2536a1d95202252f8036430.1920x1080.jpg?t=1761252414"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964130/64694e8375cac5c77a8b4ade1bb584e376421ba5/ss_64694e8375cac5c77a8b4ade1bb584e376421ba5.600x338.jpg?t=1761252414",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964130/64694e8375cac5c77a8b4ade1bb584e376421ba5/ss_64694e8375cac5c77a8b4ade1bb584e376421ba5.1920x1080.jpg?t=1761252414"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964130/e4b47185f6f0e789891dd73cb8c085db5ef362bb/ss_e4b47185f6f0e789891dd73cb8c085db5ef362bb.600x338.jpg?t=1761252414",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964130/e4b47185f6f0e789891dd73cb8c085db5ef362bb/ss_e4b47185f6f0e789891dd73cb8c085db5ef362bb.1920x1080.jpg?t=1761252414"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256732154,
+          "name": "My Colony Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256732154/movie.293x165.jpg?t=1539815906",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/964130/190299/b2b7a70641063b24f56e13474961fb2a1ee82d6d/1751169500/dash_av1.mpd?t=1539815906",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/964130/190299/b2b7a70641063b24f56e13474961fb2a1ee82d6d/1751169500/dash_h264.mpd?t=1539815906",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/964130/190299/b2b7a70641063b24f56e13474961fb2a1ee82d6d/1751169500/hls_264_master.m3u8?t=1539815906",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 255
+      },
+      "achievements": {
+        "total": 20,
+        "highlighted": [
+          {
+            "name": "Independence",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/964130/b67856670d96e0dce9d6ba391748a3a8a5707780.jpg"
+          },
+          {
+            "name": "Baby Colony",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/964130/67a5e213e5d7226e533605a9fdff7db68795e603.jpg"
+          },
+          {
+            "name": "Galactic Trader",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/964130/9e4d1608c017b06b2be8dc717e2557f58e898647.jpg"
+          },
+          {
+            "name": "Budding Colony",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/964130/089dd4a2b988eab828a4520a44b500458ea5d5ba.jpg"
+          },
+          {
+            "name": "Growing Civilization",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/964130/85b1a64c326bf211a0a08259ae3a9abf2f47ee61.jpg"
+          },
+          {
+            "name": "Piggybank",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/964130/466b6c502e0cb18d9ed79f1316669794cfafef8f.jpg"
+          },
+          {
+            "name": "Moneybags",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/964130/c1d94b4c06cfd438c5a8943f5eda1db9ae946caf.jpg"
+          },
+          {
+            "name": "Millionaire",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/964130/f7fe8db21d0fa4c8bc4587fa83a790456559e157.jpg"
+          },
+          {
+            "name": "Tourist Essentials",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/964130/ebf9b7ff032b86fbc7a21c7067fc35fc897cf8c8.jpg"
+          },
+          {
+            "name": "Big Red",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/964130/d2653c28a364ee04c6e9b8aca96b7abd28bcdd54.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Nov 1, 2018"
+      },
+      "support_info": {
+        "url": "https://www.ape-apps.com/",
+        "email": "support@ape-apps.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/964130?t=1761252414",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/964130/ebeca1ba7e857f5d4e4241255c7bc6672d80bfa3/page_bg_raw.jpg?t=1761252414",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": null
+    }
+  }
+}

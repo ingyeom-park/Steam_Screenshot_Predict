@@ -1,0 +1,294 @@
+{
+  "1286330": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "WhiteLily 2：梦醒少女",
+      "steam_appid": 1286330,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        1588360,
+        1588370
+      ],
+      "detailed_description": "<h2 class=\"bb_tag\" >♠Wonderful plot♠</h2><p class=\"bb_paragraph\" >    &quot;Waking up Girl&quot; was created by the original team who made &quot;Princess Lili&quot;, and improved the quality of the plot. Not only did the plot maintain its original high quality and excitement, but Its logic is also more reasonable and organized. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >    In addition, the character dialogue in this game, from the aspects of readability and layout, considers the reader’s psychological and visual aesthetics, and is optimized, which greatly reduces the fatigue when reading text and turns reading into a very happy thing. ♪(^∇^*)</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >♣Sneak and puzzle gameplay♣</h2><p class=\"bb_paragraph\" >    In this game, the player will use a special anesthetic needle to sneak attack and anesthetize the enemy. Players need to prevent themselves from being discovered by the enemy as much as possible. At the same time, they need to solve various puzzles to achieve a multiplier effect. (≧∇≦)ﾉ</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >♥High-quality art and music♥</h2><p class=\"bb_paragraph\" >    All the pictures in this game are original by artist Chi Yin Ling, and the style is exquisite and unified. At the same time, the music in our game has also been carefully selected. Every piece of music is particularly good. Welcome everyone to try!</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >♦Add no plot mode♦</h2><p class=\"bb_paragraph\" >    In addition to the original plot puzzle gameplay, our game has also added a &quot;no plot mode&quot;. This mode only retains the game's puzzle solving, stealth and other non-story content, which not only simplifies the game process, but also satisfies more players' preferences.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >★Character introduction★</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/extras/4ff04f10d75230e367939898b0114210.avif?t=1740323027\" width=580 height=696 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/extras/d6ab8b03ae853013439e0f896e4f6f86.avif?t=1740323027\" width=580 height=696 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/extras/b231cc20fffde5299592b972f66254c9.avif?t=1740323027\" width=580 height=696 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/extras/3d44bac921eed46608ba6342f9da09af.avif?t=1740323027\" width=580 height=696 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/extras/2aed8841e94b691e6314bea8f998ae43.avif?t=1740323027\" width=580 height=696 /></span></p><h2 class=\"bb_tag\" >▼Production staff▼</h2><p class=\"bb_paragraph\" >   Hosting, Script, Project: 游学者狐狸</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >   Art, Characters, CG: 赤音铃 </p><p class=\"bb_paragraph\" >   UI, Logo, Assist: 五月梅花落</p><p class=\"bb_paragraph\" >   Pixels, Effects, Assist: 鬼鬼9669</p><p class=\"bb_paragraph\" >   Planning, Copywriting, Publicity: 游学者狐狸</p><p class=\"bb_paragraph\" >   Music selection, Tuning, Correction: 游学者狐狸</p><p class=\"bb_paragraph\" >   Translation, Editing, Proofreading: 游学者狐狸</p><p class=\"bb_paragraph\" >   Consultant, Test, Assist: 冷月荆棘</p><p class=\"bb_paragraph\" >   PV: 夜酱</p><p class=\"bb_paragraph\" >   Weibo: @游学者狐狸</p><p class=\"bb_paragraph\" >   QQ group: 623652322<br>   </p>",
+      "about_the_game": "<h2 class=\"bb_tag\" >♠Wonderful plot♠</h2><p class=\"bb_paragraph\" >    &quot;Waking up Girl&quot; was created by the original team who made &quot;Princess Lili&quot;, and improved the quality of the plot. Not only did the plot maintain its original high quality and excitement, but Its logic is also more reasonable and organized. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >    In addition, the character dialogue in this game, from the aspects of readability and layout, considers the reader’s psychological and visual aesthetics, and is optimized, which greatly reduces the fatigue when reading text and turns reading into a very happy thing. ♪(^∇^*)</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >♣Sneak and puzzle gameplay♣</h2><p class=\"bb_paragraph\" >    In this game, the player will use a special anesthetic needle to sneak attack and anesthetize the enemy. Players need to prevent themselves from being discovered by the enemy as much as possible. At the same time, they need to solve various puzzles to achieve a multiplier effect. (≧∇≦)ﾉ</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >♥High-quality art and music♥</h2><p class=\"bb_paragraph\" >    All the pictures in this game are original by artist Chi Yin Ling, and the style is exquisite and unified. At the same time, the music in our game has also been carefully selected. Every piece of music is particularly good. Welcome everyone to try!</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >♦Add no plot mode♦</h2><p class=\"bb_paragraph\" >    In addition to the original plot puzzle gameplay, our game has also added a &quot;no plot mode&quot;. This mode only retains the game's puzzle solving, stealth and other non-story content, which not only simplifies the game process, but also satisfies more players' preferences.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >★Character introduction★</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/extras/4ff04f10d75230e367939898b0114210.avif?t=1740323027\" width=580 height=696 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/extras/d6ab8b03ae853013439e0f896e4f6f86.avif?t=1740323027\" width=580 height=696 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/extras/b231cc20fffde5299592b972f66254c9.avif?t=1740323027\" width=580 height=696 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/extras/3d44bac921eed46608ba6342f9da09af.avif?t=1740323027\" width=580 height=696 /></span><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/extras/2aed8841e94b691e6314bea8f998ae43.avif?t=1740323027\" width=580 height=696 /></span></p><h2 class=\"bb_tag\" >▼Production staff▼</h2><p class=\"bb_paragraph\" >   Hosting, Script, Project: 游学者狐狸</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >   Art, Characters, CG: 赤音铃 </p><p class=\"bb_paragraph\" >   UI, Logo, Assist: 五月梅花落</p><p class=\"bb_paragraph\" >   Pixels, Effects, Assist: 鬼鬼9669</p><p class=\"bb_paragraph\" >   Planning, Copywriting, Publicity: 游学者狐狸</p><p class=\"bb_paragraph\" >   Music selection, Tuning, Correction: 游学者狐狸</p><p class=\"bb_paragraph\" >   Translation, Editing, Proofreading: 游学者狐狸</p><p class=\"bb_paragraph\" >   Consultant, Test, Assist: 冷月荆棘</p><p class=\"bb_paragraph\" >   PV: 夜酱</p><p class=\"bb_paragraph\" >   Weibo: @游学者狐狸</p><p class=\"bb_paragraph\" >   QQ group: 623652322<br>   </p>",
+      "short_description": "This is a story-based stealth puzzle game: During the summer, Marie helped her friend Emma manage the store. One day, when a customer left the store, she accidentally left a red book. And behind this red book, there is a distant story and a huge conspiracy...",
+      "supported_languages": "Simplified Chinese, English",
+      "reviews": "“这是一款角色扮演游戏，立绘精美，剧情出色，玩法以潜行解谜为主，本身不算太难，同时还有“无微不至”的引导系统，时刻提醒玩家接下来该怎么做，可以让玩家轻松享受游戏的乐趣。 而对于喜欢挑战高难度或是不爱看剧情的玩家，本作也准备了无剧情模式，该模式由6个迷宫组成，没有任何剧情与提示，需要玩家仔细观察并试错背版才能过关。”<br>8 – 向日葵游戏<br><br>“《WhiteLily》系列的最新续作，由制作《丽丽公主》原班人马倾情打造。跟前作相比，剧情还是一如既往的精彩，流程丰富到令人感动。不过本作也有着不小的提升，比如文字排版更美化，阅读体验轻松不费眼。立绘CG更精美，妹子更多更可爱。其中最赞的是细节设定更加人性化，玩家可根据需要选择纯剧情或纯解谜的玩法模式。其余从像是大地图传送，温馨惊吓跟存档提示等功能也能看出作者的用心。参考前作良心的定价，强烈推荐！”<br>爱の榨汁屋<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/header.jpg?t=1740323027",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/capsule_231x87.jpg?t=1740323027",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/capsule_184x69.jpg?t=1740323027",
+      "website": "http://weibo.com/acfox2018",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7 (64bit)<br></li><li><strong>Processor:</strong> 1.0 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7/8/8.1/10 (64bit)<br></li><li><strong>Processor:</strong> 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "Copyright Notice:<br />\r\n<br />\r\n1. The copyright of this game has been registered and is protected by the Chinese Copyright Law. Unpacking or re-publishing this game is prohibited.<br />\r\n<br />\r\n2. All the picture materials of this game are original materials, which are protected by the Chinese Copyright Law. Unpacking and use are prohibited.<br />\r\n<br />\r\n3. Part of the music used in this game is commercially licensed material, the copyright belongs to the original author, and it is forbidden to use it without permission.<br />\r\n<br />\r\nAny legal issues arising from the violation of the above statement shall bear the consequences.",
+      "developers": [
+        "游学者狐狸"
+      ],
+      "publishers": [
+        "游学者狐狸"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 499,
+        "final": 499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$4.99"
+      },
+      "packages": [
+        448439
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy WhiteLily 2：梦醒少女",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 448439,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "WhiteLily 2：Waking up Girl - $4.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_9365e326d0bd41551faea5e30b1413091feaaec7.600x338.jpg?t=1740323027",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_9365e326d0bd41551faea5e30b1413091feaaec7.1920x1080.jpg?t=1740323027"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_f60ba03de53a4a0ec59531fda5cd9523a038b584.600x338.jpg?t=1740323027",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_f60ba03de53a4a0ec59531fda5cd9523a038b584.1920x1080.jpg?t=1740323027"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_f3593cfbe5ed07f8911a20239dd677a88c904125.600x338.jpg?t=1740323027",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_f3593cfbe5ed07f8911a20239dd677a88c904125.1920x1080.jpg?t=1740323027"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_eef470770a0f620ec4124509ce52b18b7299487d.600x338.jpg?t=1740323027",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_eef470770a0f620ec4124509ce52b18b7299487d.1920x1080.jpg?t=1740323027"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_92411edc7dd580839c7f1876cd730348d05933b8.600x338.jpg?t=1740323027",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_92411edc7dd580839c7f1876cd730348d05933b8.1920x1080.jpg?t=1740323027"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_b6f0a1e8da07f23cba0a7a81cc7706f8fb1b852f.600x338.jpg?t=1740323027",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_b6f0a1e8da07f23cba0a7a81cc7706f8fb1b852f.1920x1080.jpg?t=1740323027"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_2196b0a3564af010135b241e7c88fec5730ebd05.600x338.jpg?t=1740323027",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_2196b0a3564af010135b241e7c88fec5730ebd05.1920x1080.jpg?t=1740323027"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_b512a46b9e858d28adef74d5e358845c09ca21ef.600x338.jpg?t=1740323027",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_b512a46b9e858d28adef74d5e358845c09ca21ef.1920x1080.jpg?t=1740323027"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_29d777a0a27d9a078c1274ffbb6825ce76816e24.600x338.jpg?t=1740323027",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_29d777a0a27d9a078c1274ffbb6825ce76816e24.1920x1080.jpg?t=1740323027"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_6d8f6e24525f1dcc99e4b5a11e6770231abfcab1.600x338.jpg?t=1740323027",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_6d8f6e24525f1dcc99e4b5a11e6770231abfcab1.1920x1080.jpg?t=1740323027"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_b9805a7b7808d863983ab06e2c93d493caca55d0.600x338.jpg?t=1740323027",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_b9805a7b7808d863983ab06e2c93d493caca55d0.1920x1080.jpg?t=1740323027"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_e085da8d687e97f21a5b98ed76c11fe9208e0f37.600x338.jpg?t=1740323027",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/ss_e085da8d687e97f21a5b98ed76c11fe9208e0f37.1920x1080.jpg?t=1740323027"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256802613,
+          "name": "PV视频",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256802613/movie.293x165.jpg?t=1617356301",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1286330/315063/c2b183f8d4bfb7984743709f0e7b643709e3a79e/1751215143/dash_av1.mpd?t=1617356301",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1286330/315063/c2b183f8d4bfb7984743709f0e7b643709e3a79e/1751215143/dash_h264.mpd?t=1617356301",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1286330/315063/c2b183f8d4bfb7984743709f0e7b643709e3a79e/1751215143/hls_264_master.m3u8?t=1617356301",
+          "highlight": true
+        },
+        {
+          "id": 256828379,
+          "name": "战斗演示",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256828379/movie.293x165.jpg?t=1617356309",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1286330/358236/c4f77df4737f84b5fe00b5b416cdf21755a94689/1751215143/dash_av1.mpd?t=1617356309",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1286330/358236/c4f77df4737f84b5fe00b5b416cdf21755a94689/1751215143/dash_h264.mpd?t=1617356309",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1286330/358236/c4f77df4737f84b5fe00b5b416cdf21755a94689/1751215143/hls_264_master.m3u8?t=1617356309",
+          "highlight": true
+        },
+        {
+          "id": 256802134,
+          "name": "录像1",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256802134/movie.293x165.jpg?t=1601546264",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1286330/314178/b0e07de26955e51c8c41bc5b589b616302aa22bc/1751215142/dash_av1.mpd?t=1601546264",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1286330/314178/b0e07de26955e51c8c41bc5b589b616302aa22bc/1751215142/dash_h264.mpd?t=1601546264",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1286330/314178/b0e07de26955e51c8c41bc5b589b616302aa22bc/1751215142/hls_264_master.m3u8?t=1601546264",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 172
+      },
+      "achievements": {
+        "total": 23,
+        "highlighted": [
+          {
+            "name": "第一章、红皮书",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1286330/7398213b7c235a6bf08c0c6d962d5f4bae200773.jpg"
+          },
+          {
+            "name": "第二章、狼与赞美诗",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1286330/d77a81bde1343783e527694d5ab802b07dd4fa9e.jpg"
+          },
+          {
+            "name": "第三章、梦醒少女",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1286330/bc6a44c783687f2758d9e50e532df664e11d25e7.jpg"
+          },
+          {
+            "name": "第三章、梦中的幸福",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1286330/5c269c6d507a8fa6d0d53b0d1a39328faa86393f.jpg"
+          },
+          {
+            "name": "特典房间",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1286330/44a7dee083be815b0d646b3d1230fae993ffede8.jpg"
+          },
+          {
+            "name": "玩游戏比什么都好",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1286330/48f5af4da41de25819db151c2da3ba64bee2e1da.jpg"
+          },
+          {
+            "name": "玩游戏比什么都好",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1286330/9e0b558fd5079f2cfb1db1f8053e17cbf9f795bb.jpg"
+          },
+          {
+            "name": "玩游戏比什么都好",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1286330/950ab80982c0fc08f6d69b0b19cf75d56d455412.jpg"
+          },
+          {
+            "name": "不就是比大小吗",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1286330/6e613620a6710f8f2570097d0766fd2e75dfdb6d.jpg"
+          },
+          {
+            "name": "不就是比大小吗",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1286330/b1d77b84d73b86ee25eb21b6f75ff6f0f6f49c6d.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Nov 6, 2020"
+      },
+      "support_info": {
+        "url": "http://weibo.com/acfox2018",
+        "email": "acfox2018@qq.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1286330?t=1740323027",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286330/page_bg_raw.jpg?t=1740323027",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "l"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

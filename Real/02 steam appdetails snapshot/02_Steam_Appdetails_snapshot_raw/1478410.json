@@ -1,0 +1,169 @@
+{
+  "1478410": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "像素男友 语音完整版",
+      "steam_appid": 1478410,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "像素男友语音版登场！！<br />\r\n另外追加了新剧情和新CG！！！<br />\r\n——————————————————————————————————<br />\r\n<br />\r\n<br />\r\n「像素男友」是一款通过阅读剧情选择选项来进行的简单恋爱冒险游戏。<br />\r\n<br />\r\n<br />\r\n虽然帅哥的分辨率因为过低只能看到一个■，但随着好感度的上升画面会渐渐发生变化，最后会出现清晰的立绘。<br />\r\n<br />\r\n攻略人物有11人。<br />\r\n难易度低，攻略1个角色大致花费时间为20~30分钟。<br />\r\n<br />\r\n■剧情简介<br />\r\n高中2年级的主人公，新学期转学到了新的学校。<br />\r\n在兴奋地跑向新学校时，在路转角撞上了一个会说话的■物体。<br />\r\n主人公被施了一种「帅哥的分辨率会变低的诅咒」。",
+      "about_the_game": "像素男友语音版登场！！<br />\r\n另外追加了新剧情和新CG！！！<br />\r\n——————————————————————————————————<br />\r\n<br />\r\n<br />\r\n「像素男友」是一款通过阅读剧情选择选项来进行的简单恋爱冒险游戏。<br />\r\n<br />\r\n<br />\r\n虽然帅哥的分辨率因为过低只能看到一个■，但随着好感度的上升画面会渐渐发生变化，最后会出现清晰的立绘。<br />\r\n<br />\r\n攻略人物有11人。<br />\r\n难易度低，攻略1个角色大致花费时间为20~30分钟。<br />\r\n<br />\r\n■剧情简介<br />\r\n高中2年级的主人公，新学期转学到了新的学校。<br />\r\n在兴奋地跑向新学校时，在路转角撞上了一个会说话的■物体。<br />\r\n主人公被施了一种「帅哥的分辨率会变低的诅咒」。",
+      "short_description": "高中2年级的主人公，新学期转学到了新的学校。在兴奋地跑向新学校时，在路转角撞上了一个会说话的■物体。主人公被施了一种「帅哥的分辨率会变低的诅咒」。",
+      "supported_languages": "Simplified Chinese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/header.jpg?t=1608802930",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/capsule_231x87.jpg?t=1608802930",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/capsule_184x69.jpg?t=1608802930",
+      "website": "http://www.pujia8.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows xp/7/8/10<br></li><li><strong>Processor:</strong> Intel Core 2 Quad Q6600 @ 2.4 GHz, AMD FX 8120 @ 3.1 GHz<br></li><li><strong>Memory:</strong> 512 MB RAM</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "HIROKO IMAKI"
+      ],
+      "publishers": [
+        "Pujia8 Studio"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 399,
+        "final": 399,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$3.99"
+      },
+      "packages": [
+        520688
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 像素男友 语音完整版",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 520688,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "像素男友 语音完整版 - $3.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 399
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/ss_c37f3521cf09f7a6e167c3288e89b52234f7b4e8.600x338.jpg?t=1608802930",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/ss_c37f3521cf09f7a6e167c3288e89b52234f7b4e8.1920x1080.jpg?t=1608802930"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/ss_a2243a50b893d47a36fbc869965189bc7c89c7e2.600x338.jpg?t=1608802930",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/ss_a2243a50b893d47a36fbc869965189bc7c89c7e2.1920x1080.jpg?t=1608802930"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/ss_a206fba39b41fca1cd3641a84b92922a64bc747a.600x338.jpg?t=1608802930",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/ss_a206fba39b41fca1cd3641a84b92922a64bc747a.1920x1080.jpg?t=1608802930"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/ss_119c312c44c048579d23107758f44279f368318b.600x338.jpg?t=1608802930",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/ss_119c312c44c048579d23107758f44279f368318b.1920x1080.jpg?t=1608802930"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/ss_ffd0641f0f6f4630ec8fd4eb9bb7be40faeb56f8.600x338.jpg?t=1608802930",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/ss_ffd0641f0f6f4630ec8fd4eb9bb7be40faeb56f8.1920x1080.jpg?t=1608802930"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/ss_40d89631da183f7f2afa2e4bc310dd98fb817237.600x338.jpg?t=1608802930",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/ss_40d89631da183f7f2afa2e4bc310dd98fb817237.1920x1080.jpg?t=1608802930"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/ss_e8a7195f7b4018b8438365c8aa2bd36435d078b8.600x338.jpg?t=1608802930",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/ss_e8a7195f7b4018b8438365c8aa2bd36435d078b8.1920x1080.jpg?t=1608802930"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/ss_e5efbfd2acdb3af965058d9564951508ff534873.600x338.jpg?t=1608802930",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/ss_e5efbfd2acdb3af965058d9564951508ff534873.1920x1080.jpg?t=1608802930"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256814218,
+          "name": "语音版",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256814218/movie.293x165.jpg?t=1608802926",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1478410/334214/68a57fbb332b5f97e904695a8cc9bef91b051f22/1750992869/dash_av1.mpd?t=1608802926",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1478410/334214/68a57fbb332b5f97e904695a8cc9bef91b051f22/1750992869/dash_h264.mpd?t=1608802926",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1478410/334214/68a57fbb332b5f97e904695a8cc9bef91b051f22/1750992869/hls_264_master.m3u8?t=1608802926",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 397
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Dec 24, 2020"
+      },
+      "support_info": {
+        "url": "www.pujia8.com",
+        "email": "apps@pujia8.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1478410?t=1608802930",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478410/page_bg_raw.jpg?t=1608802930",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": null
+    }
+  }
+}

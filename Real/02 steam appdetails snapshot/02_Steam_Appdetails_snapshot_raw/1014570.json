@@ -1,0 +1,198 @@
+{
+  "1014570": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "AlienAfterlife",
+      "steam_appid": 1014570,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "detailed_description": "<p class=\"bb_paragraph\" >Step into a radiant dimension where souls reboot as data. Recover your reincarnation machine from alien terrorists and explore glowing temples of memory, logic, and light. A surreal odyssey through death, rebirth, and the beauty of being lost.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/ca316426b67b636145b6fc32edea44d2.poster.avif?t=1765472877\" width=780 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/ca316426b67b636145b6fc32edea44d2.webm?t=1765472877\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/ca316426b67b636145b6fc32edea44d2.mp4?t=1765472877\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Alien Afterlife reimagines what comes after everything ends. You awaken beyond the veil — not as a ghost or god, but as a packet of cosmic information trying to recompile itself. What begins as a simple mission to recover your stolen device becomes a metaphysical journey through reality’s code.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/b937e9249811bdf139c8fc2100663774.poster.avif?t=1765472877\" width=780 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/b937e9249811bdf139c8fc2100663774.webm?t=1765472877\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/b937e9249811bdf139c8fc2100663774.mp4?t=1765472877\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Every space hums with strange energy: temples that sing, landscapes made of wireframe dreams, and alien prophets that speak in corrupted files. It’s beautiful, unsettling, and strangely comforting — like a fever dream that remembers you fondly.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/f94d19118671290407827f03de82ebca.poster.avif?t=1765472877\" width=780 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/f94d19118671290407827f03de82ebca.webm?t=1765472877\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/f94d19118671290407827f03de82ebca.mp4?t=1765472877\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >The game invites reflection, not mastery. Walk through rebirth as if scrolling through an ancient hard drive of existence, and find beauty in the static between lives.</p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >Step into a radiant dimension where souls reboot as data. Recover your reincarnation machine from alien terrorists and explore glowing temples of memory, logic, and light. A surreal odyssey through death, rebirth, and the beauty of being lost.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/ca316426b67b636145b6fc32edea44d2.poster.avif?t=1765472877\" width=780 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/ca316426b67b636145b6fc32edea44d2.webm?t=1765472877\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/ca316426b67b636145b6fc32edea44d2.mp4?t=1765472877\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Alien Afterlife reimagines what comes after everything ends. You awaken beyond the veil — not as a ghost or god, but as a packet of cosmic information trying to recompile itself. What begins as a simple mission to recover your stolen device becomes a metaphysical journey through reality’s code.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/b937e9249811bdf139c8fc2100663774.poster.avif?t=1765472877\" width=780 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/b937e9249811bdf139c8fc2100663774.webm?t=1765472877\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/b937e9249811bdf139c8fc2100663774.mp4?t=1765472877\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >Every space hums with strange energy: temples that sing, landscapes made of wireframe dreams, and alien prophets that speak in corrupted files. It’s beautiful, unsettling, and strangely comforting — like a fever dream that remembers you fondly.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/f94d19118671290407827f03de82ebca.poster.avif?t=1765472877\" width=780 height=250 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/f94d19118671290407827f03de82ebca.webm?t=1765472877\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/extras/f94d19118671290407827f03de82ebca.mp4?t=1765472877\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >The game invites reflection, not mastery. Walk through rebirth as if scrolling through an ancient hard drive of existence, and find beauty in the static between lives.</p>",
+      "short_description": "Step into a radiant dimension where souls reboot as data. Recover your reincarnation machine from alien terrorists and explore glowing temples of memory, logic, and light. A surreal odyssey through death, rebirth, and the beauty of being lost.",
+      "supported_languages": "English",
+      "reviews": "“This surreal and disorienting world... is full of odd characters and psychedelic death trip visions.”<br>Vice<br><br>“It’s a game that’s packed full of WTF moments and surreal oddities that make for a weird, wonderful and thoroughly unforgettable experience.”<br>Alpha Beta Gamer<br><br>“...a metacritique of dimensional reality.”<br>ArtForum<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/044e381e6e28aa533d14ccc0e89e2d126d3b3dfe/header.jpg?t=1765472877",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/7e9106511218826da1903b901f04565dcf8eb995/capsule_231x87.jpg?t=1765472877",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/7e9106511218826da1903b901f04565dcf8eb995/capsule_184x69.jpg?t=1765472877",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Dual Core 2.4Ghz<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 750 or higher<br></li><li><strong>Storage:</strong> 1500 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Quad Core 2.4Ghz<br></li><li><strong>Memory:</strong> 16 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 780<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "Jeremy Couillard"
+      ],
+      "publishers": [
+        "Akupara Games"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 299,
+        "final": 299,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$2.99"
+      },
+      "packages": [
+        336221
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy AlienAfterlife",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 336221,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "AlienAfterlife - $2.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 299
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/cec446a7ab5290f7fa82e59206fd15c219b852fe/ss_cec446a7ab5290f7fa82e59206fd15c219b852fe.600x338.jpg?t=1765472877",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/cec446a7ab5290f7fa82e59206fd15c219b852fe/ss_cec446a7ab5290f7fa82e59206fd15c219b852fe.1920x1080.jpg?t=1765472877"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/e950d97ea79f118ea41c6425f6db4e7438db360d/ss_e950d97ea79f118ea41c6425f6db4e7438db360d.600x338.jpg?t=1765472877",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/e950d97ea79f118ea41c6425f6db4e7438db360d/ss_e950d97ea79f118ea41c6425f6db4e7438db360d.1920x1080.jpg?t=1765472877"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/dcf84c2359b15bed9f24c5718a9c7c595d8fa992/ss_dcf84c2359b15bed9f24c5718a9c7c595d8fa992.600x338.jpg?t=1765472877",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/dcf84c2359b15bed9f24c5718a9c7c595d8fa992/ss_dcf84c2359b15bed9f24c5718a9c7c595d8fa992.1920x1080.jpg?t=1765472877"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/594c9c3c57db83a531bca1727e1b03d5350914ba/ss_594c9c3c57db83a531bca1727e1b03d5350914ba.600x338.jpg?t=1765472877",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/594c9c3c57db83a531bca1727e1b03d5350914ba/ss_594c9c3c57db83a531bca1727e1b03d5350914ba.1920x1080.jpg?t=1765472877"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/6b7a17573254d3edd002c5f22a7ed8ebd8e1c0bf/ss_6b7a17573254d3edd002c5f22a7ed8ebd8e1c0bf.600x338.jpg?t=1765472877",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/6b7a17573254d3edd002c5f22a7ed8ebd8e1c0bf/ss_6b7a17573254d3edd002c5f22a7ed8ebd8e1c0bf.1920x1080.jpg?t=1765472877"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/049696ed1153e44424ce0648968b7d4905b9ea66/ss_049696ed1153e44424ce0648968b7d4905b9ea66.600x338.jpg?t=1765472877",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/049696ed1153e44424ce0648968b7d4905b9ea66/ss_049696ed1153e44424ce0648968b7d4905b9ea66.1920x1080.jpg?t=1765472877"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/ab59dff518686c7ee33760c0a2c3099b9d623817/ss_ab59dff518686c7ee33760c0a2c3099b9d623817.600x338.jpg?t=1765472877",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/ab59dff518686c7ee33760c0a2c3099b9d623817/ss_ab59dff518686c7ee33760c0a2c3099b9d623817.1920x1080.jpg?t=1765472877"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/a09c0ecf4a0a8ff36d03decc67a0168ec9aa38dd/ss_a09c0ecf4a0a8ff36d03decc67a0168ec9aa38dd.600x338.jpg?t=1765472877",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/a09c0ecf4a0a8ff36d03decc67a0168ec9aa38dd/ss_a09c0ecf4a0a8ff36d03decc67a0168ec9aa38dd.1920x1080.jpg?t=1765472877"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/f2f4cb11f5fb5b01149eb04df8ad0440e5a194ed/ss_f2f4cb11f5fb5b01149eb04df8ad0440e5a194ed.600x338.jpg?t=1765472877",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/f2f4cb11f5fb5b01149eb04df8ad0440e5a194ed/ss_f2f4cb11f5fb5b01149eb04df8ad0440e5a194ed.1920x1080.jpg?t=1765472877"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/a8d528aa6074f9730130454719677663dfa812d3/ss_a8d528aa6074f9730130454719677663dfa812d3.600x338.jpg?t=1765472877",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/a8d528aa6074f9730130454719677663dfa812d3/ss_a8d528aa6074f9730130454719677663dfa812d3.1920x1080.jpg?t=1765472877"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256740315,
+          "name": "AlienAfterlife Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256740315/762608a7504829c2b02d3e2dbb82828fa9ec7a01/movie_600x337.jpg?t=1765472876",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1014570/595953021/c08470afe44d0f4b2b61e5bc33e46a740bdfeebb/1765441816/dash_av1.mpd?t=1765472876",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1014570/595953021/c08470afe44d0f4b2b61e5bc33e46a740bdfeebb/1765441816/dash_h264.mpd?t=1765472876",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1014570/595953021/c08470afe44d0f4b2b61e5bc33e46a740bdfeebb/1765441816/hls_264_master.m3u8?t=1765472876",
+          "highlight": true
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "Feb 11, 2019"
+      },
+      "support_info": {
+        "url": "http://www.jeremycouillard.com",
+        "email": "jeremycouillard@hotmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1014570?t=1765472877",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1014570/925b7b84cdca3cda03cb7954aa4e3742e85ae9dd/page_bg_raw.jpg?t=1765472877",
+      "content_descriptors": {
+        "ids": [
+          5
+        ],
+        "notes": "You are inside a naked lady in the game but it's not noticeable/hard to tell until the end."
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "18",
+          "required_age": "18",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Nudez\nDrogas ilícitas\nLinguagem imprópria"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "16",
+          "required_age": "16",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Sexuelle Inhalte\nDrogen\nSchimpfwörte"
+        }
+      }
+    }
+  }
+}

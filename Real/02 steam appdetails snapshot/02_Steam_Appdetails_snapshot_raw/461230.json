@@ -1,0 +1,258 @@
+{
+  "461230": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Dashy Square",
+      "steam_appid": 461230,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>FIND HMUR!</h1><p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/extras/b009372be95605a3fb4580f8fe3b1d8f.poster.avif?t=1765514791\" width=1170 height=426 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/extras/b009372be95605a3fb4580f8fe3b1d8f.webm?t=1765514791\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/extras/b009372be95605a3fb4580f8fe3b1d8f.mp4?t=1765514791\" type=\"video/mp4\"></video></span></p></p><br><h1>About the Game</h1>Dash, jump and fly your way through epic levels with rhythm-based gameplay! Create, share and play custom levels with a wide variety of music soundtracks.<br><br>Simple one click gameplay, easy to pick up but hard to master!<br><br>GAME FEATURES:<br>◉ 300+ Soundtracks from 50+ Song Artists<br>◉ 150+ Characters<br>◉ 20 Levels to play from (6 endless)<br>◉ Level Editor (Coming Soon)<br>◉ Lots of Customization<br>◉ Power-ups for Multiple Gameplay Vehicles<br>◉ Trophies, Secret Keys, Achievements, Leaderboards and Practice Mode<br>◉ Everyplay (Record and Share Gameplay on YouTube)<br>◉ Constant Updates!",
+      "about_the_game": "Dash, jump and fly your way through epic levels with rhythm-based gameplay! Create, share and play custom levels with a wide variety of music soundtracks.<br />\r\n<br />\r\nSimple one click gameplay, easy to pick up but hard to master!<br />\r\n<br />\r\nGAME FEATURES:<br />\r\n◉ 300+ Soundtracks from 50+ Song Artists<br />\r\n◉ 150+ Characters<br />\r\n◉ 20 Levels to play from (6 endless)<br />\r\n◉ Level Editor (Coming Soon)<br />\r\n◉ Lots of Customization<br />\r\n◉ Power-ups for Multiple Gameplay Vehicles<br />\r\n◉ Trophies, Secret Keys, Achievements, Leaderboards and Practice Mode<br />\r\n◉ Everyplay (Record and Share Gameplay on YouTube)<br />\r\n◉ Constant Updates!",
+      "short_description": "Dash, jump and fly your way through epic levels with rhythm-based gameplay!",
+      "supported_languages": "English, French, Italian, Spanish - Spain, Portuguese - Brazil, German, Korean, Russian, Simplified Chinese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/f683ba1c957619321667773bda09c72c45e343f0/header.jpg?t=1765514791",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/1630bbd88cf37f25ce9d628af3360185bd940472/capsule_231x87.jpg?t=1765514791",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/1630bbd88cf37f25ce9d628af3360185bd940472/capsule_184x69.jpg?t=1765514791",
+      "website": "http://www.kassanity.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP<br></li><li><strong>Processor:</strong> 2.0+ GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0+ Support<br></li><li><strong>Storage:</strong> 70 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.7<br></li><li><strong>Processor:</strong> 2.0+ GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0+ Support<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 LTS<br></li><li><strong>Processor:</strong> 2.0+ GHz<br></li><li><strong>Memory:</strong> 512 MB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0+ Support<br></li><li><strong>Storage:</strong> 75 MB available space</li></ul>"
+      },
+      "developers": [
+        "Kastriot Sulejmani",
+        "Logan Gerrol"
+      ],
+      "publishers": [
+        "KasSanity"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 699,
+        "final": 699,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$6.99"
+      },
+      "packages": [
+        100593
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Dashy Square",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 100593,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Dashy Square - $6.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 699
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/ss_e4b4868a1bacad344804f1fc89931c7a6ea99b49.600x338.jpg?t=1765514791",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/ss_e4b4868a1bacad344804f1fc89931c7a6ea99b49.1920x1080.jpg?t=1765514791"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/6584321a3b1ada41d32c606be8c93ccd9035e899/ss_6584321a3b1ada41d32c606be8c93ccd9035e899.600x338.jpg?t=1765514791",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/6584321a3b1ada41d32c606be8c93ccd9035e899/ss_6584321a3b1ada41d32c606be8c93ccd9035e899.1920x1080.jpg?t=1765514791"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/ss_e964e2e824d367ae0c5eea530eabc1920b0e5951.600x338.jpg?t=1765514791",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/ss_e964e2e824d367ae0c5eea530eabc1920b0e5951.1920x1080.jpg?t=1765514791"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/ss_42241ef2d507ff7f7b78b09578436063355a8a20.600x338.jpg?t=1765514791",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/ss_42241ef2d507ff7f7b78b09578436063355a8a20.1920x1080.jpg?t=1765514791"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/ss_be7510d5eaa6852bb099c3275218e79047020a86.600x338.jpg?t=1765514791",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/ss_be7510d5eaa6852bb099c3275218e79047020a86.1920x1080.jpg?t=1765514791"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/93d20e89fa71eb51f955c7d8f4ed8fae68de0d17/ss_93d20e89fa71eb51f955c7d8f4ed8fae68de0d17.600x338.jpg?t=1765514791",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/93d20e89fa71eb51f955c7d8f4ed8fae68de0d17/ss_93d20e89fa71eb51f955c7d8f4ed8fae68de0d17.1920x1080.jpg?t=1765514791"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256677650,
+          "name": "Dashy Square Trailer | Momentum",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256677650/movie.293x165.jpg?t=1483976294",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/461230/86012/5362af81c4839860bc8fdac3aeea71d4ccdbb8ca/1751288790/dash_av1.mpd?t=1483976294",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/461230/86012/5362af81c4839860bc8fdac3aeea71d4ccdbb8ca/1751288790/dash_h264.mpd?t=1483976294",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/461230/86012/5362af81c4839860bc8fdac3aeea71d4ccdbb8ca/1751288790/hls_264_master.m3u8?t=1483976294",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 108
+      },
+      "achievements": {
+        "total": 124,
+        "highlighted": [
+          {
+            "name": "Supporter",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/461230/90ea12b80bdfbe605900843b40ece1b9b23297db.jpg"
+          },
+          {
+            "name": "FaceBook Fan",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/461230/7600e0c461b877c7614144109b2875bfc0c8fe4b.jpg"
+          },
+          {
+            "name": "Twitter Fan",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/461230/3999fb5ce510102df9799060390e3117de5d4052.jpg"
+          },
+          {
+            "name": "Leaderboards",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/461230/203e8c2f1247d504dd8c9a96796d3859f7ff8d02.jpg"
+          },
+          {
+            "name": "YouTuber",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/461230/253e2c06f8e579ef91c1f64c50e794de8fcdb72c.jpg"
+          },
+          {
+            "name": "Stuntin'",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/461230/20e34039689808aa032bd9858c039147487a1ead.jpg"
+          },
+          {
+            "name": "Wiki Time",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/461230/c8a11c37853efb01ba2a755db6038609aa0052e2.jpg"
+          },
+          {
+            "name": "Twitter Freak",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/461230/d3431bac4c22cc2564c09f2cb37c3fed03b2feff.jpg"
+          },
+          {
+            "name": "FaceBook Fanatic",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/461230/c8e439f28462a26c41a7ba865863e9d23c27577c.jpg"
+          },
+          {
+            "name": "Lenny Box (SnyderYT)",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/461230/b86b9975b2cb4fcd53b03c47927b3834fce08f61.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Apr 25, 2016"
+      },
+      "support_info": {
+        "url": "http://www.kassanity.com",
+        "email": "help@kassanity.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/461230?t=1765514791",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/461230/7ad096608d90d8eb40bfee30493415728b2a7424/page_bg_raw.jpg?t=1765514791",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "esrb": {
+          "rating": "e"
+        },
+        "pegi": {
+          "rating": "3"
+        },
+        "bbfc": {
+          "rating": "12"
+        },
+        "usk": {
+          "rating": "0"
+        },
+        "oflc": {
+          "rating": "g"
+        },
+        "nzoflc": {
+          "rating": "g"
+        },
+        "kgrb": {
+          "rating": "all"
+        },
+        "dejus": {
+          "rating": "l"
+        },
+        "mda": {
+          "rating": "M18"
+        },
+        "fpb": {
+          "rating": "A"
+        },
+        "csrr": {
+          "rating": "G"
+        },
+        "crl": {
+          "rating": "0"
+        }
+      }
+    }
+  }
+}

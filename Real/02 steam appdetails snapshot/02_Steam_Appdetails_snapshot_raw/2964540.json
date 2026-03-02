@@ -1,0 +1,306 @@
+{
+  "2964540": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Nurikabe World",
+      "steam_appid": 2964540,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "dlc": [
+        3448640
+      ],
+      "detailed_description": "<p class=\"bb_paragraph\" >Nurikabe World is a relaxing logic puzzle game where you solve puzzles by creating islands and connecting rivers to create beautiful sceneries. Nurikabe World reimagines the classic Japanese pen-and-paper puzzle <i>Nurikabe</i> as a 3D game, where islands spring to life with trees and structures. Either play handcrafted puzzles, immerse yourself in the flow of infinitely generated maps or create and share your own puzzles with the integrated level editor.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/75df575039b8b23021b1b052a4fd4068.avif?t=1762703028\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In Nurikabe World, you create islands by placing water tiles. Each number must be separated into its own island with the indicated number of tiles. Completed islands will grow trees and other structures. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/a09e99e05f6407db241fbf598ce12ddb.poster.avif?t=1762703028\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/a09e99e05f6407db241fbf598ce12ddb.webm?t=1762703028\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/a09e99e05f6407db241fbf598ce12ddb.mp4?t=1762703028\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Getting started is easy, you only need to know a few rules to start playing!</strong> </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > All islands must be separated by water </p></li><li><p class=\"bb_paragraph\" > The water must form one connected river </p></li><li><p class=\"bb_paragraph\" > 2x2 water squares, called <i>&quot;pools&quot;</i>, are not allowed </p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/b6c42b16e93b802d6bb698cf4ccf6b30.poster.avif?t=1762703028\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/b6c42b16e93b802d6bb698cf4ccf6b30.webm?t=1762703028\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/b6c42b16e93b802d6bb698cf4ccf6b30.mp4?t=1762703028\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Nurikabe World has puzzles of all sizes and difficulty levels. The crafted puzzles will take you through breezy 5x5 levels to 15x15 endurance-testing experiences and more. There are also a bunch of difficult smaller puzzles for bite-sized challenges.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Solving harder puzzles will require you to learn advanced solving techniques, which you'll learn along the way. </p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/cfad112542dbda47a2b8f27f0285dfbb.poster.avif?t=1762703028\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/cfad112542dbda47a2b8f27f0285dfbb.webm?t=1762703028\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/cfad112542dbda47a2b8f27f0285dfbb.mp4?t=1762703028\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/c964218fac9e65292c0584c471cb3cc3.avif?t=1762703028\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Nurikabe World has:</strong> </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Hundreds of hand-crafted puzzles </p></li><li><p class=\"bb_paragraph\" > Different environments, seasons and times of day </p></li><li><p class=\"bb_paragraph\" > Relaxing visuals and music </p></li><li><p class=\"bb_paragraph\" > Infinitely generated puzzles </p></li><li><p class=\"bb_paragraph\" > Intuitive level editor </p></li><li><p class=\"bb_paragraph\" > Daily challenges </p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ><strong>Nurikabe World does not have:</strong> </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > City building </p></li><li><p class=\"bb_paragraph\" > Simulation </p></li><li><p class=\"bb_paragraph\" > Multiplayer </p></li><li><p class=\"bb_paragraph\" > Crafting </p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/381d4bcc35f8d4725b65df824501d4b8.avif?t=1762703028\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>Hand-crafted puzzle campaign</strong> </p><p class=\"bb_paragraph\" >Journey through a hand-crafted campaign with thematic sets of puzzles. The campaign is split into various difficulty levels and puzzle styles, ranging from simple tutorial maps to mind-bending puzzles. This mode offers a guided tour through Nurikabe World, teaching you valuable solving techniques on the way! </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Infinite generation</strong> </p><p class=\"bb_paragraph\" >Attain a flow state while solving an infinite stream of procedurally generated puzzles. Choose from a variety of puzzle generation algorithms and settings, either speeding through simple puzzles or embracing the chaotic difficulty spikes of unpredictable generation. Even though the hardest puzzles may feel impossible, every puzzle is guaranteed to have a unique solution! </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Daily challenges</strong> <br>Not sure what to do? Solve the daily Nurikabe World puzzles. Each day there are three hand-curated puzzles with varying difficulty levels.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/dc4ea619c5105f4a7e719b259fe5dafb.avif?t=1762703028\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Nurikabe World is under active development by a few passionate individuals in Finland! </p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >Nurikabe World is a relaxing logic puzzle game where you solve puzzles by creating islands and connecting rivers to create beautiful sceneries. Nurikabe World reimagines the classic Japanese pen-and-paper puzzle <i>Nurikabe</i> as a 3D game, where islands spring to life with trees and structures. Either play handcrafted puzzles, immerse yourself in the flow of infinitely generated maps or create and share your own puzzles with the integrated level editor.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/75df575039b8b23021b1b052a4fd4068.avif?t=1762703028\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In Nurikabe World, you create islands by placing water tiles. Each number must be separated into its own island with the indicated number of tiles. Completed islands will grow trees and other structures. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/a09e99e05f6407db241fbf598ce12ddb.poster.avif?t=1762703028\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/a09e99e05f6407db241fbf598ce12ddb.webm?t=1762703028\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/a09e99e05f6407db241fbf598ce12ddb.mp4?t=1762703028\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Getting started is easy, you only need to know a few rules to start playing!</strong> </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > All islands must be separated by water </p></li><li><p class=\"bb_paragraph\" > The water must form one connected river </p></li><li><p class=\"bb_paragraph\" > 2x2 water squares, called <i>&quot;pools&quot;</i>, are not allowed </p></li></ul><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/b6c42b16e93b802d6bb698cf4ccf6b30.poster.avif?t=1762703028\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/b6c42b16e93b802d6bb698cf4ccf6b30.webm?t=1762703028\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/b6c42b16e93b802d6bb698cf4ccf6b30.mp4?t=1762703028\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Nurikabe World has puzzles of all sizes and difficulty levels. The crafted puzzles will take you through breezy 5x5 levels to 15x15 endurance-testing experiences and more. There are also a bunch of difficult smaller puzzles for bite-sized challenges.</p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" >Solving harder puzzles will require you to learn advanced solving techniques, which you'll learn along the way. </p><p class=\"bb_paragraph\" > <span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/cfad112542dbda47a2b8f27f0285dfbb.poster.avif?t=1762703028\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/cfad112542dbda47a2b8f27f0285dfbb.webm?t=1762703028\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/cfad112542dbda47a2b8f27f0285dfbb.mp4?t=1762703028\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/c964218fac9e65292c0584c471cb3cc3.avif?t=1762703028\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Nurikabe World has:</strong> </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > Hundreds of hand-crafted puzzles </p></li><li><p class=\"bb_paragraph\" > Different environments, seasons and times of day </p></li><li><p class=\"bb_paragraph\" > Relaxing visuals and music </p></li><li><p class=\"bb_paragraph\" > Infinitely generated puzzles </p></li><li><p class=\"bb_paragraph\" > Intuitive level editor </p></li><li><p class=\"bb_paragraph\" > Daily challenges </p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ><strong>Nurikabe World does not have:</strong> </p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" > City building </p></li><li><p class=\"bb_paragraph\" > Simulation </p></li><li><p class=\"bb_paragraph\" > Multiplayer </p></li><li><p class=\"bb_paragraph\" > Crafting </p><p class=\"bb_paragraph\" ></p></li></ul><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/381d4bcc35f8d4725b65df824501d4b8.avif?t=1762703028\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" > </p><p class=\"bb_paragraph\" ><strong>Hand-crafted puzzle campaign</strong> </p><p class=\"bb_paragraph\" >Journey through a hand-crafted campaign with thematic sets of puzzles. The campaign is split into various difficulty levels and puzzle styles, ranging from simple tutorial maps to mind-bending puzzles. This mode offers a guided tour through Nurikabe World, teaching you valuable solving techniques on the way! </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Infinite generation</strong> </p><p class=\"bb_paragraph\" >Attain a flow state while solving an infinite stream of procedurally generated puzzles. Choose from a variety of puzzle generation algorithms and settings, either speeding through simple puzzles or embracing the chaotic difficulty spikes of unpredictable generation. Even though the hardest puzzles may feel impossible, every puzzle is guaranteed to have a unique solution! </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><strong>Daily challenges</strong> <br>Not sure what to do? Solve the daily Nurikabe World puzzles. Each day there are three hand-curated puzzles with varying difficulty levels.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/extras/dc4ea619c5105f4a7e719b259fe5dafb.avif?t=1762703028\" width=780 height=100 /></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Nurikabe World is under active development by a few passionate individuals in Finland! </p>",
+      "short_description": "Nurikabe World is a relaxing logic puzzle game where you solve puzzles by creating islands and connecting rivers to create beautiful sceneries. Experience different landscapes and seasons, solve puzzle campaigns and create your own levels.",
+      "supported_languages": "English, German, Japanese, Spanish - Spain",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/header.jpg?t=1762703028",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/b4b8891c9c33e5e9a295d7cb4da31879d23a6756/capsule_231x87.jpg?t=1762703028",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/b4b8891c9c33e5e9a295d7cb4da31879d23a6756/capsule_184x69.jpg?t=1762703028",
+      "website": "https://hemisquare.net/nurikabe-world",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 1 GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 520<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 2.5 GHz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 1050 / AMD RX 560<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.15 or newer<br></li><li><strong>Processor:</strong> Apple M1 or Intel Core M<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel Iris Pro Graphics<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.15 or newer<br></li><li><strong>Processor:</strong> Apple M1<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Apple M1<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Tested on Ubuntu 16.04 / Steam Deck<br></li><li><strong>Processor:</strong> 1 GHz Dual Core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD 520<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Tested on Ubuntu 16.04 / Steam Deck<br></li><li><strong>Processor:</strong> 2.5 GHz Dual Core<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 1050 / AMD RX 560<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "developers": [
+        "Hemisquare"
+      ],
+      "publishers": [
+        "Hemisquare"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        1055446
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Nurikabe World",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1055446,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Nurikabe World - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 30,
+          "description": "Steam Workshop"
+        },
+        {
+          "id": 66,
+          "description": "Color Alternatives"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 75,
+          "description": "Keyboard Only Option"
+        },
+        {
+          "id": 76,
+          "description": "Mouse Only Option"
+        },
+        {
+          "id": 74,
+          "description": "Playable without Timed Input"
+        },
+        {
+          "id": 79,
+          "description": "Save Anytime"
+        },
+        {
+          "id": 77,
+          "description": "Touch Only Option"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 15,
+          "description": "Stats"
+        },
+        {
+          "id": 17,
+          "description": "Includes level editor"
+        },
+        {
+          "id": 43,
+          "description": "Remote Play on TV"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_0562fea580b0898e75e22b2644bdab21ea905a8e.600x338.jpg?t=1762703028",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_0562fea580b0898e75e22b2644bdab21ea905a8e.1920x1080.jpg?t=1762703028"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_00cfc33a7b0ffb891be2b8dfce06e2583eb20a30.600x338.jpg?t=1762703028",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_00cfc33a7b0ffb891be2b8dfce06e2583eb20a30.1920x1080.jpg?t=1762703028"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_b331d4a722bc99f0cc73392c3c3d339b23aa5557.600x338.jpg?t=1762703028",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_b331d4a722bc99f0cc73392c3c3d339b23aa5557.1920x1080.jpg?t=1762703028"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_a34d5e6b475c10798dd14398c06dc0b1c81095ef.600x338.jpg?t=1762703028",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_a34d5e6b475c10798dd14398c06dc0b1c81095ef.1920x1080.jpg?t=1762703028"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_a7ab14389451c05968af55002679c6118103e9bd.600x338.jpg?t=1762703028",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_a7ab14389451c05968af55002679c6118103e9bd.1920x1080.jpg?t=1762703028"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_e93717adcaab92db48b4028f8819be9a40864d21.600x338.jpg?t=1762703028",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_e93717adcaab92db48b4028f8819be9a40864d21.1920x1080.jpg?t=1762703028"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_6b9c746287cc00c55e10295696510f97bbc092c9.600x338.jpg?t=1762703028",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_6b9c746287cc00c55e10295696510f97bbc092c9.1920x1080.jpg?t=1762703028"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_a7f379247df77edd5773ac38f75ba2a2f358332c.600x338.jpg?t=1762703028",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_a7f379247df77edd5773ac38f75ba2a2f358332c.1920x1080.jpg?t=1762703028"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_6d0e55364688f162b41df2dc33afff5282ad1739.600x338.jpg?t=1762703028",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_6d0e55364688f162b41df2dc33afff5282ad1739.1920x1080.jpg?t=1762703028"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_e58aee3a905a07d1a5bd85f45781801d67155a2c.600x338.jpg?t=1762703028",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_e58aee3a905a07d1a5bd85f45781801d67155a2c.1920x1080.jpg?t=1762703028"
+        },
+        {
+          "id": 10,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_10374ddcb379347818d8ed6ef4d99288d2d55393.600x338.jpg?t=1762703028",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_10374ddcb379347818d8ed6ef4d99288d2d55393.1920x1080.jpg?t=1762703028"
+        },
+        {
+          "id": 11,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_7dbcfaf9db33d3ddba7ca6e580e9f83370cc9f64.600x338.jpg?t=1762703028",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/ss_7dbcfaf9db33d3ddba7ca6e580e9f83370cc9f64.1920x1080.jpg?t=1762703028"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257021493,
+          "name": "Gameplay Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257021493/5b36d6df6b3935a3075a389c433194a4956bd591/movie_600x337.jpg?t=1734392771",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2964540/697175/ca107d2993543168426124f36560999548a08ca6/1750953702/dash_av1.mpd?t=1734392771",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2964540/697175/ca107d2993543168426124f36560999548a08ca6/1750953702/dash_h264.mpd?t=1734392771",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2964540/697175/ca107d2993543168426124f36560999548a08ca6/1750953702/hls_264_master.m3u8?t=1734392771",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 158
+      },
+      "achievements": {
+        "total": 15,
+        "highlighted": [
+          {
+            "name": "First Steps",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2964540/6c792caceaa923464644d8326f4d10499fef6e29.jpg"
+          },
+          {
+            "name": "Around the World",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2964540/e81807419e52ba947fda451f1886046aa5419c63.jpg"
+          },
+          {
+            "name": "Beyond the Horizon",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2964540/d52f6950f2615fbd14f937fc836c03832714f8a0.jpg"
+          },
+          {
+            "name": "Well Travelled",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2964540/3e6aef2a29c268f80a4454ffa8e3c9e42383e072.jpg"
+          },
+          {
+            "name": "Meow",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2964540/2dc47f81b9e97c9239e6feba45c987bd25e89db8.jpg"
+          },
+          {
+            "name": "All in a day's work",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2964540/6197cc70a74f8cf54dbe6c95db8ab7c37335b587.jpg"
+          },
+          {
+            "name": "Really.",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2964540/e5140da6ac1bc3514288ae0abb877bd00b815c42.jpg"
+          },
+          {
+            "name": "Ready, Set, Go!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2964540/9ab9a56be4b5a29bcbc1c39beb464c3987fc18a1.jpg"
+          },
+          {
+            "name": "On a Roll",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2964540/0096c6f74d8cebb922a9070f91676986e67c09c1.jpg"
+          },
+          {
+            "name": "Victory Lap",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2964540/b13a45c2ff207888fe36441569f76a788b54d88a.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jan 13, 2025"
+      },
+      "support_info": {
+        "url": "",
+        "email": "support@hemisquare.net"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2964540?t=1762703028",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964540/page_bg_raw.jpg?t=1762703028",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

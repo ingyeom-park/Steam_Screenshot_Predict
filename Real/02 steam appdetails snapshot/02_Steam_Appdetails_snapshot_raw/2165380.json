@@ -1,0 +1,199 @@
+{
+  "2165380": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Hunting Labyrinth",
+      "steam_appid": 2165380,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>♥♥ ADD IN WISHLIST!! ♥♥</h1><p></p><br><h1>About the Game</h1>《Hunting Labyrinth》is a JRPG game developed by <strong>I'm moralist</strong> and published by <strong>BokiBoki Games</strong>.<h2 class=\"bb_tag\" >DLsite AWARD 2020 Special Award Winner!</h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/extras/fb9e62ca0805b1086197b6b834c2d8d5.avif?t=1768896497\" width=600 height=150 /></span><br><strong>The script is written by NocturneNovels' top 「犬侍」!</strong><h2 class=\"bb_tag\" >■ STORY</h2><br>The little sister of the three sisters of the monster girl - Shelared<br>In a punishment monster, he lost to a powerful monster who defeated his sister,<br>And was rescued by other adventurers back to the guild.<br><br>When she woke up, Shelared found that she had been cursed by a powerful monster in the labyrinth.<br>There is no other way to remove the curse than to conquer the labyrinth.<br>Shelared, who was sent to the church, began to conquer the labyrinth in order to remove the curse.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/extras/f888c018a41af1aa89b7f36323872ac2.poster.avif?t=1768896497\" width=600 height=202 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/extras/f888c018a41af1aa89b7f36323872ac2.webm?t=1768896497\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/extras/f888c018a41af1aa89b7f36323872ac2.mp4?t=1768896497\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >■ Game Features</h2><br><ul class=\"bb_ul\"><li>▶ Classic RPG gameplay<br></li><li>▶ Gather information from NPCs<br></li><li>▶ Raiders the maze</li></ul><br>  ",
+      "about_the_game": "《Hunting Labyrinth》is a JRPG game developed by <strong>I'm moralist</strong> and published by <strong>BokiBoki Games</strong>.<h2 class=\"bb_tag\" >DLsite AWARD 2020 Special Award Winner!</h2><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/extras/fb9e62ca0805b1086197b6b834c2d8d5.avif?t=1768896497\" width=600 height=150 /></span><br><strong>The script is written by NocturneNovels' top 「犬侍」!</strong><h2 class=\"bb_tag\" >■ STORY</h2><br>The little sister of the three sisters of the monster girl - Shelared<br>In a punishment monster, he lost to a powerful monster who defeated his sister,<br>And was rescued by other adventurers back to the guild.<br><br>When she woke up, Shelared found that she had been cursed by a powerful monster in the labyrinth.<br>There is no other way to remove the curse than to conquer the labyrinth.<br>Shelared, who was sent to the church, began to conquer the labyrinth in order to remove the curse.<br><br><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/extras/f888c018a41af1aa89b7f36323872ac2.poster.avif?t=1768896497\" width=600 height=202 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/extras/f888c018a41af1aa89b7f36323872ac2.webm?t=1768896497\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/extras/f888c018a41af1aa89b7f36323872ac2.mp4?t=1768896497\" type=\"video/mp4\"></video></span><h2 class=\"bb_tag\" >■ Game Features</h2><br><ul class=\"bb_ul\"><li>▶ Classic RPG gameplay<br></li><li>▶ Gather information from NPCs<br></li><li>▶ Raiders the maze</li></ul><br>  ",
+      "short_description": "Shelared found that she had been cursed by a powerful monster in the labyrinth. There is no other way to remove the curse than to conquer the labyrinth. Shelared, who was sent to the church, began to conquer the labyrinth in order to remove the curse.",
+      "supported_languages": "Traditional Chinese, English, Japanese, Simplified Chinese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/header.jpg?t=1768896497",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/capsule_231x87.jpg?t=1768896497",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/capsule_184x69.jpg?t=1768896497",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel® Core™2 Duo<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "I'm moralist"
+      ],
+      "publishers": [
+        "BokiBoki Games",
+        "BokiBoki Game"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1599,
+        "final": 1599,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$15.99"
+      },
+      "packages": [
+        774732
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Hunting Labyrinth",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 774732,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Hunting Labyrinth - $15.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1599
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 74,
+          "description": "Playable without Timed Input"
+        },
+        {
+          "id": 79,
+          "description": "Save Anytime"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/ss_f26da837259614e83235328e9945a7bb16072d57.600x338.jpg?t=1768896497",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/ss_f26da837259614e83235328e9945a7bb16072d57.1920x1080.jpg?t=1768896497"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/ss_38393c64a252d98dc3dc6d7d01d05bbfb5297360.600x338.jpg?t=1768896497",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/ss_38393c64a252d98dc3dc6d7d01d05bbfb5297360.1920x1080.jpg?t=1768896497"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/ss_49cd2c140d0f5359ec5bb5f177f58e2e1d62f2b1.600x338.jpg?t=1768896497",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/ss_49cd2c140d0f5359ec5bb5f177f58e2e1d62f2b1.1920x1080.jpg?t=1768896497"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/ss_68622b91c9363ac9b824e60475619bb75dae5129.600x338.jpg?t=1768896497",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/ss_68622b91c9363ac9b824e60475619bb75dae5129.1920x1080.jpg?t=1768896497"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/ss_8ec021c5cb866948bf1f56c4dc683fa7560baf05.600x338.jpg?t=1768896497",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/ss_8ec021c5cb866948bf1f56c4dc683fa7560baf05.1920x1080.jpg?t=1768896497"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/ss_5a52d9dee3b90876a918af01e5794aba712e62cb.600x338.jpg?t=1768896497",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/ss_5a52d9dee3b90876a918af01e5794aba712e62cb.1920x1080.jpg?t=1768896497"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/ss_d8ab5d4f8646704853d11e80c9f45e035809db59.600x338.jpg?t=1768896497",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/ss_d8ab5d4f8646704853d11e80c9f45e035809db59.1920x1080.jpg?t=1768896497"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/ss_c5696df16da8bd5a9b5a88535a0f8671dc1311e3.600x338.jpg?t=1768896497",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/ss_c5696df16da8bd5a9b5a88535a0f8671dc1311e3.1920x1080.jpg?t=1768896497"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256907845,
+          "name": "PV1",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256907845/movie.293x165.jpg?t=1664253155",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2165380/499740/ea276996b0cc9230ad899f23b69c584e39561170/1751084271/dash_av1.mpd?t=1664253155",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2165380/499740/ea276996b0cc9230ad899f23b69c584e39561170/1751084271/dash_h264.mpd?t=1664253155",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2165380/499740/ea276996b0cc9230ad899f23b69c584e39561170/1751084271/hls_264_master.m3u8?t=1664253155",
+          "highlight": true
+        },
+        {
+          "id": 256907332,
+          "name": "PV0",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256907332/movie.293x165.jpg?t=1664244700",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2165380/498843/9cace467f8e7c61e1a692aecd73c7e4b18364d29/1751084268/dash_av1.mpd?t=1664244700",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2165380/498843/9cace467f8e7c61e1a692aecd73c7e4b18364d29/1751084268/dash_h264.mpd?t=1664244700",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2165380/498843/9cace467f8e7c61e1a692aecd73c7e4b18364d29/1751084268/hls_264_master.m3u8?t=1664244700",
+          "highlight": false
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "Feb 14, 2023"
+      },
+      "support_info": {
+        "url": "",
+        "email": "bokibokiofficial@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2165380?t=1768896497",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2165380/page_bg_raw.jpg?t=1768896497",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "10",
+          "descriptors": "Violência",
+          "use_age_gate": "true",
+          "required_age": "10"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Gewalt"
+        }
+      }
+    }
+  }
+}

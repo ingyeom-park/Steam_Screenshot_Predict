@@ -1,0 +1,261 @@
+{
+  "368680": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Super Mutant Alien Assault",
+      "steam_appid": 368680,
+      "required_age": 0,
+      "is_free": false,
+      "controller_support": "full",
+      "detailed_description": "<p class=\"bb_paragraph\" >Three fleets of spaceships flee a doomed Earth carrying the last humans in cryostasis. Pursued by aliens, it’s up to the lowly security droids to save humanity. Taking up arms solo or with a friend, you must dance with death in a brutal and addictive arcade platformer shooter inspired by Super Crate Box and stuffed to the brim with unlockables.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Fight through rapid fire single screen levels each with a random combination of platform layout, objective, vending machines and enemies. Dodge and weave amongst the aliens to stay alive but don’t leave them standing too long or the ship’s radiation will mutate them into bigger, nastier versions. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Only by unlocking and mastering the wild variety of weapons, explosives, special abilities, defense moves and perks can you hope to survive across all three galaxies, rid your ship of the mutant menace and save the oblivious humans.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Features</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/extras/280eeac8a1944e7b2e818c5fdb17270b.avif?t=1756356978\" width=616 height=64 /></span> </p><p class=\"bb_paragraph\" >- rapid fire levels give you no rest as hordes of enemies arrive, hell-bent on your destruction. Clear the objective quickly and be sure to kill each enemy before it has the chance to mutate into a bigger, nastier version of itself. Take a tiny breather and then it’s on to the next room.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/extras/31e8935e69d1e8e8ce2e77a61a71624d.avif?t=1756356978\" width=616 height=64 /></span> - in the tight confines of the space freighter, standing still is not an option. Your ability to dodge around enemies is as important as your aim. Survival requires quick thinking and rapid reflexes and a true master of the dance is a beautiful thing to behold.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/extras/3dfa383f606840bd822060df9a695daa.avif?t=1756356978\" width=616 height=64 /></span> - each single screen level is randomised, drawing on a pool of platform layouts, objective types and enemies as well as which vending machines will be present. You’ll never know which weapons or grenades will spawn in the vending machines whilst crate drops containing special abilities, sidearms, perks and defense moves are also random, adding further to the mind-boggling possible combinations.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/extras/03e179240f1bbf70253914430c69dd6a.avif?t=1756356978\" width=616 height=64 /></span> - a wealth of weapons, sidearms, special abilities, perks, explosives, defense moves and character skins awaits you. Each new unlockable joins the melting pot of random ingredients, increasing your options but also the need to master each individual element and the way they combine with each other.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/extras/95abe2ffa20226d4ed212d70cca3dd3c.avif?t=1756356978\" width=616 height=64 /></span> - take on the mutant hordes by yourself or team up in local co-op. Two player adds further complications to master as you must be careful to avoid friendly fire from explosives and will have to share/fight over item and health pack drops.</p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >Three fleets of spaceships flee a doomed Earth carrying the last humans in cryostasis. Pursued by aliens, it’s up to the lowly security droids to save humanity. Taking up arms solo or with a friend, you must dance with death in a brutal and addictive arcade platformer shooter inspired by Super Crate Box and stuffed to the brim with unlockables.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Fight through rapid fire single screen levels each with a random combination of platform layout, objective, vending machines and enemies. Dodge and weave amongst the aliens to stay alive but don’t leave them standing too long or the ship’s radiation will mutate them into bigger, nastier versions. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Only by unlocking and mastering the wild variety of weapons, explosives, special abilities, defense moves and perks can you hope to survive across all three galaxies, rid your ship of the mutant menace and save the oblivious humans.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Features</h2><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" style=\"text-align: center\"><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/extras/280eeac8a1944e7b2e818c5fdb17270b.avif?t=1756356978\" width=616 height=64 /></span> </p><p class=\"bb_paragraph\" >- rapid fire levels give you no rest as hordes of enemies arrive, hell-bent on your destruction. Clear the objective quickly and be sure to kill each enemy before it has the chance to mutate into a bigger, nastier version of itself. Take a tiny breather and then it’s on to the next room.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/extras/31e8935e69d1e8e8ce2e77a61a71624d.avif?t=1756356978\" width=616 height=64 /></span> - in the tight confines of the space freighter, standing still is not an option. Your ability to dodge around enemies is as important as your aim. Survival requires quick thinking and rapid reflexes and a true master of the dance is a beautiful thing to behold.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/extras/3dfa383f606840bd822060df9a695daa.avif?t=1756356978\" width=616 height=64 /></span> - each single screen level is randomised, drawing on a pool of platform layouts, objective types and enemies as well as which vending machines will be present. You’ll never know which weapons or grenades will spawn in the vending machines whilst crate drops containing special abilities, sidearms, perks and defense moves are also random, adding further to the mind-boggling possible combinations.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/extras/03e179240f1bbf70253914430c69dd6a.avif?t=1756356978\" width=616 height=64 /></span> - a wealth of weapons, sidearms, special abilities, perks, explosives, defense moves and character skins awaits you. Each new unlockable joins the melting pot of random ingredients, increasing your options but also the need to master each individual element and the way they combine with each other.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/extras/95abe2ffa20226d4ed212d70cca3dd3c.avif?t=1756356978\" width=616 height=64 /></span> - take on the mutant hordes by yourself or team up in local co-op. Two player adds further complications to master as you must be careful to avoid friendly fire from explosives and will have to share/fight over item and health pack drops.</p>",
+      "short_description": "The Citizen Kane of Super Crate Box clones - dance with death through randomised rooms to clear your space freighter of irradiated aliens in a brutal arcade platformer shooter stuffed to the brim with unlockable weapons, explosives, special abilities and defense moves.",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/35702523d11721a8647fb3e4f05ef6b43b07e35d/header.jpg?t=1756356978",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/e129f3a081e719433d233f3ea380f5a02ffa8d23/capsule_231x87.jpg?t=1756356978",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/e129f3a081e719433d233f3ea380f5a02ffa8d23/capsule_184x69.jpg?t=1756356978",
+      "website": "http://www.mutantalienassault.com/",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP<br></li><li><strong>Processor:</strong> 1.2GHz or faster<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 256MB of video memory<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP<br></li><li><strong>Processor:</strong> 2Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 1G of video memory<br></li><li><strong>Storage:</strong> 300 MB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "©2015 Surprise Attack Pty Ltd",
+      "developers": [
+        "Cybernate"
+      ],
+      "publishers": [
+        "Surprise Attack"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 999,
+        "final": 999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$9.99"
+      },
+      "packages": [
+        67008
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Super Mutant Alien Assault",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 67008,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Super Mutant Alien Assault - $9.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 9,
+          "description": "Co-op"
+        },
+        {
+          "id": 39,
+          "description": "Shared/Split Screen Co-op"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 28,
+          "description": "Full controller support"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 67,
+          "description": "Camera Comfort"
+        },
+        {
+          "id": 66,
+          "description": "Color Alternatives"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 43,
+          "description": "Remote Play on TV"
+        },
+        {
+          "id": 44,
+          "description": "Remote Play Together"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/ss_e6e5dcaac80747ab61c89d1d18d7877835902acc.600x338.jpg?t=1756356978",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/ss_e6e5dcaac80747ab61c89d1d18d7877835902acc.1920x1080.jpg?t=1756356978"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/ss_3492dd641df3f3c69e678cd3e6945ab35872f769.600x338.jpg?t=1756356978",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/ss_3492dd641df3f3c69e678cd3e6945ab35872f769.1920x1080.jpg?t=1756356978"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/ss_aa536ff497f37bd9aa64234ae29b6038ce4684d8.600x338.jpg?t=1756356978",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/ss_aa536ff497f37bd9aa64234ae29b6038ce4684d8.1920x1080.jpg?t=1756356978"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/ss_fd67506030ecd429168b1b817131a5760f8d2738.600x338.jpg?t=1756356978",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/ss_fd67506030ecd429168b1b817131a5760f8d2738.1920x1080.jpg?t=1756356978"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/ss_be536c642ad1bbf72929461150ff19672f6f33d3.600x338.jpg?t=1756356978",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/ss_be536c642ad1bbf72929461150ff19672f6f33d3.1920x1080.jpg?t=1756356978"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/ss_41175707b92d648c73497f21ac0d88f6081de93f.600x338.jpg?t=1756356978",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/ss_41175707b92d648c73497f21ac0d88f6081de93f.1920x1080.jpg?t=1756356978"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256666470,
+          "name": "SMAA Release Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256666470/movie.293x165.jpg?t=1468281708",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/368680/63963/230d09022cbc423b911670196292c1c86cb147f8/1751271234/dash_av1.mpd?t=1468281708",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/368680/63963/230d09022cbc423b911670196292c1c86cb147f8/1751271234/dash_h264.mpd?t=1468281708",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/368680/63963/230d09022cbc423b911670196292c1c86cb147f8/1751271234/hls_264_master.m3u8?t=1468281708",
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 17,
+        "highlighted": [
+          {
+            "name": "Galaxy 1 Boss Vanquished",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368680/52d873a5161e17293d8ba31a5fb4257eb5bf32e8.jpg"
+          },
+          {
+            "name": "Galaxy 2 Boss Vanquished",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368680/306e3adafb24585f6882409e6b541b8727b35ded.jpg"
+          },
+          {
+            "name": "Galaxy 3 Boss Vanquished",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368680/f1309ff398923832918df5ecf34d6d7cb9f59a9a.jpg"
+          },
+          {
+            "name": "Humanities Saviour",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368680/6fc09e5f896d7385f63992d358e7553fc21b8982.jpg"
+          },
+          {
+            "name": "Humanities Heroic Saviour",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368680/1795e171a9a99e27b4828a79681524122d8dd21f.jpg"
+          },
+          {
+            "name": "Humanities Epic Saviour",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368680/9038d491158d1184ee3b3841c6c102470f0ec465.jpg"
+          },
+          {
+            "name": "Humanities Saviours",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368680/8eb38b76f06394098e611f0fce63803eda26e574.jpg"
+          },
+          {
+            "name": "Humanities Heroic Saviours",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368680/3ffb6ad169fb05911179547d5d775ea09b8ada69.jpg"
+          },
+          {
+            "name": "Humanities Epic Saviours",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368680/e395b8317d49e8c20a3f142b4a2adcfcf781cad8.jpg"
+          },
+          {
+            "name": "Vanquish Pro",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/368680/c2cbc009f5addaf9e80a87e3b734e5cf0dbd1cc6.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jul 11, 2016"
+      },
+      "support_info": {
+        "url": "http://www.mutantalienassault.com/",
+        "email": "support@fellowtraveller.games"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/368680?t=1756356978",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368680/282279e069382998c60b855bf40818a21bfba05e/page_bg_raw.jpg?t=1756356978",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "14",
+          "required_age": "14",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "16",
+          "required_age": "16",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Drastische Gewalt"
+        }
+      }
+    }
+  }
+}

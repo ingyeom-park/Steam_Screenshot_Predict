@@ -1,0 +1,172 @@
+{
+  "2488050": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "The Winning Secret of the Newbie Strategist Princess",
+      "steam_appid": 2488050,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        2556290
+      ],
+      "detailed_description": "<p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/extras/2022bff11143f9fd32eaf63902c60deb.avif?t=1770961730\" width=780 height=78 /></span></p><p class=\"bb_paragraph\" >A neighboring country has declared war!</p><p class=\"bb_paragraph\" >The first war in a long time. Due to a shortage of personnel, Estelle, the princess, has taken command of the army.</p><p class=\"bb_paragraph\" >She can't afford to lose this war, but... What will she do, Estelle!?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/extras/2635ad886136ac558405685d7f9e0a20.avif?t=1770961730\" width=780 height=78 /></span></p><p class=\"bb_paragraph\" >Turn-based strategy SLG. You move soldiers as units and battle with the enemy army. </p><p class=\"bb_paragraph\" >Status bonuses are granted to soldiers who achieve military success. </p><p class=\"bb_paragraph\" >If you want more military funds, you can work part-time in the towns in your territory. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/extras/531fa923cf133c692d1e626e05b9729b.avif?t=1770961730\" width=780 height=78 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Turn-based strategy SLG</p></li><li><p class=\"bb_paragraph\" >Main character fully voiced</p></li><li><p class=\"bb_paragraph\" >Auto-play function</p></li></ul>",
+      "about_the_game": "<p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/extras/2022bff11143f9fd32eaf63902c60deb.avif?t=1770961730\" width=780 height=78 /></span></p><p class=\"bb_paragraph\" >A neighboring country has declared war!</p><p class=\"bb_paragraph\" >The first war in a long time. Due to a shortage of personnel, Estelle, the princess, has taken command of the army.</p><p class=\"bb_paragraph\" >She can't afford to lose this war, but... What will she do, Estelle!?</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/extras/2635ad886136ac558405685d7f9e0a20.avif?t=1770961730\" width=780 height=78 /></span></p><p class=\"bb_paragraph\" >Turn-based strategy SLG. You move soldiers as units and battle with the enemy army. </p><p class=\"bb_paragraph\" >Status bonuses are granted to soldiers who achieve military success. </p><p class=\"bb_paragraph\" >If you want more military funds, you can work part-time in the towns in your territory. </p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/extras/531fa923cf133c692d1e626e05b9729b.avif?t=1770961730\" width=780 height=78 /></span></p><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Turn-based strategy SLG</p></li><li><p class=\"bb_paragraph\" >Main character fully voiced</p></li><li><p class=\"bb_paragraph\" >Auto-play function</p></li></ul>",
+      "short_description": "A neighboring country has declared war! The first war in a long time. Due to a shortage of personnel, Estelle, the princess, has taken command of the army. She can't afford to lose this war, but... What will she do, Estelle!?",
+      "supported_languages": "Japanese<strong>*</strong>, English, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/header.jpg?t=1770961730",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/capsule_231x87.jpg?t=1770961730",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/capsule_184x69.jpg?t=1770961730",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 7 / 8 / 8.1 / 10<br></li><li><strong>Processor:</strong> 3+ GHz Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 10/OpenGL 4.1 capable GPU<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> 3+ GHz Processor<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL ES 2.0 hardware driver support required for WebGL acceleration. (AMD Catalyst 10.9, nVidia 358.50)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "AleCubicSoft"
+      ],
+      "publishers": [
+        "OTAKU Plan"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 799,
+        "final": 799,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$7.99"
+      },
+      "packages": [
+        895471
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy The Winning Secret of the Newbie Strategist Princess",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 895471,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "The Winning Secret of the Newbie Strategist Princess - $7.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 799
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        },
+        {
+          "id": "2",
+          "description": "Strategy"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/ss_f8f3d724cfbb4ecbecfe6fd6d031b025b83e4478.600x338.jpg?t=1770961730",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/ss_f8f3d724cfbb4ecbecfe6fd6d031b025b83e4478.1920x1080.jpg?t=1770961730"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/ss_ed035d6590a02163f633f91f3d1393085e48b46a.600x338.jpg?t=1770961730",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/ss_ed035d6590a02163f633f91f3d1393085e48b46a.1920x1080.jpg?t=1770961730"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/ss_fbff8a11dc8f1f83941746db8ea1719561ea1f4f.600x338.jpg?t=1770961730",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/ss_fbff8a11dc8f1f83941746db8ea1719561ea1f4f.1920x1080.jpg?t=1770961730"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/ss_c5eee6eb8082645711c6cd8799347443f42a58b6.600x338.jpg?t=1770961730",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/ss_c5eee6eb8082645711c6cd8799347443f42a58b6.1920x1080.jpg?t=1770961730"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/ss_0ee7230db166d111f33fde608e93899c29f02558.600x338.jpg?t=1770961730",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2488050/ss_0ee7230db166d111f33fde608e93899c29f02558.1920x1080.jpg?t=1770961730"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256963084,
+          "name": "pv",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256963084/movie.293x165.jpg?t=1695438031",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2488050/596185/ba1ada37d301a22a1457af740d10867a5ad9f0f1/1750924235/dash_av1.mpd?t=1695438031",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2488050/596185/ba1ada37d301a22a1457af740d10867a5ad9f0f1/1750924235/dash_h264.mpd?t=1695438031",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2488050/596185/ba1ada37d301a22a1457af740d10867a5ad9f0f1/1750924235/hls_264_master.m3u8?t=1695438031",
+          "highlight": true
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "Sep 22, 2023"
+      },
+      "support_info": {
+        "url": "",
+        "email": "otakuplan.staff@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2488050?t=1770961730",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2488050?t=1770961730",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "10",
+          "required_age": "10",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Gewalt"
+        }
+      }
+    }
+  }
+}

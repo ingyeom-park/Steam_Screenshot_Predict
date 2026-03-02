@@ -1,0 +1,224 @@
+{
+  "661040": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Time Trap - Hidden Objects Puzzle Game",
+      "steam_appid": 661040,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h1>Great Update!</h1><p>New collection of rewards added! Go through scenes again to try new quests and get new rewards! Collect more points - added a bonus for the speed of passing the level. Update your position in the leaderboard!</p><br><h1>About the Game</h1><h2 class=\"bb_tag\" ><strong>Enter the Silence</strong></h2><p class=\"bb_paragraph\" >You arrive in a town abandoned years ago, its streets overgrown and buildings crumbling under the weight of time. Somewhere in the heart of this forgotten place lies the truth behind a journalist’s disappearance — and a secret that was never meant to be seen.<br>As you begin to uncover what was left behind, it becomes clear that something is still watching, still waiting, deep within the quarantine zone.</p><h2 class=\"bb_tag\" ><strong>Uncover a Mystery Buried in Dust and Ash</strong></h2><p class=\"bb_paragraph\" >This is a story-driven mystery set in a rich post-apocalyptic world, where atmosphere is everything. Explore lifelike environments, solve layered puzzles, and slowly piece together a narrative buried beneath fear and silence. The game rewards patience, curiosity, and attention to detail. Scenes can be revisited with new objectives, revealing hidden paths and rare rewards as the story deepens.</p><h2 class=\"bb_tag\" ><strong>Features</strong></h2><p class=\"bb_paragraph\" >• 55 hand-crafted post-apocalyptic scenes, rich in detail and atmosphere<br>• 37 locations to uncover, each with their own mysteries<br>• An evolving set of puzzles and mini-games to challenge and surprise<br>• Unique, intuitive hint system — play at your own pace<br>• Replay scenes with new objectives and unlock rare rewards<br>• Fully localized in 11 languages</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/extras/816bf1eeb67ffeb5bbb609ec9618bcb2.avif?t=1759956071\" width=700 height=400 /></span></p><p class=\"bb_paragraph\" >This town has been silent for a long time.<br>Now it’s your turn to listen.</p>",
+      "about_the_game": "<h2 class=\"bb_tag\" ><strong>Enter the Silence</strong></h2><p class=\"bb_paragraph\" >You arrive in a town abandoned years ago, its streets overgrown and buildings crumbling under the weight of time. Somewhere in the heart of this forgotten place lies the truth behind a journalist’s disappearance — and a secret that was never meant to be seen.<br>As you begin to uncover what was left behind, it becomes clear that something is still watching, still waiting, deep within the quarantine zone.</p><h2 class=\"bb_tag\" ><strong>Uncover a Mystery Buried in Dust and Ash</strong></h2><p class=\"bb_paragraph\" >This is a story-driven mystery set in a rich post-apocalyptic world, where atmosphere is everything. Explore lifelike environments, solve layered puzzles, and slowly piece together a narrative buried beneath fear and silence. The game rewards patience, curiosity, and attention to detail. Scenes can be revisited with new objectives, revealing hidden paths and rare rewards as the story deepens.</p><h2 class=\"bb_tag\" ><strong>Features</strong></h2><p class=\"bb_paragraph\" >• 55 hand-crafted post-apocalyptic scenes, rich in detail and atmosphere<br>• 37 locations to uncover, each with their own mysteries<br>• An evolving set of puzzles and mini-games to challenge and surprise<br>• Unique, intuitive hint system — play at your own pace<br>• Replay scenes with new objectives and unlock rare rewards<br>• Fully localized in 11 languages</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/extras/816bf1eeb67ffeb5bbb609ec9618bcb2.avif?t=1759956071\" width=700 height=400 /></span></p><p class=\"bb_paragraph\" >This town has been silent for a long time.<br>Now it’s your turn to listen.</p>",
+      "short_description": "A hidden object mystery set in a haunting post-apocalyptic town. Search detailed scenes, solve puzzles, and uncover the truth behind a journalist’s disappearance. Every shadow hides a clue.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Korean, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Ukrainian",
+      "reviews": "“…I did enjoy the fact that some of the objects are well-blended within pictures and can be easily missed. The ability to zoom in and out is nice and can be helpful to spot objects… If you manage to clear a stage super-fast, you’ll be rewarded with three stars for that level and will receive a great numbers of points. If you find objects within a certain time limit (we are talking seconds here), points will multiply very quickly, which will give you a chance to show your name in the leader board section. So make sure to spot all the objects before you start your round.”<br>zeepond<br><br>“Anche il gameplay si discosta leggermente dai tradizionali giochi Hidden Objects, ed in questo caso possiamo dire in modo interessante. Alcuni degli oggetti sono mimetizzati davvero molto bene, e vi costringeranno ad usare tutti gli strumenti a disposizione, come lo zoom e la possibilità di spostare l’immagine nelle 4 direzioni. Complessivamente, nonostante la quasi assenza di una trama, Time Trap potrebbe piacere agli appassionati del genere. Una colonna sonora piacevole da ascoltare accompagna la risoluzione di rompicapi un po' staccati tra loro, privi di linearità, ma comunque stimolanti. Il punteggio ed un simil-multiplayer con classifiche giocatori invogliano a ripetere più volte il singolo scenario anche a distanza di tempo, allungando il gameplay di qualche ora.”<br>icrewplay<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/7d7852273eff10460e4730e9483582347dc26bb2/header.jpg?t=1759956071",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/5cd39d2898a19ca2bf13cbdd7573f0c6706baf81/capsule_231x87.jpg?t=1759956071",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/5cd39d2898a19ca2bf13cbdd7573f0c6706baf81/capsule_184x69.jpg?t=1759956071",
+      "website": "http://crispapp.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP SP2+, Vista, Windows 7, Windows 8, Windows 10 (64-bit version of OS is required)<br></li><li><strong>Processor:</strong> 1,5 GHz or more<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 128 MB<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.8/10.9/10.10<br></li><li><strong>Processor:</strong> 1.6 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Storage:</strong> 600 MB available space</li></ul>"
+      },
+      "linux_requirements": [],
+      "legal_notice": "Copyright © 2017 CrispApp Studio",
+      "developers": [
+        "Crisp App Studio"
+      ],
+      "publishers": [
+        "Crisp App Studio"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 699,
+        "final": 699,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$6.99"
+      },
+      "packages": [
+        230458,
+        187391
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Time Trap - Hidden Objects Puzzle Game",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 230458,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Time Trap - Hidden Objects - Commercial License - $3.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 399
+            },
+            {
+              "packageid": 187391,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Time Trap - Hidden Objects - $6.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 699
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/ss_f940e0c410ae4c2df8c96960fe70ff75d42ffd73.600x338.jpg?t=1759956071",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/ss_f940e0c410ae4c2df8c96960fe70ff75d42ffd73.1920x1080.jpg?t=1759956071"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/ss_d068d7430790c093598e97994b19eaa019db598a.600x338.jpg?t=1759956071",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/ss_d068d7430790c093598e97994b19eaa019db598a.1920x1080.jpg?t=1759956071"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/ss_f5243a793caa8dce9054e035034917b306a9c77b.600x338.jpg?t=1759956071",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/ss_f5243a793caa8dce9054e035034917b306a9c77b.1920x1080.jpg?t=1759956071"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/ss_0f5352052aa9b1da668de18487e8cb828260ab3b.600x338.jpg?t=1759956071",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/ss_0f5352052aa9b1da668de18487e8cb828260ab3b.1920x1080.jpg?t=1759956071"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/ss_64a94f5403a5181763dbba26bb9fa081d24965b4.600x338.jpg?t=1759956071",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/ss_64a94f5403a5181763dbba26bb9fa081d24965b4.1920x1080.jpg?t=1759956071"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/ss_567251f84058c12a163c3e431a6cb3935b6c9079.600x338.jpg?t=1759956071",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/ss_567251f84058c12a163c3e431a6cb3935b6c9079.1920x1080.jpg?t=1759956071"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256690743,
+          "name": "TimeTrap-Trailer-mp4",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256690743/movie.293x165.jpg?t=1500705534",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/661040/114450/d0fe75868faf1ce8ff966d41b1769f059d3d2205/1751127602/dash_av1.mpd?t=1500705534",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/661040/114450/d0fe75868faf1ce8ff966d41b1769f059d3d2205/1751127602/dash_h264.mpd?t=1500705534",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/661040/114450/d0fe75868faf1ce8ff966d41b1769f059d3d2205/1751127602/hls_264_master.m3u8?t=1500705534",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 162
+      },
+      "achievements": {
+        "total": 5,
+        "highlighted": [
+          {
+            "name": "Beginner",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661040/02f4641e42d8adb628edb66a14ebe769d64e08c8.jpg"
+          },
+          {
+            "name": "Winner",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661040/9bc813d769e891e7df3d38e1e517b4ac4680a8a4.jpg"
+          },
+          {
+            "name": "Superman",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661040/95badb67aa04b9ef81a5b4207a42713a86db1f33.jpg"
+          },
+          {
+            "name": "Sniper",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661040/3c0df0c4a7288ecbe295a4f12b95d44fd9912857.jpg"
+          },
+          {
+            "name": "Calm",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/661040/02ad718aabd5fe344e1bb37ee26fb2cf7456cc5f.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jul 28, 2017"
+      },
+      "support_info": {
+        "url": "http://facebook/CrispApp",
+        "email": "support@crispapp.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/661040?t=1759956071",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/661040/page_bg_raw.jpg?t=1759956071",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "10",
+          "required_age": "10",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Medo"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "6",
+          "required_age": "6",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Ängstigende Inhalte"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "3014150": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "1/8192",
+      "steam_appid": 3014150,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "h2]Playtime[/h2]<br>1 min to infinity: It's all up to your luck<br><br><strong>Embark on a journey of Zen koans in a Buddhist mandala space<br>Reach Nirvana with a 1 in 8192 chance in a mystical world adorned with tombstones and Buddha statues.</strong><h2 class=\"bb_tag\" >Basic Gameplay</h2>Each stage has a blue and a green gate.<br>The gates are randomly set as &quot;win&quot; or &quot;lose&quot; each time.<br>Players progress based on the gate they choose.<br>Winning gate: Proceed to the next stage<br>Losing gate: Return to the first stage<h2 class=\"bb_tag\" >Controls</h2>Move: WASD<br>Run: Shift + WASD<br>Look around: Mouse<br>Make an offering: E<br>Clap: Q<br>Settings: Esc<h2 class=\"bb_tag\" >Streaming and Video Guidelines</h2>You can stream without permission.<br>Please include the game name in your video or stream title and this store page URL in the description.<br>We are not responsible for any damages resulting from playing or streaming this game.<br>These guidelines are subject to change without notice.",
+      "about_the_game": "h2]Playtime[/h2]<br>1 min to infinity: It's all up to your luck<br><br><strong>Embark on a journey of Zen koans in a Buddhist mandala space<br>Reach Nirvana with a 1 in 8192 chance in a mystical world adorned with tombstones and Buddha statues.</strong><h2 class=\"bb_tag\" >Basic Gameplay</h2>Each stage has a blue and a green gate.<br>The gates are randomly set as &quot;win&quot; or &quot;lose&quot; each time.<br>Players progress based on the gate they choose.<br>Winning gate: Proceed to the next stage<br>Losing gate: Return to the first stage<h2 class=\"bb_tag\" >Controls</h2>Move: WASD<br>Run: Shift + WASD<br>Look around: Mouse<br>Make an offering: E<br>Clap: Q<br>Settings: Esc<h2 class=\"bb_tag\" >Streaming and Video Guidelines</h2>You can stream without permission.<br>Please include the game name in your video or stream title and this store page URL in the description.<br>We are not responsible for any damages resulting from playing or streaming this game.<br>These guidelines are subject to change without notice.",
+      "short_description": "Embark on a journey of Zen koans in a Buddhist mandala space Reach Nirvana with a 1 in 8192 chance in a mystical world adorned with tombstones and Buddha statues.",
+      "supported_languages": "English, Japanese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014150/header.jpg?t=1725547360",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014150/capsule_231x87.jpg?t=1725547360",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014150/capsule_184x69.jpg?t=1725547360",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64bit<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i7-6700HQ<br></li><li><strong>Memory:</strong> 16 MB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 950M<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "YonGame"
+      ],
+      "publishers": [
+        "YonGame"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 299,
+        "final": 299,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$2.99"
+      },
+      "packages": [
+        1072060
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 1/8192",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1072060,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "1/8192 - $2.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 299
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014150/ss_e6bef55d5c9265599abde4605e85885cdb7139f4.600x338.jpg?t=1725547360",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014150/ss_e6bef55d5c9265599abde4605e85885cdb7139f4.1920x1080.jpg?t=1725547360"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014150/ss_4f739bf3038d26e0a7132ede54592fa5f51fa161.600x338.jpg?t=1725547360",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014150/ss_4f739bf3038d26e0a7132ede54592fa5f51fa161.1920x1080.jpg?t=1725547360"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014150/ss_56cc7f30506cc7d9ae2371a60e765dae1ca92999.600x338.jpg?t=1725547360",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014150/ss_56cc7f30506cc7d9ae2371a60e765dae1ca92999.1920x1080.jpg?t=1725547360"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014150/ss_325e4d6e9d5d2c59d5c86353e219957a8b14cb65.600x338.jpg?t=1725547360",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014150/ss_325e4d6e9d5d2c59d5c86353e219957a8b14cb65.1920x1080.jpg?t=1725547360"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014150/ss_820de2cf5a6e6d3e7b499403de768bfb0b533e0c.600x338.jpg?t=1725547360",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014150/ss_820de2cf5a6e6d3e7b499403de768bfb0b533e0c.1920x1080.jpg?t=1725547360"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257027851,
+          "name": "1/8192",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257027851/movie.293x165.jpg?t=1717412932",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/3014150/708521/acb788ea2b283575e40b4731a8891a00cb327f5d/1750957903/dash_av1.mpd?t=1717412932",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/3014150/708521/acb788ea2b283575e40b4731a8891a00cb327f5d/1750957903/dash_h264.mpd?t=1717412932",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/3014150/708521/acb788ea2b283575e40b4731a8891a00cb327f5d/1750957903/hls_264_master.m3u8?t=1717412932",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 136
+      },
+      "achievements": {
+        "total": 18,
+        "highlighted": [
+          {
+            "name": "To the Zen Koan of Luck",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3014150/f6904ecd85d44ad7b2ebc3e00fd82751b1596cb7.jpg"
+          },
+          {
+            "name": "1/2",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3014150/eb082f43b1a44a33d506065369499a45856cd025.jpg"
+          },
+          {
+            "name": "1/4",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3014150/075ae5874b1eb503cda9e2d094fc5c5b8bb6af15.jpg"
+          },
+          {
+            "name": "1/8",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3014150/cb13c5911aa8ac0516054276001b0eee85be176b.jpg"
+          },
+          {
+            "name": "1/16",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3014150/5a53b0af21c2a26cf17d7b48ba6e1cfbd39c9790.jpg"
+          },
+          {
+            "name": "1/32",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3014150/eec211b3b94f553f4f9325248f03f4cd0443eea0.jpg"
+          },
+          {
+            "name": "1/64",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3014150/a858836d29428aff651d550f8d8626fb5f043e4d.jpg"
+          },
+          {
+            "name": "1/128",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3014150/ec54684b1ce92c614fc674b904807c6d1a1b48bc.jpg"
+          },
+          {
+            "name": "1/256",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3014150/f4224b5bcf0669c5f3ca7fdea566c682079fa914.jpg"
+          },
+          {
+            "name": "1/512",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/3014150/7b5b28fa55f6943e09457ad80c288a31801fab7f.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jun 22, 2024"
+      },
+      "support_info": {
+        "url": "",
+        "email": "nyo367940@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3014150?t=1725547360",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3014150/page_bg_raw.jpg?t=1725547360",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "10",
+          "required_age": "10",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Medo"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "6",
+          "required_age": "6",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Ängstigende Inhalte"
+        }
+      }
+    }
+  }
+}

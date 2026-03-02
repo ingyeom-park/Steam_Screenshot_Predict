@@ -1,0 +1,234 @@
+{
+  "997700": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "瓶中精灵 - Fairy in a Jar",
+      "steam_appid": 997700,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/extras/212dac29861fd89d81d6d833952d5289.avif?t=1758283263\" width=500 height=604 /></span></p><p class=\"bb_paragraph\" >The fairy awakens in the glass enclosure with no memories. From the moment they open their eyes, the little fairy sees nothing but white lights. They meets Mr. Gaint, who is scary but also a bit clumsy...</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In a completely unknown world, with limited living space and a captor who speaks a different language...What should the fairy choose? To escape this prison, or...?</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >【- Characters -】</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/extras/28255f0fe1071f3a4d85b512c16b4f75.avif?t=1758283263\" width=115 height=106 /></span></p><p class=\"bb_paragraph\" >Fairy </p><p class=\"bb_paragraph\" >A polite and sweet fairy, who lost their memory. They appear timid, but surprisingly, the actions are bold.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/extras/2caa142fd2dade28ba4e65e8879a0e8d.avif?t=1758283263\" width=115 height=106 /></span></p><p class=\"bb_paragraph\" >Mr. Giant</p><p class=\"bb_paragraph\" >A research student who keeps the fairy in the jar. He is tall, and not very forthright with his feelings. It seems that he bought the fairy from someone...</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/extras/af222b482dabad1a8f8592235ad22e9f.avif?t=1758283263\" width=115 height=106 /></span></p><p class=\"bb_paragraph\" >The Knight Statue</p><p class=\"bb_paragraph\" >A mysterious statue which can somehow talk. He is a modest old gentleman with rich knowledge.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/extras/04cacab6aa6b19371f66677b5e422255.avif?t=1758283263\" width=115 height=106 /></span></p><p class=\"bb_paragraph\" >The Viking Statue</p><p class=\"bb_paragraph\" >A mysterious statue which can somehow talk.. He is grumpy and often quarrels with the Wizard Statue. He loves flaunting the Viking history.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/extras/0dbb2ed24ad38ac9ff7dc4cbf0e63b47.avif?t=1758283263\" width=115 height=106 /></span></p><p class=\"bb_paragraph\" >The Wizard Statue</p><p class=\"bb_paragraph\" >Another talking statue. He is a little gloomy and often harasses the Viking Statue. He always seems to be considering some mysterious recipes for curses in his mind.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/extras/cad2f7956b46b75aa792e5e3dd7594d3.avif?t=1758283263\" width=115 height=106 /></span></p><p class=\"bb_paragraph\" >The ??? Statue</p><p class=\"bb_paragraph\" >A mysterious statue that the fairy meets in a certain place. He talks like a lady though he appears to be a middle-aged man. Being an old friend of the Knight, he seems to know some secrets.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >【- How to Play -】</h2><p class=\"bb_paragraph\" >To proceed with the game, just check the arrows and make your choice.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >【- Instruction -】</h2><p class=\"bb_paragraph\" >Move &gt;&gt;&gt;&gt; Arrow keys</p><p class=\"bb_paragraph\" >Decide/Check &gt;&gt;&gt;&gt; Z/Space/Enter</p><p class=\"bb_paragraph\" >Cancel &gt;&gt;&gt;&gt; X/Esc</p><p class=\"bb_paragraph\" >Save &gt;&gt;&gt;&gt; X/Esc</p><p class=\"bb_paragraph\" >Skip Text &gt;&gt;&gt;&gt; Ctrl</p>",
+      "about_the_game": "<p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/extras/212dac29861fd89d81d6d833952d5289.avif?t=1758283263\" width=500 height=604 /></span></p><p class=\"bb_paragraph\" >The fairy awakens in the glass enclosure with no memories. From the moment they open their eyes, the little fairy sees nothing but white lights. They meets Mr. Gaint, who is scary but also a bit clumsy...</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >In a completely unknown world, with limited living space and a captor who speaks a different language...What should the fairy choose? To escape this prison, or...?</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >【- Characters -】</h2><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/extras/28255f0fe1071f3a4d85b512c16b4f75.avif?t=1758283263\" width=115 height=106 /></span></p><p class=\"bb_paragraph\" >Fairy </p><p class=\"bb_paragraph\" >A polite and sweet fairy, who lost their memory. They appear timid, but surprisingly, the actions are bold.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/extras/2caa142fd2dade28ba4e65e8879a0e8d.avif?t=1758283263\" width=115 height=106 /></span></p><p class=\"bb_paragraph\" >Mr. Giant</p><p class=\"bb_paragraph\" >A research student who keeps the fairy in the jar. He is tall, and not very forthright with his feelings. It seems that he bought the fairy from someone...</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/extras/af222b482dabad1a8f8592235ad22e9f.avif?t=1758283263\" width=115 height=106 /></span></p><p class=\"bb_paragraph\" >The Knight Statue</p><p class=\"bb_paragraph\" >A mysterious statue which can somehow talk. He is a modest old gentleman with rich knowledge.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/extras/04cacab6aa6b19371f66677b5e422255.avif?t=1758283263\" width=115 height=106 /></span></p><p class=\"bb_paragraph\" >The Viking Statue</p><p class=\"bb_paragraph\" >A mysterious statue which can somehow talk.. He is grumpy and often quarrels with the Wizard Statue. He loves flaunting the Viking history.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/extras/0dbb2ed24ad38ac9ff7dc4cbf0e63b47.avif?t=1758283263\" width=115 height=106 /></span></p><p class=\"bb_paragraph\" >The Wizard Statue</p><p class=\"bb_paragraph\" >Another talking statue. He is a little gloomy and often harasses the Viking Statue. He always seems to be considering some mysterious recipes for curses in his mind.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/extras/cad2f7956b46b75aa792e5e3dd7594d3.avif?t=1758283263\" width=115 height=106 /></span></p><p class=\"bb_paragraph\" >The ??? Statue</p><p class=\"bb_paragraph\" >A mysterious statue that the fairy meets in a certain place. He talks like a lady though he appears to be a middle-aged man. Being an old friend of the Knight, he seems to know some secrets.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >【- How to Play -】</h2><p class=\"bb_paragraph\" >To proceed with the game, just check the arrows and make your choice.</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >【- Instruction -】</h2><p class=\"bb_paragraph\" >Move &gt;&gt;&gt;&gt; Arrow keys</p><p class=\"bb_paragraph\" >Decide/Check &gt;&gt;&gt;&gt; Z/Space/Enter</p><p class=\"bb_paragraph\" >Cancel &gt;&gt;&gt;&gt; X/Esc</p><p class=\"bb_paragraph\" >Save &gt;&gt;&gt;&gt; X/Esc</p><p class=\"bb_paragraph\" >Skip Text &gt;&gt;&gt;&gt; Ctrl</p>",
+      "short_description": "Fairy in a Jar is a short but enchanting fairytale. It tells the story of a fairy who lost their memory and was kept in a jar by a human...",
+      "supported_languages": "Simplified Chinese, English",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/244b5bc066df8a3088c47874407a57caf735df0b/header.jpg?t=1758283263",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/f70eb144ee15e3be6a8224f99acee88d9daa6bfa/capsule_231x87.jpg?t=1758283263",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/f70eb144ee15e3be6a8224f99acee88d9daa6bfa/capsule_184x69.jpg?t=1758283263",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 任意版本Windows<br></li><li><strong>Processor:</strong> 电脑能开机就好<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 屏幕能显示就行<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> 可以发出声都成</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 98/Me/XP/Vista/7/8/8.1/10<br></li><li><strong>Processor:</strong> Intel I3/I5/I7<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GT1030<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Sound Card:</strong> Realtek</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "鸬鹚鱼塘"
+      ],
+      "publishers": [
+        "Eternal Dream",
+        "迷糊的安安"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 199,
+        "final": 199,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$1.99"
+      },
+      "packages": [
+        329290
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 瓶中精灵 - Fairy in a Jar",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 329290,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "瓶中精灵 - Fairy in a Jar - $1.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 199
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/e87acf90d754c01f82eb049a831ec8f0a3ea591a/ss_e87acf90d754c01f82eb049a831ec8f0a3ea591a.600x338.jpg?t=1758283263",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/e87acf90d754c01f82eb049a831ec8f0a3ea591a/ss_e87acf90d754c01f82eb049a831ec8f0a3ea591a.1920x1080.jpg?t=1758283263"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/c7500a3212a46acdad2302a08d9430d8a82de953/ss_c7500a3212a46acdad2302a08d9430d8a82de953.600x338.jpg?t=1758283263",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/c7500a3212a46acdad2302a08d9430d8a82de953/ss_c7500a3212a46acdad2302a08d9430d8a82de953.1920x1080.jpg?t=1758283263"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/8f750c3834dc05a8c78ff74d640716a5113b0891/ss_8f750c3834dc05a8c78ff74d640716a5113b0891.600x338.jpg?t=1758283263",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/8f750c3834dc05a8c78ff74d640716a5113b0891/ss_8f750c3834dc05a8c78ff74d640716a5113b0891.1920x1080.jpg?t=1758283263"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/19b24b803ba96c8d89edae4c899d94998e5a3e90/ss_19b24b803ba96c8d89edae4c899d94998e5a3e90.600x338.jpg?t=1758283263",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/19b24b803ba96c8d89edae4c899d94998e5a3e90/ss_19b24b803ba96c8d89edae4c899d94998e5a3e90.1920x1080.jpg?t=1758283263"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/3ee40698f69554f6abc3d6ed9cb1426e40c1aa74/ss_3ee40698f69554f6abc3d6ed9cb1426e40c1aa74.600x338.jpg?t=1758283263",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/3ee40698f69554f6abc3d6ed9cb1426e40c1aa74/ss_3ee40698f69554f6abc3d6ed9cb1426e40c1aa74.1920x1080.jpg?t=1758283263"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/f3d7367af0fb493eb9d820d9282b64adacb1fd09/ss_f3d7367af0fb493eb9d820d9282b64adacb1fd09.600x338.jpg?t=1758283263",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/f3d7367af0fb493eb9d820d9282b64adacb1fd09/ss_f3d7367af0fb493eb9d820d9282b64adacb1fd09.1920x1080.jpg?t=1758283263"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/f3b7bf095925c2b37a610aed3e4b92d86d8efa4a/ss_f3b7bf095925c2b37a610aed3e4b92d86d8efa4a.600x338.jpg?t=1758283263",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/f3b7bf095925c2b37a610aed3e4b92d86d8efa4a/ss_f3b7bf095925c2b37a610aed3e4b92d86d8efa4a.1920x1080.jpg?t=1758283263"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/57918e0b3b218698f8e7a6e76ddeac041efe2997/ss_57918e0b3b218698f8e7a6e76ddeac041efe2997.600x338.jpg?t=1758283263",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/57918e0b3b218698f8e7a6e76ddeac041efe2997/ss_57918e0b3b218698f8e7a6e76ddeac041efe2997.1920x1080.jpg?t=1758283263"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/2aea385fb4869a49edfc2c7ca84bb9201f05e512/ss_2aea385fb4869a49edfc2c7ca84bb9201f05e512.600x338.jpg?t=1758283263",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/2aea385fb4869a49edfc2c7ca84bb9201f05e512/ss_2aea385fb4869a49edfc2c7ca84bb9201f05e512.1920x1080.jpg?t=1758283263"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256743797,
+          "name": "《瓶中精灵》宣传影片",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256743797/movie.293x165.jpg?t=1551023813",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/997700/210649/1c6af96227e3312d8f2f46d32858ee9354bc559a/1751174229/dash_av1.mpd?t=1551023813",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/997700/210649/1c6af96227e3312d8f2f46d32858ee9354bc559a/1751174229/dash_h264.mpd?t=1551023813",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/997700/210649/1c6af96227e3312d8f2f46d32858ee9354bc559a/1751174229/hls_264_master.m3u8?t=1551023813",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 174
+      },
+      "achievements": {
+        "total": 9,
+        "highlighted": [
+          {
+            "name": "这里是哪里？",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/997700/f5b41c15dbe132afccd637c774748081ec132f49.jpg"
+          },
+          {
+            "name": "恶魔的嘲笑",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/997700/4965367578c9428bc7c53b9281317911587408e7.jpg"
+          },
+          {
+            "name": "有点臭……",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/997700/77e836c6709a48d62c924607b5c74384823a7c16.jpg"
+          },
+          {
+            "name": "好评贩卖中",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/997700/4b570ca1d54bbe0d75a0d2c501570ba9a0d12e2e.jpg"
+          },
+          {
+            "name": "新的生活！",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/997700/5ef8517f0c44915f1b937eb5a71321c5c951cc52.jpg"
+          },
+          {
+            "name": "应该是瓶盖！",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/997700/dc4a37af36788039e187e8519fd26ab101275d65.jpg"
+          },
+          {
+            "name": "其实是乔Ｏ先生！",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/997700/1fbb800e290d1c80096b428e8a937d571eafbb06.jpg"
+          },
+          {
+            "name": "我知道了！是被子！",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/997700/50aeddb74ef4ae4b40cd18ffb4717ebd13f5c12b.jpg"
+          },
+          {
+            "name": "高大的身影",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/997700/56d85e59d34dec4dd81a3888d89c429ebbccce04.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Mar 6, 2019"
+      },
+      "support_info": {
+        "url": "http://lucizone.lofter.com/",
+        "email": ""
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/997700?t=1758283263",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997700/c5a1d976049e677675298d2d7982c7d4e13f4524/page_bg_raw.jpg?t=1758283263",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "16",
+          "required_age": "16",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Gewalt"
+        }
+      }
+    }
+  }
+}

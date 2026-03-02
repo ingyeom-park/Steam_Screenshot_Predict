@@ -1,0 +1,224 @@
+{
+  "1091720": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "叙事曲：难忘的回忆 / Ballade: with Memories",
+      "steam_appid": 1091720,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1092200
+      ],
+      "detailed_description": "【内容简介】<br>主人公南望，离家多年之后，考上了故乡所在地的名校“朗润大学”。在那里，认识了自己的好朋友“大K”文朔，和文朔的女朋友程可。 三个人快乐地度过了一年的大学生活之后，转眼间进入了大学三年级。游戏的切入点由进入大三开始，南望暑期返校后，却发现曾经的三人世界发生了意想不到的变化…面对悲伤，无依无靠的的程可，和随后在大K家宴上闪亮登场的神秘女孩，南望的生活又会发生怎么样的变化...<br><br>【基本信息】<br>类型：大学校园故事/纯爱系动漫作品<br>结局数：4<br>适用范围：全年龄<br>作品规模：65个主要场景及道具,235张人物立绘,25张CG,16首原创音乐,2206句语音对白,约15万字脚本<br><br>【原型设定】<br>本作取景于厦门。故事中的朗润大学，是以厦门大学和清华大学为原型设定。在故事中，朗润大学创立于1910年，由著名爱国实业家朗润先生（以爱国实业家陈嘉庚先生为原型）创立。创立之初只设三学部：文学部、理学部和法学部。朗润先生以一己之财力支撑学校15年，逐渐请到了当时颇具名望的老师任教。学校环境优美，传统文化氛围浓厚，吸引不少知名学者、艺术家来此定居，遂逐步创立工学院、音乐学院乃至最年轻的学院——信息学院。本作场景的建筑风格以闽南“嘉庚式建筑”（或称“嘉庚建筑”）为参考，可以看到闽南特色的骑楼，鼓浪屿的小巷等富有民族风格的画面。<br><br>【主要人物】<br><strong>南望</strong><br>游戏主人公，小时因大火失去双亲，长大后考回故乡的“朗润大学”，并结识了文朔和文朔的女朋友程可。在三人共处的大二学年中，感受到了“家”的感觉，可是，故事开始时，却因忽如其来的变故和命运的邂逅，刚进入大三的他陷入迷茫……<br><br><strong>若瑜（配音CV：山新）</strong><br>女主角，全名“李若瑜”，朗润大学音乐学院钢琴系学生，大学二年级，音乐学院最有才华的学生。是个文静有着良好素养的女孩。目前在合唱社担任钢琴伴奏。<br>身高：168.5公分<br>体重：48.5公斤<br>血型：B型<br>生日：？月？日<br>爱好：古典音乐<br><br><strong>程可（配音CV：程愿）</strong><br>女主角，朗润大学戏剧社社长，文朔的女朋友。是个外表温柔而内心倔强且活泼开朗的女孩。在先前的一年中，南望和文朔、程可一起聊天、玩游戏、学习，度过了愉快的大学二年级。在大三却遇到突如其来的变故……<br>身高：164.2公分<br>体重：52.0公斤<br>血型：A型<br>生日：9月17日<br>爱好：戏剧，厨艺，占卜<br><br><strong>Echo（CV：山新）</strong><br>在空无一人的合唱社出现的神秘少女。登场之时就与南望十分要好，似乎与南望很亲近。<br><br><strong>小米（配音CV：唐小喜，原名唐静）</strong><br>文朔的家教学生，似乎对文朔有好感，曾多次驾着摩托车出现在大K与南望的公寓楼下，看起来是个调皮的小恶魔。<br>身高：160.0公分<br>体重：45.6公斤<br>血型：O型<br>生日：？月？日<br>爱好：摩托车<br><br><strong>大K（配音CV：边江）</strong><br>主人公的好朋友，本名“文朔”，是个有钱的大公子哥。才华出众，大学一年级的时候就加入了学校的SAR项目。和程可可谓是郎才女貌的一对。<br>身高：182.0公分<br>体重：72.2公斤<br>血型：O型<br>生日：？月？日<br>爱好：一切简单而明晰的理论<br><br>【新增内容】<br>相比原iOS版，本作包含、并即将包含如下改动：<br><ul class=\"bb_ul\"><li>重新设计了部分UI<br></li><li>重新绘制了部分CG<br></li><li>加入了Steam云存档功能<br></li><li>加入了高保真数字版原声音轨，详见DLC<br></li><li>即将加入繁体中文支持<br></li><li>即将加入Steam成就系统支持<br></li><li>即将重新制作部分原声音轨</li></ul><br>【联系方式】<br>“叙事曲”系列爱好者请加入：<br><ul class=\"bb_ul\"><li>百度“叙事曲”贴吧<br></li><li>“朗润大学-合唱社”qq群：198027529</li></ul>欢迎大家使用本工作室的B2开源视觉小说引擎开发更多的视觉小说，详情请见本工作室主页。",
+      "about_the_game": "【内容简介】<br>主人公南望，离家多年之后，考上了故乡所在地的名校“朗润大学”。在那里，认识了自己的好朋友“大K”文朔，和文朔的女朋友程可。 三个人快乐地度过了一年的大学生活之后，转眼间进入了大学三年级。游戏的切入点由进入大三开始，南望暑期返校后，却发现曾经的三人世界发生了意想不到的变化…面对悲伤，无依无靠的的程可，和随后在大K家宴上闪亮登场的神秘女孩，南望的生活又会发生怎么样的变化...<br><br>【基本信息】<br>类型：大学校园故事/纯爱系动漫作品<br>结局数：4<br>适用范围：全年龄<br>作品规模：65个主要场景及道具,235张人物立绘,25张CG,16首原创音乐,2206句语音对白,约15万字脚本<br><br>【原型设定】<br>本作取景于厦门。故事中的朗润大学，是以厦门大学和清华大学为原型设定。在故事中，朗润大学创立于1910年，由著名爱国实业家朗润先生（以爱国实业家陈嘉庚先生为原型）创立。创立之初只设三学部：文学部、理学部和法学部。朗润先生以一己之财力支撑学校15年，逐渐请到了当时颇具名望的老师任教。学校环境优美，传统文化氛围浓厚，吸引不少知名学者、艺术家来此定居，遂逐步创立工学院、音乐学院乃至最年轻的学院——信息学院。本作场景的建筑风格以闽南“嘉庚式建筑”（或称“嘉庚建筑”）为参考，可以看到闽南特色的骑楼，鼓浪屿的小巷等富有民族风格的画面。<br><br>【主要人物】<br><strong>南望</strong><br>游戏主人公，小时因大火失去双亲，长大后考回故乡的“朗润大学”，并结识了文朔和文朔的女朋友程可。在三人共处的大二学年中，感受到了“家”的感觉，可是，故事开始时，却因忽如其来的变故和命运的邂逅，刚进入大三的他陷入迷茫……<br><br><strong>若瑜（配音CV：山新）</strong><br>女主角，全名“李若瑜”，朗润大学音乐学院钢琴系学生，大学二年级，音乐学院最有才华的学生。是个文静有着良好素养的女孩。目前在合唱社担任钢琴伴奏。<br>身高：168.5公分<br>体重：48.5公斤<br>血型：B型<br>生日：？月？日<br>爱好：古典音乐<br><br><strong>程可（配音CV：程愿）</strong><br>女主角，朗润大学戏剧社社长，文朔的女朋友。是个外表温柔而内心倔强且活泼开朗的女孩。在先前的一年中，南望和文朔、程可一起聊天、玩游戏、学习，度过了愉快的大学二年级。在大三却遇到突如其来的变故……<br>身高：164.2公分<br>体重：52.0公斤<br>血型：A型<br>生日：9月17日<br>爱好：戏剧，厨艺，占卜<br><br><strong>Echo（CV：山新）</strong><br>在空无一人的合唱社出现的神秘少女。登场之时就与南望十分要好，似乎与南望很亲近。<br><br><strong>小米（配音CV：唐小喜，原名唐静）</strong><br>文朔的家教学生，似乎对文朔有好感，曾多次驾着摩托车出现在大K与南望的公寓楼下，看起来是个调皮的小恶魔。<br>身高：160.0公分<br>体重：45.6公斤<br>血型：O型<br>生日：？月？日<br>爱好：摩托车<br><br><strong>大K（配音CV：边江）</strong><br>主人公的好朋友，本名“文朔”，是个有钱的大公子哥。才华出众，大学一年级的时候就加入了学校的SAR项目。和程可可谓是郎才女貌的一对。<br>身高：182.0公分<br>体重：72.2公斤<br>血型：O型<br>生日：？月？日<br>爱好：一切简单而明晰的理论<br><br>【新增内容】<br>相比原iOS版，本作包含、并即将包含如下改动：<br><ul class=\"bb_ul\"><li>重新设计了部分UI<br></li><li>重新绘制了部分CG<br></li><li>加入了Steam云存档功能<br></li><li>加入了高保真数字版原声音轨，详见DLC<br></li><li>即将加入繁体中文支持<br></li><li>即将加入Steam成就系统支持<br></li><li>即将重新制作部分原声音轨</li></ul><br>【联系方式】<br>“叙事曲”系列爱好者请加入：<br><ul class=\"bb_ul\"><li>百度“叙事曲”贴吧<br></li><li>“朗润大学-合唱社”qq群：198027529</li></ul>欢迎大家使用本工作室的B2开源视觉小说引擎开发更多的视觉小说，详情请见本工作室主页。",
+      "short_description": "主人公南望，离家多年之后，考上了故乡所在地的名校“朗润大学”。在那里，认识了自己的好朋友文朔,和文朔的女朋友程可。 三个人快乐地度过了一年的大学生活之后,转眼间进入了大学三年级。南望在开学前的一天,回到了朗润大学。结果发现……",
+      "supported_languages": "Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "reviews": "“叙事曲，真的优美的就像一首钢琴曲，像你娓娓道来一段纯真的爱情故事，不管是情场老手还是感情小白，相信都会被这段发生在美丽海边，浪漫的像令人沉醉的夕阳的爱情故事所感动，会随着剧情的发展而被牵动，原来，感情可以这么美，这么好，就像一个棉花糖，入口时，软软的，甜甜的，咽下去后，甜味不会消散，而是萦绕在舌尖，口腔，心头让玩家不禁高呼：真爱无敌！ 总之，这是一部值得一玩，诚意满满，纯真美好的感人作品，倾力推荐！”<br>4.7/5.0 – App Store<br><br>“整体而言，对这部国产作品我非常满意，除了制作精良外，更多的是剧本和音乐打动了我。让人沉浸其中，故事也几度让我纠结和流泪，让我不时有种对人生和感情恍然大悟感，也对自己过去的悔恨感。”<br>9.2/10.0 – ACG批评<br><br>“游戏的诚意十足，原创音乐也十分动人，制作小组的态度诚恳，绝对能称之为国产游戏中的精品。”<br>凤凰网<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/header.jpg?t=1572653542",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/capsule_231x87.jpg?t=1572653542",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/capsule_184x69.jpg?t=1572653542",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> 1.0GHz or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 1.5GHz or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.12<br></li><li><strong>Processor:</strong> 1.0GHz or higher<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Storage:</strong> 900 MB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.14<br></li><li><strong>Processor:</strong> 1.5GHz or higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "286studio, 2009-2012, Beijing & Santa Cruz",
+      "developers": [
+        "286studio"
+      ],
+      "publishers": [
+        "286studio"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 599,
+        "final": 599,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$5.99"
+      },
+      "packages": [
+        367726
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 叙事曲：难忘的回忆 / Ballade: with Memories",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 367726,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Ballade: with Memories / 叙事曲：难忘的回忆 - $5.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 599
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "3",
+          "description": "RPG"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/ss_59e2eb0a52e6a707c8c9809ea5f78396ff14fdb5.600x338.jpg?t=1572653542",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/ss_59e2eb0a52e6a707c8c9809ea5f78396ff14fdb5.1920x1080.jpg?t=1572653542"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/ss_5e7802dea4260c916d102a4c2dc3f42e23d75d34.600x338.jpg?t=1572653542",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/ss_5e7802dea4260c916d102a4c2dc3f42e23d75d34.1920x1080.jpg?t=1572653542"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/ss_7b3664de4926f91089d84efcba52e1abc7329d26.600x338.jpg?t=1572653542",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/ss_7b3664de4926f91089d84efcba52e1abc7329d26.1920x1080.jpg?t=1572653542"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/ss_f2e10c50c352d9de27e89ddd60e19645925cff2e.600x338.jpg?t=1572653542",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/ss_f2e10c50c352d9de27e89ddd60e19645925cff2e.1920x1080.jpg?t=1572653542"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/ss_e1ec59bf7fda80f539c0dd6262eac00674337c2d.600x338.jpg?t=1572653542",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/ss_e1ec59bf7fda80f539c0dd6262eac00674337c2d.1920x1080.jpg?t=1572653542"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/ss_6837ef26b6c1125cf6694fcfddae81e28e04048f.600x338.jpg?t=1572653542",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/ss_6837ef26b6c1125cf6694fcfddae81e28e04048f.1920x1080.jpg?t=1572653542"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/ss_f399e5a67fb54f25569303aa21ee4cfd770a0926.600x338.jpg?t=1572653542",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/ss_f399e5a67fb54f25569303aa21ee4cfd770a0926.1920x1080.jpg?t=1572653542"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/ss_068677d1da5d4dc8860d6e56af0f15c36e4ad1c9.600x338.jpg?t=1572653542",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/ss_068677d1da5d4dc8860d6e56af0f15c36e4ad1c9.1920x1080.jpg?t=1572653542"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256762678,
+          "name": "Preview",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256762678/movie.293x165.jpg?t=1569986953",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1091720/244221/f62ed332a3dbc88c9d5fafa05b8687c59439923a/1751187263/dash_av1.mpd?t=1569986953",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1091720/244221/f62ed332a3dbc88c9d5fafa05b8687c59439923a/1751187263/dash_h264.mpd?t=1569986953",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1091720/244221/f62ed332a3dbc88c9d5fafa05b8687c59439923a/1751187263/hls_264_master.m3u8?t=1569986953",
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 5,
+        "highlighted": [
+          {
+            "name": "Authentic and Beautiful",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1091720/75311477008fb4a4cac0ed191fef6f59551fd470.jpg"
+          },
+          {
+            "name": "Welcome Back!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1091720/8125a47503da217b4f75da7a8e98cf269750bbe6.jpg"
+          },
+          {
+            "name": "I am Error",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1091720/91502a336d3a707ec1651b725ecf341e37b1eee1.jpg"
+          },
+          {
+            "name": "I am Doomed",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1091720/f16168de221644d5de1ff9011cf279860dd6545a.jpg"
+          },
+          {
+            "name": "Memories Become Reality",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1091720/d7024a5b94646b7da8fabfc15b1c2955516b32ff.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 15, 2019"
+      },
+      "support_info": {
+        "url": "https://www.286studio.com",
+        "email": "286studio@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1091720?t=1572653542",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091720/page_bg_raw.jpg?t=1572653542",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

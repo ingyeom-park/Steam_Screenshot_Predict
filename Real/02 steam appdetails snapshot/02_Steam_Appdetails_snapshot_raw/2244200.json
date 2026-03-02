@@ -1,0 +1,256 @@
+{
+  "2244200": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Random Chat",
+      "steam_appid": 2244200,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        2658500
+      ],
+      "detailed_description": "Based on the weekly Naver Webtoon 'Random Chat,' this visual novel breathes new life into the story by re-forming it into a dating simulation game!<br />\r\n<br />\r\nA game three years in the making, brought to you by Story Director ZAD and Art Director kero, the team behind 'Some Some Convenience Store' and 'Miracle Snack Shop'!<br />\r\n<br />\r\nExperience something completely new as the story flows away from the source material. Romance 4 girls with 4 totally different personalities in this fully-voiced dating sim.<br />\r\n<br />\r\nSet to release in the first quarter of 2023<br />\r\n<br />\r\n<br />\r\n- A work based on the Naver Webtoon 'Random Chat'<br />\r\n<br />\r\nDate the charming girls from the original webtoon series<br />\r\nEnjoy this love simulation game, even with no knowledge of the original series. <br />\r\nExperience all sorts of new story arcs that weren't featured in the webtoon. <br />\r\n<br />\r\n<br />\r\n<br />\r\n- An expanded story featuring four heroines<br />\r\n<br />\r\nProgress down one of four routes, one for each of our different heroines, for even greater enjoyment and satisfaction.<br />\r\nIn addition to our four heroines, the diverse cast of supporting characters were all dubbed by professional voice actors and actresses to immerse you in this fully-voiced drama.<br />\r\n<br />\r\n<br />\r\n- Dive into the world of 'Random Chat' and experience it all firsthand<br />\r\n<br />\r\nRun through the school and side streets that serve as the backdrop of the story.<br />\r\nIt's not only the world that you can delve into, as you can experience school life through side stories that play out on social media and messenger apps.<br />\r\nEnjoy the simulation and gaming aspects that will only add to the story. <br />\r\n<br />\r\n<br />\r\n*. This game is an 18+ rating, but it would be because of the vulgar language, not for overt sexual displays.",
+      "about_the_game": "Based on the weekly Naver Webtoon 'Random Chat,' this visual novel breathes new life into the story by re-forming it into a dating simulation game!<br />\r\n<br />\r\nA game three years in the making, brought to you by Story Director ZAD and Art Director kero, the team behind 'Some Some Convenience Store' and 'Miracle Snack Shop'!<br />\r\n<br />\r\nExperience something completely new as the story flows away from the source material. Romance 4 girls with 4 totally different personalities in this fully-voiced dating sim.<br />\r\n<br />\r\nSet to release in the first quarter of 2023<br />\r\n<br />\r\n<br />\r\n- A work based on the Naver Webtoon 'Random Chat'<br />\r\n<br />\r\nDate the charming girls from the original webtoon series<br />\r\nEnjoy this love simulation game, even with no knowledge of the original series. <br />\r\nExperience all sorts of new story arcs that weren't featured in the webtoon. <br />\r\n<br />\r\n<br />\r\n<br />\r\n- An expanded story featuring four heroines<br />\r\n<br />\r\nProgress down one of four routes, one for each of our different heroines, for even greater enjoyment and satisfaction.<br />\r\nIn addition to our four heroines, the diverse cast of supporting characters were all dubbed by professional voice actors and actresses to immerse you in this fully-voiced drama.<br />\r\n<br />\r\n<br />\r\n- Dive into the world of 'Random Chat' and experience it all firsthand<br />\r\n<br />\r\nRun through the school and side streets that serve as the backdrop of the story.<br />\r\nIt's not only the world that you can delve into, as you can experience school life through side stories that play out on social media and messenger apps.<br />\r\nEnjoy the simulation and gaming aspects that will only add to the story. <br />\r\n<br />\r\n<br />\r\n*. This game is an 18+ rating, but it would be because of the vulgar language, not for overt sexual displays.",
+      "short_description": "Based on the weekly Naver Webtoon 'Random Chat,' this new visual novel breathes life into the story by re-forming it into a love simulation game!",
+      "supported_languages": "Korean<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/header.jpg?t=1754374549",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/capsule_231x87.jpg?t=1754374549",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/capsule_184x69.jpg?t=1754374549",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows® XP or higher<br></li><li><strong>Processor:</strong> Intel Pentium 3 or higher<br></li><li><strong>Graphics:</strong> 64MB or greater graphics card<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "TALESSHOP Co., Ltd."
+      ],
+      "publishers": [
+        "TALESSHOP Co., Ltd.",
+        "Smilegate"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 3999,
+        "final": 3999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$39.99"
+      },
+      "packages": [
+        804657
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Random Chat",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 804657,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Random Chat - $39.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 3999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_5e579dcbaae3b53b967358da558556d818c7ab9c.600x338.jpg?t=1754374549",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_5e579dcbaae3b53b967358da558556d818c7ab9c.1920x1080.jpg?t=1754374549"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_edd6e3dd9bac4fd72ff2409dd59f95bfd175b5be.600x338.jpg?t=1754374549",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_edd6e3dd9bac4fd72ff2409dd59f95bfd175b5be.1920x1080.jpg?t=1754374549"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_c4ffe502e39753c8a26210df3fc83f859c008f05.600x338.jpg?t=1754374549",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_c4ffe502e39753c8a26210df3fc83f859c008f05.1920x1080.jpg?t=1754374549"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_d9407c0c594135399b7f7399b854f4ceac9810ec.600x338.jpg?t=1754374549",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_d9407c0c594135399b7f7399b854f4ceac9810ec.1920x1080.jpg?t=1754374549"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_d61bddcffe8e1a65076edb4ffbbcb0ecb20582c7.600x338.jpg?t=1754374549",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_d61bddcffe8e1a65076edb4ffbbcb0ecb20582c7.1920x1080.jpg?t=1754374549"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_548fa30cc30baaeb697afdafa74d98c7583bee14.600x338.jpg?t=1754374549",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_548fa30cc30baaeb697afdafa74d98c7583bee14.1920x1080.jpg?t=1754374549"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_d6aac748c7b185d88b9d31a08d93ad2c3206f59a.600x338.jpg?t=1754374549",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_d6aac748c7b185d88b9d31a08d93ad2c3206f59a.1920x1080.jpg?t=1754374549"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_efbb37ef60834fe0f3dcf99e006dd767944a3555.600x338.jpg?t=1754374549",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_efbb37ef60834fe0f3dcf99e006dd767944a3555.1920x1080.jpg?t=1754374549"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_b13eca0c6aa17d7fd0a88a006d68b6637c597ebf.600x338.jpg?t=1754374549",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_b13eca0c6aa17d7fd0a88a006d68b6637c597ebf.1920x1080.jpg?t=1754374549"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_51fbc08e247dcceed72954c4bccd5cbe8d5024d3.600x338.jpg?t=1754374549",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/ss_51fbc08e247dcceed72954c4bccd5cbe8d5024d3.1920x1080.jpg?t=1754374549"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256922073,
+          "name": "kr",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256922073/movie.293x165.jpg?t=1672035821",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2244200/523753/f55baa273667d23c8d0d310d100b224dce0b61c2/1751094629/dash_av1.mpd?t=1672035821",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2244200/523753/f55baa273667d23c8d0d310d100b224dce0b61c2/1751094629/dash_h264.mpd?t=1672035821",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2244200/523753/f55baa273667d23c8d0d310d100b224dce0b61c2/1751094629/hls_264_master.m3u8?t=1672035821",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 140
+      },
+      "achievements": {
+        "total": 86,
+        "highlighted": [
+          {
+            "name": "랜덤채팅의 세계속으로",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244200/b5981bd6b00e6015d56a9edcc0cb0a92ee0102e7.jpg"
+          },
+          {
+            "name": "이제 연애를 시작해볼까?",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244200/6789b806c60d80e8b8230539017affb9cd64a024.jpg"
+          },
+          {
+            "name": "이젠 돌이킬 수 없어",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244200/70cf87779bd621a8acd82588a29f326c9f76765d.jpg"
+          },
+          {
+            "name": "영원한 내 친구",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244200/7d883327d37fadb871477d98b366791f535aad3f.jpg"
+          },
+          {
+            "name": "백만 구독자의 꿈",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244200/fb6e785709252d7d7c9bdb61f7408287da6936ea.jpg"
+          },
+          {
+            "name": "감는 법을 잊어버렸어",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244200/cd79fe58ae90d06783faecbbe81f2d1e7e2776ea.jpg"
+          },
+          {
+            "name": "내가 드론이다",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244200/b9801e400e7e6f928acd3237aba4ad0717fe72eb.jpg"
+          },
+          {
+            "name": "두명 울프의 정체",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244200/57deedd697525bdb5fef269311a7d621606e7188.jpg"
+          },
+          {
+            "name": "청소 시작",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244200/d982fd85f180c5eddbceb7eb37ff4610f0150b1f.jpg"
+          },
+          {
+            "name": "슈퍼둘기맨",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2244200/56b0464b276645864d2df3331271620f43876f5e.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Mar 28, 2023"
+      },
+      "support_info": {
+        "url": "http://www.talesshop.com",
+        "email": "talesshop@naver.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2244200?t=1754374549",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244200/page_bg_raw.jpg?t=1754374549",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "kgrb": {
+          "rating": "18",
+          "descriptors": "청소년이용불가\r\nCC-NP-230223-007\r\n언어의부적절성",
+          "use_age_gate": "true",
+          "required_age": "18"
+        },
+        "dejus": {
+          "rating": "14",
+          "descriptors": "Linguagem imprópria\r\nConteúdo sexual",
+          "use_age_gate": "true",
+          "required_age": "14"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Sexuelle Andeutungen"
+        }
+      }
+    }
+  }
+}

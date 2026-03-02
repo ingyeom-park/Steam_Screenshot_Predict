@@ -1,0 +1,232 @@
+{
+  "1865680": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "瓔珞事件簿之誰殺了愛情",
+      "steam_appid": 1865680,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/extras/8f7c3096deb6f40abc02319d1aa7dacc.avif?t=1643602186\" width=547 height=123 /></span><br><br>繼小林正雪系列後, G社又一懸疑推理大作! <br><br>瓔珞事件簿系列遊戲是一系列以私人偵探拍擋瓔．珞為主角的推理解謎遊戲<br>你將會與兩位充滿火花的偵探, 一同破解一個又一個離奇案件!<br><br>擁有特殊能力的私人偵探瓔．珞, 碰上離奇的港口殺人案!<br>原以為是普通的情殺案, 但隨著二人的追查, 嫌疑犯竟然愈來愈多, <br>真正的兇手究竟是誰?動機又是為何?<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/extras/1662236d129534376ace19ec6b3bbc7c.avif?t=1643602186\" width=558 height=125 /></span><br><br>✒全劇情配音<br>遊戲所有劇情皆有粵語和國語配音！活生生的角色呈現在你眼前！<br><br>✒對決系統<br>隨著劇情推進，玩家需要和嫌疑人或重要角色進行一對一的對決。能不能成功指證犯人就得看你的推理能力了。<br><br>✒偷聽及細看系統<br>由於主角們擁有過人的聽力和視力， 因此在遊戲的對話過程中不時會出現偷聽及細看的圖示，有時能獲得關於案件以及密室的一些重要消息及線索!<br><br>✒夢幻聯動<br>小林正雪系列中的小林正雪和松田碧將在本作登埸!究竟這兩人會與主角們擦出什麼火花?請大家拭目以待!<br><br>✒豐富的支線任務<br>除了緊張刺激的主線劇情外，玩家們還可以在地圖點選不定時出現的支線任務，深入探索主角們所在的世界!",
+      "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/extras/8f7c3096deb6f40abc02319d1aa7dacc.avif?t=1643602186\" width=547 height=123 /></span><br><br>繼小林正雪系列後, G社又一懸疑推理大作! <br><br>瓔珞事件簿系列遊戲是一系列以私人偵探拍擋瓔．珞為主角的推理解謎遊戲<br>你將會與兩位充滿火花的偵探, 一同破解一個又一個離奇案件!<br><br>擁有特殊能力的私人偵探瓔．珞, 碰上離奇的港口殺人案!<br>原以為是普通的情殺案, 但隨著二人的追查, 嫌疑犯竟然愈來愈多, <br>真正的兇手究竟是誰?動機又是為何?<br><br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/extras/1662236d129534376ace19ec6b3bbc7c.avif?t=1643602186\" width=558 height=125 /></span><br><br>✒全劇情配音<br>遊戲所有劇情皆有粵語和國語配音！活生生的角色呈現在你眼前！<br><br>✒對決系統<br>隨著劇情推進，玩家需要和嫌疑人或重要角色進行一對一的對決。能不能成功指證犯人就得看你的推理能力了。<br><br>✒偷聽及細看系統<br>由於主角們擁有過人的聽力和視力， 因此在遊戲的對話過程中不時會出現偷聽及細看的圖示，有時能獲得關於案件以及密室的一些重要消息及線索!<br><br>✒夢幻聯動<br>小林正雪系列中的小林正雪和松田碧將在本作登埸!究竟這兩人會與主角們擦出什麼火花?請大家拭目以待!<br><br>✒豐富的支線任務<br>除了緊張刺激的主線劇情外，玩家們還可以在地圖點選不定時出現的支線任務，深入探索主角們所在的世界!",
+      "short_description": "瓔珞事件簿系列遊戲是一系列以私人偵探拍擋瓔．珞為主角的推理解謎遊戲 你將會與兩位充滿火花的偵探, 一同破解一個又一個離奇案件!",
+      "supported_languages": "Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/header.jpg?t=1643602186",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/capsule_231x87.jpg?t=1643602186",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/capsule_184x69.jpg?t=1643602186",
+      "website": "http://www.genuine-studio.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win7<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "傅真"
+      ],
+      "publishers": [
+        " Genuine Studio Ltd"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 499,
+        "final": 499,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$4.99"
+      },
+      "packages": [
+        671164
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy 瓔珞事件簿之誰殺了愛情",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 671164,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Who Kills Love - $4.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 499
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_2c7963724d94abb55ad942085a3a487df88be754.600x338.jpg?t=1643602186",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_2c7963724d94abb55ad942085a3a487df88be754.1920x1080.jpg?t=1643602186"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_34b99043c675f090bbe3767397729e5454cc976b.600x338.jpg?t=1643602186",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_34b99043c675f090bbe3767397729e5454cc976b.1920x1080.jpg?t=1643602186"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_483a857439fc92bf48638716ea1cf7f615cc1b81.600x338.jpg?t=1643602186",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_483a857439fc92bf48638716ea1cf7f615cc1b81.1920x1080.jpg?t=1643602186"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_841719f188cd447b8672f717a27488442d584a51.600x338.jpg?t=1643602186",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_841719f188cd447b8672f717a27488442d584a51.1920x1080.jpg?t=1643602186"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_f59e9fcc95c2c09caa3cf4371f26bc6b46941b23.600x338.jpg?t=1643602186",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_f59e9fcc95c2c09caa3cf4371f26bc6b46941b23.1920x1080.jpg?t=1643602186"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_1366d90d3b01ab305f700fbd82b5d8e25e1b4dc3.600x338.jpg?t=1643602186",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_1366d90d3b01ab305f700fbd82b5d8e25e1b4dc3.1920x1080.jpg?t=1643602186"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_482d65b6ca8a5fa5ccc402f42b8be3d48dcd0c7d.600x338.jpg?t=1643602186",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_482d65b6ca8a5fa5ccc402f42b8be3d48dcd0c7d.1920x1080.jpg?t=1643602186"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_9380c7c01871c6ea4788e9aa8d0cc13233f0ba1a.600x338.jpg?t=1643602186",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_9380c7c01871c6ea4788e9aa8d0cc13233f0ba1a.1920x1080.jpg?t=1643602186"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_0a2ae2d9c3711f54d17cb1deefc385f3f048bf31.600x338.jpg?t=1643602186",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/ss_0a2ae2d9c3711f54d17cb1deefc385f3f048bf31.1920x1080.jpg?t=1643602186"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256867513,
+          "name": "誰殺了愛情宣傳PV_簡體",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256867513/movie.293x165.jpg?t=1642126348",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1865680/428899/d62a3049397d97c02d37341cafabd6a53a7786cf/1751040143/dash_av1.mpd?t=1642126348",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1865680/428899/d62a3049397d97c02d37341cafabd6a53a7786cf/1751040143/dash_h264.mpd?t=1642126348",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1865680/428899/d62a3049397d97c02d37341cafabd6a53a7786cf/1751040143/hls_264_master.m3u8?t=1642126348",
+          "highlight": true
+        },
+        {
+          "id": 256867422,
+          "name": "誰殺了愛情宣傳PV",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256867422/movie.293x165.jpg?t=1642126354",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/1865680/428689/bf54c20fa74f04cbc1f3e2ea5ad70fd632d7653b/1751040143/dash_av1.mpd?t=1642126354",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/1865680/428689/bf54c20fa74f04cbc1f3e2ea5ad70fd632d7653b/1751040143/dash_h264.mpd?t=1642126354",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/1865680/428689/bf54c20fa74f04cbc1f3e2ea5ad70fd632d7653b/1751040143/hls_264_master.m3u8?t=1642126354",
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 10,
+        "highlighted": [
+          {
+            "name": "見習偵探",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1865680/9a9ffe48387083b99adc5bcf14804f4b3f547eba.jpg"
+          },
+          {
+            "name": "路見不平",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1865680/f73ddd95914007bd638732647a26be90c0eeb1c1.jpg"
+          },
+          {
+            "name": "冷血動物",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1865680/679bcc610a3c33033a5f6d5838a1f3d94b716432.jpg"
+          },
+          {
+            "name": "恥力全開",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1865680/21530fb85ad76f187944e8f155204781d164d608.jpg"
+          },
+          {
+            "name": "惡夢",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1865680/37718c3b388fbc85e6bdb3b1859ca1b5847d1e58.jpg"
+          },
+          {
+            "name": "女明星的憂鬱",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1865680/9d571c9682f62054685d2dcb50d7d41f002fd29e.jpg"
+          },
+          {
+            "name": "天下烏鴉一樣黑",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1865680/90514cf8cc359b48debfb03b8209c446933805d9.jpg"
+          },
+          {
+            "name": "誰殺了愛情",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1865680/0550984c2f4a31de068d70a6190e2a81741a38df.jpg"
+          },
+          {
+            "name": "全視之眼",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1865680/602275043e4b063c069477c205a16cd8bfd217b8.jpg"
+          },
+          {
+            "name": "傅真的愛",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1865680/cbfea309b4c3ed57f6075fe5b2fa6d93d4d14dbf.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jan 30, 2022"
+      },
+      "support_info": {
+        "url": "www,genuine-studio.com",
+        "email": "info@genuine-studio.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/1865680?t=1643602186",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1865680/page_bg_raw.jpg?t=1643602186",
+      "content_descriptors": {
+        "ids": [
+          1,
+          5
+        ],
+        "notes": "The game contains a small number of naked images, including the upper half of the male deceased naked, as well as a small number of sexy clothes for female characters."
+      },
+      "ratings": {
+        "csrr": {
+          "rating": "C12"
+        }
+      }
+    }
+  }
+}

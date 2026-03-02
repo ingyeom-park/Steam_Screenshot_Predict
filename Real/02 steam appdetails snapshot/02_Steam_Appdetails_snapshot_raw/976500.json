@@ -1,0 +1,254 @@
+{
+  "976500": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Venineth",
+      "steam_appid": 976500,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        1290840
+      ],
+      "detailed_description": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/extras/eefd98afd758a9291f8a91f918a9f839.avif?t=1762084527\" width=616 height=74 /></span><br><strong>Venineth</strong> is a single-player game focusing on unraveling the mysteries of ancient alien technology, somewhere in the universe via exploration, platforming, and puzzle-solving, in a dangerous, distant worlds.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/extras/dd1091b936a373b51183852189112ef1.avif?t=1762084527\" width=616 height=342 /></span><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>    Over 20 places to explore, including: planets, moons, gas giants, orbital stations, asteroids, and alien megastructures<br></li><li>    Non-linear planetary levels with difficult to find tracks amongst a labyrinth of rocks, canyons, toxic lakes, and rivers of lava<br></li><li>    Linear orbital levels, with challenging platforming sections containing gravity fields, force fields, and zero-g areas<br></li><li>    Physics-based puzzles with varied mechanics<br></li><li>    Original space-ambient music soundtrack</li></ul><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/extras/3c6ca231d4a0cbc00f8998653cb3bbb9.webp?t=1762084527\" width=616 height=40 /></span>",
+      "about_the_game": "<span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/extras/eefd98afd758a9291f8a91f918a9f839.avif?t=1762084527\" width=616 height=74 /></span><br><strong>Venineth</strong> is a single-player game focusing on unraveling the mysteries of ancient alien technology, somewhere in the universe via exploration, platforming, and puzzle-solving, in a dangerous, distant worlds.<br><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/extras/dd1091b936a373b51183852189112ef1.avif?t=1762084527\" width=616 height=342 /></span><h2 class=\"bb_tag\" >Features</h2><ul class=\"bb_ul\"><li>    Over 20 places to explore, including: planets, moons, gas giants, orbital stations, asteroids, and alien megastructures<br></li><li>    Non-linear planetary levels with difficult to find tracks amongst a labyrinth of rocks, canyons, toxic lakes, and rivers of lava<br></li><li>    Linear orbital levels, with challenging platforming sections containing gravity fields, force fields, and zero-g areas<br></li><li>    Physics-based puzzles with varied mechanics<br></li><li>    Original space-ambient music soundtrack</li></ul><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/extras/3c6ca231d4a0cbc00f8998653cb3bbb9.webp?t=1762084527\" width=616 height=40 /></span>",
+      "short_description": "Venineth is a single-player game focusing on unraveling the mysteries of ancient alien technology, somewhere in the universe via exploration, platforming, and puzzle-solving, in a dangerous, distant worlds.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Bulgarian, Traditional Chinese, Simplified Chinese, Czech, Danish, Finnish, Greek, Spanish - Latin America, Dutch, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Romanian, Swedish, Thai, Turkish, Ukrainian, Vietnamese, Hungarian",
+      "reviews": "“The worlds are expansive and jaw droppingly beautiful – so much so that you could freeze any frame from a playthrough and it’d look like a work of art.”<br>Alpha Beta Gamer<br><br>“The environments walk a stunning line between painterly and photoreal. Venineth looks to me, like the movies that played in my head as a kid when I first encountered Myst. It wordlessly poses countless questions. It resolves none of them. It provides no answers. The ending is, impressively, even more enigmatic than the dozen hours that came before it.”<br>Jacob Geller<br><br>“Venineth enchants with interesting views and a fantastic space-ambient soundtrack.”<br>7/10 – CD Action 07/2020<br>",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/header.jpg?t=1762084527",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/capsule_231x87.jpg?t=1762084527",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/capsule_184x69.jpg?t=1762084527",
+      "website": "http://venineth.blogspot.com/p/home.html",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS *:</strong> Windows 7/8/10 (64-bit OS required)<br></li><li><strong>Processor:</strong> Intel Core i5-2300 2.8 GHz (or AMD equivalent)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 760 (or AMD equivalent)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit OS required)<br></li><li><strong>Processor:</strong> Intel Core i5-4670K 3.40GHz (or AMD equivalent)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1060 (or AMD equivalent)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Sound Card:</strong> Any</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "developers": [
+        "Venineth Team",
+        "mort-art"
+      ],
+      "publishers": [
+        "mort-art"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        320672
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Venineth",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 320672,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Venineth - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "1",
+          "description": "Action"
+        },
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/ss_bb5b809919296b6a804f96d2cb4496b405292063.600x338.jpg?t=1762084527",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/ss_bb5b809919296b6a804f96d2cb4496b405292063.1920x1080.jpg?t=1762084527"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/ss_3e1aed8a7e660a6cbe325e30da3d12e2936aebff.600x338.jpg?t=1762084527",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/ss_3e1aed8a7e660a6cbe325e30da3d12e2936aebff.1920x1080.jpg?t=1762084527"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/ss_802564e5ee7ca9c8d7cd6cf821ec9d1dd9dd29a9.600x338.jpg?t=1762084527",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/ss_802564e5ee7ca9c8d7cd6cf821ec9d1dd9dd29a9.1920x1080.jpg?t=1762084527"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/ss_9260eb054c8aec73b8d93fbde9d5b60612db0972.600x338.jpg?t=1762084527",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/ss_9260eb054c8aec73b8d93fbde9d5b60612db0972.1920x1080.jpg?t=1762084527"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/ss_41d47d03aad825355b8ae2e21eeb15a76671f4f6.600x338.jpg?t=1762084527",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/ss_41d47d03aad825355b8ae2e21eeb15a76671f4f6.1920x1080.jpg?t=1762084527"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/ss_6e970ab8ff38a2d00d36cf9c4604abd2ffb6d357.600x338.jpg?t=1762084527",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/ss_6e970ab8ff38a2d00d36cf9c4604abd2ffb6d357.1920x1080.jpg?t=1762084527"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/ss_b2c8967e564394ed123b13365c4ce52f4bd1eb0d.600x338.jpg?t=1762084527",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976500/ss_b2c8967e564394ed123b13365c4ce52f4bd1eb0d.1920x1080.jpg?t=1762084527"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256780671,
+          "name": "Release Date Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256780671/movie.293x165.jpg?t=1586434831",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/976500/276654/a51425331ae3701bd596077c2b6de2c6b243336f/1751171142/dash_av1.mpd?t=1586434831",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/976500/276654/a51425331ae3701bd596077c2b6de2c6b243336f/1751171142/dash_h264.mpd?t=1586434831",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/976500/276654/a51425331ae3701bd596077c2b6de2c6b243336f/1751171142/hls_264_master.m3u8?t=1586434831",
+          "highlight": true
+        },
+        {
+          "id": 256734084,
+          "name": "Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256734084/movie.293x165.jpg?t=1586181956",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/976500/193690/9adcd42f6e7645fead20880e1e878fa8bc6256df/1751171140/dash_av1.mpd?t=1586181956",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/976500/193690/9adcd42f6e7645fead20880e1e878fa8bc6256df/1751171140/dash_h264.mpd?t=1586181956",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/976500/193690/9adcd42f6e7645fead20880e1e878fa8bc6256df/1751171140/hls_264_master.m3u8?t=1586181956",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 243
+      },
+      "achievements": {
+        "total": 32,
+        "highlighted": [
+          {
+            "name": "sign-o",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/976500/5a8bf0fa206e4a856bb97bb0d6971b7a427112e9.jpg"
+          },
+          {
+            "name": "capsula",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/976500/68db6277932741db182ec699746a3510229027ea.jpg"
+          },
+          {
+            "name": "vuud",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/976500/86c0701eab92a23bb2ddf686e904f621e3f18391.jpg"
+          },
+          {
+            "name": "shpaara",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/976500/7ef583bd4c4d46fe682d780e9a3fa95b3f6f186e.jpg"
+          },
+          {
+            "name": "kvadrat",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/976500/c01968a487f642a3670176fb636629030df28807.jpg"
+          },
+          {
+            "name": "labirynt",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/976500/de599dcca3baac00a48f42cd02e5662d3e5c9a1f.jpg"
+          },
+          {
+            "name": "volt",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/976500/cc57c5d01c34d82e33a375eea5c511874fa74a03.jpg"
+          },
+          {
+            "name": "raen",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/976500/9ac77a42c6aeeee14779cf2f844895887fbdf9f4.jpg"
+          },
+          {
+            "name": "iyng",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/976500/3483b46497119fd34664d40723e4af27b57a7bce.jpg"
+          },
+          {
+            "name": "magne b4",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/976500/22f8d2adb8a26cbdfb1cc9e0148a1ba8c6e930c6.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Apr 16, 2020"
+      },
+      "support_info": {
+        "url": "",
+        "email": "venineth@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/976500?t=1762084527",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/976500?t=1762084527",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating": "l"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

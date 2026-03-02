@@ -1,0 +1,160 @@
+{
+  "2330960": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "SMOKY WHITE",
+      "steam_appid": 2330960,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        3412930
+      ],
+      "detailed_description": "<p class=\"bb_paragraph\" >雪の降る冬の屋上で、 </p><p class=\"bb_paragraph\" >不思議な雰囲気の先輩と出会って別れる </p><p class=\"bb_paragraph\" >短編ノベルゲームです。 </p><p class=\"bb_paragraph\" >会話中の選択によって結末が分岐します。 </p><p class=\"bb_paragraph\" > </p><h2 class=\"bb_tag\" >作品詳細</h2><p class=\"bb_paragraph\" >タイトル:SMOKY WHITE </p><p class=\"bb_paragraph\" >ジャンル:ノベルゲーム </p><p class=\"bb_paragraph\" >制作:たにからきぬまで </p><p class=\"bb_paragraph\" >制作ツール:ティラノビルダー </p><p class=\"bb_paragraph\" >CG枚数:14枚(差分なし) </p><p class=\"bb_paragraph\" >画面サイズ:960*640 </p><p class=\"bb_paragraph\" >プレイ時間:フルコンプリートで1時間半程度を想定 </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >ゲーム配信について</h2><p class=\"bb_paragraph\" >基本的には歓迎いたしますが、 </p><p class=\"bb_paragraph\" ><strong>「3月第4週のスチルをサムネイルに使用すること」は避けてください。</strong> </p><p class=\"bb_paragraph\" >このスチルは先輩との交流の上で見ていただきたいものですので、 </p><p class=\"bb_paragraph\" >そこまでの積み重ねを経ていない方の目に入るのを避けるためです。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >注意事項 </h2><p class=\"bb_paragraph\" >・各言語版はそれぞれ独立しており、 セーブデータから再開する際はセーブ時の言語で再開されます。 </p><p class=\"bb_paragraph\" >・ヒント 攻略のヒントとなるメモをゲームフォルダ内に入れてあります。 （メモに内容の具体的なネタバレはありません）</p><p class=\"bb_paragraph\" >STEAM設定→ストレージ→フォルダを表示　でダウンロード先のフォルダに入れます</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Credits</h2><p class=\"bb_paragraph\" >Direction/Character Illustrations</p><p class=\"bb_paragraph\" >Some Background Illustrations/User Interface</p><p class=\"bb_paragraph\" >Kinutani Yutaka</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Story/Script</p><p class=\"bb_paragraph\" >Taniori Itsuki</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Rooftop/Sky  Background Illustrations</p><p class=\"bb_paragraph\" >Omochi</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Music</p><p class=\"bb_paragraph\" >MaouDamashii</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Chinese Localization</p><p class=\"bb_paragraph\" >flankoi</p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >雪の降る冬の屋上で、 </p><p class=\"bb_paragraph\" >不思議な雰囲気の先輩と出会って別れる </p><p class=\"bb_paragraph\" >短編ノベルゲームです。 </p><p class=\"bb_paragraph\" >会話中の選択によって結末が分岐します。 </p><p class=\"bb_paragraph\" > </p><h2 class=\"bb_tag\" >作品詳細</h2><p class=\"bb_paragraph\" >タイトル:SMOKY WHITE </p><p class=\"bb_paragraph\" >ジャンル:ノベルゲーム </p><p class=\"bb_paragraph\" >制作:たにからきぬまで </p><p class=\"bb_paragraph\" >制作ツール:ティラノビルダー </p><p class=\"bb_paragraph\" >CG枚数:14枚(差分なし) </p><p class=\"bb_paragraph\" >画面サイズ:960*640 </p><p class=\"bb_paragraph\" >プレイ時間:フルコンプリートで1時間半程度を想定 </p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >ゲーム配信について</h2><p class=\"bb_paragraph\" >基本的には歓迎いたしますが、 </p><p class=\"bb_paragraph\" ><strong>「3月第4週のスチルをサムネイルに使用すること」は避けてください。</strong> </p><p class=\"bb_paragraph\" >このスチルは先輩との交流の上で見ていただきたいものですので、 </p><p class=\"bb_paragraph\" >そこまでの積み重ねを経ていない方の目に入るのを避けるためです。</p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >注意事項 </h2><p class=\"bb_paragraph\" >・各言語版はそれぞれ独立しており、 セーブデータから再開する際はセーブ時の言語で再開されます。 </p><p class=\"bb_paragraph\" >・ヒント 攻略のヒントとなるメモをゲームフォルダ内に入れてあります。 （メモに内容の具体的なネタバレはありません）</p><p class=\"bb_paragraph\" >STEAM設定→ストレージ→フォルダを表示　でダウンロード先のフォルダに入れます</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ></p><h2 class=\"bb_tag\" >Credits</h2><p class=\"bb_paragraph\" >Direction/Character Illustrations</p><p class=\"bb_paragraph\" >Some Background Illustrations/User Interface</p><p class=\"bb_paragraph\" >Kinutani Yutaka</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Story/Script</p><p class=\"bb_paragraph\" >Taniori Itsuki</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Rooftop/Sky  Background Illustrations</p><p class=\"bb_paragraph\" >Omochi</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Music</p><p class=\"bb_paragraph\" >MaouDamashii</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >Chinese Localization</p><p class=\"bb_paragraph\" >flankoi</p>",
+      "short_description": "雪の降る冬の屋上で、 不思議な雰囲気の先輩と出会って別れる短編ノベルゲームです。 会話中の選択によって結末が分岐します。",
+      "supported_languages": "Simplified Chinese, Japanese, Traditional Chinese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330960/header.jpg?t=1735272740",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330960/d57a5718c27d8776d7d77b190ac294bb58f90dce/capsule_231x87.jpg?t=1735272740",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330960/d57a5718c27d8776d7d77b190ac294bb58f90dce/capsule_184x69.jpg?t=1735272740",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows10</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "legal_notice": "ⒸKinutani Yutaka<br />\r\nPublished by Tanikara Kinumade",
+      "developers": [
+        "たにからきぬまで"
+      ],
+      "publishers": [
+        "たにからきぬまで"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 699,
+        "final": 699,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$6.99"
+      },
+      "packages": [
+        837195
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy SMOKY WHITE",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 837195,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "SMOKY WHITE - $6.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 699
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330960/ss_9dee49b652fdccfe07b5ddd27c2bd4ac0b790e48.600x338.jpg?t=1735272740",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330960/ss_9dee49b652fdccfe07b5ddd27c2bd4ac0b790e48.1920x1080.jpg?t=1735272740"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330960/ss_6058408315efbf858878936bba5b765decb2abb7.600x338.jpg?t=1735272740",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330960/ss_6058408315efbf858878936bba5b765decb2abb7.1920x1080.jpg?t=1735272740"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330960/ss_4653dfb7edc7f3a3ce4e395f80cc3a7d6fd644e8.600x338.jpg?t=1735272740",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330960/ss_4653dfb7edc7f3a3ce4e395f80cc3a7d6fd644e8.1920x1080.jpg?t=1735272740"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330960/ss_fca660c5f4bc47961f8d336994ee1c80010c80cd.600x338.jpg?t=1735272740",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330960/ss_fca660c5f4bc47961f8d336994ee1c80010c80cd.1920x1080.jpg?t=1735272740"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330960/ss_8cf314e9da7247946c90aeff59f332e5a4d25e5d.600x338.jpg?t=1735272740",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330960/ss_8cf314e9da7247946c90aeff59f332e5a4d25e5d.1920x1080.jpg?t=1735272740"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257081786,
+          "name": "pv",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257081786/632fe877622c32cf3b65b5c39ddfc67875129066/movie_600x337.jpg?t=1734075278",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2330960/799566/46d885f635295e67a7660a8c8da3bf54505b4354/1750907469/dash_av1.mpd?t=1734075278",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2330960/799566/46d885f635295e67a7660a8c8da3bf54505b4354/1750907469/dash_h264.mpd?t=1734075278",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2330960/799566/46d885f635295e67a7660a8c8da3bf54505b4354/1750907469/hls_264_master.m3u8?t=1734075278",
+          "highlight": true
+        }
+      ],
+      "release_date": {
+        "coming_soon": false,
+        "date": "Dec 25, 2024"
+      },
+      "support_info": {
+        "url": "https://www.kinutaniyutaka.com/",
+        "email": "tanikarakinumade@gmail.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2330960?t=1735272740",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330960/page_bg_raw.jpg?t=1735272740",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Drogas lícitas"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "12",
+          "required_age": "12",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Alkohol / Tabak"
+        }
+      }
+    }
+  }
+}

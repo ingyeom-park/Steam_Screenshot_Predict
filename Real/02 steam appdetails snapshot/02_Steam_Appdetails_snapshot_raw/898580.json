@@ -1,0 +1,304 @@
+{
+  "898580": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Premium Bowling",
+      "steam_appid": 898580,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        4159370,
+        3484900
+      ],
+      "detailed_description": "<p class=\"bb_paragraph\" >Premium Bowling is as close to real bowling as you'll get without picking up a physical bowling ball. Start the game and play like you're in a real bowling alley. Experience the realism in every throw, every hit, and every strike!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/d1f22c2b3b4251a66be932cd38f209b8.poster.avif?t=1769771701\" width=620 height=348 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/d1f22c2b3b4251a66be932cd38f209b8.webm?t=1769771701\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/d1f22c2b3b4251a66be932cd38f209b8.mp4?t=1769771701\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >🎳 <strong>Multiplayer Fun: </strong>Pass the headset locally or bowl online with players worldwide. Speak and compete as if you were side-by-side in the alley!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/305d8129efb764971c04dc28e6d73479.poster.avif?t=1769771701\" width=620 height=348 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/305d8129efb764971c04dc28e6d73479.webm?t=1769771701\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/305d8129efb764971c04dc28e6d73479.mp4?t=1769771701\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >🏆 <strong>Competitive Play:</strong> Take on live tournaments, weekly leagues and challenging ranking oil patterns that change each week. Aim for the top spot in global player rankings!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/b70eee1f5868b41db93bbe23802052e2.poster.avif?t=1769771701\" width=620 height=348 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/b70eee1f5868b41db93bbe23802052e2.webm?t=1769771701\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/b70eee1f5868b41db93bbe23802052e2.mp4?t=1769771701\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >🎬 <strong>Video Player:</strong> stream music and videos to lane display or big screen inside the bowling alley</p><p class=\"bb_paragraph\" >👊 <strong>Teams:</strong> Start a team with your friends to get a private meeting space and compete with other teams</p><p class=\"bb_paragraph\" >🎨 <strong>Custom Balls:</strong> Create your own ball within the game!</p><p class=\"bb_paragraph\" >🛢️ <strong>Advanced Oil Simulation:</strong> Oil patterns wear out during game</p><p class=\"bb_paragraph\" >ᯅ🖥️  Play in VR or with monitor</p>",
+      "about_the_game": "<p class=\"bb_paragraph\" >Premium Bowling is as close to real bowling as you'll get without picking up a physical bowling ball. Start the game and play like you're in a real bowling alley. Experience the realism in every throw, every hit, and every strike!</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/d1f22c2b3b4251a66be932cd38f209b8.poster.avif?t=1769771701\" width=620 height=348 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/d1f22c2b3b4251a66be932cd38f209b8.webm?t=1769771701\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/d1f22c2b3b4251a66be932cd38f209b8.mp4?t=1769771701\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >🎳 <strong>Multiplayer Fun: </strong>Pass the headset locally or bowl online with players worldwide. Speak and compete as if you were side-by-side in the alley!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/305d8129efb764971c04dc28e6d73479.poster.avif?t=1769771701\" width=620 height=348 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/305d8129efb764971c04dc28e6d73479.webm?t=1769771701\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/305d8129efb764971c04dc28e6d73479.mp4?t=1769771701\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" >🏆 <strong>Competitive Play:</strong> Take on live tournaments, weekly leagues and challenging ranking oil patterns that change each week. Aim for the top spot in global player rankings!</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/b70eee1f5868b41db93bbe23802052e2.poster.avif?t=1769771701\" width=620 height=348 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/b70eee1f5868b41db93bbe23802052e2.webm?t=1769771701\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/extras/b70eee1f5868b41db93bbe23802052e2.mp4?t=1769771701\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" >🎬 <strong>Video Player:</strong> stream music and videos to lane display or big screen inside the bowling alley</p><p class=\"bb_paragraph\" >👊 <strong>Teams:</strong> Start a team with your friends to get a private meeting space and compete with other teams</p><p class=\"bb_paragraph\" >🎨 <strong>Custom Balls:</strong> Create your own ball within the game!</p><p class=\"bb_paragraph\" >🛢️ <strong>Advanced Oil Simulation:</strong> Oil patterns wear out during game</p><p class=\"bb_paragraph\" >ᯅ🖥️  Play in VR or with monitor</p>",
+      "short_description": "Premium Bowling is as close to real bowling as you'll get without picking up a physical bowling ball. Start the game and play like you're in a real bowling alley. Experience the realism in every throw, every hit, and every strike!",
+      "supported_languages": "English<strong>*</strong>, Finnish, Spanish - Spain, German, French, Portuguese - Brazil, Japanese, Korean, Traditional Chinese, Italian, Polish, Swedish<br><strong>*</strong>languages with full audio support",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/e545fc6b76e8e3b04543471607ed9191b2f59b84/header.jpg?t=1769771701",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/426c6a69cf4e7d69642d00e7f3be4caadada5f92/capsule_231x87.jpg?t=1769771701",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/426c6a69cf4e7d69642d00e7f3be4caadada5f92/capsule_184x69.jpg?t=1769771701",
+      "website": "https://www.premiumbowling.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 or newer<br></li><li><strong>Processor:</strong> Intel i5 2013 or later<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce 840M<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>VR Support:</strong> SteamVR or Oculus PC. Standing or Room Scale</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 11<br></li><li><strong>Processor:</strong> Intel i5 2016 or later<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 970<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Additional Notes:</strong> VR setup as recommended by device vendor</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MacOS 10.12<br></li><li><strong>Processor:</strong> Intel i5 2013 or later<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel Iris Graphics 5100<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Additional Notes:</strong> Runs on late 2013 Macbook Pro Retina with medium settings. No VR support in Mac.</li></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> MacOS 10.13<br></li><li><strong>Processor:</strong> Intel i5 2016 or later<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel Iris Graphics 6100<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "linux_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"></ul>",
+        "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"></ul>"
+      },
+      "legal_notice": "Copyright 2025 Sadetta Oy. All Rights Reserved.",
+      "developers": [
+        "Sadetta"
+      ],
+      "publishers": [
+        "Sadetta"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 1999,
+        "final": 1999,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$19.99"
+      },
+      "packages": [
+        287399,
+        335992
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Premium Bowling",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 287399,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Premium Bowling - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            },
+            {
+              "packageid": 335992,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Premium Bowling - Commercial License - $19.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 1999
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 1,
+          "description": "Multi-player"
+        },
+        {
+          "id": 49,
+          "description": "PvP"
+        },
+        {
+          "id": 36,
+          "description": "Online PvP"
+        },
+        {
+          "id": 37,
+          "description": "Shared/Split Screen PvP"
+        },
+        {
+          "id": 27,
+          "description": "Cross-Platform Multiplayer"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 52,
+          "description": "Tracked Controller Support"
+        },
+        {
+          "id": 53,
+          "description": "VR Supported"
+        },
+        {
+          "id": 18,
+          "description": "Partial Controller Support"
+        },
+        {
+          "id": 14,
+          "description": "Commentary available"
+        },
+        {
+          "id": 44,
+          "description": "Remote Play Together"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        },
+        {
+          "id": "18",
+          "description": "Sports"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/9aedc8adf43e6024489b32d11627ec9f6a79539c/ss_9aedc8adf43e6024489b32d11627ec9f6a79539c.600x338.jpg?t=1769771701",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/9aedc8adf43e6024489b32d11627ec9f6a79539c/ss_9aedc8adf43e6024489b32d11627ec9f6a79539c.1920x1080.jpg?t=1769771701"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/a443983888b2ae24afa66b662d29cf7e073497a7/ss_a443983888b2ae24afa66b662d29cf7e073497a7.600x338.jpg?t=1769771701",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/a443983888b2ae24afa66b662d29cf7e073497a7/ss_a443983888b2ae24afa66b662d29cf7e073497a7.1920x1080.jpg?t=1769771701"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/ss_c6f9b3e270e047cc181599e84082bcd07b9eedbb.600x338.jpg?t=1769771701",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/ss_c6f9b3e270e047cc181599e84082bcd07b9eedbb.1920x1080.jpg?t=1769771701"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/6177973fe8dc67581aa63d649772453a9df9eb43/ss_6177973fe8dc67581aa63d649772453a9df9eb43.600x338.jpg?t=1769771701",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/6177973fe8dc67581aa63d649772453a9df9eb43/ss_6177973fe8dc67581aa63d649772453a9df9eb43.1920x1080.jpg?t=1769771701"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/ss_bf2a26cac717af7bba04778040f0fbba87cf3dc6.600x338.jpg?t=1769771701",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/ss_bf2a26cac717af7bba04778040f0fbba87cf3dc6.1920x1080.jpg?t=1769771701"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/ss_9da035e86b05e399c6f92f4a6b99019d3c894030.600x338.jpg?t=1769771701",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/ss_9da035e86b05e399c6f92f4a6b99019d3c894030.1920x1080.jpg?t=1769771701"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/aeefc8f67f4ac9f6e17f61fee5530ea77df27edd/ss_aeefc8f67f4ac9f6e17f61fee5530ea77df27edd.600x338.jpg?t=1769771701",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/aeefc8f67f4ac9f6e17f61fee5530ea77df27edd/ss_aeefc8f67f4ac9f6e17f61fee5530ea77df27edd.1920x1080.jpg?t=1769771701"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/ss_d40acb6263c7e0cecd69cff2aec5ab715caa61dc.600x338.jpg?t=1769771701",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/ss_d40acb6263c7e0cecd69cff2aec5ab715caa61dc.1920x1080.jpg?t=1769771701"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/ss_69b06208322a27a64f5759eefceb6e83485a2e78.600x338.jpg?t=1769771701",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/ss_69b06208322a27a64f5759eefceb6e83485a2e78.1920x1080.jpg?t=1769771701"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/367b080bafc94f9a5c7ac5d8a04e44f5f2d170b0/ss_367b080bafc94f9a5c7ac5d8a04e44f5f2d170b0.600x338.jpg?t=1769771701",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/367b080bafc94f9a5c7ac5d8a04e44f5f2d170b0/ss_367b080bafc94f9a5c7ac5d8a04e44f5f2d170b0.1920x1080.jpg?t=1769771701"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257276084,
+          "name": "Premium Bowling 1.31 Trailer",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257276084/cb157efa7f1618cc8ad07ac46bef000d36bb1b7d/movie_600x337.jpg?t=1769771699",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/898580/354179816/167a776f4878731e98801ada3f77c11dd2704664/1769770966/dash_av1.mpd?t=1769771699",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/898580/354179816/167a776f4878731e98801ada3f77c11dd2704664/1769770966/dash_h264.mpd?t=1769771699",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/898580/354179816/167a776f4878731e98801ada3f77c11dd2704664/1769770966/hls_264_master.m3u8?t=1769771699",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 453
+      },
+      "achievements": {
+        "total": 99,
+        "highlighted": [
+          {
+            "name": "Best Game 100",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898580/1fe9622b060939eda79c1c7b0b6b8b08bddbbd02.jpg"
+          },
+          {
+            "name": "Best Game 120",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898580/890459e780117c5cf0b0967b4acba82e965d4b23.jpg"
+          },
+          {
+            "name": "Best Game 150",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898580/5b331fa302390eb41f04f90688c47c3faec0304b.jpg"
+          },
+          {
+            "name": "Best Game 180",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898580/4c5f0ff5f3503f06ab5ce6cd009d693a2faa96db.jpg"
+          },
+          {
+            "name": "Best Game 200",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898580/684a9c4c8a60bd98ec1a7b890873afa9bc4d5c16.jpg"
+          },
+          {
+            "name": "Best Game 220",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898580/4f7f58cd8595c84678993505f3b832978b8f89d8.jpg"
+          },
+          {
+            "name": "Best Game 250",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898580/909c1198fbe934c4c71d5849f1f8c1b6e5a6ffd6.jpg"
+          },
+          {
+            "name": "Best Game 270",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898580/90076e8b464e8dd3725be7af3297b3af593b52da.jpg"
+          },
+          {
+            "name": "Best Game 280",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898580/c57c82f33d2564b2aa215cd5e6f5a817669ac168.jpg"
+          },
+          {
+            "name": "Best Game 290",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/898580/a502f55799cc61857a4e49f519fae817efd36b26.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Oct 18, 2019"
+      },
+      "support_info": {
+        "url": "https://www.premiumbowling.com",
+        "email": "support@sadetta.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/898580?t=1769771701",
+      "background_raw": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898580/page_bg_raw.jpg?t=1769771701",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

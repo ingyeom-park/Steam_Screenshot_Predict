@@ -1,0 +1,215 @@
+{
+  "892550": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Beauty and the Beast: Hidden Objects",
+      "steam_appid": 892550,
+      "required_age": 0,
+      "is_free": false,
+      "detailed_description": "<h2 class=\"bb_tag\" >🌹 ABOUT THIS GAME</h2><p class=\"bb_paragraph\" >Step into the magical world of Beauty and the Beast, the beloved fairy tale brought to life as a captivating Hidden Object adventure. Explore richly detailed scenes, search for hidden clues, and help Belle uncover the mysteries of the enchanted castle.</p><p class=\"bb_paragraph\" >Perfect for casual players, fairy tale fans, and families alike.</p><h2 class=\"bb_tag\" >🔍 GAMEPLAY FEATURES</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Immersive 360° panoramas</strong> and beautiful 3D visual effects</p></li><li><p class=\"bb_paragraph\" ><strong>Gorgeous interiors</strong> packed with interactive elements and secrets</p></li><li><p class=\"bb_paragraph\" ><strong>Replayable levels</strong> with two different item sets per scene</p></li><li><p class=\"bb_paragraph\" ><strong>Score-based mode</strong> for players who love a competitive challenge</p></li><li><p class=\"bb_paragraph\" ><strong>Relaxed or competitive playstyles</strong> supported</p></li></ul><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892550/extras/100cd39795120a0852f82c4a854a9f13.avif?t=1756412785\" width=600 height=292 /></span>📖 THE STORY</h2><p class=\"bb_paragraph\" >In a distant kingdom, a proud young prince is cursed by a powerful witch and turned into a beast. His once-vibrant castle is left in decay, and his heart grows cold. Years later, Belle, a kind-hearted girl, stumbles upon the forgotten castle and meets the beast face to face.</p><p class=\"bb_paragraph\" >Through courage, kindness, and love, she begins to unravel the curse and discover the man hidden within the monster.</p>",
+      "about_the_game": "<h2 class=\"bb_tag\" >🌹 ABOUT THIS GAME</h2><p class=\"bb_paragraph\" >Step into the magical world of Beauty and the Beast, the beloved fairy tale brought to life as a captivating Hidden Object adventure. Explore richly detailed scenes, search for hidden clues, and help Belle uncover the mysteries of the enchanted castle.</p><p class=\"bb_paragraph\" >Perfect for casual players, fairy tale fans, and families alike.</p><h2 class=\"bb_tag\" >🔍 GAMEPLAY FEATURES</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Immersive 360° panoramas</strong> and beautiful 3D visual effects</p></li><li><p class=\"bb_paragraph\" ><strong>Gorgeous interiors</strong> packed with interactive elements and secrets</p></li><li><p class=\"bb_paragraph\" ><strong>Replayable levels</strong> with two different item sets per scene</p></li><li><p class=\"bb_paragraph\" ><strong>Score-based mode</strong> for players who love a competitive challenge</p></li><li><p class=\"bb_paragraph\" ><strong>Relaxed or competitive playstyles</strong> supported</p></li></ul><h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><img class=\"bb_img\" src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892550/extras/100cd39795120a0852f82c4a854a9f13.avif?t=1756412785\" width=600 height=292 /></span>📖 THE STORY</h2><p class=\"bb_paragraph\" >In a distant kingdom, a proud young prince is cursed by a powerful witch and turned into a beast. His once-vibrant castle is left in decay, and his heart grows cold. Years later, Belle, a kind-hearted girl, stumbles upon the forgotten castle and meets the beast face to face.</p><p class=\"bb_paragraph\" >Through courage, kindness, and love, she begins to unravel the curse and discover the man hidden within the monster.</p>",
+      "short_description": "Step into the magical world of Beauty and the Beast! Explore stunning scenes and richly animated environments in this classic Hidden Object adventure. Help Belle overcome every challenge and discover the true power of love.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Portuguese - Brazil, Traditional Chinese, Simplified Chinese, Korean, Dutch, Polish, Portuguese - Portugal, Russian, Turkish, Ukrainian, Czech, Japanese",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892550/header.jpg?t=1756412785",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892550/capsule_231x87.jpg?t=1756412785",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892550/capsule_184x69.jpg?t=1756412785",
+      "website": "http://crispapp.com",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows XP SP2+, Vista, Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> 1,5 GHz or more<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 128 MB<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+      },
+      "mac_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> OS X 10.8/10.9/10.10/10.11/10.12/10.13<br></li><li><strong>Processor:</strong> 1.6 GHz<br></li><li><strong>Memory:</strong> 1 GB RAM<br></li><li><strong>Graphics:</strong> 128 MB<br></li><li><strong>Storage:</strong> 450 MB available space</li></ul>"
+      },
+      "linux_requirements": [],
+      "legal_notice": "Copyright © 2018 CrispApp Studio",
+      "developers": [
+        "Crisp App Studio"
+      ],
+      "publishers": [
+        "Crisp App Studio"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 799,
+        "final": 799,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$7.99"
+      },
+      "packages": [
+        298354,
+        284846
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Beauty and the Beast: Hidden Objects",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 298354,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Beauty and the Beast - Commercial License - $2.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 299
+            },
+            {
+              "packageid": 284846,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Beauty and the Beast - $7.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 799
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 29,
+          "description": "Steam Trading Cards"
+        },
+        {
+          "id": 25,
+          "description": "Steam Leaderboards"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "25",
+          "description": "Adventure"
+        },
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892550/ss_bfbd5801747df2aabf066edd63a5d2bf26639e8c.600x338.jpg?t=1756412785",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892550/ss_bfbd5801747df2aabf066edd63a5d2bf26639e8c.1920x1080.jpg?t=1756412785"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892550/ss_e5fdabde4b404b1f091292256a0a59b6ad199e06.600x338.jpg?t=1756412785",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892550/ss_e5fdabde4b404b1f091292256a0a59b6ad199e06.1920x1080.jpg?t=1756412785"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892550/ss_5e399fac16ca1871dabcd37405aa47040d4e0e8c.600x338.jpg?t=1756412785",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892550/ss_5e399fac16ca1871dabcd37405aa47040d4e0e8c.1920x1080.jpg?t=1756412785"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892550/ss_e5535690b731a000a33c11db9d6e8279d6ed7fd3.600x338.jpg?t=1756412785",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892550/ss_e5535690b731a000a33c11db9d6e8279d6ed7fd3.1920x1080.jpg?t=1756412785"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892550/ss_37785bd457b57e09ed5a770c80ddd39528e45904.600x338.jpg?t=1756412785",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892550/ss_37785bd457b57e09ed5a770c80ddd39528e45904.1920x1080.jpg?t=1756412785"
+        }
+      ],
+      "movies": [
+        {
+          "id": 256721989,
+          "name": "Beauty fin",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256721989/movie.293x165.jpg?t=1530869099",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/892550/171911/a41fc171785041d4fc3f09c5fd1d13f2317cca89/1751159395/dash_av1.mpd?t=1530869099",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/892550/171911/a41fc171785041d4fc3f09c5fd1d13f2317cca89/1751159395/dash_h264.mpd?t=1530869099",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/892550/171911/a41fc171785041d4fc3f09c5fd1d13f2317cca89/1751159395/hls_264_master.m3u8?t=1530869099",
+          "highlight": true
+        }
+      ],
+      "achievements": {
+        "total": 5,
+        "highlighted": [
+          {
+            "name": "Fairy tale begins",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/892550/d4a65bbe10394929ebdb771a0a0a3a442d2e249a.jpg"
+          },
+          {
+            "name": "Wedding",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/892550/159755247dd6bd88b47fa69f9b4de88fa9b20759.jpg"
+          },
+          {
+            "name": "Beautiful!",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/892550/948c460ff516e40b5de4dfbe62b4691acef00370.jpg"
+          },
+          {
+            "name": "Gentle",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/892550/352aae50ee19dc1e92f4193bd04d75267ee0e7f9.jpg"
+          },
+          {
+            "name": "Investigator",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/892550/08d23d77d6947f3adde4e921e3a46ef1532afd60.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Aug 7, 2018"
+      },
+      "support_info": {
+        "url": "http://facebook/CrispApp",
+        "email": "support@crispapp.com"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/892550?t=1756412785",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/892550?t=1756412785",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "0",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": ""
+        }
+      }
+    }
+  }
+}

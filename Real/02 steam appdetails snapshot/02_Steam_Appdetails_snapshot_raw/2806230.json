@@ -1,0 +1,264 @@
+{
+  "2806230": {
+    "success": true,
+    "data": {
+      "type": "game",
+      "name": "Gaming Cafe Life",
+      "steam_appid": 2806230,
+      "required_age": 0,
+      "is_free": false,
+      "dlc": [
+        3077450
+      ],
+      "detailed_description": "Embark on an epic journey to become a successful gaming cafe owner, with the help of the charismatic Mayor Egas and his tech-savvy grandson, Ray! Transform your cafe from the very humble beginnings into a thriving hub for gamers!<br />\r\n<br />\r\nFeatures: <br />\r\n♦ Build It Up: Craft custom gaming setups including PCs, consoles, VR experiences, and even classic arcade cabinets to cater to every gamer's preference ️🖥<br />\r\n♦ Gear Up, Ride Out: Build and customize your own motorcycle for a touch of personal style🛵<br />\r\n♦ A Welcoming Hub: Attract a diverse cast of characters to your cafe, from seasoned pros to enthusiastic newbies 👪<br />\r\n♦ Fuel the Fun: Keep your customers happy with a delicious selection of food and drinks 🍜<br />\r\n♦ Grow Your Empire: Earn profits to expand your cafe, unlock new features, and become the ultimate gaming destination 💰<br />\r\n♦ Express Yourself: Personalize your cafe's decor to create the perfect gaming atmosphere 🎀<br />\r\n♦ Home Sweet Home: Design your own home to reflect your unique personality 🏡<br />\r\n♦ Intuitive Gameplay: Simple first-person mechanics with surprising twists and turns 💥<br />\r\n♦ Unravel the Story: Follow the engaging storyline and unlock exciting rewards along the way 😱<br />\r\n♦ Forge Friendships: Deepen your relationships with the game's characters through unique quests <br />\r\n♦ Sharpen Your Skills: Upgrade your skills and tools for a smoother gameplay experience 📈<br />\r\n♦ Explore and Discover: Uncover the secrets of the bustling town 🏙<br />\r\n♦ Exciting Minigames: Play the special minigames to get wonderful items 🃏<br />\r\n♦ Offline Fun: Enjoy the game anytime, anywhere, with no internet connection required 👏",
+      "about_the_game": "Embark on an epic journey to become a successful gaming cafe owner, with the help of the charismatic Mayor Egas and his tech-savvy grandson, Ray! Transform your cafe from the very humble beginnings into a thriving hub for gamers!<br />\r\n<br />\r\nFeatures: <br />\r\n♦ Build It Up: Craft custom gaming setups including PCs, consoles, VR experiences, and even classic arcade cabinets to cater to every gamer's preference ️🖥<br />\r\n♦ Gear Up, Ride Out: Build and customize your own motorcycle for a touch of personal style🛵<br />\r\n♦ A Welcoming Hub: Attract a diverse cast of characters to your cafe, from seasoned pros to enthusiastic newbies 👪<br />\r\n♦ Fuel the Fun: Keep your customers happy with a delicious selection of food and drinks 🍜<br />\r\n♦ Grow Your Empire: Earn profits to expand your cafe, unlock new features, and become the ultimate gaming destination 💰<br />\r\n♦ Express Yourself: Personalize your cafe's decor to create the perfect gaming atmosphere 🎀<br />\r\n♦ Home Sweet Home: Design your own home to reflect your unique personality 🏡<br />\r\n♦ Intuitive Gameplay: Simple first-person mechanics with surprising twists and turns 💥<br />\r\n♦ Unravel the Story: Follow the engaging storyline and unlock exciting rewards along the way 😱<br />\r\n♦ Forge Friendships: Deepen your relationships with the game's characters through unique quests <br />\r\n♦ Sharpen Your Skills: Upgrade your skills and tools for a smoother gameplay experience 📈<br />\r\n♦ Explore and Discover: Uncover the secrets of the bustling town 🏙<br />\r\n♦ Exciting Minigames: Play the special minigames to get wonderful items 🃏<br />\r\n♦ Offline Fun: Enjoy the game anytime, anywhere, with no internet connection required 👏",
+      "short_description": "Manage your very own gaming cafe!",
+      "supported_languages": "English, Indonesian",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/header.jpg?t=1756978537",
+      "capsule_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/capsule_231x87.jpg?t=1756978537",
+      "capsule_imagev5": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/capsule_184x69.jpg?t=1756978537",
+      "website": null,
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7 (SP1+), Windows 10 and Windows 11<br></li><li><strong>Processor:</strong> x86, x64 architecture with SSE2 instruction set support<br></li><li><strong>Graphics:</strong> DX10, DX11, DX12 capable<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+      },
+      "mac_requirements": [],
+      "linux_requirements": [],
+      "developers": [
+        "Akhir Pekan Studio"
+      ],
+      "publishers": [
+        "Akhir Pekan Studio"
+      ],
+      "price_overview": {
+        "currency": "USD",
+        "initial": 599,
+        "final": 599,
+        "discount_percent": 0,
+        "initial_formatted": "",
+        "final_formatted": "$5.99"
+      },
+      "packages": [
+        1002160
+      ],
+      "package_groups": [
+        {
+          "name": "default",
+          "title": "Buy Gaming Cafe Life",
+          "description": "",
+          "selection_text": "Select a purchase option",
+          "save_text": "",
+          "display_type": 0,
+          "is_recurring_subscription": "false",
+          "subs": [
+            {
+              "packageid": 1002160,
+              "percent_savings_text": " ",
+              "percent_savings": 0,
+              "option_text": "Gaming Cafe Life - $5.99",
+              "option_description": "",
+              "can_get_free_license": "0",
+              "is_free_license": false,
+              "price_in_cents_with_discount": 599
+            }
+          ]
+        }
+      ],
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "categories": [
+        {
+          "id": 2,
+          "description": "Single-player"
+        },
+        {
+          "id": 22,
+          "description": "Steam Achievements"
+        },
+        {
+          "id": 68,
+          "description": "Custom Volume Controls"
+        },
+        {
+          "id": 74,
+          "description": "Playable without Timed Input"
+        },
+        {
+          "id": 79,
+          "description": "Save Anytime"
+        },
+        {
+          "id": 69,
+          "description": "Stereo Sound"
+        },
+        {
+          "id": 23,
+          "description": "Steam Cloud"
+        },
+        {
+          "id": 62,
+          "description": "Family Sharing"
+        }
+      ],
+      "genres": [
+        {
+          "id": "4",
+          "description": "Casual"
+        },
+        {
+          "id": "23",
+          "description": "Indie"
+        },
+        {
+          "id": "28",
+          "description": "Simulation"
+        }
+      ],
+      "screenshots": [
+        {
+          "id": 0,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/7dce84bbd470c220cac01991ab8e4e4b25b3ff62/ss_7dce84bbd470c220cac01991ab8e4e4b25b3ff62.600x338.jpg?t=1756978537",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/7dce84bbd470c220cac01991ab8e4e4b25b3ff62/ss_7dce84bbd470c220cac01991ab8e4e4b25b3ff62.1920x1080.jpg?t=1756978537"
+        },
+        {
+          "id": 1,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/c76d9a373c9c2055dbbbf24fd10da898cac720b7/ss_c76d9a373c9c2055dbbbf24fd10da898cac720b7.600x338.jpg?t=1756978537",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/c76d9a373c9c2055dbbbf24fd10da898cac720b7/ss_c76d9a373c9c2055dbbbf24fd10da898cac720b7.1920x1080.jpg?t=1756978537"
+        },
+        {
+          "id": 2,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/21388f30b1581c781d934efc51d521608816614a/ss_21388f30b1581c781d934efc51d521608816614a.600x338.jpg?t=1756978537",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/21388f30b1581c781d934efc51d521608816614a/ss_21388f30b1581c781d934efc51d521608816614a.1920x1080.jpg?t=1756978537"
+        },
+        {
+          "id": 3,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/38f752b0a8e49527a02fe694216e1f404c7fe4d2/ss_38f752b0a8e49527a02fe694216e1f404c7fe4d2.600x338.jpg?t=1756978537",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/38f752b0a8e49527a02fe694216e1f404c7fe4d2/ss_38f752b0a8e49527a02fe694216e1f404c7fe4d2.1920x1080.jpg?t=1756978537"
+        },
+        {
+          "id": 4,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/561cebe206a35200c9b5f6941e9dd2db64112691/ss_561cebe206a35200c9b5f6941e9dd2db64112691.600x338.jpg?t=1756978537",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/561cebe206a35200c9b5f6941e9dd2db64112691/ss_561cebe206a35200c9b5f6941e9dd2db64112691.1920x1080.jpg?t=1756978537"
+        },
+        {
+          "id": 5,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/798b2f9f28bb5ab5d3f24bd0c9abb87047d8b587/ss_798b2f9f28bb5ab5d3f24bd0c9abb87047d8b587.600x338.jpg?t=1756978537",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/798b2f9f28bb5ab5d3f24bd0c9abb87047d8b587/ss_798b2f9f28bb5ab5d3f24bd0c9abb87047d8b587.1920x1080.jpg?t=1756978537"
+        },
+        {
+          "id": 6,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/65b34505c031109b71220b0dbb31516303a7b0b2/ss_65b34505c031109b71220b0dbb31516303a7b0b2.600x338.jpg?t=1756978537",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/65b34505c031109b71220b0dbb31516303a7b0b2/ss_65b34505c031109b71220b0dbb31516303a7b0b2.1920x1080.jpg?t=1756978537"
+        },
+        {
+          "id": 7,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/dbc06f047c3ed8c48c667c7b5fa5a28399b8ee3c/ss_dbc06f047c3ed8c48c667c7b5fa5a28399b8ee3c.600x338.jpg?t=1756978537",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/dbc06f047c3ed8c48c667c7b5fa5a28399b8ee3c/ss_dbc06f047c3ed8c48c667c7b5fa5a28399b8ee3c.1920x1080.jpg?t=1756978537"
+        },
+        {
+          "id": 8,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/7efd8f32b9b91b9c692b7c2c2d09c823a9c80369/ss_7efd8f32b9b91b9c692b7c2c2d09c823a9c80369.600x338.jpg?t=1756978537",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/7efd8f32b9b91b9c692b7c2c2d09c823a9c80369/ss_7efd8f32b9b91b9c692b7c2c2d09c823a9c80369.1920x1080.jpg?t=1756978537"
+        },
+        {
+          "id": 9,
+          "path_thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/8fa508062e9b7e13622be91d5c781f10d5554ce6/ss_8fa508062e9b7e13622be91d5c781f10d5554ce6.600x338.jpg?t=1756978537",
+          "path_full": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806230/8fa508062e9b7e13622be91d5c781f10d5554ce6/ss_8fa508062e9b7e13622be91d5c781f10d5554ce6.1920x1080.jpg?t=1756978537"
+        }
+      ],
+      "movies": [
+        {
+          "id": 257015282,
+          "name": "Gaming Cafe Life Gameplay Trailer #1",
+          "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257015282/movie.293x165.jpg?t=1712836128",
+          "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/2806230/686338/5e0387cde4fe50b02f0129e2dd9935515c3e7e31/1750820133/dash_av1.mpd?t=1712836128",
+          "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/2806230/686338/5e0387cde4fe50b02f0129e2dd9935515c3e7e31/1750820133/dash_h264.mpd?t=1712836128",
+          "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/2806230/686338/5e0387cde4fe50b02f0129e2dd9935515c3e7e31/1750820133/hls_264_master.m3u8?t=1712836128",
+          "highlight": true
+        }
+      ],
+      "recommendations": {
+        "total": 144
+      },
+      "achievements": {
+        "total": 65,
+        "highlighted": [
+          {
+            "name": "Shopaholic I",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2806230/96513601c6b386257155a1681fedaed40dad39cc.jpg"
+          },
+          {
+            "name": "Shopaholic II",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2806230/e1ebb8b135af448d0dc9f64ab4ed15d11168e910.jpg"
+          },
+          {
+            "name": "Shopaholic III",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2806230/3e465b65e93940482937c1446bb160edb6aa3f8b.jpg"
+          },
+          {
+            "name": "Money Lover I",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2806230/1fba33aac17ca8d116d14669e11c8b6bde7226f7.jpg"
+          },
+          {
+            "name": "Money Lover II",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2806230/b82c18172be7cc209d12c51dd057926c1dd94fcf.jpg"
+          },
+          {
+            "name": "Money Lover III",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2806230/4a7b53172ecdf57c1f3d46bbf0fd8bd95482aced.jpg"
+          },
+          {
+            "name": "Waiter I",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2806230/464585eeec1a20afee08f145257a994e2256e45c.jpg"
+          },
+          {
+            "name": "Waiter II",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2806230/61aca17dbf028b1dfaf7fff8ac5d12ca4676bf21.jpg"
+          },
+          {
+            "name": "Waiter III",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2806230/d4a6f4ece3941a9939e9d7405e8e5ac5ebca418f.jpg"
+          },
+          {
+            "name": "Peace Corp I",
+            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/2806230/3609555bbf081e584038ef69527731a812e2ecb2.jpg"
+          }
+        ]
+      },
+      "release_date": {
+        "coming_soon": false,
+        "date": "Jul 13, 2024"
+      },
+      "support_info": {
+        "url": "",
+        "email": "cs+warnet2@akhirpekan.studio"
+      },
+      "background": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2806230?t=1756978537",
+      "background_raw": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2806230?t=1756978537",
+      "content_descriptors": {
+        "ids": [],
+        "notes": null
+      },
+      "ratings": {
+        "dejus": {
+          "rating_generated": "1",
+          "rating": "l",
+          "required_age": "0",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Violência fantasiosa"
+        },
+        "steam_germany": {
+          "rating_generated": "1",
+          "rating": "6",
+          "required_age": "6",
+          "banned": "0",
+          "use_age_gate": "0",
+          "descriptors": "Fantasy-Gewalt"
+        }
+      }
+    }
+  }
+}
