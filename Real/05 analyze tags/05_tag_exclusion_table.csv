@@ -1,0 +1,449 @@
+﻿tag,game_count,coverage_pct,excluded,exclude_reason
+Indie,9586,95.68,True,cov_high (95.7%) | platform_meta
+Singleplayer,6981,69.68,True,platform_meta
+Adventure,5023,50.13,True,too_broad
+Action,4138,41.3,True,too_broad
+Casual,4126,41.18,True,too_broad
+2D,3830,38.23,False,
+Atmospheric,2606,26.01,True,sentiment_leakage
+Puzzle,2599,25.94,False,
+Story Rich,2429,24.24,False,
+RPG,2233,22.29,False,
+Strategy,2101,20.97,True,too_broad
+Simulation,2074,20.7,True,too_broad
+Pixel Graphics,2062,20.58,False,
+Cute,1783,17.8,True,sentiment_leakage
+Exploration,1656,16.53,False,
+Funny,1629,16.26,True,sentiment_leakage
+Female Protagonist,1612,16.09,False,
+Great Soundtrack,1611,16.08,True,sentiment_leakage
+Anime,1550,15.47,True,too_broad
+Difficult,1514,15.11,True,sentiment_leakage
+Colorful,1476,14.73,True,sentiment_leakage
+Horror,1463,14.6,False,
+Fantasy,1428,14.25,False,
+First-Person,1378,13.75,False,
+Retro,1368,13.65,False,
+Platformer,1324,13.21,False,
+Multiplayer,1268,12.66,True,platform_meta
+3D,1178,11.76,False,
+Arcade,1111,11.09,False,
+Family Friendly,1092,10.9,False,
+Sci-fi,1065,10.63,False,
+Psychological Horror,1059,10.57,False,
+Relaxing,1057,10.55,True,sentiment_leakage
+Visual Novel,1028,10.26,False,
+Comedy,1004,10.02,False,
+Mystery,976,9.74,False,
+Point & Click,904,9.02,False,
+Controller,866,8.64,True,platform_meta
+Shooter,824,8.22,False,
+Co-op,804,8.02,True,platform_meta
+Dark,779,7.78,True,sentiment_leakage
+Stylized,772,7.71,True,sentiment_leakage
+Choices Matter,771,7.7,True,sentiment_leakage
+Action-Adventure,766,7.65,False,
+Sexual Content,756,7.55,False,
+Violent,746,7.45,False,
+Multiple Endings,742,7.41,False,
+Rogue-like,739,7.38,False,
+Gore,724,7.23,False,
+Rogue-lite,714,7.13,False,
+Side Scroller,698,6.97,False,
+Nudity,697,6.96,False,
+Hand-drawn,688,6.87,False,
+Top-Down,675,6.74,False,
+Survival,661,6.6,False,
+Open World,657,6.56,False,
+Sandbox,639,6.38,False,
+Physics,635,6.34,False,
+Minimalist,581,5.8,True,sentiment_leakage
+Puzzle-Platformer,568,5.67,False,
+2D Platformer,565,5.64,False,
+Cartoony,562,5.61,False,
+Replay Value,557,5.56,True,sentiment_leakage
+Local Multiplayer,553,5.52,True,platform_meta
+Local Co-Op,542,5.41,True,platform_meta
+Third Person,532,5.31,False,
+Walking Simulator,526,5.25,False,
+Management,525,5.24,False,
+Turn-Based,523,5.22,False,
+Building,510,5.09,False,
+Procedural Generation,510,5.09,False,
+Realistic,505,5.04,True,sentiment_leakage
+Linear,500,4.99,False,
+Short,496,4.95,False,
+FPS,495,4.94,False,
+Surreal,495,4.94,True,sentiment_leakage
+Interactive Fiction,474,4.73,False,
+Drama,465,4.64,False,
+Combat,464,4.63,False,
+VR,459,4.58,False,
+Bullet Hell,455,4.54,False,
+Early Access,450,4.49,True,platform_meta
+Space,449,4.48,False,
+Shoot 'Em Up,438,4.37,False,
+JRPG,437,4.36,False,
+Logic,424,4.23,False,
+Action Roguelike,422,4.21,False,
+Survival Horror,417,4.16,False,
+Mature,414,4.13,False,
+Tactical,411,4.1,False,
+Hidden Object,410,4.09,False,
+Turn-Based Combat,406,4.05,False,
+Romance,406,4.05,False,
+Turn-Based Strategy,402,4.01,False,
+Old School,402,4.01,False,
+Fast-Paced,399,3.98,False,
+Memes,393,3.92,True,sentiment_leakage
+Emotional,388,3.87,True,sentiment_leakage
+Action RPG,387,3.86,False,
+Online Co-Op,386,3.85,True,platform_meta
+Dungeon Crawler,377,3.76,False,
+Resource Management,375,3.74,False,
+Dating Sim,368,3.67,False,
+LGBTQ+,368,3.67,False,
+Isometric,364,3.63,False,
+RPGMaker,360,3.59,False,
+Magic,356,3.55,False,
+Sports,355,3.54,False,
+Character Customization,352,3.51,False,
+Choose Your Own Adventure,349,3.48,False,
+Hack and Slash,348,3.47,False,
+Hentai,342,3.41,False,
+Cartoon,336,3.35,False,
+Crafting,328,3.27,False,
+Dark Fantasy,322,3.21,False,
+Metroidvania,316,3.15,False,
+PvP,315,3.14,True,platform_meta
+Turn-Based Tactics,315,3.14,False,
+3D Platformer,303,3.02,False,
+Text-Based,302,3.01,False,
+Immersive Sim,300,2.99,True,cov_low (3.0%)
+Medieval,300,2.99,True,cov_low (3.0%)
+Historical,294,2.93,True,cov_low (2.9%)
+Detective,288,2.87,True,cov_low (2.9%)
+1990's,283,2.82,True,cov_low (2.8%)
+Card Game,282,2.81,True,cov_low (2.8%)
+Racing,281,2.8,True,cov_low (2.8%)
+Stealth,280,2.79,True,cov_low (2.8%)
+Psychological,277,2.76,True,cov_low (2.8%)
+Narration,274,2.73,True,cov_low (2.7%)
+Music,271,2.7,True,cov_low (2.7%)
+Futuristic,267,2.66,True,cov_low (2.7%)
+Education,266,2.65,True,cov_low (2.7%)
+Zombies,265,2.64,True,cov_low (2.6%)
+4 Player Local,265,2.64,True,cov_low (2.6%)
+Dark Humor,260,2.6,True,cov_low (2.6%)
+Abstract,258,2.58,True,cov_low (2.6%) | sentiment_leakage
+Post-apocalyptic,257,2.57,True,cov_low (2.6%)
+Thriller,256,2.56,True,cov_low (2.6%)
+Tower Defense,255,2.55,True,cov_low (2.5%)
+2.5D,254,2.54,True,cov_low (2.5%)
+Base-Building,249,2.49,True,cov_low (2.5%)
+Nature,246,2.46,True,cov_low (2.5%)
+Cyberpunk,237,2.37,True,cov_low (2.4%)
+NSFW,233,2.33,True,cov_low (2.3%)
+Perma Death,231,2.31,True,cov_low (2.3%)
+Robots,230,2.3,True,cov_low (2.3%)
+Score Attack,230,2.3,True,cov_low (2.3%) | sentiment_leakage
+Life Sim,227,2.27,True,cov_low (2.3%)
+Economy,224,2.24,True,cov_low (2.2%)
+PvE,224,2.24,True,cov_low (2.2%) | platform_meta
+Investigation,222,2.22,True,cov_low (2.2%)
+RTS,221,2.21,True,cov_low (2.2%)
+Top-Down Shooter,220,2.2,True,cov_low (2.2%)
+City Builder,216,2.16,True,cov_low (2.2%)
+Level Editor,215,2.15,True,cov_low (2.1%)
+Board Game,213,2.13,True,cov_low (2.1%)
+War,211,2.11,True,cov_low (2.1%)
+Soundtrack,210,2.1,True,cov_low (2.1%)
+Psychedelic,209,2.09,True,cov_low (2.1%)
+Classic,208,2.08,True,cov_low (2.1%)
+Experimental,208,2.08,True,cov_low (2.1%) | sentiment_leakage
+Cinematic,208,2.08,True,cov_low (2.1%) | sentiment_leakage
+Precision Platformer,204,2.04,True,cov_low (2.0%)
+Beautiful,196,1.96,True,cov_low (2.0%) | sentiment_leakage
+1980s,196,1.96,True,cov_low (2.0%)
+Rhythm,192,1.92,True,cov_low (1.9%)
+Souls-like,191,1.91,True,cov_low (1.9%)
+Deckbuilding,188,1.88,True,cov_low (1.9%)
+Time Management,188,1.88,True,cov_low (1.9%)
+Twin Stick Shooter,186,1.86,True,cov_low (1.9%)
+Beat 'em up,185,1.85,True,cov_low (1.8%)
+Supernatural,177,1.77,True,cov_low (1.8%)
+Cats,176,1.76,True,cov_low (1.8%)
+Moddable,174,1.74,True,cov_low (1.7%) | sentiment_leakage
+Conversation,170,1.7,True,cov_low (1.7%)
+Clicker,170,1.7,True,cov_low (1.7%)
+Tabletop,161,1.61,True,cov_low (1.6%)
+Party-Based RPG,161,1.61,True,cov_low (1.6%)
+Fighting,159,1.59,True,cov_low (1.6%)
+Nonlinear,157,1.57,True,cov_low (1.6%)
+Strategy RPG,154,1.54,True,cov_low (1.5%)
+Driving,151,1.51,True,cov_low (1.5%)
+Competitive,151,1.51,True,cov_low (1.5%)
+Aliens,149,1.49,True,cov_low (1.5%)
+Loot,145,1.45,True,cov_low (1.4%)
+Lovecraftian,144,1.44,True,cov_low (1.4%)
+Dystopian ,143,1.43,True,cov_low (1.4%)
+Military,143,1.43,True,cov_low (1.4%)
+Flight,143,1.43,True,cov_low (1.4%)
+Lore-Rich,142,1.42,True,cov_low (1.4%)
+Demons,141,1.41,True,cov_low (1.4%)
+Tactical RPG,140,1.4,True,cov_low (1.4%)
+Parkour,140,1.4,True,cov_low (1.4%)
+Mouse only,137,1.37,True,cov_low (1.4%)
+Real Time Tactics,137,1.37,True,cov_low (1.4%)
+Collectathon,137,1.37,True,cov_low (1.4%)
+Comic Book,137,1.37,True,cov_low (1.4%)
+Destruction,136,1.36,True,cov_low (1.4%)
+Crime,132,1.32,True,cov_low (1.3%)
+Cozy,130,1.3,True,cov_low (1.3%) | sentiment_leakage
+Grid-Based Movement,130,1.3,True,cov_low (1.3%)
+Card Battler,127,1.27,True,cov_low (1.3%)
+Blood,124,1.24,True,cov_low (1.2%)
+Addictive,123,1.23,True,cov_low (1.2%) | sentiment_leakage
+Philosophical,123,1.23,True,cov_low (1.2%)
+Colony Sim,122,1.22,True,cov_low (1.2%)
+Mythology,122,1.22,True,cov_low (1.2%)
+Idler,122,1.22,True,cov_low (1.2%)
+Steampunk,120,1.2,True,cov_low (1.2%)
+Arena Shooter,116,1.16,True,cov_low (1.2%)
+Noir,114,1.14,True,cov_low (1.1%)
+Touch-Friendly,113,1.13,True,cov_low (1.1%)
+Modern,112,1.12,True,cov_low (1.1%)
+Tutorial,111,1.11,True,cov_low (1.1%)
+Dark Comedy,109,1.09,True,cov_low (1.1%)
+CRPG,108,1.08,True,cov_low (1.1%)
+Word Game,108,1.08,True,cov_low (1.1%)
+Match 3,106,1.06,True,cov_low (1.1%)
+Narrative,105,1.05,True,cov_low (1.0%)
+Alternate History,104,1.04,True,cov_low (1.0%)
+Runner,104,1.04,True,cov_low (1.0%)
+Automobile Sim,103,1.03,True,cov_low (1.0%)
+Split Screen,103,1.03,True,cov_low (1.0%)
+Automation,98,0.98,True,cov_low (1.0%)
+Third-Person Shooter,98,0.98,True,cov_low (1.0%)
+Wholesome,98,0.98,True,cov_low (1.0%) | sentiment_leakage
+Team-Based,96,0.96,True,cov_low (1.0%)
+Kickstarter,96,0.96,True,cov_low (1.0%)
+2D Fighter,96,0.96,True,cov_low (1.0%)
+Artificial Intelligence,95,0.95,True,cov_low (0.9%)
+Wargame,93,0.93,True,cov_low (0.9%)
+Roguelike Deckbuilder,93,0.93,True,cov_low (0.9%)
+Science,91,0.91,True,cov_low (0.9%)
+Escape Room,91,0.91,True,cov_low (0.9%)
+Parody ,90,0.9,True,cov_low (0.9%)
+Farming Sim,89,0.89,True,cov_low (0.9%)
+Inventory Management,89,0.89,True,cov_low (0.9%)
+Creature Collector,86,0.86,True,cov_low (0.9%)
+Swordplay,85,0.85,True,cov_low (0.8%)
+Cooking,85,0.85,True,cov_low (0.8%)
+Sokoban,85,0.85,True,cov_low (0.8%)
+Party Game,84,0.84,True,cov_low (0.8%)
+Time Travel,84,0.84,True,cov_low (0.8%)
+Faith,84,0.84,True,cov_low (0.8%)
+World War II,83,0.83,True,cov_low (0.8%)
+Mechs,82,0.82,True,cov_low (0.8%)
+Hacking,82,0.82,True,cov_low (0.8%)
+Space Sim,79,0.79,True,cov_low (0.8%)
+Capitalism,79,0.79,True,cov_low (0.8%)
+Voxel,76,0.76,True,cov_low (0.8%)
+Otome,76,0.76,True,cov_low (0.8%)
+Gothic,75,0.75,True,cov_low (0.7%)
+Massively Multiplayer,74,0.74,True,cov_low (0.7%)
+Grand Strategy,73,0.73,True,cov_low (0.7%)
+Programming,73,0.73,True,cov_low (0.7%)
+Auto Battler,73,0.73,True,cov_low (0.7%)
+Open World Survival Craft,72,0.72,True,cov_low (0.7%)
+Political,72,0.72,True,cov_low (0.7%)
+Hex Grid,72,0.72,True,cov_low (0.7%)
+Character Action Game,72,0.72,True,cov_low (0.7%)
+Free to Play,72,0.72,True,cov_low (0.7%) | platform_meta
+Martial Arts,71,0.71,True,cov_low (0.7%)
+Time Manipulation,71,0.71,True,cov_low (0.7%)
+Villain Protagonist,71,0.71,True,cov_low (0.7%)
+Ninja,69,0.69,True,cov_low (0.7%)
+Dog,69,0.69,True,cov_low (0.7%)
+Satire,67,0.67,True,cov_low (0.7%)
+Time Attack,67,0.67,True,cov_low (0.7%)
+Remake,66,0.66,True,cov_low (0.7%)
+Real-Time,66,0.66,True,cov_low (0.7%)
+Solitaire,66,0.66,True,cov_low (0.7%)
+Illuminati,66,0.66,True,cov_low (0.7%)
+Real-Time with Pause,64,0.64,True,cov_low (0.6%)
+Co-op Campaign,64,0.64,True,cov_low (0.6%)
+Design & Illustration,63,0.63,True,cov_low (0.6%)
+Agriculture,62,0.62,True,cov_low (0.6%)
+Bullet Time,61,0.61,True,cov_low (0.6%)
+Underwater,60,0.6,True,cov_low (0.6%)
+FMV,60,0.6,True,cov_low (0.6%)
+God Game,59,0.59,True,cov_low (0.6%)
+Sequel,57,0.57,True,cov_low (0.6%)
+4X,56,0.56,True,cov_low (0.6%)
+Boomer Shooter,56,0.56,True,cov_low (0.6%)
+Politics,56,0.56,True,cov_low (0.6%)
+Cult Classic,55,0.55,True,cov_low (0.5%)
+Vampire,54,0.54,True,cov_low (0.5%)
+Pirates,54,0.54,True,cov_low (0.5%)
+Fishing,52,0.52,True,cov_low (0.5%)
+Mystery Dungeon,52,0.52,True,cov_low (0.5%)
+Immersive,51,0.51,True,cov_low (0.5%) | sentiment_leakage
+Western,50,0.5,True,cov_low (0.5%)
+Typing,50,0.5,True,cov_low (0.5%)
+Mining,49,0.49,True,cov_low (0.5%)
+Minigames,49,0.49,True,cov_low (0.5%)
+Dragons,48,0.48,True,cov_low (0.5%)
+Trains,48,0.48,True,cov_low (0.5%)
+Class-Based,48,0.48,True,cov_low (0.5%)
+Trading,48,0.48,True,cov_low (0.5%)
+Political Sim,48,0.48,True,cov_low (0.5%)
+e-sports,48,0.48,True,cov_low (0.5%)
+Spectacle fighter,46,0.46,True,cov_low (0.5%)
+GameMaker,46,0.46,True,cov_low (0.5%)
+Asynchronous Multiplayer,46,0.46,True,cov_low (0.5%)
+Party,45,0.45,True,cov_low (0.4%)
+Crowdfunded,45,0.45,True,cov_low (0.4%)
+Trading Card Game,45,0.45,True,cov_low (0.4%)
+Underground,45,0.45,True,cov_low (0.4%)
+Dinosaurs,44,0.44,True,cov_low (0.4%)
+6DOF,44,0.44,True,cov_low (0.4%)
+America,44,0.44,True,cov_low (0.4%)
+Combat Racing,44,0.44,True,cov_low (0.4%)
+3D Vision,42,0.42,True,cov_low (0.4%)
+Music-Based Procedural Generation,42,0.42,True,cov_low (0.4%)
+Vehicular Combat,42,0.42,True,cov_low (0.4%)
+Experience,41,0.41,True,cov_low (0.4%)
+Dynamic Narration,40,0.4,True,cov_low (0.4%)
+Cold War,40,0.4,True,cov_low (0.4%)
+Transportation,39,0.39,True,cov_low (0.4%)
+Gun Customization,39,0.39,True,cov_low (0.4%)
+Episodic,39,0.39,True,cov_low (0.4%)
+Quick-Time Events,36,0.36,True,cov_low (0.4%)
+Conspiracy,36,0.36,True,cov_low (0.4%)
+Epic,35,0.35,True,cov_low (0.3%)
+Nostalgia,35,0.35,True,cov_low (0.3%)
+Heist,34,0.34,True,cov_low (0.3%)
+Jump Scare,32,0.32,True,cov_low (0.3%)
+Assassin,31,0.31,True,cov_low (0.3%)
+Traditional Roguelike,31,0.31,True,cov_low (0.3%)
+Trivia,31,0.31,True,cov_low (0.3%)
+Farming,29,0.29,True,cov_low (0.3%)
+Diplomacy,28,0.28,True,cov_low (0.3%)
+On-Rails Shooter,28,0.28,True,cov_low (0.3%)
+Superhero,27,0.27,True,cov_low (0.3%)
+Unforgiving,27,0.27,True,cov_low (0.3%)
+3D Fighter,26,0.26,True,cov_low (0.3%)
+Tanks,26,0.26,True,cov_low (0.3%)
+Football (Soccer),26,0.26,True,cov_low (0.3%)
+Chess,25,0.25,True,cov_low (0.2%)
+Foreign,25,0.25,True,cov_low (0.2%)
+Game Development,25,0.25,True,cov_low (0.2%)
+Hunting,24,0.24,True,cov_low (0.2%)
+Action RTS,24,0.24,True,cov_low (0.2%)
+Sailing,23,0.23,True,cov_low (0.2%)
+Naval,23,0.23,True,cov_low (0.2%)
+Roguevania,22,0.22,True,cov_low (0.2%)
+Golf,22,0.22,True,cov_low (0.2%)
+World War I,22,0.22,True,cov_low (0.2%)
+Snow,22,0.22,True,cov_low (0.2%)
+Games Workshop,21,0.21,True,cov_low (0.2%)
+Silent Protagonist,21,0.21,True,cov_low (0.2%)
+Job Simulator,21,0.21,True,cov_low (0.2%)
+Horses,20,0.2,True,cov_low (0.2%)
+Gambling,20,0.2,True,cov_low (0.2%)
+Rome,20,0.2,True,cov_low (0.2%)
+Dwarf,19,0.19,True,cov_low (0.2%)
+Vikings,19,0.19,True,cov_low (0.2%)
+Skateboarding,19,0.19,True,cov_low (0.2%)
+Intentionally Awkward Controls,19,0.19,True,cov_low (0.2%)
+Software,19,0.19,True,cov_low (0.2%)
+Boss Rush,18,0.18,True,cov_low (0.2%)
+Werewolves,18,0.18,True,cov_low (0.2%)
+Battle Royale,18,0.18,True,cov_low (0.2%)
+Sniper,18,0.18,True,cov_low (0.2%)
+Movie,17,0.17,True,cov_low (0.2%)
+Archery,17,0.17,True,cov_low (0.2%)
+Spelling,17,0.17,True,cov_low (0.2%)
+Medical Sim,16,0.16,True,cov_low (0.2%)
+Asymmetric VR,16,0.16,True,cov_low (0.2%)
+Spaceships,16,0.16,True,cov_low (0.2%)
+Skating,16,0.16,True,cov_low (0.2%)
+Mars,16,0.16,True,cov_low (0.2%)
+Boxing,16,0.16,True,cov_low (0.2%)
+MMORPG,15,0.15,True,cov_low (0.1%)
+Mini Golf,15,0.15,True,cov_low (0.1%)
+Naval Combat,15,0.15,True,cov_low (0.1%)
+Looter Shooter,14,0.14,True,cov_low (0.1%)
+MOBA,14,0.14,True,cov_low (0.1%)
+Lemmings,14,0.14,True,cov_low (0.1%)
+Transhumanism,14,0.14,True,cov_low (0.1%)
+Based On A Novel,14,0.14,True,cov_low (0.1%)
+Pinball,14,0.14,True,cov_low (0.1%)
+Hero Shooter,14,0.14,True,cov_low (0.1%)
+Electronic Music,14,0.14,True,cov_low (0.1%)
+Utilities,14,0.14,True,cov_low (0.1%)
+Tennis,14,0.14,True,cov_low (0.1%)
+Outbreak Sim,13,0.13,True,cov_low (0.1%)
+Ambient,13,0.13,True,cov_low (0.1%)
+Offroad,13,0.13,True,cov_low (0.1%)
+Basketball,13,0.13,True,cov_low (0.1%)
+Dice,12,0.12,True,cov_low (0.1%)
+Mod,11,0.11,True,cov_low (0.1%)
+Submarine,11,0.11,True,cov_low (0.1%)
+Animation & Modeling,11,0.11,True,cov_low (0.1%)
+LEGO,11,0.11,True,cov_low (0.1%)
+Social Deduction,10,0.1,True,cov_low (0.1%)
+Bikes,10,0.1,True,cov_low (0.1%)
+Football (American),10,0.1,True,cov_low (0.1%)
+Snowboarding,9,0.09,True,cov_low (0.1%)
+Dungeons & Dragons,9,0.09,True,cov_low (0.1%)
+Motorbike,8,0.08,True,cov_low (0.1%)
+Jet,8,0.08,True,cov_low (0.1%)
+Audio Production,8,0.08,True,cov_low (0.1%)
+Fox,8,0.08,True,cov_low (0.1%)
+Electronic,8,0.08,True,cov_low (0.1%)
+Pool,8,0.08,True,cov_low (0.1%)
+Well-Written,8,0.08,True,cov_low (0.1%)
+TrackIR,7,0.07,True,cov_low (0.1%)
+Shop Keeper,7,0.07,True,cov_low (0.1%)
+Birds,7,0.07,True,cov_low (0.1%)
+BMX,7,0.07,True,cov_low (0.1%)
+Wrestling,7,0.07,True,cov_low (0.1%)
+Skiing,7,0.07,True,cov_low (0.1%)
+Warhammer 40K,6,0.06,True,cov_low (0.1%)
+Voice Control,6,0.06,True,cov_low (0.1%)
+Photo Editing,6,0.06,True,cov_low (0.1%)
+Gaming,6,0.06,True,cov_low (0.1%)
+Baseball,5,0.05,True,cov_low (0.0%)
+Mahjong,5,0.05,True,cov_low (0.0%)
+Software Training,4,0.04,True,cov_low (0.0%)
+Coding,4,0.04,True,cov_low (0.0%)
+Rock Music,4,0.04,True,cov_low (0.0%)
+Cycling,4,0.04,True,cov_low (0.0%)
+Snooker,4,0.04,True,cov_low (0.0%)
+Instrumental Music,4,0.04,True,cov_low (0.0%)
+Steam Machine,4,0.04,True,cov_low (0.0%)
+Hardware,3,0.03,True,cov_low (0.0%)
+Extraction Shooter,3,0.03,True,cov_low (0.0%)
+Hobby Sim,3,0.03,True,cov_low (0.0%)
+Bowling,3,0.03,True,cov_low (0.0%)
+360 Video,3,0.03,True,cov_low (0.0%)
+Video Production,3,0.03,True,cov_low (0.0%)
+Web Publishing,3,0.03,True,cov_low (0.0%)
+8-bit Music,3,0.03,True,cov_low (0.0%)
+Hockey,3,0.03,True,cov_low (0.0%)
+Masterpiece,2,0.02,True,cov_low (0.0%) | sentiment_leakage
+Documentary,2,0.02,True,cov_low (0.0%)
+Cricket,2,0.02,True,cov_low (0.0%)
+Volleyball,2,0.02,True,cov_low (0.0%)
+Elf,2,0.02,True,cov_low (0.0%)
+Motocross,1,0.01,True,cov_low (0.0%)
+VR Only,1,0.01,True,cov_low (0.0%)
+ATV,1,0.01,True,cov_low (0.0%)
+Feature Film,1,0.01,True,cov_low (0.0%)
+Benchmark,1,0.01,True,cov_low (0.0%)
+Reboot,1,0.01,True,cov_low (0.0%)
+Musou,1,0.01,True,cov_low (0.0%)
+Rugby,1,0.01,True,cov_low (0.0%)
