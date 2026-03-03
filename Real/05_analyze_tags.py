@@ -1,13 +1,60 @@
 """
 05_analyze_tags.py
-──────────────────────────────────────────────────────────────────────────
-유저 태그 빈도 분석 → 제외 기준 적용 → 피처 태그 확정 → CSV + 시각화
+================================================================================
+[목적]
+    03c 가 생성한 유저태그 CSV 를 읽어 전체 태그 빈도를 분석하고,
+    제외 기준을 적용해 08_feature_engineering.py 에서 쓸 최종 태그 목록을 확정한다.
 
-출력물:
-  05_tag_exclusion_table.csv    전체 태그 + 제외 사유
-  05_selected_tags_final.csv    최종 피처 태그 목록 (rank, tag, coverage_pct)
-  05_tag_selection_report.png   선정 과정 시각화
-──────────────────────────────────────────────────────────────────────────
+[이 파일이 필요한 이유]
+    논문(Trneny 2017)은 52개 태그를 직접 선정했으나 2017년 기준이라
+    현재 Steam 태그 환경과 맞지 않음.
+    (Souls-like, Cozy, Auto Battler 등 현재 주요 태그가 당시에는 없었음)
+    따라서 실제 수집 데이터 기반으로 태그를 분석하고 직접 선정해야 함.
+
+[입력 파일]
+    Real/03 steamspy usertags/03_UserTags_summary.csv
+        - 03c 가 생성한 전체 appid 기준 태그 요약 CSV
+
+[출력 파일]
+    Real/05 analyze tags/
+        05_tag_exclusion_table.csv   : 전체 태그 + 각 태그의 제외 사유
+            컬럼: tag, game_count, coverage_pct, excluded(bool), exclude_reason
+        05_selected_tags_final.csv   : 최종 선정 태그 목록
+            컬럼: rank, tag, game_count, coverage_pct
+            -> 08_feature_engineering.py 에서 이 파일을 읽어 binary 피처 생성
+        05_tag_selection_report.png  : 선정 과정 시각화 (5개 차트)
+
+[제외 기준 - 3가지]
+    1) 커버리지 기준 (COV_MAX=70%, COV_MIN=3%)
+        coverage > 70% : 거의 모든 게임이 1 -> 변별력 없음
+        coverage < 3%  : 너무 희소 -> 모델 기여 없음
+        coverage = 해당 태그를 가진 게임 수 / 전체 게임 수
+
+    2) 플랫폼/인프라 태그 (TAG_PLATFORM)
+        Indie, Singleplayer, Multiplayer, Co-op 등
+        Steam 기능이나 플레이 방식 태그. 장르/테마가 아님.
+        categories 피처와 중복되는 경우가 많음.
+
+    3) 감성/사후평가 태그 (TAG_SENTIMENT)
+        Great Soundtrack, Atmospheric, Cute 등
+        게임이 성공한 뒤 유저가 붙이는 경향이 있음.
+        Y(리뷰 수)와 인과관계가 역전될 수 있어 data leakage 위험.
+
+    4) 너무 광범위한 태그 (TAG_TOO_BROAD)
+        Action, Adventure, Strategy 등
+        장르 식별력이 없어 binary 피처로서 의미 없음.
+
+[시각화 차트 구성 - 5개]
+    Chart 1: 전체 태그 커버리지 분포 막대그래프 (선정/제외 색상 구분)
+    Chart 2: 제외 사유별 태그 수 가로 막대
+    Chart 3: 최종 선정 태그 상위 50개 커버리지
+    Chart 4: 선정된 태그의 커버리지 분포 히스토그램
+    Chart 5: 논문 52개 태그 각각의 선정/탈락 현황
+
+[다음 단계]
+    05_selected_tags_final.csv 를 08_feature_engineering.py 에서 읽어
+    각 태그를 binary(0/1) 피처로 변환.
+================================================================================
 """
 
 import pandas as pd, json, numpy as np, os
@@ -41,9 +88,13 @@ plt.rcParams.update({
 
 # ── 데이터 로드 ────────────────────────────────────────────────────────
 df = pd.read_csv(INPUT_CSV, encoding='utf-8-sig')
+# appid 컬럼에 '<','=','>' 로 시작하는 행 제거 (CSV 파싱 오류 방어)
 for s in ['<','=','>']: df = df[~df['appid'].astype(str).str.startswith(s)]
+# 수집 성공 + tags 값이 있는 행만 사용
 df_ok = df[(df['success']==True) & df['tags'].notna() & (df['tags']!='')].copy()
 
+# tag_gc: 전체 게임에서 각 태그가 몇 개 게임에 등장했는지 카운트
+# tags 컬럼은 JSON 문자열이므로 json.loads() 로 딕셔너리로 변환
 tag_gc = Counter()
 for ts in df_ok['tags']:
     for tag in json.loads(ts):
@@ -56,8 +107,8 @@ print(f'게임 수: {N:,}  |  전체 고유 태그: {len(tag_gc):,}')
 # 제외 기준
 # ════════════════════════════════════════════════════════════════════════
 
-COV_MAX = 0.70   # 70% 초과 → 거의 모든 게임이 1, 변별력 없음
-COV_MIN = 0.03   # 3% 미만  → 희소해서 모델 기여 없음
+COV_MAX = 0.70   # 70% 초과 -> 거의 모든 게임이 1, 변별력 없음
+COV_MIN = 0.03   # 3% 미만  -> 희소해서 모델 기여 없음
 
 # 플랫폼/인프라 태그: Steam 기능·플레이 방식이지 게임 장르/테마가 아님
 TAG_PLATFORM = {
@@ -70,7 +121,7 @@ TAG_PLATFORM = {
 }
 
 # 감성/사후평가 태그: 게임이 성공한 뒤 유저가 붙이는 경향이 있어
-# Y(리뷰 수)와 인과관계가 역전될 수 있음 → data leakage 위험
+# Y(리뷰 수)와 인과관계가 역전될 수 있음 -> data leakage 위험
 TAG_SENTIMENT = {
     'Great Soundtrack','Atmospheric','Cute','Funny','Relaxing','Colorful',
     'Dark','Beautiful','Masterpiece','Memes','Difficult','Addictive',
@@ -87,6 +138,8 @@ TAG_TOO_BROAD = {
 }
 
 # ── 제외 사유 레이블링 ─────────────────────────────────────────────────
+# 각 태그에 대해 제외 사유를 모두 기록 (복수 사유 가능)
+# exclude_reason: ' | ' 로 구분된 사유 문자열
 rows = []
 for tag, cnt in tag_gc.most_common():
     cov     = cnt / N
@@ -104,7 +157,8 @@ for tag, cnt in tag_gc.most_common():
         'exclude_reason': ' | '.join(reasons),
     })
 
-full_df = pd.DataFrame(rows)
+full_df     = pd.DataFrame(rows)
+# selected_df: 제외되지 않은 태그만. index 를 1부터 시작(rank).
 selected_df = full_df[~full_df['excluded']].reset_index(drop=True)
 selected_df.index += 1
 
@@ -117,6 +171,7 @@ full_df.to_csv(
     os.path.join(OUT_DIR, '05_tag_exclusion_table.csv'),
     index=False, encoding='utf-8-sig')
 
+# index_label='rank': rank 컬럼이 1부터 시작하는 순위
 selected_df[['tag','game_count','coverage_pct']].to_csv(
     os.path.join(OUT_DIR, '05_selected_tags_final.csv'),
     index_label='rank', encoding='utf-8-sig')
@@ -131,12 +186,13 @@ fig   = plt.figure(figsize=(24, 28), facecolor=BG)
 gspec = gridspec.GridSpec(3, 2, hspace=0.5, wspace=0.35,
                           left=0.07, right=0.96, top=0.93, bottom=0.04)
 
-# ── Chart 1: 전체 448개 커버리지 막대 + 필터 경계선 ───────────────────
+# ── Chart 1: 전체 태그 커버리지 막대 + 필터 경계선 ───────────────────
 ax0 = fig.add_subplot(gspec[0, :])
 ax0.set_facecolor(BG2)
 
 sorted_rows = sorted(rows, key=lambda x: -x['coverage_pct'])
 cov_vals = [r['coverage_pct'] for r in sorted_rows]
+# 선정 태그: GREEN, 제외 태그: 어두운 회색
 bar_col  = [GREEN if not r['excluded'] else '#383855' for r in sorted_rows]
 
 ax0.bar(range(len(cov_vals)), cov_vals, width=1.0, color=bar_col, edgecolor='none', alpha=0.9)
@@ -236,6 +292,7 @@ ax3.grid(axis='y', color=BG3)
 ax3.set_axisbelow(True)
 
 # ── Chart 5: 논문 52개 태그 선정/탈락 현황 ────────────────────────────
+# 논문 기준 태그가 우리 데이터셋에서 어떻게 분류됐는지 확인용
 ax4 = fig.add_subplot(gspec[2, 1])
 ax4.set_facecolor(BG2)
 
@@ -293,8 +350,8 @@ ax4.legend(handles=[mpatches.Patch(color=v, alpha=0.88, label=k)
 fig.text(0.5, 0.965, 'Steam User Tags  -  Feature Selection Report',
          ha='center', va='top', fontsize=21, fontweight='bold', color=WHITE)
 fig.text(0.5, 0.950,
-         f'Total: {len(full_df)}  →  Excluded: {full_df["excluded"].sum()}  →  Selected: {len(selected_df)}  '
-         f'|  Filter: {int(COV_MIN*100)}% ≤ coverage ≤ {int(COV_MAX*100)}%  +  platform / sentiment / too_broad',
+         f'Total: {len(full_df)}  ->  Excluded: {full_df["excluded"].sum()}  ->  Selected: {len(selected_df)}  '
+         f'|  Filter: {int(COV_MIN*100)}% <= coverage <= {int(COV_MAX*100)}%  +  platform / sentiment / too_broad',
          ha='center', va='top', fontsize=10.5, color=GRAY)
 
 plt.savefig(os.path.join(OUT_DIR, '05_tag_selection_report.png'),
@@ -302,4 +359,4 @@ plt.savefig(os.path.join(OUT_DIR, '05_tag_selection_report.png'),
 
 print('시각화 저장 완료')
 print(f'\n최종 선정 태그 수: {len(selected_df)}')
-print('→ 05_selected_tags_final.csv 를 08_feature_engineering.py 에서 import 하면 됩니다.')
+print('-> 05_selected_tags_final.csv 를 08_feature_engineering.py 에서 import 하면 됩니다.')

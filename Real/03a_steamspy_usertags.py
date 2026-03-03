@@ -1,3 +1,64 @@
+"""
+03a_steamspy_usertags.py
+================================================================================
+[목적]
+    SteamSpy API를 호출해 각 게임의 유저 태그와 태그별 투표 수를 수집한다.
+    수집 결과는 appid별 JSON 파일로 저장한다.
+
+[API]
+    엔드포인트: https://steamspy.com/api.php
+    파라미터:
+        request : appdetails (게임 상세 정보 요청)
+        appid   : 조회할 AppID
+    응답 tags 딕셔너리: 키=태그명, 값=해당 태그에 투표한 유저 수
+
+[입력 파일]
+    Real/01 steamDB appid, gamename/01 steamDB appid, gamename.csv
+
+[출력 파일]
+    Real/03 steamspy usertags/
+        03_UserTags_raw/{appid}.json  <- 핵심 산출물
+        03_UserTags_summary.csv       <- 임시 산출물 (이번 실행분만 포함)
+    주의: 전체 통합 CSV는 03c_steamspy_usertags_summary_generate.py 로 생성.
+
+[JSON 구조]
+    성공 시: {appid: int, success: True,  tags: {태그명: 투표수, ...}}
+    실패 시: {appid: int, success: False, tags: {}}
+
+[resume 처리]
+    RAW_DIR 에 이미 존재하는 {appid}.json 을 already_done 집합으로 로드.
+    remaining 은 전체 appid 중 already_done 을 제외한 목록.
+    -> 중단 후 재시작해도 중복 호출 없음.
+
+[에러 처리]
+    429 (Rate Limit) : 60*(시도횟수)초 대기 후 재시도 (최대 5회)
+                       02a 의 120초보다 짧음 - SteamSpy rate limit이 덜 엄격함.
+    5xx (서버 오류)  : 지수 백오프 (2^attempt + random) 후 재시도
+    JSON 아닌 응답   : 지수 백오프 후 재시도
+    5회 모두 실패    : success=False 로 JSON 저장 후 다음 게임으로 진행
+
+[딜레이]
+    요청 간 1.5~2.0초 랜덤 딜레이.
+    SteamSpy는 비공식 API라 rate limit 기준이 불명확하므로 보수적으로 설정.
+
+[실패 건 재수집 방법]
+    1) 03b_steamspy_usertags_retry_cleanup.py 실행 -> success=False JSON 삭제
+    2) 이 파일(03a) 재실행 -> 삭제된 appid 만 재수집
+
+[태그 binary 변환]
+    파일 하단에 binary 변환 코드가 주석으로 존재.
+    논문(Trneny 2017) 52개 태그를 그대로 쓰지 않는 이유:
+        - 2017년에 없던 태그(Souls-like, Cozy 등)가 현재는 주요 태그
+        - Singleplayer/Multiplayer 등은 categories 피처와 중복
+        - Great Soundtrack 등 품질 평가성 태그는 출시 전 예측 불가
+    -> 수집 완료 후 05_analyze_tags.py 로 빈도 확인 후 태그 선정할 것.
+
+[다음 단계]
+    수집 완료 + 재수집(필요시 03b 활용)까지 마친 후
+    03c_steamspy_usertags_summary_generate.py 실행 -> 최종 통합 CSV 생성.
+================================================================================
+"""
+
 import os, json, time, random
 import pandas as pd
 import requests
