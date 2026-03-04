@@ -1,0 +1,424 @@
+﻿appid,min_text,hw_ram_gb,hw_storage_gb
+837470, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7 SP1 64-Bit    DirectX:  Version 10    Storage:  830 MB available space  ,2.0,0.811
+1135690, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7 SP1+    Processor:  SSE2 instruction set support    Graphics:  Graphics card with DX10 (shader model 4.0) capabilities.    Storage:  1 GB available space  ,2.0,1.0
+1127500, Minimum:     OS *:  Windows 7 SP1+    Processor:  2 GHz or faster processor    Graphics:  Shader Model 4.0    DirectX:  Version 10    Storage:  350 MB available space  ,2.0,0.342
+789760," Minimum:     OS *:  Windows10, 8, 7    Processor:  Amd A10-8750    Graphics:  Radeon R7    Storage:  6 GB available space  ",2.0,6.0
+435400, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7 SP1+ (64-bit)    Processor:  SSE2 instruction set support    Graphics:  DX10 (shader model 4.0) or higher.    DirectX:  Version 9.0    Storage:  300 MB available space  ,2.0,0.293
+814540, Minimum:     OS:  Windows  ,2.0,1.0
+474750, Minimum:     OS *:  Windows 7 or later  ,2.0,1.0
+458710, Minimum:     OS *:  Windows XP Service Pack 3    Processor:  Dual Core CPU    Graphics:  OpenGL 3.0 compliant with 512MB of video RAM.    Storage:  1500 MB available space  ,2.0,1.465
+744190," Minimum:     OS *:  Microsoft® Windows® XP/Vista/7,8, 10 or later    Processor:  1.8 Ghz Processor    Graphics:  Direct X 9.0c compatible video card    DirectX:  Version 9.0    Storage:  100 MB available space  ",2.0,0.098
+2075720, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10    Processor:  Intel i5-2500k (4 core 3.3 GHz) or AMD Ryzen 3 1200 (4 core 3.1 GHz)    Graphics:  Nvidia GeForce GTX 970 or AMD RX 480    DirectX:  Version 11    Storage:  20 GB available space  ,2.0,20.0
+113020, Minimum:     OS *: Windows XP or later 	   Processor: 1.2GHz processor 	   Graphics: Graphics Card that supports Pixel Shader 2.0 and Vertex Shader 2.0(Vertex Shader Support can be supported with software emulation) 	   DirectX®: 9.0 	   Hard Drive: 500 MB HD space  ,2.0,0.488
+232430, Minimum:  •  Windows 7 SP1 or higher •  1.80GHz Processor •  2GB Memory •  DX10 Video card with 512MB of VRAM • (NOTE: Intel HD Graphic 4000 NOT CURRENTLY SUPPORTED on Windows 8) •  2GB HDD space,2.0,1.0
+1939560, Minimum:     OS *:  Windows 10/8/7    Processor:  Intel Core 2 Duo 2GHz+ or better    Graphics:  Intel HD Graphics 4000 or later    DirectX:  Version 9.0    Storage:  2 GB available space  ,2.0,2.0
+1196630," Minimum:     OS *:  Windows XP    Graphics:  Open GL 3.2+ Compliant    Additional Notes:  1080p, 16:9 recommended  ",2.0,1.0
+1367300, Minimum:     OS *:  Windows 7+    Processor:  Intel i5+    Graphics:  Nvidia GTX 460 / Radeon HD 7800 or better    DirectX:  Version 10    Storage:  3 GB available space  ,2.0,3.0
+1102930, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows    Processor:  AMD 5 2500/Intel i5-7200    Graphics:  Integrated Graphics    DirectX:  Version 11    Storage:  2 GB available space  ,2.0,2.0
+22000, Minimum:    Requires a 64-bit processor and operating system  ,2.0,1.0
+642090, Minimum:    Requires a 64-bit processor and operating system    OS:  XP or higher    Storage:  1 GB available space  ,2.0,1.0
+283680," Minimum:     OS *:  Windows XP/Vista/7/8    Processor:  Core 2 Duo or faster    Graphics:  Shader Model 3.0 compatible, GeForce 8600GT (2007 model) or better    DirectX:  Version 9.0    Additional Notes:  Controller recommended  ",2.0,1.0
+2487060, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10    Processor:  Intel Core i3    Graphics:  Nvidia GTX 1050    Storage:  3 GB available space  ,2.0,3.0
+446000," Minimum:     OS *:  Windows (XP, 7, 10, 11)    Graphics:  Screen resolution minimum 1024x768. OpenGL 2.1 or better.    Storage:  49 MB available space    Additional Notes:  The game should run on almost any hardware, even outdated one. In case of problems run &quot;safe&quot; mode version.  ",2.0,0.048
+1436590," Minimum:     OS *:  Windows 7    Processor:  2 GHz Dual Core    Graphics:  Hardware Accelerated Graphics with dedicated memory, 1GB+  ",2.0,1.0
+2261050," Minimum:     OS *:  Windows 7 SP1+, 8, 10 (64bit)    Processor:  1.2+ GHz &amp; SSE2 support    Graphics:  DX10 (shader model 4.0) capabilities.    Storage:  3 GB available space  ",2.0,3.0
+525360," Minimum:     OS *:  Windows 7,  Windows 8, 8.1, Windows 10    Processor:  Intel core i5 2557M    Graphics:  GeForce GT440 or HD5570    DirectX:  Version 9.0c    Storage:  4 GB available space  ",2.0,4.0
+1339000, Minimum:     OS *:  Windows 7 or newer    Sound Card:  DirectX compatible  ,2.0,1.0
+1308700," Minimum:     OS *:  Windows 8.1 64bit    Additional Notes:  Maybe work on Windows 7, but we didn't provide any support.  ",2.0,1.0
+1769170, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10    Graphics:  OpenGL 2.0+ compatible    Storage:  250 MB available space  ,2.0,0.244
+252630, Minimum:     OS *:  Windows XP    DirectX:  Version 9.0c    Storage:  150 MB available space  ,2.0,0.146
+1510,,2.0,1.0
+1236720," Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7 SP1+    Processor:  x64 architecture with SSE2 instruction set support    Graphics:  DX10, DX11, DX12 Capable    DirectX:  Version 10    Storage:  1 GB available space    Additional Notes:  Hardware vendor officially supported drivers  ",2.0,1.0
+867490, Minimum:     OS:  WIN8/WIN10  ,2.0,1.0
+418190, Minimum:     OS *:  Windows 2000 / XP / Vista / 7 / 8  ,2.0,1.0
+1889040, Minimum:     OS *:  Windows 7    Processor:  1.8 GHz    Graphics:  Direct X 9.0c    DirectX:  Version 9.0c    Storage:  2 GB available space    Sound Card:  Any  ,2.0,2.0
+2915460, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows Vista or later    Graphics:  OpenGL 2.1 compatible  ,2.0,1.0
+2082410, Minimum:     OS *:  Windows 7 64-bit    Processor:  Intel Core2 Duo E8400 or AMD Athlon 64 X2 6000+    Memory:  TBA MB RAM    Graphics:  Geforce 9600 GT or AMD HD 3870 512MB    DirectX:  Version 9.0    Network:  Broadband Internet connection    Storage:  2 GB available space  ,2.0,2.0
+288120," Minimum:     OS *:  Windows 7, Windows Vista, Windows XP    DirectX:  Version 9.0c    Storage:  500 MB available space  ",2.0,0.488
+1198850, Minimum:     OS *:  Windows® 7/8/8.1/10    Processor:  Intel Core2 Duo or better    Graphics:  DirectX 9/OpenGL 4.1 capable GPU    DirectX:  Version 9.0    Storage:  3 GB available space    Additional Notes:  1280x768 or better Display.  Lag may occur from loading menus or maps.  Turn off other programs before running the game.  ,2.0,3.0
+339350, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+984560, Minimum:     OS *:  Microsoft® Windows® 7/8/8.1/10 (32bit/64bit)    Processor:  Intel Core2 Duo or better  ,2.0,1.0
+2652500," Minimum:     OS *:  Windows 7    Processor:  Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750    Graphics:  DX10, DX11, DX12 capable.    Storage:  2 GB available space  ",2.0,2.0
+861270, Minimum:     OS *:  Windows 7+  ,2.0,1.0
+1424710, Minimum:    Requires a 64-bit processor and operating system    OS:  64-bit Vista or Later    Processor:  1.2 GHZ    Graphics:  256 MB VRAM    Storage:  400 MB available space  ,2.0,0.391
+1517340," Minimum:     OS *:  windows 7, 8, 10    Processor:  Intel CORE i5    Graphics:  gtx 750 Ti    Storage:  1250 MB available space  ",2.0,1.221
+705290, Minimum:     OS *:  Windows XP SP2+    Processor:  SSE2 instruction set support or greater    Graphics:  DX9 (shader model 3.0) or greater    DirectX:  Version 9.0  ,2.0,1.0
+2246880," Minimum:     OS:  Windows 10 64-bit    Processor:  Quad-core Intel or AMD, 2.5 GHz or faster    Graphics:  A dedicated DirectX 11 or DirectX 12 compatible graphics card    DirectX:  Version 11    Storage:  500 MB available space    Additional Notes:  Laptop Integrated Graphics cards are sometimes not powerful enough to run the game.  ",2.0,0.488
+2986260, Minimum:     OS:    ,2.0,1.0
+2056880, Minimum:     OS *:  Windows XP / 7 / 8 / 10    Processor:  1.0 GHz    Graphics:  512 MB    DirectX:  Version 9.0    Storage:  500 MB available space    Sound Card:  DirectX compatible sound card  ,2.0,0.488
+789660, Minimum:     OS:  Windows 10    Processor:  Dual core 3Ghz+    Graphics:  NVidia 960 or equivalent    Storage:  100 MB available space  ,2.0,0.098
+2058570, Minimum:     Graphics:  1360 x 768 display  ,2.0,1.0
+2059660," Minimum:     OS *:  Windows 7 (SP1+) and Windows 10    Processor:  x86, x64 architecture with SSE2 instruction set support    Graphics:  DX10, DX11, DX12 capable  ",2.0,1.0
+1086010, Minimum:     OS *:  Windows 8    Storage:  4 GB available space  ,2.0,4.0
+1962450," Minimum:     OS *:  Windows 7    Processor:  Intel Core i3    Graphics:  GeForce GTX 560    Storage:  900 MB available space    Additional Notes:  1080p, 16:9  ",2.0,0.879
+733070, Minimum:     OS *:  Windows 7+  ,2.0,1.0
+1297160," Minimum:     OS *:  Windows 7 (SP1+) and Windows 10    Graphics:  DX10, DX11, DX12 capable.    Storage:  85 MB available space  ",2.0,0.083
+1841250, Minimum:     OS *:  Windows 7 and Newer    Processor:  1.8GHz Dual-Core CPU    Graphics:  Integrated Graphics    Storage:  2 GB available space  ,2.0,2.0
+3328720," Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10,11    Processor:  2.0 Ghz    Graphics:  GTX 1060/RX 580    DirectX:  Version 11    Storage:  2 GB available space    Additional Notes:  Recommend storing the application in a solid-state drive (SSD).  ",2.0,2.0
+1098770, Minimum:     OS *:  Windows Vista or later    Processor:  Pentium or higher 1.2 GHz    DirectX:  Version 9.0    Storage:  250 MB available space  ,2.0,0.244
+461700, Minimum:     OS *:  Windows 7    Processor:  -    Graphics:  -    Sound Card:  -    Additional Notes:  -  ,2.0,1.0
+2448930, Minimum:     OS *:  Windows Vista or greater    Processor:  2 Ghz    Storage:  500 MB available space  ,2.0,0.488
+3250970, Minimum:     OS *:  Windows® 7/8/8.1/10/11    Processor:  Intel Core2 Duo or better    Graphics:  DirectX 9/OpenGL 4.1 capable GPU    Storage:  2 GB available space  ,2.0,2.0
+2330870, Minimum:     OS:  Windows 10 64bit    Processor:  2GHz Dual Core    Graphics:  NVIDIA® GeForce® GTX 760 or AMD Radeon™ R7 260x with 2GB Video RAM  ,2.0,1.0
+389510, Minimum:     OS *:  Windows XP    DirectX:  Version 9.0c  ,2.0,1.0
+2226700, Minimum:     OS *:  Windows7/8/10    Processor:  Intel Core i5    Graphics:  NVIDIA Gef    Storage:  500 MB available space    Sound Card:  DirectX 11 Sound Device  ,2.0,0.488
+1586710, Minimum:     OS:  Windows 10    Processor:  INTEL® Pentium Dual Core G3250    Graphics:  Any with dx11 support    DirectX:  Version 11    Storage:  2 GB available space    Sound Card:  DirectX9c compliant  ,2.0,2.0
+1293170," Minimum:     OS *:  Windows 7 (SP1+) or Windows 10    Graphics:  DX10, DX11, DX12 capable.    Storage:  300 MB available space  ",2.0,0.293
+1579920, Minimum:     OS *:  Windows 7 and Newer    Processor:  Intel Core 4th Gen or similiar    Graphics:  Integrated Graphics    Storage:  1 GB available space  ,2.0,1.0
+453300," Minimum:     OS *:  Windows 7/8/8.1 32/64-bit    Graphics:  NVIDIA GeForce 400 series, or newer    DirectX:  Version 11    Storage:  250 MB available space    Additional Notes:  DirectX / XInput controller optimization (vibration function requires XInput)  ",2.0,0.244
+2246110, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10  ,2.0,1.0
+1301620, Minimum:     OS:  WIN7 SP1/WIN8/WIN10    Processor:  1.2 GHz    Graphics:  OpenGL 2.0  ,2.0,1.0
+652190," Minimum:     OS *:  Windows 7,8,10    Processor:  i5 or AMD equivalent    Graphics:  Nvidia GTX 770 or equivalent    DirectX:  Version 11    Storage:  4 GB available space    Sound Card:  Yeah probably so    Additional Notes:  Add some awesome headphones and a dark room if you dare! :)  ",2.0,4.0
+1318090, Minimum:     OS *:  Windows 7 or higher    Processor:  Intel i5 4690k    Graphics:  NVidia 970 or AMD equivalent    Storage:  4 GB available space    VR Support:  SteamVR  ,2.0,4.0
+551110, Minimum:     OS *:  Windows 7+  ,2.0,1.0
+1290270, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2766940, Minimum:     OS:  Windows® 10    Processor:  Intel Core2 Duo or better    Graphics:  DirectX 9/OpenGL 4.1 capable GPU  ,2.0,1.0
+2096510," Minimum:     OS *:  Windows 7 SP1+    Processor:  SSE2 support    Graphics:  true, need some graphics to display things    Sound Card:  sure, if you want to hear anything    Additional Notes:    ",2.0,1.0
+2642890, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10  ,2.0,1.0
+208600, Minimum:     VR Support:  SteamVR or Oculus PC  ,2.0,1.0
+1065580, Minimum:     OS *:  Windows 7 64-bit    Processor:  Intel Core i5-2XXX @ 2.0GHz / AMD Phenom II X4 @ 2.6GHz    Graphics:  Intel HD Graphics 3000 or better    DirectX:  Version 10    Storage:  190 MB available space  ,2.0,0.186
+2506580, Minimum:     Storage:  1600 MB available space  ,2.0,1.562
+753360, Minimum:     OS:  WIN7 SP1/WIN8/WIN10/    Processor:  2GHz以上    Graphics:  DirectX 9 compatible graphics card    Storage:  2 GB available space  ,2.0,2.0
+1905530, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7 or later    Processor:  Intel Core™ Duo or faster    Graphics:  OpenGL 3.2+ / DirectX 11+  ,2.0,1.0
+1892700, Minimum:     OS *:  Windows® 7/8/10/11 (32bit/64bit)    Storage:  500 MB available space  ,2.0,0.488
+2077400, Minimum:     OS *:  Windows 7    Processor:  Intel Core 2 Duo    Graphics:  OpenGL 2.0 or DirectX 9.0c compatible    Storage:  2 GB available space  ,2.0,2.0
+3019370, Minimum:    Requires a 64-bit processor and operating system    OS:  windows 10 or above    Processor:  Dual-core CPU  ,2.0,1.0
+1303740, Minimum:     OS *:  Windows 7 / 8 / 8.1 / 10    Processor:  Intel Pentium D 830 (2 * 3000) or equivalent    Graphics:  Geforce GT 610 (1024 MB) or equivalent    Storage:  500 MB available space  ,2.0,0.488
+1269500, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7 or higher    Processor:  2 GHz    Graphics:  Intel HD 3000 or better    DirectX:  Version 11    Storage:  2 GB available space  ,2.0,2.0
+1448030," Minimum:     OS *:  Windows XP, Vista, 7, 8, or 10    Processor:  2GHz+    Graphics:  1Gb    Storage:  250 MB available space  ",2.0,0.244
+520010, Minimum:     Processor:  Any i5 or Ryzen 5    Graphics:  NVidia Geforce GTX 1050 Ti    Storage:  500 MB available space    VR Support:  SteamVR. Standing or Room Scale    Additional Notes:  Additional disk space required for user created content.  ,2.0,0.488
+840100, Minimum:     OS:  Windows10    Processor:  Intel Core i5    Graphics:  NVIDIA GeForce GT 1030    Storage:  300 MB available space    Additional Notes:  made with Unity  ,2.0,0.293
+891170, Minimum:     OS *:  Windows 7/8/8.1/10 (32bit/64bit)  ,2.0,1.0
+2249830, Minimum:    Requires a 64-bit processor and operating system    Storage:  4567 MB available space  ,2.0,4.46
+298280, Minimum:     OS *:  Windows XP    Processor:  pentium dual core 2.5ghz    Graphics:  Intel HD Graphics 3000    Storage:  500 MB available space  ,2.0,0.488
+1210550, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10  ,2.0,1.0
+383580, Minimum:     OS *:  Windows XP/Windows Vista/Windows 7/8    Processor:  1.6 GHz    Graphics:  DirectX 9.0 Compatible    Storage:  20 MB available space    Sound Card:  DirectX 9.0 Compatible Sound  ,2.0,0.02
+856890," Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7, 64-bit    Processor:  2.8GHz CPU Quad Core    Graphics:  Geforce GTX 860 or equivalent    Sound Card:  DirectX Compatible Sound Card  ",2.0,1.0
+329830," Minimum:     OS *:  Windows 7    Processor:  Intel i3    Graphics:  AMD 6870 or equivalent    DirectX:  Version 9.0    Additional Notes:  The Moon Sliver will likely run on machines that do not meet these specs, if they are able to run other Unity Engine games.  ",2.0,1.0
+3250980, Minimum:     OS *:  Windows® 7/8/8.1/10/11    Processor:  Intel Core2 Duo or better    Graphics:  DirectX 9/OpenGL 4.1 capable GPU    Storage:  2 GB available space  ,2.0,2.0
+1266100, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+359440, Minimum:     OS *:  WindowsXP Vista 7    Storage:  30 MB available space  ,2.0,0.029
+2757720, Minimum:     Processor:  2.0 GHz Dual Core  ,2.0,1.0
+467400, Minimum:    Requires a 64-bit processor and operating system    Graphics:  Monitor Play - GTX 960 or equivalent. VR - GTX 970 or equivalent.    VR Support:  SteamVR or Oculus PC  ,2.0,1.0
+742480, Minimum:     OS *:  Windows 7+  ,2.0,1.0
+316840, Minimum:     OS *:  Windows XP/ Vista / 7 / 8*    Processor:  Intel Pentium 4 1.5GHz or better    Graphics:  Onboard graphics card will be plenty  ,2.0,1.0
+1863750, Minimum:     OS:  Windows7 64位或以上    Processor:  无要求    Memory:  4g MB RAM    Graphics:  无要求    Storage:  220 MB available space    Sound Card:    ,2.0,0.215
+2012440, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7 or higher    Processor:  Requires 64-bit processor and operating system  ,2.0,1.0
+2572560, Minimum:     OS:  Windows 10    Processor:  Intel Core i3    Graphics:  NVIDIA GeForce GT610    Network:  Broadband Internet connection    Storage:  5 GB available space  ,2.0,5.0
+960190," Minimum:     OS *:  Windows XP SP3    Processor:  Intel Core 2 Duo 2.1 ghz    Graphics:  2nd Generation Intel Core HD Graphics (2000/3000), 256MB    Storage:  400 MB available space  ",2.0,0.391
+1933700, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows® 7 (SP1) / Windows® 8 / Windows® 8.1    Processor:  2.6 GHz Intel® Core™ i5-750 or 3.2 GHz AMD Phenom™ II X4 955    Graphics:  NVIDIA GeForce GTX 460 or AMD Radeon HD5850 (1 GB VRAM)    Storage:  250 MB available space    Sound Card:  DirectX 11 sound device  ,2.0,0.244
+630870, Minimum:     OS *:  Windows 7/8/10/11    Processor:  Intel Pentium III 800MHz or higher    Graphics:  1280x720 Display or higher    DirectX:  Version 9.0c    Storage:  2 GB available space    Sound Card:  DirectSound compatible sound card  ,2.0,2.0
+1233530, Minimum:     Storage:  2 GB available space  ,2.0,2.0
+693940," Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7, Windows 10 and Windows 11 64-bit    Processor:  X64 architecture    Graphics:  DX11-supported    DirectX:  Version 11    Storage:  1000 MB available space  ",2.0,0.977
+2933180, Minimum:     OS:  Windows7    Processor:  IntelCore i3    Graphics:  DirectX 9/OpenGL 4.1 capable GPU    Storage:  80 GB available space  ,2.0,80.0
+1229890, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows® 7 (SP1) / Windows® 8 / Windows® 8.1    Processor:  2.6 GHz Intel® Core™ i5-750 or 3.2 GHz AMD Phenom™ II X4 955    Graphics:  NVIDIA GeForce GTX 460 or AMD Radeon HD5850 (1 GB VRAM)    Storage:  1 GB available space    Sound Card:  DirectX 11 sound device  ,2.0,1.0
+1466230, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10/11    Processor:  4th Generation Intel or equivalent AMD    Graphics:  Graphics card with DX10 (shader model 4.0) capabilities. 2GB VRAM.    DirectX:  Version 10    Storage:  2 GB available space  ,2.0,2.0
+453290, Minimum:     OS:  Windows    Processor:  Intel Core2 or better    Graphics:  DirectX® 9 level Graphics Card    DirectX:  Version 9.0    Storage:  200 MB available space  ,2.0,0.195
+1290350, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+418070, Minimum:     OS *:  Windows XP/Windows Vista/Windows 7/8/10 32-bit    Processor:  1.6 GHz    Graphics:  256 Mb    DirectX:  Version 5.2    Storage:  45 MB available space    Sound Card:  DirectX 9.0 Compatible Sound  ,2.0,0.044
+1300270," Minimum:     OS *:  Windows11, 10, 8, 7    Processor:      Storage:  500 MB available space  ",2.0,0.488
+1250440, Minimum:     OS *:  Windows 7 or higher (win64)    Processor:  Pentium 4 or Higher    Graphics:  250 MB or higher    Storage:  520 MB available space    Sound Card:  Any  ,2.0,0.508
+3198540, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10 or later    Storage:  20 MB available space  ,2.0,0.02
+1538850," Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7 or later    Processor:  i3 or better    Graphics:  NVIDIA GT 630 / 650m, AMD Radeon HD6570 or equivalent    Sound Card:  N/A  ",2.0,1.0
+333330," Minimum:     OS *:  Windows XP and superior versions (7, 8, 10,...)    Processor:  SSE2 instruction set support    Graphics:  shader model 2.0, generally everything made since 2004 should work.    DirectX:  Version 9.0    Storage:  200 MB available space  ",2.0,0.195
+1314770," Minimum:     OS:  Windows7,Windows10    Processor:  2.0 Ghz    Graphics:  1Gb Video Memory, capable of OpenGL 3.0+ support (2.1 with ARB extensions acceptable)    Storage:  2 GB available space  ",2.0,2.0
+1022480, Minimum:     OS *:  Windows 7    Processor:  2GHz    Graphics:  DirectX11 compatible    DirectX:  Version 11    Storage:  180 MB available space  ,2.0,0.176
+1265220, Minimum:     OS:  Window s7    Processor:  1.5 Ghz (Intel Celeron / AMD Athlon 64 x2)    DirectX:  Version 11    Storage:  1300 MB available space  ,2.0,1.27
+585950, Minimum:     OS *:  Windows 7+  ,2.0,1.0
+2959640, Minimum:     OS:  Windows® 10    Processor:  Intel Core2 Duo or better    Graphics:  DirectX 9/OpenGL 4.1 capable GPU    Storage:  2 GB available space  ,2.0,2.0
+3175720, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7 SP1+    Processor:  Intel Core 2    Graphics:  DirectX 11+    DirectX:  Version 11    Storage:  680 MB available space  ,2.0,0.664
+1055850, Minimum:     OS *:  Windows 7    Processor:  Intel or AMD CPU    Graphics:  DirectX compatible card    DirectX:  Version 9.0    Storage:  500 MB available space    Sound Card:  DirectX compatible sound card  ,2.0,0.488
+459010," Minimum:     OS *:  Windows 7 64 bit    Processor:  Intel i5-4590, AMD FX 8350 equivalent or greater    Graphics:  NVIDIA GTX 970 / AMD R9 290 equivalent or greater    DirectX:  Version 11    Storage:  9 GB available space    VR Support:  SteamVR  ",2.0,9.0
+1828690, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7 64-Bit    Graphics:  Dedicated Graphics Card  ,2.0,1.0
+331650, Minimum:     OS *:  Windows XP/Vista/7/8    Processor:  1.8 GHz Processor    Graphics:  3D graphics card compatible with DirectX 7    Storage:  1 GB available space    Sound Card:  directx compatible  ,2.0,1.0
+916040, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows windows support java 8    Graphics:  OpenGL 3.2 supported graphics card    Storage:  200 MB available space    Additional Notes:  Executable file is just executable jar file wrapped with jdk 8  ,2.0,0.195
+1343810, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2490160, Minimum:     OS *:  Windows 7    Processor:  Intel Core i3    Graphics:  GeForce GTX 560    Storage:  1500 MB available space  ,2.0,1.465
+394850," Minimum:     OS:  XP, Vista, 7, 8, 8.1    Processor:  2GHz    Graphics:  512MB    DirectX:  Version 9.0    Storage:  200 MB available space  ",2.0,0.195
+742490, Minimum:     OS *:  Windows 7+    Processor:  2.0Ghz+    Graphics:  Shader model 3.0  ,2.0,1.0
+347430, Minimum:     OS *:  Windows XP    Processor:  1.6 GHz    Graphics:  1024x768 resolution    DirectX:  Version 9.0c    Storage:  2 GB available space    Sound Card:  On board  ,2.0,2.0
+1032170, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10    Processor:  x86-64 2.0GHz    Graphics:  OpenGL 3.3 compatible graphics  ,2.0,1.0
+426330, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2113540, Minimum:    Requires a 64-bit processor and operating system    OS *:  windows7/8/10/11    Processor:  any type    Graphics:  any type    Storage:  5 GB available space    Sound Card:  you must have one  ,2.0,5.0
+1661900, Minimum:     Additional Notes:  Should work on everything.  ,2.0,1.0
+1184420, Minimum:     OS:  WIN7 SP1/WIN8/WIN10    Processor:  1.3GHz and above    Graphics:  Integrated graphics    DirectX:  Version 9.0c    Storage:  2000 MB available space    Sound Card:  Onboard sound  ,2.0,1.953
+320330, Minimum:     OS *:  Windows XP SP3 / Vista / 7 / 8    Processor:  Core 2 Duo 2.0GHz    Graphics:  GeForce 9800GT or better w /512MB VRAM    DirectX:  Version 9.0c    Storage:  3000 MB available space    Sound Card:  OpenAL compatible    Additional Notes:  IMPORTANT: Game was designed for 16:9 monitors 4:3 format is not supported  ,2.0,2.93
+464650, Minimum:     OS *:  Windows XP SP2+    Processor:  SSE2 instruction set support    Graphics:  DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities    Storage:  1037 MB available space  ,2.0,1.013
+3338380, Minimum:     OS *:  Windows® 7/8/8.1/10/11    Processor:  Intel Core2 Duo or better    Graphics:  DirectX 9/OpenGL 4.1 capable GPU    Storage:  2 GB available space  ,2.0,2.0
+1714550, Minimum:     OS *:  Windows® 7 (SP1) / Windows® 8 / Windows® 8.1    Processor:  2.6 GHz Intel® Core™ i5-750 or 3.2 GHz AMD Phenom™ II X4 955    Graphics:  NVIDIA GeForce GTX 460 or AMD Radeon HD5850 (1 GB VRAM)    Sound Card:  DirectX 11 sound device  ,2.0,1.0
+457320, Minimum:     OS *:  Windows 7    Processor:  i5-2500k    Graphics:  GTX 780    VR Support:  SteamVR or Oculus PC. Room Scale 2m by 1.5m area required  ,2.0,1.0
+2402280, Minimum:    Requires a 64-bit processor and operating system    OS:  7  ,2.0,1.0
+395270, Minimum:     OS *:  Windows XP or better    Processor:  Intel i3 or better    Graphics:  AMD 6870 or equivalent    DirectX:  Version 9.0  ,2.0,1.0
+1083760, Minimum:     DirectX:  Version 9.0    Storage:  50 MB available space  ,2.0,0.049
+1836030, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7+64位系统  ,2.0,1.0
+3132310, Minimum:     OS *:  Windows® 7/8/8.1/10/11    Processor:  Intel Core2 Duo or better    Graphics:  DirectX 9/OpenGL 4.1 capable GPU    Storage:  2 GB available space  ,2.0,2.0
+1112340, Minimum:     OS *:  Windows 7 or higher    Processor:  Intel Core i3    Graphics:  dedicated graphics card (opengl 3.0 support or higher)    Storage:  6 GB available space  ,2.0,6.0
+1299400, Minimum:    Requires a 64-bit processor and operating system    Storage:  20 MB available space  ,2.0,0.02
+451640, Minimum:     OS *:  Windows XP and newer    Processor:  1Ghz    Graphics:  DirectX or OpenGL compatible card    Storage:  100 MB available space  ,2.0,0.098
+724740, Minimum:     OS *:  Windows 7+  ,2.0,1.0
+1747300, Minimum:     OS *:  Windows® 7/8/10/11 (32bit/64bit)    Storage:  1500 MB available space  ,2.0,1.465
+654900," Minimum:     OS *:  Windows XP, 7, Vista, 8, 8.1, 10    Processor:  Intel Celeron 1800 MHz    Graphics:  Intel HD Graphics    DirectX:  Version 9.0    Storage:  10 MB available space  ",2.0,0.01
+1489590, Minimum:     OS *:  Windows XP or later    Processor:  1 GHz    Graphics:  256 MB or higher    DirectX:  Version 9.0    Storage:  100 MB available space    Sound Card:  any  ,2.0,0.098
+379530," Minimum:     OS *:  Windows XP or better    Processor:  2.33GHz or faster x86-compatible processor, or Intel Atom™ 1.6GHz or faster processor for netbook class devices    Storage:  100 MB available space  ",2.0,0.098
+2017340, Minimum:     OS *:  Windows 7    Processor:  2.0GHz Core 2 Duo    Graphics:  OpenGL 2.0 or DirectX 9.0c compatible    DirectX:  Version 10    Storage:  4000 MB available space    Sound Card:  Any onboard  ,2.0,3.906
+1744670," Minimum:     OS *:  Windows 7    Processor:  Intel(R) Core(TM) i5 3337U    Graphics:  NVIDIA GeForce GTX 1060, AMD Radeon RX 580 or higher    DirectX:  Version 11    Storage:  3 GB available space  ",2.0,3.0
+1582180, Minimum:     OS *:  Windows 7/ 8/ 10 (64-bit)    Processor:  Intel i5-4590/ AMD Ryzen 5 1500X or higher    Graphics:  NVIDIA GTX 960/ AMD Radeon R9 290 or higher  ,2.0,1.0
+411570, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+374410, Minimum:     OS *:  Windows 7    Processor:  1GHz Processor    Graphics:  3D graphics card with 512Mb  ,2.0,1.0
+375130, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+362160, Minimum:     OS *:  Windows XP    Processor:  Pentium 4. 2.0 Ghz    Storage:  535 MB available space    Additional Notes:  Resolution is 640x480  ,2.0,0.522
+2878720," Minimum:    Requires a 64-bit processor and operating system    OS:  windows 10 - 64 bit    Processor:  Intel i5-7500 / Ryzen 5 1600 equivalent or greater    Graphics:  NVIDIA GTX 1060 / RX 580 equivalent or greater    VR Support:  Steam VR，Meta quest2,Meta quest3,Pico4  ",2.0,1.0
+1796080, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows® 8.1/10/11 (64bit)    Storage:  499 MB available space    Additional Notes:  1280x720 or better Display  ,2.0,0.487
+592270, Minimum:     OS *:  Windows 7/8/10/11    Processor:  Intel Pentium 2.0GHz or higher    Graphics:  DirectX 9 or above compatible card with 512MB VRAM or more    DirectX:  Version 9.0c    Storage:  300 MB available space    Sound Card:  DirectSound compatible sound card  ,2.0,0.293
+2060480," Minimum:     OS *:  Windows 7 (SP1+), Windows 10 and Windows 11    Processor:  x86, x64 architecture with SSE2 instruction set support.    Graphics:  DX10, DX11, DX12 capable.    Additional Notes:  Hardware vendor officially supported drivers. For development: IL2CPP scripting backend requires Visual Studio 2015 with C++ Tools component or later and Windows 10+ SDK.  ",2.0,1.0
+340320," Minimum:     OS *:  Windows 7    Processor:  Dual core from Intel or AMD at 2.0 GHz    Graphics:  nVidia 320M or higher, or Radeon 7000 or higher, or Intel HD 3000 or higher  ",2.0,1.0
+2244200, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows® XP or higher    Processor:  Intel Pentium 3 or higher    Graphics:  64MB or greater graphics card    Storage:  5 GB available space  ,2.0,5.0
+982580," Minimum:     OS *:  windows7/8/10    Processor:  any type    Graphics:  any type    Sound Card:  you must have one, need not too expensive  ",2.0,1.0
+423120, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+838010, Minimum:     OS *:  Windows XP SP2+    Processor:  SSE2 instruction set support    Graphics:  DX9 (shader model 3.0) or DX11 with feature level 9.3 capabilities    Storage:  369 MB available space  ,2.0,0.36
+682170, Minimum:     OS:  Windows 10  ,2.0,1.0
+1107230, Minimum:     OS *:  WIndows 8    Graphics:  Graphics cards still under manufacturer support    Storage:  20 GB available space  ,2.0,20.0
+2268470, Minimum:     OS:  The most basic Windows    Graphics:  Any    Storage:  320 MB available space    Additional Notes:  Get real good headphones  ,2.0,0.312
+2770160, Minimum:     OS:  Windows 10 (64-bit) / Windows 11    Processor:  intel / amd    Graphics:  any    Storage:  100 MB available space    Sound Card:  any  ,2.0,0.098
+428460, Minimum:     OS *:  Windows 7    Processor:  Intel Core i3 or better    Storage:  200 MB available space  ,2.0,0.195
+421630, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2196980, Minimum:     OS:  Windows 10  ,2.0,1.0
+968420, Minimum:     OS *:  Windows 7    Processor:  Intel Core i5-7200U  2.50GHz    Graphics:  with DX10 (shader model 4.0)    DirectX:  Version 9.0    Storage:  1 GB available space  ,2.0,1.0
+294230," Minimum:     OS *:  Windows 7    Processor:  Dual core from Intel or AMD at 2.8 GHz    Graphics:  nVidia GeForce 7800, ATI/AMD Radeaon HD2600/3600  ",2.0,1.0
+1814170, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10    Storage:  53 MB available space    Additional Notes:  Mouse &amp; Keyboard Required  ,2.0,0.052
+800620, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+1705930," Minimum:    Requires a 64-bit processor and operating system    OS *:  64bit Windows 7, Windows 8, Windows 10    Processor:  AMD Ryzen 3 3200G; Intel I3-9100F    Graphics:  GTX 1030 2GB    Sound Card:  Realtek HD Audio  ",2.0,1.0
+2688900, Minimum:     OS *:  Windows 7  ,2.0,1.0
+543980, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+994870, Minimum:     OS *:  Windows XP/ME/Vista/7/8/10    Processor:  1.0GHz CPU    Graphics:  128MB    Storage:  2 GB available space    Sound Card:  DirectX compatible sound card  ,2.0,2.0
+92300,"   OS *:  Microsoft Windows XP, Windows Vista or Windows 7 								   Processor:  Intel Core™2 Duo Processor, AMD Athlon x2 Processor 								   Memory:  Windows XP：1GB, Windows Vista, 7：2GB 								   Graphics:  NVIDIA GeForce 7600 series, ATI Radeon HD 2400 series 								   DirectX®:  DirectX 9.0c 								   Hard Drive:  300 MB 								   Sound:  DirectSound compatible (DirectX 9.0c or higher) 								  ",2.0,0.293
+1257850, Minimum:     OS *:  Windows 7 or higher    Processor:  AMD Phenom II X4    Graphics:  Intel HD 620  ,2.0,1.0
+2417000, Minimum:    Requires a 64-bit processor and operating system    OS:  7  ,2.0,1.0
+2536650, Minimum:     OS:  Windows    Processor:  Yes    Graphics:  Yes  ,2.0,1.0
+332830," Minimum:     OS *:  Windows XP, Vista, 7, 8 or later    Graphics:  800x600 minimum resolution    Storage:  100 MB available space  ",2.0,0.098
+37400,"
+					 
+					  OS:  Windows 
+					  Processor:  Pretty much anything post-millennial, anything that runs DirectX 9.0c for particle effects. 
+					  Memory:  Anything over 256MB should do, anything that runs DirectX 9.0c for particle effects. 
+					  Graphics: Any DirectDraw compatible. PixelShader 1.4/ DirectX 9.0c capable card required for particle effects.  
+					  DirectX&reg;:  9.0c required for particle effects 
+					  Hard Drive:  150 MB 
+					  Sound:  Any Windows-compatible soundcard 
+					 
+					",2.0,0.146
+862580," Minimum:     OS *:  Windows Vista SP1 or higher    Graphics:  Graphics card with DX10 (shader model 4.0) capabilities.    DirectX:  Version 10    Storage:  250 MB available space    Sound Card:  Yes.    Additional Notes:  This game is extremely light to run due to how it handles the resolution and graphics. You do not need a mouse to play, everything is controlled with a keyboard or a controller.  ",2.0,0.244
+2997260, Minimum:     OS:  Windows 10    Processor:  AMD FX 6350 / Intel i3 4150    Graphics:  NVIDIA GeForce GT 740    Storage:  200 MB available space  ,2.0,0.195
+318310, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+356000, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+800600, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2090650, Minimum:     OS *:  Windows 7    Processor:  Intel(R) Core(TM) i5-3570 CPU @3.4GHz  ,2.0,1.0
+386520, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+396230, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+576620," Minimum:     OS *:  WIN 7 ,WIN 10    Processor:  i5    Graphics:  GT960    Storage:  500 MB available space    VR Support:  SteamVR  ",2.0,0.488
+2494440, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10    VR Support:  Steam VR  ,2.0,1.0
+2169120, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+705610, Minimum:     OS *:  Microsoft® Windows® XP/2000    Processor:  PC with 800MHz Intel® Pentium® III equivalent or higher processor    Graphics:  1024x768 or better video resolution in High Color mode    Storage:  128 MB available space    Sound Card:  DirectSound-compatible sound card  ,2.0,0.125
+733050, Minimum:     OS *:  Windows 7+  ,2.0,1.0
+359560," Minimum:     OS *:  Windows XP+    Processor:  SSE2 instruction set support    Graphics:  ATI Radeon 9500 and up, Radeon X series, Radeon HD series, NVIDIA GeForce 6xxx, 7xxx, 8xxx, 9xxx, GeForce GT, GTX series, Intel GMA X3000 (965) and up.    DirectX:  Version 9.0    Storage:  539 MB available space  ",2.0,0.526
+1006930, Minimum:     OS *:  Windows XP or later    Processor:  1.5 GHz Core2Duo    Graphics:  OpenGL 2 or higher    Storage:  430 MB available space  ,2.0,0.42
+2615290, Minimum:     OS:  Windows 10    Processor:  Intel i5    Graphics:  GeForce GT 710    DirectX:  Version 11    Storage:  1300 MB available space  ,2.0,1.27
+339510, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+1747560, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10  ,2.0,1.0
+2120320, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+1577320, Minimum:     OS:  Windows 10    DirectX:  Version 11    Network:  Broadband Internet connection    Storage:  4 GB available space  ,2.0,4.0
+2459180," Minimum:     OS:  Windows 10, Windows 11    Processor:  2.0 Ghz    Graphics:  1Gb Video Memory    Storage:  1 GB available space  ",2.0,1.0
+1401220," Minimum:     OS *:  Windows xp/7/8/10    Processor:  Intel Core 2 Quad Q6600 @ 2.4 GHz, AMD FX 8120 @ 3.1 GHz    Graphics:  DirectX 9 compatible graphics card  ",2.0,1.0
+482990, Minimum:     OS *:  Windows XP and newer    Processor:  1Ghz    Graphics:  DirectX or OpenGL compatible card    Storage:  60 MB available space  ,2.0,0.059
+799510," Minimum:     OS *:  Windows 7, 8, 8.1, or 10    Storage:  151 MB available space  ",2.0,0.147
+423320, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+1783800, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7    Processor:  Requires a 64-bit processor and operating system    Graphics:  Support for Vulkan  ,2.0,1.0
+2725090," Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7 SP1+, 8, 10; 64-bit versions only    Processor:  SSE2 instruction set support    Graphics:  Graphics card with DirectX 11 support and Shader Model 4.5  ",2.0,1.0
+918380, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+1259530, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows Vista+    Graphics:  OpenGL 2.1+    Storage:  50 MB available space  ,2.0,0.049
+447890," Minimum:     OS *:  Windows 7    Processor:  Dual core from Intel or AMD at 2.0 GHz    Graphics:  nVidia 320M or higher, or Radeon 7000 or higher, or Intel HD 3000  ",2.0,1.0
+2682120," Minimum:     OS *:  Windows 7 (SP1+), Windows 10 and Windows 11    Processor:  x86, x64 architecture with SSE2 instruction set support    Graphics:  DX10, DX11, DX12 capable    DirectX:  Version 10    Storage:  1 GB available space  ",2.0,1.0
+318330, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+416640, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+314200, Minimum:     OS *:  Windows XP    Processor:  1Ghz    Graphics:  DirectX or OpenGL compatible card    Storage:  185 MB available space  ,2.0,0.181
+1111810, Minimum:     OS *:  Microsoft® Windows® XP / Vista / 7 or higher    Processor:  Dual Core 2.0 GHz or higher    Graphics:  Compatible with DirectX 8.1    DirectX:  Version 8.1    Storage:  60 MB available space  ,2.0,0.059
+1658880," Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7    Processor:  2.0 GHz+, 32-bit    Graphics:  ATI Radeon X1300/NVIDIA GeForce 6600 GT/Intel HD 3000 or better    Network:  Broadband Internet connection    Storage:  200 MB available space    Sound Card:  Intel High Definition Audio  ",2.0,0.195
+438080, Minimum:     OS *:  Windows 7    Processor:  1.0 GHz Processor    Graphics:  DirectX compatible graphics  ,2.0,1.0
+299540, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7    Storage:  50 MB available space  ,2.0,0.049
+1198040, Minimum:     OS *:  Windows 7 SP1+    Processor:  SSE2 instruction set support    Graphics:  Graphics card with DX10 (shader model 4.0) capabilities    Additional Notes:  Made With Unity  ,2.0,1.0
+397780, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+574940," Minimum:    Requires a 64-bit processor and operating system    OS:  Windows™ 10    Processor:  Intel™ Core™ i5-4590 or AMD FX™ 8350, equivalent or better    Graphics:  NVIDIA GeForce™ GTX 970 or AMD Radeon™ R9 290, equivalent or better    DirectX:  Version 11    Storage:  3 GB available space    VR Support:  SteamVR    Additional Notes:  64 Bit and Oculus Touch / HTC Vive required  ",2.0,3.0
+1391450, Minimum:     OS *:  Microsoft® Windows® 7/8/8.1/10 (32bit/64bit)    DirectX:  Version 9.0    Storage:  360 MB available space    Additional Notes:  1280x720 or better Display  ,2.0,0.352
+425160," Minimum:     OS *:  Windows XP SP2, Vista, 7, 8, 10 or newer    Processor:  SSE2 instruction set support    Graphics:  GPU with DX9 (shader model 2.0) capabilities; generally everything made since 2004 should work.    Storage:  100 MB available space  ",2.0,0.098
+335920, Minimum:     OS *:  Windows 7  ,2.0,1.0
+2263510, Minimum:     OS:  10  ,2.0,1.0
+417980, Minimum:     OS *:  Windows XP    DirectX:  Version 9.0  ,2.0,1.0
+401840, Minimum:     OS *:  Windows XP    Processor:  1.7Ghz    Graphics:  512MHz GPU    DirectX:  Version 9.0    Storage:  200 MB available space  ,2.0,0.195
+1093520, Minimum:     OS *:  Windows 7 SP1+    Processor:  Supporting SSE2 instructions    Graphics:  DX10 compatible graphics card (shader model 4.0)  ,2.0,1.0
+657290, Minimum:     OS *:  Windows 7    Storage:  350 MB available space  ,2.0,0.342
+2497210, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10    Processor:  Intel i3 or similar    Storage:  2 GB available space  ,2.0,2.0
+1322650, Minimum:     OS *:  Windows 7 or later    Storage:  35 MB available space  ,2.0,0.034
+402150, Minimum:     OS *:  Windows XP or above    Storage:  700 MB available space  ,2.0,0.684
+624320," Minimum:     OS *:  Windows 7+    Processor:  1.7 GHz Processor    Graphics:  Nvidia or AMD graphics card with updated drivers, 256 MB    Storage:  350 MB available space    Additional Notes:  Mouse and keyboard or Xbox 360 controller  ",2.0,0.342
+1832050," Minimum:     OS:  64-bit Windows 10 or newer    Processor:  Intel i5, 2.4 GHz or better    Graphics:  AMD GCN-based GPU, Nvidia Kepler-based GPU or newer, Intel HD 4000 or newer (requires Metal)  ",2.0,1.0
+405650," Minimum:     OS *:  Windows XP+    Processor:  SSE2 instruction set support, generally everything made since 2004 should work    Graphics:  DX9 (shader model 2.0) capabilities; generally everything made since 2004 should work    DirectX:  Version 9.0    Storage:  75 MB available space  ",2.0,0.073
+1261760, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10  ,2.0,1.0
+343930, Minimum:     OS *:  Windows XP SP3    Processor:  1500 MHz    DirectX:  Version 9.0    Storage:  250 MB available space  ,2.0,0.244
+1892950, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2317300, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7 or higher    Processor:  3.0 GHz    Graphics:  Video card with 2GB of VRAM    DirectX:  Version 11    Storage:  3 GB available space  ,2.0,3.0
+2084180, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows® 8.1/10/11 (64bit)    Storage:  561 MB available space    Additional Notes:  1280x720 or better Display  ,2.0,0.548
+2098070, Minimum:     OS:  WIN7 SP1/WIN8/WIN10    Processor:  1000MHz    Storage:  2 GB available space  ,2.0,2.0
+885120, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+1233950, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+446310, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+858040, Minimum:     OS *:  Windows 7+  ,2.0,1.0
+748890, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+476490, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2251580, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+333260, Minimum:     OS *:  Microsoft® Windows® Vista / 7 / 8    Processor:  2GHz processor    Graphics:  DirectX 9 compatible graphics card with at least 256MB of video memory    Storage:  500 MB available space  ,2.0,0.488
+370150, Minimum:     OS *:  Windows XP    Storage:  100 MB available space  ,2.0,0.098
+416110, Minimum:     OS *:  Windows 7 - 32-bit    Processor:  Intel i3    Graphics:  Intel HD 4000    DirectX:  Version 9.0    Storage:  100 MB available space    Sound Card:  Probably a good idea  ,2.0,0.098
+385070, Minimum:     OS *:  Windows XP or above    Processor:  Intel Pentium 4 2.Ghz or above    Graphics:  Minimum 640x480 Desktop Resolution    Storage:  500 MB available space    Sound Card:  Stereo Sound  ,2.0,0.488
+1239660, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10  ,2.0,1.0
+1968540, Minimum:     Additional Notes:  A display with 16:9 aspect ratio is highly recommended  ,2.0,1.0
+2174900, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7 SP1  ,2.0,1.0
+370920, Minimum:     OS *:  Windows XP+    DirectX:  Version 9.0  ,2.0,1.0
+1610230, Minimum:    Requires a 64-bit processor and operating system    Storage:  200 MB available space  ,2.0,0.195
+2318810, Minimum:     OS:  win9-10    Processor:  intel corei5 34700    Graphics:  intel HD Graphic    Storage:  500 MB available space  ,2.0,0.488
+304290, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7    Storage:  50 MB available space  ,2.0,0.049
+377660, Minimum:     OS *:  Windows XP+    Processor:  Intel or AMD    DirectX:  Version 9.0    Storage:  200 MB available space  ,2.0,0.195
+334140," Minimum:     OS *:  Windows XP or newer    Processor:  1GHz Dual-Core    Graphics:  Any OpenGL 3.2 capable card (Radeon HD 2xxx Series or Mobility Radeon HD 4330; GeForce 8xxx(M) Series; Intel HD Graphics, Ivy Bridge; or higher)    Storage:  200 MB available space    Additional Notes:  Roche Fusion will run on any graphics card with support for OpenGL 3.2 or higher. If you are not sure that your card supports this, please make sure to look it up before you buy the game. (This is especially important for older AMD mobile, and integrated Intel GPUs).  ",2.0,0.195
+1861500, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7    Graphics:  OpenGL 3.3 or later    Storage:  4 MB available space    Additional Notes:  Display resolution: 1280 x 720  ,2.0,0.004
+439770, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+281060, Minimum:     OS *:  Windows XP or later    Processor:  Intel Core™ Duo or better    Graphics:  DirectX 9 compliant video card    Storage:  400 MB available space  ,2.0,0.391
+235720, Minimum:     Processor: 2.0GHz processor  ,2.0,1.0
+682470," Minimum:     OS *:  windowsXP,Vista,7,8,10    Processor:  1Ghz or faster processor    Graphics:  512MB VRAM    Storage:  1 GB available space  ",2.0,1.0
+1118740," Minimum:     OS *:  Windows 7, 8, 10, 32/64-bit    Processor:  1.6GHz or above    Graphics:  AMD Radeon HD 6670, GeForce GTX 200 series with at least 1GB    Storage:  500 MB available space    Sound Card:  Direct X 9.0c sound device  ",2.0,0.488
+524560, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+524540, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2541310, Minimum:     OS:  Windows 10    Processor:  2 GHz or faster processor    Graphics:  Shader Model 5.0    DirectX:  Version 11    Storage:  400 MB available space  ,2.0,0.391
+1524350, Minimum:     Storage:  500 MB available space  ,2.0,0.488
+406650, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+1584450,,2.0,1.0
+492370, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2432000," Minimum:     OS:  Windows 10, 64 Bit    Processor:  Intel i5 or new-gen i3 / AMD equivalent    Graphics:  NVIDIA GeForce GTX 1050    DirectX:  Version 12    Network:  Broadband Internet connection  ",2.0,1.0
+2729000, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10    Processor:  Yes    Graphics:  Yes  ,2.0,1.0
+2909230, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10 x64    Processor:  Intel Core i5  ,2.0,1.0
+1667490," Minimum:     OS *:  Windows 7    Processor:  x86, x64 architecture with SSE2 instruction set support    Graphics:  DX10, DX11, DX12 capable  ",2.0,1.0
+388730, Minimum:     OS *:  Windows XP    Graphics:  DirectX 9.0    DirectX:  Version 9.0    Storage:  450 MB available space  ,2.0,0.439
+2162160, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2330960, Minimum:     OS:  windows10  ,2.0,1.0
+2508210, Minimum:     OS *:  Windows 7/8/10/11    Processor:  Intel Pentium G6400    Graphics:  NVIDIA GTX 1050 Ti  ,2.0,1.0
+2806230," Minimum:     OS *:  Windows 7 (SP1+), Windows 10 and Windows 11    Processor:  x86, x64 architecture with SSE2 instruction set support    Graphics:  DX10, DX11, DX12 capable    DirectX:  Version 10    Storage:  1 GB available space  ",2.0,1.0
+401120, Minimum:     OS *:  Windows 7    Processor:  1.5GHz Processor    Graphics:  3D graphics card with 512Mb  ,2.0,1.0
+2353130, Minimum:     OS:  WIN10    Processor:  Pentium Dual Core级以上    Graphics:  Geforce FX5600级/ATI Radeon9600以上 (支持Shader 2.0以上的显卡)    DirectX:  Version 9.0c    Storage:  800 MB available space    Sound Card:  DirectX 可互换声卡    Additional Notes:  WINDOWS XP以下不能运行（含XP)  ,2.0,0.781
+736930," Minimum:     OS *:  Windows 7, 8, 10    Processor:  1.6 GHZ    Storage:  512 MB available space    Sound Card:  256 Mb Card  ",2.0,0.5
+312300, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7    Storage:  50 MB available space  ,2.0,0.049
+3013740, Minimum:    Requires a 64-bit processor and operating system    OS:  7  ,2.0,1.0
+446330, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2172490, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10/11    Processor:  Intel i5 / AMD 3 Series    Graphics:  Integrated Graphics    Storage:  1 GB available space  ,2.0,1.0
+906600," Minimum:     OS *:  Windows Vista, 7, 8, or 10    Storage:  200 MB available space    Additional Notes:  -  ",2.0,0.195
+2098080, Minimum:     OS *:  Windows 7    Processor:  1.3 Ghz and above    Graphics:  1GB of VRAM  ,2.0,1.0
+3344150, Minimum:     OS *:  Windows 7/8/10/11    Processor:  Intel Pentium G6400    Graphics:  NVIDIA GTX 1060  ,2.0,1.0
+1010970, Minimum:     OS *:  Windows XP/Vista/7/8/10    Processor:  Intel® Core 2 Duo    Storage:  800 MB available space  ,2.0,0.781
+444430," Minimum:     OS:  7 SP1+, 8, 10    Processor:  SSE2 instruction set support    Graphics:  DX9 (shader model 2.0) capabilities    DirectX:  Version 9.0    Storage:  150 MB available space  ",2.0,0.146
+2426020, Minimum:     OS:  7 or up should do    Processor:  Casio Calculator    Graphics:  You can try without one    Storage:  800 MB available space    Sound Card:  Yes  ,2.0,0.781
+1052580, Minimum:     OS *:  Windows 7 SP1+    Processor:  SSE2 instruction set support    Graphics:  DX10 (shader model 4.0) capabilities    DirectX:  Version 10  ,2.0,1.0
+1572270, Minimum:     OS:  Probably Windows 10    Additional Notes:  This game shouldn't be too taxing on your computer  ,2.0,1.0
+742150, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+1081880," Minimum:     OS *:  windowsXP,Vista,7,8,10    Processor:  1Ghz or faster processor    Graphics:  512MB VRAM    Storage:  1 GB available space  ",2.0,1.0
+524520, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+365210, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+1722520," Minimum:     OS *:  Windows 7, 8, 10    Processor:  2.3 GHz Dual Core    Graphics:  Intel HD 4000    Storage:  350 MB available space  ",2.0,0.342
+2004610, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2241390, Minimum:    Requires a 64-bit processor and operating system    OS:  Requires a 64-bit processor and operating system    Graphics:  preferably    Storage:  130 MB available space  ,2.0,0.127
+763930, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+594660, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2249040, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+992120, Minimum:     OS *:  Windows 7    Processor:  Intel Core i5    Graphics:  Nvidia GTX570    DirectX:  Version 10    Storage:  400 MB available space  ,2.0,0.391
+1779760, Minimum:     OS:      Processor:      Memory:  越大越好 GB RAM    Graphics:      Storage:  1 GB available space  ,2.0,1.0
+1677360, Minimum:    Requires a 64-bit processor and operating system    Storage:  80 MB available space  ,2.0,0.078
+607660, Minimum:     OS *:  Windows XP/Vista/7/8/10    Processor:  1.6GHz  ,2.0,1.0
+466430, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2706900, Minimum:     OS:  windows  ,2.0,1.0
+2182590, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+1914740, Minimum:     OS *:  Windows 7  ,2.0,1.0
+343370, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+489580," Minimum:     OS *:  Windows 7, Windows 10    Processor:  Intel Dual Core    Graphics:  GeForce 9600 GT    DirectX:  Version 9.0c    Storage:  500 MB available space  ",2.0,0.488
+865270, Minimum:     OS *:  Windows 7 SPI+    Processor:  SSE2 instruction set support    Graphics:  Graphics card with DX10 (shader model 4.0) capabilities    DirectX:  Version 10    Storage:  250 MB available space  ,2.0,0.244
+2677040, Minimum:     OS:  Windows    Processor:  Any computer produced in the 21st century can run this game    Graphics:  Any computer produced in the 21st century can run this game    Storage:  1024 MB available space    Sound Card:  Any computer produced in the 21st century can run this game    Additional Notes:    ,2.0,1.0
+1244930, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+1132100, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+1680500," Minimum:     OS *:  XP, Vista, Windows 7, Windows 8.1, Windows 10    Processor:  1.6 Ghz    Graphics:  128 MB di RAM    DirectX:  Version 9.0    Storage:  1 GB available space  ",2.0,1.0
+1171820, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+532980," Minimum:     OS *:  Windows 7, 8.1 or 10    Storage:  200 MB available space  ",2.0,0.195
+2202690, Minimum:     Additional Notes:  A display with 16:9 aspect ratio is highly recommended  ,2.0,1.0
+2736480, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10    Processor:  2.3 GHz Dual Core    Graphics:  Intel HD 4000    Storage:  700 MB available space  ,2.0,0.684
+1761630, Minimum:     OS:  Windows 10  ,2.0,1.0
+1110030, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+596910, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2891250, Minimum:     OS:  Windows 10  ,2.0,1.0
+1215320, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10    Storage:  565 MB available space  ,2.0,0.552
+1602980, Minimum:     OS *:  win 7    Processor:      Graphics:      Sound Card:    ,2.0,1.0
+2127230," Minimum:     OS *:  Windows 7    Processor:  it's best if you have one    Graphics:  you'll need a screen    Storage:  60 MB available space    Sound Card:  if your computer can play sound, you should be good    Additional Notes:  in theory, if your computer can run Windows, it can run MOONPONG  ",2.0,0.059
+3509770, Minimum:     OS:  Windows 10 Home 64bit    Storage:  700 MB available space  ,2.0,0.684
+661120, Minimum:     OS *:  Windows XP or Above    Processor:  Intel Pentium 4 2.Ghz or above    Graphics:  Minimum 640x480 Desktop Resolution    Storage:  500 MB available space    Sound Card:  Stereo Sound  ,2.0,0.488
+1655890, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7    Processor:  Requires a 64-bit processor and operating system    Graphics:  Support for OpenGL 3.3  ,2.0,1.0
+683830, Minimum:     OS *:  Microsoft® Windows® XP    Processor:  Intel® Pentium® III or higher    DirectX:  Version 9.0    Storage:  300 MB available space    Sound Card:  DirectX® Compatible  ,2.0,0.293
+1838820, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+1233720, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2925310, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10    Processor:  Yes    Graphics:  Yes  ,2.0,1.0
+104000,,2.0,1.0
+2119470, Minimum:     OS *:  Windows 7 SP1+    Processor:  X64 architecture with SSE2 instruction set support    Graphics:  Graphics card with DX10 (shader model 4.0) capabilities.    Storage:  100 MB available space  ,2.0,0.098
+1166600, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+3089700, Minimum:    Requires a 64-bit processor and operating system    OS:  10  ,2.0,1.0
+1137400, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+2004180, Minimum:     OS *:  Windows 7 / 8 / 8.1 / 10    Processor:  Any processor w/ a clock rate of 2 GHz    Graphics:  CPU-integrated or on-board graphics    DirectX:  Version 9.0    Storage:  220 MB available space    Sound Card:  Built-in sound chipset  ,2.0,0.215
+1454090, Minimum:     OS:  win10    Processor:  Just a simple game    Graphics:  Just a simple game    Sound Card:  Just a simple game  ,2.0,1.0
+618360," Minimum:     OS *:  Windows XP SP2, Vista, Windows 7, Window 10    Graphics:  Integrated Graphics    DirectX:  Version 9.0    Storage:  300 MB available space  ",2.0,0.293
+405860, Minimum:     OS *:  Windows 7    Graphics:  Any graphics card that can handle WebGL    DirectX:  Version 11    Storage:  300 MB available space  ,2.0,0.293
+2456280, Minimum:     Storage:  200 MB available space  ,2.0,0.195
+2526500, Minimum:     OS:  Windows 10  ,2.0,1.0
+2655740," Minimum:     OS:  Windows 10, 11    Processor:  2.3 GHz Dual Core    Graphics:  Intel HD 4000    Storage:  350 MB available space  ",2.0,0.342
+1393910, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+1441670, Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10    Processor:  2 Ghz    Graphics:  Intel HD Graphics 4000    Storage:  200 MB available space  ,2.0,0.195
+708150, Minimum:     OS *:  Windows XP SP3 x64    Processor:  1500 MHz  ,2.0,1.0
+1395540, Minimum:     OS *:  Windows XP/Vista/7/8    Processor:  2 Ghz Dual Core    Graphics:  Graphics card supporting DirectX 9.0c    DirectX:  Version 9.0c    Storage:  100 MB available space    Sound Card:  Any  ,2.0,0.098
+2641070," Minimum:    Requires a 64-bit processor and operating system    OS:  Windows 10    Storage:  959 MB available space    Additional Notes:  Non gaming laptops might experience some lag, but anything beyond a potato should be fine.  ",2.0,0.937
+410150, Minimum:     OS *:  Windows Vista/7/8/10    Processor:  1.66 GHz or faster 32-bit (x86) or 64-bit (x64) processor    Graphics:  OpenGL 1.3 or higher    Storage:  150 MB available space  ,2.0,0.146
+3259390, Minimum:     OS:  Windows 10  ,2.0,1.0
+513610," Minimum:     OS *:  Windows XP, Vista, 7, or later    Graphics:  DirectX 9 (or later) compatible graphics card with at least 32MB of memory    DirectX:  Version 9.0    Sound Card:  DirectX 9 compatible sound card  ",2.0,1.0
+998790, Minimum:     OS:  Win7 or newer    DirectX:  Version 10    Storage:  350 MB available space  ,2.0,0.342
+772270, Minimum:     OS *:  Windows XP / Visa / 7    Processor:  Direct X9.0 Compatible Card    Graphics:  Direct X9.0 Compatible Card    DirectX:  Version 9.0    Storage:  1 GB available space    Sound Card:  Yes  ,2.0,1.0
+3287300, Minimum:     OS:  Windows 10    Processor:  Intel Core i3 Dual Core    Graphics:  NVIDIA Geforce GTS 450 / AMD Radeon HD 5570    Storage:  100 MB available space  ,2.0,0.098
+1897250, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+1166840, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7  ,2.0,1.0
+1181330," Minimum:     OS *:  Windows 7, 8, 10    Processor:  Any 2.0 GHz    Graphics:  NVIDIA GeForce GT 710 / AMD Radeon R7 240    DirectX:  Version 9.0    Storage:  2 GB available space  ",2.0,2.0
+780750, Minimum:     OS *:  windows 7/8/10    Processor:  Any    Graphics:  Any    Storage:  20 MB available space  ,2.0,0.02
+1282090, Minimum:     OS *:  Windows 7 or 10    Processor:  Intel i3    Graphics:  GTX 560    DirectX:  Version 11    Storage:  1 GB available space    Sound Card:  Yes  ,2.0,1.0
+1319790, Minimum:    Requires a 64-bit processor and operating system    OS *:  Windows 7 SP1+  ,2.0,1.0
+2862990, Minimum:     OS *:  Windows 7+    Graphics:  ATI Radeon X1300/NVIDIA GeForce 6600 GT/Intel HD 3000 or better    Storage:  300 MB available space    Sound Card:  any  ,2.0,0.293
+2512430, Minimum:    Requires a 64-bit processor and operating system    OS *:  Microsoft Windows 7 64-bit    Processor:  2.6Ghz Dual Core or Similar    Graphics:  GeForce 700 Series or Similar    Storage:  1 GB available space  ,2.0,1.0
+786180, Minimum:     OS *:  Windows 7 / 8 / 10    Processor:  Intel Pentium G    Graphics:  Intel HD Graphics    DirectX:  Version 11    Network:  Broadband Internet connection    Storage:  300 MB available space  ,2.0,0.293
+595780, Minimum:     OS *:  Microsoft® Windows® XP / Vista / 7 (32-bit/64-bit)    Processor:  Intel® Pentium® 4 2.0 GHz equivalent or faster processor    Graphics:  1024 x 768 pixels or higher desktop resolution    Storage:  400 MB available space  ,2.0,0.391
+1009700, Minimum:     OS *:  Windows 7    Processor:  1GHz    Graphics:  64MB VRAM    DirectX:  Version 7.0    Storage:  136 MB available space    Sound Card:  Any  ,2.0,0.133
+2341050, Minimum:     OS:  Windows 10    Processor:  2 Ghz Dual Core    Graphics:  Graphics card supporting DirectX 9.0c    Storage:  350 MB available space    Sound Card:  Any  ,2.0,0.342
+686520, Minimum:     OS *:  Windows XP SP3    Processor:  1500 MHz    DirectX:  Version 9.0  ,2.0,1.0
+1920700, Minimum:     OS *:  Windows 7    Processor:  Intel Quad Core    Graphics:  Intel integrated card    Storage:  100 MB available space    Sound Card:  Intel integrated card  ,2.0,0.098
+2934990, Minimum:     OS:  Windows 10    Processor:  Intel Core i3 Dual Core    Graphics:  NVIDIA Geforce GTS 450 / AMD Radeon HD 5570    DirectX:  Version 10    Storage:  100 MB available space  ,2.0,0.098
+1588940, Minimum:     OS:  7/8/10    Processor:  2 GHz    Graphics:  256mb    DirectX:  Version 9.0    Storage:  240 MB available space  ,2.0,0.234
+2825250, Minimum:     OS:      Processor:      Memory:  偶数であれば MB RAM    Graphics:      Storage:  500 MB available space  ,2.0,0.488
+1711840, Minimum:     OS *:  Windows 7 SP1+    Processor:  SSE2 instruction set support    Storage:  500 MB available space  ,2.0,0.488
+1197150, Minimum:     OS *:  WindowsR 7/8/8.1/10 (32bit/64bit)    Processor:  Intel Core2 Duo or better    Graphics:  DirectX 9/OpenGL 4.1 capable GPU    DirectX:  Version 10    Storage:  500 MB available space    Sound Card:  any  ,2.0,0.488
+545590, Minimum:     OS *:  Windows XP    Processor:  Intel Pentium 4    Graphics:  DirectX 9.0 compatible video card    DirectX:  Version 9.0c    Storage:  200 MB available space    Sound Card:  Any sound card  ,2.0,0.195
+2804960," Minimum:     OS:  Windows10,Windows11  ",2.0,1.0
+2863090, Minimum:     OS *:  Windows 7+    Graphics:  ATI Radeon X1300/NVIDIA GeForce 6600 GT/Intel HD 3000 or better    Storage:  300 MB available space    Sound Card:  any  ,2.0,0.293
+781640, Minimum:     OS:  7+    Processor:  Intel Core 2 or better    Graphics:  DirectX9 compatible graphics card    DirectX:  Version 9.0    Storage:  50 MB available space  ,2.0,0.049
+1079970, Minimum:     OS *:  Windows XP/ME/Vista/7/8/10    Processor:  1.0GHz CPU    Graphics:  128MB    DirectX:  Version 9.0    Storage:  500 MB available space    Sound Card:  DirectX compatible sound card  ,2.0,0.488
+821390, Minimum:     OS:  7    Processor:  Intel® Core™ Duo    Graphics:  onboard    DirectX:  Version 7.0    Storage:  1 GB available space    Sound Card:  onboard  ,2.0,1.0
+2940020, Minimum:     OS:  Windows 10 or later (32-bit or 64-bit x86)    Storage:  468 MB available space  ,2.0,0.457
+1039200, Minimum:     OS *:  Windows 7 or higher    Processor:  1 Ghz Cpu    Graphics:  128 MB graphics card minimum    Storage:  50 MB available space  ,2.0,0.049
+1410600, Minimum:     OS *:  Windows 7 / 8 / 8.1 / 10    Processor:  1 GHz 32-bit or 64-bit processor    Graphics:  CPU-integrated or on-board graphics    Storage:  300 MB available space  ,2.0,0.293
+1389890, Minimum:     OS:  Windows Kitten Edition    Processor:  Yes    Graphics:  They are really good    DirectX:  Version 11    Storage:  17 MB available space    Sound Card:  Kittens Meow  ,2.0,0.017
+798850, Minimum:     OS:  7    Processor:  core 2 duo    Graphics:  onboard    DirectX:  Version 8.0    Storage:  1 GB available space    Sound Card:  onboard  ,2.0,1.0
+1268250, Minimum:     OS *:  Windows 7    Storage:  600 MB available space  ,2.0,0.586
