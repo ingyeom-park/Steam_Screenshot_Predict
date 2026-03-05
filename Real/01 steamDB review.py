@@ -24,30 +24,22 @@ from tqdm import tqdm
 # ──────────────────────────────────────────────
 # 설정
 # ──────────────────────────────────────────────
-BASE = r"C:\Users\Administrator\Desktop\Steam_Screenshot_Predict\Real"
+BASE = r"C:\Users\ingyeom.park\Desktop\Steam_Screenshot_Predict\Real"
 
 INPUT_CSV  = BASE + r"\01 steamDB appid, gamename\01 steamDB appid, gamename.csv"
 OUTPUT_CSV = BASE + r"\01 steamDB review\01 SteamDB review accumulate.csv"
 DONE_CSV   = BASE + r"\01 steamDB review\01 done appids.csv"
 
 COOKIE = (
-    "__Host-cc=us; "
-    "__Host-steamdb=9213941-5c75f9bf2cdb2c5d3b5f5f151140b27c5ba8936b; "
-    "cf_clearance=xMVpm6Ms0jDAbAqest7YCwRWkt7ISB2Lt9jnYbN9jPA-1772640101-1.2.1.1-"
-    "skrJwDy5NdvGhCO.JCIa7ymbS2FxQjLBEHBNlqBaDQCqcOtR7G5cYNBVD3hA7aIt3vpdm_tUsit"
-    ".GdWqomaCEDPUs3hTrTsTmNiIMOFfpOfuExgmRGQ1KbHE70newkQvykFMbY7CqYqiPZtBijkqsH49"
-    "H.YYcgMSD3v5GKCKC1..diXclZuh17YlBs8CgtKu0ji3jrXgDy1RJ2_uGXnl4Tcc0MxXeI4fOy1u"
-    "BebugLBI240mSg2t.TATY.pAgH0H"
+    "__Host-cc=us; __Host-steamdb=9202041-26f77e871cbf96a54c7715ea7140f4ea890805ff; cf_clearance=UUoRr3kSWQz3DFsd206At9JCzWwLMOzo_HL9ZhsFJD0-1772669077-1.2.1.1-_b_UV9J2jK_eck8CghV0G45gIzfZVKvTG4jFF0xBHSoANLRGU5zyKx.M7AEZwE6l5D2h.RN5Yh9HRz8EJXVYvZcBr4nhlWP3R.x2CLw3YBWapKk0izC0vcu.zl_JT.A9nXawfbMfwTvKK3WaIAPl8l_Im9Uvip9.NMsMrC.cDvsCDu1B2rpKXcRz_QKb5ETUXPE_LtxrD1lGQ26kAtWj0m.GsSKR0QYoF5xMag8uQHeRTOBsPN4A3zWcPf37..mV"
 )
 
 USER_AGENT = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/145.0.0.0 Safari/537.36"
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
 )
 
 API_URL       = "https://steamdb.info/api/GetGraphReviewsLoggedIn/"
-REQUEST_DELAY = 2.0   # 초 (SteamDB는 매우 민감하므로 기본 딜레이 상향)
+REQUEST_DELAY = 5.0   # 초 (SteamDB는 매우 민감하므로 기본 딜레이 상향)
 RETRY_WAIT    = 60    # 429 발생 시 대기 초
 
 FIELDNAMES = [
