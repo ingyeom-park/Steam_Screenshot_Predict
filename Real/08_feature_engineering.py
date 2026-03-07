@@ -7,10 +7,9 @@
   - 05_selected_tags_final.csv
   - 06_image_features.csv
   - 07a_pc_requirements.csv       ← 07a 출력
-  - 07b_tfidf_features.csv        ← 07b 출력
 
 출력:
-  - 08_features_X.csv             최종 피처 행렬 (appid 포함)
+  - 08_features_X.csv             최종 피처 행렬 (appid 포함) + text_for_tfidf 컬럼
   - 08_feature_columns.txt        그룹별 피처 목록
 
 피처 그룹:
@@ -21,8 +20,9 @@
   [E] 언어 지원     10개 binary
   [F] 하드웨어      07a_pc_requirements.csv 에서 로드
   [G] 개발사 경력   dev_prev_count (1개)
-  [H] TF-IDF       07b_tfidf_features.csv 에서 로드
-  [I] 수치 피처     price_usd 등 13개
+  [H] TF-IDF       → 09에서 train-only fit 처리
+                     이 파일은 text_for_tfidf 컬럼만 전달
+  [I] 수치 피처     price_usd 등 11개
 
 제외 확정:
   - is_sequel                    (패턴 오탐 多, 예측 기여 불분명)
@@ -33,6 +33,7 @@
   - dev_prev_max/min/gini         (현재 시점 누적값 — 의미 왜곡)
   - tag_Sexual_Content/Gore/Violent  (genre와 완전 중복)
   - NOISY_CATS                   (Steam 시스템 기능 컬럼)
+  - 07b_tfidf_features.csv       (전체 fit → leakage, 09에서 재처리)
 """
 
 import pandas as pd
@@ -47,7 +48,6 @@ USERTAGS    = BASE + r"\03 SteamSpy UserTags\03_UserTags_summary.csv"
 TAGS_FINAL  = BASE + r"\05 analyze tags\05_selected_tags_final.csv"
 IMG_FEATS   = BASE + r"\06 opencv features\06_image_features.csv"
 HW_FEATS    = BASE + r"\07 preprocess\07a_pc_requirements.csv"
-TFIDF_FEATS = BASE + r"\07 preprocess\07b_tfidf_features.csv"
 
 OUT_X    = BASE + r"\08 features\08_features_X.csv"
 OUT_COLS = BASE + r"\08 features\08_feature_columns.txt"
@@ -85,6 +85,18 @@ def safe_col(s):
     return re.sub(r"[^a-zA-Z0-9_]", "_", s).strip("_")
 
 
+def clean_text(raw):
+    if pd.isna(raw):
+        return ""
+    s = str(raw)
+    s = re.sub(r"<[^>]+>", " ", s)
+    s = re.sub(r"&[a-zA-Z]+;", " ", s)
+    s = re.sub(r"&#\d+;", " ", s)
+    s = re.sub(r"\d+", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+
 # ══════════════════════════════════════════════════════════════
 print("=" * 60)
 print("[1] 데이터 로드")
@@ -95,9 +107,8 @@ tags_raw   = pd.read_csv(USERTAGS,    encoding="utf-8-sig")
 tags_final = pd.read_csv(TAGS_FINAL,  encoding="utf-8-sig")
 img_df     = pd.read_csv(IMG_FEATS,   encoding="utf-8-sig")
 hw_df      = pd.read_csv(HW_FEATS,    encoding="utf-8-sig")
-tfidf_df   = pd.read_csv(TFIDF_FEATS, encoding="utf-8-sig")
 
-for d in [df, tags_raw, img_df, hw_df, tfidf_df]:
+for d in [df, tags_raw, img_df, hw_df]:
     d["appid"] = d["appid"].astype(str)
 
 df = df[df["success"] == True].copy()
@@ -248,12 +259,17 @@ print(f"  prev_count=0 (신규): {(dev_features['dev_prev_count']==0).sum():,}�
 
 
 # ══════════════════════════════════════════════════════════════
-print(f"\n[H] TF-IDF — 07b_tfidf_features.csv 로드")
+print(f"\n[H] TF-IDF 텍스트 원문 전달 (09에서 train-only fit)")
+# 07b_tfidf_features.csv 는 전체 fit → leakage
+# 대신 detailed_description clean text를 text_for_tfidf 컬럼으로 넘김
+# 09에서: train에만 fit → train/test 각각 transform → 50개 컬럼 생성
 
-tfidf_use = tfidf_df[tfidf_df["appid"].isin(valid_appids)].copy()
-tfidf_cols = [c for c in tfidf_use.columns if c != "appid"]
-print(f"TF-IDF 피처: {len(tfidf_cols)}개")
-print(f"  ※ 09에서 train-only fit으로 교체 필수")
+text_df = df[["appid"]].copy()
+text_df["text_for_tfidf"] = df["detailed_description"].apply(clean_text)
+
+empty_text = (text_df["text_for_tfidf"].str.strip() == "").sum()
+print(f"텍스트 있음: {len(text_df) - empty_text:,}개  없음: {empty_text:,}개")
+print(f"  → 09에서 TfidfVectorizer.fit(X_train['text_for_tfidf']) 후 transform 적용")
 
 
 # ══════════════════════════════════════════════════════════════
@@ -280,15 +296,20 @@ print(f"\n[merge] 전체 병합")
 
 merged = df[["appid"]].copy()
 for feat_df in [img_merged, tag_features, cat_features, genre_features,
-                lang_features, hw_use, dev_features, tfidf_use, num_df]:
+                lang_features, hw_use, dev_features, num_df]:
     merged = merged.merge(feat_df, on="appid", how="left")
 
+# text_for_tfidf는 fillna(0) 대상에서 제외하고 별도 병합
+merged = merged.merge(text_df, on="appid", how="left")
+
 merged = merged.drop_duplicates(subset="appid").copy()
-feature_cols = [c for c in merged.columns if c != "appid"]
+
+feature_cols = [c for c in merged.columns if c not in ("appid", "text_for_tfidf")]
 merged[feature_cols] = merged[feature_cols].fillna(0)
+merged["text_for_tfidf"] = merged["text_for_tfidf"].fillna("")
 
 print(f"최종 게임 수: {len(merged):,}개")
-print(f"최종 피처 수: {len(feature_cols)}개")
+print(f"최종 수치 피처 수: {len(feature_cols)}개  (text_for_tfidf 별도)")
 
 
 # ══════════════════════════════════════════════════════════════
@@ -306,14 +327,13 @@ groups = [
     ("언어 지원",      [c for c in feature_cols if c.startswith("lang_")]),
     ("하드웨어",       [c for c in feature_cols if c.startswith("hw_")]),
     ("개발사 경력",    [c for c in feature_cols if c.startswith("dev_")]),
-    ("TF-IDF ※leakage", [c for c in feature_cols if c.startswith("tfidf_")]),
     ("수치/기타",      [c for c in feature_cols if not any(
-        c.startswith(p) for p in ["thumb_","ss0_","tag_","cat_","genre_","lang_","hw_","dev_","tfidf_"])]),
+        c.startswith(p) for p in ["thumb_","ss0_","tag_","cat_","genre_","lang_","hw_","dev_"])]),
 ]
 
 f = open(OUT_COLS, "w", encoding="utf-8")
-f.write(f"총 피처 수: {len(feature_cols)}\n")
-f.write("※ TF-IDF: 09_modeling.py에서 train-only fit으로 교체 필수\n\n")
+f.write(f"총 수치 피처 수: {len(feature_cols)}\n")
+f.write("text_for_tfidf: 별도 컬럼 (09에서 train-only TF-IDF fit 후 50개 생성)\n\n")
 for gname, cols in groups:
     f.write(f"[{gname}] {len(cols)}개\n")
     for c in cols:
@@ -328,4 +348,5 @@ print("=" * 60)
 print("\n피처 그룹 요약:")
 for gname, cols in groups:
     print(f"  {gname:<25} {len(cols):>4}개")
-print(f"  {'합계':<25} {len(feature_cols):>4}개")
+print(f"  {'text_for_tfidf':<25}    1개  (→ 09에서 TF-IDF 50개로 변환)")
+print(f"  {'수치 피처 합계':<25} {len(feature_cols):>4}개")

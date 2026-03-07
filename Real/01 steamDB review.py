@@ -24,18 +24,18 @@ from tqdm import tqdm
 # ──────────────────────────────────────────────
 # 설정
 # ──────────────────────────────────────────────
-BASE = r"C:\Users\ingyeom.park\Desktop\Steam_Screenshot_Predict\Real"
+BASE = r"\Real"
 
-INPUT_CSV  = BASE + r"\01 steamDB appid, gamename\01 steamDB appid, gamename.csv"
+INPUT_CSV  = r"Real\01 steamDB appid, gamename\01 steamDB appid, gamename.csv"
 OUTPUT_CSV = BASE + r"\01 steamDB review\01 SteamDB review accumulate.csv"
 DONE_CSV   = BASE + r"\01 steamDB review\01 done appids.csv"
 
 COOKIE = (
-    "__Host-cc=us; __Host-steamdb=9202041-26f77e871cbf96a54c7715ea7140f4ea890805ff; cf_clearance=UUoRr3kSWQz3DFsd206At9JCzWwLMOzo_HL9ZhsFJD0-1772669077-1.2.1.1-_b_UV9J2jK_eck8CghV0G45gIzfZVKvTG4jFF0xBHSoANLRGU5zyKx.M7AEZwE6l5D2h.RN5Yh9HRz8EJXVYvZcBr4nhlWP3R.x2CLw3YBWapKk0izC0vcu.zl_JT.A9nXawfbMfwTvKK3WaIAPl8l_Im9Uvip9.NMsMrC.cDvsCDu1B2rpKXcRz_QKb5ETUXPE_LtxrD1lGQ26kAtWj0m.GsSKR0QYoF5xMag8uQHeRTOBsPN4A3zWcPf37..mV"
+    "__Host-cc=us; __Host-steamdb=9202041-26f77e871cbf96a54c7715ea7140f4ea890805ff; cf_clearance=LYff3Qt_C.DyK6Pt1iYs5EKaN.JjtwGBU6QOiiql9QI-1772814615-1.2.1.1-Xhgg55HSLjReQqSclPmuguY76UmP0KQ_qKBiXrkdMREXYLoOZEqNxIVld_xamAf8q6PM85.e73FfKEk.4eskudmSGFC9Qo4AtkF80lSrhL5GKSyN5rOPXDu68N.keMEJ7dTYY.035NELI6Q99r4xBeNGYbGo1jCbxqTyPuauZHeVx5aCyFOO3GPsR4FJ44Rf_gFtsH6fbXERXHjb_kD1YbHlpeOC8VPU1szCPvzetizPKNohqI1hJsvArzqOeZM6"
 )
 
 USER_AGENT = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36"
+    "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36"
 )
 
 API_URL       = "https://steamdb.info/api/GetGraphReviewsLoggedIn/"
