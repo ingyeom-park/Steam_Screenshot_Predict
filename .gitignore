@@ -1,6 +1,8 @@
-Real/01 steamDB review/
-Real/02 steam appdetails snapshot/02_Steam_Appdetails_snapshot_raw/
-Real/03 SteamSpy UserTags/03_UserTags_raw/
-Real/04a steam screenshots/
-Real/04b steam thumbnails
-Real/06 opencv features
+__pycache__/
+*.pyc
+
+pipeline/local_config.py
+
+data/raw/
+data/interim/
+data/processed/
