@@ -23,11 +23,12 @@ INTERIM_DIR = DATA_DIR / "interim"
 PROCESSED_DIR = DATA_DIR / "processed"
 
 APP_LIST_DIR = RAW_DIR / "01_steamdb_app_list"
-APP_LIST_CSV = APP_LIST_DIR / "01_steamdb_app_list.csv"
+APP_LIST_CSV = APP_LIST_DIR / "01_steamdb_app_list_10.csv"
 
 STEAMDB_REVIEW_DIR = RAW_DIR / "01_steamdb_review_history"
 STEAMDB_REVIEW_CSV = STEAMDB_REVIEW_DIR / "01_steamdb_review_history.csv"
 STEAMDB_REVIEW_DONE_CSV = STEAMDB_REVIEW_DIR / "01_steamdb_review_done_appids.csv"
+STEAMDB_REVIEW_FAILED_CSV = STEAMDB_REVIEW_DIR / "01_steamdb_review_failed_appids.csv"
 
 APPDETAILS_DIR = RAW_DIR / "02_steam_appdetails"
 APPDETAILS_JSON_DIR = APPDETAILS_DIR / "json"

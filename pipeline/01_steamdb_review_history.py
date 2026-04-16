@@ -10,6 +10,7 @@
 [출력 파일]
     data/raw/01_steamdb_review_history/01_steamdb_review_history.csv
     data/raw/01_steamdb_review_history/01_steamdb_review_done_appids.csv
+    data/raw/01_steamdb_review_history/01_steamdb_review_failed_appids.csv
 
 [주의]
     SteamDB 로그인 쿠키는 pipeline/local_config.py 에서 관리한다.
@@ -24,6 +25,8 @@ import time
 from pathlib import Path
 
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 from tqdm import tqdm
 
 from local_config import DEFAULT_USER_AGENT, STEAMDB_COOKIE
@@ -32,17 +35,21 @@ from project_paths import (
     STEAMDB_REVIEW_CSV,
     STEAMDB_REVIEW_DIR,
     STEAMDB_REVIEW_DONE_CSV,
+    STEAMDB_REVIEW_FAILED_CSV,
 )
 
 INPUT_CSV  = APP_LIST_CSV
 OUTPUT_CSV = STEAMDB_REVIEW_CSV
 DONE_CSV   = STEAMDB_REVIEW_DONE_CSV
-COOKIE = STEAMDB_COOKIE
+FAILED_CSV = STEAMDB_REVIEW_FAILED_CSV
+COOKIE     = STEAMDB_COOKIE
 USER_AGENT = DEFAULT_USER_AGENT
 
-API_URL       = "https://steamdb.info/api/GetGraphReviewsLoggedIn/"
-REQUEST_DELAY = 5.0   # 초 (SteamDB는 매우 민감하므로 기본 딜레이 상향)
-RETRY_WAIT    = 60    # 429 발생 시 대기 초
+API_URL             = "https://steamdb.info/api/GetGraphReviewsLoggedIn/"
+REQUEST_DELAY       = 5.0   # 초 (SteamDB는 매우 민감하므로 기본 딜레이 상향)
+RETRY_WAIT_BASE     = 60    # 429 발생 시 기본 대기 초 (지수 백오프 기준값)
+MAX_RETRY_WAIT      = 600   # 지수 백오프 상한 (초)
+SESSION_RESET_EVERY = 50    # N건마다 세션 재생성 (세션 기반 핑거프린팅 회피)
 
 FIELDNAMES = [
     "AppID", "GameName", "date",
@@ -53,15 +60,32 @@ FIELDNAMES = [
 
 
 # ──────────────────────────────────────────────
+# 세션 생성
+# ──────────────────────────────────────────────
+def make_session():
+    """500/502/503/504 에 대한 자동 재시도 어댑터가 달린 세션을 반환한다."""
+    session = requests.Session()
+    retry = Retry(
+        total=3,
+        backoff_factor=2,
+        status_forcelist=[500, 502, 503, 504],
+        allowed_methods=["GET"],
+    )
+    adapter = HTTPAdapter(max_retries=retry)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
+
+
+# ──────────────────────────────────────────────
 # 헬퍼
 # ──────────────────────────────────────────────
 def load_apps(csv_path):
     rows = []
-    f = open(csv_path, "r", encoding="utf-8-sig")
-    reader = csv.DictReader(f)
-    for r in reader:
-        rows.append({"AppID": r["AppID"].strip(), "GameName": r["GameName"].strip()})
-    f.close()
+    with open(csv_path, "r", encoding="utf-8-sig") as f:
+        reader = csv.DictReader(f)
+        for r in reader:
+            rows.append({"AppID": r["AppID"].strip(), "GameName": r["GameName"].strip()})
     return rows
 
 
@@ -69,25 +93,25 @@ def load_done_appids(done_path):
     if not Path(done_path).exists():
         return set()
     done = set()
-    f = open(done_path, "r", encoding="utf-8-sig")
-    reader = csv.DictReader(f)
-    for r in reader:
-        done.add(r["AppID"].strip())
-    f.close()
+    with open(done_path, "r", encoding="utf-8-sig") as f:
+        reader = csv.DictReader(f)
+        for r in reader:
+            done.add(r["AppID"].strip())
     return done
 
 
-def fetch_reviews(appid, session):
+def fetch_reviews(appid, session, retry_wait):
     headers = {
         "accept": "application/json",
         "accept-encoding": "gzip, deflate",
         "accept-language": "ko-KR,ko;q=0.8",
         "cookie": COOKIE,
+        "priority": "u=1, i",
         "referer": f"https://steamdb.info/app/{appid}/charts/",
-        "sec-ch-ua": '"Not:A-Brand";v="99", "Brave";v="145", "Chromium";v="145"',
+        "sec-ch-ua": '"Brave";v="147", "Not.A/Brand";v="8", "Chromium";v="147"',
         "sec-ch-ua-arch": '"x86"',
         "sec-ch-ua-bitness": '"64"',
-        "sec-ch-ua-full-version-list": '"Not:A-Brand";v="99.0.0.0", "Brave";v="145.0.0.0", "Chromium";v="145.0.0.0"',
+        "sec-ch-ua-full-version-list": '"Brave";v="147.0.0.0", "Not.A/Brand";v="8.0.0.0", "Chromium";v="147.0.0.0"',
         "sec-ch-ua-mobile": "?0",
         "sec-ch-ua-model": '""',
         "sec-ch-ua-platform": '"Windows"',
@@ -100,12 +124,28 @@ def fetch_reviews(appid, session):
         "x-requested-with": "XMLHttpRequest",
     }
 
-    resp = session.get(API_URL, params={"appid": appid}, headers=headers, timeout=30)
-
-    if resp.status_code == 429:
-        tqdm.write(f"  [429] Rate-limited. {RETRY_WAIT}초 대기 후 재시도...")
-        time.sleep(RETRY_WAIT)
+    # 네트워크 예외 처리 (타임아웃, 연결 끊김 등)
+    try:
         resp = session.get(API_URL, params={"appid": appid}, headers=headers, timeout=30)
+    except requests.exceptions.Timeout:
+        tqdm.write(f"  [TIMEOUT] AppID={appid} - 타임아웃")
+        return "NETWORK_ERROR"
+    except requests.exceptions.ConnectionError as e:
+        tqdm.write(f"  [CONN ERR] AppID={appid} - 연결 오류: {e}")
+        return "NETWORK_ERROR"
+    except requests.exceptions.RequestException as e:
+        tqdm.write(f"  [REQ ERR] AppID={appid} - 요청 오류: {e}")
+        return "NETWORK_ERROR"
+
+    # 429: 지수 백오프 적용 후 1회 재시도
+    if resp.status_code == 429:
+        tqdm.write(f"  [429] Rate-limited. {retry_wait}초 대기 후 재시도...")
+        time.sleep(retry_wait)
+        try:
+            resp = session.get(API_URL, params={"appid": appid}, headers=headers, timeout=30)
+        except requests.exceptions.RequestException as e:
+            tqdm.write(f"  [REQ ERR] 재시도 중 오류: {e}")
+            return "NETWORK_ERROR"
 
     if resp.status_code == 429:
         return "RATE_LIMIT"
@@ -121,7 +161,6 @@ def fetch_reviews(appid, session):
         tqdm.write(f"  [EMPTY] AppID={appid} - 응답 바디 없음, 건너뜀")
         return None
 
-    parsed = None
     try:
         parsed = resp.json()
     except Exception:
@@ -150,6 +189,7 @@ def parse_review_data(appid, game_name, data):
         dt        = datetime.datetime.fromtimestamp(ts, tz=datetime.timezone.utc).strftime("%Y-%m-%d")
         cum_p     = values_p[i]
         cum_n     = values_n[i]
+
         cum_total = cum_p + cum_n
 
         if i == 0:
@@ -205,68 +245,111 @@ def main():
     eta_str = str(datetime.timedelta(seconds=int(eta_sec)))
     print(f"예상 소요 시간: 약 {eta_str}  (딜레이 {REQUEST_DELAY}초 기준, 실제는 더 걸릴 수 있음)\n")
 
-    out_file_exists  = Path(OUTPUT_CSV).exists()
-    out_f            = open(OUTPUT_CSV, "a", newline="", encoding="utf-8-sig")
-    out_writer       = csv.DictWriter(out_f, fieldnames=FIELDNAMES)
-    if not out_file_exists:
-        out_writer.writeheader()
+    out_file_exists    = Path(OUTPUT_CSV).exists()
+    done_file_exists   = Path(DONE_CSV).exists()
+    failed_file_exists = Path(FAILED_CSV).exists()
 
-    done_file_exists = Path(DONE_CSV).exists()
-    done_f           = open(DONE_CSV, "a", newline="", encoding="utf-8-sig")
-    done_writer      = csv.DictWriter(done_f, fieldnames=["AppID"])
-    if not done_file_exists:
-        done_writer.writeheader()
+    out_f    = open(OUTPUT_CSV, "a", newline="", encoding="utf-8-sig")
+    done_f   = open(DONE_CSV,   "a", newline="", encoding="utf-8-sig")
+    failed_f = open(FAILED_CSV, "a", newline="", encoding="utf-8-sig")
 
-    session = requests.Session()
-    success = 0
-    fail    = 0
-    consecutive_429 = 0
+    try:
+        out_writer    = csv.DictWriter(out_f,    fieldnames=FIELDNAMES)
+        done_writer   = csv.DictWriter(done_f,   fieldnames=["AppID"])
+        failed_writer = csv.DictWriter(failed_f, fieldnames=["AppID", "reason"])
 
-    pbar = tqdm(remaining, total=left, unit="game",
-                bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}, {rate_fmt}]")
+        if not out_file_exists:
+            out_writer.writeheader()
+        if not done_file_exists:
+            done_writer.writeheader()
+        if not failed_file_exists:
+            failed_writer.writeheader()
 
-    for app in pbar:
-        AppID    = app["AppID"]
-        GameName = app["GameName"]
+        session         = make_session()
+        success         = 0
+        fail            = 0
+        consecutive_429 = 0
+        retry_wait      = RETRY_WAIT_BASE
+        request_count   = 0
 
-        pbar.set_description(f"{GameName[:30]:<30}")
+        pbar = tqdm(remaining, total=left, unit="game",
+                    bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}, {rate_fmt}]")
 
-        data = fetch_reviews(AppID, session)
+        for app in pbar:
+            AppID    = app["AppID"]
+            GameName = app["GameName"]
 
-        if data == "RATE_LIMIT":
-            consecutive_429 += 1
-            fail += 1
-            if consecutive_429 >= 3:
-                tqdm.write("\n[CRITICAL] 3회 연속 429 에러 발생. 프로그램을 종료합니다.")
-                break
-            tqdm.write(f"  [429] 연속 발생 ({consecutive_429}/3). 5분간 강제 휴식 후 다음 게임 시도...")
-            time.sleep(300)
-            continue
+            pbar.set_description(f"{GameName[:30]:<30}")
 
-        elif data is None:
-            consecutive_429 = 0
-            fail += 1
-            tqdm.write(f"  [FAIL] {AppID} | {GameName}")
-            continue
-        else:
-            consecutive_429 = 0
-            rows = parse_review_data(AppID, GameName, data)
-            out_writer.writerows(rows)
-            out_f.flush()
-            success += 1
-            tqdm.write(f"  [OK]   {AppID} | {GameName} | {len(rows)}일치")
+            # 주기적으로 세션 재생성 (세션 기반 핑거프린팅 차단 회피)
+            request_count += 1
+            if request_count % SESSION_RESET_EVERY == 0:
+                session.close()
+                session = make_session()
+                tqdm.write(f"  [SESSION] 세션 재생성 ({request_count}번째 요청)")
 
-        done_writer.writerow({"AppID": AppID})
-        done_f.flush()
+            data = fetch_reviews(AppID, session, retry_wait=retry_wait)
 
-        # 고정된 요청 패턴을 피하기 위해 랜덤 딜레이 추가
-        time.sleep(REQUEST_DELAY + random.uniform(0, 3))
+            if data == "RATE_LIMIT":
+                consecutive_429 += 1
+                fail += 1
+                retry_wait = min(retry_wait * 2, MAX_RETRY_WAIT)  # 지수 백오프
+                failed_writer.writerow({"AppID": AppID, "reason": "RATE_LIMIT"})
+                failed_f.flush()
+                if consecutive_429 >= 3:
+                    tqdm.write("\n[CRITICAL] 3회 연속 429 에러 발생. 프로그램을 종료합니다.")
+                    break
+                tqdm.write(f"  [429] 연속 발생 ({consecutive_429}/3). 5분간 강제 휴식 후 다음 게임 시도...")
+                time.sleep(300)
+                continue
 
-    out_f.close()
-    done_f.close()
+            elif data == "NETWORK_ERROR":
+                consecutive_429 = 0
+                fail += 1
+                failed_writer.writerow({"AppID": AppID, "reason": "NETWORK_ERROR"})
+                failed_f.flush()
+                tqdm.write(f"  [FAIL/NET] {AppID} | {GameName}")
+                time.sleep(REQUEST_DELAY)
+                continue
+
+            elif data is None:
+                consecutive_429 = 0
+                fail += 1
+                failed_writer.writerow({"AppID": AppID, "reason": "API_FAIL"})
+                failed_f.flush()
+                tqdm.write(f"  [FAIL] {AppID} | {GameName}")
+                continue
+
+            else:
+                consecutive_429 = 0
+                retry_wait = RETRY_WAIT_BASE  # 성공 시 백오프 초기화
+                rows = parse_review_data(AppID, GameName, data)
+                if not rows:
+                    tqdm.write(f"  [EMPTY DATA] {AppID} | {GameName} - 파싱 결과 없음")
+                    failed_writer.writerow({"AppID": AppID, "reason": "EMPTY_DATA"})
+                    failed_f.flush()
+                    fail += 1
+                    continue
+                out_writer.writerows(rows)
+                out_f.flush()
+                success += 1
+                tqdm.write(f"  [OK]   {AppID} | {GameName} | {len(rows)}일치")
+
+            done_writer.writerow({"AppID": AppID})
+            done_f.flush()
+
+            # 고정된 요청 패턴을 피하기 위해 랜덤 딜레이 추가
+            time.sleep(REQUEST_DELAY + random.uniform(0, 5))
+
+    finally:
+        out_f.close()
+        done_f.close()
+        failed_f.close()
+        session.close()
 
     print(f"\n완료 - 성공: {success}개  실패: {fail}개")
     print(f"결과 저장 -> {OUTPUT_CSV}")
+    print(f"실패 목록 -> {FAILED_CSV}")
 
 
 if __name__ == "__main__":
